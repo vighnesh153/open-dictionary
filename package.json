@@ -1,0 +1,32 @@
+{
+  "name": "open-dictionary",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "prettier": "@vighnesh153/prettier-config",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "tsup",
+    "new-word:script": "node ./dist/new-word.js",
+    "new-word": "run-s clean build \"new-word:script -- {1}\" --"
+  },
+  "author": {
+    "name": "Vighnesh Raut",
+    "url": "https://vighnesh153.com",
+    "email": "me@vighnesh153.com"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "@vighnesh153/prettier-config": "^0.4.4",
+    "@vighnesh153/tsconfig": "^0.4.4",
+    "eslint-config-vighnesh153": "^0.4.4",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.8.7",
+    "rimraf": "^5.0.0",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4"
+  }
+}
