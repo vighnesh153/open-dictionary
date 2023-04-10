@@ -1,6 +1,8 @@
 # open-dictionary
 
-An initiative to create a dictionary which is open to all and maintained by all.
+An initiative to create an **English** dictionary which is open to all and maintained by all
+
+> This dictionary is only for the English language. Please don't create issues requesting to add other languages
 
 ## Why?
 
