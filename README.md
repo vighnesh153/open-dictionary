@@ -6,9 +6,9 @@ An initiative to create an **English** dictionary which is open to all and maint
 
 ## Why?
 
-* No free API
-* No reliable source as an API
-* No easy-to-use API
+* No other free API
+* No other reliable source as an API
+* No other easy-to-use API
 * GitHub's servers are more reliable than a custom host managed by a small group of people without any funding
 
 ## Where do I source my data from?
