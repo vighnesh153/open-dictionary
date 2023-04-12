@@ -4,6 +4,14 @@ An initiative to create an **English** dictionary which is open to all and maint
 
 > This dictionary is only for the English language. Please don't create issues requesting to add other languages
 
+## How to use?
+
+[//]: # (TODO)
+
+## API Contract for a word
+
+[//]: # (TODO)
+
 ## Why?
 
 * No other free API
