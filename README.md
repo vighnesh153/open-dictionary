@@ -8,10 +8,6 @@ An initiative to create an **English** dictionary which is open to all and maint
 
 [//]: # (TODO)
 
-## API Contract for a word
-
-[//]: # (TODO)
-
 ## Why?
 
 * No other free API
@@ -21,10 +17,43 @@ An initiative to create an **English** dictionary which is open to all and maint
 
 ## Where do I source my data from?
 
-I just search a word on wiktionary. For example:
+A simple search on wiktionary. For example:
 
 * Apple: https://en.wiktionary.org/wiki/apple
 * Running: https://en.wiktionary.org/wiki/running
+
+## Type Definition (API Contract)
+
+The `json` files will have a type of `WordWiki` described below:
+
+```ts
+interface WordWiki {
+    word: string;
+    etymologies: Array<Etymology>;
+}
+
+interface Etymology {
+    description: Array<string>;
+    nouns: Array<PartOfSpeech>;
+    verbs: Array<PartOfSpeech>;
+    adjectives: Array<PartOfSpeech>;
+    prepositions: Array<PartOfSpeech>;
+    adverbs: Array<PartOfSpeech>;
+}
+
+interface PartOfSpeech {
+    description: string;
+    definitionGroups: Array<DefinitionGroup>;
+}
+
+interface DefinitionGroup {
+    description: string;
+    entries: Array<{
+        meaning: string;
+        examples: Array<string>;
+    }>;
+}
+```
 
 ## Contributions
 

@@ -11,10 +11,12 @@ function textContent(node: Element): string {
   return node.textContent?.trim() ?? '';
 }
 
-function removeEditButtons() {
-  const editBtnClass = '.mw-editsection';
-  const editButtons = document.querySelectorAll(editBtnClass);
-  editButtons.forEach((e) => e.remove());
+function removeUnwantedNodes() {
+  const classes = ['mw-editsection', 'HQToggle']
+  classes.forEach((cssClass) => {
+    const nodes = document.querySelectorAll(`.${cssClass}`);
+    nodes.forEach((e) => e.remove());
+  })
 }
 
 function getSection(elements: Element[], headingNodeName: string, headingTextContent: string): Element[] {
@@ -39,14 +41,15 @@ function iterateOverSubsections(sections: Element[], heading: string) {
   const subsectionTitles = ['Verb', 'Adjective', 'Noun', 'Adverb', 'Preposition'];
   subsectionTitles.forEach((subsectionTitle) => {
     const subsection = getSection(sections, heading, subsectionTitle);
-    if (subsection.length > 0) {
-      console.log(subsectionTitle, subsection);
-    }
+    if (subsection.length === 0) return;
+    console.log(subsectionTitle, subsection);
+    // TODO: determine children heading would be h4 or h5 based on parent heading (h3 or h4)
+    // eg: Derived terms, Hypernyms
   });
 }
 
 function main() {
-  removeEditButtons();
+  removeUnwantedNodes();
   const englishTextSection = getEnglishTextSection();
 
   englishTextSection.forEach((node) => {
