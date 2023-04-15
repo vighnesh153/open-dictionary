@@ -4,15 +4,19 @@ import { parseSections } from './parseSections';
 import { getEtymologySectionsCount } from './getEtymologySectionsCount';
 import { parseConsecutiveParagraphsAfterHeading } from './parseConsecutiveParagraphsAfterHeading';
 import { findPartsOfSpeech } from './findPartsOfSpeech';
+import { textContent } from './textContent';
 
-export function parseWordWiki(word: string, elements: Element[]): WordWiki {
+const word = textContent(document.querySelector('#firstHeading') ?? document.createElement('div'));
+const definitionsContainerChildren = Array.from(document.querySelector('.mw-parser-output')?.children ?? []);
+
+export function parseWordWiki(): WordWiki {
   const wordWiki: WordWiki = {
     word,
     etymologies: [],
   };
 
   removeUnwantedNodes();
-  const englishTextSection = parseSections(elements, 'H2', 'English')[0];
+  const englishTextSection = parseSections(definitionsContainerChildren, 'H2', 'English')[0];
 
   const etymologyCount = getEtymologySectionsCount(englishTextSection);
   /**
