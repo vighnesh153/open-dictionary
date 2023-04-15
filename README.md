@@ -6,21 +6,21 @@ An initiative to create an **English** dictionary which is open to all and maint
 
 ## How to use?
 
-[//]: # (TODO)
+[//]: # 'TODO'
 
 ## Why?
 
-* No other free API
-* No other reliable source as an API
-* No other easy-to-use API
-* GitHub's servers are more reliable than a custom host managed by a small group of people without any funding
+- No other free API
+- No other reliable source as an API
+- No other easy-to-use API
+- GitHub's servers are more reliable than a custom host managed by a small group of people without any funding
 
 ## Where do I source my data from?
 
 A simple search on wiktionary. For example:
 
-* Apple: https://en.wiktionary.org/wiki/apple
-* Running: https://en.wiktionary.org/wiki/running
+- Apple: https://en.wiktionary.org/wiki/apple
+- Running: https://en.wiktionary.org/wiki/running
 
 ## Type Definition (API Contract)
 
@@ -28,30 +28,30 @@ The `json` files will have a type of `WordWiki` described below:
 
 ```ts
 interface WordWiki {
-    word: string;
-    etymologies: Array<Etymology>;
+  word: string;
+  etymologies: Array<Etymology>;
 }
 
 interface Etymology {
-    description: Array<string>;
-    nouns: Array<PartOfSpeech>;
-    verbs: Array<PartOfSpeech>;
-    adjectives: Array<PartOfSpeech>;
-    prepositions: Array<PartOfSpeech>;
-    adverbs: Array<PartOfSpeech>;
+  description: Array<string>;
+  nouns: Array<PartOfSpeech>;
+  verbs: Array<PartOfSpeech>;
+  adjectives: Array<PartOfSpeech>;
+  prepositions: Array<PartOfSpeech>;
+  adverbs: Array<PartOfSpeech>;
 }
 
 interface PartOfSpeech {
-    description: string;
-    definitionGroups: Array<DefinitionGroup>;
+  description: string;
+  definitionGroups: Array<DefinitionGroup>;
 }
 
 interface DefinitionGroup {
-    description: string;
-    entries: Array<{
-        meaning: string;
-        examples: Array<string>;
-    }>;
+  description: string;
+  entries: Array<{
+    meaning: string;
+    examples: Array<string>;
+  }>;
 }
 ```
 
@@ -65,10 +65,10 @@ Checkout the [Contributions guide](./CONTRIBUTING.md)
 
 https://dictionaryapi.dev/ is an excellent tool for getting the word definitions. It has a few drawbacks though:
 
-* It is hosted on the author's server which is not reliable. Lot of people have reported it being unavailable or getting
+- It is hosted on the author's server which is not reliable. Lot of people have reported it being unavailable or getting
   rate limit throttled
-* Author makes use
-  of [undocumented Google API](https://github.com/meetDeveloper/freeDictionaryAPI/blob/239fd2ec930eb2a9c947bf1dda84292290797003/modules/dictionary.js#L138-L142)
+- Author makes use of
+  [undocumented Google API](https://github.com/meetDeveloper/freeDictionaryAPI/blob/239fd2ec930eb2a9c947bf1dda84292290797003/modules/dictionary.js#L138-L142)
   to fetch the definition and the Google API looks very fragile. If Google decides to change the output, the Author's
   API will break or return malformed response.
-* Author parses the free text in a type unsafe manner which is dangerous and difficult to debug
+- Author parses the free text in a type unsafe manner which is dangerous and difficult to debug

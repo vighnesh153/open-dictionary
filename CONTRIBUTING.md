@@ -5,10 +5,10 @@ describing the bug or new-word request and if you could create a pull request to
 
 ## How to contribute?
 
-* You need node installed on your system. Prefer [nvm](https://github.com/nvm-sh/nvm) to install
-* Fork the repository
-* Clone the forked repository
-* Create a new branch
+- You need node installed on your system. Prefer [nvm](https://github.com/nvm-sh/nvm) to install
+- Fork the repository
+- Clone the forked repository
+- Create a new branch
 
 ```shell
 git checkout -b <your-word>
@@ -17,7 +17,7 @@ git checkout -b <your-word>
 # git checkout -b banana
 ```
 
-* Create the file for the word
+- Create the file for the word
 
 ```shell
 npm run new-word <your-word>
@@ -26,10 +26,10 @@ npm run new-word <your-word>
 # npm run new-word banana
 ```
 
-* Fetch the word info from this link: https://en.wiktionary.org/wiki/<your-word>
-* Edit the `_.json` file in your word's directory in the specified format
-* Verify if the format and the information is correct.
-* Commit your changes
+- Fetch the word info from this link: https://en.wiktionary.org/wiki/<your-word>
+- Edit the `_.json` file in your word's directory in the specified format
+- Verify if the format and the information is correct.
+- Commit your changes
 
 ```shell
 git commit -m "feat: add word <your-word>"
@@ -38,5 +38,5 @@ git commit -m "feat: add word <your-word>"
 # git commit -m "feat: add word banana"
 ```
 
-* Push the change to your repository
-* Raise a pull request against this repository
+- Push the change to your repository
+- Raise a pull request against this repository
