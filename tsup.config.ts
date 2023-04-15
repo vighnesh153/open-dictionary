@@ -3,7 +3,7 @@ import { defineConfig } from 'tsup';
 export default defineConfig(() => ({
   entry: {
     'new-word': './src/new-word.ts',
-    'grab-definition': './src/grab-definition.ts',
+    'playground': './src/playground.ts',
   },
   splitting: false,
   clean: true,

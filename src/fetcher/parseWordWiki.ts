@@ -6,16 +6,16 @@ import { parseConsecutiveParagraphsAfterHeading } from './parseConsecutiveParagr
 import { findPartsOfSpeech } from './findPartsOfSpeech';
 import { textContent } from './textContent';
 
-const word = textContent(document.querySelector('#firstHeading') ?? document.createElement('div'));
-const definitionsContainerChildren = Array.from(document.querySelector('.mw-parser-output')?.children ?? []);
+export function parseWordWiki(document: Document): WordWiki {
+  const word = textContent(document.querySelector('#firstHeading') ?? document.createElement('div'));
+  const definitionsContainerChildren = Array.from(document.querySelector('.mw-parser-output')?.children ?? []);
 
-export function parseWordWiki(): WordWiki {
   const wordWiki: WordWiki = {
     word,
     etymologies: [],
   };
 
-  removeUnwantedNodes();
+  removeUnwantedNodes(document);
   const englishTextSection = parseSections(definitionsContainerChildren, 'H2', 'English')[0];
 
   const etymologyCount = getEtymologySectionsCount(englishTextSection);
