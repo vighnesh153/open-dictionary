@@ -25,7 +25,7 @@ import { textContent } from './textContent';
  */
 export function parseDefinitionGroupEntry(listItem: Element): DefinitionGroup['entries'][number] {
   const examples: string[] = [];
-  const dl = listItem.querySelector('dl');
+  const dl = listItem.querySelector('li > dl');
   Array.from(dl?.children ?? []).forEach((dd) => {
     examples.push(textContent(dd));
   });
