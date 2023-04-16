@@ -1,0 +1,84 @@
+{
+  "word": "anneal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English anelen, onelen, from Old English onǣlan (“to burn, ignite, set fire to, consume, heat, enlighten, incite, inflame, inspire, kindle”), from Proto-Germanic *ana (“on”) + Proto-Germanic *ailijaną (“to burn”), from Proto-Indo-European *h₂eydʰ- (“to burn”).",
+        "The word is related to Old English onāl (“that which is burnt, burning; incense”), Old English āl (“fire, burning”), Icelandic eldur (“fire”), Swedish eld (“fire, flame”), Danish ild (“fire”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "anneal (plural anneals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, metallurgy) An act of annealing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "anneal (third-person singular simple present anneals, present participle annealing, simple past and past participle annealed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(metallurgy) To subject to great heat and then (often slow) cooling, and sometimes reheating and further cooling, for the purpose of rendering less brittle; to temper; to toughen.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cool glass slowly, to minimize internal stress.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) To burn colors onto a glass or other surface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics, transitive, intransitive) To make a double-stranded nucleic acid by pairing a single strand with a complementary strand.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, archaic or poetic) To strengthen or harden.",
+                  "examples": [
+                    "The experience annealed them, strengthening their resolve."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
