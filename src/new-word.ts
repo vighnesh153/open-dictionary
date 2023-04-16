@@ -5,6 +5,9 @@ const word = process.argv[2];
 
 const wordPath = path.join('.', 'data', ...word.split(''), '_.json');
 
+
+dsddsds
+
 if (fs.existsSync(wordPath)) {
   throw new Error(`Word "${word}" already exists at "${wordPath}"`);
 }
