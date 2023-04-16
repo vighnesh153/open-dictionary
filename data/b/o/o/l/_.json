@@ -1,0 +1,57 @@
+{
+  "word": "bool",
+  "etymologies": [
+    {
+      "description": [
+        "From a keyword in C++ and derived programming languages, short for Boolean."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bool (plural bools)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A Boolean variable (one whose value is either true or false).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Likely from replacement of the 'c' in cool."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bool (third-person singular simple present bools, present participle booling, simple past and past participle booled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) To relax or hang out (especially with someone).",
+                  "examples": [
+                    "I'm going to go bool with the boys."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
