@@ -1,0 +1,52 @@
+{
+  "word": "backwardation",
+  "etymologies": [
+    {
+      "description": [
+        "From backward +‎ -ation (suffix denoting an action or process)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "backwardation (countable and uncountable, plural backwardations) (stock market)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In full normal backwardation: the situation in a futures market where the price for future delivery of a commodity (the forward price) is lower than the price for immediate delivery (the spot price) or nearer delivery, generally arising from a near-term shortage of the commodity.",
+                  "examples": [
+                    "Antonyms: contango, forwardation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The situation in a stock market where the offer price for stock is lower than the bid price.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) In the London Stock Exchange: a fee paid by a seller on settlement day either to the buyer or to a third party who lends stock, when the seller wishes to defer settlement until the next settlement day.",
+                  "examples": [
+                    "Antonym: contango"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
