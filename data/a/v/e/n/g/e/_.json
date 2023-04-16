@@ -1,0 +1,76 @@
+{
+  "word": "avenge",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English avengen, borrowed from Old French avengier, from a- (“upon”) + vengier, from Latin vindicō, vindicāre."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "avenge (plural avenges)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) An act of vengeance; a revenge.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "avenge (third-person singular simple present avenges, present participle avenging, simple past and past participle avenged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take vengeance (for); to exact satisfaction for by punishing the injuring party; to vindicate by inflicting pain or evil on a wrongdoer.",
+                  "examples": [
+                    "to avenge the murder of his brother"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(reflexive) To revenge oneself (on or upon someone).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To take vengeance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To treat revengefully; to wreak vengeance on.",
+                  "examples": [
+                    "thy judgment in avenging thine enemies"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
