@@ -1,0 +1,119 @@
+{
+  "word": "antecedent",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English antecedent, borrowed from Old French antecedent, from Latin antecēdēns (“going before”), from antecēdō (“to precede; excel; surpass”)."
+      ],
+      "adjectives": [
+        {
+          "description": "antecedent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Earlier, either in time or in order.",
+                  "examples": [
+                    "an event antecedent to the Biblical Flood",
+                    "an antecedent cause"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Presumptive.",
+                  "examples": [
+                    "an antecedent improbability"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "antecedent (plural antecedents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any thing that precedes another thing, especially the cause of the second thing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An ancestor.",
+                  "examples": [
+                    "The Boston agent added that this clerk was a young man of wholly unquestioned veracity and reliability, of known antecedents and long with the company."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word, phrase or clause referred to by a pronoun.",
+                  "examples": [
+                    "One such condition can be formulated in terms of the c-command relation defined in (9) above: the relevant condition is given in (16) below:(16) C-COMMAND CONDITION ON ANAPHORSAn anaphor must have an appropriate c-commanding antecedent"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The conditional part of a hypothetical proposition, i.e. \n  \n    \n      \n        p\n        →\n        q\n      \n    \n    {\\displaystyle p\\rightarrow q}\n  \n, where \n  \n    \n      \n        p\n      \n    \n    {\\displaystyle p}\n  \n is the antecedent, and \n  \n    \n      \n        q\n      \n    \n    {\\displaystyle q}\n  \n is the consequent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The first of two subsets of a sequent, consisting of all the sequent's formulae which are valuated as true.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The first term of a ratio, i.e. the term a in the ratio a:b, the other being the consequent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly in the plural) Previous principles, conduct, history, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
