@@ -1,0 +1,69 @@
+{
+  "word": "benchmark",
+  "etymologies": [
+    {
+      "description": [
+        "From bench +‎ mark. Originally (attested circa 1842) a mark cut into a stone by land surveyors to secure a \"bench\" (from 19th century land surveying jargon, meaning a type of bracket), to mount measuring equipment. Figurative sense attested circa 1884."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "benchmark (plural benchmarks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A standard by which something is evaluated or measured.",
+                  "examples": [
+                    "Is the pope Catholic? Forgive the posing of a question that is usually rhetorical, the absolute benchmark of certainty, and traditionally regarded as even more settled than the one pertaining to the lavatorial arrangements of bears."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A surveyor's mark made on some stationary object and shown on a map; used as a reference point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A computer program that is executed to assess the performance of the runtime environment.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "benchmark (third-person singular simple present benchmarks, present participle benchmarking, simple past and past participle benchmarked)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To measure the performance or quality of (an item) relative to another similar item in an impartial scientific manner.",
+              "entries": [
+                {
+                  "meaning": "(intransitive, followed by at) To give certain results in a benchmark test.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, intransitive, followed by against) To use something (e.g., a competitor's product) as a standard to improve one's own thing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
