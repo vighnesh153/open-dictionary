@@ -1,0 +1,56 @@
+{
+  "word": "accusative",
+  "etymologies": [
+    {
+      "description": [
+        "First attested in the mid 15th century. From Middle English accusative, from Anglo-Norman accusatif or Middle French acusatif or from Latin accūsātīvus (“having been blamed”), from accūsō (“to blame”).  Equivalent to accuse +‎ -ative. The Latin form is a mistranslation of the Ancient Greek grammatical term αἰτιᾱτική (aitiātikḗ, “expressing an effect”). This term actually comes from αἰτιᾱτός (aitiātós, “caused”) +‎ -ῐκός (-ikós, adjective suffix), but was reanalyzed as coming from αἰτιᾱ- (aitiā-), the stem of the verb αἰτιάομαι (aitiáomai, “to blame”), + -τῐκός (-tikós, verbal adjective suffix)."
+      ],
+      "adjectives": [
+        {
+          "description": "accusative (comparative more accusative, superlative most accusative)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Producing accusations; in a manner that reflects a finding of fault or blame",
+                  "examples": [
+                    "Synonyms: accusatory, accusatorial"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Applied to the case (as the fourth case of Latin, Lithuanian and Greek nouns) which expresses the immediate object on which the action or influence of a transitive verb has its limited influence. Other parts of speech, including secondary or predicate direct objects, will also influence a sentence’s construction. In German the case used for direct objects.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "accusative (plural accusatives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) The accusative case.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
