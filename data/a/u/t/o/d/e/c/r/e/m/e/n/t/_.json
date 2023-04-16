@@ -1,0 +1,45 @@
+{
+  "word": "autodecrement",
+  "etymologies": [
+    {
+      "description": [
+        "auto- +‎ decrement"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "autodecrement (plural autodecrements)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An automatic decrement.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "autodecrement (third-person singular simple present autodecrements, present participle autodecrementing, simple past and past participle autodecremented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To decrement automatically.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
