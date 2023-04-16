@@ -1,0 +1,56 @@
+{
+  "word": "abend",
+  "etymologies": [
+    {
+      "description": [
+        "Blend of abnormal +‎ end"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "abend (plural abends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The abnormal termination of a program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(IEEE) Termination of a process prior to completion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "abend (third-person singular simple present abends, present participle abending, simple past and past participle abended)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To terminate abnormally.",
+                  "examples": [
+                    "The nightly invoicing job abended at 3 a.m."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
