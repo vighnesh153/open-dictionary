@@ -1,0 +1,84 @@
+{
+  "word": "awk",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English [Term?], from Old Norse ǫfugr, ǫfigr, afigr (“turned backwards”) (whence Danish avet (“backwards”), Swedish avig (“turned backwards”)), from Proto-Germanic *abuhaz. Cognate with German äbich, Gothic 𐌹𐌱𐌿𐌺𐍃 (ibuks, “turned back”). Akin to Sanskrit अपाच् (apāc, “turned away”) . Compare dialectal Danish ave (“to turn”), Dutch averechts (“opposite, backwards, contrary”), Icelandic öfga (“to reverse”)."
+      ],
+      "adjectives": [
+        {
+          "description": "awk (comparative more awk, superlative most awk)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Odd; out of order; perverse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Wrong, or not commonly used; clumsy; sinister.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, UK, dialect) Clumsy in performance or manners; not dexterous; awkward.",
+                  "examples": [
+                    "Synonym: unhandy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US slang, of a situation) Awkward; uncomfortable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "awk (comparative more awk, superlative most awk)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Perversely; in the wrong way.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From the initial letters of the surnames of its authors: Alfred Aho, Peter Weinberger, and Brian Kernighan."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
