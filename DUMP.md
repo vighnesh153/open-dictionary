@@ -14,7 +14,7 @@ https://dumps.wikimedia.org/enwiktionary/latest/
 
 ## Sample wiktionary words
 
-URL: https://en.wiktionary.org/wiki/<word>
+URL: `https://en.wiktionary.org/wiki/<word>`
 
 - animal
 - avocado
