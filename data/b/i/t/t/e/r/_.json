@@ -1,0 +1,143 @@
+{
+  "word": "bitter",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English bitter, bittre, from Old English bitter, biter (“bitter”), from Proto-West Germanic *bit(t)r, from Proto-Germanic *bitraz (“bitter”), equivalent to bite +‎ -er (agent noun suffix) used attributively. Compare Saterland Frisian bitter (“bitter”), West Frisian bitter (“bitter”), Dutch bitter (“bitter”), Low German bitter (“bitter”), German bitter (“bitter”), Swedish bitter (“bitter”), Icelandic bitur (“bitter”)."
+      ],
+      "adjectives": [
+        {
+          "description": "bitter (comparative bitterer or more bitter, superlative bitterest or most bitter)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having an acrid taste (usually from a basic substance).",
+                  "examples": [
+                    "The coffee tasted bitter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Harsh, piercing or stinging.",
+                  "examples": [
+                    "It was at the end of February, […] when the world was cold, and a bitter wind howled down the moors […]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Hateful or hostile.",
+                  "examples": [
+                    "They're bitter enemies."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Cynical and resentful.",
+                  "examples": [
+                    "I've been bitter ever since that defeat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bitter (countable and uncountable, plural bitters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually in the plural bitters) A liquid or powder, made from bitter herbs, used in mixed drinks or as a tonic.",
+                  "examples": [
+                    "Thus I begin: \"All is not gold that glitters,",
+                    "\"Pleasure seems sweet, but proves a glass of bitters."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A type of beer heavily flavored with hops.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A turn of a cable about the bitts.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bitter (third-person singular simple present bitters, present participle bittering, simple past and past participle bittered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make bitter.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "bit +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bitter (plural bitters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, informal, in combination) A hardware system whose architecture is based around units of the specified number of bits (binary digits).",
+                  "examples": [
+                    "However, 16-bitters are far more expensive than the 8-bit variety. And, unfortunately, have only a handful of business applications software packages that really take advantage of them."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
