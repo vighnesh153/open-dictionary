@@ -1,0 +1,54 @@
+{
+  "word": "bounded",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "bounded (comparative more bounded, superlative most bounded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis, of a set) That can be enclosed within a ball of finite radius.",
+                  "examples": [
+                    "A compact set must be bounded."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory, order theory, of a poset X with partial order ≤) That contains a least element, a, and a greatest element, b, such that for all x ∈ X, a ≤ x ≤ b.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bounded",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of bound",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
