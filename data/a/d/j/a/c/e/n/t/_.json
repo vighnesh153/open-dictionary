@@ -1,0 +1,98 @@
+{
+  "word": "adjacent",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin adiacēns, adiacentis, derivative of adiaceo (“I lie beside”); from ad (“to”) + iaceo (“I lie down”)."
+      ],
+      "adjectives": [
+        {
+          "description": "adjacent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lying next to, close, or contiguous; neighboring; bordering on.",
+                  "examples": [
+                    "Synonyms: abutting, adjoining, contiguous, juxtaposed, near",
+                    "Antonyms: apart, distant, nonadjacent",
+                    "Because the conference room is filled, we will have our meeting in the adjacent room."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Just before, after, or facing.",
+                  "examples": [
+                    "The picture is on the adjacent page."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively, postpositive) Related to; suggestive of; bordering on.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "adjacent (plural adjacents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that lies next to something else, especially the side of a right triangle that is neither the hypotenuse nor the opposite.",
+                  "examples": [
+                    "Picking out the opposite, the adjacent, and the hypotenuse […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [
+        {
+          "description": "adjacent",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Next to; beside.",
+                  "examples": [
+                    "The house adjacent to the school was demolished.",
+                    "A notice was sent to the house adjacent the school."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Related to; suggestive of; bordering on.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": []
+    }
+  ]
+}
