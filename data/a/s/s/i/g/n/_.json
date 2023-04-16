@@ -1,0 +1,123 @@
+{
+  "word": "assign",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English assignen, from Old French assigner, asigner, from Latin assignō, from ad- + signō (“mark, sign”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "assign (plural assigns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An assignee.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A thing relating or belonging to something else; an appurtenance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) An assignment or appointment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A design or purpose.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "assign (third-person singular simple present assigns, present participle assigning, simple past and past participle assigned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To designate or set apart (something) for some purpose.",
+                  "examples": [
+                    "to assign a day for trial"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To appoint or select (someone) for some office.",
+                  "examples": [
+                    "to assign counsel for a prisoner"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To allot or give (something) as a task.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(transitive) To attribute or sort (something) into categories.",
+              "entries": [
+                {
+                  "meaning": "(LGBT) To categorize (someone) as belonging to the male or female sex.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To transfer (property, a legal right, etc.) from one person to another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To give (a value) to a variable.",
+                  "examples": [
+                    "We assign 100 to x."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
