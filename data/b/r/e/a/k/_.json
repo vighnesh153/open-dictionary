@@ -1,0 +1,829 @@
+{
+  "word": "break",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English breken, from Old English brecan (“to break”), from Proto-West Germanic *brekan, from Proto-Germanic *brekaną (“to break”), from Proto-Indo-European *bʰreg- (“to break”). The word is a doublet of bray."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "break (plural breaks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of breaking something into two or more pieces.",
+                  "examples": [
+                    "Synonym: split",
+                    "The femur has a clean break and so should heal easily."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A physical space that opens up in something or between two things.",
+                  "examples": [
+                    "Synonyms: breach, gap, space; see also Thesaurus:interspace, Thesaurus:hole",
+                    "The sun came out in a break in the clouds.",
+                    "He waited minutes for a break in the traffic to cross the highway."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "A rest or pause, usually from work.",
+              "entries": [
+                {
+                  "meaning": "(UK, education) A time for students to talk or play between lessons.",
+                  "examples": [
+                    "Synonyms: (UK) playtime, (US) recess"
+                  ]
+                },
+                {
+                  "meaning": "A scheduled interval of days or weeks between periods of school instruction; a holiday.",
+                  "examples": [
+                    "winter break, spring break"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A short holiday.",
+                  "examples": [
+                    "Synonyms: day off, time off; see also Thesaurus:vacation",
+                    "a weekend break on the Isle of Wight"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A temporary split with a romantic partner.",
+                  "examples": [
+                    "I think we need a break."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An interval or intermission between two parts of a performance, for example a theatre show, broadcast, or sports game.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A significant change in circumstance, attitude, perception, or focus of attention.",
+                  "examples": [
+                    "big break",
+                    "lucky break, bad break"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A sudden fall in prices on the stock exchange.",
+                  "examples": [
+                    "Following the invasion of France by the Germans in May of 1940, the securities markets experienced a break in prices."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The beginning (of the morning).",
+                  "examples": [
+                    "Synonyms: crack of dawn; see also Thesaurus:dawn",
+                    "daybreak",
+                    "at the break of day"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of escaping.",
+                  "examples": [
+                    "make a break for it, for the door",
+                    "It was a clean break.",
+                    "prison break"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The separation between lines, paragraphs or pages of a written text.",
+                  "examples": [
+                    "No matter how much text you add above the break, the text after the break will always appear at the top of a new page."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A keystroke or other signal that causes a program to terminate or suspend execution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Short for breakpoint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, weather) A change, particularly the end of a spell of persistent good or bad weather.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(sports and games):",
+              "entries": [
+                {
+                  "meaning": "(tennis) A game won by the receiving player(s).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(billiards, snooker, pool) The first shot in a game of billiards.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(snooker) The number of points scored by one player in one visit to the table.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(soccer) The counter-attack.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(golf) The curve imparted to the ball's motion on the green due to slope or grass texture.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(surfing) A place where waves break (that is, where waves pitch or spill forward creating white water).",
+                  "examples": [
+                    "The final break in the Greenmount area is Kirra Point."
+                  ]
+                },
+                {
+                  "meaning": "(horse racing) The start of a horse race.",
+                  "examples": [
+                    "Cigar was distracted at the break and let his five opponents get the jump."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A large four-wheeled carriage, having a straight body and calash top, with the driver's seat in front and the footman's behind.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(equitation) A sharp bit or snaffle.",
+                  "examples": [
+                    "Pampered jades  […]  which need nor break nor bit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A short section of music, often between verses, in which some performers stop while others continue.",
+                  "examples": [
+                    "The fiddle break was amazing; it was a pity the singer came back in on the wrong note."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The point in the musical scale at which a woodwind instrument is designed to overblow, that is, to move from its lower to its upper register.",
+                  "examples": [
+                    "Crossing the break smoothly is one of the first lessons the young clarinettist needs to master."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The transition area between a singer's vocal registers; the passaggio.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geography, chiefly in the plural) An area along a river that features steep banks, bluffs, or gorges (e.g., Upper Missouri River Breaks National Monument, US).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, slang) An error. [late 19th–early 20th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "break (third-person singular simple present breaks, present participle breaking, simple past broke or (archaic) brake, past participle broken or (nonstandard) broke)",
+          "definitionGroups": [
+            {
+              "group": "(transitive, intransitive) To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To crack or fracture (bone) under a physical strain.",
+                  "examples": [
+                    "His ribs broke under the weight of the rocks piled on his chest.",
+                    "She broke her neck.",
+                    "He slipped on the ice and broke his leg."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To divide (something, often money) into smaller units.",
+                  "examples": [
+                    "Can you break a hundred-dollar bill for me?",
+                    "The wholesaler broke the container loads into palettes and boxes for local retailers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive) To cause (a person or animal) to lose spirit or will; to crush the spirits of.",
+              "entries": [
+                {
+                  "meaning": "To turn an animal into a beast of burden.",
+                  "examples": [
+                    "Colonel: See, gentlemen? Any horse could be broken."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be crushed, or overwhelmed with sorrow or grief.",
+                  "examples": [
+                    "My heart is breaking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive) To interrupt; to destroy the continuity of; to dissolve or terminate.",
+              "entries": [
+                {
+                  "meaning": "(transitive, theater) To end the run of (a play).",
+                  "examples": [
+                    "In July Alexander broke the run and went on tour, as was his custom. He believed in keeping in touch with provincial audiences and how wise he was!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To ruin financially.",
+                  "examples": [
+                    "The recession broke some small businesses."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To fail in business; to go broke, to become bankrupt.",
+                  "examples": [
+                    "‘I knew he was in some such low way—He broke did not he?’"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, intransitive) Of prices on the stock exchange: to fall suddenly.",
+                  "examples": [
+                    "With a few exceptions, stock prices tend to follow the overall market averages. When you have a market decline, therefore, many stocks share the same overall chart pattern. Prices break and go sideways for a period of time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To violate; to fail to adhere to.",
+                  "examples": [
+                    "When you go to Vancouver, promise me you won't break the law.",
+                    "He broke his vows by cheating on his wife.",
+                    "break one's word",
+                    "Time travel would break the laws of physics."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a fever) To go down, in terms of temperature, indicating that the most dangerous part of the illness has passed.",
+                  "examples": [
+                    "Susan's fever broke at about 3 AM, and the doctor said the worst was over."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a spell of settled weather) To end.",
+                  "examples": [
+                    "The forecast says the hot weather will break by midweek."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a storm) To begin or end.",
+                  "examples": [
+                    "We ran to find shelter before the storm broke.",
+                    "Around midday the storm broke, and the afternoon was calm and sunny."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of morning, dawn, day etc.) To arrive.",
+                  "examples": [
+                    "Morning has broken.",
+                    "The day broke crisp and clear."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, gaming slang) To render (a game) unchallenging by altering its rules or exploiting loopholes or weaknesses in them in a way that gives a player an unfair advantage.",
+                  "examples": [
+                    "Changing the rules to let white have three extra queens would break chess.",
+                    "I broke the RPG by training every member of my party to cast fireballs as well as use swords."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive, intransitive) To stop, or to cause to stop, functioning properly or altogether.",
+              "entries": [
+                {
+                  "meaning": "(specifically, in programming) To cause (some feature of a program or piece of software) to stop functioning properly; to cause a regression.",
+                  "examples": [
+                    "Adding 64-bit support broke backward compatibility with earlier versions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive) To cause (a barrier) to no longer bar.",
+              "entries": [
+                {
+                  "meaning": "(specifically) To cause the shell of (an egg) to crack, so that the inside (yolk) is accessible.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(specifically) To open (a safe) without using the correct key, combination, or the like.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To destroy the arrangement of; to throw into disorder; to pierce.",
+                  "examples": [
+                    "The cavalry were not able to break the British squares."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a wave of water) To collapse into surf, after arriving in shallow water. A wave breaking.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To burst forth; to make its way; to come into view.",
+                  "examples": [
+                    "And from the turf a fountain broke, / And gurgled at our feet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To interrupt or cease one's work or occupation temporarily; to go on break.",
+                  "examples": [
+                    "Let's break for lunch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To interrupt (a fall) by inserting something so that the falling object does not (immediately) hit something else beneath.",
+                  "examples": [
+                    "He survived the jump out the window because the bushes below broke his fall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, ergative) To disclose or make known an item of news, a band, etc.",
+                  "examples": [
+                    "The newsman wanted to break a big story, something that would make him famous.",
+                    "I don't know how to break this to you, but your cat is not coming back.",
+                    "When news of their divorce broke, ..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a sound) To become audible suddenly.",
+                  "examples": [
+                    "Like the crash of thunderbolts[...], the sound of musquetry broke over the lawn, [...]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To change a steady state abruptly.",
+                  "examples": [
+                    "His coughing broke the silence.",
+                    "His turning on the lights broke the enchantment.",
+                    "With the mood broken, what we had been doing seemed pretty silly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, with for) To (attempt to) disengage and flee to; to make a run for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(copulative, informal) To suddenly become.",
+                  "examples": [
+                    "Things began breaking bad for him when his parents died.",
+                    "The arrest was standard, when suddenly the suspect broke ugly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a male voice) To become deeper at puberty.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a voice) To alter in type due to emotion or strain: in men, generally to go up, in women, sometimes to go down; to crack.",
+                  "examples": [
+                    "His voice breaks when he gets emotional."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To surpass or do better than (a specific number); to do better than (a record), setting a new record.",
+                  "examples": [
+                    "He broke the men's 100-meter record.",
+                    "I can't believe she broke 3 under par!",
+                    "The policeman broke sixty on a residential street in his hurry to catch the thief."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(sports and games):",
+              "entries": [
+                {
+                  "meaning": "(transitive, tennis) To win a game (against one's opponent) as receiver.",
+                  "examples": [
+                    "He needs to break serve to win the match."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive, billiards, snooker, pool) To make the first shot; to scatter the balls from the initial neat arrangement.",
+                  "examples": [
+                    "Is it your or my turn to break?"
+                  ]
+                },
+                {
+                  "meaning": "(transitive, backgammon) To remove one of the two men on (a point).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military, most often in the passive tense) To demote; to reduce the military rank of.",
+                  "examples": [
+                    "Sir Reginald Wingate, High Commissioner in Egypt, was happy for the success of the work he had advocated for years. I grudged him this happiness; for McMahon, who took the actual risk of starting it, had been broken just before prosperity began."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To end (a connection); to disconnect.",
+                  "examples": [
+                    "The referee ordered the boxers to break the clinch.",
+                    "The referee broke the boxers' clinch.",
+                    "I couldn't hear a thing he was saying, so I broke the connection and called him back."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of an emulsion) To demulsify.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, sports) To counter-attack.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To lay open, as a purpose; to disclose, divulge, or communicate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become weakened in constitution or faculties; to lose health or strength.",
+                  "examples": [
+                    "See how the dean begins to break; / Poor gentleman he droops apace."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To destroy the strength, firmness, or consistency of.",
+                  "examples": [
+                    "to break flax"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To destroy the official character and standing of; to cashier; to dismiss.",
+                  "examples": [
+                    "when I see a great officer broke."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make an abrupt or sudden change; to change gait.",
+                  "examples": [
+                    "to break into a run or gallop"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, archaic) To fall out; to terminate friendship.",
+                  "examples": [
+                    "To break upon the score of danger or expense is to be mean and narrow-spirited."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To terminate the execution of a program before normal completion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To suspend the execution of a program during debugging so that the state of the program can be investigated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To cause, or allow the occurrence of, a line break.",
+                  "examples": [
+                    "zero-width non-breaking space"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Clipping of breakdown (the percussion break of songs chosen by a DJ for use in hip-hop music) and see also breakdancing."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "break (plural breaks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A section of extended repetition of the percussion break to a song, created by a hip-hop DJ as rhythmic dance music.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "break (third-person singular simple present breaks, present participle breaking, simple past and past participle breaked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, slang) To B-boy; to breakdance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
