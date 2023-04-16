@@ -1,0 +1,76 @@
+{
+  "word": "breakpoint",
+  "etymologies": [
+    {
+      "description": [
+        "break +‎ point"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "breakpoint (plural breakpoints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A point in a program at which operation may be interrupted during debugging so that the state of the program at that point can be investigated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) A location referred to when issuing watches, warnings, or advisories for specific areas.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The point where surface water waves are breaking in, e.g., oceans or lakes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(web development) A particular size at which a web page is designed to switch to a different layout.",
+                  "examples": [
+                    "If a device's screen width is equal to, or less than, the screen width defined at the breakpoint, it will have the related CSS applied to it. You sometimes want to set breakpoints to match particular device screen widths, but I have found that what is most important is simply that the layout remains usable as it gets smaller."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "breakpoint (third-person singular simple present breakpoints, present participle breakpointing, simple past and past participle breakpointed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To flag with a breakpoint.",
+                  "examples": [
+                    "If the microprogrammer wishes to continue execution at a breakpointed location, it is desirable to execute the breakpointed microinstruction, replace the microinstruction with a branch microinstruction to restore the breakpoint, and continue microinstruction execution."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
