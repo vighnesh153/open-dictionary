@@ -1,0 +1,30 @@
+{
+  "word": "biconnected",
+  "etymologies": [
+    {
+      "description": [
+        "bi- +‎ connected"
+      ],
+      "adjectives": [
+        {
+          "description": "biconnected (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) Describing a connected graph from which two vertices must be removed for it to become disconnected.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
