@@ -1,0 +1,52 @@
+{
+  "word": "atomicity",
+  "etymologies": [
+    {
+      "description": [
+        "From atomic +‎ -ity."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "atomicity (countable and uncountable, plural atomicities)",
+          "definitionGroups": [
+            {
+              "group": "(countable, chemistry)",
+              "entries": [
+                {
+                  "meaning": "The number of atoms in a molecule.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(historical) Synonym of valence (“the combining capacity of an atom, functional group, or radical determined by the number of atoms of hydrogen with which it will unite, or the number of electrons that it will gain, lose, or share when it combines with other atoms, etc.”)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, computing) The state of a system (often a database system) in which either all stages complete or none complete.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The quality or state of being atomic.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
