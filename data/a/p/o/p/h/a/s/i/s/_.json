@@ -1,0 +1,47 @@
+{
+  "word": "apophasis",
+  "etymologies": [
+    {
+      "description": [
+        "Via Late Latin apophasis from Ancient Greek ἀπόφασις (apóphasis, “denial, negation”) from ἀπο- (apo-, “away, from, off”) +‎ φάσις (phásis, “statement, proposition”) from φημί (phēmí, “to speak”) from Proto-Hellenic *pʰā́mā from Proto-Indo-European *bʰeh₂; whence Latin fārī, cognate to fame, fable."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "apophasis (countable and uncountable, plural apophases)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) An allusion to something by denying that it will be mentioned.",
+                  "examples": [
+                    "Synonyms: paralipsis, parasiopesis, praeteritio, preterition",
+                    "Hyponyms: proslepsis, assumptio",
+                    "Hypernym: irony",
+                    "Coordinate terms: antiphrasis, concessio, epitrope, mycterism, sarcasm"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Christianity, philosophy, theology) A process of arriving at knowledge by statements of denial; particularly, developing a concept of God through negative assertions about his nature.",
+                  "examples": [
+                    "Synonyms: apophatic theology, via negativa",
+                    "Antonyms: cataphasis, via affirmativa"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
