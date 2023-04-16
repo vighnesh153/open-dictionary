@@ -1,0 +1,125 @@
+{
+  "word": "boost",
+  "etymologies": [
+    {
+      "description": [
+        "Unknown. The verb is first recorded 1815; the noun, 1825. Compare Scots boost (“to move; drive off; shoo away”), bost, boast (“to threaten; scold”), Middle English boosten, bosten (“to threaten”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "boost (plural boosts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A push from behind, as to one who is endeavoring to climb.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that helps, or adds power or effectiveness; assistance.",
+                  "examples": [
+                    "The controversy gave a boost to the author's sales."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A coordinate transformation that changes velocity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(automotive engineering) A positive intake manifold pressure in cars with turbochargers or superchargers.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "boost (third-person singular simple present boosts, present participle boosting, simple past and past participle boosted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To lift or push from behind (one who is endeavoring to climb); to push up.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, by extension) To help or encourage (something) to increase or improve; to assist in overcoming obstacles.",
+                  "examples": [
+                    "This campaign will boost your chances of winning the election."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, transitive) To steal.",
+                  "examples": [
+                    "It is not at all unusual or suspicious for a woman to spend a good deal of the day out shopping, and feminine clothing styles often make it relatively easy for a female shoplifter to conceal \"boosted\" merchandise on her person."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, transitive) To jump-start a vehicle by using cables to connect the battery in a running vehicle to the battery in a vehicle that won't start.",
+                  "examples": [
+                    "It's easy to boost a dead battery, but this can be dangerous if it's done the wrong way."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, medicine) To give a booster shot to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, engineering) To amplify; to signal boost.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
