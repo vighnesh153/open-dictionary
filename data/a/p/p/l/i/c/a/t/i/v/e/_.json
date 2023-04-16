@@ -1,0 +1,65 @@
+{
+  "word": "applicative",
+  "etymologies": [
+    {
+      "description": [
+        "From applicate."
+      ],
+      "adjectives": [
+        {
+          "description": "applicative (comparative more applicative, superlative most applicative)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having practical application; applicable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of a programming language: using successive functional transformations on data to arrive at a result.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Involving the application of an operator on an operand.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "applicative (plural applicatives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A grammatical construct that casts a peripheral noun phrase as direct object.",
+                  "examples": [
+                    "It remains a puzzle why some languages allow multiple applicatives while others prohibit them. In Salish, examples of multiple applicatives are attested in Columbian, Lushootseed, Tillamook, and the three Northern Interior languages."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
