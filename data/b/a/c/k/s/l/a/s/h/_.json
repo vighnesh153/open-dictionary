@@ -1,0 +1,54 @@
+{
+  "word": "backslash",
+  "etymologies": [
+    {
+      "description": [
+        "back +‎ slash, because it is a slash going back against the direction of writing, in contrast to the common slash / (“slash, solidus, oblique, forward slash”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "backslash (plural backslashes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The punctuation mark \\.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, rare, proscribed) Used erroneously in reference to, or in reading out, the ordinary slash, that is, the punctuation mark /.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "backslash (third-person singular simple present backslashes, present participle backslashing, simple past and past participle backslashed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To escape (a metacharacter) by prepending a backslash that serves as an escape character, thereby forming an escape sequence.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
