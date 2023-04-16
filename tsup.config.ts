@@ -2,9 +2,10 @@ import { defineConfig } from 'tsup';
 
 export default defineConfig(() => ({
   entry: {
-    'new-word': './src/new-word.ts',
+    createWordDefinition: './src/createWordDefinition.ts',
+    expectedWordDefinition: './src/expectedWordDefinition.ts',
     playground: './src/playground.ts',
-    pullRequestTest: './src/pull-request-test.ts',
+    pullRequestTest: './src/pullRequestTest.ts',
   },
   splitting: false,
   clean: true,

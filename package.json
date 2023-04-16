@@ -13,8 +13,10 @@
     "build:watch": "tsup --watch",
     "lint-staged": "lint-staged",
     "prettier": "prettier --write ./src",
-    "new-word:script": "node ./dist/new-word.js",
-    "new-word": "run-s clean build \"new-word:script -- {1}\" --",
+    "expected-word-definition:script": "node ./dist/expectedWordDefinition.js",
+    "expected-word-definition": "run-s clean build \"expected-word-definition:script -- {1}\" --",
+    "create-word-definition:script": "node ./dist/createWordDefinition.js",
+    "create-word-definition": "run-s clean build \"create-word-definition:script -- {1}\" --",
     "test": "run-s clean build && vitest run",
     "prepare": "husky install"
   },

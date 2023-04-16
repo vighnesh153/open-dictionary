@@ -17,17 +17,17 @@ git checkout -b <your-word>
 # git checkout -b banana
 ```
 
-- Create the file for the word
+- Create the definition for your new word
 
 ```shell
-npm run new-word <your-word>
+npm run create-word-definition <your-word>
 # Example:
-# npm run new-word apple
-# npm run new-word banana
+# npm run create-word-definition apple
+# npm run create-word-definition banana
 ```
 
-- Fetch the word info from this link: https://en.wiktionary.org/wiki/<your-word>
-- Edit the `_.json` file in your word's directory in the specified format
+- Verify if the format and information is correct
+    - You can open this link to verify the information: https://en.wiktionary.org/wiki/<your-word>
 - Verify if the format and the information is correct.
 - Commit your changes
 
