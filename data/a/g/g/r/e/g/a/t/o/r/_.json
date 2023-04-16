@@ -1,0 +1,41 @@
+{
+  "word": "aggregator",
+  "etymologies": [
+    {
+      "description": [
+        "aggregate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "aggregator (plural aggregators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone or something which aggregates.",
+                  "examples": [
+                    "An event aggregator facilitates a fire-and-forget model of communication. The object triggering the event doesn't care if there are any subscribers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) An online feed reader used to keep track of updates to blogs, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
