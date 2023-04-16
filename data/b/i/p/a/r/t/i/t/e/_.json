@@ -1,0 +1,57 @@
+{
+  "word": "bipartite",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin bipartītus (“bisected”), perfect passive participle of bipartiō (“I divide into two parts, bisect”)."
+      ],
+      "adjectives": [
+        {
+          "description": "bipartite (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having two parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of an agreement or contract) Having two participants; joint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany, of leaves) Divided into two at the base.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory, of a graph) Having vertices that can be divided into two independent sets (see bigraph)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
