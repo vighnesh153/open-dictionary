@@ -1,0 +1,47 @@
+{
+  "word": "anagram",
+  "etymologies": [
+    {
+      "description": [
+        "Late 16th century, from French anagramme, formed on Greek ἀνά (aná, “up, back”) + γράμμα (grámma, “letter”). Analyzable as ana- (“up, back”) +‎ -gram (“letter”)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "anagram (plural anagrams)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of words) A word or phrase that is created by rearranging the letters of another word or phrase.",
+                  "examples": [
+                    "Coordinate terms: alphagram, palindrome"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "anagram (third-person singular simple present anagrams, present participle anagramming, simple past and past participle anagrammed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To form anagrams.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
