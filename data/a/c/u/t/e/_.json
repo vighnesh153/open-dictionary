@@ -1,0 +1,225 @@
+{
+  "word": "acute",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Middle English acūte (“of a disease or fever: starting suddenly and lasting for a short time; of a humour: irritating, sharp”), from Latin acūta, from acūtus (“sharp, sharpened”), perfect passive participle of acuō (“to make pointed, sharpen, whet”), from acus (“needle, pin”), from Proto-Indo-European *h₂eḱ- (“sharp”). The word is cognate to ague (“acute, intermittent fever”).",
+        "As regards the noun, which is derived from the verb, compare Middle English acūte (“severe but short-lived fever; of blood: corrosiveness, sharpness; musical note of high pitch”)."
+      ],
+      "adjectives": [
+        {
+          "description": "acute (comparative acuter or more acute, superlative acutest or most acute)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Brief, quick, short.",
+                  "examples": [
+                    "Synonyms: fast, rapid",
+                    "Antonyms: leisurely, slow",
+                    "It was an acute event."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "High or shrill.",
+                  "examples": [
+                    "Antonym: grave",
+                    "an acute accent or tone"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Intense, sensitive, sharp.",
+                  "examples": [
+                    "Synonyms: keen, powerful, strong",
+                    "Antonyms: dull, obtuse, slow, witless",
+                    "She had an acute sense of honour.  Eagles have very acute vision."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Urgent.",
+                  "examples": [
+                    "Synonyms: emergent, pressing, sudden",
+                    "His need for medical attention was acute."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) With the sides meeting directly to form an acute angle (at an apex or base).",
+                  "examples": [
+                    "Antonym: obtuse"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Of an angle: less than 90 degrees.",
+                  "examples": [
+                    "Antonym: obtuse",
+                    "The teacher pointed out the acute angle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Of a triangle: having all three interior angles measuring less than 90 degrees.",
+                  "examples": [
+                    "Synonym: acute-angled",
+                    "Antonyms: obtuse, obtuse-angled",
+                    "an acute triangle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, chiefly historical) Of an accent or tone: generally higher than others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonology, dated, of a sound) Sharp, produced in the front of the mouth. (See  Grave and acute on  Wikipedia.Wikipedia )",
+                  "examples": [
+                    "Coordinate term: grave"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Of an abnormal condition of recent or sudden  onset, in contrast to delayed onset; this sense does not imply severity, unlike the common usage.",
+                  "examples": [
+                    "He dropped dead of an acute illness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Of a short-lived condition, in contrast to a chronic condition; this sense also does not imply severity.",
+                  "examples": [
+                    "Antonym: chronic",
+                    "The acute symptoms resolved promptly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(orthography) After a letter of the alphabet: having an acute accent.",
+                  "examples": [
+                    "The last letter of ‘café’ is ‘e’ acute."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "acute (plural acutes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A person who has the acute form of a disorder, such as schizophrenia.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, chiefly historical) An accent or tone higher than others.",
+                  "examples": [
+                    "Antonym: grave"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(orthography) An acute accent (´).",
+                  "examples": [
+                    "The word ‘cafe’ often has an acute over the ‘e’."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "acute (third-person singular simple present acutes, present participle acuting, simple past and past participle acuted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, phonetics) To give an acute sound to.",
+                  "examples": [
+                    "He acutes his rising inflection too much."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To make acute; to sharpen, to whet.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
