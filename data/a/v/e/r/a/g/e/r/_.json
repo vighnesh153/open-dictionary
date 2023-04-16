@@ -1,0 +1,32 @@
+{
+  "word": "averager",
+  "etymologies": [
+    {
+      "description": [
+        "average +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "averager (plural averagers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A system or process for computing averages.",
+                  "examples": [
+                    "An averager of the sort described earlier would operate such that, as the frequency of sinusoidal variation of ITD was increased, more and more samples of the dynamically varying ITD would fall within the averaging window and the effective ITD would tend toward their mean of zero."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
