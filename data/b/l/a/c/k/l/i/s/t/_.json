@@ -1,0 +1,49 @@
+{
+  "word": "blacklist",
+  "etymologies": [
+    {
+      "description": [
+        "From black +‎ list."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "blacklist (plural blacklists)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law, computing) A list or set of people or entities to be shunned or banned.",
+                  "examples": [
+                    "The software included a lengthy blacklist of disreputable websites to block."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "blacklist (third-person singular simple present blacklists, present participle blacklisting, simple past and past participle blacklisted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place on a blacklist; to mark a person or entity as one to be shunned or banned.",
+                  "examples": [
+                    "You can blacklist known spammers with that button."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
