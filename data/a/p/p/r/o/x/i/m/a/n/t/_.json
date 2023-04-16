@@ -1,0 +1,44 @@
+{
+  "word": "approximant",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin approximāns. In the phonetics sense first used by Peter Ladefoged, the mathematical concept is attributed to Paul Halmos."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "approximant (plural approximants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) A consonant sound made by slightly narrowing the vocal tract, while still allowing a smooth flow of air. Liquids and glides are approximants.",
+                  "examples": [
+                    "Coordinate terms: fricative, lateral, nasal, trill, plosive",
+                    "Hyponyms: liquid, glide, semivowel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An approximation to the solution of a function, series, etc.",
+                  "examples": [
+                    "Coordinate terms: approximand, approximate, approximation"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

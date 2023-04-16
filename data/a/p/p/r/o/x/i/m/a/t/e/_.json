@@ -1,0 +1,87 @@
+{
+  "word": "approximate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin approximatus, past participle of approximare (“to approach”); ad + proximare (“to come near”). See proximate."
+      ],
+      "adjectives": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "approximate (comparative more approximate, superlative most approximate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Approaching; proximate; nearly resembling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Nearing correctness; nearly exact; not perfectly accurate.",
+                  "examples": [
+                    "approximate results or values",
+                    "NASA's Genesis spacecraft has on board an ion monitor to record the speed, density, temperature and approximate composition of the solar wind ions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "approximate (third-person singular simple present approximates, present participle approximating, simple past and past participle approximated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To estimate.",
+                  "examples": [
+                    "I approximated the value of pi by taking 22 divided by 7."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To come near to; to approach.",
+                  "examples": [
+                    "When you follow two separate chains of thought, Watson, you will find some point of intersection which should approximate to the truth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To carry or advance near; to cause to approach.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
