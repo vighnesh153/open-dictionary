@@ -8,7 +8,7 @@ An initiative to create an **English** dictionary which is open to all and maint
 
 * Break your word into single letters and create a `/`-separated path
 * Prefix the path with `https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/`
-* Suffix the path with `_.json`
+* Suffix the path with `/_.json`
 
 ```txt
 // Example: For getting the definition of "apple"
