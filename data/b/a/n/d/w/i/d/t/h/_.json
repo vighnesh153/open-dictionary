@@ -1,0 +1,61 @@
+{
+  "word": "bandwidth",
+  "etymologies": [
+    {
+      "description": [
+        "band +‎ width"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bandwidth (countable and uncountable, plural bandwidths)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The width, usually measured in hertz, of a frequency band.",
+                  "examples": [
+                    "But now is a good time to be bargaining for bandwidth, as the switch from analogue to digital television is freeing up space."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a signal) The width of the smallest frequency band within which the signal can fit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking, informal) The rate of data flow in digital networks typically measured in bits per second; the bitrate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) The capacity, energy or time required.",
+                  "examples": [
+                    "I think it's a worthy project, but I just don't have the bandwidth right now."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
