@@ -1,0 +1,65 @@
+{
+  "word": "bookmark",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English *boke-merk, *boke-merke (attested only in the bare form merk (“bookmark”)), equivalent to book +‎ mark. Cognate with Danish bogmærke (“bookmark”), Swedish bokmärke (“bookmark”), Norwegian bokmerke (“bookmark”), Icelandic bókamerki (“bookmark”). Eclipsed non-native Old English æstel (“bookmark”), from Old Irish astal, from Latin hastula (“little spear, splint”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bookmark (plural bookmarks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A strip of material used to mark a place in a book.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A record of the address of a file or Internet page, serving as a shortcut to it.",
+                  "examples": [
+                    "Synonym: favourites"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A pointer found in a nonclustered index to a row in a clustered index or a table heap",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bookmark (third-person singular simple present bookmarks, present participle bookmarking, simple past and past participle bookmarked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To create a bookmark.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
