@@ -1,0 +1,107 @@
+{
+  "word": "augment",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English augmenten, from Middle French augmenter, from Old French augmenter, from Late Latin augmentare (“to increase”), from Latin augmentum (“an increase, growth”), from augere (“to increase”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "augment (plural augments)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) In some Indo-European languages, a prefix e- (a- in Sanskrit) indicating a past tense of a verb.",
+                  "examples": [
+                    "The augment is found in Greek, Indo-Iranian, Armenian and Phrygian."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) In some Bantu languages, an additional vowel prepended to the noun prefix.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An increase.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "augment (third-person singular simple present augments, present participle augmenting, simple past and past participle augmented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To increase; to make larger or supplement.",
+                  "examples": [
+                    "The money from renting out a spare room can augment a salary."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, reflexive) To grow; to increase; to become greater.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To slow the tempo or meter, e.g. for a dramatic or stately passage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To increase an interval, especially the largest interval in a triad, by a half step (chromatic semitone).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, transitive) To add an augment to.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
