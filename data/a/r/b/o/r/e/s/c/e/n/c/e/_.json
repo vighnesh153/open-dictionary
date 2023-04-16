@@ -1,0 +1,39 @@
+{
+  "word": "arborescence",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French arborescence."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "arborescence (plural arborescences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tree-like structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A directed rooted tree in which all vertices can be reached from the root.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
