@@ -1,0 +1,120 @@
+{
+  "word": "adjoint",
+  "etymologies": [
+    {
+      "description": [
+        "From French adjoindre (“to join”), from late 19th C; see also adjoin. Doublet of adjunct.",
+        "In the case of category theory (which brings together concepts from numerous fields), the term is often confounded with adjunct and the relationship is called an adjunction. The origin of any particular usage may therefore be uncertain."
+      ],
+      "adjectives": [
+        {
+          "description": "adjoint (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Used in certain contexts, in each case involving a pair of transformations, one of which is, or is analogous to, conjugation (either inner automorphism or complex conjugation).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, category theory, of a functor) That is related to another functor by an adjunction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, of one curve to another curve) Having a relationship of the nature of an adjoint (adjoint curve); sharing multiple points with.",
+                  "examples": [
+                    "The sets A + A0, B + B0, together, form the complete intersection, with f = 0, of a composite adjoint curve of order m + k, consisting of the adjoint curve of order m through A + B, together with the non-adjoint curve ω = 0; and the set B + B0 consists of p points, and lies on i + j adjoint φ-curves of f = 0."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "adjoint (plural adjoints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The transpose of the cofactor matrix of a given square matrix.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra, of a matrix) Transpose conjugate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, mathematical analysis, of an operator) Hermitian conjugate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, category theory) A functor related to another functor by an adjunction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, algebraic geometry) A curve A such that any point of a given curve C of multiplicity r has multiplicity at least r–1 on A. Sometimes the multiple points of C are required to be ordinary, and if this condition is not satisfied the term sub-adjoint is used.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An assistant to someone who holds a position in the military or civil service.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An assistant mayor of a French commune.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
