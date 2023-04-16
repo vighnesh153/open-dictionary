@@ -1,0 +1,32 @@
+{
+  "word": "bijection",
+  "etymologies": [
+    {
+      "description": [
+        "From French bijection, introduced by Nicolas Bourbaki in their treatise Éléments de mathématique."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bijection (plural bijections)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) A one-to-one correspondence, a function which is both a surjection and an injection.",
+                  "examples": [
+                    "The present text has defined a set to be finite if and only if there exists a bijection onto a natural number, and infinite if and only if there does not exist any such bijection."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

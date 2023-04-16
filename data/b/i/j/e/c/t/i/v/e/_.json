@@ -1,0 +1,41 @@
+{
+  "word": "bijective",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "bijective (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a map) Both injective and surjective.",
+                  "examples": [
+                    "Then, by a straightforward, computable, bijective numerical coding, this idealized FORTRAN determines an EN.[effective numbering] (Note: In this FORTRAN example, we could have omitted restrictions on I/O and instead used a computable, bijective, numerical coding for inputs and outputs to get another EN determined by FORTRAN.)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Having a component that is (specified to be) a bijective map; that specifies a bijective map.",
+                  "examples": [
+                    "Proving the conjecture is equivalent to constructing a PCP that reads 2 symbols and accepts iff these symbols satisfy a bijective constraint."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
