@@ -1,0 +1,108 @@
+{
+  "word": "barrier",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English barryer, barrere, barryȝer, from Old French barriere (compare French barrière), from Old French barre (“bar”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "barrier (plural barriers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A structure that bars passage.",
+                  "examples": [
+                    "The bus went through a railway barrier and was hit by a train.",
+                    "The bomber had passed through one checkpoint before blowing himself up at a second barrier."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An obstacle or impediment.",
+                  "examples": [
+                    "Even a small fee can be a barrier for some students."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A boundary or limit.",
+                  "examples": [
+                    "Few marathon runners break the three-hour time barrier."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A node (in government and binding theory) said to intervene between other nodes A and B if it is a potential governor for B, c-commands B, and does not c-command A.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physiology) A separation between two areas of the body where specialized cells allow the entry of certain substances but prevent the entry of others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) The lists in a tournament.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical, in the plural) A martial exercise of the 15th and 16th centuries.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "barrier (third-person singular simple present barriers, present participle barriering, simple past and past participle barriered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To block or obstruct with a barrier.",
+                  "examples": [
+                    "Synonym: bar"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
