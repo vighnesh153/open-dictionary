@@ -1,0 +1,287 @@
+{
+  "word": "bridge",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English brigge, from Old English brycġ (“bridge”), from Proto-Germanic *brugjō, *brugjǭ (“bridge”), from Proto-Indo-European *bʰerw-, *bʰrēw- (“wooden flooring, decking, bridge”).",
+        "Cognate with Scots brig, brigg, breeg (“bridge”), Saterland Frisian Brääch (“bridge”), West Frisian brêge (“bridge”), Dutch brug (“bridge”), German Brücke (“bridge”), Danish bro (“bridge”) and brygge (“wharf”), Icelandic brú (“bridge”) and brygga (“pier”), Gaulish briua (“bridge”), Serbo-Croatian brv (“bridge, crossbar”), Old Church Slavonic бръвъно (brŭvŭno, “beam”) and Russian бревно́ (brevnó, “log”).",
+        "The verb is from Middle English briggen, from Old English brycġian (“to bridge, make a causeway, pave”), derived from the noun. Cognate with Dutch bruggen (“to bridge”), Middle Low German bruggen (“to bridge”), Old High German bruccōn (“to bridge”) (whence Modern German brücken)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bridge (plural bridges)",
+          "definitionGroups": [
+            {
+              "group": "A construction or natural feature that spans a divide.",
+              "entries": [
+                {
+                  "meaning": "A construction spanning a waterway, ravine, or valley from an elevated height, allowing for the passage of vehicles, pedestrians, trains, etc.",
+                  "examples": [
+                    "The rope bridge crosses the river."
+                  ]
+                },
+                {
+                  "meaning": "(anatomy) The upper bony ridge of the human nose.",
+                  "examples": [
+                    "Rugby players often break the bridge of their noses."
+                  ]
+                },
+                {
+                  "meaning": "(dentistry) A prosthesis replacing one or several adjacent teeth.",
+                  "examples": [
+                    "The dentist pulled out the decayed tooth and put in a bridge."
+                  ]
+                },
+                {
+                  "meaning": "(bowling) The gap between the holes on a bowling ball",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "An arch or superstructure.",
+              "entries": [
+                {
+                  "meaning": "(nautical) An elevated platform above the upper deck of a mechanically propelled ship from which it is navigated and from which all activities on deck can be seen and controlled by the captain, etc; smaller ships have a wheelhouse, and sailing ships were controlled from a quarterdeck.",
+                  "examples": [
+                    "The first officer is on the bridge."
+                  ]
+                },
+                {
+                  "meaning": "(music, lutherie) The piece, on string instruments, that supports the strings from the sounding board.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(billiards, snooker, pool) A particular form of one hand placed on the table to support the cue when making a shot in cue sports.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(billiards, snooker, pool) A cue modified with a convex arch-shaped notched head attached to the narrow end, used to support a player's (shooter's) cue for extended or tedious shots. Also called a spider.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Anything supported at the ends and serving to keep some other thing from resting upon the object spanned, as in engraving, watchmaking, etc., or which forms a platform or staging over which something passes or is conveyed.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(wrestling) A defensive position in which the wrestler is supported by his feet and head, belly-up, in order to prevent touch-down of the shoulders and eventually to dislodge an opponent who has established a position on top.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(gymnastics) A similar position in gymnastics.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A connection, real or abstract.",
+              "entries": [
+                {
+                  "meaning": "(medicine) A rudimentary procedure before definite solution",
+                  "examples": [
+                    "ECMO is used as a bridge to surgery to stabilize the patient."
+                  ]
+                },
+                {
+                  "meaning": "(computing) A device which connects two or more computer buses, typically in a transparent manner.",
+                  "examples": [
+                    "This chip is the bridge between the front-side bus and the I/O bus."
+                  ]
+                },
+                {
+                  "meaning": "(programming) A software component connecting two or more separate systems.",
+                  "examples": [
+                    "The plugin also acts as a bridge with BuddyPress and adds things like the top admin bar, and so on."
+                  ]
+                },
+                {
+                  "meaning": "(networking) A system which connects two or more local area networks at layer 2 of OSI model.",
+                  "examples": [
+                    "The LAN bridge uses a spanning tree algorithm."
+                  ]
+                },
+                {
+                  "meaning": "(chemistry) An intramolecular valence bond, atom or chain of atoms that connects two different parts of a molecule; the atoms so connected being bridgeheads.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(electronics) An unintended solder connection between two or more components or pins.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(music) A contrasting section within a song that prepares for the return of the original material section.",
+                  "examples": [
+                    "The lyrics in the song's bridge inverted its meaning.",
+                    "In the bridge of his 2011 song \"It Will Rain\", Bruno Mars begs his lover not to \"say goodbye.\""
+                  ]
+                },
+                {
+                  "meaning": "(graph theory) An edge which, if removed, changes a connected graph to one that is not connected.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(poetry) A point in a line where a break in a word unit cannot occur.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(diplomacy) A statement, such as an offer, that signals a possibility of accord.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A day falling between two public holidays and consequently designated as an additional holiday.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) Any of several electrical devices that measure characteristics such as impedance and inductance by balancing different parts of a circuit",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A low wall or vertical partition in the fire chamber of a furnace, for deflecting flame, etc.; a bridge wall.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cycling) The situation where a lone rider or small group of riders closes the space between them and the rider or group in front.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A solid crust of undissolved salt in a water softener.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(roller derby) An elongated chain of teammates, connected to the pack, for improved blocking potential.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bridge (third-person singular simple present bridges, present participle bridging, simple past and past participle bridged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be or make a bridge over something.",
+                  "examples": [
+                    "With enough cable, we can bridge this gorge."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To span as if with a bridge.",
+                  "examples": [
+                    "The brooding, black-clad singer bridged a stark divide that emerged in the recording industry in the 1950s, as post-Elvis pop singers diverged into two camps and audiences aligned themselves with either the sideburned rebels of rock 'n' roll or the cowboy-hatted twangsters of country music."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To transition from one piece or section of music to another without stopping.",
+                  "examples": [
+                    "We need to bridge that jam into \"The Eleven\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, communication) To connect two or more computer buses, networks etc. with a bridge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(wrestling) To go to the bridge position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(roller derby) To employ the bridge tactic. (See Noun section.)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From the earlier form (name of an older card game) biritch, probably from Russian бири́ч (biríč) (per the OED), or else from Turkish bir-üç, \"one-three\"."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bridge (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) A card game played with four players playing as two teams of two players each.",
+                  "examples": [
+                    "Bidding is an essential element of the game of bridge."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
