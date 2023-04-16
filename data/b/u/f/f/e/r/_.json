@@ -1,0 +1,184 @@
+{
+  "word": "buffer",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "buffer",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Comparative form of buff: more buff.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "buffer (plural buffers)",
+          "definitionGroups": [
+            {
+              "group": "Someone or something that buffs (polishes and makes shiny).",
+              "entries": [
+                {
+                  "meaning": "A machine with rotary brushes, passed over a hard floor to clean it.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A machine for polishing shoes and boots.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Agent noun from obsolete verb buff (“make a dull sound when struck”) (mid-16c.), from Old French buffe (“blow”).",
+        "The “boatswain's mate” sense is said to be popularly explained by the mate being a “buffer”, that is intermediary, between officers and men, but various other explanations have also been proposed."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "buffer (plural buffers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A solution used to stabilize the pH (acidity) of a liquid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A portion of memory set aside to temporarily store data, often before it is sent to an external device or as it is received from an external device.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Anything used to isolate or minimize the effect of one thing on another.",
+              "entries": [
+                {
+                  "meaning": "(mechanical) Anything used to maintain slack or isolate different objects.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(telecommunications) A routine or storage medium used to compensate for a difference in rate of flow of data, or time of occurrence of events, when transferring data from one device to another.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(rail transport) A device on trains and carriages designed to cushion the impact between them.",
+                  "examples": [
+                    "The idiot who, in railway carriages, / Scribbles on window panes, / We only suffer / To ride on a buffer / In Parliamentary trains."
+                  ]
+                },
+                {
+                  "meaning": "(rail transport) The metal barrier to help prevent trains from running off the end of the track.",
+                  "examples": []
+                },
+                {
+                  "meaning": "An isolating circuit, often an amplifier, used to minimize the influence of a driven circuit on the driving circuit.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(politics, international relations) A buffer zone (such as a demilitarized zone) or a buffer state.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figurative) A gap that isolates or separates two things.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, nautical, slang) The chief boatswain's mate.",
+                  "examples": [
+                    "He decided to run for president of the POs' Mess against the Buffer, Chief Bosun's Mate Mal Crane, but the two had a face-to-face in his cabin one night in Narvik and sorted it out."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "buffer (third-person singular simple present buffers, present participle buffering, simple past and past participle buffered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To use a buffer or buffers; to isolate or minimize the effects of one thing on another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To store data in memory temporarily.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) To maintain the acidity of a solution near a chosen value by adding an acid or a base.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "buffer (plural buffers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) A good-humoured, slow-witted fellow, usually an elderly man.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
