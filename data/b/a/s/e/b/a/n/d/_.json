@@ -1,0 +1,48 @@
+{
+  "word": "baseband",
+  "etymologies": [
+    {
+      "description": [
+        "base +‎ band"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "baseband (countable and uncountable, plural basebands)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) The frequency range occupied by a message signal prior to modulation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications, noun adjunct) A method of transmission in which only one frequency channel is used at a time.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A device using baseband transmission.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
