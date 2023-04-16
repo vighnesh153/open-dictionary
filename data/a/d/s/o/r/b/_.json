@@ -1,0 +1,36 @@
+{
+  "word": "adsorb",
+  "etymologies": [
+    {
+      "description": [
+        "From French adsorber, from Latin ad- (“to”) + sorbere (“suck in”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "adsorb (third-person singular simple present adsorbs, present participle adsorbing, simple past and past participle adsorbed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chemistry, physics) To accumulate on a surface, by adsorption",
+                  "examples": [
+                    "The gas was purified by adsorbing the impurities onto active carbon."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
