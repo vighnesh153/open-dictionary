@@ -1,0 +1,22 @@
+name: "Pull request tests"
+
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  pull-request-test:
+    name: Test changed files
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: read
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Log changed files
+        run: git --no-pager diff --name-only FETCH_HEAD $(git merge-base FETCH_HEAD main)
