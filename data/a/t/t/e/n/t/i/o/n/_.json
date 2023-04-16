@@ -1,0 +1,64 @@
+{
+  "word": "attention",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English attencioun, borrowed from Latin attentio, attentionis, from attendere, past participle attentus (“to attend, give heed to”); see attend."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "attention (countable and uncountable, plural attentions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Mental focus.",
+                  "examples": [
+                    "Synonyms: heed, notice; see also Thesaurus:attention",
+                    "Please direct your attention to the following words."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An action or remark expressing concern for or interest in someone or something, especially romantic interest.",
+                  "examples": [
+                    "For some time past I have been the recipient of very marked attentions from a young lady."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, military) A state of alertness in the standing position.",
+                  "examples": [
+                    "The company will now come to attention."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, machine learning) A technique in neural networks that mimics cognitive attention, enhancing the important parts of the input data while giving less priority to the rest.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
