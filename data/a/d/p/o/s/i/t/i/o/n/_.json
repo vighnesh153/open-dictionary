@@ -1,0 +1,37 @@
+{
+  "word": "adposition",
+  "etymologies": [
+    {
+      "description": [
+        "ad- +‎ position, from Latin adpositio, from adpositum, past participle of adponere, an alternative form of apponere (“to put near”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "adposition (plural adpositions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) An element that combines syntactically with a phrase and indicates how that phrase should be interpreted in the surrounding context; a preposition or postposition.",
+                  "examples": [
+                    "Throughout this book, I have assumed that adpositions (prepositions and postpositions) are not lexical categories, but rather functional categories. […] While this view of adpositions is far from unprecedented, it runs contrary to the more standard generative treatment, championed by Jackendoff (1977: 31-33), in which adpositions constitute a fourth lexical category, filling out the logical space of possibilities defined by the two binary-valued features \n  \n    \n      \n        +\n        \n        \n          /\n        \n        \n        \n        −\n        \n        \n        \n          \n            N\n          \n        \n      \n    \n    {\\displaystyle +\\!/\\!\\!-\\!\\!{\\mathsf {N}}}\n  \n and \n  \n    \n      \n        +\n        \n        \n          /\n        \n        \n        \n        −\n        \n        \n        \n          \n            V\n          \n        \n      \n    \n    {\\displaystyle +\\!/\\!\\!-\\!\\!{\\mathsf {V}}}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [
+        {
+          "description": "",
+          "definitionGroups": []
+        }
+      ],
+      "verbs": []
+    }
+  ]
+}
