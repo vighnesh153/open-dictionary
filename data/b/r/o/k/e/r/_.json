@@ -1,0 +1,112 @@
+{
+  "word": "broker",
+  "etymologies": [
+    {
+      "description": [
+        "From broke +‎ -er."
+      ],
+      "adjectives": [
+        {
+          "description": "broker",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "comparative form of broke: more broke",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English broker, brokour, brocour, from Anglo-Norman brocour (“small trader”) (compare also abroker (“to act as a broker”)), from Old Dutch *brokere (“one who determines the usages of trade, manager”), from broke, bruyck, breuck (“use, usage, trade”), from Proto-West Germanic *brūkī (“use, custom”), from Proto-Germanic *brūkiz (“use, custom”), from Proto-Indo-European *bʰruHg- (“to use, enjoy”), equivalent to brook +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "broker (plural brokers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mediator between a buyer and seller.",
+                  "examples": [
+                    "Hyponyms: playbroker, power broker, stockbroker, pawnbroker, floor broker, honest broker, money broker, piece broker, produce broker, sworn broker"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A stockbroker.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mediator in general, one who liaises between two or more parties to attempt to achieve an outcome of some kind.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An agent involved in the exchange of messages or transactions.",
+                  "examples": [
+                    "Hyponyms: message broker, object request broker, storage resource broker, tunnel broker"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "broker (third-person singular simple present brokers, present participle brokering, simple past and past participle brokered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To act as a broker; to mediate in a sale or transaction.",
+                  "examples": [
+                    "Synonym: broke"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To act as a broker in; to arrange or negotiate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
