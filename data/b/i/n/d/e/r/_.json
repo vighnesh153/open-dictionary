@@ -1,0 +1,133 @@
+{
+  "word": "binder",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English byndere; equivalent to bind +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "binder (plural binders)",
+          "definitionGroups": [
+            {
+              "group": "Someone who binds.",
+              "entries": [
+                {
+                  "meaning": "Someone who binds books; a bookbinder.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cover or holder for unbound papers, pages, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that is used to bind things together, often referring to the mechanism that accomplishes this for a book.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A software mechanism that performs binding.",
+                  "examples": [
+                    "The runtime binder considers inheritance and name hiding, and does overload resolution."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program or routine that attaches malware to an existing harmless file on the target system.",
+                  "examples": [
+                    "Some of these file binders can produce files that can't be detected by some anti-viruses, and if downloaded and run by an unsuspecting user, it can result in a system compromise."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dossier.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(agriculture) A machine used in harvesting that ties cut stalks of grain into a bundle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A chemical or other substance that causes two other substances to form into one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A down payment on a piece of real property that secures the payor the right to purchase the property from the payee upon an agreement of terms.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Minnesota) A rubber band.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(LGBT) Material or clothing used in binding or flattening the breasts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(molecular biology) A protein binder.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

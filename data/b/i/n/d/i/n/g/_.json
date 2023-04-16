@@ -1,0 +1,120 @@
+{
+  "word": "binding",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English byndynge; equivalent to bind +‎ -ing."
+      ],
+      "adjectives": [
+        {
+          "description": "binding (comparative more binding, superlative most binding)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of an agreement, contract, etc.) Imposing stipulations or requirements that must be honoured.",
+                  "examples": [
+                    "This contract is a legally binding agreement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of food) Having the effect of counteracting diarrhea.",
+                  "examples": [
+                    "Bananas and white bread are sometimes considered binding."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "binding (plural bindings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An item (usually rope, tape, or string) used to hold two or more things together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The spine of a book where the pages are held together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sewing) A finishing on a seam or hem of a garment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The association of a named item with an element of a program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The interface of a library with a programming language other than one it is written in.",
+                  "examples": [
+                    "The Python binding is automatically generated."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The action or result of making two or more molecules stick together.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "binding",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of bind",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
