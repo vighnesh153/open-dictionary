@@ -1,0 +1,168 @@
+{
+  "word": "binary",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin bīnārius (“consisting of two”), from Latin bīnī (“two-by-two, pair”); surface analysis, bin- +‎ -ary."
+      ],
+      "adjectives": [
+        {
+          "description": "binary (comparative more binary, superlative most binary)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being in one of two mutually exclusive states.",
+                  "examples": [
+                    "Binary states are often represented as 1 and 0 in computer science."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Concerning logic whose subject matter concerns binary states.",
+                  "examples": [
+                    "Synonym: Boolean"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic, computing) Concerning numbers and calculations using the binary number system.",
+                  "examples": [
+                    "Synonym: base-2"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having two equally important parts; related to something with two parts.",
+                  "examples": [
+                    "Synonyms: dyadic, double, twin; see also Thesaurus:dual",
+                    "binary star",
+                    "Two ingredients are combined in a binary poison.",
+                    "A binary statistical distribution has only two categories."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, programming, computer engineering) Of an operation, function, procedure, or logic gate, taking exactly two operands, arguments, parameters, or inputs; having domain of dimension 2.",
+                  "examples": [
+                    "Division of reals is a binary operation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of data, consisting coded values (e.g. machine code) not interpretable as plain or ASCII text (e.g. source code).",
+                  "examples": [
+                    "Antonym: plain text",
+                    "He downloaded the binary distribution for Linux, then burned it to DVD."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(comparable) Focusing on two mutually exclusive conditions.",
+                  "examples": [
+                    "He has a very binary understanding of gender."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "binary (countable and uncountable, plural binaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A state in which only two values are possible, in which something must have one value or the other.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing, uncountable) The bijective base-2 numeral system, which uses only the digits 0 and 1.",
+                  "examples": [
+                    "Synonym: base 2"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Synonym of binary file; a file consisting of data other than human-readable text.",
+                  "examples": [
+                    "Antonyms: non-binary, text file"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) Synonym of binary asteroid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) Synonym of binary planet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) Synonym of binary star.",
+                  "examples": [
+                    "Synonym: double star"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
