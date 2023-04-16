@@ -1,0 +1,95 @@
+{
+  "word": "assembly",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English assemblee, from Anglo-Norman asemblee (Old French asemblee, French assemblée)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "assembly (countable and uncountable, plural assemblies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A set of pieces that work together in unison as a mechanism or device.",
+                  "examples": [
+                    "In order to change the bearing, you must first remove the gearbox assembly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of putting together a set of pieces, fragments, or elements.",
+                  "examples": [
+                    "instructions for assembly",
+                    "assembly line"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A congregation of people in one place for a purpose.",
+                  "examples": [
+                    "school assembly",
+                    "freedom of assembly"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(politics) A legislative body.",
+                  "examples": [
+                    "the General Assembly of the United Nations",
+                    "New York State Assembly"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A beat of the drum or sound of the bugle as a signal to troops to assemble.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Ellipsis of assembly language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Microsoft .NET) A building block of an application, similar to a DLL, but containing both executable code and information normally found in a DLL's type library. The type library information in an assembly, called a manifest, describes public functions, data, classes, and version information.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

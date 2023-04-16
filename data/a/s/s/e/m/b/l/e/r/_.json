@@ -1,0 +1,63 @@
+{
+  "word": "assembler",
+  "etymologies": [
+    {
+      "description": [
+        "From assemble +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "assembler (countable and uncountable, plural assemblers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, countable) A program that reads source code written in assembly language and produces executable machine code, possibly together with information needed by linkers, debuggers and other tools.",
+                  "examples": [
+                    "The system includes an 8080 and a Z80 assembler, a Tektronix format downloader and other utilities."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer languages, informal, chiefly uncountable) Assembly language.",
+                  "examples": [
+                    "I wrote that program in assembler."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) One who assembles items.",
+                  "examples": [
+                    "Our father worked as an assembler in a radio factory that would go out of business in the early 1960s,  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nanotechnology, countable) A nanodevice capable of assembling nanodevices, possibly including copies of itself, according to a plan.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
