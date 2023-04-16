@@ -1,0 +1,48 @@
+{
+  "word": "almanac",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English almenak, from Old French almanach, from Medieval Latin almanachus, from Andalusian Arabic الْمَنَاخ‎ (al-manāḵ, “almanac, calendar”), from Arabic الْمُنَاخ‎ (al-munāḵ, “climate”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "almanac (plural almanacs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy, navigation) A book or table listing nautical, astronomical, astrological or other events for the year; sometimes, but not essentially, containing historical and statistical information.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A handbook, typically published annually, containing information on a particular subject",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A GPS signal consisting of coarse orbit and status information for each satellite in the constellation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
