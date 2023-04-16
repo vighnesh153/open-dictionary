@@ -1,0 +1,192 @@
+{
+  "word": "blink",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English blynken, blenken, from Old English blincan (suggested by causative verb blenċan (“to deceive”); > English blench), from Proto-Germanic *blinkaną, a variant of *blīkaną (“to gleam, shine”).",
+        "Cognate with Dutch blinken (“to glitter, shine”), German blinken (“to flash, blink”), Danish blinke (“to flash, twinkle, wink, blink”), Swedish blinka (“to flash, blink, twinkle, wink, blink”). Related to blank, blick, blike, bleak."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "blink (countable and uncountable, plural blinks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of quickly closing both eyes and opening them again.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) The time needed to close and reopen one's eyes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A text formatting feature that causes text to disappear and reappear as a form of visual emphasis.",
+                  "examples": [
+                    "I can think of no good reason to use blink because blinking text and images are annoying, they mark the creator as an amateur, and they have poor browser support."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A glimpse or glance.",
+                  "examples": [
+                    "This is the first blink that ever I had of him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dialect) gleam; glimmer; sparkle",
+                  "examples": [
+                    "Not a blink of light was there."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The dazzling whiteness about the horizon caused by the reflection of light from fields of ice at sea; iceblink",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, in the plural) Boughs cast where deer are to pass, in order to turn or check them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) An ability that allows teleporting, mostly for short distances",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "blink (third-person singular simple present blinks, present participle blinking, simple past and past participle blinked)",
+          "definitionGroups": [
+            {
+              "group": "(intransitive) To close and reopen both eyes quickly.",
+              "entries": [
+                {
+                  "meaning": "(transitive) To close and reopen one's eyes to remove (something) from on or around the eyes.",
+                  "examples": [
+                    "She blinked her tears away."
+                  ]
+                },
+                {
+                  "meaning": "To wink; to twinkle with, or as with, the eye.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To see with the eyes half shut, or indistinctly and with frequent winking, as a person with weak eyes.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To shine, especially with intermittent light; to twinkle; to flicker; to glimmer, as a lamp.",
+                  "examples": [
+                    "The dew was falling fast, the stars began to blink."
+                  ]
+                },
+                {
+                  "meaning": "(Tyneside, obsolete) To glance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To flash on and off at regular intervals.",
+              "entries": [
+                {
+                  "meaning": "To flash headlights on a car at.",
+                  "examples": [
+                    "An urban legend claims that gang members will attack anyone who blinks them."
+                  ]
+                },
+                {
+                  "meaning": "To send a signal with a lighting device.",
+                  "examples": [
+                    "Don't come to the door until I blink twice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hyperbolic) To perform the smallest action that could solicit a response.",
+                  "examples": [
+                    "All the waiters in your grand cafe / Leave their tables when you blink."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To shut out of sight; to evade; to shirk.",
+                  "examples": [
+                    "to blink the question"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To turn slightly sour, or blinky, as beer, milk, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(science fiction, video games) To teleport, mostly for short distances.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
