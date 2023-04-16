@@ -29,7 +29,6 @@ if (filePath !== expectedWordPath) {
   process.exit(1);
 }
 
-// TODO: test file content match
 const expectedDefinition = await grabDefinition(word);
 if (JSON.stringify(expectedDefinition) !== JSON.stringify(fileContent)) {
   console.error(
