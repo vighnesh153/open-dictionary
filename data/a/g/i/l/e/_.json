@@ -1,0 +1,71 @@
+{
+  "word": "agile",
+  "etymologies": [
+    {
+      "description": [
+        "From earlier agil, borrowed from Latin agilis (“agile, nimble”), from agō (“do, act; move”). See agent."
+      ],
+      "adjectives": [
+        {
+          "description": "agile (comparative agiler or more agile, superlative agilest or most agile)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having the faculty of quick motion in the limbs; apt or ready to move.",
+                  "examples": [
+                    "Synonym: nimble",
+                    "an agile creature",
+                    "an agile wit"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Characterised by quick motion.",
+                  "examples": [
+                    "agile movements"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly software engineering) Of or relating to agile software development, a technique for iterative and incremental development of software involving collaboration between teams.",
+                  "examples": [
+                    "agile methods"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "agile (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly software engineering) Agile software development.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
