@@ -1,0 +1,50 @@
+{
+  "word": "aperiodic",
+  "etymologies": [
+    {
+      "description": [
+        "From a- +‎ periodic."
+      ],
+      "adjectives": [
+        {
+          "description": "aperiodic (comparative more aperiodic, superlative most aperiodic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That does not recur periodically",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) That does not have a periodic vibration",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, stochastic processes, of a state) for which any return to it may occur at irregular times; not periodic.",
+                  "examples": [
+                    "Antonym: periodic"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
