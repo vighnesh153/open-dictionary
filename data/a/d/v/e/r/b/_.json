@@ -1,0 +1,82 @@
+{
+  "word": "adverb",
+  "etymologies": [
+    {
+      "description": [
+        "From French adverbe, from Latin adverbium, from ad- (“to”) +‎ verbum (“word, verb”), so called because it is used to supplement other words."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "adverb (plural adverbs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word that modifies a verb, adjective, other adverbs, or various other types of words, phrases, or clauses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In the Raku programming language, a named parameter that modifies the behavior of a routine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "adverb (plural adverbs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word that modifies a verb, adjective, other adverbs, or various other types of words, phrases, or clauses.",
+                  "examples": [
+                    "(modifying a verb) I often went outside hiking during my stay in Japan.",
+                    "(modifying an adjective) It was often cold outside.",
+                    "(modifying another adverb) Not often."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In the Raku programming language, a named parameter that modifies the behavior of a routine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "adverb (third-person singular simple present adverbs, present participle adverbing, simple past and past participle adverbed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) To make into or become an adverb.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
