@@ -1,0 +1,124 @@
+{
+  "word": "accumulator",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin accumulātor, agent noun of accumulō (“pile up”), accumulate +‎ -or."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "accumulator (plural accumulators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literally) One who, or that which, accumulates.",
+                  "examples": [
+                    "Synonym: collector",
+                    "He is a great accumulator of bad jokes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain) A wet-cell storage battery.",
+                  "examples": [
+                    "Looks like it's time to recharge the accumulator again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gambling) A collective bet on successive events, with both stake and winnings being carried forward to accumulate progressively.",
+                  "examples": [
+                    "Synonym: parlay"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanics) A system of elastic springs for relieving the strain upon a rope, as in deep-sea dredging.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(manufacturing) A vessel containing pressurized hot water ready for release as steam.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, hydraulics) A container which stores hydraulic power for release, in the form of a pressurized fluid (often suspended within a larger tank of fluid under pressure).",
+                  "examples": [
+                    "Synonym: shock absorber"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A register or variable used for holding the intermediate results of a computation or data transfer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A derivative contract under which the seller commits to sell shares of an underlying security at a certain strike price, which the buyer is obligated to buy.",
+                  "examples": [
+                    "Synonym: share forward accumulator"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, education, historical) One who takes two higher degrees simultaneously, to reduce their length of study.",
+                  "examples": [
+                    "The first of these two was a compounder, the other who was an accumulator, was lately made provost of Trin. coll. near Dublin, and on the 31st of March 1692 was nominated bish. of Kilmore."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A one way membership function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
