@@ -1,0 +1,82 @@
+{
+  "word": "affine",
+  "etymologies": [
+    {
+      "description": [
+        "from Latin affinis (“connected with”)."
+      ],
+      "adjectives": [
+        {
+          "description": "affine (comparative more affine, superlative most affine)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Assigning finite values to finite quantities.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Of or pertaining to a function expressible as \n  \n    \n      \n        f\n        (\n        \n          \n            \n              x\n              →\n            \n          \n        \n        )\n        =\n        A\n        \n          \n            \n              x\n              →\n            \n          \n        \n        +\n        \n          \n            \n              b\n              →\n            \n          \n        \n      \n    \n    {\\displaystyle f({\\vec {x}})=A{\\vec {x}}+{\\vec {b}}}\n  \n (where \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n is a linear transformation and \n  \n    \n      \n        \n          \n            \n              b\n              →\n            \n          \n        \n      \n    \n    {\\displaystyle {\\vec {b}}}\n  \n is a constant), which, regarded as a transformation, maps parallel lines to parallel lines and finite points to finite points.",
+                  "examples": [
+                    "Now, let P, Q, and R be three noncollinear points that are left fixed by an affine transformation T."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(comparable, chemistry) Of two materials, having mutual affinity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "affine (plural affines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anthropology, genealogy) A relative by marriage.",
+                  "examples": [
+                    "Synonym: in-law"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "affine (third-person singular simple present affines, present participle affining, simple past and past participle affined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To refine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
