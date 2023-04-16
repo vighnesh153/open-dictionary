@@ -1,0 +1,60 @@
+{
+  "word": "arithmetic",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English arsmetike, from Old French arismetique, from Latin arithmētica, arithmeticus, from Ancient Greek ἀριθμητική (τέχνη) (arithmētikḗ (tékhnē), “(art of) counting”), feminine of ἀριθμητικός (arithmētikós, “arithmetical”), from ἀριθμός (arithmós, “number, counting”), from Proto-Indo-European *h₂ri-dʰh₁-mó-s, form of *h₂rey- (“to count, reason”). Used in English since 13th century."
+      ],
+      "adjectives": [
+        {
+          "description": "arithmetic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of, relating to, or using arithmetic; arithmetical.",
+                  "examples": [
+                    "arithmetic geometry"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) Of a progression, mean, etc, computed solely using addition.",
+                  "examples": [
+                    "arithmetic progression"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "arithmetic (usually uncountable, plural arithmetics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The mathematics of numbers (integers, rational numbers, real numbers, or complex numbers) under the operations of addition, subtraction, multiplication, and division.",
+                  "examples": [
+                    "Note that all correctly rounding arithmetics satisfy property A1, as do those with properly truncating addition. All faithful binary arithmetics and all arithmetics with either properly truncating or correctly chopping addition satisfy property A2."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
