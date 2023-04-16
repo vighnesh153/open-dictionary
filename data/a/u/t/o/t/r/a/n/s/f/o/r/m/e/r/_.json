@@ -1,0 +1,32 @@
+{
+  "word": "autotransformer",
+  "etymologies": [
+    {
+      "description": [
+        "auto- +‎ transformer"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "autotransformer (plural autotransformers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical engineering) A transformer with a single winding, its output being taken from taps.",
+                  "examples": [
+                    "One of the principal features of the ordinary configurations of the transformer [...] is the electrical isolation that exists between the primary and secondary windings. [...] Whenever large transformation ratios are involved, safety demands that ordinary transformers be used. However, in instances where the transformation ratio is close to unity (which minimizes the hazard), a transformer employing a single tapped winding may be used with notable advantages.[...] This arrangement is called the autotransformer."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
