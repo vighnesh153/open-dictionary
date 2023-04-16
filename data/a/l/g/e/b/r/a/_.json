@@ -1,0 +1,99 @@
+{
+  "word": "algebra",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin algebrāica, from Arabic word الْجَبْر‎ (al-jabr, “reunion, resetting of broken parts”) in the title of al-Khwarizmi's influential work الْكِتَاب الْمُخْتَصَر فِي حِسَاب الْجَبْر وَالْمُقَابَلَة (al-kitāb al-muḵtaṣar fī ḥisāb al-jabr wa-l-muqābala, “The Compendious Book on Calculation by Completion and Balancing”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "algebra (countable and uncountable, plural algebras)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, mathematics) A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, medicine, historical, rare) The surgical treatment of a dislocated or fractured bone. Also (countable): a dislocation or fracture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, mathematics) The study of algebraic structures.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) A universal algebra.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, algebra) An algebraic structure consisting of a module over a commutative ring (or a vector space over a field) along with an additional binary operation that is bilinear over module (or vector) addition and scalar multiplication.",
+                  "examples": [
+                    "Synonyms: algebra over a field, algebra over a ring"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, set theory, mathematical analysis) A collection of subsets of a given set, such that this collection contains the empty set, and the collection is closed under unions and complements (and thereby also under intersections and differences).",
+                  "examples": [
+                    "Synonyms: field of sets, algebra of sets",
+                    "Hypernym: ring",
+                    "Hyponym: σ-algebra"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) One of several other types of mathematical structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A system or process, that is like algebra by substituting one thing for another, or in using signs, symbols, etc., to represent concepts or ideas.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
