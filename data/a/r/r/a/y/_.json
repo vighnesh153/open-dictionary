@@ -1,0 +1,159 @@
+{
+  "word": "array",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English arrayen, from Anglo-Norman arraier (compare Old French arraier, areer (“to put in order”)), from Medieval Latin arrēdō (“to put in order, arrange, array”), from *rēdum (“preparation, order”), from Frankish *reida (“preparation, order”) or Gothic 𐌲𐌰𐍂𐌰𐌹𐌸𐍃 (garaiþs, “ready, prepared”), from Proto-Germanic *raidaz, *raidiz (“ready”). Doublet of ready."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "array (countable and uncountable, plural arrays)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Clothing and ornamentation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A collection laid out to be viewed in full.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An orderly series, arrangement or sequence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Order; a regular and imposing arrangement; disposition in regular lines; hence, order of battle.",
+                  "examples": [
+                    "drawn up in battle array"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large collection.",
+                  "examples": [
+                    "We offer a dazzling array of choices."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Common name for matrix.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Any of various data structures designed to hold multiple elements of the same type; especially, a data structure that holds these elements in adjacent memory locations so that they may be retrieved using numeric indices.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A ranking or setting forth in order, by the proper officer, of a jury as impanelled in a cause; the panel itself; or the whole body of jurors summoned to attend the court.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A militia.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of hedgehogs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A microarray.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "array (third-person singular simple present arrays, present participle arraying, simple past and past participle arrayed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To clothe and ornament; to adorn or attire.",
+                  "examples": [
+                    "He was arrayed in his finest robes and jewels."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To lay out in an orderly arrangement; to deploy or marshal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) To set in order, as a jury, for the trial of a cause; that is, to call them one at a time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
