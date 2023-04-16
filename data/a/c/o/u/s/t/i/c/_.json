@@ -1,0 +1,82 @@
+{
+  "word": "acoustic",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Medieval Latin acousticus, from Ancient Greek ἀκουστῐκός (akoustikós, “of or for hearing”), from ἀκούω (akoúō, “to hear”) +‎ -ῐκός (-ikós, adjectival suffix)."
+      ],
+      "adjectives": [
+        {
+          "description": "acoustic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": "Pertaining to the sense of hearing, the organs of hearing, or the science of sounds.",
+              "entries": [
+                {
+                  "meaning": "(architecture) (of building materials) Used for soundproofing or modifying sound.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(of a device or system) Utilizing sound energy in its operation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(weaponry) (of an explosive mine or other weapon) Able to be set off by sound waves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Naturally producing or produced by an instrument without electrical amplification or the need thereof.",
+                  "examples": [
+                    "acoustic guitar, acoustic piano"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "acoustic (plural acoustics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually in the plural) The properties or qualities of a room or building that determine how sound is transmitted in it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A medicine or other agent to assist hearing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Clipping of acoustic guitar.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
