@@ -1,0 +1,57 @@
+{
+  "word": "authenticate",
+  "etymologies": [
+    {
+      "description": [
+        "authentic +‎ -ate"
+      ],
+      "adjectives": [
+        {
+          "description": "authenticate (comparative more authenticate, superlative most authenticate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Synonym of authentic.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "authenticate (third-person singular simple present authenticates, present participle authenticating, simple past and past participle authenticated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To render authentic; to give authority to, by the proof, attestation, or formalities required by law, or sufficient to entitle to credit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To prove authentic; to determine as real and true.",
+                  "examples": [
+                    "He didn't manage to authenticate the portrait: it's probably a fake.",
+                    "the server could not authenticate the request"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
