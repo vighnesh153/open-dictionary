@@ -1,0 +1,74 @@
+{
+  "word": "backscatter",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from backscattering."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "backscatter (countable and uncountable, plural backscatters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The deflection of particles and/or radiation through angles greater than 90 degrees to the original direction of travel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The particles and/or radiation deflected in this manner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A portion of the energy of electromagnetic radiation such as a laser or radio waves that is scattered back in the direction of the source of radiation by an obscurant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The sending of IP packets to essentially random addresses in response to incoming packets that have a spoofed origin.",
+                  "examples": [
+                    "Synonyms: blowback, outscatter"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "backscatter (third-person singular simple present backscatters, present participle backscattering, simple past and past participle backscattered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To scatter particles and/or radiation back to the direction from which they come.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
