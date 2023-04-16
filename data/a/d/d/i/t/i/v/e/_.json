@@ -1,0 +1,96 @@
+{
+  "word": "additive",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin additivus, from the participial stem of Latin addere (“to add”)."
+      ],
+      "adjectives": [
+        {
+          "description": "additive (comparative more additive, superlative most additive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Pertaining to addition; that can be, or has been, added.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a function, etc.) That is distributive over addition.",
+                  "examples": [
+                    "Matrix multiplication is additive, in that \n  \n    \n      \n        M\n        \n          \n            \n              v\n              →\n            \n          \n        \n        +\n        M\n        \n          \n            \n              w\n              →\n            \n          \n        \n        =\n        M\n        (\n        \n          \n            \n              v\n              →\n            \n          \n        \n        +\n        \n          \n            \n              w\n              →\n            \n          \n        \n        )\n      \n    \n    {\\displaystyle M{\\vec {v}}+M{\\vec {w}}=M({\\vec {v}}+{\\vec {w}})}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(group theory, of a group, semigroup, etc.) Whose operator is identified as addition.",
+                  "examples": [
+                    "It is natural to look at a finite cyclic group as an additive group."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) Pertaining to chemical addition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) Of or pertaining to genes (or the interaction etc. of such genes) which govern the same trait and whose effects work together on the phenotype.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "additive (plural additives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A substance added to another substance or product to produce specific properties in the combined substance.",
+                  "examples": [
+                    "Oil may be used as an additive in gasoline to improve the lubrication of a small engine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word or phrase that adds something, such as also, even, or nor.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
