@@ -1,0 +1,58 @@
+{
+  "word": "antisymmetric",
+  "etymologies": [
+    {
+      "description": [
+        "anti- +‎ symmetric."
+      ],
+      "adjectives": [
+        {
+          "description": "antisymmetric (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory, order theory, of a binary relation R on a set S) Having the property that, for any two distinct elements of S, at least one is not related to the other via R; equivalently, having the property that, for any x, y ∈ S, if both xRy and yRx then x=y.",
+                  "examples": [
+                    "The standard example for an antisymmetric relation is the relation less than or equal to on the real number system."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(linear algebra, of certain mathematical objects) Whose sign changes on the application of a matrix transpose or some generalisation thereof:",
+              "entries": [
+                {
+                  "meaning": "(of a matrix) Whose transpose equals its negative (i.e., MT = −M);",
+                  "examples": [
+                    "The eigenvalues of an antisymmetric matrix are all purely imaginary numbers, and occur as conjugate pairs, \n  \n    \n      \n        +\n        i\n        w\n      \n    \n    {\\displaystyle +iw}\n  \n and \n  \n    \n      \n        −\n        i\n        w\n      \n    \n    {\\displaystyle -iw}\n  \n. As a corollary it follows that an antisymmetric matrix of odd order necessarily has one eigenvalue equal to zero; antisymmetric matrices of odd order are singular."
+                  ]
+                },
+                {
+                  "meaning": "(of a tensor) That changes sign when any two indices are interchanged (e.g., Tijk = -Tjik);",
+                  "examples": [
+                    "Notice that the tensors defined by:",
+                    "T\n            \n              S\n            \n          \n          ≡\n          \n            \n              1\n              2\n            \n          \n          (\n          T\n          +\n          \n            T\n            \n              T\n            \n          \n          )\n        \n      \n    \n    {\\displaystyle \\textstyle T_{S}\\equiv {\\frac {1}{2}}(T+T^{T})}\n  \n,     \n  \n    \n      \n        \n          \n            T\n            \n              A\n            \n          \n          ≡\n          \n            \n              1\n              2\n            \n          \n          (\n          T\n          −\n          \n            T\n            \n              T\n            \n          \n          )\n          ,\n        \n      \n    \n    {\\displaystyle \\textstyle T_{A}\\equiv {\\frac {1}{2}}(T-T^{T}),}\n  \n     (3.47)",
+                    "are the symmetric and antisymmetric parts, respectively; they are known as the symmetric and antisymmetric parts of T."
+                  ]
+                },
+                {
+                  "meaning": "(of a bilinear form) For which B(w,v) = -B(v,w).",
+                  "examples": [
+                    "Antisymmetric bilinear forms and wedge products are defined exactly as above, only now they are functions from \n  \n    \n      \n        \n          \n            R\n          \n          \n            n\n          \n        \n        ×\n        \n          \n            R\n          \n          \n            n\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {R} ^{n}\\times \\mathbb {R} ^{n}}\n  \n to \n  \n    \n      \n        \n          R\n        \n      \n    \n    {\\displaystyle \\mathbb {R} }\n  \n. […]",
+                    "Exercise 21 Show that every antisymmetric bilinear form on \n  \n    \n      \n        \n          \n            R\n          \n          \n            3\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {R} ^{3}}\n  \n is a wedge product of two covectors."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
