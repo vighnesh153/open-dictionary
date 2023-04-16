@@ -1,0 +1,41 @@
+{
+  "word": "associator",
+  "etymologies": [
+    {
+      "description": [
+        "associate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "associator (plural associators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who or thing that associates.",
+                  "examples": [
+                    "Some of the worthy aſſociators of the county of Suffolk have reſolved, that they would point out every publican within their reſpective pariſhes, as unfit to retain a licence, who did not exert him or herſelf to preſerve good order, and to prevent meetings or clubs, in which ſeditious or treaſonable ſubjects are agitated, being held at his or her houſe.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra)  A multilinear map, given by [x, y, z] = xy(z) − x(yz), that measures the degree of nonassociativity of a ring or algebra.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
