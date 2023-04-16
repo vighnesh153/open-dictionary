@@ -1,0 +1,42 @@
+{
+  "word": "azimuth",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French *azimut (modern French azimut), from Arabic اَلسُّمُوت‎ pl (as-sumūt, “the directions”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "azimuth (plural azimuths)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An arc of the horizon intercepted between the meridian of the place and a vertical circle passing through the center of any object.",
+                  "examples": [
+                    "the azimuth of a star",
+                    "the azimuth or bearing of a line surveying"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quadrant of an azimuth circle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
