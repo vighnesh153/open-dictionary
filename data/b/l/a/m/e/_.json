@@ -1,0 +1,121 @@
+{
+  "word": "blame",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English blame, borrowed from Old French blame, blasme, produced from the verb blasmer, which in turn is derived from Vulgar Latin *blastēmāre, present active infinitive of *blastēmō, from Ecclesiastical Latin, Late Latin blasphēmō, ultimately from Ancient Greek βλασφημέω (blasphēméō). Doublet of blaspheme. Displaced native Old English tǣling (“blame”) and tǣlan (“to blame”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "blame (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Censure.",
+                  "examples": [
+                    "Blame came from all directions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Culpability for something negative or undesirable.",
+                  "examples": [
+                    "The blame for starting the fire lies with the arsonist."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Responsibility for something meriting censure.",
+                  "examples": [
+                    "They accepted the blame, but it was an accident."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A source control feature that can show which user was responsible for a particular portion of the source code.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English blamen, borrowed from Old French blasmer, from Ecclesiastical Latin blasphēmō (“to reproach, to revile”), from Ancient Greek βλασφημέω (blasphēméō). Compare blaspheme, a doublet. Overtook common use from the native wite (“to blame, accuse, reproach, suspect”) (from Middle English wīten, from Old English wītan)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "blame (third-person singular simple present blames, present participle blaming, simple past and past participle blamed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To censure (someone or something); to criticize.",
+                  "examples": [
+                    "That was the year that Sir Richard was writing his volume on Domestic Life in Tartary. The critics all blamed it for a lack of concentration."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To bring into disrepute.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, usually followed by \"for\") To assert or consider that someone is the cause of something negative; to place blame, to attribute responsibility (for something negative or for doing something negative).",
+                  "examples": [
+                    "The student driver was blamed for the accident."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, with \"on\") To assert the cause of some bad event.",
+                  "examples": [
+                    "We blamed the accident on the student driver."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
