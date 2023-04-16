@@ -1,0 +1,101 @@
+{
+  "word": "adulterate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin adulterātus (“(adjective) adulterated; of mixed descent; (verb) adulterated, corrupted, defiled, polluted; committed adultery with; (figuratively) counterfeited, falsified”) + English -ate (suffix forming adjectives with the sense ‘having the specified thing’, and verbs with the sense ‘acting in the specified manner’). Adulterātus is the perfect passive participle of adulterō (“to adulterate, corrupt, defile, pollute; to commit adultery with; (figuratively) to counterfeit, falsify”) + -ātus (suffix forming adjectives indicating the possession of a thing or a quality, from nouns); adulterō is derived from ad- (prefix intensifying the action of verbs) + alterō (“to alter, change”) (from alter (“the other”) (ultimately from Proto-Indo-European *h₂el- (“beyond; other”) + *-teros (suffix forming contrastive or oppositional adjectives)) + -ō (suffix forming first-conjugation verbs)."
+      ],
+      "adjectives": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "adulterate (comparative more adulterate, superlative most adulterate) (archaic, literary)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Corrupted or made impure by being mixed with something else; adulterated. [common in the 16th and 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Tending to commit adultery; relating to or being the product of adultery; adulterous. [common in the 16th and 17th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "adulterate (third-person singular simple present adulterates, present participle adulterating, simple past and past participle adulterated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To corrupt, to debase (someone or something).",
+                  "examples": [
+                    "Synonym: sophisticate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make less valuable or spoil (something) by adding impurities or other substances.",
+                  "examples": [
+                    "Synonyms: (obsolete) adulter, debase, sophisticate",
+                    "to adulterate coins, drugs, food and drink, etc."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To commit adultery with (someone).",
+                  "examples": [
+                    "Synonym: (obsolete) adulter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To defile (someone) by adultery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, also figuratively, archaic) To commit adultery.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
