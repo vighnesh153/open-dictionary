@@ -1,0 +1,47 @@
+{
+  "word": "accessibility",
+  "etymologies": [
+    {
+      "description": [
+        "From accessible +‎ -ity, after Late Latin accessibilitas, from Latin accessibilis."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "accessibility (usually uncountable, plural accessibilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality of being accessible, or of admitting approach; receptiveness.",
+                  "examples": [
+                    "Antonym: inaccessibility"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, web design) Features that increase software usability for users with certain impairments.",
+                  "examples": [
+                    "Synonym: a11y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
