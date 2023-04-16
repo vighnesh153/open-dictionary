@@ -1,0 +1,70 @@
+{
+  "word": "align",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English alynen, alinen (“copulate”), from Middle French aligner, from Old French alignier, from a- + lignier, from Latin lineare (“make straight or perpendicular”), from the noun linea (“line”), from līneus (“flaxen; flaxen [thing]”), from līnum (“flax”), likely ultimately from Proto-Indo-European *līnom (compare linen)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "align (third-person singular simple present aligns, present participle aligning, simple past and past participle aligned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To form a line; to fall into line.",
+                  "examples": [
+                    "The pedestrians aligned in such a way that from above they made a pyramidal pattern."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To adjust or form to a line; to range or form in line; to bring into line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To store (data) in a way that is consistent with the memory architecture, i.e. by beginning each item at an offset equal to some multiple of the word size.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, reflexive) To identify (oneself) with, match, or support the behaviour, thoughts, etc. of another person, organization, or country.",
+                  "examples": [
+                    "Synonyms: ally, support"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bioinformatics) To organize a linear arrangement of DNA, RNA or protein sequences which have regions of similarity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
