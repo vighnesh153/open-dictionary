@@ -1,0 +1,297 @@
+{
+  "word": "bind",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English binden, from Old English bindan, from Proto-West Germanic *bindan, from Proto-Germanic *bindaną (compare West Frisian bine, Dutch binden, Low German binnen, German binden, Danish binde), from Proto-Indo-European *bʰéndʰ-e-ti, from *bʰendʰ- (“to tie”).",
+        "Compare Welsh benn (“cart”), Latin offendīx (“knot, band”), Lithuanian beñdras (“partner”), Albanian bind (“to convince, to awe, to spell”), Ancient Greek πεῖσμα (peîsma, “cable, rope”), Persian بستن‎ (bastan, “to bind”), Sanskrit बन्धति (bándhati). Doublet of bandana."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bind (plural binds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which binds or ties.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A troublesome situation; a problem; a predicament or quandary.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:difficult situation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any twining or climbing plant or stem, especially a hop vine; a bine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A ligature or tie for grouping notes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess) A strong grip or stranglehold on a position, which is difficult for the opponent to break.",
+                  "examples": [
+                    "the Maróczy Bind"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The indurated clay of coal mines.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bind (third-person singular simple present binds, present participle binding, simple past bound or (nonstandard) binded, past participle bound or (nonstandard) binded or (archaic, rare) bounden)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To tie; to confine by any ligature.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To cohere or stick together in a mass.",
+                  "examples": [
+                    "Just to make the cheese more binding"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be restrained from motion, or from customary or natural action, as by friction.",
+                  "examples": [
+                    "I wish I knew why the sewing machine binds up after I use it for a while."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To exert a binding or restraining influence.",
+                  "examples": [
+                    "These are the ties that bind."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To tie or fasten tightly together, with a cord, band, ligature, chain, etc.",
+                  "examples": [
+                    "to bind grain in bundles  to bind a prisoner",
+                    "Synonyms: fetter, make fast, tie, fasten, restrain"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To confine, restrain, or hold by physical force or influence of any kind.",
+                  "examples": [
+                    "Gravity binds the planets to the sun.",
+                    "Frost binds the earth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To couple.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) To oblige, restrain, or hold, by authority, law, duty, promise, vow, affection, or other social tie.",
+                  "examples": [
+                    "to bind the conscience  to bind by kindness  bound by affection  commerce binds nations to each other"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) To put (a person) under definite legal obligations, especially, under the obligation of a bond or covenant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) To place under legal obligation to serve.",
+                  "examples": [
+                    "to bind an apprentice  bound out to service",
+                    "Synonym: indenture"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To protect or strengthen by applying a band or binding, as the edge of a carpet or garment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To make fast (a thing) about or upon something, as by tying; to encircle with something.",
+                  "examples": [
+                    "to bind a belt about one  to bind a compress upon a wound"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover, as with a bandage.",
+                  "examples": [
+                    "to bind up a wound",
+                    "Synonyms: bandage, dress"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To prevent or restrain from customary or natural action, as by producing constipation.",
+                  "examples": [
+                    "Certain drugs bind the bowels."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put together in a cover, as of books.",
+                  "examples": [
+                    "The three novels were bound together."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chemistry) To make two or more elements stick together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To associate an identifier with a value; to associate a variable name, method name, etc. with the content of a storage location.",
+                  "examples": [
+                    "We bind the variable n to the value 2, and xs to \"abcd\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To process one or more object modules into an executable program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dialect) To complain; to whine about something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, LGBT) To wear a binder so as to flatten one's chest to give the appearance of a flat chest, usually done by trans men.",
+                  "examples": [
+                    "I haven't binded since I got my top surgery.",
+                    "I hear binder tech has improved since I last bound."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
