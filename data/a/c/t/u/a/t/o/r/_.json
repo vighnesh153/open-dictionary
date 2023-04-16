@@ -1,0 +1,57 @@
+{
+  "word": "actuator",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "actuator (plural actuators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that actuates something else.",
+                  "examples": [
+                    "The mind is the actuator of the body."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A usually electric device that causes a mechanical device (i.e., a mechanism) to be switched on or off. For example; an electric motor that opens and closes a valve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer hardware) The mechanism that moves the head assembly on a disk drive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical) A relay that controls the flow of electricity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
