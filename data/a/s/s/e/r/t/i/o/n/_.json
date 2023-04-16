@@ -1,0 +1,74 @@
+{
+  "word": "assertion",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French assertion, from Latin assertio."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "assertion (countable and uncountable, plural assertions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of asserting; positive declaration or averment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something which is asserted; a declaration; a statement asserted.",
+                  "examples": [
+                    "You're a man of strong assertions!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A statement or declaration which lacks support or evidence.",
+                  "examples": [
+                    "That's just a bare assertion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Maintenance; vindication",
+                  "examples": [
+                    "the assertion of one's rights or prerogatives"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A statement in a program asserting a condition expected to be true at a particular point, used in debugging.",
+                  "examples": [
+                    "The user should be absolutely confident that the error issued is a real design error. In other words, a user should be confident that his assertion code is correct and that the assertion failure is not a false condition."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
