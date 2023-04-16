@@ -1,0 +1,30 @@
+{
+  "word": "basename",
+  "etymologies": [
+    {
+      "description": [
+        "base +‎ name"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "basename (plural basenames)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A filename without any path or directory information.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
