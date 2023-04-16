@@ -1,0 +1,99 @@
+{
+  "word": "assert",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin assertus, perfect passive participle of asserō (“declare someone free or a slave by laying hands upon him; hence free from, protect, defend; lay claim to, assert, declare”), from ad (“to”) + serō (“join, range in a row”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "assert (plural asserts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) an assertion; a section of source code which tests whether an expected condition is true.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "assert (third-person singular simple present asserts, present participle asserting, simple past and past participle asserted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To declare with assurance or plainly and strongly; to state positively.",
+                  "examples": [
+                    "He would often assert that there was life on other planets."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To use or exercise and thereby prove the existence of.",
+                  "examples": [
+                    "to assert one's authority",
+                    "Salman Rushdie has asserted his right to be identified as the author of this work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To maintain or defend, as a cause or a claim, by words or measures; to vindicate a claim or title to",
+                  "examples": [
+                    "to assert our rights and liberties"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(reflexive) To insist on the legitimacy of one's rights, opinion, etc; not to allow oneself to be dismissed; to ensure that one is taken into consideration; to make oneself respected; to be assertive.",
+                  "examples": [
+                    "Since going to therapy, I've found it much easier to assert myself."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To specify that a condition or expression is true at a certain point in the code.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) To set a signal on a line using a voltage or electric current.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
