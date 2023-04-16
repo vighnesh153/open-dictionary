@@ -1,0 +1,160 @@
+{
+  "word": "bias",
+  "etymologies": [
+    {
+      "description": [
+        "c. 1520 in the sense \"oblique line\". As a technical term in the game of bowls c. 1560, whence the figurative use (c. 1570).",
+        "From French biais, adverbially (\"sideways, askance, against the grain\") c. 1250, as a noun (\"oblique angle, slant\")  from the late 16th century.\nThe French word is likely from  Old Occitan biais, itself of obscure origin, most likely from an unattested Latin *biaxius \"with two axes\"."
+      ],
+      "adjectives": [
+        {
+          "description": "bias (comparative more bias, superlative most bias)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Inclined to one side; swelled on one side.",
+                  "examples": [
+                    "Synonym: biased"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Cut slanting or diagonally, as cloth.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "bias (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a slanting manner; crosswise; obliquely; diagonally.",
+                  "examples": [
+                    "to cut cloth bias"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "bias (countable and uncountable, plural biases or biasses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) Inclination towards something.",
+                  "examples": [
+                    "Synonyms: predisposition, partiality, prejudice, preference, predilection"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, textiles) The diagonal line between warp and weft in a woven fabric.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, textiles) A wedge-shaped piece of cloth taken out of a garment (such as the waist of a dress) to diminish its circumference.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A voltage or current applied to an electronic device, such as a transistor electrode, to move its operating point to a desired part of its transfer function.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) The difference between the expectation of the sample estimator and the true population value, which reduces the representativeness of the estimator by systematically distorting it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) In the games of crown green bowls and lawn bowls: a weight added to one side of a bowl so that as it rolls, it will follow a curved rather than a straight path; the oblique line followed by such a bowl; the lopsided shape or structure of such a bowl. In lawn bowls, the curved course is caused only by the shape of the bowl. The use of weights is prohibited.[from 1560s]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(South Korean idol fandom) A person's favourite member of a K-pop band.",
+                  "examples": [
+                    "The last thing you want is for your camera to die when you finally get that selca with your bias."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bias (third-person singular simple present biases or biasses, present participle biasing or biassing, simple past and past participle biased or biassed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place bias upon; to influence.",
+                  "examples": [
+                    "Our prejudices bias our views."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) To give a bias to.",
+                  "examples": [
+                    "On the ohmic side n+ is implanted to provide the ohmic contact to bias the detector."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
