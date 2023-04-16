@@ -1,0 +1,45 @@
+{
+  "word": "blit",
+  "etymologies": [
+    {
+      "description": [
+        "From BitBLT, the name of a computer graphics operation which stands for bit-block transfer and is pronounced bit blit."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "blit (plural blits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A logical operation in which a block of data is rapidly moved or copied in memory, most commonly used to animate two-dimensional graphics.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "blit (third-person singular simple present blits, present participle blitting, simple past and past participle blitted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To transfer by a blit operation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
