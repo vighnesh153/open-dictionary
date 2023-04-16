@@ -1,0 +1,58 @@
+{
+  "word": "adiabatic",
+  "etymologies": [
+    {
+      "description": [
+        "19th-century coinage (introduced by W. J. M. Rankine in the 1860s) based on Ancient Greek ἀδιάβατος (adiábatos, “impassable”), used of terrain (rivers, forests) by Xenophon, from ἀ- (a-, “not”) + διά (diá, “through”) + βατός (batós, “passable”), from βαίνω (baínō, “to go”)."
+      ],
+      "adjectives": [
+        {
+          "description": "adiabatic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, thermodynamics, of a process) That occurs without gain or loss of heat (and thus with no change in entropy, in the quasistatic approximation).",
+                  "examples": [
+                    "Antonym: diabatic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, quantum mechanics, of a process) That involves the slow change of the Hamiltonian of a system from its initial value to a final value.",
+                  "examples": [
+                    "Antonym: nonadiabatic"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "adiabatic (plural adiabatics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An adiabatic curve or graph",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
