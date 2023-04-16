@@ -1,0 +1,41 @@
+{
+  "word": "asymptotic",
+  "etymologies": [
+    {
+      "description": [
+        "From asymptote +‎ -ic."
+      ],
+      "adjectives": [
+        {
+          "description": "asymptotic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Pertaining to values or properties approached at infinity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis) Coming into consideration as a variable tends to a limit, usually infinity.",
+                  "examples": [
+                    "The asymptotic behavior of a function"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "word": "asymptote",
+  "etymologies": [
+    {
+      "description": [
+        "circa 1650, from Ancient Greek ἀσύμπτωτη (asúmptōtē), the feminine of Apollonius Pergaeus' (circa 200 BC) Ancient Greek adjective ἀσύμπτωτος (asúmptōtos, “not falling together”), from ἀ- (a-, “not”) +‎ συν- (sun-, “together”) +‎ πτωτός (ptōtós, “fallen”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "asymptote (plural asymptotes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis) A straight line which a curve approaches arbitrarily closely as it goes to infinity. The limit of the curve; its tangent \"at infinity\".",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, figuratively) Anything which comes near to but never meets something else.",
+                  "examples": [
+                    "Language, in relation to thought, must ever be regarded as an asymptote."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "asymptote (third-person singular simple present asymptotes, present participle asymptoting, simple past and past participle asymptoted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis) To approach, but never quite touch, a straight line, as something goes to infinity.",
+                  "examples": [
+                    "As you become more scientific, yes, the religiosity drops off, but it asymptotes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
