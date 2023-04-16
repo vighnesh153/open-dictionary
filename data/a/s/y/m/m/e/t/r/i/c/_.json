@@ -1,0 +1,51 @@
+{
+  "word": "asymmetric",
+  "etymologies": [
+    {
+      "description": [
+        "From a- +‎ symmetric, as Ancient Greek ἀσυμμετρία (asummetría, “disproportion, deformity”)."
+      ],
+      "adjectives": [
+        {
+          "description": "asymmetric (comparative more asymmetric, superlative most asymmetric)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not symmetric.",
+                  "examples": [
+                    "an asymmetric shape",
+                    "asymmetric gameplay, where different players have different experiences"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) Not involving a mutual exchange of keys between the sender and receiver.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) Of a relation R on a set S: having the property that for any two elements of S (not necessarily distinct), at least one is not related to the other via R.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
