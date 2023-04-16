@@ -1,0 +1,109 @@
+{
+  "word": "award",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English awarden, from Anglo-Norman awarder, from Medieval Latin *exwardare, from Latin ex (“out”) + Medieval Latin wardare, guardare (“to observe, regard, guard”); see ward, guard, regard."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "award (plural awards)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The paper containing the decision of arbitrators; that which is warded.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A trophy or medal; something that denotes an accomplishment, especially in a competition. A prize or honor based on merit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, NZ, industrial relations) A negotiated set of employment conditions and minimum wages for a particular trade or industry; an industrial award.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "award (third-person singular simple present awards, present participle awarding, simple past and past participle awarded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To determine; to make or grant an award.",
+                  "examples": [
+                    "Synonym: crown"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give (an award).",
+                  "examples": [
+                    "Synonym: bestow",
+                    "Four or five of these medals are awarded every year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give (a person) an award.",
+                  "examples": [
+                    "He was awarded the Nobel Prize for Literature."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To give by sentence or judicial determination; to assign or apportion, after careful regard to the nature of the case.",
+                  "examples": [
+                    "Synonym: adjudge",
+                    "the arbitrators awarded damages to the complainant"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
