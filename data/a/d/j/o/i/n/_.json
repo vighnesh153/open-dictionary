@@ -1,0 +1,43 @@
+{
+  "word": "adjoin",
+  "etymologies": [
+    {
+      "description": [
+        "From Anglo-Norman adjoindre, from Latin adiungō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "adjoin (third-person singular simple present adjoins, present participle adjoining, simple past and past participle adjoined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To be in contact or connection with.",
+                  "examples": [
+                    "The living room and dining room adjoin each other."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics, chiefly algebra and number theory) To extend an algebraic object (e.g. a field, a ring, etc.) by adding to it (an element not belonging to it) and all finite power series of (the element).",
+                  "examples": [
+                    "Q\n          \n        \n        \n          (\n          \n            \n              2\n            \n          \n          )\n        \n      \n    \n    {\\displaystyle {\\textbf {Q}}\\left({\\sqrt {2}}\\right)}\n  \n can be obtained from \n  \n    \n      \n        \n          \n            Q\n          \n        \n      \n    \n    {\\displaystyle {\\textbf {Q}}}\n  \n by adjoining \n  \n    \n      \n        \n          \n            2\n          \n        \n      \n    \n    {\\displaystyle {\\sqrt {2}}}\n  \n to \n  \n    \n      \n        \n          \n            Q\n          \n        \n      \n    \n    {\\displaystyle {\\textbf {Q}}}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
