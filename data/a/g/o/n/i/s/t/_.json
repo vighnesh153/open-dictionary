@@ -1,0 +1,52 @@
+{
+  "word": "agonist",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Ancient Greek ἀγωνιστής (agōnistḗs, “combatant, champion”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "agonist (plural agonists)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone involved in a contest or battle (as in an agon), protagonist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The muscle that contracts while the other relaxes.",
+                  "examples": [
+                    "When bending the elbow, the biceps is the agonist."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry, pharmacology) A molecule that can combine with a receptor on a cell to produce a physiological reaction.",
+                  "examples": [
+                    "Acetylcholine is an agonist at the cholinergic receptor."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
