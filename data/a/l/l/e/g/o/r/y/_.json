@@ -1,0 +1,57 @@
+{
+  "word": "allegory",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English allegorie, from Old French allegorie, from Latin allegoria, from Ancient Greek ἀλληγορία (allēgoría), from ἄλλος (állos, “other”) + ἀγορεύω (agoreúō, “I speak”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "allegory (countable and uncountable, plural allegories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) A narrative in which a character, place, or event is used to deliver a broader message about real-world issues and occurrences.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A picture, book, or other form of communication using such representation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A symbolic representation which can be interpreted to reveal a hidden meaning, usually a moral or political one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, category theory) A category that retains some of the structure of the category of binary relations between sets, representing a high-level generalisation of that category.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
