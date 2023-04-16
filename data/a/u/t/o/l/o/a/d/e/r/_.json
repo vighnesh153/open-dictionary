@@ -1,0 +1,57 @@
+{
+  "word": "autoloader",
+  "etymologies": [
+    {
+      "description": [
+        "auto- +‎ loader"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "autoloader (plural autoloaders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A mechanical device that loads ordnance into weapons such as tanks and artillery that would otherwise be loaded by a dedicated crew.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A mechanical device that automatically loads storage media (such as tapes or disks) into the device that can read them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A software mechanism that automatically locates and loads classes etc. as required at run time.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(firearms) A semi-automatic firearm.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
