@@ -1,0 +1,30 @@
+{
+  "word": "antidictionary",
+  "etymologies": [
+    {
+      "description": [
+        "From anti- (“opposite of, reverse”, prefix) +‎ dictionary."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "antidictionary (plural antidictionaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computational linguistics) The set of all words of minimal length that never appear in a particular string.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
