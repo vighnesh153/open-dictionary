@@ -1,0 +1,54 @@
+{
+  "word": "antithetic",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "antithetic (comparative more antithetic, superlative most antithetic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "diametrically opposed",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "antithetical",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "antithetic (plural antithetics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Short for antithetic variate.",
+                  "examples": [
+                    "Unlike antithetics, a control variable can be used for any attribute of the random variable Y that is being simulated  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
