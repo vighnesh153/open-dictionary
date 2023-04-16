@@ -1,0 +1,41 @@
+{
+  "word": "betweenness",
+  "etymologies": [
+    {
+      "description": [
+        "between +‎ -ness"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "betweenness (countable and uncountable, plural betweennesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The state or quality of being between.",
+                  "examples": [
+                    "Synonyms: betweenhood, betwixtness"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory, countable) A measure of the number of geodesic paths through a node or edge.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
