@@ -1,0 +1,68 @@
+{
+  "word": "append",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin appendere (“to hang up, suspend on, pay out”), via Old French apendre, appendre, via Middle English appenden; from ad (“on, upon, against”) + pendere (“to suspend, hang”), equivalent to ad- +‎ pend. Compare with Old English appenden, apenden (“to belong”). See also pendant."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "append (plural appends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An instance of writing more data to the end of an existing file.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "append (third-person singular simple present appends, present participle appending, simple past and past participle appended)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hang or attach to, as by a string, so that the thing is suspended",
+                  "examples": [
+                    "a seal appended to a record",
+                    "An inscription was appended to the column."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To add, as an accessory to the principal thing; to annex",
+                  "examples": [
+                    "notes appended to a book chapter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To write more data to the end of a pre-existing file, string, or other object.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
