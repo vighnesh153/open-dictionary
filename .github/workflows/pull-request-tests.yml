@@ -19,4 +19,4 @@ jobs:
         run: npm install
 
       - name: Log changed files
-        run: git --no-pager diff --name-only FETCH_HEAD $(git merge-base FETCH_HEAD main)
+        run: git --no-pager diff --name-only FETCH_HEAD...main
