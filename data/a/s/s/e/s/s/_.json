@@ -1,0 +1,55 @@
+{
+  "word": "assess",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English assessen, from Old French assesser, from Medieval Latin assessare, originally the frequentative of Latin assessus, past participle of assidēre, from ad (“to, towards, at”) + sedeō (“sit; settle down”). Cognate with Spanish asentar (“to settle”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "assess (third-person singular simple present assesses, present participle assessing, simple past and past participle assessed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To determine, estimate or judge the value of; to evaluate",
+                  "examples": [
+                    "He assessed the situation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To impose or charge, especially as punishment for an infraction.",
+                  "examples": [
+                    "The referee assessed a penalty for delaying the game.",
+                    "A $10.00 late fee will be assessed on all overdue accounts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To calculate and demand (the tax money due) from a person or entity.",
+                  "examples": [
+                    "Once you've submitted a tax return, the Tax Department will assess the amount of tax you still owe."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
