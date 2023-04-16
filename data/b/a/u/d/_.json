@@ -1,0 +1,39 @@
+{
+  "word": "baud",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French baud. Named for French inventor Jean-Maurice-Émile Baudot (1845-1903)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "baud (countable and uncountable, plural bauds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, telecommunications) A unit of data transmission symbol rate; the number of signalling events per second.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, informal) bps (bits per second), regardless of how many bits are represented by each symbol.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
