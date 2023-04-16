@@ -1,0 +1,63 @@
+{
+  "word": "acquire",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English acqueren, from Old French aquerre, from Latin acquirō; ad- + quaerō (“to seek for”). See quest."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "acquire (third-person singular simple present acquires, present participle acquiring, simple past and past participle acquired)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To get.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To gain, usually by one's own exertions; to get as one's own",
+                  "examples": [
+                    "He acquired a title.",
+                    "all the riches he acquired were from hard work.",
+                    "One should acquire as much knowledge as possible from reading.",
+                    "to acquire a skill",
+                    "to acquire decent habits and manners"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) To contract.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To sample signals and convert them into digital values.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
