@@ -1,0 +1,55 @@
+{
+  "word": "associative",
+  "etymologies": [
+    {
+      "description": [
+        "From associate +‎ -ive."
+      ],
+      "adjectives": [
+        {
+          "description": "associative (comparative more associative, superlative most associative)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to, resulting from, or characterised by association; capable of associating; tending to associate or unite.",
+                  "examples": [
+                    "At present conditioning is viewed as a special case of associative learning which provides an animal (and human being alike) with die ability to discover, memorize, retrieve, and use relationships between signals and reinforcers and also to control rewards and aversive events."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of a binary operator \n  \n    \n      \n        ∗\n      \n    \n    {\\displaystyle *}\n  \n) Such that, for any operands \n  \n    \n      \n        a\n        ,\n        b\n      \n    \n    {\\displaystyle a,b}\n  \n and \n  \n    \n      \n        c\n      \n    \n    {\\displaystyle c}\n  \n, \n  \n    \n      \n        (\n        a\n        ∗\n        b\n        )\n        ∗\n        c\n        =\n        a\n        ∗\n        (\n        b\n        ∗\n        c\n        )\n      \n    \n    {\\displaystyle (a*b)*c=a*(b*c)}\n  \n; (of a ring, etc.) whose multiplication operation is associative.",
+                  "examples": [
+                    "Perhaps it is an advantage of the \"associative algebraic geometry\" we have tried to develop in foregoing chapters that it is independent of braidings and further generalizations because it will remain valid as long as the corresponding \"function\"-rings constructed in these theories are associative algebras."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Addressable by a key more complex than an integer index.",
+                  "examples": [
+                    "AWK's associative arrays may be indexed by strings.",
+                    "Associative memories were once given considerable attention."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
