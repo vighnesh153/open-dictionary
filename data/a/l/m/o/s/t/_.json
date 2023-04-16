@@ -1,0 +1,65 @@
+{
+  "word": "almost",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English [Term?], from Old English eallmǣst (“nearly all, almost, for the most part”), equivalent to al- (“all”) +‎ most."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "almost (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Very close to, but not quite.",
+                  "examples": [
+                    "Synonym: (obsolete) environ",
+                    "Almost all people went there. (not all but very close to it)",
+                    "We almost missed the train. (not missed but very close to it)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(mathematics) Up to, except for a negligible set (where negligible is not universally but contextually defined).",
+              "entries": [
+                {
+                  "meaning": "(measure theory, probability theory) Up to a null set; except for a set of measure 0.",
+                  "examples": [
+                    "almost everywhere",
+                    "almost nowhere",
+                    "almost certain",
+                    "almost sure"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "almost (plural almosts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Something or someone that doesn't quite make it.",
+                  "examples": [
+                    "In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
