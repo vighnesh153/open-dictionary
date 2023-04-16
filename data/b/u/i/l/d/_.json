@@ -1,0 +1,138 @@
+{
+  "word": "build",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English bilden, bulden, bylden, from Old English byldan and bytlan, bytlian (“to build”), from Proto-West Germanic *buþlijan (“to build”), from Proto-Germanic *buþlą, *bōþlą (“house, dwelling, farm”), from Proto-Indo-European *bʰuH- (“to become, grow, thrive, be, live, dwell”). Related to Old English botl (“building, house”). More at bottle."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "build (countable and uncountable, plural builds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) The physique of a human or animal body, or other object; constitution or structure.",
+                  "examples": [
+                    "Rugby players are of sturdy build."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, countable) Any of various versions of a software product as it is being developed for release to users.",
+                  "examples": [
+                    "The computer company has introduced a new prototype build to beta testers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gaming, slang, countable) A structure, such as a building, statue, pool or forest, or a configuration of a character's items or skills, created by the player.",
+                  "examples": [
+                    "I made a build that looked like the Parthenon in that game."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "build (third-person singular simple present builds, present participle building, simple past and past participle built or (archaic or poetic) builded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To form (something) by combining materials or parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To develop or give form to (something) according to a plan or process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To increase or strengthen (something) by adding gradually to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To establish a basis for (something).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To form by combining materials or parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To develop in magnitude or extent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To construct (software) by compiling its source code.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing, of source code) To be converted into software by compilation, usually with minimal human intervention.",
+                  "examples": [
+                    "This code won’t build any more. Have you made any changes?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

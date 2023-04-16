@@ -1,0 +1,59 @@
+{
+  "word": "builder",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English byldere, buyldere, perhaps dissimilated (with change of suffix) from Old English bylda (“builder”), equivalent to build +‎ -er. Compare also Old English bȳtla (“hammerer, builder”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "builder (plural builders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who builds or constructs things.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(trade) Master artisan, who receives his instructions from the architect, and employs workers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare, bodybuilding) A bodybuilder.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Software that allows the user to create a certain kind of automated output.",
+                  "examples": [
+                    "To cut coding time and to insure maintainability of the algorithms, an \"algorithm builder tool\" was constructed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
