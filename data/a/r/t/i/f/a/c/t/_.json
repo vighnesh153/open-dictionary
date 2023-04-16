@@ -1,0 +1,103 @@
+{
+  "word": "artifact",
+  "etymologies": [
+    {
+      "description": [
+        "Alteration of artefact, from Italian artefatto, from Latin arte (“by skill”) (ablative of ars (“art”)) + factum (“thing made”) (from facio (“to make, do”))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "artifact (plural artifacts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object made or shaped by human hand or labor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object made or shaped by some agent or intelligence, not necessarily of direct human origin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something viewed as a product of human agency or conception rather than an inherent element.",
+                  "examples": [
+                    "The very act of looking at a naked model was an artifact of male supremacy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A finding or structure in an experiment or investigation that is not a true feature of the object under observation, but is a result of external action, the test arrangement, or an experimental error.",
+                  "examples": [
+                    "The spot on his lung turned out to be an artifact of the X-ray process."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaeology) An object, such as a tool, ornament, or weapon of archaeological or historical interest, especially such an object found at an archaeological excavation.",
+                  "examples": [
+                    "The dig produced many Roman artifacts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) An appearance or structure in protoplasm due to death, the method of preparation of specimens, or the use of reagents, and not present during life.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A perceptible distortion that appears in an audio or video file or a digital image as a result of applying a lossy compression or other inexact processing algorithm.",
+                  "examples": [
+                    "This JPEG image has been so highly compressed that it has unsightly artifacts, making it unsuitable for the cover of our magazine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(museology) Any object in the collection of a museum.  May be used sensu stricto only for human-made objects, or may include ones that are not human-made.",
+                  "examples": [
+                    "Coordinate terms: object, specimen"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
