@@ -1,0 +1,233 @@
+{
+  "word": "bleed",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English bleden, from Old English blēdan (“to bleed”), from Proto-West Germanic *blōdijan, from Proto-Germanic *blōþijaną (“to bleed”), from *blōþą (“blood”). Cognate with Scots blede, bleid (“to bleed”), Saterland Frisian bläide (“to bleed”), West Frisian bliede (“to bleed”), Dutch bloeden (“to bleed”), Low German blöden (“to bleed”), German bluten (“to bleed”), Danish bløde (“to bleed”), Swedish blöda (“to bleed”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bleed (countable and uncountable, plural bleeds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An incident of bleeding, as in haemophilia.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation, usually in the plural) A system for tapping hot, high-pressure air from a gas turbine engine for purposes such as cabin pressurization and airframe anti-icing.",
+                  "examples": [
+                    "When taking off at high altitude or at near-maximum weight, the bleeds have to be turned off temporarily, as they decrease engine power somewhat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) A narrow edge around a page layout, to be printed but cut off afterwards (added to allow for slight misalignment, especially with pictures that should run to the edge of the finished sheet).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sound recording) The situation where sound is picked up by a microphone from a source other than that which is intended.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The removal of air bubbles from a pipe containing other fluids.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, role-playing games) The phenomenon of in-character feelings affecting a player's feelings or actions outside of the game.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bleed (third-person singular simple present bleeds, present participle bleeding, simple past and past participle bled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a person, animal or body part) To lose blood through an injured blood vessel.",
+                  "examples": [
+                    "If her nose bleeds, try to use ice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To let or draw blood from.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take large amounts of money from.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To steadily lose (something vital).",
+                  "examples": [
+                    "The company was bleeding talent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of an ink or dye) To spread from the intended location and stain the surrounding cloth or paper.",
+                  "examples": [
+                    "Ink traps counteract bleeding."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove air bubbles from a pipe containing other fluids.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To tap off high-pressure gas (usually air) from a system that produces high-pressure gas primarily for another purpose.",
+                  "examples": [
+                    "At low engine speeds, valves open to bleed some of the highly-compressed air from the later compressor stages, helping to prevent engine surging.",
+                    "High-pressure air bled from the APU is used to spin up the engines and run the APU generator and hydraulic pump, and can also be used to pressurise the cabin if necessary."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To bleed on; to make bloody.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, copulative) To show one's group loyalty by showing (its associated color) in one's blood.",
+                  "examples": [
+                    "He was a devoted Vikings fan: he bled purple."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To lose sap, gum, or juice.",
+                  "examples": [
+                    "A tree or a vine bleeds when tapped or wounded."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To issue forth, or drop, like blood from an incision.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonology, transitive, of a phonological rule) To destroy the environment where another phonological rule would have applied.",
+                  "examples": [
+                    "Labialization bleeds palatalization.",
+                    "Antonym: feed"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(publishing, advertising, transitive, intransitive) To (cause to) extend to the edge of the page, without leaving any margin.",
+                  "examples": [
+                    "Full-page and double-page colour advertisements in the Sunday colour magazines usually bleed off the page' (or are 'bled to the margin'),  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, intransitive) To lose money.",
+                  "examples": [
+                    "Most of the sectors are bleeding, particularly the resources sector."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
