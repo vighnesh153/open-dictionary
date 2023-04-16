@@ -1,0 +1,46 @@
+{
+  "word": "arg",
+  "etymologies": [
+    {
+      "description": [
+        "Shortening."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "arg (plural args)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, informal) An argument; a value passed as a parameter.",
+                  "examples": [
+                    "The first arg needs to be an int."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "arg (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) Abbreviation of argent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
