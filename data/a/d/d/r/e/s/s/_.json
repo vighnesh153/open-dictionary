@@ -1,0 +1,265 @@
+{
+  "word": "address",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English adressen (“to raise erect, adorn”), from Old French adrecier (“to straighten, address”) (modern French adresser), from a- (from Latin ad (“to”)) + drecier (modern French dresser (“to straighten, arrange”)), from Vulgar Latin *dīrectiō, from Latin dīrēctus (“straight or right”), from the verb dīrigō, itself from regō (“to govern, to rule”). Cognate with Spanish aderezar (“to garnish; dress (food); to add spices”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "address (plural addresses)",
+          "definitionGroups": [
+            {
+              "group": "Direction.",
+              "entries": [
+                {
+                  "meaning": "(obsolete) Guidance; help. [15th–17th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(chiefly in the plural, now archaic) A polite approach made to another person, especially of a romantic nature; an amorous advance. [from 16th c.]",
+                  "examples": [
+                    "[H]e was thus agreeable, and I neither insensible of his Perfections, nor displeased at his Addresses to me  […] ."
+                  ]
+                },
+                {
+                  "meaning": "A manner of speaking or writing to another; language, style. [from 16th c.]",
+                  "examples": [
+                    "a man of pleasing or insinuating address"
+                  ]
+                },
+                {
+                  "meaning": "A formal approach to a sovereign, especially an official appeal or petition; later (specifically) a response given by each of the Houses of Parliament to the sovereign's speech at the opening of Parliament. [from 17th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "An act of addressing oneself to a person or group; a discourse or speech, or a record of this. [from 17th c.]",
+                  "examples": [
+                    "Mr. Gregson, who had listened to this address with considerable impatience, could contain himself no longer."
+                  ]
+                },
+                {
+                  "meaning": "A description of the location of a property, usually with at least a street name and number, name of a town, and now also a postal code; such a description as superscribed for direction on an envelope or letter. [from 17th c.]",
+                  "examples": [
+                    "The President's address is 1600 Pennsylvania Avenue NW in Washington, D.C."
+                  ]
+                },
+                {
+                  "meaning": "(by extension) The property itself. [from 19th c.]",
+                  "examples": [
+                    "I went to his address but there was nobody there."
+                  ]
+                },
+                {
+                  "meaning": "(computing) A number identifying a specific storage location in computer memory; a string of characters identifying a location on the internet or other network; sometimes (specifically) an e-mail address. [from 20th c.]",
+                  "examples": [
+                    "The program will crash if there is no valid data stored at that address."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Preparation.",
+              "entries": [
+                {
+                  "meaning": "(now rare) Preparedness for some task; resourcefulness; skill, ability. [from 16th c.]",
+                  "examples": [
+                    "This is one bad effect of a good Character—it invites applications from the unfortunate and there needs no small degree of address to gain the reputation of Benevolence without incurring the expence.—"
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) The act of getting ready; preparation. [17th–18th c.]",
+                  "examples": [
+                    "But now again she makes address to speak."
+                  ]
+                },
+                {
+                  "meaning": "(golf, Scotland) The act of bringing the head of the club up to the ball in preparation for swinging. [from 19th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "address (third-person singular simple present addresses, present participle addressing, simple past and past participle addressed or (obsolete) addrest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To prepare oneself.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To direct speech.",
+                  "examples": [
+                    "Young Turnus to the Beauteous Maid addreſs’d."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To aim; to direct.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To prepare or make ready.",
+                  "examples": [
+                    "Then Turnus, from his chariot, leaping light, Addreſs’d himſelf on foot to ſingle fight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, reflexive) To prepare oneself; to apply one's skill or energies (to some object); to betake.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(reflexive) To direct one’s remarks (to someone).",
+                  "examples": [
+                    "In the Reign of King Charles the Second, a certain Worthy Divine at Whitehall, thus Address’d himself to the Auditory at the conclusion of his Sermon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To clothe or array; to dress.",
+                  "examples": [
+                    "Synonyms: beclothe, dight, put on; see also Thesaurus:clothe"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To direct, as words (to anyone or anything); to make, as a speech, petition, etc. (to any audience).",
+                  "examples": [
+                    "though the young Heroe had addreſs’d his Prayers to him for his aſſiſtance"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To direct speech to; to make a communication to, whether spoken or written; to apply to by words, as by a speech, petition, etc., to speak to.",
+                  "examples": [
+                    "Are not your orders to address the senate?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To direct in writing, as a letter; to superscribe, or to direct and transmit.",
+                  "examples": [
+                    "He addressed a letter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make suit to as a lover; to court; to woo.",
+                  "examples": [
+                    "Synonyms: romance, put the moves on; see also Thesaurus:woo"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To consign or entrust to the care of another, as agent or factor.",
+                  "examples": [
+                    "The ship was addressed to a merchant in Baltimore."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To address oneself to; to prepare oneself for; to apply oneself to; to direct one's speech, discourse or efforts to.",
+                  "examples": [
+                    "He stepped away from the sink, put up the toilet ring (Vi complained bitterly if he forgot to put it down when he was through, but never seemed to feel any pressing need to put it back up when she was), and addressed the John."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, formal) To direct attention towards a problem or obstacle, in an attempt to resolve it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To refer to a location in computer memory.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, golf, Scotland) To get ready to hit (the ball on the tee).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

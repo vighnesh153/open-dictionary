@@ -1,0 +1,50 @@
+{
+  "word": "addressability",
+  "etymologies": [
+    {
+      "description": [
+        "address +‎ -ability"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "addressability (countable and uncountable, plural addressabilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The capability of a microprocessor etc. to deal with values of a certain size using a single instruction.",
+                  "examples": [
+                    "64-bit addressability means that a single machine instruction can operate on a value stored in eight bytes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) The capability of a display surface or storage device to accommodate a specified number of uniquely identifiable points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(micrographics) The capability of a specified field frame to contain a specific number of uniquely identifiable points.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
