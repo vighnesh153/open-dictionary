@@ -1,0 +1,50 @@
+{
+  "word": "amortize",
+  "etymologies": [
+    {
+      "description": [
+        "From (the stem of) Middle French amortir (“to bring to death”), probably from Vulgar Latin *admortīre, from Latin ad + mortuus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "amortize (third-person singular simple present amortizes, present participle amortizing, simple past and past participle amortized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To alienate (property) in mortmain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To wipe out (a debt, liability etc.) gradually or in installments.",
+                  "examples": [
+                    "extraordinary borrowing had been so extensive, Joly de Fleury reckoned, that even if it were amortized over the following decade, the state would still be running an annual deficit of over 50 million livres."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer science) To even out the costs of running an algorithm over many iterations, so that high-cost iterations are much less frequent than low-cost iterations, which lowers the average running time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
