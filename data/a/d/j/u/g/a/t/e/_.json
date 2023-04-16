@@ -1,0 +1,45 @@
+{
+  "word": "adjugate",
+  "etymologies": [
+    {
+      "description": [
+        "Latin adjugatus"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "adjugate (plural adjugates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The transpose of the respective cofactor matrix, for a given matrix. One of the factors in calculating the inverse of a matrix. Commonly notated as adj(A), where A is the given matrix.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "adjugate (third-person singular simple present adjugates, present participle adjugating, simple past and past participle adjugated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To yoke an animal to something",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

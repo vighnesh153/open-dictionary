@@ -1,0 +1,63 @@
+{
+  "word": "adjunction",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin adjunctio, from adjungere: compare French adjonction, and see adjunct."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "adjunction (countable and uncountable, plural adjunctions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of joining; the thing joined or added.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The joining of personal property owned by one to that owned by another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) Given a pair of categories \n  \n    \n      \n        \n          \n            C\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {C}}}\n  \n and \n  \n    \n      \n        \n          \n            D\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {D}}}\n  \n: an anti-parallel pair of functors \n  \n    \n      \n        F\n        :\n        \n          \n            C\n          \n        \n        →\n        \n          \n            D\n          \n        \n      \n    \n    {\\displaystyle F:{\\mathcal {C}}\\rightarrow {\\mathcal {D}}}\n  \n and \n  \n    \n      \n        G\n        :\n        \n          \n            D\n          \n        \n        →\n        \n          \n            C\n          \n        \n      \n    \n    {\\displaystyle G:{\\mathcal {D}}\\rightarrow {\\mathcal {C}}}\n  \n and a natural transformation \n  \n    \n      \n        η\n        :\n        \n          \n            \n              id\n            \n          \n          \n            C\n          \n        \n        →\n        G\n        F\n      \n    \n    {\\displaystyle \\eta :{\\mbox{id}}_{C}\\rightarrow GF}\n  \n called “unit” such that for any object \n  \n    \n      \n        A\n        ∈\n        \n          \n            C\n          \n        \n      \n    \n    {\\displaystyle A\\in {\\mathcal {C}}}\n  \n, for any object \n  \n    \n      \n        B\n        ∈\n        \n          \n            D\n          \n        \n      \n    \n    {\\displaystyle B\\in {\\mathcal {D}}}\n  \n, and for any morphism \n  \n    \n      \n        f\n        :\n        A\n        →\n        G\n        B\n      \n    \n    {\\displaystyle f:A\\rightarrow GB}\n  \n, there is a unique morphism \n  \n    \n      \n        g\n        :\n        F\n        A\n        →\n        B\n      \n    \n    {\\displaystyle g:FA\\rightarrow B}\n  \n such that \n  \n    \n      \n        G\n        g\n        ∘\n        \n          η\n          \n            A\n          \n        \n        =\n        f\n      \n    \n    {\\displaystyle Gg\\circ \\eta _{A}=f}\n  \n. (Note: there is another natural transformation called “counit” as well but its existence may be derived by theorem.) The pair of functors express a similarity between the pair of categories which is weaker than that of an equivalence of categories.",
+                  "examples": [
+                    "Hyponyms: equivalence of categories, isomorphism of categories, Galois connection",
+                    "Meronyms: adjoint, left adjoint, right adjoint"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

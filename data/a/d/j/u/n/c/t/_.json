@@ -1,0 +1,135 @@
+{
+  "word": "adjunct",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin adiunctus, perfect passive participle of adiungō (“join to”), from ad + iungō (“join”). Doublet of adjoint."
+      ],
+      "adjectives": [
+        {
+          "description": "adjunct (comparative more adjunct, superlative most adjunct)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Connected in a subordinate function.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Added to a faculty or staff in a secondary position.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "adjunct (plural adjuncts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An appendage; something attached to something else in a subordinate capacity.",
+                  "examples": [
+                    "Synonyms: addition, supplement; see also Thesaurus:adjunct"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person associated with another, usually in a subordinate position; a colleague.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:associate, Thesaurus:attendant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(brewing) An unmalted grain or grain product that supplements the main mash ingredient.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated, metaphysics) A quality or property of the body or mind, whether natural or acquired, such as colour in the body or judgement in the mind.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A key or scale closely related to another as principal; a relative or attendant key.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A dispensable phrase in a clause or sentence that modifies its meaning.",
+                  "examples": [
+                    "noun adjunct",
+                    "Coordinate terms: attribute, predicate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(syntax, X-bar theory) A constituent which is both the daughter and the sister of an X-bar.",
+                  "examples": [
+                    "We can see from (34) that Determiners are sisters of N-bar and daughters of N-double-bar; Adjuncts are both sisters and daughters of N-bar; and Complements are sisters of N and daughters of N-bar. This means that Adjuncts resemble Complements in that both are daughters of N-bar; but they differ from Complements in that Adjuncts are sisters of N-bar, whereas Complements are sisters of N. Likewise, it means that Adjuncts resemble Determiners in that both are sisters of N-bar, but they differ from Determiners in that Adjuncts are daughters of N-bar, whereas Determiners are daughters of N-double-bar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) Symploce.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) One of a pair of morphisms which relate to each other through a pair of adjoint functors.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
