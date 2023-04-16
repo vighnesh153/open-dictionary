@@ -1,0 +1,105 @@
+{
+  "word": "belong",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English belongen, bilongen, from Middle English be- + longen (“to be fitting, be suitable”), from Old English langian (“to pertain to, suit”), equivalent to be- +‎ long (“to belong”). Compare Saterland Frisian beloangje (“to attain, reach, meet”), Dutch belangen (“to concern”), German belangen (“to sue, concern”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "belong (third-person singular simple present belongs, present participle belonging, simple past and past participle belonged)",
+          "definitionGroups": [
+            {
+              "group": "(intransitive) To have its proper place.",
+              "entries": [
+                {
+                  "meaning": "(of a person) To be accepted in a group.",
+                  "examples": [
+                    "You don’t belong here — get out."
+                  ]
+                },
+                {
+                  "meaning": "(followed by to) To be a part of a group.",
+                  "examples": [
+                    "I don’t belong to them!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, followed by to) To be part of, or the property of.",
+                  "examples": [
+                    "That house belongs to me."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, followed by to) To be the spouse or partner of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, set theory) (followed by to) To be an element of (a set). The symbol \n  \n    \n      \n        ∈\n      \n    \n    {\\displaystyle \\in }\n  \n means belongs to.",
+                  "examples": [
+                    "Suppose \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n belongs to \n  \n    \n      \n        \n          R\n        \n      \n    \n    {\\displaystyle \\mathbb {R} }\n  \n...  (— written: \n  \n    \n      \n        x\n        ∈\n        \n          R\n        \n      \n    \n    {\\displaystyle x\\in \\mathbb {R} }\n  \n)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To be deserved by.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Compare Kriol blanga, Bislama blong, Tok Pisin bilong, and Torres Strait Creole blong."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [
+        {
+          "description": "belong",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australian Aboriginal, optionally followed by to) Of, belonging to.",
+                  "examples": [
+                    "Them two bin help’m too, and that father blung to this one old Frank."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": []
+    }
+  ]
+}
