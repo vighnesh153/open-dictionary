@@ -1,0 +1,212 @@
+{
+  "word": "borrow",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English borwen, borȝien, Old English borgian (“to borrow, lend, pledge surety for”), from Proto-West Germanic *borgōn, from Proto-Germanic *burgōną (“to pledge, take care of”), from Proto-Indo-European *bʰergʰ- (“to take care”).",
+        "Cognate with Dutch borgen (“to borrow, trust”), German borgen (“to borrow, lend”), Danish borge (“to vouch”). Related to Old English beorgan (“to save, preserve”). More at bury."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "borrow (countable and uncountable, plural borrows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(golf, countable, uncountable) Deviation of the path of a rolling ball from a straight line; slope; slant.",
+                  "examples": [
+                    "This putt has a big left-to right borrow on it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(construction, civil engineering) A borrow pit.",
+                  "examples": [
+                    "As previously indicated, slurry used for construction of the slurry cutoff trench at Beaver Creek Dam was produced with natural clays and clay tills from local borrows."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In the Rust programming language, the situation where the ownership of a value is temporarily transferred to another region of code.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "borrow (third-person singular simple present borrows, present participle borrowing, simple past and past participle borrowed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To receive (something) from somebody temporarily, expecting to return it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To receive money from a bank or other lender under the agreement that the lender will be paid back over time.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To adopt (an idea) as one's own.",
+                  "examples": [
+                    "to borrow the style, manner, or opinions of another"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) To adopt a word from another language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) In a subtraction, to deduct (one) from a digit of the minuend and add ten to the following digit, in order that the subtraction of a larger digit in the subtrahend from the digit in the minuend to which ten is added gives a positive result.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Upper Midwestern United States, West Midlands, Malaysia, proscribed) To lend.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ditransitive) To temporarily obtain (something) for (someone).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To feign or counterfeit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete except in ballads) To secure the release of (someone) from prison.",
+                  "examples": [
+                    "But if ony maiden would borrow me,",
+                    "I would wed her wi' a ring,",
+                    "And a' my land and a' my houses,",
+                    "They should a' be at her command."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) To receive (something, usually of trifling value) from somebody, with little possibility of returning it.",
+                  "examples": [
+                    "Can I borrow a sheet of paper?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) To interrupt the current activity of (a person) and lead them away in order to speak with them, get their help, etc.",
+                  "examples": [
+                    "John, can I borrow you for a second? I need your help with the copier."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(golf) To adjust one's aim in order to compensate for the slope of the green.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English borwe, borgh, from Old English borh, borg, from Proto-West Germanic *borgōn, from Proto-Germanic *burgōną (“to borrow, lend”) (related to Etymology 1, above)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "borrow (plural borrows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A ransom; a pledge or guarantee.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A surety; someone standing bail.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
