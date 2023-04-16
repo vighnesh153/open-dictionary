@@ -1,0 +1,45 @@
+{
+  "word": "bootable",
+  "etymologies": [
+    {
+      "description": [
+        "boot +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "bootable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a disk, etc.) That can be booted; from which one can boot the system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bootable (plural bootables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A disk or other medium from which the system can be booted.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
