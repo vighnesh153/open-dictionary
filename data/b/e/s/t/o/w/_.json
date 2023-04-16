@@ -1,0 +1,93 @@
+{
+  "word": "bestow",
+  "etymologies": [
+    {
+      "description": [
+        "The verb is derived from Middle English bestowen, bistouen, bistowen (“to give, bestow; to apply (something to something else); to arrange or have control over (something); to place (someone) in a position; to use (for some purpose); (reflexive) to find (oneself) a place to live or shelter”) [and other forms], from bi- (prefix forming verbs, often with a completive, figurative, or intensive meaning) + stouen, stowen (“to pack (cargo) in a ship, stow; to place (someone) in a certain position; to provide quarters for, lodge; etc.”) (ultimately from Proto-Indo-European *steh₂- (“to place; to stand (up)”)). The English word is analysable as be- (intensifying prefix forming verbs) +‎ stow (“to put (something) away in a suitable place; etc.”).",
+        "The noun is derived from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bestow (plural bestows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, rare) An act of presenting a thing to someone or something, especially as a gift or an honour; a bestowal.",
+                  "examples": [
+                    "Synonyms: bestowing, bestowment"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bestow (third-person singular simple present bestows, present participle bestowing, simple past and past participle bestowed) (transitive)",
+          "definitionGroups": [
+            {
+              "group": "To apply or make use of (someone or something); to employ, to use.",
+              "entries": [
+                {
+                  "meaning": "(specifically, obsolete) To apply (money) for some purpose; to expend, to spend.",
+                  "examples": [
+                    "Synonym: lay out"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To impart (something) gratuitously; to present (something) to someone or something, especially as a gift or an honour; to confer, to give.",
+                  "examples": [
+                    "Medals were bestowed on the winning team."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(archaic)",
+              "entries": [
+                {
+                  "meaning": "To place or put (someone or something) somewhere or in a certain situation; to dispose of.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To deposit (something) for safekeeping; to lay up (something) in store; to stow.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(also reflexive) To provide (someone or oneself) with accommodation; to find quarters for (someone or oneself); to lodge, to quarter.",
+                  "examples": [
+                    "Synonyms: house, put up"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(obsolete)",
+              "entries": [
+                {
+                  "meaning": "(reflexive) To behave or conduct (oneself); to acquit.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(also reflexive) To give (someone or oneself) in marriage.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
