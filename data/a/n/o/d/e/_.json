@@ -1,0 +1,57 @@
+{
+  "word": "anode",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἀνα- (ana-, “up”) and ὁδός (hodós, “path”), forming the New Greek compound ἄνοδος (ánodos). Coined by English polymath William Whewell in 1834 for Michael Faraday, who introduced it later that year."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "anode (plural anodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity) An electrode, of a cell or other electrically polarized device, through which a positive current of electricity flows inwards (and thus, electrons flow outwards). It can have either a negative or a positive voltage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, by extension) The electrode at which chemical oxidation of anions takes place, usually resulting in the erosion of metal from the electrode.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) The electrode which collects electrons emitted by the cathode in a vacuum tube or gas-filled tube.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) That electrode of a semiconductor device which is connected to the p-type material of a p-n junction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
