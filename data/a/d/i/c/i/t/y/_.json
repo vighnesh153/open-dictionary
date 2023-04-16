@@ -1,0 +1,41 @@
+{
+  "word": "adicity",
+  "etymologies": [
+    {
+      "description": [
+        "From -adic (taken from monadic/dyadic/triadic [function/operator]) + -ity, or alternatively from -ad (taken from monad/duad/triad) + -icity. Compare Latinate equivalent arity, based on -ary."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "adicity (plural adicities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, mathematics, computer science) The number of arguments or operands a function or operation takes. For a relation, the number of domains in the corresponding Cartesian product.",
+                  "examples": [
+                    "Equivalently, it says that all relations of adicity greater than 3 may be reduced to relations of adicities 1, 2, and/or 3. The negative component of the Thesis says, first, that relations of adicity 2 may not in general be constructed from (reduced to) relations exclusively of adicity 1; and, second, that relations of adicity 3 and greater may not in general be constructed from (equivalently: reduced to) relations exclusively of adicities 1 and/or 2."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, obsolete) Valence.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
