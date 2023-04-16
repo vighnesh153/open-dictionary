@@ -1,0 +1,39 @@
+{
+  "word": "apothem",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἀπόθεμα (apóthema, “deposit”), from ἀπό (apó, “off, away”) + θέμα (théma, “that which is laid down”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "apothem (plural apothems)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The perpendicular distance from the center of a circle to a chord of the same circle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The distance from the center of a regular polygon perpendicular to one of its sides (a special case of the above).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
