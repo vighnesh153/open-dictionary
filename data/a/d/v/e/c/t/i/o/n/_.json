@@ -1,0 +1,47 @@
+{
+  "word": "advection",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin advectio (“act of bringing”), from advectus (past participle of advehere (“to carry to”), from ad- + vehere (“to convey”)) + -io."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "advection (countable and uncountable, plural advections)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(earth science, chemistry) The horizontal movement of a body of atmosphere (or other fluid) along with a concurrent transport of its temperature, humidity etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The transport of a scalar by bulk fluid motion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
