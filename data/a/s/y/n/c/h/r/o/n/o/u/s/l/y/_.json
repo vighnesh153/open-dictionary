@@ -1,0 +1,32 @@
+{
+  "word": "asynchronously",
+  "etymologies": [
+    {
+      "description": [
+        "asynchronous +‎ -ly"
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "asynchronously (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In an asynchronous manner.",
+                  "examples": [
+                    "These allow scripts to specify functions that should be invoked asynchronously when certain events occur."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

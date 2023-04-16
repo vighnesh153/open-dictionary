@@ -1,0 +1,48 @@
+{
+  "word": "asynchronous",
+  "etymologies": [
+    {
+      "description": [
+        "a- +‎ synchronous"
+      ],
+      "adjectives": [
+        {
+          "description": "asynchronous (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not synchronous; occurring at different times.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a request or a message) Allowing the client to continue during processing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, communication) Having many actions occurring at a time, in any order, without waiting for each other.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
