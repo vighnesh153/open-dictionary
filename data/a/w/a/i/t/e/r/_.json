@@ -1,0 +1,41 @@
+{
+  "word": "awaiter",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English awaytur; equivalent to await +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "awaiter (plural awaiters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who awaits.",
+                  "examples": [
+                    "these awaiters of articulate acknowledgment"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An object that waits for the completion of an asynchronous task.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
