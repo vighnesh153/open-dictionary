@@ -1,0 +1,56 @@
+{
+  "word": "apheresis",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin aphaeresis, from Ancient Greek ἀφαίρεσις (aphaíresis, “a taking away”), from ἀφαιρέω (aphairéō) (from ἀφ- (aph-), variant of ἀπό (apó, “off, away from”) before an aspirated vowel) + αἱρέω (hairéō, “to take; to snatch”)) + -σις (-sis, suffix forming nouns of action); the grammatical sense developed in Latin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "apheresis (countable and uncountable, plural aphereses) (US, Canada)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, prosody) Elision, suppression, or complete loss of a letter or sound (syllable) from the beginning of a word, such as the development of special from especial; procope.",
+                  "examples": [
+                    "Synonyms: pheresis, procope",
+                    "Hyponym: aphesis",
+                    "Coordinate terms: syncope, apocope, elision, clipping, abbreviation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, specific, still current) The removal of blood from a patient, and the removal of certain components (such as platelets) from that blood, followed by the transfusion of the filtered blood back to the donor (patient).",
+                  "examples": [
+                    "Synonyms: pheresis, hemapheresis"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, general, obsolete) Extirpation or extraction of a superfluity (especially a pathological one) from the body, especially blood.",
+                  "examples": [
+                    "Hyponym: bloodletting"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
