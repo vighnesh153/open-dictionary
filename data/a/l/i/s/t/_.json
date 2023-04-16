@@ -1,0 +1,32 @@
+{
+  "word": "alist",
+  "etymologies": [
+    {
+      "description": [
+        "Abbreviation of association list."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "alist (plural alists)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An association list.",
+                  "examples": [
+                    "We use alists extensively in this work. A directed graph is an alist associating vertices with edge lists."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
