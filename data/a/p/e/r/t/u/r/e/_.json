@@ -1,0 +1,65 @@
+{
+  "word": "aperture",
+  "etymologies": [
+    {
+      "description": [
+        "From late Middle English, from Latin apertūra (“an opening”), from aperiō (“to uncover, make or lay bare”) +‎ -tūra (“-ure”, action noun suffix). Doublet of overture."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "aperture (plural apertures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small or narrow opening, gap, slit, or hole.",
+                  "examples": [
+                    "an aperture in a wall",
+                    "Hyponym: piriform aperture"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(optics) A hole which restricts the diameter of the lightpath through one plane in an optical system.",
+              "entries": [
+                {
+                  "meaning": "(astronomy, photography) The diameter of such a hole which restricts the width of the lightpath through the whole system. For a telescope, this is the diameter of the objective lens.",
+                  "examples": [
+                    "Hyponym: angular aperture",
+                    "This telescope has a 100 cm aperture."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(space flight, communication) The (typically) large-diameter antenna used for receiving and transmitting radio frequency energy containing the data used in communication satellites, especially in the geostationary belt. For a comsat, this is typically a large reflective dish antenna; sometimes called an array.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, rare, of a right circular cone) The maximum angle between the two generatrices.",
+                  "examples": [
+                    "If the generatrix makes an angle θ to the axis, then the aperture is 2θ."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
