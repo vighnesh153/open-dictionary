@@ -1,0 +1,56 @@
+{
+  "word": "barycenter",
+  "etymologies": [
+    {
+      "description": [
+        "bary- +‎ center"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "barycenter (plural barycenters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The center of a mass; often specifically, the point at which the gravitational forces exerted by two objects are equal",
+                  "examples": [
+                    "the Earth–Moon barycenter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The centroid, the geometric center of a plane figure",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "barycenter (third-person singular simple present barycenters, present participle barycentering, simple past and past participle barycentered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To determine such a barycenter",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
