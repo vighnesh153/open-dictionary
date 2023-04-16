@@ -1,0 +1,324 @@
+{
+  "word": "abstract",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English abstract, borrowed from Latin abstractus, perfect passive participle of abstrahō (“draw away”), formed from abs- (“away”) + trahō (“to pull, draw”). The verbal sense is first attested in 1542."
+      ],
+      "adjectives": [
+        {
+          "description": "abstract (comparative more abstract or abstracter, superlative most abstract or abstractest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Derived; extracted. [Attested from around 1350 to 1470 until the late 15th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) Drawn away; removed from; apart from; separate. [First attested around 1350 to 1470.]",
+                  "examples": [
+                    "The more abstract we are from the body ... the more fit we shall be to behold divine light."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Not concrete: conceptual, ideal. [First attested around 1350 to 1470.]",
+              "entries": [
+                {
+                  "meaning": "Insufficiently factual.",
+                  "examples": [
+                    "Synonym: formal"
+                  ]
+                },
+                {
+                  "meaning": "Apart from practice or reality; vague; theoretical; impersonal; not applied.",
+                  "examples": [
+                    "Synonyms: conceptual, theoretical",
+                    "Antonyms: applied, practical"
+                  ]
+                },
+                {
+                  "meaning": "(grammar) As a noun, denoting a concept or intangible as opposed to an object, place, or person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Difficult to understand; abstruse; hard to conceptualize. [First attested around 1350 to 1470.]",
+                  "examples": [
+                    "The politician gave a somewhat abstract answer when asked about their plans to cut spending."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive, ascriptive. [First attested around 1350 to 1470.]",
+                  "examples": [
+                    "Synonyms: attributive, ascriptive"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining comprehensively to, or representing, a class or group of objects, as opposed to any specific object; considered apart from any application to a particular object: general, generic, nonspecific; representational. [First attested by Locke in 1689.]",
+                  "examples": [
+                    "Synonyms: general, generalized, generic, nonspecific, representational",
+                    "Antonyms: discrete, specific, particular, precise"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Absent-minded. [First attested in the early 16th century.]",
+                  "examples": [
+                    "abstract, as in a trance"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(art) Pertaining to the formal aspect of art, such as the lines, colors, shapes, and the relationships among them. [First attested in the mid 19th century.]",
+              "entries": [
+                {
+                  "meaning": "(art, often capitalized) Free from representational qualities, in particular the non-representational styles of the 20th century. [First attested in the mid 19th century.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(music) Absolute.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(dance) Lacking a story.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming, of a class) Being a partial basis for subclasses rather than a complete template for objects.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "abstract (plural abstracts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An abridgement or summary of a longer publication. [First attested around 1350 to 1470.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Something that concentrates in itself the qualities of a larger item, or multiple items. [First attested in the mid 16th century.]",
+              "entries": [
+                {
+                  "meaning": "Concentrated essence of a product.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(medicine) A powdered solid extract of a medicinal substance mixed with lactose.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An abstraction; an abstract term; that which is abstract. [First attested in the mid 16th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The theoretical way of looking at things; something that exists only in idealized form. [First attested in the early 17th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(art) An abstract work of art. [First attested in the early 20th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(real estate) A summary title of the key points detailing a tract of land, for ownership; abstract of title.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "abstract (third-person singular simple present abstracts, present participle abstracting, simple past and past participle abstracted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To separate; to disengage. [First attested around 1350 to 1470.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove; to take away; withdraw. [First attested in the late 15th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, euphemistic) To steal; to take away; to remove without permission. [First attested in the late 15th century.]",
+                  "examples": [
+                    "Von Rosen had quietly abstracted the bearing-reins from the harness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To summarize; to abridge; to epitomize. [First attested in the late 16th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To conceptualize an ideal subgroup by means of the generalization of an attribute, as follows: by apprehending an attribute inherent to one individual, then separating that attribute and contemplating it by itself, then conceiving of that attribute as a general quality, then despecifying that conceived quality with respect to several or many individuals, and by then ideating a group composed of those individuals perceived to possess said quality.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To extract by means of distillation. [Attested from the early 17th century until the early 18th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To consider abstractly; to contemplate separately or by itself; to consider theoretically; to look at as a general quality. [First attested in the early 17th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, reflexive, literally, figuratively) To withdraw oneself; to retire. [First attested in the mid 17th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw off (interest or attention).",
+                  "examples": [
+                    "The young stranger had been abstracted and silent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, rare) To perform the process of abstraction.",
+                  "examples": [
+                    "I own myself able to abstract in one sense."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, fine arts) To create abstractions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To produce an abstraction, usually by refactoring existing code. Generally used with \"out\".",
+                  "examples": [
+                    "He abstracted out the square root function."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
