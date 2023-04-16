@@ -1,0 +1,167 @@
+{
+  "word": "abort",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English, from Latin abortus, perfect active participle of aborior (“miscarry”), formed from ab + orior (“come into being”). Doublet of abortus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "abort (plural aborts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, aeronautics) An early termination of a mission, action, or procedure in relation to missiles or spacecraft; the craft making such a mission.",
+                  "examples": [
+                    "We've had aborts on three of our last seven launches."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The function used to abort a process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An event in which a process is aborted.",
+                  "examples": [
+                    "We've had three aborts over the last two days."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) The product of a miscarriage; an aborted offspring; an abortion. [First attested in the early 17th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A miscarriage; an untimely birth; an abortion. [Attested from around (1350 to 1470) until the mid 17th century.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Latin abortare, from abortus, from aboriri (“miscarry”), from ab- (“not”) + oriri (“come into being, arise, appear”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "abort (third-person singular simple present aborts, present participle aborting, simple past and past participle aborted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely. [First attested in the mid 16th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To cause a premature termination of (a fetus); to end a pregnancy before term. [Attested since at least the 19th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To end prematurely; to stop in the preliminary stages; to turn back. [First attested in the late 16th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To stop or fail at something in the preliminary stages. [First attested in the late 16th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, biology) To become checked in normal development, so as either to remain rudimentary or shrink away wholly; to cease organic growth before maturation; to become sterile. [First attested in the mid 19th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, biology) To cause an organism to develop minimally; to cause rudimentary development to happen; to prevent maturation. [First attested in the mid 19th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, military) To abandon a mission at any point after the beginning of the mission and prior to its completion. [First attested in the mid 20th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, aeronautics) To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely. [First attested in the mid 20th century.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To terminate a process prior to completion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
