@@ -1,0 +1,101 @@
+{
+  "word": "baseline",
+  "etymologies": [
+    {
+      "description": [
+        "base +‎ line"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "baseline (plural baselines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A line that is a base for measurement or for construction.",
+                  "examples": [
+                    "A laser level generates a convenient baseline for interior work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A datum used as the basis for calculation or for comparison.",
+                  "examples": [
+                    "We used the last doctor visit to provide baselines for vital statistics."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) A line used as the basis for the alignment of glyphs.",
+                  "examples": [
+                    "Coordinate terms: beardline, midline, capline, topline",
+                    "Several characters typically have descenders below the lower baseline."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(tennis) The line at the farthest ends of the court indicating the boundary of the area of play.",
+                  "examples": [
+                    "The umpire missed the call. The ball hit the baseline."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) A configuration of software, hardware, or a process that is established and documented as a point of reference.",
+                  "examples": [
+                    "The baseline configuration includes unsupported components."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "baseline (third-person singular simple present baselines, present participle baselining, simple past and past participle baselined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, computing) To provide a baseline for measurement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(tennis) To play from the baseline.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
