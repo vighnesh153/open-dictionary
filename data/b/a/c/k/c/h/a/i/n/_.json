@@ -1,0 +1,30 @@
+{
+  "word": "backchain",
+  "etymologies": [
+    {
+      "description": [
+        "back +‎ chain"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "backchain (third-person singular simple present backchains, present participle backchaining, simple past and past participle backchained)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, artificial intelligence) To perform inferences, starting with a list of goals (or a hypothesis) and working backwards from the consequent to the antecedent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
