@@ -1,0 +1,32 @@
+{
+  "word": "apodosis",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin apodosis, from Ancient Greek ἀπόδοσις (apódosis), from ἀπό (apó, “back again”) and δόσις (dósis, “gift”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "apodosis (plural apodoses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, grammar) The consequential clause in a conditional sentence.",
+                  "examples": [
+                    "In \"I will be coming if this weather holds up\", \"I will be coming\" is the apodosis and \"this weather holds up\" is the protasis."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
