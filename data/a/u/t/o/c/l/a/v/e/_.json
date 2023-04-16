@@ -1,0 +1,60 @@
+{
+  "word": "autoclave",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French autoclave, formed with prefix auto- + Latin clavis (“key”)."
+      ],
+      "adjectives": [
+        {
+          "description": "autoclave (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) autokey",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "autoclave (plural autoclaves)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A strong, pressurized, heated vessel, as for laboratory experiments, sterilization, cooking or mineral processing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "autoclave (third-person singular simple present autoclaves, present participle autoclaving, simple past and past participle autoclaved)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To sterilize laboratory equipment in an autoclave.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
