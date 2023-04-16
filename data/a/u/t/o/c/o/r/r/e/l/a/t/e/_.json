@@ -1,0 +1,30 @@
+{
+  "word": "autocorrelate",
+  "etymologies": [
+    {
+      "description": [
+        "auto- +‎ correlate"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "autocorrelate (third-person singular simple present autocorrelates, present participle autocorrelating, simple past and past participle autocorrelated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, signal processing) To cross-correlate (a signal) with itself.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

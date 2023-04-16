@@ -1,0 +1,30 @@
+{
+  "word": "autocorrelation",
+  "etymologies": [
+    {
+      "description": [
+        "auto- +‎ correlation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "autocorrelation (countable and uncountable, plural autocorrelations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, signal processing) The cross-correlation of a signal with itself: the correlation between values of a signal in successive time periods.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
