@@ -1,0 +1,112 @@
+{
+  "word": "beacon",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English beken, from Old English bēacn (“sign, signal”), from Proto-West Germanic *baukn, from Proto-Germanic *baukną (compare West Frisian beaken (“buoy”), Dutch baken (“beacon”), Middle Low German bāke (“beacon, sign”), German Bake (“traffic sign”), Middle High German bouchen (“sign”)), perhaps from Proto-Indo-European *bʰeh₂u-, *bʰeh₂- (“to shine”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "beacon (plural beacons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A signal fire to notify of the approach of an enemy, or to give any notice, commonly of warning.",
+                  "examples": [
+                    "No flaming beacons cast their blaze afar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(nautical) A signal or conspicuous mark erected on an eminence near the shore, or moored in shoal water, as a guide to mariners.",
+              "entries": [
+                {
+                  "meaning": "A post or buoy placed over a shoal or bank to warn vessels of danger; also a signal mark on land. (FM 55-501)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A high hill or other easily distinguishable object near the shore which can serve as guidance for seafarers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) That which gives notice of danger, or keeps people on the correct path.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An electronic device that broadcasts a signal to nearby portable devices, enabling smartphones etc. to perform actions when in physical proximity to the beacon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) Short for web beacon.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "beacon (third-person singular simple present beacons, present participle beaconing, simple past and past participle beaconed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To act as a beacon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give light to, as a beacon; to light up; to illumine.",
+                  "examples": [
+                    "That beacons the darkness of heaven."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To furnish with a beacon or beacons.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

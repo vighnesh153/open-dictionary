@@ -1,0 +1,47 @@
+{
+  "word": "beaconing",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "beaconing (plural beaconings)",
+          "definitionGroups": [
+            {
+              "group": "gerund of beacon",
+              "entries": [
+                {
+                  "meaning": "(computing, telecommunications) A continuous signaling of error conditions on a LAN, or small packets on a wireless LAN (WLAN).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing, telecommunications) In a token ring network, the process of isolating a fault domain with signals, so that recovery actions can take place.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "beaconing",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of beacon (The emitting of signals from a beacon).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
