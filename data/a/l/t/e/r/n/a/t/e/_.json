@@ -1,0 +1,173 @@
+{
+  "word": "alternate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin alternō (“take turns”), from alternus (“one after another, by turns”), from alter (“other”) + -rnus. See altern, alter."
+      ],
+      "adjectives": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "alternate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Happening by turns; one following the other in succession of time or place; first one and then the other (repeatedly)",
+                  "examples": [
+                    "Alternate picking is a guitar playing technique."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Designating the members in a series, which regularly intervene between the members of another series, as the odd or even numbers of the numerals; every other; every second.",
+                  "examples": [
+                    "the alternate members 1, 3, 5, 7, etc."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) Other; alternative.",
+                  "examples": [
+                    "Hyperlinked text is displayed in alternate color in a Web browser.",
+                    "He lives in an alternate universe and an alternate reality."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany, of leaves) Distributed singly at different heights of the stem, and at equal intervals as respects angular divergence",
+                  "examples": [
+                    "Many trees have alternate leaf arrangement (e.g. birch, oak and mulberry)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "alternate (plural alternates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which alternates with something else; vicissitude.",
+                  "examples": [
+                    "Grateful alternates of substantial peace."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A substitute; an alternative; one designated to take the place of another, if necessary, in performing some duty.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A proportion derived from another proportion by interchanging the means.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A replacement of equal or greater value or function.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) Figures or tinctures that succeed each other by turns.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "alternate (third-person singular simple present alternates, present participle alternating, simple past and past participle alternated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To perform by turns, or in succession; to cause to succeed by turns; to interchange regularly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To happen, succeed, or act by turns; to follow reciprocally in place or time; followed by with.",
+                  "examples": [
+                    "The flood and ebb tides alternate with each other."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To vary by turns.",
+                  "examples": [
+                    "The land alternates between rocky hills and sandy plains."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, geometry) To perform an alternation (removal of alternate vertices) on (a polytope or tessellation); to remove vertices (from a face or edge) as part of an alternation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

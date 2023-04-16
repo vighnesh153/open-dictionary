@@ -1,0 +1,104 @@
+{
+  "word": "alternation",
+  "etymologies": [
+    {
+      "description": [
+        "Latin alternatio; compare French alternation.\nMorphologically alternate +‎ -ion"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "alternation (countable and uncountable, plural alternations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The reciprocal succession of (normally two) things in time or place; the act of following and being followed by turns; alternate succession, performance, or occurrence",
+                  "examples": [
+                    "the alternation of day and night",
+                    "alternation of summer and winter",
+                    "alternation between night shifts and day shifts",
+                    "alternation of feelings between hope and fear"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(religion) The response of the congregation speaking alternately with the minister.",
+                  "examples": [
+                    "There are Anthems to be found amongst them , where every syllable has its just length ; each part of a sentence its proper pause : where the words are not confused by perplexing alternations, or rendered tedious by unnecessary repetitions"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonology) Ablaut.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A pattern by which more than one construct is possible, as with \"Alice cooked Bob dinner\" and \"Alice cooked dinner for Bob\".",
+                  "examples": [
+                    "dative alternation; locative alternation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The \"inclusive or\" truth function.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A sequence that alternates between positive and negative values; sometimes incorrectly used to mean permutation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A construct in a regular expression that can match any of several specified subexpressions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A type of partial truncation of a polygon, polyhedron or tiling in which alternate vertices are removed.",
+                  "examples": [
+                    "This case suggests that the alternation of a polyhedron should be bounded by actual vertex figures and alternated faces. The case of the cube is in agreement with this notion, since the alternated square is nothing."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
