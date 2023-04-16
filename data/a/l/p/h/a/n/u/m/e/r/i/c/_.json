@@ -1,0 +1,56 @@
+{
+  "word": "alphanumeric",
+  "etymologies": [
+    {
+      "description": [
+        "alpha- +‎ numeric"
+      ],
+      "adjectives": [
+        {
+          "description": "alphanumeric (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Consisting of, or limited to, letters and/or numbers, especially the characters A to Z (lowercase and uppercase) and 0 to 9.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Consisting of these characters plus punctuation and other special characters.",
+                  "examples": [
+                    "Therefore, we  need a special code to represent all alphanumeric data (letters, symbols, and numbers)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "alphanumeric (plural alphanumerics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An alphanumeric character.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
