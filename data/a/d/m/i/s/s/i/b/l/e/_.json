@@ -1,0 +1,39 @@
+{
+  "word": "admissible",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French admissible."
+      ],
+      "adjectives": [
+        {
+          "description": "admissible (comparative more admissible, superlative most admissible)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable or deserving to be admitted, accepted or allowed; allowable, permissible, acceptable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(artificial intelligence) Describing a heuristic that never overestimates the cost of reaching a goal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
