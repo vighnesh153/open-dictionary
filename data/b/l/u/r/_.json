@@ -1,0 +1,137 @@
+{
+  "word": "blur",
+  "etymologies": [
+    {
+      "description": [
+        "From earlier blurre, probably an alteration of blear, from Middle English bleren, from Old English blerian. Compare Scots blore, bloar (“to blur, cover with blots”). More at blear."
+      ],
+      "adjectives": [
+        {
+          "description": "blur (comparative more blur, superlative most blur)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Malaysia, Singapore, informal) In a state of doubt or confusion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "blur (plural blurs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A smear, smudge or blot",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that appears hazy or indistinct",
+                  "examples": [
+                    "The surroundings went by in a blur."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A moral stain or blot.",
+                  "examples": [
+                    "[…] with her raillyng sette a great blurre on myne honesty"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "blur (third-person singular simple present blurs, present participle blurring, simple past and past participle blurred)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make indistinct or hazy, to obscure or dim.",
+                  "examples": [
+                    "to blur a photograph by moving the camera while taking it"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To smear, stain or smudge.",
+                  "examples": [
+                    "to blur a manuscript by handling it while damp"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become indistinct.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cause imperfection of vision in; to dim; to darken.",
+                  "examples": [
+                    "His eyes are blurred with the lightning's glare."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To sully; to stain; to blemish, as reputation.",
+                  "examples": [
+                    "Sarcasms may eclipse thine own, / But cannot blur my lost renown."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface, transitive) To transfer the input focus away from.",
+                  "examples": [
+                    "Then give this box focus to blur the first one:  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
