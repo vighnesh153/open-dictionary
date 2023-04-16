@@ -1,0 +1,56 @@
+{
+  "word": "aliquant",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin aliquantus."
+      ],
+      "adjectives": [
+        {
+          "description": "aliquant (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, dated) Less than another specified integer, but not dividing it into integral parts.",
+                  "examples": [
+                    "5 is an aliquant part of 16."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "aliquant (plural aliquants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, dated) An integer that is less than another, but that does not divide the other integer into integral parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) An aliquot.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
