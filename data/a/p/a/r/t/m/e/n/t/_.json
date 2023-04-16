@@ -1,0 +1,61 @@
+{
+  "word": "apartment",
+  "etymologies": [
+    {
+      "description": [
+        "From French appartement, from Italian appartamento, from Spanish apartamiento (“separation, seclusion”). See apart."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "apartment (plural apartments)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Canada, US, Philippines) A complete domicile occupying only part of a building, especially one for rent; a flat.",
+                  "examples": [
+                    "apartment dwellers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A suite of rooms within a domicile, designated for a specific person or persons and including a bedroom.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A division of an enclosure that is separate from others; a compartment",
+                  "examples": [
+                    "The specification described the ordinary fare-box used in street cars and omnibuses, consisting of two apartments, the one directly above the other.... [T]he passenger deposited his fare in an aperture in the top of the upper apartment. It fell upon and was arrested by a movable platform.... This platform turned on an axis acted on by a lever. When turned, the fare fell into the lower apartment, which was a receptacle for holding the fares accumulated...."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, COM) A conceptual space used for separation in the threading architecture. Objects in one apartment cannot directly access those in another, but must use a proxy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
