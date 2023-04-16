@@ -1,0 +1,45 @@
+{
+  "word": "attributed",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "attributed (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) decorated with an attribute",
+                  "examples": [
+                    "This attribute is used to declare in metadata that the attributed method or class requires SocketPermission of the declared form."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "attributed",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of attribute",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

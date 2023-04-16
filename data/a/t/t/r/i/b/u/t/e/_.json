@@ -1,0 +1,131 @@
+{
+  "word": "attribute",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin attributus past participle of attribuere."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "attribute (plural attributes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A characteristic or quality of a thing.",
+                  "examples": [
+                    "His finest attribute is his kindness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object that is considered typical of someone or some function, in particular as an artistic convention.",
+                  "examples": [
+                    "The eagle and the bolt of lightning are attributes of Jove."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word that qualifies a noun.",
+                  "examples": [
+                    "Synonym: qualifier"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) That which is predicated or affirmed of a subject; a predicate; an accident.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, object-oriented programming) An option or setting belonging to some object.",
+                  "examples": [
+                    "This packet has its coherency attribute set to zero.",
+                    "A file with the read-only attribute set cannot be overwritten."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A semantic item with which a method or other code element may be decorated.",
+                  "examples": [
+                    "Properties can be marked as obsolete with an attribute, which will cause the compiler to generate a warning if they are used."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics, dated) A numeric value representing the colours of part of the screen display.",
+                  "examples": [
+                    "[…]  you can only carry two objects, your attributes clash when you walk past multi-coloured objects and your enemies fly up and down from the ceiling."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "attribute (third-person singular simple present attributes, present participle attributing, simple past and past participle attributed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To ascribe (something) to a given cause, reason etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To associate ownership or authorship of (something) to someone.",
+                  "examples": [
+                    "This poem is attributed to Browning."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
