@@ -1,0 +1,82 @@
+{
+  "word": "analog",
+  "etymologies": [
+    {
+      "description": [
+        "Early 19th century; from French analogue, from Ancient Greek ἀνάλογος (análogos, “proportionate”), from ἀνά (aná, “up to”) + λόγος (lógos, “ratio”)."
+      ],
+      "adjectives": [
+        {
+          "description": "analog (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a device or system) In which the value of a data item (such as time) is represented by a continuous(ly) variable physical quantity that can be measured (such as the shadow of a sundial).",
+                  "examples": [
+                    "an analog watch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not relating to, or pre-dating, digital technology such as computers and the Internet; relating to real life.",
+                  "examples": [
+                    "Synonym: material",
+                    "an analog (paper) map"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "analog (plural analogs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Something that bears an analogy to something else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, biology) An organ or structure that is similar in function to one in another kind of organism but is of dissimilar evolutionary origin.",
+                  "examples": [
+                    "Coordinate terms: homolog, homologue",
+                    "See also: convergent evolution"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A structural derivative of a parent compound that differs from it by only one or a few atoms or substituent groups; (usually, especially) such a molecule that retains most of the same chemical properties.",
+                  "examples": [
+                    "Hyponym: insulin analogue"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
