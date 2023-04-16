@@ -1,0 +1,418 @@
+{
+  "word": "black",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English blak, black, blake, from Old English blæc (“black, dark\", also \"ink”), from Proto-West Germanic *blak, from Proto-Germanic *blakaz (“burnt”) (compare Dutch blaken (“to burn”), Low German blak, black (“blackness, black paint, (black) ink”), Old High German blah (“black”)), possibly from Proto-Indo-European *bʰleg- (“to burn, shine”) (compare Latin flagrāre (“to burn”), Ancient Greek φλόξ (phlóx, “flame”), Sanskrit भर्ग (bharga, “radiance”)). More at bleach."
+      ],
+      "adjectives": [
+        {
+          "description": "black (comparative blacker or more black, superlative blackest or most black)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of an object) Absorbing all light and reflecting none; dark and hueless.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a place, etc) Without light.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(sometimes capitalized) Belonging to or descended from any of various (African, Aboriginal, etc) ethnic groups which typically have dark pigmentation of the skin. (See usage notes below.)",
+              "entries": [
+                {
+                  "meaning": "(US) Belonging to or descended from any of various sub-Saharan African ethnic groups which typically have dark pigmentation of the skin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly historical) Designated for use by those ethnic groups (as described above).",
+                  "examples": [
+                    "black drinking fountain; black hospital"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games, of a card) Of the spades or clubs suits. Compare red (“of the hearts or diamonds suit”)",
+                  "examples": [
+                    "I was dealt two red queens, and he got one of the black queens."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Bad; evil; ill-omened.",
+                  "examples": [
+                    "[…]  what a black day would that be, when the Ordinances of Jesus Christ should as it were be excommunicated, and cast out of the Church of Christ."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Expressing menace, or discontent; threatening; sullen.",
+                  "examples": [
+                    "He shot her a black look."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of objects, markets, etc) Illegitimate, illegal or disgraced.",
+                  "examples": [
+                    "Foodstuffs were rationed and, as in other countries in a similar situation, the black market was flourishing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Foul; dirty, soiled.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Ireland, informal) Overcrowded.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of coffee or tea) Without any cream, milk, or creamer.",
+                  "examples": [
+                    "Jim drinks his coffee black, but Ellen prefers it with creamer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(board games, chess) Of or relating to the playing pieces of a board game deemed to belong to the \"black\" set (in chess the set used by the player who moves second) (often regardless of the pieces' actual colour).",
+                  "examples": [
+                    "The black pieces in this chess set are made of dark blue glass."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(politics) Anarchist; of or pertaining to anarchism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) Said of a symbol or character that is solid, filled with color. Compare white (“said of a character or symbol outline, not filled with color”).",
+                  "examples": [
+                    "Compare two Unicode symbols: ☞ = \"WHITE RIGHT POINTING INDEX\"; ☛ = BLACK RIGHT POINTING INDEX"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(politics) Related to the Christian Democratic Union of Germany.",
+                  "examples": [
+                    "After the election, the parties united in a black-yellow alliance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Clandestine; relating to a political, military, or espionage operation or site, the existence or details of which is withheld from the general public.",
+                  "examples": [
+                    "5 percent of the Defense Department funding will go to black projects.",
+                    "black operations/black ops, black room, black site"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Occult; relating to something (such as mystical or magical knowledge) which is unknown to or kept secret from the general public.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Ireland, now derogatory) Protestant, often with the implication of being militantly pro-British or anti-Catholic. (Compare blackmouth (\"Presbyterian\").)",
+                  "examples": [
+                    "the Black North (Ulster)",
+                    "the Royal Black Institution"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having one or more features (hair, fur, armour, clothes, bark, etc) that is dark (or black); in taxonomy, especially: dark in comparison to another species with the same base name.",
+                  "examples": [
+                    "black birch, black locust, black rhino",
+                    "the black knight, black bile"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "black (countable and uncountable, plural blacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable and uncountable) The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+                  "examples": [
+                    "black:"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable and uncountable) A black dye or pigment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A pen, pencil, crayon, etc., made of black pigment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in the plural) Black cloth hung up at funerals.",
+                  "examples": [
+                    "Groans, and convulsions, and a discolored face, and friends weeping, and blacks, and obsequies, and the like, show death terrible."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sometimes capitalised, countable, often offensive) A member of descendant of any of various (African, Aboriginal, etc) ethnic groups which typically have dark pigmentation of the skin. (See usage notes.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Blackness, the condition of belonging to or being descended from one of these ethnic groups.",
+                  "examples": [
+                    "black don't crack"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(billiards, snooker, pool, countable) The black ball.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball, countable) The edge of home plate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, countable) A type of firecracker that is really more dark brown in colour.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, countable) Short for blackcurrant, especially (chiefly UK) as syrup or crème de cassis used for cocktails.",
+                  "examples": [
+                    "Pernod and black... snakebite and black... cider and black..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in chess and similar games, countable) The person playing with the black set of pieces.",
+                  "examples": [
+                    "At this point black makes a disastrous move."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Something, or a part of a thing, which is black.",
+                  "examples": [
+                    "the black or sight of the eye"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, countable) A stain; a spot.",
+                  "examples": [
+                    "defiling her white lawn of chastity with ugly blacks of lust"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dark smut fungus, harmful to wheat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang) Marijuana.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "black (third-person singular simple present blacks, present participle blacking, simple past and past participle blacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make black; to blacken.",
+                  "examples": [
+                    "\"I don't want to fight; but you are a mean, dirty blackguard, or you wouldn't have treated a girl like that,\" replied Tommy, standing as stiff as a stake before the bully.",
+                    "\"Say that again, and I'll black your eye for you.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To apply blacking to (something).",
+                  "examples": [
+                    "[…]  he must catch, curry, and saddle his own horse; he must black his own brogans (for he will not be able to buy boots)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, transitive) To boycott, usually as part of an industrial dispute.",
+                  "examples": [
+                    "The plants were blacked by the Transport and General Workers' Union and a consumer boycott was organised; both activities contributed to what the union saw as a victory."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
