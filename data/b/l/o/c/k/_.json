@@ -1,0 +1,376 @@
+{
+  "word": "block",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English blok (“log, stump, solid piece”), from Old French bloc (“log, block”), from Middle Dutch blok (“treetrunk”), from Old Dutch *blok (“log”), from Proto-West Germanic *blokk, from Proto-Germanic *blukką (“beam, log”), from Proto-Indo-European *bʰelǵ- (“thick plank, beam, pile, prop”). Cognate with Old Frisian blok, Old Saxon blok, Old High German bloh, bloc (“block”), Old English bolca (“gangway of a ship, plank”), Old Norse bǫlkr (“divider, partition”). More at balk. See also bloc."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "block (plural blocks)",
+          "definitionGroups": [
+            {
+              "group": "A substantial, often approximately cuboid, piece of any substance.",
+              "entries": [
+                {
+                  "meaning": "A chopping block: a cuboid base for cutting or beheading.",
+                  "examples": [
+                    "Anne Boleyn placed her head on the block and awaited her execution."
+                  ]
+                },
+                {
+                  "meaning": "A wig block: a simplified head model upon which wigs are worn.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A mould on which hats, bonnets, etc., are shaped.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(printing, dated) A piece of hard wood on which a stereotype or electrotype plate is mounted.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A case or frame housing one or more sheaves (pulleys), used with ropes to increase or redirect force, for example as part of lifting gear or a sailing ship's rigging. See also block and tackle.",
+                  "examples": [
+                    "Synonym: pulley block"
+                  ]
+                },
+                {
+                  "meaning": "A section of split logs used as fuel.",
+                  "examples": [
+                    "She said, 'I hope I shall not be left to kill myself, but It would be no more sin to kill me, than to put a block on the fire.'"
+                  ]
+                },
+                {
+                  "meaning": "A set of sheets (of paper) joined together at one end, forming a cuboid shape.",
+                  "examples": [
+                    "a block of 100 tickets"
+                  ]
+                },
+                {
+                  "meaning": "(falconry) The perch on which a bird of prey is kept.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A physical area or extent of something, often rectangular or approximately rectangular.",
+              "entries": [
+                {
+                  "meaning": "(philately) A joined group of four (or in some cases nine) postage stamps, forming a roughly square shape.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(viticulture) A discrete group of vines in a vineyard, often distinguished from others by variety, clone, canopy training method, irrigation infrastructure, or some combination thereof.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A logical extent or region; a grouping or apportionment of like things treated together as a unit.",
+              "entries": [
+                {
+                  "meaning": "(computing) A logical data storage unit containing one or more physical sectors (see cluster).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(programming) A region of code in a program that acts as a single unit, such as a function or loop.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(cryptography) A fixed-length group of bits making up part of a message.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(chemistry) A portion of a macromolecule, comprising many units, that has at least one feature not present in adjacent portions.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(rail transport) A section of a railroad where the block system is used.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing) A contiguous range of Unicode code points used to encode characters of a specific type; can be of any size evenly divisible by 16, up to 65,536 (a full plane).",
+                  "examples": [
+                    "The \"Specials\" block comprises the sixteen codepoints from U+FFF0 through U+FFFF."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A contiguous group of urban lots of property, typically several acres in extent, not crossed by public streets.",
+              "entries": [
+                {
+                  "meaning": "The distance from one street to another in a city or suburb that is built (approximately) to a grid pattern.",
+                  "examples": [
+                    "The place you are looking for is two long blocks east and one short block north."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A roughly cuboid building.",
+              "entries": [
+                {
+                  "meaning": "A cellblock.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Something that prevents something from passing.",
+              "entries": [
+                {
+                  "meaning": "Interference or obstruction of cognitive processes.",
+                  "examples": [
+                    "a mental block",
+                    "writer's block"
+                  ]
+                },
+                {
+                  "meaning": "(sports) An action to interfere with the movement of an opposing player or of the object of play (ball, puck).",
+                  "examples": [
+                    "Synonyms: stuff, roof, wall"
+                  ]
+                },
+                {
+                  "meaning": "(cricket) A shot played by holding the bat vertically in the path of the ball, so that it loses momentum and drops to the ground.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(cricket) The position of a player or bat when guarding the wicket.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(cricket) A blockhole.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(cricket) The popping crease.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(volleyball) A defensive play by one or more players meant to deflect a spiked ball back to the hitter’s court.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A temporary or permanent ban that prevents access to an online account or service, or connection to or from a designated telephone number, IP address, or similar.",
+                  "examples": [
+                    "The Wiktionary page-blanking vandal was hit with an indefinite block.",
+                    "I've put a block on calls from that number."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) The human head.",
+                  "examples": [
+                    "I'll knock your block off!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) Solitary confinement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A blockhead; a stupid fellow; a dolt.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "block (third-person singular simple present blocks, present participle blocking, simple past and past participle blocked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fill or obstruct (something) so that it is not possible to pass.",
+                  "examples": [
+                    "The pipe was blocked by leaves.",
+                    "You're blocking the road – I can't get through!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To prevent (something or someone) from passing.",
+                  "examples": [
+                    "A broken-down car is blocking the traffic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To prevent (something from happening or someone from doing something).",
+                  "examples": [
+                    "His plan to take over the business was blocked by the boss."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, sports) To impede (an opponent or opponent's play).",
+                  "examples": [
+                    "He blocked the basketball player's shot.",
+                    "The offensive linemen tried to block the blitz."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, theater) To specify the positions and movements of the actors for (a section of a play or film).",
+                  "examples": [
+                    "It was very difficult to block this scene convincingly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, cricket) To hit with a block.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, cricket) To play a block shot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bar (someone undesirable) from connecting via telephone, instant messaging, etc., or from accessing an online account or service, or similar.",
+                  "examples": [
+                    "I tried to send you a message, but you've blocked me!",
+                    "The user who started the edit war was blocked for a day to cool off."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bar (a message or communication), or bar connection with (an online account or service, a designated telephone number, IP address, etc.).",
+                  "examples": [
+                    "They've blocked all calls to international numbers.",
+                    "Most Internet services have been blocked."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, intransitive) To wait for some condition to become true.",
+                  "examples": [
+                    "When the condition expression is false, the thread blocks on the condition variable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To stretch or mould (a knitted item, a hat, etc.) into the desired shape.",
+                  "examples": [
+                    "I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To shape or sketch out roughly.",
+                  "examples": [
+                    "When drawing a scene, first block the main features, and then fill in the detail."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang, obsolete) To knock (a person's hat) down over their eyes.",
+                  "examples": [
+                    "Synonym: bonnet"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "block",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Misspelling of bloc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
