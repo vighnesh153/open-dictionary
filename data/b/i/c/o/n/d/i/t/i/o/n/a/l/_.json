@@ -1,0 +1,45 @@
+{
+  "word": "biconditional",
+  "etymologies": [
+    {
+      "description": [
+        "bi- +‎ conditional"
+      ],
+      "adjectives": [
+        {
+          "description": "biconditional (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having two conditions",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "biconditional (plural biconditionals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An \"if and only if\" conditional wherein the truth of each term depends on the truth of the other",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
