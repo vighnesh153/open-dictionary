@@ -1,0 +1,54 @@
+{
+  "word": "apotome",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowing from Ancient Greek ἀποτομή (apotomḗ, “cutting off”). The musical sense originates from the Pythagorean tradition. The mathematical sense is attested in Euclid's Elements (Book X, proposition 73, et seq.)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "apotome (plural apotomes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, geometry) The difference between two quantities or lengths commensurable only in power, as between 1 and the square root of 2, or between the diagonal and side of a square.",
+                  "examples": [
+                    "Yet it is not until Book X that the properties of such a line (with greater length is an apotome and lesser length a first apotome) are explained and not until Book XIII that this type of line is applied, which will be discussed in more detail later. […] The likewise is true of apotomes (X. 97)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The remaining part of a whole tone after a smaller semitone has been deducted from it; a major semitone.",
+                  "examples": [
+                    "This semitone was termed by the Pythagoreans apotome, and the diatonic semitone was termed limma. They contended, that the apotome, or distance from B flat to B natural, was larger than the limma, or distance from A to B flat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) A distinct division of an insect which is divided from the other divisions by a pinch point.",
+                  "examples": [
+                    "The bands pass inside the margins of the apotome as they approach its constriction and form two pigmented areas broadly based on the frontal sutures and becoming dispersed towards the mid-line."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
