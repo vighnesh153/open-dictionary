@@ -1,0 +1,32 @@
+{
+  "word": "balun",
+  "etymologies": [
+    {
+      "description": [
+        "Clipping of balanced-unbalanced. Compare modem."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "balun (plural baluns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An electronic device for connecting a balanced transmission line to an unbalanced one.",
+                  "examples": [
+                    "Baluns find wide use in mixer, antenna and balanced amplifier circuits. Yet balun design is still regarded as if it were black magic by many engineers partly due to the fact that practical design information on baluns can be difficult to find."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
