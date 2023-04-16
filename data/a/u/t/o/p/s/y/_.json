@@ -1,0 +1,78 @@
+{
+  "word": "autopsy",
+  "etymologies": [
+    {
+      "description": [
+        "From New Latin autopsia, from Ancient Greek αὐτοψῐ́ᾱ (autopsíā, “seeing with one's own eyes”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "autopsy (plural autopsies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dissection performed on a cadaver to find possible cause(s) of death.",
+                  "examples": [
+                    "The autopsy revealed he had died of multiple bullet wounds."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An after-the-fact examination, especially of the causes of a failure.",
+                  "examples": [
+                    "This lack of built-in clutter makes the system easy to comprehend. Debugging facilities are few but powerful: snapshots, tracing, and autopsy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) An eyewitness observation, the presentation of an event as witnessed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "autopsy (third-person singular simple present autopsies, present participle autopsying, simple past and past participle autopsied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To perform an autopsy on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To perform an after-the-fact analysis of, especially of a failure.",
+                  "examples": [
+                    "The user may define his own errors, and use DUMPAL to autopsy the system for him."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
