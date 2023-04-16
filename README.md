@@ -6,7 +6,14 @@ An initiative to create an **English** dictionary which is open to all and maint
 
 ## How to use?
 
-[//]: # 'TODO'
+* Break your word into single letters and create a `/`-separated path
+* Prefix the path with `https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/`
+* Suffix the path with `_.json`
+
+```txt
+// Example: For getting the definition of "apple"
+https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/a/p/p/l/e/_.json
+```
 
 ## Why?
 
@@ -14,6 +21,13 @@ An initiative to create an **English** dictionary which is open to all and maint
 - No other reliable source as an API
 - No other easy-to-use API
 - GitHub's servers are more reliable than a custom host managed by a small group of people without any funding
+
+## Missing word?
+If a word is missing, you can either
+* Create an issue specifying which word is missing
+* It would be more awesome if you could also raise a PR for the issue
+
+Checkout the [Contributions](#contributions) section.
 
 ## Where do I source my data from?
 

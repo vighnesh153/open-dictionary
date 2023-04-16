@@ -3,11 +3,14 @@
 See an issue in the word definition file? Have a word that isn't in the dataset? Feel free to create a GitHub issue
 describing the bug or new-word request and if you could create a pull request to fix the issue, it would be awesome ❤️
 
+> Please only create a single word issues and pull requests. It makes it easier to review quickly. If you have multiple
+> words in your PR, I would end up procrastinating because reviewing a huge PR needs a lot of time.
+
 ## How to contribute?
 
 - You need node installed on your system. Prefer [nvm](https://github.com/nvm-sh/nvm) to install
 - Fork the repository
-- Clone the forked repository
+- Clone the forked repository on your local system
 - Create a new branch
 
 ```shell
@@ -27,8 +30,9 @@ npm run create-word-definition <your-word>
 ```
 
 - Verify if the format and information is correct
-    - You can open this link to verify the information: https://en.wiktionary.org/wiki/<your-word>
-- Verify if the format and the information is correct.
+
+> You can verify the information here `https://en.wiktionary.org/wiki/<your-word>`
+
 - Commit your changes
 
 ```shell
