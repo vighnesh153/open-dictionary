@@ -1,0 +1,107 @@
+{
+  "word": "alias",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin alias (“at another time; at another place, elsewhere, under other circumstances, otherwise”). See else and alien."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "alias (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Otherwise; at another time; in other circumstances; otherwise called.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) Used to connect the different names of a person who has gone by two or more, and whose true name is for any cause doubtful",
+                  "examples": [
+                    "Smith, alias Simpson."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "alias (plural aliases)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Another name; an assumed name.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A second or further writ which is issued after a first writ has expired without effect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An abbreviation that replaces a string of commands and thereby reduces typing when performing routine actions or tasks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing) An spurious signal generated as a technological artifact.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "alias (third-person singular simple present aliases, present participle aliasing, simple past and past participle aliased)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To assign an additional name to an entity, often a more user-friendly one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing, of two signals) to become indistinguishable",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
