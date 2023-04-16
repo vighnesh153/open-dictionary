@@ -1,0 +1,39 @@
+{
+  "word": "accessor",
+  "etymologies": [
+    {
+      "description": [
+        "access +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "accessor (plural accessors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone or something that accesses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) A function that retrieves a value, usually without changing any data.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
