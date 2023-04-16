@@ -1,0 +1,30 @@
+{
+  "word": "acnode",
+  "etymologies": [
+    {
+      "description": [
+        "Latin acus + nodus"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "acnode (plural acnodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) An isolated point not upon a curve, but whose coordinates satisfy the equation of the curve so that it is considered as belonging to the curve.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
