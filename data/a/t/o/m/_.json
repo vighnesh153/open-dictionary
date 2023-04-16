@@ -1,0 +1,125 @@
+{
+  "word": "atom",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English attome, from Middle French athome, from Latin atomus (“smallest particle”), from Ancient Greek ἄτομος (átomos, “indivisible”), from ἀ- (a-, “not”) +‎ τέμνω (témnō, “I cut”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "atom (plural atoms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, physics) The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons. [from 16th c.]",
+                  "examples": [
+                    "Meronyms: proton, neutron, electron"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(history of science) A hypothetical particle posited by Greek philosophers as an ultimate and indivisible component of matter. [from 15th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now generally regarded figuratively) The smallest, indivisible constituent part or unit of something. [from 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) In logical atomism, a fundamental fact that cannot be further broken down.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) The smallest medieval unit of time, equal to fifteen ninety-fourths of a second. [from 10th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mote of dust in a sunbeam. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A very small amount; a whit. [from 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, Lisp) An individual number or symbol, as opposed to a list; a scalar value. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A non-zero member of a partially ordered set that has only zero below it (assuming that the poset has a least element, its \"zero\"). [from 20th c.]",
+                  "examples": [
+                    "Antonym: coatom",
+                    "In a Venn diagram, an atom is depicted as an area circumscribed by lines but not cut by any line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, set theory) An element of a set that is not itself a set; an urelement. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, usually attributive) An age group division in hockey for nine- to eleven-year-olds.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "word": "atomic",
+  "etymologies": [
+    {
+      "description": [
+        "atom +‎ -ic"
+      ],
+      "adjectives": [
+        {
+          "description": "atomic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, chemistry) Of or relating to atoms; composed of atoms; monatomic.",
+                  "examples": [
+                    "Antonym: molecular",
+                    "A stream of atomic hydrogen is emitted."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Employing or relating to nuclear energy or processes.",
+                  "examples": [
+                    "We built a small atomic bomb in the garage."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Infinitesimally small.",
+                  "examples": [
+                    "The hairs on a bedbug are almost atomic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Unable to be split or made any smaller.",
+              "entries": [
+                {
+                  "meaning": "(programming, of a commit in a VCS) Containing a single change, as opposed to involving numerous unrelated changes.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(logic, of a proposition) Lacking logical operators; unable to be made simpler in logical form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of an operation) Guaranteed to complete either fully or not at all while waiting in a pause, and running synchronously when called by multiple asynchronous threads.",
+                  "examples": [
+                    "In order to avoid race conditions, this operation has to be atomic.",
+                    "Whenever possible, use atomic types instead of mutexes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "atomic (plural atomics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An atomic operation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
