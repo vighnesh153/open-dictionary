@@ -1,0 +1,63 @@
+{
+  "word": "backtracking",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "backtracking (countable and uncountable, plural backtrackings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) The act of one who, or that which, backtracks; a retracing of one's steps.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) The usage of a runway as a taxiway, especially at private strips and smaller airports.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) The act of building all possible solutions to a problem incrementally, abandoning any candidate solution if it cannot lead to a valid solution.",
+                  "examples": [
+                    "backtracking algorithm"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "backtracking",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of backtrack",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
