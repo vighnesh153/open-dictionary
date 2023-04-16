@@ -1,0 +1,32 @@
+{
+  "word": "appender",
+  "etymologies": [
+    {
+      "description": [
+        "append +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "appender (plural appenders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A software component that appends data to a computer file.",
+                  "examples": [
+                    "For this appender, you specify the appender and layout as discussed and also specify the File parameter for the appender so that the appender knows which file to place the log data in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
