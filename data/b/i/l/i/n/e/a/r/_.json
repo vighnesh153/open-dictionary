@@ -1,0 +1,58 @@
+{
+  "word": "bilinear",
+  "etymologies": [
+    {
+      "description": [
+        "From bi- +‎ linear."
+      ],
+      "adjectives": [
+        {
+          "description": "bilinear (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra, of a function in two variables) Linear (preserving linear combinations) in each variable.",
+                  "examples": [
+                    "The function \n  \n    \n      \n        f\n        (\n        x\n        ,\n        y\n        )\n        =\n        x\n        y\n      \n    \n    {\\displaystyle f(x,y)=xy}\n  \n is bilinear, because \n  \n    \n      \n        f\n        (\n        a\n        x\n        +\n        b\n        u\n        ,\n        y\n        )\n        =\n        a\n        f\n        (\n        x\n        ,\n        y\n        )\n        +\n        b\n        f\n        (\n        u\n        ,\n        y\n        )\n      \n    \n    {\\displaystyle f(ax+bu,y)=af(x,y)+bf(u,y)}\n  \n and \n  \n    \n      \n        f\n        (\n        x\n        ,\n        a\n        y\n        +\n        b\n        v\n        )\n        =\n        a\n        f\n        (\n        x\n        ,\n        y\n        )\n        +\n        b\n        f\n        (\n        x\n        ,\n        v\n        )\n      \n    \n    {\\displaystyle f(x,ay+bv)=af(x,y)+bf(x,v)}\n  \n for all values."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(complex analysis, physics, engineering) Of or pertaining to a Möbius transformation (type of conformal map representable as the ratio of two linear functions).",
+                  "examples": [
+                    "bilinear isotropic hardening"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bilinear (plural bilinears)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) A bilinear function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
