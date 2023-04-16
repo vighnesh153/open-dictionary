@@ -1,0 +1,95 @@
+{
+  "word": "alphabet",
+  "etymologies": [
+    {
+      "description": [
+        "Doublet of alfabeto."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "alphabet (plural alphabets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The set of letters used when writing in a language.",
+                  "examples": [
+                    "The Greek alphabet has only twenty-four letters.",
+                    "In the first year of school, pupils are taught to recite the alphabet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A writing system in which letters represent phonemes. (Contrast e.g. logography, a writing system in which each character represents a word, and syllabary, in which each character represents a syllable.)",
+              "entries": [
+                {
+                  "meaning": "A writing system in which there are letters for the consonant and vowel phonemes. (Contrast e.g. abjad.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) A typically finite set of distinguishable symbols.",
+                  "examples": [
+                    "Let \n  \n    \n      \n        L\n      \n    \n    {\\displaystyle L}\n  \n be a regular language over the alphabet \n  \n    \n      \n        Σ\n      \n    \n    {\\displaystyle \\Sigma }\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(India, Hong Kong, Singapore, Malaysia) An individual letter of an alphabet; an alphabetic character.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The simplest rudiments; elements.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet slang, politics) An agent of the FBI, the CIA, or another such government agency.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "alphabet (third-person singular simple present alphabets, present participle alphabeting, simple past and past participle alphabeted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) To designate by the letters of the alphabet; to arrange alphabetically.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
