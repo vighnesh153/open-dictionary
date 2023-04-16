@@ -1,0 +1,52 @@
+{
+  "word": "arbitrate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin arbitratus, past participle of arbitrari (“to be a witness, act as umpire”), from arbiter (“umpire”); see arbiter."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "arbitrate (third-person singular simple present arbitrates, present participle arbitrating, simple past and past participle arbitrated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a judgment (on a dispute) as an arbitrator or arbiter",
+                  "examples": [
+                    "to arbitrate a disputed case"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To submit (a dispute) to such judgment",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, rare) To assign an arbitrary value to, or otherwise determine arbitrarily.",
+                  "examples": [
+                    "We wish to show f is continuous. Arbitrate epsilon greater than zero..."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
