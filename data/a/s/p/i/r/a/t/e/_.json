@@ -1,0 +1,113 @@
+{
+  "word": "aspirate",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin aspīrātus."
+      ],
+      "adjectives": [
+        {
+          "description": "aspirate (comparative more aspirate, superlative most aspirate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Synonym of aspirated.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "aspirate (plural aspirates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The puff of air accompanying the release of a plosive or fricative consonant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A sound produced by such a puff of air.",
+                  "examples": [
+                    "We now come to the so-called aspirate [h], which must be also classified as a fricative consonant."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mark of aspiration (#) used in Greek; the asper, or rough breathing.",
+                  "examples": [
+                    "But we must correct then twenty authors who have it in the compound απηθείν and απήθημα ; and not (as the aspirate would require it) åpnoelv and αφήθημα"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sample of fluid, tissue, or other substance that is withdrawn from a body cavity, cyst, or tumor.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "aspirate (third-person singular simple present aspirates, present participle aspirating, simple past and past participle aspirated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove a liquid or gas by means of suction.",
+                  "examples": [
+                    "Scrape cells using a cell scraper and aspirate the resulting slurry into a 2.0-mL Eppendorf tube."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To inhale so as to draw something other than air into one's lungs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, linguistics) To produce an audible puff of breath. especially following a consonant, such as the letter \"h\" at the beginning of house or hat in standard English.",
+                  "examples": [
+                    "There is no doubt that the uncertainty about the letter H, which much defaces English in some classes of the community, is due entirely to Norman influence, for Frenchmen could not aspirate. Three words—hour, honor, heir, with compounds of them such as hourly, honourable, heirship, and the like, are quite enough to puzzle people who find H sometimes sounded, sometimes not."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
