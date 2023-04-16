@@ -1,0 +1,39 @@
+{
+  "word": "broking",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "broking (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The craft or profession of a broker; mediation in a sale or transaction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The action of a broker agent; exchange of messages or transactions involving a software agent.",
+                  "examples": [
+                    "The UPnP architecture provides features for connectivity layer and resource layer that are defined in general grid computing architecture. Unfortunately, collective layer mechanisms, such as co-allocation, directory service, broking, work load management, community account and payment, are not defined yet."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
