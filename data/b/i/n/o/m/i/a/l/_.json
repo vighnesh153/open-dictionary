@@ -1,0 +1,72 @@
+{
+  "word": "binomial",
+  "etymologies": [
+    {
+      "description": [
+        "Formed from Late Latin binōmium + -al. The derivation of binōmium is unclear. It was used by Gerard of Cremona in the 12th century. Suggested sources are the Latin nōmen (“name”), the Ancient Greek νομός (nomós, “distribution, pasture”), or the Old French nom (“name”). Compare binomy and binominal, as well as the French binôme."
+      ],
+      "adjectives": [
+        {
+          "description": "binomial (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Consisting of two terms, or parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Of or relating to the binomial distribution.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "binomial (plural binomials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A polynomial with two terms.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A quantity expressed as the sum or difference of two terms.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) A scientific name at the rank of species, with two terms: a generic name and a specific name.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
