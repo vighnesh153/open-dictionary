@@ -1,0 +1,202 @@
+{
+  "word": "batch",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English bach, bache, bahche, from Old English *bæċċ (“something baked”), of uncertain origin, but possibly from Proto-West Germanic *bakku, from Proto-Germanic *bakkuz (“baking, baked goods”), cognate with Middle High German becke (“something baked, pastry, baking, bakery”). Related also to Old English bacan (“to bake”), Old English ġebæc (“something baked”), Dutch gebak, German Gebäck, Dutch baksel."
+      ],
+      "adjectives": [
+        {
+          "description": "batch (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a process, operating for a defined set of conditions, and then halting.",
+                  "examples": [
+                    "The plant had two batch assembly lines for packaging, as well as a continuous feed production line."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "batch (plural batches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quantity of bread or other baked goods baked at one time.",
+                  "examples": [
+                    "Synonym: recipe",
+                    "We made a batch of cookies to take to the party."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A quantity of anything produced at one operation.",
+                  "examples": [
+                    "Synonyms: pressing, run, lot",
+                    "We poured a bucket of water in at the top, and the ice-maker dispensed a batch of ice-cubes at the bottom."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group or collection of things of the same kind, such as a batch of letters or the next batch of business.",
+                  "examples": [
+                    "Synonyms: group, lot"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A set of data to be processed at one time.",
+                  "examples": [
+                    "The system throttled itself to batches of 50 requests at a time to keep the thread count under control."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dialect, Midlands) A bread roll.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Philippines) A graduating class; school class.",
+                  "examples": [
+                    "She was the valedictorian of Batch ’73."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The process of baking.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "batch (third-person singular simple present batches, present participle batching, simple past and past participle batched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To aggregate things together into a batch.",
+                  "examples": [
+                    "The contractor batched the purchase orders for the entire month into one statement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To handle a set of input data or requests as a batch process.",
+                  "examples": [
+                    "The purchase requests for the day were stored in a queue and batched for printing the next morning."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English bache, bæcche, from Old English bæċ, beċe (“brook, stream”). Doublet of beck. More at beach."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "batch (plural batches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bank; a sandbank.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A field or patch of ground lying near a stream; the dale in which a stream flows.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From an abbreviation of the pronunciation of bachelor (“unmarried adult male”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "batch (third-person singular simple present batches, present participle batching, simple past and past participle batched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) To live as a bachelor temporarily, of a married man or someone virtually married.",
+                  "examples": [
+                    "I am batching next week when my wife visits her sister."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
