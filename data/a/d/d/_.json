@@ -1,0 +1,142 @@
+{
+  "word": "add",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English adden, from Latin addō (“add, give unto”), from ad (“to”) + dō (“give”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "add (plural adds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(radio) The addition of a song to a station's playlist.",
+                  "examples": [
+                    "In a typical week, 10 to 15 songs may be up for consideration as “adds” of new songs for the station's playlist."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) An act or instance of adding.",
+                  "examples": [
+                    "List the number of adds and multiplies for each of the forms (6) , (7), and (8)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) An additional enemy that joins a fight after the primary target.",
+                  "examples": [
+                    "When the player has fought the boss for one minute, two adds will arrive from the back and must be dealt with."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "add (third-person singular simple present adds, present participle adding, simple past and past participle added)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To sum up; to put together mentally; to add up.",
+                  "examples": [
+                    "to add numbers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To combine elements of (something) into one quantity.",
+                  "examples": [
+                    "to add a column of numbers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give by way of increased possession (to someone); to bestow (on).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To append (e.g. a statement); to say further information; to add on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make an addition; to augment; to increase; to add on.",
+                  "examples": [
+                    "It adds to our anxiety."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, mathematics) To perform the arithmetical operation of addition.",
+                  "examples": [
+                    "He adds rapidly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, video games) To summon minions or reinforcements.",
+                  "examples": [
+                    "Typically, a hostile mob will add whenever it's within the aggro radius of a player."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
