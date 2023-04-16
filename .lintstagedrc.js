@@ -6,6 +6,7 @@ const removeIgnoredEslintFiles = async (files) => {
   const filteredFiles = files.filter((_, i) => !ignoredFiles[i]);
   return filteredFiles.join(' ');
 };
+console.log('ojoj')
 
 export default {
   '*.{mdx,ts}': ['eslint --max-warnings=0 --fix', 'prettier --write'],
