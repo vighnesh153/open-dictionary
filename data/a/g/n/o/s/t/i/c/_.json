@@ -1,0 +1,81 @@
+{
+  "word": "agnostic",
+  "etymologies": [
+    {
+      "description": [
+        "Coined by Thomas Henry Huxley in 1870. Either from Ancient Greek ἄγνωστος (ágnōstos, “ignorant, not knowing”). Or from a- +‎ Gnostic, deriving (either way) from Ancient Greek ἀ- (a-, “not”) + γιγνώσκω (gignṓskō, “I know”)."
+      ],
+      "adjectives": [
+        {
+          "description": "agnostic (comparative more agnostic, superlative most agnostic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to agnosticism or its adherents.",
+                  "examples": [
+                    "His agnostic viewpoint is summarized in his book."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Doubtful or uncertain about the existence or demonstrability of God or other deity.",
+                  "examples": [
+                    "She left the church when she became agnostic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of a software component etc.: unaware or noncommittal regarding the specific nature of the components or input with which it interacts.",
+                  "examples": [
+                    "The socket communications layer is agnostic with regard to its underlying transport mechanism—it is “transport-agnostic”."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually with a prepositional phrase) Having no firmly held opinions on an issue or matter of uncertainty.",
+                  "examples": [
+                    "I'm agnostic on whether ethanol is a green fuel.",
+                    "He says he's agnostic concerning the Secretary's claims."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "agnostic (plural agnostics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who holds to a form of agnosticism, especially uncertainty of the existence of a deity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
