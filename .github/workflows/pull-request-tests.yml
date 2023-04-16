@@ -18,5 +18,12 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Log changed files
-        run: git --no-pager diff --name-only FETCH_HEAD...main
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+
+      - name: Process changed files
+        run: |
+          for changed_file in ${{ steps.files.outputs.all }}; do
+            node ./dist/pullRequestTest.js ${changed_file}
+            echo "Do something with this ${changed_file}."
+          done
