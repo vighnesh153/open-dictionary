@@ -1,0 +1,32 @@
+{
+  "word": "autoregressive",
+  "etymologies": [
+    {
+      "description": [
+        "auto- +‎ regressive"
+      ],
+      "adjectives": [
+        {
+          "description": "autoregressive (comparative more autoregressive, superlative most autoregressive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Employing autoregression, using a weighted sample of past data to predict future results",
+                  "examples": [
+                    "An autoregressive model was used."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
