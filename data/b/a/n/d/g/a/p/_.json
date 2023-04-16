@@ -1,0 +1,41 @@
+{
+  "word": "bandgap",
+  "etymologies": [
+    {
+      "description": [
+        "band +‎ gap"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bandgap (plural bandgaps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The energy difference between two allowed ranges of electron energy in a solid; especially the difference between the energies of the valence band and the conduction band.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A gap in a frequency range in which waves cannot propagate.",
+                  "examples": [
+                    "The propagation of an acoustic wave inside a phononic crystal is forbidden in the bandgap frequency range due to Bragg scattering."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
