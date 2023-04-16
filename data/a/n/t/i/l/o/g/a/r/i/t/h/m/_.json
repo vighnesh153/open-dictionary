@@ -1,0 +1,34 @@
+{
+  "word": "antilogarithm",
+  "etymologies": [
+    {
+      "description": [
+        "From anti- +‎ logarithm."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "antilogarithm (plural antilogarithms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The number of which a given number is the logarithm (to a given base).",
+                  "examples": [
+                    "If x is the logarithm of y, then y is the antilogarithm of x.",
+                    "Synonym: antilog",
+                    "Antonym: logarithm"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
