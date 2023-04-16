@@ -1,0 +1,52 @@
+{
+  "word": "argumentation",
+  "etymologies": [
+    {
+      "description": [
+        "From French, from Latin argūmentātiō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "argumentation (usually uncountable, plural argumentations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Inference based on reasoning from given propositions.",
+                  "examples": [
+                    "His chain of argumentation is flawed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An exchange of arguments",
+                  "examples": [
+                    "Their argumentation continued long into the night."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The addition of arguments to a model; parameterization.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

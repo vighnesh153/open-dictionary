@@ -1,0 +1,278 @@
+{
+  "word": "argument",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English argument, from Anglo-Norman and Old French arguement, from Latin argūmentum (“argument (for a position); evidence, proof; point, theme; thesis, topic; plot (in theatre)”), from arguere + -mentum (suffix indicating the instrument, medium, or result of something). Arguere is the present active infinitive of arguō (“to argue, assert, declare; to make clear, prove, show; to accuse, charge with, reprove; to blame, censure; to denounce as false”), either ultimately from Proto-Indo-European *h₂erǵ- (“silver, white; glittering”), or from Hittite [script needed] (arkuwā(i)-, “to make a plea, state one’s case”). The English word is analysable as argue +‎ -ment. Doublet of argumentum.",
+        "Displaced native Old English racu and ġeflit."
+      ],
+      "adjectives": [
+        {
+          "description": "argument (countable and uncountable, plural arguments)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, also figuratively) A fact or statement used to support a proposition; a reason.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A process of reasoning; argumentation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An abstract or summary of the content of a literary work such as a book, a poem or a major section such as a chapter, included in the work before the content itself; (figuratively) the contents themselves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A verbal dispute; a quarrel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, humorous or euphemistic) Any dispute, altercation, or collision.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, linguistics) Any of the phrases that bears a syntactic connection to the verb of a clause.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, programming)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, obsolete)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, archaic) Evidence, proof; (countable) an item of such evidence or proof.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "argument (countable and uncountable, plural arguments)",
+          "definitionGroups": [
+            {
+              "group": "(countable, also figuratively) A fact or statement used to support a proposition; a reason.",
+              "entries": [
+                {
+                  "meaning": "(logic, philosophy) A series of propositions organized so that the final proposition is a conclusion which is intended to follow logically from the preceding propositions, which function as premises.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A process of reasoning; argumentation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An abstract or summary of the content of a literary work such as a book, a poem or a major section such as a chapter, included in the work before the content itself; (figuratively) the contents themselves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A verbal dispute; a quarrel.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:dispute",
+                    "The neighbours got into an argument about the branches of the trees that extended over the fence."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, humorous or euphemistic) Any dispute, altercation, or collision.",
+                  "examples": [
+                    "Steve got in a physical argument with his neighbor and came away with a black eye.",
+                    "While biking home, he got in an argument with the pavement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, linguistics) Any of the phrases that bears a syntactic connection to the verb of a clause.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(countable, mathematics)",
+              "entries": [
+                {
+                  "meaning": "The independent variable of a function.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The phase of a complex number.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(also astronomy) A quantity on which the calculation of another quantity depends.",
+                  "examples": [
+                    "The altitude is the argument of the refraction."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(countable, programming)",
+              "entries": [
+                {
+                  "meaning": "A value, or a reference to a value, passed to a function.",
+                  "examples": [
+                    "Synonyms: actual argument, passed parameter",
+                    "Parameters are like labelled fillable blanks used to define a function whereas arguments are passed to a function when calling it, filling in those blanks."
+                  ]
+                },
+                {
+                  "meaning": "A parameter at a function call; an actual parameter, as opposed to a formal parameter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(countable, obsolete)",
+              "entries": [
+                {
+                  "meaning": "A matter in question; a business in hand.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The subject matter of an artistic representation, discourse, or writing; a theme or topic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, archaic) Evidence, proof; (countable) an item of such evidence or proof.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "The obsolete senses are derived from Middle English argumenten (“to argue, discuss; to consider, reflect”), from Old French argumenter (“to argue”), from Latin argūmentārī, the present active infinitive of argūmentor (“to adduce arguments or proof, prove, reason; to adduce (something) as argument or proof; to conclude”), from argūmentum (“argument (for a position); evidence, proof; point, theme; thesis, topic; plot (in theatre)”) (see further at etymology 1) + -or (the first-person singular present passive indicative of -ō (suffix forming regular first-conjugation verbs)).",
+        "The current sense is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "argument (third-person singular simple present arguments, present participle argumenting, simple past and past participle argumented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete, now nonstandard, non-native speakers' English) To put forward as an argument; to argue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To adduce evidence, to provide proof.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
