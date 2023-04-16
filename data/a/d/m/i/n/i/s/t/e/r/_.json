@@ -1,0 +1,81 @@
+{
+  "word": "administer",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English administren, from Old French aminister, from Latin administrare (“to manage, execute”), from ad (“to”) + ministrare (“to attend, serve”), from minister (“servant”); see minister."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "administer (third-person singular simple present administers, present participle administering, simple past and past participle administered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To apportion out, distribute.",
+                  "examples": [
+                    "A fountain  […]  administers to the pleasure as well as the plenty of the place."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To manage or supervise the conduct, performance or execution of; to govern or regulate the parameters for the conduct, performance or execution of; to work in an administrative capacity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To minister (to).",
+                  "examples": [
+                    "administering to the sick"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) To settle, as the estate of one who dies without a will, or whose will fails of an executor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To give, as an oath.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(transitive) (medicine) To give (a drug, to a patient), be it orally or by any other means.",
+              "entries": [
+                {
+                  "meaning": "(transitive) (medicine) To cause (a patient, human or animal) to ingest (a drug), either by openly offering or through deceit.",
+                  "examples": [
+                    "We administered the medicine to our dog by mixing it in his food."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
