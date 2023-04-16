@@ -1,0 +1,75 @@
+{
+  "word": "aggregation",
+  "etymologies": [
+    {
+      "description": [
+        "Latin aggregātiō, from aggregō (“aggregate”)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "aggregation (plural aggregations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of collecting together (aggregating).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being collected into a mass, assemblage, or sum (aggregated).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A collection of particulars; an aggregate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) Summarizing multiple routes into one route.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(epidemiology) The majority of the parasite population concentrated into a minority of the host population.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) Kind of object composition which does not imply ownership.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
