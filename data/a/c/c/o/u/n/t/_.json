@@ -1,0 +1,215 @@
+{
+  "word": "account",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English acounte, from Anglo-Norman acunte (“account”), from Old French aconte, from aconter (“to reckon”), from Latin computō (“to sum up”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "account (plural accounts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(accounting) A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to a reckoning or review. [from c. 1300]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(banking) A bank account.",
+                  "examples": [
+                    "The Pueblo bank has advised that the operator opened an account at that bank with currency, and a few days later withdrew the amount."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A statement in general of reasons, causes, grounds, etc., explanatory of some event; a reason of an action to be done.",
+                  "examples": [
+                    "Synonyms: accounting, explanation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reason, grounds, consideration, motive; a person's sake.",
+                  "examples": [
+                    "Don't trouble yourself on my account.",
+                    "on no account",
+                    "on every account",
+                    "on all accounts"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A record of events; a relation or narrative. [from c. 1610]",
+                  "examples": [
+                    "Synonyms: narrative, narration, relation, recital, report, description, explanation",
+                    "An account of a battle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An estimate or estimation; valuation; judgment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Importance; worth; value; esteem; judgement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Authorization as a specific registered user in accessing a system.",
+                  "examples": [
+                    "Synonyms: membership, registration",
+                    "Meronym: username",
+                    "I've opened an account with Wikipedia so that I can contribute and partake in the project."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A reckoning; computation; calculation; enumeration; a record of some reckoning.",
+                  "examples": [
+                    "It seems that this severity weakened his frame, for three years syne come Martinmas he was taken ill with a fever of the bowels, and after a week's sickness he went to his account, where I trust he is accepted."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Profit; advantage.",
+                  "examples": [
+                    "The young man soon turned his woodworking skills to some account."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Old French acounter, accomptere et al., from a- + conter (“to count”)). Compare count."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "account (third-person singular simple present accounts, present participle accounting, simple past and past participle accounted)",
+          "definitionGroups": [
+            {
+              "group": "To provide explanation.",
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To present an account of; to answer for, to justify. [14th–17th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive, now rare) To give an account of financial transactions, money received etc. [from 14th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To estimate, consider (something to be as described). [from 14th c.]",
+                  "examples": [
+                    "Synonyms: see Thesaurus:deem"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To consider that. [from 14th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive) To give a satisfactory evaluation for financial transactions, money received etc. [from 15th c.]",
+                  "examples": [
+                    "An officer must account with or to the treasurer for money received."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To give a satisfactory evaluation for (one's actions, behaviour etc.); to answer for. [from 16th c.]",
+                  "examples": [
+                    "We must account for the use of our opportunities."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To give a satisfactory reason for; to explain. [from 16th c.]",
+                  "examples": [
+                    "Idleness accounts for poverty."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To establish the location for someone. [from 19th c.]",
+                  "examples": [
+                    "After the crash, not all passengers were accounted for."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To cause the death, capture, or destruction of someone or something (+ for). [from 19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To count.",
+              "entries": [
+                {
+                  "meaning": "(transitive, now rare) To calculate, work out (especially with periods of time). [from 14th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) To count (up), enumerate. [14th–17th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) To recount, relate (a narrative etc.). [14th–16th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
