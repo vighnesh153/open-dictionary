@@ -1,0 +1,69 @@
+{
+  "word": "backwrap",
+  "etymologies": [
+    {
+      "description": [
+        "back- +‎ wrap"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "backwrap (countable and uncountable, plural backwraps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A portion of something that is wrapped backward.",
+                  "examples": [
+                    "Fresh and cool as a crocus, this pretty dress is designed with a cleverly concealed backwrap."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, dated) A word wrap feature that restores a word to the preceding line when space is made for it by deletion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "backwrap (third-person singular simple present backwraps, present participle backwrapping, simple past and past participle backwrapped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To wrap around the back of something.",
+                  "examples": [
+                    "After applying insulation boards, adhere reinforcing mesh to the board surface. This mesh must wrap around any exposed edge of the insulation board. (This is called backwrapping.)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, dated) To restore a word to the preceding line when space is made for it by deletion.",
+                  "examples": [
+                    "Backwrapping words occurs when enough text is deleted to permit one or more words to be formatted into the shortened line."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
