@@ -1,0 +1,52 @@
+{
+  "word": "assemble",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English assemblen, from Old French assembler (“to assemble”), from Medieval Latin assimulāre (“to bring together”), from ad- +‎ simulō (“copy, imitate”), from similis (“like, similar”), ultimately from Proto-Indo-European *sem- (“together, one”). Doublet of assimilate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "assemble (third-person singular simple present assembles, present participle assembling, simple past and past participle assembled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put together.",
+                  "examples": [
+                    "He assembled the model ship."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To gather as a group.",
+                  "examples": [
+                    "The parents assembled in the school hall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To translate from assembly language to machine code.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
