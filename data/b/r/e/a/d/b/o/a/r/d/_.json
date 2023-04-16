@@ -1,0 +1,63 @@
+{
+  "word": "breadboard",
+  "etymologies": [
+    {
+      "description": [
+        "From bread +‎ board.\nRegarding definition 3: the etymology is either that electric circuits used to be prototyped on actual bread boards (definition 1) populated with nails, or that solder breadboards have lots of holes and are usually brown (they visually resemble a slice of bread), or a merging of the two. The etymology is less obvious today given the popularity of solderless breadboards."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "breadboard (plural breadboards)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cutting board, especially for cutting bread.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pull-out cutting board underneath a counter, found in many kitchens.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A device used to build a (usually temporary) prototype of an electronic circuit and for experimenting with circuit designs. Both solder and solderless versions are available; the solderless type are easily reusable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "breadboard (third-person singular simple present breadboards, present participle breadboarding, simple past and past participle breadboarded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set up (an electronic device) on a breadboard.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
