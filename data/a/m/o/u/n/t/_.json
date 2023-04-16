@@ -1,0 +1,91 @@
+{
+  "word": "amount",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English amounten (“to mount up to, come up to, signify”), from Old French amonter (“to amount to”), from amont, amunt (“uphill, upward”), from the prepositional phrase a mont (“toward or to a mountain or heap”), from Latin ad montem, from ad (“to”) + montem, accusative of mons (“mountain”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "amount (plural amounts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The total, aggregate or sum of material (not applicable to discrete numbers or units or items in standard English).",
+                  "examples": [
+                    "The amount of atmospheric pollution threatens a health crisis."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A quantity or volume.",
+                  "examples": [
+                    "Pour a small amount of water into the dish.",
+                    "The dogs need different amounts of food."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nonstandard, sometimes proscribed) The number (the sum) of elements in a set.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "amount (third-person singular simple present amounts, present participle amounting, simple past and past participle amounted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, followed by to) To total or evaluate.",
+                  "examples": [
+                    "It amounts to three dollars and change."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, followed by to) To be the same as or equivalent to.",
+                  "examples": [
+                    "He was a pretty good student, but never amounted to much professionally.",
+                    "His response amounted to gross insubordination"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To go up; to ascend.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
