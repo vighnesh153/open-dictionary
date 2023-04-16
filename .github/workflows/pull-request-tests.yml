@@ -28,5 +28,4 @@ jobs:
         run: |
           for changed_file in ${{ steps.files.outputs.all }}; do
             node ./dist/pullRequestTest.js ${changed_file}
-            echo "Do something with this ${changed_file}."
           done
