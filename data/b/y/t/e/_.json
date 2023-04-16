@@ -1,0 +1,42 @@
+{
+  "word": "byte",
+  "etymologies": [
+    {
+      "description": [
+        "An alteration of the word bite so it would not be accidentally misspelled as bit. Coined by Werner Buchholz in 1956, during the early design phase for the IBM 7030 Stretch computer."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "byte (plural bytes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, most commonly) A unit of computing storage equal to eight bits, which can represent any of 256 distinct values.",
+                  "examples": [
+                    "Synonyms: B, octet",
+                    "The word “hello” fits into five bytes of ASCII code."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
