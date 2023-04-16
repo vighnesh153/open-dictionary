@@ -1,0 +1,126 @@
+{
+  "word": "automatic",
+  "etymologies": [
+    {
+      "description": [
+        "From French automatique, from Ancient Greek αὐτόματον (autómaton), neuter of αὐτόματος (autómatos, “self-moving, moving of oneself, self-acting, spontaneous”), from αὐτός (autós, “self, myself”) + μέμαα (mémaa, “to wish eagerly, strive, yearn, desire”)."
+      ],
+      "adjectives": [
+        {
+          "description": "automatic (comparative more automatic, superlative most automatic) (superlative dubious)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of operating without external control or intervention.",
+                  "examples": [
+                    "The automatic clothes washer was a great labor-saving device.",
+                    "Synonym: self-operating",
+                    "Antonyms: manual, non-automatic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Done out of habit or without conscious thought.",
+                  "examples": [
+                    "The reaction was automatic: flight!",
+                    "Absent-minded doodling is a form of automatic art."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Necessary, inevitable, prescribed by logic, law, etc.",
+                  "examples": [
+                    "Spitting at another player means an automatic red card."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a firearm such as a machine gun) Firing continuously as long as the trigger is pressed until ammunition is exhausted.",
+                  "examples": [
+                    "Fully automatic weapons cannot be legally owned by private citizens in the US, except in very special circumstances, as by private security companies.",
+                    "Coordinate terms: semi-automatic, burst mode, selective action, bolt action, lever action, (single-round per loading/chambering action) pump action"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a handgun) An autoloader; a semi-automatic or self-loading pistol, as opposed to a revolver or other manually actuated handgun, which fires one shot per pull of the trigger; distinct from machine guns.",
+                  "examples": [
+                    "The US Army adopted John Browning's M1911 pistol as its sidearm, chambered in .45 ACP (Automatic Colt Pistol)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a local variable) Automatically added to and removed from the stack during the course of function calls.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a group) Having one or more finite-state automata.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "automatic (plural automatics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A car with automatic transmission.",
+                  "examples": [
+                    "I never learned to drive a stick. I can only drive an automatic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A semi-automatic pistol.",
+                  "examples": [
+                    "The G-men raiding the speakeasy were equipped with .45 automatics, while the local policemen were carrying revolvers and shotguns."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
