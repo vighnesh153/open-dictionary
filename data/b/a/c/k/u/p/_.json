@@ -1,0 +1,120 @@
+{
+  "word": "backup",
+  "etymologies": [
+    {
+      "description": [
+        "From back +‎ up."
+      ],
+      "adjectives": [
+        {
+          "description": "backup (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Standby, reserve or extra.",
+                  "examples": [
+                    "I am only a backup player."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) That is intended as a backup.",
+                  "examples": [
+                    "Make a backup copy of that file."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Supporting, reinforcing; (music) of or related to accompaniment",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "backup (plural backups)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reserve or substitute.",
+                  "examples": [
+                    "If the goalkeeper is injured, we have a backup."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A copy of a file or record, stored separately from the original, that can be used to recover the original if it is destroyed or damaged.",
+                  "examples": [
+                    "After the power failure, we had to restore the database from backup."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An accumulation of material caused by a (partial) obstruction or (complete) blockage of the flow or movement of the material, or an accumulation of material that causes an overflow due to the flow being greater than the maximum possible flow.",
+                  "examples": [
+                    "The accident caused a mile-long backup on the highway.",
+                    "The blockage caused a backup in the plumbing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law enforcement) reinforcements",
+                  "examples": [
+                    "He's got a gun! You'd better send for backup."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "backup (third-person singular simple present backups, present participle backupping, simple past and past participle backupped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, nonstandard) Alternative form of back up",
+                  "examples": [
+                    "We have two methods for backupping: the first one is writing the contents of disks onto magnetic tapes and the other is making a copy of the contents of disks on the disk of the mainframe computers of the laboratory."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
