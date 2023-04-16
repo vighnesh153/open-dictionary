@@ -1,0 +1,194 @@
+{
+  "word": "bid",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English bidden, from Old English biddan (“to ask, demand”), from Proto-Germanic *bidjaną (“to ask”), from Proto-Indo-European *gʷʰedʰ-. Conflated with Old English bēodan (“to offer, announce”) (see Etymology 2 below). Compare West Frisian bidde, Low German bidden, Dutch bidden (\"to pray\"), German bitten, Danish bede, Norwegian Bokmål be."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bid (third-person singular simple present bids, present participle bidding, simple past bid or bade or bad, past participle bid or bidden)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To issue a command; to tell.",
+                  "examples": [
+                    "He bade me come in."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To invite; to summon.",
+                  "examples": [
+                    "She was bidden to the wedding."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To utter a greeting or salutation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English beden, from Old English bēodan (“to offer, announce”), from Proto-Germanic *beudaną (“to offer”), from Proto-Indo-European *bʰewdʰ- (“be awake, aware”). Conflated with Old English biddan (“to ask, demand”) (see Etymology 1 above). Compare Low German beden, Dutch bieden, German bieten, Danish byde, Norwegian Bokmål by. More at bede."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bid (plural bids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An offer at an auction, or to carry out a piece of work.",
+                  "examples": [
+                    "His bid was $35,000.",
+                    "a bid for a lucrative transport contract"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ultimate frisbee) A (failed) attempt to receive or intercept a pass.",
+                  "examples": [
+                    "Nice bid!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An attempt, effort, or pursuit (of a goal).",
+                  "examples": [
+                    "Their efforts represented a sincere bid for success.",
+                    "She put in her bid for the presidency.",
+                    "He put in his bid for office."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(trucking) A particular route that a driver regularly takes from their domicile.",
+                  "examples": [
+                    "I can't stand this new bid I'm on, even if the mileage is better."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(prison slang) A prison sentence.",
+                  "examples": [
+                    "\"So we 'lawyered up'. That's how they say it in the bucket, son, where I did an eight-hour bid.\""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bid (third-person singular simple present bids, present participle bidding, simple past and past participle bid)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make an offer to pay or accept a certain price.",
+                  "examples": [
+                    "Have you ever bid in an auction?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To offer as a price.",
+                  "examples": [
+                    "She bid £2000 for the Persian carpet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make an attempt.",
+                  "examples": [
+                    "He was bidding for the chance to coach his team to victory once again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, card games) To announce (one's goal), before starting play.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To proclaim (a bede, prayer); to pray.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, trucking) To take a particular route regularly.",
+                  "examples": [
+                    "I can't believe he bid the Syracuse turn; that can be brutal in the winter!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
