@@ -1,0 +1,127 @@
+{
+  "word": "bootstrap",
+  "etymologies": [
+    {
+      "description": [
+        "From boot +‎ strap. The sense \"pull up (without aid)\" comes from the phrase pull oneself up by one's bootstraps."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bootstrap (plural bootstraps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A loop (leather or other material) sewn at the side or top rear of a boot to help in pulling the boot on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A means of advancing oneself or accomplishing something without aid.",
+                  "examples": [
+                    "He used his business experience as a bootstrap to win voters."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process by which the operating system of a computer is loaded into its memory.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process necessary to compile the tools that will be used to compile the rest of the system or program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Any method or instance of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an approximating distribution.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bootstrap (third-person singular simple present bootstraps, present participle bootstrapping, simple past and past participle bootstrapped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To help (oneself) without the aid of others.",
+                  "examples": [
+                    "Sam spent years bootstrapping himself through college."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To load the operating system into the memory of a computer. Usually shortened to boot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To compile the tools that will be used to compile the rest of the system or program.",
+                  "examples": [
+                    "Bootstrapping means building the GNU C Library, GNU Compiler Collection and several other key system programs.[1]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) To employ a bootstrap method.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To expand or advance an activity or a collection based solely on previous actions, work, findings, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
