@@ -1,0 +1,58 @@
+{
+  "word": "bisect",
+  "etymologies": [
+    {
+      "description": [
+        "bi- (“bi-, two”) +‎ Latin secāre (“to cut”)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bisect (plural bisects)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A bisector, which divides into two equal parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philately) An envelope, card, or fragment thereof showing an affixed cut half of a regular issued stamp, over which one or more postal markings have been applied. Typically used in wartime when normal lower rate stamps may not be available.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "bisect (third-person singular simple present bisects, present participle bisecting, simple past and past participle bisected)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To cut or divide into two parts.",
+              "entries": [
+                {
+                  "meaning": "(transitive, geometry) To divide an angle, line segment, or other figure into two equal parts.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing) To perform a binary search on files in source control in order to identify the specific change that introduced a bug etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
