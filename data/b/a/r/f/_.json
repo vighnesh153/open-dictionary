@@ -1,0 +1,56 @@
+{
+  "word": "barf",
+  "etymologies": [
+    {
+      "description": [
+        "Uncertain. Probably of imitative origin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "barf (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, colloquial) Vomit.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "barf (third-person singular simple present barfs, present participle barfing, simple past and past participle barfed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, colloquial) To vomit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang, intransitive, by extension) Of a system: to fail.",
+                  "examples": [
+                    "The program barfed as a result of the invalid input."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
