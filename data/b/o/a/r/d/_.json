@@ -1,0 +1,294 @@
+{
+  "word": "board",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English bord, from Old English bord, from Proto-West Germanic *bord, from Proto-Germanic *burdą (“board; plank; table”), from Proto-Indo-European *bʰerdʰ- (“to cut”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "board (countable and uncountable, plural boards)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device (e.g., switchboard) containing electrical switches and other controls and designed to control lights, sound, telephone connections, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flat surface with markings for playing a board game.",
+                  "examples": [
+                    "Each player starts the game with four counters on the board."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Short for blackboard, whiteboard, chessboard, surfboard, circuit board, message board (on the Internet), etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A committee that manages the business of an organization, e.g., a board of directors.",
+                  "examples": [
+                    "We have to wait to hear back from the board."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Regular meals or the amount paid for them in a place of lodging.",
+                  "examples": [
+                    "Room and board"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The side of a ship.",
+                  "examples": [
+                    "Now board to board the rival vessels row."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The distance a sailing vessel runs between tacks when working to windward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ice hockey, often in the plural) The wall that surrounds an ice hockey rink.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A long, narrow table, like that used in a medieval dining hall.",
+                  "examples": [
+                    "Túrin took a seat without heed, for he was wayworn, and filled with thought; and by ill-luck he set himself at a board among the elders of the realm, and in that place where Saeros was accustomed to sit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Paper made thick and stiff like a board, for book covers, etc.; pasteboard.",
+                  "examples": [
+                    "to bind a book in boards"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) A level or stage having a particular layout.",
+                  "examples": [
+                    "The object of the game is to move the smiley face over the preset board, in doing so removing the green squares and ending up at the exit  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bridge) A container for holding pre-dealt cards that is used to allow multiple sets of players to play the same cards. Board (duplicate bridge)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Internet) Short for message board.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Internet) Short for bulletin board.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "board (third-person singular simple present boards, present participle boarding, simple past and past participle boarded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To step or climb onto or otherwise enter a ship, aircraft, train or other conveyance.",
+                  "examples": [
+                    "It is time to board the aircraft."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To provide someone with meals and lodging, usually in exchange for money.",
+                  "examples": [
+                    "to board one's horse at a livery stable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To receive meals and lodging in exchange for money.",
+                  "examples": [
+                    "We are several of us, gentlemen and ladies, who board in the same house,"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, nautical) To capture an enemy ship by going alongside and grappling her, then invading her with a boarding party",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To obtain meals, or meals and lodgings, statedly for compensation",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, now rare) To approach (someone); to make advances to, accost.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cover with boards or boarding.",
+                  "examples": [
+                    "to board a house"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To hit (someone) with a wooden board.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To write something on a board, especially a blackboard or whiteboard.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From backboard."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "board (plural boards)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(basketball, informal) A rebound.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
