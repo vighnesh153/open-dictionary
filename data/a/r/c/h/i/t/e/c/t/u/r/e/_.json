@@ -1,0 +1,92 @@
+{
+  "word": "architecture",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French architecture, from Latin architectūra. Originally from architect, from Ancient Greek ἀρχιτέκτων (arkhitéktōn, “architect”, literally “chief builder, principal craftsman”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "architecture (countable and uncountable, plural architectures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The art and science of designing and managing the construction of buildings and other structures, particularly if they are well proportioned and decorated.",
+                  "examples": [
+                    "The architecture throughout NYC is amazing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any particular style of building design.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Construction, in a more general sense; frame or structure; workmanship.",
+                  "examples": [
+                    "the architecture of grasses, plants, and trees"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unifying structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A family of CPUs sharing a common instruction set and having partial or full compatibility with software built on each other.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A specific model of a microchip or CPU.",
+                  "examples": [
+                    "The Intel architectures have more software written for them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The structure and design of a system or product.",
+                  "examples": [
+                    "The kernel runs the show, i.e. it manages all the operations in a Unix flavored environment. The kernel architecture must support the primary Unix requirements. These requirements fall in two categories namely, functions for process management and functions for file management (files include device files). Process management entails allocation of resources including CPU, memory, and offers services that processes may need. The file management in itself involves handling all the files required by processes, communication with device drives and regulating transmission of data to and from peripherals."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
