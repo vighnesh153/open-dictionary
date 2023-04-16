@@ -1,0 +1,169 @@
+{
+  "word": "access",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English accesse, acces, borrowed from Middle French acces (“attack, onslaught”) or from its source Latin accessus, perfect passive participle of accēdō (“approach; accede”), from ad (“to, toward, at”) + cēdō (“move, yield”). Doublet of accessus. First attested in the early 14th century. The sense \"entrance\" was first attested about 1380."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "access (countable and uncountable, plural accesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A way or means of approaching or entering; an entrance; a passage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The act of approaching or entering; an advance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The right or ability of approaching or entering; admittance; admission; accessibility.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The quality of being easy to approach or enter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Admission to sexual intercourse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, countable) An increase by addition; accession",
+                  "examples": [
+                    "an access of territory"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An onset, attack, or fit of disease; an ague fit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An outburst of an emotion; a paroxysm; a fit of passion.",
+                  "examples": [
+                    "It appears that, about the middle of the fourth century of the Christian Era, the Germans in the Roman service started the new practice of retaining their native names; and this change of etiquette, which seems to have been abrupt, points to a sudden access of self-confidence and self-assurance in the souls of the barbarian personnel which had previously been content to 'go Roman' without reservations."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, law) The right of a noncustodial parent to visit their child.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, computing) The process of locating data in memory.",
+                  "examples": [
+                    "Operations on C++ volatiles do put the compiler on notice that the object may be modified asynchronously, and hence are generally safer to use than ordinary variable accesses."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, networking) Connection to or communication with a computer program or to the Internet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, Scotland) Complicity or assent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "access (third-person singular simple present accesses, present participle accessing, simple past and past participle accessed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To gain or obtain access to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To have access to (data).",
+                  "examples": [
+                    "I can't access most of the data on the computer without a password."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
