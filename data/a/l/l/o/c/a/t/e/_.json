@@ -1,0 +1,55 @@
+{
+  "word": "allocate",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin allocāte, imperative of Latin allocāre, from ad- (“to”) + locus (“place”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "allocate (third-person singular simple present allocates, present participle allocating, simple past and past participle allocated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To set aside for a purpose.",
+                  "examples": [
+                    "Synonyms: appropriate, earmark; see also Thesaurus:set apart",
+                    "Please do not eat the meringue, as it is allocated for the dinner party tomorrow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To distribute according to a plan, generally followed by the adposition to.",
+                  "examples": [
+                    "The bulk of K–12 education funds are allocated to school districts that in turn pay for the cost of operating schools."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To reserve a portion of memory for use by a computer program.",
+                  "examples": [
+                    "Antonyms: free, deallocate"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
