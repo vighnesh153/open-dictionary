@@ -7,4 +7,10 @@ const wordPath = buildWordPath(word);
 
 const wordDefinition = await grabDefinition(word);
 
+if (wordDefinition === null) {
+  // eslint-disable-next-line no-console
+  console.error('Word definition not found...');
+  process.exit(1);
+}
+
 writeToPath(wordPath, JSON.stringify(wordDefinition, null, 2));
