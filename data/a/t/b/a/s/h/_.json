@@ -1,0 +1,30 @@
+{
+  "word": "atbash",
+  "etymologies": [
+    {
+      "description": [
+        "From the letters of the Hebrew alphabet aleph, tav, beth, shin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "atbash (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "a simple substitution cipher in which each occurrence of the first letter of the alphabet is substituted with the last, second with next to last, and so on.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
