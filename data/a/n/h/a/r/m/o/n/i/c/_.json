@@ -1,0 +1,50 @@
+{
+  "word": "anharmonic",
+  "etymologies": [
+    {
+      "description": [
+        "an- +‎ harmonic"
+      ],
+      "adjectives": [
+        {
+          "description": "anharmonic",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not harmonic. Inharmonic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanics) Exhibiting anharmonicity",
+                  "examples": [
+                    "An anharmonic oscillator is a perturbed version of a harmonic oscillator."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Describing the section of a line by four points, A, B, C, D, when their mutual distances are such that AB divided by CB is not equal to AD divided by CD.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
