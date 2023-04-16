@@ -1,0 +1,30 @@
+{
+  "word": "anamorphism",
+  "etymologies": [
+    {
+      "description": [
+        "ana- +‎ morphism"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "anamorphism (plural anamorphisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) a generalization of the list-producing unfolds known from functional programming to arbitrary abstract data types that can be described as final coalgebras",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
