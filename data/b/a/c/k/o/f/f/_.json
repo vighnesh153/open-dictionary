@@ -1,0 +1,43 @@
+{
+  "word": "backoff",
+  "etymologies": [
+    {
+      "description": [
+        "From the verb phrase back off."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "backoff (countable and uncountable, plural backoffs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The situation where an algorithm or process refrains from taking an action it would otherwise have taken.",
+                  "examples": [
+                    "a backoff strategy to avoid collisions"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surfing) The situation where an incoming wave passes from shallower water to a deeper area, making the wave less steep and potentially unsurfable.",
+                  "examples": [
+                    "The surfer is in the middle of a backoff. Paddle for unbroken waves butterfly-style, with both arms at the same time, instead of using the crawl stroke that got you out to where the waves are breaking."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
