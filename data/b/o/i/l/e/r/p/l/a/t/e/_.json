@@ -1,0 +1,134 @@
+{
+  "word": "boilerplate",
+  "etymologies": [
+    {
+      "description": [
+        "boiler +‎ plate"
+      ],
+      "adjectives": [
+        {
+          "description": "boilerplate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Describing text or other material of a standard or routine nature.",
+                  "examples": [
+                    "The contract contained all the usual boilerplate clauses."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aeronautics) Used to refer to a non-functional spacecraft used to test configuration and procedures.",
+                  "examples": [
+                    "A boilerplate spacecraft was used to test the rocket."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "boilerplate (countable and uncountable, plural boilerplates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sheet of copper or steel used in the construction of a boiler.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) The rating plate or nameplate required to be affixed to a boiler by the Boiler Explosions Act (1882).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A plate attached to industrial machinery, identifying information such as manufacturer, model number, serial number, and power requirements.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(journalism) Syndicated material.",
+                  "examples": [
+                    "[…]  they have neither the responsibility nor the inclination to cover the real news of the community and consequently have little editorial expense, relying on handouts and cheap boilerplate materials to fill up the spots where they have no ads."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Standard text or program code used routinely and added with a text editor or word processor; text of a legal or official nature added to documents or labels.",
+                  "examples": [
+                    "Synonym: boilerplate code",
+                    "They put that boilerplate on all the warning labels."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Formulaic or hackneyed language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(skiing) Hard, icy snow which may be dangerous to ski on.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "boilerplate (third-person singular simple present boilerplates, present participle boilerplating, simple past and past participle boilerplated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To store (standard text) so that it can easily be retrieved for reuse.",
+                  "examples": [
+                    "Any text that you have reason to use more than once can be boilerplated by simply tucking it away in a file (on disk)  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
