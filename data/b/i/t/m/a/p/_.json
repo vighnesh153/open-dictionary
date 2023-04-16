@@ -1,0 +1,33 @@
+{
+  "word": "bitmap",
+  "etymologies": [
+    {
+      "description": [
+        "bit +‎ map"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "bitmap (plural bitmaps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A series of bits that represents a rasterized graphic image, each pixel being represented as a group of bits.",
+                  "examples": [
+                    "Synonyms: pixmap, raster",
+                    "Coordinate term: vector"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
