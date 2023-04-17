@@ -1,0 +1,65 @@
+{
+  "word": "checkmate",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English chekmat, from Old French eschec mat, from Arabic شَاه مَاتَ‎ (šāh māta), from Persian شاه مات‎ (šâh mât, “the king [is] dead”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "checkmate (countable and uncountable, plural checkmates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The conclusive victory in a game of chess that occurs when an opponent's king is threatened with unavoidable capture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively, by extension) Any losing situation with no escape; utter defeat.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "checkmate (third-person singular simple present checkmates, present participle checkmating, simple past and past participle checkmated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chess) To put the king of an opponent into checkmate.",
+                  "examples": [
+                    "That jerk checkmated me in four moves!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, by extension) To place in a losing situation that has no escape.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
