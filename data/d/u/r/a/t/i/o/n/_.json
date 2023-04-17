@@ -1,0 +1,53 @@
+{
+  "word": "duration",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English duracioun, from late Old French duracion, from Medieval Latin dūrātiō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "duration (countable and uncountable, plural durations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An amount of time or a particular time interval.",
+                  "examples": [
+                    "The duration of the flight will be about 2 hours 45 minutes.",
+                    "She was moaning for the entire duration of the advert break."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in the singular, not followed by \"of\") The time taken for the current situation to end, especially the current war",
+                  "examples": [
+                    "Rationing will last at least for the duration."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A measure of the sensitivity of the price of a financial asset to changes in interest rates, computed for a simple bond as a weighted average of the maturities of the interest and principal payments associated with it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
