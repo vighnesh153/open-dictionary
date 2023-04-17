@@ -1,0 +1,61 @@
+{
+  "word": "chamfer",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from chamfering, from Middle French chanfrain, from Middle French, Old French chanfraindre, possibly a compound of chant (“corner”), from Latin canthus (of either Celtic or Latin origin) + fraindre (“to break”), from frangō (“I break”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "chamfer (plural chamfers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An obtuse-angled relief or cut at an edge added for a finished appearance and to break sharp edges.",
+                  "examples": [
+                    "Synonyms: round, bevel",
+                    "Antonym: fillet"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "chamfer (third-person singular simple present chamfers, present participle chamfering, simple past and past participle chamfered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cut off the edge or corner of something.",
+                  "examples": [
+                    "Synonym: bevel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cut a groove in something.",
+                  "examples": [
+                    "Synonym: flute"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
