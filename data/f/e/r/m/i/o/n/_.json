@@ -1,0 +1,33 @@
+{
+  "word": "fermion",
+  "etymologies": [
+    {
+      "description": [
+        "From Fermi +‎ -on, after Italian-American physicist Enrico Fermi. Coined by English physicist Paul Dirac in 1945 in a lecture titled \"Developments in Atomic Theory\"."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fermion (plural fermions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(particle physics, Standard Model) Any elementary or composite particle that has half-integer spin and thus obeys Fermi–Dirac statistics and the Pauli exclusion principle (equivalently, a particle for which the wavefunction of any system of identical such particles changes sign whenever two are swapped); a baryon, a lepton or a quark;(slightly more loosely) any such particle or any composite particle composed of fermions.",
+                  "examples": [
+                    "The fermions treated by the Standard Model are the (composite) baryons and the (elementary) leptons and quarks.",
+                    "According to the spin–statistics theorem, the wavefunction of a system of identical fermions (particles of half-integer spin) is antisymmetric under the operation of swapping any two particles."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
