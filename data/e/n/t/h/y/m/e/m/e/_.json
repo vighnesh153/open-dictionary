@@ -1,0 +1,39 @@
+{
+  "word": "enthymeme",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἐνθύμημα (enthúmēma, “thought, consideration”), from ἐν (en, “within, with”) + θυμός (thumós, “soul, life”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "enthymeme (plural enthymemes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A by and large statement, a maxim, an argument that is intended to be generally true and not apply to every case universally.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A syllogism with a required but unstated assumption.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
