@@ -1,0 +1,50 @@
+{
+  "word": "enjoin",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English enjoinen, from Old French enjoindre (“to join with”), from Latin iniungo (“to attach”), a compound of in- (“into” “upon”) and iungo."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "enjoin (third-person singular simple present enjoins, present participle enjoining, simple past and past participle enjoined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chiefly literary) To lay upon, as an order or command; to give an injunction to; to direct with authority; to order; to charge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To prescribe under authority; to ordain",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To prohibit or restrain by a judicial order or decree; to put an injunction on.",
+                  "examples": [
+                    "In 1983, BLM was enjoined by court order from using any herbicides in its Medford, Oregon District. Subsequent court action in 1984 enjoined BLM from the use of herbicides throughout Oregon and the U.S. Forest Service was similarly enjoined throughout Region 6 (Pacific Northwest)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
