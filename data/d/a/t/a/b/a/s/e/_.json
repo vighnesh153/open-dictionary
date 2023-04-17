@@ -1,0 +1,78 @@
+{
+  "word": "database",
+  "etymologies": [
+    {
+      "description": [
+        "data +‎ base"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "database (plural databases)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(general) A collection of (usually) organized information in a regular structure, usually but not necessarily in a machine-readable format accessible by a computer.",
+                  "examples": [
+                    "I have a database of all my contacts in my personal organizer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A set of tables and other objects (queries, reports, forms) in the form of a structured data set.",
+                  "examples": [
+                    "The \"books\" database will have three tables, and the \"customers\" database will have two tables."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, loosely, metonymically) A software program (application) for storing, retrieving and manipulating such a structured data set.",
+                  "examples": [
+                    "Which database do you use: MySQL or Oracle?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, loosely, metonymically) A combination of such data sets and the programs for using them.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "database (third-person singular simple present databases, present participle databasing, simple past and past participle databased)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To enter data into a database.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
