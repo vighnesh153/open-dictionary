@@ -1,0 +1,74 @@
+{
+  "word": "convoy",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English, from Old French convoier, another form of conveier, from Medieval Latin convio (“to accompany on the way”), from Latin com- (“together”) + via (“way”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "convoy (plural convoys)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) One or more merchant ships sailing in company to the same general destination under the protection of naval vessels.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of vehicles travelling together for safety, especially one with an escort.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of convoying; protection.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "convoy (third-person singular simple present convoys, present participle convoying, simple past and past participle convoyed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To escort a group of vehicles, and provide protection.",
+                  "examples": [
+                    "A frigate convoys a merchantman."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To travel under convoy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
