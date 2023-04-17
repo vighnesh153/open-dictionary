@@ -1,0 +1,41 @@
+{
+  "word": "delimiter",
+  "etymologies": [
+    {
+      "description": [
+        "delimit +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "delimiter (plural delimiters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which delimits, that separates.",
+                  "examples": [
+                    "A comma-delimited file has commas as the delimiter, separating each field of the file."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A unique character or series of characters that indicates the beginning or end of a specific statement, string or function body set.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
