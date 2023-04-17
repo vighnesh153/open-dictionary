@@ -1,0 +1,48 @@
+{
+  "word": "equidistant",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French équidistant, from Late Latin aequidistantem, from aequī (“equal”) +‎ distantem (“distant”)."
+      ],
+      "adjectives": [
+        {
+          "description": "equidistant (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Occupying a position midway between two ends or sides.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Occupying a position that is an equal distance between several points. Note that in a one-dimensional space this position can be identified with two points, in a two-dimensional space with three points (not on the same straight line), and in a three-dimensional space with four points (not in the same plane).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cartography) Describing a map projection that preserves scale. No map can show scale correctly throughout the entire map but some can show true scale between one or two points and every point or along every meridian and these are referred to as equidistant.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
