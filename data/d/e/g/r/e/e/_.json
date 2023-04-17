@@ -1,0 +1,186 @@
+{
+  "word": "degree",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English degre, borrowed from Old French degré (French: degré), itself from Latin gradus, with the prefix de-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "degree (plural degrees)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A stage of proficiency or qualification in a course of study, now especially an award bestowed by a university or, in some countries, a college, as a certification of academic achievement. (In the United States, can include secondary schools.) [from 14th c.]",
+                  "examples": [
+                    "She has two bachelor's degrees and is studying towards a master's degree."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A unit of measurement of angle equal to 1⁄360 of a circle's circumference. [from 14th c.]",
+                  "examples": [
+                    "A right angle is a ninety-degree angle.",
+                    "Most humans have a field of vision of almost 180 degrees."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A unit of measurement of temperature on any of several scales, such as Celsius or Fahrenheit. [from 18th c.]",
+                  "examples": [
+                    "180 degrees Fahrenheit is equivalent to 100 degrees Celsius.",
+                    "Water boils at 100 degrees Celsius."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) The sum of the exponents of a term; the order of a polynomial. [from 18th c.]",
+                  "examples": [
+                    "A quadratic polynomial is a polynomial of degree 2."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, field theory) The dimensionality of a field extension.",
+                  "examples": [
+                    "The set of complex numbers constitutes a field extension of degree 2 over the real numbers.",
+                    "The Galois field \n  \n    \n      \n        GF\n        ⁡\n        (\n        125\n        )\n        =\n        GF\n        ⁡\n        (\n        \n          5\n          \n            3\n          \n        \n        )\n      \n    \n    {\\displaystyle \\operatorname {GF} (125)=\\operatorname {GF} (5^{3})}\n  \nhas degree 3 over its subfield \n  \n    \n      \n        GF\n        ⁡\n        (\n        5\n        )\n        .\n      \n    \n    {\\displaystyle \\operatorname {GF} (5).}"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) The number of edges that a vertex takes part in; a valency.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The number of logical connectives in a formula.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) The curvature of a circular arc, expressed as the angle subtended by a fixed length of arc or chord.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geography) A unit of measurement of latitude and longitude which together identify a location on the Earth's surface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Any of the three stages (positive, comparative, superlative) in the comparison of an adjective or an adverb.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete outside heraldry) A step on a set of stairs; the rung of a ladder. [from 13th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An individual step, or stage, in any process or scale of values. [from 13th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A stage of rank or privilege; social standing. [from 13th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genealogy) A ‘step’ in genealogical descent. [from 14th c.]",
+                  "examples": [
+                    "Louis created the École militaire in Paris in 1751, in which 500 scholarships were designated for noblemen able to prove four degrees of noble status."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) One's relative state or experience; way, manner. [from 14th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The amount that an entity possesses a certain property; relative intensity, extent. [from 14th c.]",
+                  "examples": [
+                    "To what degree do the two accounts of the accident concur?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
