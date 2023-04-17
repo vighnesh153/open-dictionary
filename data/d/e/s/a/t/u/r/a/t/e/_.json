@@ -1,0 +1,51 @@
+{
+  "word": "desaturate",
+  "etymologies": [
+    {
+      "description": [
+        "From de- +‎ saturate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "desaturate (third-person singular simple present desaturates, present participle desaturating, simple past and past participle desaturated)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To cause to become less saturated or unsaturated.",
+              "entries": [
+                {
+                  "meaning": "To lessen the saturation of (a colour).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(chemistry) To convert (a saturated compound) to an unsaturated one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive) To become less saturated or unsaturated.",
+              "entries": [
+                {
+                  "meaning": "(of a colour) To decrease in saturation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(medicine) Of the oxygen saturation level in one's hemoglobin: to decrease, to drop.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(medicine, of a person) To undergo a decrease in the oxygen saturation level in the hemoglobin.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
