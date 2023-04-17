@@ -1,0 +1,105 @@
+{
+  "word": "effective",
+  "etymologies": [
+    {
+      "description": [
+        "From French effectif, from Latin effectīvus (“productive; effective”), from efficiō (“I make; I bring about”)."
+      ],
+      "adjectives": [
+        {
+          "description": "effective (comparative more effective, superlative most effective)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having the power to produce a required effect or effects.",
+                  "examples": [
+                    "Synonym: efficacious",
+                    "The pill is an effective method of birth control."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Producing a decided or decisive effect.",
+                  "examples": [
+                    "The president delivered an effective speech!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Efficient, serviceable, or operative, available for useful work.",
+                  "examples": [
+                    "How long does it take to make a bunch of civilians an effective military force?",
+                    "My effective income after taxes and child support is $500 a month.",
+                    "The effective radiated power is determined by multiplying the transmitter power output with the antenna gain.",
+                    "The effective voltage of an alternating current is 0.7 times its peak voltage.",
+                    "Antonym: nominal"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Actually in effect.",
+                  "examples": [
+                    "The curfew is effective at midnight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, of a cycle or divisor) Having no negative coefficients.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, for any effective theory) approximate; Not describing the fundamental dynamic changes in some system as they happen.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "effective (plural effectives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) a soldier fit for duty",
+                  "examples": [
+                    "The Army of the West reached Corinth sometime after the battle of Shiloh. We were 15,000 effectives, and brought Beauregard's effective force up to 45,000 men."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
