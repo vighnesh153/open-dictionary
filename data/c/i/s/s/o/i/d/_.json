@@ -1,0 +1,32 @@
+{
+  "word": "cissoid",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek κισσός (kissós, “ivy”) + εἶδος (eîdos, “form, image”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cissoid (plural cissoids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Any of a family of curves defined as the locus of a point, P, on a line from a given fixed point and intersecting two given curves, C1 and C2, where the distance along the line from C1 to P remains constant and equal to the distance from P to C2.",
+                  "examples": [
+                    "The cissoid of a circle and a line is a conchoid"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
