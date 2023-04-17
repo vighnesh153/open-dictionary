@@ -1,0 +1,127 @@
+{
+  "word": "comment",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English coment, comment, from Old French coment (“commentary”), from Late Latin commentum (“comment, interpretation”), from Classical Latin commentum (“invention, fabrication”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "comment (countable and uncountable, plural comments)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A spoken or written remark.",
+                  "examples": [
+                    "I have no comment on that.",
+                    "Pay attention to the teacher's comments in the margin of your marked essay."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The act of commenting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The part of a sentence that provides new information regarding the current theme.",
+                  "examples": [
+                    "Synonym: rheme"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A remark embedded in source code in such a way that it will be ignored by the compiler or interpreter, typically to help people to understand the code.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English commenten, comenten, from Latin commentārī (“to consider thoroughly, think over, discuss, write upon”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "comment (third-person singular simple present comments, present participle commenting, simple past and past participle commented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remark.",
+                  "examples": [
+                    "“My Continental prominence is improving,” I commented dryly. ¶ Von Lindowe cut at a furze bush with his silver-mounted rattan. ¶ “Quite so,” he said as dryly, his hand at his mustache. “I may say if your intentions were known your life would not be worth a curse.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, with \"on\" or \"about\") To make remarks or notes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To comment or remark on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, software, of code) To insert comments into (source code).",
+                  "examples": [
+                    "I wish I'd commented this complicated algorithm back when I remembered how it worked."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, software, of code) To comment out (code); to disable by converting into a comment.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
