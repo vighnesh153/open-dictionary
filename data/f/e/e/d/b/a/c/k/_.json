@@ -1,0 +1,94 @@
+{
+  "word": "feedback",
+  "etymologies": [
+    {
+      "description": [
+        "From feed +‎ back."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "feedback (usually uncountable, plural feedbacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Critical assessment of a process or activity or of their results.",
+                  "examples": [
+                    "Synonyms: estimation, assessment, critique, evaluation",
+                    "After you hand in your essays, I will give both grades and feedback."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics, cybernetics, control theory) The part of an output signal that is looped back into the input to control or modify a system.",
+                  "examples": [
+                    "The fact that similar cortical abnormalities can be experimentally induced in monkeys has allowed Michael Merzenich and his colleagues in San Francisco to explore an animal model of focal dystonia, and to demonstrate the abnormal feedback in the sensory loop and the motor misfirings that, once started, grow relentlessly worse."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(amplification) The high-pitched howling noise heard when there is a loop between a microphone and a speaker.",
+                  "examples": [
+                    "Synonyms: audio feedback, Larsen effect, howlback, howlround"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "feedback (third-person singular simple present feedbacks, present participle feedbacking, simple past and past participle feedbacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To generate the high-frequency sound by allowing a speaker to cause vibration of the sound generator of a musical instrument connected by an amplifier to the speaker.",
+                  "examples": [
+                    "The show ended with a riot of feedbacking guitars."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To provide informational feedback to.",
+                  "examples": [
+                    "His employees feedbacked him a lot more than he wanted."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convey by means of specialized communications channel.",
+                  "examples": [
+                    "Customers feedbacked their complaints and some praise."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
