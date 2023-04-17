@@ -1,0 +1,68 @@
+{
+  "word": "disjunction",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French disjunction, from Latin disjunctio."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "disjunction (countable and uncountable, plural disjunctions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of disjoining; disunion, separation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being disjoined, contrasting, or opposing.",
+                  "examples": [
+                    "the disjunction expressed by disjunctive conjunctions, such as but or or"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The proposition resulting from the combination of two or more propositions using the or operator.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A logical operator that results in “true” when some of its operands are true.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) During meiosis, the separation of chromosomes (homologous in meiosis I, and sister chromatids in meiosis II).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
