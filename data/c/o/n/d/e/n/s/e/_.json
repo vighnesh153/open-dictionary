@@ -1,0 +1,70 @@
+{
+  "word": "condense",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French condenser, from Latin condensare."
+      ],
+      "adjectives": [
+        {
+          "description": "condense (comparative more condense, superlative most condense)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Condensed; compact; dense.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "condense (third-person singular simple present condenses, present participle condensing, simple past and past participle condensed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To concentrate toward the essence by making more close, compact, or dense, thereby decreasing size or volume.",
+                  "examples": [
+                    "Synonyms: thicken, simplify, (cooking) reduce; see also Thesaurus:compress",
+                    "Antonym: dilute",
+                    "An abridged dictionary can be further condensed to pocket size.",
+                    "Boiling off water condenses a thin sauce into a soupier mixture."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chemistry) To transform from a gaseous state into a liquid state via condensation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, chemistry) To be transformed from a gaseous state into a liquid state.",
+                  "examples": [
+                    "Water condenses on the window on cold days because of the warm air inside."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
