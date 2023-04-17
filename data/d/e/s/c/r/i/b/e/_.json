@@ -1,0 +1,76 @@
+{
+  "word": "describe",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English descriven, from Old French descrivre, from Latin dēscrībō (“I copy off, transcribe, sketch off, describe in painting or writing”), from dē (“off”) + scrībō (“write”); see scribe and shrive. Displaced native Old English āmearcian."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "describe (third-person singular simple present describes, present participle describing, simple past and past participle described)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To represent in words.",
+                  "examples": [
+                    "The feeling is difficult to describe, but not unpleasant.",
+                    "The geographer describes countries and cities.",
+                    "Several witnesses describe seeing lights in the sky that night."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To represent by drawing; to draw a plan of; to delineate; to trace or mark out.",
+                  "examples": [
+                    "to describe a circle by the compasses;   a torch waved about the head in such a way as to describe a circle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To give rise to a geometrical structure.",
+                  "examples": [
+                    "The function describes a very complex surface."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, taxonomy) To introduce a new taxon to science by explaining its characteristics and particularly how it differs from other taxa.",
+                  "examples": [
+                    "The fungus was first described by a botanist."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To distribute into parts, groups, or classes; to mark off; to class.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
