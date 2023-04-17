@@ -1,0 +1,165 @@
+{
+  "word": "castle",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English castle, castel, from late Old English castel, castell (“a town, village, castle”), borrowed from Late Latin castellum (“small camp, fort”), diminutive of Latin castrum (“camp, fort, citadel, stronghold”), possibly from Proto-Indo-European *kat- (“hut, shed”). Doublet of castell, castellum, and château. Parallel borrowings (from Late Latin or Old French) are Scots castel, castell (“castle”), West Frisian kastiel (“castle”), Dutch kasteel (“castle”), German Kastell (“castle”), Danish kastel (“citadel”), Swedish kastell (“citadel”), Icelandic kastali (“castle”), Welsh castell. The Middle English word was reinforced by Anglo-Norman/Old Northern French castel, itself from Late Latin castellum (“small camp, fort”) (compare modern French château from Old French chastel). If Latin castrum (“camp, fort, citadel, stronghold”) is from Proto-Indo-European *kat- (“hut, shed”), Latin casa (“cottage, hut”) is related. Possibly related also to Gothic 𐌷𐌴𐌸𐌾𐍉 (hēþjō, “chamber”), Old English heaþor (“restraint, confinement, enclosure, prison”). See also casino, cassock."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "castle (plural castles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large residential building or compound that is fortified and contains many defences; in previous ages often inhabited by a nobleman or king. Also, a house or mansion with some of the architectural features of medieval castles.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess) An instance of castling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess, informal) A rook; a chess piece shaped like a castle tower.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(shogi) A defense structure in shogi formed by defensive pieces surrounding the king.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A close helmet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Any strong, imposing, and stately palace or mansion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A small tower, as on a ship, or an elephant's back.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket, colloquial) The wicket.",
+                  "examples": [
+                    "Nay, he was quite an adept, and was very effective as a change bowler, for in no time he demolished the castle of any batsman."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "castle (third-person singular simple present castles, present participle castling, simple past and past participle castled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To house or keep in a castle.",
+                  "examples": [
+                    "...to encastle, to Castle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figurative) To protect or separate in a similar way.",
+                  "examples": [
+                    "Castle me in the armes of thy everlasting strength."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To make into a castle: to build in the form of a castle or add (real or imitation) battlements to an existing building.",
+                  "examples": [
+                    "...Bake metes and dish metes... peynted and castelled with papir..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually intransitive, chess) To move the king 2 squares right or left and, in the same turn, the nearest rook to the far side of the king. The move now has special rules: the king cannot be in, go through, or end in check; the squares between the king and rook must be vacant; and neither piece may have been moved before castling.",
+                  "examples": [
+                    "He [i.e., the king] may change (or Castle) with this Rooke, that is, he may goe two draughts at once towards this Rooke... causing the Rooke to stand next to him on either side."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually intransitive, shogi) To create a similar defensive position in Japanese chess through several moves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) To bowl a batsman with a full-length ball or yorker such that the stumps are knocked over.",
+                  "examples": [
+                    "And the 23-year-old brought the crowd to their feet when he castled Gayle's stumps, signalling the direction of the pavilion to his friend for good measure."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
