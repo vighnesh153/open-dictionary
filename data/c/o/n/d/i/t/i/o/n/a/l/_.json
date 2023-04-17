@@ -1,0 +1,109 @@
+{
+  "word": "conditional",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French condicionel (French conditionnel)."
+      ],
+      "adjectives": [
+        {
+          "description": "conditional (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Limited by a condition.",
+                  "examples": [
+                    "I made my son a conditional promise: I would buy him a bike if he kept his room tidy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Stating that one sentence is true if another is.",
+                  "examples": [
+                    "\"A implies B\" is a conditional statement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Expressing a condition or supposition.",
+                  "examples": [
+                    "a conditional word, mode, or tense"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "conditional (plural conditionals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A conditional sentence; a statement that depends on a condition being true or false.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) The conditional mood.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A statement that one sentence is true if another is.",
+                  "examples": [
+                    "\"A implies B\" is a conditional."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An instruction that branches depending on the truth of a condition at that point.",
+                  "examples": [
+                    "if and while are conditionals in some programming languages."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A condition (a limitation or restriction).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
