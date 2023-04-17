@@ -1,0 +1,44 @@
+{
+  "word": "connotation",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Medieval Latin connotātiō, from connotō (“I mark in addition”), from Latin con- (“together, with”) + noto (“I note”); equivalent to connote +‎ -ation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "connotation (plural connotations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semantics) A meaning of a word or phrase that is suggested or implied, as opposed to a denotation, or literal meaning. A characteristic of words or phrases, or of the contexts that words and phrases are used in.",
+                  "examples": [
+                    "The word \"advisedly\" has a connotation of \"wisely\", although it denotes merely \"intentionally\" and \"deliberately.\"",
+                    "The word \"happy\" has a positive connotation, while \"sad\" has a negative connotation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The attribute or aggregate of attributes connoted by a term, contrasted with denotation.",
+                  "examples": [
+                    "The two expressions \"the morning star\" and \"the evening star\" have different connotations but the same denotation (i.e. the planet Venus)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
