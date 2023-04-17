@@ -1,0 +1,71 @@
+{
+  "word": "decode",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ code"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "decode (plural decodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A product of decoding",
+                  "examples": [
+                    "If and when the remaining Allied intercepts and decodes are opened up, we may expect to learn a great deal more about the later stages of the Holocaust."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Output from a program or device used to interpret communication protocols",
+                  "examples": [
+                    "This version includes more than 400 decodes that cover everything from legacy decodes to popular decodes and new or updated decodes for such protocols as voice over IP H.323, Server Message Block, Border Gateway Protocol Version 4, and Internet Inter-ORB Protocol"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decode (third-person singular simple present decodes, present participle decoding, simple past and past participle decoded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To convert from an encrypted form to plain text.",
+                  "examples": [
+                    "The cryptographer decoded the secret message and sent the result to the officer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To figure out something difficult to interpret.",
+                  "examples": [
+                    "I finally managed to decode the nearly illegible doctor's prescription."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

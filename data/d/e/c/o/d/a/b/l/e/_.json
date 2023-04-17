@@ -1,0 +1,41 @@
+{
+  "word": "decodable",
+  "etymologies": [
+    {
+      "description": [
+        "decode +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "decodable (comparative more decodable, superlative most decodable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be read using a certain set of reading knowledge.",
+                  "examples": [
+                    "Decodable books are sold in packs, with more letter combinations appearing in each successive book."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(information theory) Of a code, having a non-singular extension; being a lossless encoding.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
