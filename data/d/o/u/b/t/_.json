@@ -1,0 +1,103 @@
+{
+  "word": "doubt",
+  "etymologies": [
+    {
+      "description": [
+        "The verb is derived from Middle English douten (“to be in doubt, feel unsure; to be afraid or worried; to hesitate; to be confused; to have respect or reverence”) [and other forms], from Old French douter, doter, duter (compare Middle French doubter), from Latin dubitāre (“to hesitate”), the present active infinitive of dubitō (“to be uncertain, doubt; to hesitate, waver in coming to an opinion; to consider, ponder”); the further etymology is uncertain, but one theory is that dubitō may be derived from dubius (“fluctuating, wavering; doubtful, dubious, uncertain”), from duhibius (“held as two”), from duo (“two”) (ultimately from Proto-Indo-European *dwóh₁ (“two”)) + habeō (“to have, hold”) (possibly ultimately from Proto-Indo-European *gʰeh₁bʰ- (“to grab, take”)). Although the Middle English form of the word was spelled without a b, this letter was later introduced through the influence of the Latin words dubitāre and dubitō. However, the English word continued to be pronounced without the b sound.",
+        "The noun is derived from Middle English dout, doute (“uncertain feeling; questionable point; hesitation; anxiety, fear; reverence, respect; something to be feared, danger;”) [and other forms],\nfrom Old French doute, dote, dute (“uncertain feeling, doubt”), from doter, douter, duter (“to doubt; to be afraid of, fear”) (compare Middle French doubter; modern French douter (“to doubt; to suspect”)); see further etymology above.",
+        "Displaced Old English twēo (“doubt”) and twēoġan (“to doubt”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "doubt (countable and uncountable, plural doubts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, countable) Disbelief or uncertainty (about something); (countable) a particular instance of such disbelief or uncertainty.",
+                  "examples": [
+                    "Antonyms: belief, confidence, faith",
+                    "There was some doubt as to who the child's real father was.",
+                    "I have doubts about how to convert this code to JavaScript."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, obsolete or India) A point of uncertainty; a query.",
+                  "examples": [
+                    "Synonym: disbelief",
+                    "Antonyms: belief, tenet"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "doubt (third-person singular simple present doubts, present participle doubting, simple past and past participle doubted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To be undecided about; to lack confidence in; to disbelieve, to question.",
+                  "examples": [
+                    "Synonyms: distrust, mistrust",
+                    "He doubted that was really what you meant.",
+                    "I had no wish to go, though I doubt if they would have noticed me even if I had."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To harbour suspicion about; suspect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To anticipate with dread or fear; to apprehend.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To fill with fear; to affright.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, obsolete) To dread, to fear.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
