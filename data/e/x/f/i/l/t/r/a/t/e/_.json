@@ -1,0 +1,54 @@
+{
+  "word": "exfiltrate",
+  "etymologies": [
+    {
+      "description": [
+        "After infiltrate"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "exfiltrate (plural exfiltrates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "that which is exfiltrated, the removed substance or item",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "exfiltrate (third-person singular simple present exfiltrates, present participle exfiltrating, simple past and past participle exfiltrated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) To withdraw troops surreptitiously from a dangerous position",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To covertly extract data.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
