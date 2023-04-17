@@ -1,0 +1,61 @@
+{
+  "word": "dereference",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ reference"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dereference (plural dereferences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act by which something is dereferenced.",
+                  "examples": [
+                    "Either each dereference must use a complicated DCAS protocol, or each pointer must include a version number that is managed on each modification and checked on each dereference, or storage management must be tightly coupled  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dereference (third-person singular simple present dereferences, present participle dereferencing, simple past and past participle dereferenced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To access the value or object located in a memory location stored in a pointer or another value interpreted as such; to access a value being referenced by something else.",
+                  "examples": [
+                    "Attempting to dereference a null pointer often results in a crash."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, in operating systems derived from Unix) To operate on the file or directory pointed to by a symbolic link, rather than on the link itself.",
+                  "examples": [
+                    "With the find command, any symbolic links appearing after -follow will be dereferenced.",
+                    "Synonyms: follow, resolve"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
