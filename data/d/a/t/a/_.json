@@ -1,0 +1,74 @@
+{
+  "word": "data",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin data, nominative plural of datum (“that is given”), neuter past participle of dō (“I give”). Doublet of date."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "data",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "plural of datum",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(collectively, uncountable) Information, especially in a scientific or computational context, or with the implication that it is organized.",
+                  "examples": [
+                    "The raw information was processed and placed into a database so the data could be accessed more quickly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(collectively) Recorded observations that are usually presented in a structured format.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A representation of facts or ideas in a formalized manner capable of being communicated or manipulated by some process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mobile telephony) Ellipsis of mobile data: digital information transmitted using the cellular telephone network rather than Wi-Fi.",
+                  "examples": [
+                    "run out of data"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
