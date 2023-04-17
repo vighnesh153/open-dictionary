@@ -1,0 +1,32 @@
+{
+  "word": "coroutine",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ routine, coined by Melvin Conway in 1958."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "coroutine (plural coroutines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A piece of code that performs a task, and that can be passed new input and return output more than once.",
+                  "examples": [
+                    "Although a powerful tool, coroutines can be hard to understand due to the way data can flow back and forth between sections of the code."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
