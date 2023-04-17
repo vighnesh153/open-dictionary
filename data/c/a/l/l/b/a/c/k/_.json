@@ -1,0 +1,90 @@
+{
+  "word": "callback",
+  "etymologies": [
+    {
+      "description": [
+        "From call +‎ back."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "callback (plural callbacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The return of a situation to a previous position or state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telephony) A return telephone or radio call; especially one made automatically to authenticate a logon to a computer network.",
+                  "examples": [
+                    "For example, multiple callbacks might be made to a nonanswered number to increase the response rate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A product recall because of a defect or safety concern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A function pointer passed as an argument to another function.",
+                  "examples": [
+                    "Historically, all viable frameworks have always provided a mechanism to implement callbacks. C# goes one step further and encapsulates callbacks into callable objects called delegates."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater) A follow-up audition in casting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(comedy) A joke which references an earlier joke in the same routine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A form of audience participation in which the audience shout lines in response to the dialog of a film.",
+                  "examples": [
+                    "Apparent on this disc is the problem that plagues every recording of the score: Without an audience full of rowdy geeks screaming out callbacks, Rocky Horror feels incomplete."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
