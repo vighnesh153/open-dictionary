@@ -1,0 +1,65 @@
+{
+  "word": "eutectic",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek εὔτηκτος (eútēktos, “easily melted”), from εὖ (eû, “well”) + τήκω (tḗkō, “to melt”). Coined as an adjective (along with the noun eutexia) by British scientist Frederick Guthrie in 1884."
+      ],
+      "adjectives": [
+        {
+          "description": "eutectic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Describing the chemical composition or temperature of a mixture of substances that gives the lowest temperature at which the mixture becomes fully molten. A further requirement is that that temperature is lower than the melting point of any of the pure component substances.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) Describing the thermodynamic equilibrium conditions where a liquid coexists with two solid phases.",
+                  "examples": [
+                    "For a mixture with two components at a fixed pressure, the eutectic reaction can only happen at a fixed chemical composition and temperature, called the eutectic point."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eutectic (plural eutectics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A material that has the composition of a eutectic mixture or eutectic alloy",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The temperature of the eutectic point",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
