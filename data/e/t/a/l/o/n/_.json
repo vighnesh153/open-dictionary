@@ -1,0 +1,32 @@
+{
+  "word": "etalon",
+  "etymologies": [
+    {
+      "description": [
+        "From French étalon (“measuring gauge, standard”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "etalon (plural etalons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An optical device containing parallel mirrors, used as a narrow band filter, often in laser design.",
+                  "examples": [
+                    "It will be shown that the simple theory outlined in the preceding paragraph, which is applicable to single-plate etalons, can be used to predict the main features of the spectral curve of a multi element etalon."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
