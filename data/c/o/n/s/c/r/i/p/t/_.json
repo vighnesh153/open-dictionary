@@ -1,0 +1,100 @@
+{
+  "word": "conscript",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin cōnscriptus, perfect passive participle of cōnscrībō (“write together; enroll”)."
+      ],
+      "adjectives": [
+        {
+          "description": "conscript (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Drafted into a military service or similar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Enrolled; written; registered.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "conscript (plural conscripts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who is compulsorily enrolled, often into a military service; a draftee.",
+                  "examples": [
+                    "The soldier was a conscript."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "conscript (third-person singular simple present conscripts, present participle conscripting, simple past and past participle conscripted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enrol(l) compulsorily; to draft; to induct.",
+                  "examples": [
+                    "Synonyms: draft, induct"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From con- (“constructed”) +‎ script."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "conscript (plural conscripts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A constructed script or writing system, especially for use with a conlang.",
+                  "examples": [
+                    "Synonym: neography"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
