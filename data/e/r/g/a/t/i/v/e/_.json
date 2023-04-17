@@ -1,0 +1,58 @@
+{
+  "word": "ergative",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἐργᾰ́της (ergátēs, “labourer, worker”) + English -ive (suffix meaning ‘belong or relating to; of the nature of; serving to; tending to’ forming adjectives)."
+      ],
+      "adjectives": [
+        {
+          "description": "ergative (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) With the subject of a transitive construction having grammatical cases or thematic relations different from that of an intransitive construction.",
+                  "examples": [
+                    "Synonym: elliptical",
+                    "Antonym: unergative",
+                    "The case systems of ergative languages are counter-intuitive to speakers of Indo-European languages."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ergative (plural ergatives) (grammar)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Ellipsis of ergative case (“a grammatical case used to indicate the agent of a transitive verb in ergative-absolutive languages”).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An ergative verb or other expression.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
