@@ -1,0 +1,224 @@
+{
+  "word": "curl",
+  "etymologies": [
+    {
+      "description": [
+        "From metathesis of Middle English crulle (“curled, curly”), from Middle Dutch crul, crulle (“curl”), ultimately from Proto-Germanic *kruzlǭ (“bent or crooked object, curl”), of unknown origin.",
+        "Cognate with Saterland Frisian Krulle (“curl, lock”), West Frisian krul (“curl”), Dutch krul (“curl”), German Low German Krull (“curl”), dialectal German Krolle (“curl”), Danish krølle (“curl”), Norwegian krull (“curl”). Related also to Saterland Frisian Kruus (“curl”), German kraus (“frizzy, crumpled, curly”), Swedish krusa (“to crimp, curl”). Compare also Gothic 𐌺𐍂𐌹𐌿𐍃𐍄𐌰𐌽 (kriustan, “to grind, crush, gnash”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "curl (plural curls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A curving piece or lock of hair; a ringlet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A curved stroke or shape.",
+                  "examples": [
+                    "[…]  the backs of their necks and their forelegs are decorated with curls and their necks and bodies are covered with fine, undulating lines."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A spin making the trajectory of an object curve.",
+                  "examples": [
+                    "It is possible to use the wind which blows from the left to the right by playing well into the wind with the slightest bit of curl on the ball […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(curling) Movement of a moving rock away from a straight line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(weightlifting) Any exercise performed by bending the arm, wrist, or leg on the exertion against resistance, especially those that train the biceps.",
+                  "examples": [
+                    "Now do a curl and an overhead press, keeping your palms facing in."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(calculus) The vector field denoting the rotationality of a given vector field.",
+                  "examples": [
+                    "The curl of the vector field \n  \n    \n      \n        \n          \n            \n              F\n              →\n            \n          \n        \n        (\n        x\n        ,\n        y\n        ,\n        z\n        )\n      \n    \n    {\\displaystyle {\\vec {F}}(x,y,z)}\n  \n is the vector field \n  \n    \n      \n        curl\n        \n        \n          \n            \n              F\n              →\n            \n          \n        \n        ≡\n        \n          \n            \n              ∇\n              →\n            \n          \n        \n        ×\n        \n          \n            \n              F\n              →\n            \n          \n        \n        =\n        \n          (\n          \n            \n              \n                \n                  ∂\n                  \n                    F\n                    \n                      z\n                    \n                  \n                \n                \n                  ∂\n                  y\n                \n              \n            \n            −\n            \n              \n                \n                  ∂\n                  \n                    F\n                    \n                      y\n                    \n                  \n                \n                \n                  ∂\n                  z\n                \n              \n            \n            ,\n            \n              \n                \n                  ∂\n                  \n                    F\n                    \n                      x\n                    \n                  \n                \n                \n                  ∂\n                  z\n                \n              \n            \n            −\n            \n              \n                \n                  ∂\n                  \n                    F\n                    \n                      z\n                    \n                  \n                \n                \n                  ∂\n                  x\n                \n              \n            \n            ,\n            \n              \n                \n                  ∂\n                  \n                    F\n                    \n                      y\n                    \n                  \n                \n                \n                  ∂\n                  x\n                \n              \n            \n            −\n            \n              \n                \n                  ∂\n                  \n                    F\n                    \n                      x\n                    \n                  \n                \n                \n                  ∂\n                  y\n                \n              \n            \n          \n          )\n        \n      \n    \n    {\\displaystyle \\operatorname {curl} \\,{\\vec {F}}\\equiv {\\vec {\\nabla }}\\times {\\vec {F}}=\\left({\\frac {\\partial F_{z}}{\\partial y}}-{\\frac {\\partial F_{y}}{\\partial z}},{\\frac {\\partial F_{x}}{\\partial z}}-{\\frac {\\partial F_{z}}{\\partial x}},{\\frac {\\partial F_{y}}{\\partial x}}-{\\frac {\\partial F_{x}}{\\partial y}}\\right)}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(calculus, proper noun) The vector operator, denoted \n  \n    \n      \n        \n          \n            \n              c\n              u\n              r\n              l\n            \n            \n          \n        \n      \n    \n    {\\displaystyle {\\rm {{curl}\\;}}}\n  \n or \n  \n    \n      \n        \n          \n            \n              ∇\n              →\n            \n          \n        \n        ×\n        \n          \n            \n              \n                (\n                ⋅\n                )\n              \n              →\n            \n          \n        \n      \n    \n    {\\displaystyle {\\vec {\\nabla }}\\times {\\vec {\\left(\\cdot \\right)}}}\n  \n, that generates this field.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(agriculture) Any of various diseases of plants causing the leaves or shoots to curl up; often specifically the potato curl.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, chiefly lutherie) The contrasting light and dark figure seen in wood used for stringed instrument making; the flame.",
+                  "examples": [
+                    "The one-piece back is of a medium curl."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(American football) A pattern where the receiver appears to be running a fly pattern but after a set number of steps or yards quickly stops and turns around, looking for a pass.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "curl (third-person singular simple present curls, present participle curling, simple past and past participle curled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to move in a curve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make into a curl or spiral.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To assume the shape of a curl or spiral.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move in curves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, curling) To take part in the sport of curling.",
+                  "examples": [
+                    "I curl at my local club every weekend."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, weightlifting) To exercise by bending the arm, wrist, or leg on the exertion against resistance, especially of the biceps.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To twist or form (the hair, etc.) into ringlets.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To deck with, or as if with, curls; to ornament.",
+                  "examples": [
+                    "Curling with metaphors a plain intention."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To raise in waves or undulations; to ripple.",
+                  "examples": [
+                    "Seas would be pools without the brushing air / To curl the waves."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hat-making) To shape (the brim of a hat) into a curve.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
