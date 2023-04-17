@@ -1,0 +1,63 @@
+{
+  "word": "computable",
+  "etymologies": [
+    {
+      "description": [
+        "compute +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "computable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being computed, or enumerated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) Of a problem, solvable by a Turing machine or any thereto Turing-equivalent model; Turing-computable.",
+                  "examples": [
+                    "Synonym: decidable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) of a number, able to be approximated to arbitrary precision by a computable function",
+                  "examples": [
+                    "Synonyms: recursive, effective"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, set theory) Of a countably infinite set, having a computable indicator function.",
+                  "examples": [
+                    "Synonyms: recursive, decidable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
