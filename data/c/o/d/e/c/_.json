@@ -1,0 +1,32 @@
+{
+  "word": "codec",
+  "etymologies": [
+    {
+      "description": [
+        "Blend of coder +‎ decoder, probably in imitation of how modem was formed."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "codec (plural codecs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A device or program capable of performing transformations on a data stream or signal.",
+                  "examples": [
+                    "Audio and video codecs are important in making multimedia files small enough to distribute and simple to play back."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
