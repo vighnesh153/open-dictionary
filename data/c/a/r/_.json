@@ -1,0 +1,218 @@
+{
+  "word": "car",
+  "etymologies": [
+    {
+      "description": [
+        "Inherited from Middle English carre, borrowed from Anglo-Norman carre, from Old Northern French (compare Old French char), from Latin carra, neuter plural of carrum (“four-wheeled baggage wagon”), from Gaulish *karros, from Proto-Celtic *karros (“wagon”). Doublet of horse."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "car (plural cars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+                  "examples": [
+                    "Synonyms: auto, motorcar, vehicle, (US) automobile, (Britain, colloquial) motor, (obsolete) carriage; see also Thesaurus:automobile",
+                    "She drove her car to the mall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(dated) A wheeled vehicle, drawn by a horse or other animal; a chariot.",
+              "entries": [
+                {
+                  "meaning": "(UK, Birmingham, obsolete) A four-wheeled cab, as opposed to a (two-wheeled) Hansom cab.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport, chiefly Canada, US) An unpowered unit in a railroad train.",
+                  "examples": [
+                    "Synonyms: railcar, wagon, carriage",
+                    "The conductor coupled the cars to the locomotive."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) an individual vehicle, powered or unpowered, in a multiple unit.",
+                  "examples": [
+                    "The 11:10 to London was operated by a 4-car diesel multiple unit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) A passenger-carrying unit in a subway or elevated train, whether powered or not.",
+                  "examples": [
+                    "From the frontmost car of the subway, he filmed the progress through the tunnel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rough unit of quantity approximating the amount which would fill a railroad car.",
+                  "examples": [
+                    "Synonyms: carload, wagonload",
+                    "We ordered five hundred cars of gypsum."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The moving, load-carrying component of an elevator or other cable-drawn transport mechanism.",
+                  "examples": [
+                    "Fix the car of the express elevator - the door is sticking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The passenger-carrying portion of certain amusement park rides, such as Ferris wheels.",
+                  "examples": [
+                    "Synonym: carriage",
+                    "The most exciting part of riding a Ferris wheel is when your car goes over the top."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The part of an airship, such as a balloon or dirigible, which houses the passengers and control apparatus.",
+                  "examples": [
+                    "Synonyms: gondola, (balloons only) basket"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sailing) A sliding fitting that runs along a track.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, US, slang) The aggregate of desirable characteristics of a car.",
+                  "examples": [
+                    "Buy now! You can get more car for your money."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A floating perforated box for living fish.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, prison slang) A clique or gang.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Etymology unclear, but probably from Proto-Germanic *karzijaną (“to turn”), from Proto-Indo-European *gers- (“to bend, turn”). Compare cair (“to turn, go”), char (“to turn”), Dutch keren (“to turn”), German Kehre (“turn, bend”).",
+        "William Shakespeare had something of a fondness for verbalizing nouns, and sometimes even substantivizing verbs. However, anything other than a \"turn\" does not seem to make any sense within the broader context of the cited Sonnet."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "car (plural cars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A turn.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Acronym of contents of the address part of register  number. Note that it was based on original hardware and has no meaning today."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "car (plural cars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The first part of a cons in Lisp. The first element of a list.",
+                  "examples": [
+                    "Antonym: cdr",
+                    "Holonym: cons"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
