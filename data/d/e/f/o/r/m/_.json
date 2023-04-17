@@ -1,0 +1,88 @@
+{
+  "word": "deform",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English deforme (“out of shape, deformed”) [and other forms], from Middle French deforme (modern French difforme (“misshapen, deformed”)), or directly from its etymon Latin dēfōrmis (“departing physically from the correct shape, deformed, malformed, misshapen, ugly; (figuratively) departing morally from the correct quality, base, disgraceful, shameful, unbecoming”), from dē- (prefix meaning ‘away from; from’) + fōrma (“form, appearance, figure, shape; fine form, beauty; design, outline, plan; model, pattern; mould, stamp; (figuratively) kind, manner, sort”) (further etymology unknown; perhaps related to Ancient Greek μορφή (morphḗ, “form, shape; appearance; outline; kind, type”), probably from Pre-Greek, but there is no consensus) + -is (suffix forming adjectives of the third declension)."
+      ],
+      "adjectives": [
+        {
+          "description": "deform (comparative more deform, superlative most deform)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete except poetic) Having an unusual and unattractive shape; deformed, misshapen; hence, hideous, ugly.",
+                  "examples": [
+                    "Synonyms: disfigured, distorted, shapeless; see also Thesaurus:misshapen, Thesaurus:ugly",
+                    "Antonyms: see Thesaurus:beautiful, Thesaurus:shapely"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English deformen (“to deform, disfigure, distort; to make ugly, mar; (figuratively) to disfigure morally; to defame; to dishonour”) [and other forms], from Old French deformer  [and other forms]  (modern French déformer (“to contort, distort, twist out of shape; (figuratively) to pervert”)), or directly from its etymon Latin dēfōrmāre (whence Medieval Latin difformāre), the present active infinitive of dēfōrmō (“to fashion, form; to delineate, describe; to design; to deform, disfigure; to mar, spoil”), from dē- (prefix meaning ‘away from; from’) + fōrmō (“to fashion, form, shape; to format”) (from fōrma (noun); see further at etymology 1)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deform (third-person singular simple present deforms, present participle deforming, simple past and past participle deformed)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To change the form of (something), usually thus making it disordered or irregular; to give (something) an abnormal or unusual shape.",
+                  "examples": [
+                    "Synonyms: contort, distort",
+                    "Antonym: undeform",
+                    "Hyponyms: buckle, distend, warp"
+                  ]
+                },
+                {
+                  "meaning": "(engineering, physics) To alter the shape of (something) by applying a force or stress.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(also figuratively) To change the look of (something), usually thus making it imperfect or unattractive; to give (something) an abnormal or unusual appearance.",
+                  "examples": [
+                    "Synonyms: deface, disfigure, distort, mar",
+                    "a face deformed by bitterness"
+                  ]
+                },
+                {
+                  "meaning": "To mar the character or quality of (something).",
+                  "examples": [
+                    "a marriage deformed by jealousy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become changed in shape or misshapen.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
