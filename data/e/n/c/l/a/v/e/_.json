@@ -1,0 +1,70 @@
+{
+  "word": "enclave",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French enclave, from Middle French enclave (“enclave”), deverbal of enclaver (“to inclose”), from Old French enclaver (“to inclose, lock in”), from Vulgar Latin *inclāvāre (“to lock in”), from in + Latin clavis (“key”) or clavus (“nail, bolt”). Compare inlock."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "enclave (plural enclaves)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A political, cultural or social entity or part thereof that is completely surrounded by another.",
+                  "examples": [
+                    "The republic of San Marino is an enclave of Italy.",
+                    "The streets around Union Square form a Protestant enclave within an otherwise Catholic neighbourhood."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group that is set off from a larger population by its characteristic or behavior.",
+                  "examples": [
+                    "...it tends to make marriage itself a lifestyle enclave."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An isolated portion of an application's address space, such that data in an enclave can only be accessed by code in the same enclave.",
+                  "examples": [
+                    "When an enclave spans a system boundary in a sysplex, it is called a multisystem enclave."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "enclave (third-person singular simple present enclaves, present participle enclaving, simple past and past participle enclaved)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enclose within a foreign territory.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
