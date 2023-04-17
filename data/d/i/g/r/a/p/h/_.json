@@ -1,0 +1,77 @@
+{
+  "word": "digraph",
+  "etymologies": [
+    {
+      "description": [
+        "Blend of directed +‎ graph."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "digraph (plural digraphs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A directed graph.",
+                  "examples": [
+                    "Hyponym: multidigraph"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Ancient Greek δίς (dís, “double”) + γράφω (gráphō, “write”), di- +‎ -graph."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "digraph (plural digraphs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A two-character sequence used to enter a single conceptual character.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A pair of letters, especially a pair representing a single phoneme.",
+                  "examples": [
+                    "Hyponyms: diphthong, ligature"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(divination of the Taixuanjing)  a sequence of two lines, each of which may be unbroken, broken once, or broken twice.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
