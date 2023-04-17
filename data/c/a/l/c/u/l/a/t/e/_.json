@@ -1,0 +1,81 @@
+{
+  "word": "calculate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin calculātus, perfect passive participle of calculō (“I reckon, originally by means of pebbles”), from calculus (“a pebble”). Refer to calculus for origin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "calculate (third-person singular simple present calculates, present participle calculating, simple past and past participle calculated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To determine the value of something or the solution to something by a mathematical process.",
+                  "examples": [
+                    "Calculate the square root of 3 to 10 decimal places."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, mathematics) To determine values or solutions by a mathematical process; reckon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, US, dialect) To plan; to expect; to think.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To ascertain or predict by mathematical or astrological computations the time, circumstances, or other conditions of; to forecast or compute the character or consequences of.",
+                  "examples": [
+                    "to calculate or cast one's nativity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To adjust for purpose; to adapt by forethought or calculation; to fit or prepare by the adaptation of means to an end.",
+                  "examples": [
+                    "[Religion] is  […]  calculated for our benefit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess) To imagine sequences of potential moves and responses without actually moving the pieces.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
