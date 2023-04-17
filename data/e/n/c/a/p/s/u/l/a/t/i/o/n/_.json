@@ -1,0 +1,46 @@
+{
+  "word": "encapsulation",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "encapsulation (countable and uncountable, plural encapsulations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of enclosing in a capsule; the growth of a membrane around (any part) so as to enclose it in a capsule.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, object-oriented programming) Grouping together an object’s ‘state’ (its data) and the operations that may alter or interrogate it (its methods).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) The process of arranging data into packets that can be transmitted using a given protocol.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
