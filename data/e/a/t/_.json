@@ -1,0 +1,173 @@
+{
+  "word": "eat",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English eten, from Old English etan (“to eat”), from Proto-West Germanic *etan, from Proto-Germanic *etaną (“to eat”), from Proto-Indo-European *h₁édti, from *h₁ed- (“to eat”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "eat (third-person singular simple present eats, present participle eating, simple past ate or (dialectal) et or (obsolete) eat, past participle eaten or (dialectal) etten)",
+          "definitionGroups": [
+            {
+              "group": "To ingest; to be ingested.",
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To consume (something solid or semi-solid, usually food) by putting it into the mouth and swallowing it.",
+                  "examples": [
+                    "He's eating an apple. / Don't disturb me now; can't you see that I'm eating?"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To consume a meal.",
+                  "examples": [
+                    "What time do we eat this evening?"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive, ergative) To be eaten.",
+                  "examples": [
+                    "It's a soup that eats like a meal."
+                  ]
+                },
+                {
+                  "meaning": "(copulative, intransitive) To have a particular quality of diet; to be well-fed or underfed (typically as \"eat healthy\" or \"eat good\").",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To use up.",
+              "entries": [
+                {
+                  "meaning": "(transitive, often with up) To destroy, consume, or use up.",
+                  "examples": [
+                    "This project is eating up all the money."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, programming, informal) To consume (an exception, an event, etc.) so that other parts of the program do not receive it.",
+                  "examples": [
+                    "A bigger problem, however, is that if you catch/eat an exception and do nothing with it, you are very likely introducing subtle bugs in your application that will be next to impossible to track down."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, informal, of a device) To damage, destroy, or fail to eject a removable part or an inserted object.",
+                  "examples": [
+                    "The VHS recorder just ate the tape and won't spit it out.",
+                    "John is late for the meeting because the photocopier ate his report."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, informal, of a vending machine or similar device) To consume money (or other instruments of value, such as a token) deposited or inserted by a user, while failing to either provide the intended product or service or return the payment.",
+                  "examples": [
+                    "The video game in the corner just ate my quarter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, informal) To cause (someone) to worry.",
+                  "examples": [
+                    "What's eating you?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, business) To take the loss in a transaction.",
+                  "examples": [
+                    "I have to have him in court tomorrow, if he doesn't show up, I forfeit the bond and I have to eat the $300,000."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To be injured or killed by (something such as a firearm or its projectile), especially in the mouth.",
+                  "examples": [
+                    "I risk my whole future, the hatred of the cops and Eddie Mars' gang. I dodge bullets and eat saps."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To corrode or erode.",
+                  "examples": [
+                    "The acid rain ate away the statue.  The strong acid eats through the metal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To perform oral sex (on a person or body part).",
+                  "examples": [
+                    "Eat me!",
+                    "I ate his ass.",
+                    "Yeah, eat that dick / eat that pussy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(stative, slang) To be very good; to rule; to rock.",
+                  "examples": [
+                    "You ate that performance!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English ete, ate, æte, from Old English ǣt (“food, eating”), from Proto-West Germanic *āt, from Proto-Germanic *ētą (“food, thing to eat”), from Proto-Indo-European *h₁ed- (“to eat”). Cognate with North Frisian ad, it (“food”), German Aas (“carrion”), Norwegian åt, Icelandic át (“food”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eat (plural eats)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) Something to be eaten; a meal; a food item.",
+                  "examples": [
+                    "Eating a Picnic creates a flurry of wafer pieces, flying peanuts and chocolate crumbs.  […]  As well as being messy, Picnic happens to be a big eat – something of a consumption challenge in fact."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
