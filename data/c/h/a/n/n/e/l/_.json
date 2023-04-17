@@ -1,0 +1,326 @@
+{
+  "word": "channel",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English chanel (also as canel, cannel, kanel), a borrowing from Old French chanel, canel, from Latin canālis (“groove; canal; channel”). Doublet of canal."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "channel (plural channels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The physical confine of a river or slough, consisting of a bed and banks.",
+                  "examples": [
+                    "The water coming out of the waterwheel created a standing wave in the channel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The natural or man-made deeper course through a reef, bar, bay, or any shallow body of water.",
+                  "examples": [
+                    "A channel was dredged to allow ocean-going vessels to reach the city."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The navigable part of a river.",
+                  "examples": [
+                    "We were careful to keep our boat in the channel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A narrow body of water between two land masses.",
+                  "examples": [
+                    "The English Channel lies between France and England."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something through which another thing passes; a means of conveying or transmitting.",
+                  "examples": [
+                    "The news was conveyed to us by different channels."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A gutter; a groove, as in a fluted column.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(construction, mechanical engineering) A structural member with a cross section shaped like a squared-off letter C.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A connection between initiating and terminating nodes of a circuit.",
+                  "examples": [
+                    "The guard-rail provided the channel between the downed wire and the tree."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) The narrow conducting portion of a MOSFET transistor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) The part that connects a data source to a data sink.",
+                  "examples": [
+                    "A channel stretches between them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) A path for conveying electrical or electromagnetic signals, usually distinguished from other parallel paths.",
+                  "examples": [
+                    "We are using one of the 24 channels."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) A single path provided by a transmission medium via physical separation, such as by multipair cable.",
+                  "examples": [
+                    "The channel is created by bonding the signals from these four pairs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) A single path provided by a transmission medium via spectral or protocol separation, such as by frequency or time-division multiplexing.",
+                  "examples": [
+                    "Their call is being carried on channel 6 of the T-1 line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) A specific radio frequency or band of frequencies, usually in conjunction with a predetermined letter, number, or codeword, and allocated by international agreement.",
+                  "examples": [
+                    "KNDD is the channel at 107.7 MHz in Seattle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) A specific radio frequency or band of frequencies used for transmitting television.",
+                  "examples": [
+                    "NBC is on channel 11 in San Jose."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(storage) The portion of a storage medium, such as a track or a band, that is accessible to a given reading or writing station or head.",
+                  "examples": [
+                    "This chip in this disk drive is the channel device."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The part of a turbine pump where the pressure is built up.",
+                  "examples": [
+                    "The liquid is pressurized in the lateral channel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business, marketing) A distribution channel",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A particular area for conversations on an IRC network, analogous to a chat room and often dedicated to a specific topic.",
+                  "examples": [
+                    "The excerpt in Figure 1 below shows a list of some channel names as they appear to an IRC user. The left hand column displays the channel name, the middle column displays how many people are currently on the channel, and the right hand column indicates the theme of the channel or the current topic of conversation:  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, historical) A means of delivering up-to-date Internet content.",
+                  "examples": [
+                    "Netcaster is the \"receiver\" for channels that are built into Netscape 4.01 and later releases."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A psychic or medium who temporarily takes on the personality of somebody else.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English chanelen, from the noun (see above)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "channel (third-person singular simple present channels, present participle channeling or channelling, simple past and past participle channelled or channeled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make or cut a channel or groove in.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To direct or guide along a desired course.",
+                  "examples": [
+                    "We will channel the traffic to the left with these cones."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of a spirit, as of a dead person) To serve as a medium for.",
+                  "examples": [
+                    "She was channeling the spirit of her late husband, Seth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To follow as a model, especially in a performance.",
+                  "examples": [
+                    "He was trying to channel President Reagan, but the audience wasn't buying it.",
+                    "When it is my turn to sing karaoke, I am going to channel Ray Charles."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From a corruption of chainwale."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "channel (plural channels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The wale of a sailing ship which projects beyond the gunwale and to which the shrouds attach via the chains. One of the flat ledges of heavy plank bolted edgewise to the outside of a vessel, to increase the spread of the shrouds and carry them clear of the bulwarks.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
