@@ -1,0 +1,88 @@
+{
+  "word": "deflate",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ (in)flate. Coined in 1891, in reference to balloons. Partly based on Latin deflo, deflare (perfect passive participle deflatus), which meant \"blow away\"."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deflate (third-person singular simple present deflates, present participle deflating, simple past and past participle deflated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove air or some other gas from within an elastic container, e.g. a balloon or tyre",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause an object to decrease or become smaller in some parameter, e.g. to shrink",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, economics) To reduce the amount of available currency or credit and thus lower prices.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become deflated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To let down or disappoint.",
+                  "examples": [
+                    "deflate someone's ego"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To compress (data) according to a particular algorithm.",
+                  "examples": [
+                    "Never had a problem, guess I've never had to deflate multiple files!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) To belch or flatulate",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
