@@ -1,0 +1,48 @@
+{
+  "word": "expunge",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin expungere."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "expunge (third-person singular simple present expunges, present participle expunging, simple past and past participle expunged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To erase or strike out.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To eliminate completely; to annihilate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To delete permanently (e-mail etc.) that was previously marked for deletion but still stored.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
