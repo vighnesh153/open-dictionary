@@ -1,0 +1,115 @@
+{
+  "word": "coordinate",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin coordinātus, past participle of coordinare (“arrange together”), from Latin co- (“together”) + ordinare (“arrange”). See ordain and ordinate."
+      ],
+      "adjectives": [
+        {
+          "description": "coordinate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of the same rank; equal.",
+                  "examples": [
+                    "two coordinate terms"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "coordinate (plural coordinates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, cartography, astronomy) A number representing the position of a point along a line, arc, or similar one-dimensional figure.",
+                  "examples": [
+                    "Give me your coordinates and we'll come and rescue you."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that is equal to another thing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(humorous, in the plural) Coordinated clothes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "coordinate (third-person singular simple present coordinates, present participle coordinating, simple past and past participle coordinated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place in the same order or rank.",
+                  "examples": [
+                    "Antonym: subordinate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To synchronize (activities).",
+                  "examples": [
+                    "It can be difficult to coordinate movement of both legs after an operation.",
+                    "I was playing tennis for the first time, and it was difficult to coordinate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To match (objects, especially clothes).",
+                  "examples": [
+                    "The outfit you're wearing doesn't coordinate."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
