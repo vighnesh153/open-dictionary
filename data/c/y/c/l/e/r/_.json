@@ -1,0 +1,125 @@
+{
+  "word": "cycler",
+  "etymologies": [
+    {
+      "description": [
+        "cycle +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cycler (plural cyclers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything with a cyclic (repetitious) behaviour. Something that cycles between different states.",
+                  "examples": [
+                    "The battery cycler allows us to switch between batteries as each one runs out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) An orbit that approaches two astronomical bodies on a regular basis.",
+                  "examples": [
+                    "The Earth-Mars cyclers could potentially be used for transporting people between the two planets."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronautics, by extension) A, usually man-made, object that follows such an orbit.",
+                  "examples": [
+                    "If we had more than one cycler then the length of time between the outbound and inbound journeys could be reduced to a few months."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology, euphemistic) A person with bipolar disorder, often used when comparing the speed of mood swings.",
+                  "examples": [
+                    "My son's a fast cycler which is much harder for people to understand."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A device for performing dialysis; for mechanically purifying blood.",
+                  "examples": [
+                    "The only issue I have had with my cycler was when the cat started chewing on the connecting line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) Ellipsis of thermal cycler.; a machine for creating multiple copies of DNA sequences.",
+                  "examples": [
+                    "We took samples from the tubes in the cycler at regular intervals"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A task in a cycle of tasks where the status of being active task is passed around the loop.",
+                  "examples": [
+                    "When the last cycler has run for 200ms we pass control back to the first one and begin again."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "(bi)cycle +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cycler (plural cyclers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) cyclist",
+                  "examples": [
+                    "There is nothing more annoying than a rogue cycler ignoring the other road users."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
