@@ -1,0 +1,100 @@
+{
+  "word": "embed",
+  "etymologies": [
+    {
+      "description": [
+        "From em- +‎ bed."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "embed (plural embeds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(journalism) An embedded reporter or journalist, such as a war reporter assigned to and travelling with a military unit, or a political reporter assigned to follow and report on the campaign of a candidate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An element of an advertisement, etc. serving as a subliminal message.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An item embedded in another document.",
+                  "examples": [
+                    "When you change the content of these embeds, this information will be automatically updated in every page that the embeds are included in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "embed (third-person singular simple present embeds, present participle embedding, simple past and past participle embedded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To lay (something) as in a bed; to lay in surrounding matter; to bed.",
+                  "examples": [
+                    "to embed something in clay, mortar, or sand"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, by extension) To include (something) in surrounding matter.",
+                  "examples": [
+                    "We wanted to embed our reporter with the Fifth Infantry Division, but the Army would have none of it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To encapsulate within another document or data file.",
+                  "examples": [
+                    "The instructions showed how to embed a chart from the spreadsheet within the wordprocessor document."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, transitive) To define a one-to-one function from one set to another so that certain properties of the domain are preserved when considering the image as a subset of the codomain.",
+                  "examples": [
+                    "The torus \n  \n    \n      \n        \n          S\n          \n            1\n          \n        \n        ×\n        \n          S\n          \n            1\n          \n        \n      \n    \n    {\\displaystyle S^{1}\\times S^{1}}\n  \n can be embedded in \n  \n    \n      \n        \n          \n            R\n          \n          \n            3\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {R} ^{3}}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
