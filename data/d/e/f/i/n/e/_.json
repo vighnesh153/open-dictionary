@@ -1,0 +1,112 @@
+{
+  "word": "define",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English definen, from Old French definer, variant of definir, from Latin dēfīniō (“limit, settle, define”), from dē + fīniō (“set a limit, bound, end”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "define (plural defines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A kind of macro in source code that replaces one text string with another wherever it occurs.",
+                  "examples": [
+                    "From the computer programming perspective, Java looks like C and C++ while discarding the overwhelming complexities of those languages, such as typedefs, defines, preprocessor, unions, pointers, and multiple inheritance."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "define (third-person singular simple present defines, present participle defining, simple past and past participle defined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To determine with precision; to mark out with distinctness; to ascertain or exhibit clearly.",
+                  "examples": [
+                    "Rings […] very distinct and well defined."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To settle, decide (an argument etc.) [16th–17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To express the essential nature of something.",
+                  "examples": [
+                    "I define myself as a techno-anarchist.",
+                    "Your past mistakes do not define who you are."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To state the meaning of a word, phrase, sign, or symbol.",
+                  "examples": [
+                    "The textbook defined speed as velocity divided by time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To describe, explain, or make definite and clear; used to request the listener or other person to elaborate or explain more clearly his or her intended meaning of a word or expression.",
+                  "examples": [
+                    "Person 1: Is she good at math?Person 2: Define \"good.\" If you mean if she is faster than the average middle schooler at multiplication, then yes. If you mean if she is able to do multivariable calculus, then no."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To demark sharply the outlines or limits of an area or concept.",
+                  "examples": [
+                    "to define the legal boundaries of a property"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) To establish the referent of a term or notation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
