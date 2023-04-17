@@ -1,0 +1,76 @@
+{
+  "word": "characteristic",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek χαρακτηριστικός (kharaktēristikós), from χαρακτηρίζω (kharaktērízō, “to designate by a characteristic mark”), from χαρακτήρ (kharaktḗr, “a mark, character”)."
+      ],
+      "adjectives": [
+        {
+          "description": "characteristic (comparative more characteristic, superlative most characteristic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being a distinguishing feature of a person or thing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "characteristic (plural characteristics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A distinguishing feature of a person or thing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The integer part of a logarithm.",
+                  "examples": [
+                    "It is evident, moreover, that as the logarithms of numbers, which are tenfold, the one of the other, do not differ except in their characteristics, it is sufficient that the tables contain the fractional parts only of the logarithms."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The distinguishing features of a navigational light on a lighthouse etc by which it can be identified (colour, pattern of flashes etc.).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, field theory, ring theory) For a given field or ring, a natural number that is either the smallest positive number n such that n instances of the multiplicative identity (1) summed together yield the additive identity (0) or, if no such number exists, the number 0.",
+                  "examples": [
+                    "The characteristic of a field, if non-zero, must be a prime number."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
