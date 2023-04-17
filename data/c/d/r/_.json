@@ -1,0 +1,32 @@
+{
+  "word": "cdr",
+  "etymologies": [
+    {
+      "description": [
+        "Acronym of contents of the decrement part of register number. Note that it was based on original hardware and has no meaning today."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cdr (plural cdrs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The second part of a cons in Lisp. The remainder of a list when the first element is removed.",
+                  "examples": [
+                    "Antonym: car"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
