@@ -1,0 +1,52 @@
+{
+  "word": "evanescent",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French évanescent (“evanescent”), from Latin ēvānēscēns (“disappearing, vanishing”), present participle of ēvānēscō (“to disappear, vanish; to die out, fade away; to lapse”), from ē- (variant of ex- (prefix meaning ‘away, out’)) + vānēscō (“to vanish”) (from vānus (“empty, vacant, void”), from Proto-Indo-European *h₁weh₂- (“to abandon, leave”)) + -ēscō (suffix forming verbs with the sense ‘to become’))."
+      ],
+      "adjectives": [
+        {
+          "description": "evanescent (comparative more evanescent, superlative most evanescent)",
+          "definitionGroups": [
+            {
+              "group": "Disappearing, vanishing.",
+              "entries": [
+                {
+                  "meaning": "(electromagnetism) Of an oscillating electric or magnetic field: not propagating as an electromagnetic wave but having its energy spatially concentrated in the vicinity of its source.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(mathematics) Of a number or value: diminishing to the point of reaching zero as a limit; infinitesimal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Barely there; almost imperceptible.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Ephemeral, fleeting, momentary.",
+              "entries": [
+                {
+                  "meaning": "(botany) Of plant parts: shed after a period.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
