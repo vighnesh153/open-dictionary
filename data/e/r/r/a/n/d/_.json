@@ -1,0 +1,88 @@
+{
+  "word": "errand",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English erande, erende, from Old English ǣrende, from Proto-West Germanic *ārundī (“message, errand”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "errand (plural errands)",
+          "definitionGroups": [
+            {
+              "group": "A journey undertaken to accomplish some task.",
+              "entries": [
+                {
+                  "meaning": "(literary or archaic) A mission or quest.",
+                  "examples": [
+                    "Few have ever come hither through greater peril or on an errand more urgent.",
+                    "In this evil hour I have come on an errand over many dangerous leagues to Elrond: a hundred and ten days I have journeyed all alone."
+                  ]
+                },
+                {
+                  "meaning": "A mundane mission of no great consequence, concerning household or business affairs (dropping items by, doing paperwork, going to a friend's house, etc.)",
+                  "examples": [
+                    "The errands before he could start the project included getting material at the store and getting the tools he had lent his neighbors.",
+                    "I'm going to town on some errands."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The purpose of such a journey.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An oral message trusted to a person for delivery.",
+                  "examples": [
+                    "I had not taught thee then the alphabetOf flowers, how they, devicefully being setAnd bound up, might with speechless secrecyDeliver errands mutely and mutually."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "errand (third-person singular simple present errands, present participle erranding, simple past and past participle erranded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send someone on an errand.",
+                  "examples": [
+                    "All the servants were on holiday or erranded out of the house."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To go on an errand.",
+                  "examples": [
+                    "She spent an enjoyable afternoon erranding in the city."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
