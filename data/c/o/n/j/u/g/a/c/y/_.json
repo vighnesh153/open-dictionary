@@ -1,0 +1,30 @@
+{
+  "word": "conjugacy",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "conjugacy (countable and uncountable, plural conjugacies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The condition or state of being conjugate.",
+                  "examples": [
+                    "Because the gamma distribution is the conjugate prior for the precision parameter (\n  \n    \n      \n        τ\n        =\n        1\n        \n          /\n        \n        \n          σ\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle \\tau =1/\\sigma ^{2}}\n  \n) of a univariate normal distribution, the Wishart distribution (as its multivariate generalization) extends conjugacy to the multivariate normal distribution."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
