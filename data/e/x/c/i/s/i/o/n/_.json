@@ -1,0 +1,62 @@
+{
+  "word": "excision",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French excision, from Latin excīsiō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "excision (countable and uncountable, plural excisions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The removal of some text during editing.",
+                  "examples": [
+                    "Synonym: deletion",
+                    "Coordinate terms: redaction, abridgment"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surgery) The removal of something (a tumor or body part) by cutting.",
+                  "examples": [
+                    "Synonyms: resection, -ectomy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) The removal of a gene from a section of genetic material.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) The fact that, under certain hypotheses, the homology of a space relative to a subspace is unchanged by the identification of a subspace of the latter to a point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
