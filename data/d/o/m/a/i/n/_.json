@@ -1,0 +1,176 @@
+{
+  "word": "domain",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English demayne, demain (“rule”), from Old French demeine, demaine, demeigne, domaine (“power”), (French domaine), from Latin dominium (“property, right of ownership”), from dominus (“master, proprietor, owner”). See dame, and compare demain, danger, dungeon. Doublet of demesne, domino."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "domain (plural domains)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A geographic area owned or controlled by a single person or organization.",
+                  "examples": [
+                    "The king ruled his domain harshly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A field or sphere of activity, influence or expertise.",
+                  "examples": [
+                    "Dealing with complaints isn't really my domain: get in touch with customer services.",
+                    "His domain is English history."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of related items, topics, or subjects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The set of all possible mathematical entities (points) where a given function is defined.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, set theory) The set of input (argument) values for which a function is defined.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A ring with no zero divisors; that is, in which no product of nonzero elements is zero.",
+                  "examples": [
+                    "Hyponym: integral domain"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, topology, mathematical analysis) An open and connected set in some topology. For example, the interval (0,1) as a subset of the real numbers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Internet) Any DNS domain name, particularly one which has been delegated and has become representative of the delegated domain name and its subdomains.",
+                  "examples": [
+                    "Every name in the DNS tree is a domain, even if it is terminal, that is, has no subdomains."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Internet) A collection of DNS or DNS-like domain names consisting of a delegated domain name and all its subdomains.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A collection of information having to do with a domain, the computers named in the domain, and the network on which the computers named in the domain reside.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The collection of computers identified by a domain's domain names.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A small region of a magnetic material with a consistent magnetization direction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Such a region used as a data storage element in a bubble memory.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(data processing) A form of technical metadata that represent the type of a data item, its characteristics, name, and usage.",
+                  "examples": [
+                    "A characteristic of a field. A data domain specifies a data type and applies the minimum and maximum values allowed and other constraints."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) The highest rank in the classification of organisms, above kingdom; in the three-domain system, one of the taxa Bacteria, Archaea, or Eukaryota.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) A folded section of a protein molecule that has a discrete function; the equivalent section of a chromosome",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
