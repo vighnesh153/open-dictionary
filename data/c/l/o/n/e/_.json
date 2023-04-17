@@ -1,0 +1,83 @@
+{
+  "word": "clone",
+  "etymologies": [
+    {
+      "description": [
+        "Coined (in botany) in 1903, based on Ancient Greek κλών (klṓn, “twig”). Figurative use from the 1970s."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "clone (plural clones)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A living organism (originally a plant) produced asexually from a single ancestor, to which it is genetically identical.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cytology) A group of identical cells derived from a single cell.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A copy or imitation of something already existing, especially when designed to simulate it.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A person who is exactly like another person, in terms of looks or behavior.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "clone (third-person singular simple present clones, present participle cloning, simple past and past participle cloned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To create a clone of.",
+                  "examples": [
+                    "The scientists were able to clone a sheep.",
+                    "We cloned the database to perform some testing."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
