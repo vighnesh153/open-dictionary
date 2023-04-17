@@ -1,0 +1,76 @@
+{
+  "word": "dialog",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English dialog (“A literary discussion or a work written as one”), from Old French dialogue, from Latin dialogus, from Ancient Greek διάλογος (diálogos, “conversation, discourse”), from διά (diá, “through, inter”) + λόγος (lógos, “speech, oration, discourse”), from διαλέγομαι (dialégomai, “to converse”), from διά (diá) + λέγειν (légein, “to speak”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dialog (countable and uncountable, plural dialogs) (American spelling)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A conversation or other form of discourse between two or more individuals.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a dramatic or literary presentation, the verbal parts of the script or text; the verbalizations of the actors or characters.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A literary form, where the presentation resembles a conversation.",
+                  "examples": [
+                    "Seynte Aldelme returnyde to Briteyne..makenge mony noble bookes ... of the rewles of feete metricalle, of metaplasmus, of dialog metricalle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A dialog box.",
+                  "examples": [
+                    "You'll be prompted with the New Project dialog (see Figure 1.11) from which you'll have at least two types of projects from which to choose  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dialog (third-person singular simple present dialogs, present participle dialoging, simple past and past participle dialoged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(American spelling, informal, business) To discuss or negotiate so that all parties can reach an understanding.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
