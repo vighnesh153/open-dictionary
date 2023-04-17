@@ -1,0 +1,63 @@
+{
+  "word": "contango",
+  "etymologies": [
+    {
+      "description": [
+        "The term originated in early-19th-century England, and is believed to be a corruption of continuation, continue or contingent.  In the past on the London Stock Exchange, contango was a fee paid by a buyer to a seller when the buyer wished to defer settlement of the trade they had agreed. The charge was based on the interest forgone by the seller not being paid."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "contango (countable and uncountable, plural contangos or contangoes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The situation in a futures market where prices for future delivery are higher than prices for immediate (or nearer) delivery, indicating the expectation that the price of the underlying asset will go up.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The amount by which prices for future delivery are higher than prices for near delivery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, London Stock Exchange) Fee paid by a buyer to the seller on settlement day when the buyer wishes to defer settlement until the next settlement day.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "contango (third-person singular simple present contangos, present participle contangoing, simple past and past participle contangoed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, London Stock Exchange, transitive, intransitive) To charge (a buyer) a fee to defer settlement until the next settlement day.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
