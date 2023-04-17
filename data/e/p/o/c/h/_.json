@@ -1,0 +1,93 @@
+{
+  "word": "epoch",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin epocha, from Ancient Greek ἐποχή (epokhḗ, “a check, cessation, stop, pause, epoch of a star, i.e., the point at which it seems to halt after reaching the highest, and generally the place of a star; hence, a historical epoch”), from ἐπέχω (epékhō, “I hold in, check”), from ἐπι- (epi-, “upon”) + ἔχω (ékhō, “I have, hold”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "epoch (plural epochs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A particular period of history, or of a person's life, especially one considered noteworthy or remarkable.",
+                  "examples": [
+                    "Synonyms: age, (only in general usage) era"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A notable event which marks the beginning of such a period.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chronology, astronomy, computing) A specific instant in time, chosen as the point of reference or zero value of a system that involves identifying instants of time.",
+                  "examples": [
+                    "Coordinate term: (cartography, engineering) datum",
+                    "UNIX epoch; J2000 epoch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A geochronologic unit of hundreds of thousands to millions of years; a subdivision of a period, and subdivided into ages (or sometimes subepochs).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(machine learning) One complete presentation of the training data set to an iterative machine learning algorithm.",
+                  "examples": [
+                    "Synonym: generation",
+                    "The neural network was trained over 500 epochs."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "epoch (third-person singular simple present epochs, present participle epoching, simple past and past participle epoched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences, transitive) To divide (data) into segments by time period.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
