@@ -1,0 +1,56 @@
+{
+  "word": "equate",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English equaten, from Latin aequātus, past participle of aequō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "equate (plural equates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A statement in assembly language that defines a symbol having a particular value.",
+                  "examples": [
+                    "The following equates define the stats byte  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "equate (third-person singular simple present equates, present participle equating, simple past and past participle equated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To consider equal or equivalent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To set as equal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
