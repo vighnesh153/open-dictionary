@@ -1,0 +1,68 @@
+{
+  "word": "decompress",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ compress"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decompress (third-person singular simple present decompresses, present participle decompressing, simple past and past participle decompressed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To relieve the pressure or compression on something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring someone (such as a diver) back to normal atmospheric pressure after being exposed to high pressure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To restore (compressed data) to its original form.",
+                  "examples": [
+                    "Synonyms: unzip, uncompress"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To adjust to normal atmospheric pressure after being exposed to high pressure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, informal) To relax.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
