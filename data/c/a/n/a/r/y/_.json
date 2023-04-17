@@ -1,0 +1,179 @@
+{
+  "word": "canary",
+  "etymologies": [
+    {
+      "description": [
+        "From French canarie, from Spanish canario, from the Latin Canariae insulae (“Canary Islands”) (Spanish Islas Canarias); from the largest island Insula Canaria (“Dog Island\" or \"Canine Island”), named for its dogs, from canārius (“canine”), from canis (“dog”)."
+      ],
+      "adjectives": [
+        {
+          "description": "canary (comparative more canary, superlative most canary)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a light yellow colour.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "canary (countable and uncountable, plural canaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small, usually yellow, finch (genus Serinus), a songbird native to the Canary Islands.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of various small birds of different countries, most of which are largely yellow in colour.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A female singer, soprano, a coloratura singer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) An informer or snitch; a squealer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A light, slightly greenish, yellow colour.",
+                  "examples": [
+                    "canary:"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A (usually yellow) capsule of the short-acting barbiturate pentobarbital/pentobarbitone (Nembutal).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, informal) A yellow sticker applied by the police to a vehicle to indicate it is unroadworthy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any test subject, especially an inadvertent or unwilling one. (From the mining practice of using canaries to detect dangerous gases.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A value placed in memory such that it will be the first data corrupted by a buffer overflow, allowing the program to identify and recover from it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A change that is tested by being rolled out first to a subset of machines or users before rolling out to all.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) A light, sweet, white wine from the Canary Islands.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A lively dance, possibly of Spanish origin (also called canaries).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "canary (third-person singular simple present canaries, present participle canarying, simple past and past participle canaried)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) to dance nimbly (as in the canary dance)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) to inform or snitch, to betray secrets, especially about illegal activities.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) to test a software change by rolling out to a small set of machines or users before making it available to all.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
