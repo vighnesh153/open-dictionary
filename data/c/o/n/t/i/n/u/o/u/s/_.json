@@ -1,0 +1,85 @@
+{
+  "word": "continuous",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin continuus, from contineō (“hold together”). Displaced native Old English singal."
+      ],
+      "adjectives": [
+        {
+          "description": "continuous (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without stopping; without a break, cessation, or interruption.",
+                  "examples": [
+                    "Synonyms: perpetual, nonstop, incessant, ongoing; see also Thesaurus:continuous",
+                    "Antonyms: broken, discontinuous, discrete, intermittent, interrupted",
+                    "a continuous current of electricity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without intervening space; continued.",
+                  "examples": [
+                    "Synonyms: protracted, extended, connected, continued, unbroken",
+                    "Antonyms: broken, disconnected, disjoint",
+                    "a continuous line of railroad"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) Not deviating or varying from uniformity; not interrupted; not joined or articulated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis, of a function) Such that, for every x in the domain, for each small open interval D about f(x), there's an interval containing x whose image is in D.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, more generally, of a function between two topological spaces) Such that each open set in the target space has an open preimage (in the domain space, with respect to the given function).",
+                  "examples": [
+                    "Each continuous function from the real line to the rationals is constant, since the rationals are totally disconnected."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Expressing an ongoing action or state.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
