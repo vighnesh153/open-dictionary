@@ -1,0 +1,292 @@
+{
+  "word": "discharge",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English dischargen, from Old French deschargier (“to unload”), from Late Latin discarricāre (“unload”). By surface analysis, dis- +‎ charge."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "discharge (countable and uncountable, plural discharges)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, uncountable) Pus or exudate (other than blood) from a wound or orifice, usually due to infection or pathology.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of accomplishing (an obligation) or repaying a debt etc.; performance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of expelling or letting go.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of firing a projectile, especially from a firearm.",
+                  "examples": [
+                    "Synonym: firing"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process of unloading something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process of flowing out.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity) The act of releasing an accumulated charge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The act of releasing an inpatient from hospital.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) The act of releasing a member of the armed forces from service.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hydrology) The volume of water transported by a river in a certain amount of time, usually in units of m3/s (cubic meters per second).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "discharge (third-person singular simple present discharges, present participle discharging, simple past and past participle discharged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To accomplish or complete, as an obligation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To free of a debt, claim, obligation, responsibility, accusation, etc.; to absolve; to acquit; to forgive; to clear.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To send away (a creditor) satisfied by payment; to pay one's debt or obligation to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To set aside; to annul; to dismiss.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To expel or let go.",
+                  "examples": [
+                    "Feeling in other cases discharges itself in indirect muscular actions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To let fly, as a missile; to shoot.",
+                  "examples": [
+                    "Mrs Partridge, upon this, immediately fell into a fury, and discharged the trencher on which she was eating, at the head of poor Jenny  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity) To release (an accumulated charge).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To relieve of an office or employment; to send away from service; to dismiss.",
+              "entries": [
+                {
+                  "meaning": "(medicine) To release (an inpatient) from hospital.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(military) To release (a member of the armed forces) from service.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To release legally from confinement; to set at liberty.",
+                  "examples": [
+                    "to discharge a prisoner"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To operate (any weapon that fires a projectile, such as a shotgun or sling).",
+                  "examples": [
+                    "discharge his pieces"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) To release (an auxiliary assumption) from the list of assumptions used in arguments, and return to the main argument.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To unload a ship or another means of transport.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To put forth, or remove, as a charge or burden; to take out, as that with which anything is loaded or filled.",
+                  "examples": [
+                    "to discharge a cargo"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To give forth; to emit or send out.",
+                  "examples": [
+                    "A pipe discharges water."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To let fly; to give expression to; to utter.",
+                  "examples": [
+                    "He discharged a horrible oath."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, textiles) To bleach out or to remove or efface, as by a chemical process.",
+                  "examples": [
+                    "to discharge the colour from a dyed fabric in order to form light figures on a dark background"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, Scotland) To prohibit; to forbid.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
