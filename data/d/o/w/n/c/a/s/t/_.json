@@ -1,0 +1,109 @@
+{
+  "word": "downcast",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English *doun-casten, *adoun-casten (inferred from Middle English adoun-casting (“downcasting”), adoun-cast (“overthrow, destruction”)), modelled similarly to other constructions in Middle English (namely, Middle English adoun-throwen (“to throw down”), adoun-werpen (“to throw down”)), equivalent to down- +‎ cast."
+      ],
+      "adjectives": [
+        {
+          "description": "downcast (comparative more downcast, superlative most downcast)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of eyes) Looking downwards.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a person) Feeling despondent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "downcast (plural downcasts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A cast from supertype to subtype.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A melancholy look.",
+                  "examples": [
+                    "That downcast of thine eye."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) A ventilating shaft down which the air passes in circulating through a mine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "downcast (third-person singular simple present downcasts, present participle downcasting, simple past and past participle downcast or downcasted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To cast or throw down; to turn downward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Scotland) To taunt; to reproach; to upbraid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To cast from supertype to subtype.",
+                  "examples": [
+                    "Antonym: upcast"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
