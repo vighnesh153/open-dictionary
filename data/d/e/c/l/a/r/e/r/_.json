@@ -1,0 +1,50 @@
+{
+  "word": "declarer",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English declarer, equivalent to declare +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "declarer (plural declarers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bridge) The person who wins the bidding and so declares what suit will be trump.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who declares.",
+                  "examples": [
+                    "Synonym: (law) declarant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) A statement that declares the properties of a variable or contributes to doing so.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

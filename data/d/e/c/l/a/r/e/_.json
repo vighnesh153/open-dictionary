@@ -1,0 +1,108 @@
+{
+  "word": "declare",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English declaren, from Old French declarer, from Latin dēclārō (“to make clear”), from dē- + clārus (“clear”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "declare (third-person singular simple present declares, present participle declaring, simple past and past participle declared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To make clear, explain, interpret.",
+                  "examples": [
+                    "To declare this a little, we must assume that the surfaces of all such bodies  […]  are exactly smooth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To assert or announce formally, officially, explicitly, or emphatically.",
+                  "examples": [
+                    "Synonyms: disclose, make known; see also Thesaurus:announce",
+                    "He declared him innocent.",
+                    "declare bankruptcy",
+                    "declare victory"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) To show one's cards in order to score.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, cricket) For the captain of the batting side to announce the innings complete even though all batsmen have not been dismissed.",
+                  "examples": [
+                    "(cricket) declare (an innings) closed"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, politics) For a constituency in an election to officially announce the result",
+                  "examples": [
+                    "Houghton and Sunderland South was the first constituency to declare in the 2015 general election."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To inform government customs or taxation officials of goods one is importing or of income, expenses, or other circumstances affecting one's taxes.",
+                  "examples": [
+                    "The prosecution has introduced evidence, including canceled checks, to show that the judge failed to declare part of his income."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make outstanding debts, e.g. taxes, payable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To explicitly establish the existence of (a variable, function, etc.) without necessarily describing its content.",
+                  "examples": [
+                    "The counter \"i\" was declared as an integer."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
