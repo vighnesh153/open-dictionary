@@ -1,0 +1,66 @@
+{
+  "word": "ecliptic",
+  "etymologies": [
+    {
+      "description": [
+        "So named because an eclipse can occur only when the Moon lies on this plane.",
+        "Borrowed from Latin ecliptica."
+      ],
+      "adjectives": [
+        {
+          "description": "ecliptic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to an eclipse or the ecliptic.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ecliptic (plural ecliptics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) The great circle on the celestial sphere that is the mean apparent path of the sun as viewed from the earth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) Also, the plane in which this great circle lies.",
+                  "examples": [
+                    "Synonyms: ecliptic plane, plane of the ecliptic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A great circle drawn on a terrestrial globe, used for illustrating and solving astronomical problems.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
