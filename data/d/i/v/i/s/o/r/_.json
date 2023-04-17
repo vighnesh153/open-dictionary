@@ -1,0 +1,41 @@
+{
+  "word": "divisor",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "divisor (plural divisors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) A number or expression that another is to be divided by.",
+                  "examples": [
+                    "In \"42 ÷ 3\" the divisor is the 3."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An integer that divides another integer an integral number of times.",
+                  "examples": [
+                    "The positive divisors of 6 are 1, 2, 3 and 6."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
