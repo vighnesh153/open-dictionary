@@ -1,0 +1,91 @@
+{
+  "word": "catenary",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin catenarius, from Latin catēna (“chain”)."
+      ],
+      "adjectives": [
+        {
+          "description": "catenary (comparative more catenary, superlative most catenary)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to a chain; like a chain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to a catena.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Late Latin catenaria, in turn from Latin catēna (“chain”). Attested since 1788."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "catenary (plural catenaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The curve described by a flexible chain or a rope if it is supported at each end and is acted upon by no other forces than a uniform gravitational force due to its own weight and variations involving additional and non-uniform forces.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) Any physical cable, rope, chain, or other weight-supporting structure  taking such geometric shape, as a suspension cable for a bridge or a power-transmission line or an arch for a bridge or roof.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The curve of an anchor cable from the seabed to the vessel; it should be horizontal at the anchor so as to bury the flukes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transport) A cable, the segments of which between supports take a catenary geometric shape, supporting in turn an overhead conductor that provides trains, trams or trolley buses with electricity, or the combination of the conductor, the cable, and supports.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
