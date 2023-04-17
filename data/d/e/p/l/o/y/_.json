@@ -1,0 +1,73 @@
+{
+  "word": "deploy",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French déployer (“to unroll, unfold”), from Old French desploiier, itself from des- + ploiier, or possibly from Late Latin displicāre (“to unfold, display”), from Latin dis- (“apart”) + plicare (“to fold”). Doublet of display."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "deploy (plural deploys)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, dated) Deployment.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deploy (third-person singular simple present deploys, present participle deploying, simple past and past participle deployed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, ergative) To prepare and arrange (usually military unit or units) for use.",
+                  "examples": [
+                    "\"Deploy two units of infantry along the enemy's flank,\" the general ordered.",
+                    "deploy some lifeguards on the beach",
+                    "Teachers can deploy a wide range of resources in their classrooms."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To unfold, open, or otherwise become ready for use.",
+                  "examples": [
+                    "He waited tensely for his parachute to deploy.",
+                    "deploy the airbag",
+                    "the airbag will deploy on collision"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To install, test and implement a computer system or application.",
+                  "examples": [
+                    "The process for the deployment scenario includes: building a master installation of the operating system, creating its image and deploying the image onto a destination computer."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
