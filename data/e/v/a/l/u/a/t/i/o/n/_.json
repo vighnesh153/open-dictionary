@@ -1,0 +1,50 @@
+{
+  "word": "evaluation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French évaluation.\nMorphologically evaluate +‎ -ion"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "evaluation (countable and uncountable, plural evaluations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An assessment, such as an annual personnel performance review used as the basis for a salary increase or bonus, or a summary of a particular situation.",
+                  "examples": [
+                    "The result of the semestral evaluation will go towards your final score."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A completion of a mathematical operation; a valuation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) Determination of the value of a variable or expression.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
