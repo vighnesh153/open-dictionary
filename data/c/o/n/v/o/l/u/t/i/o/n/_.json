@@ -1,0 +1,86 @@
+{
+  "word": "convolution",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin convolutus (“to roll together”), past participle of convolvere, from con- + volvere (“to roll”), with the suffix -tion. Equivalent to convolute +‎ -ion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "convolution (countable and uncountable, plural convolutions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A twist or fold.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of the folds on the surface of the brain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The shape of something rotating; a vortex.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state or condition of being convoluted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, functional analysis) A mathematical operation on two functions that produces a third that expresses how the shape of one is modified by the other; the integral of the product of the two functions after one is reflected about the y-axis and shifted along the x-axis.",
+                  "examples": [
+                    "Coordinate term: deconvolution"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A function which maps a tuple of sequences into a sequence of tuples.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One 360° turn in a spring or similar helix.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
