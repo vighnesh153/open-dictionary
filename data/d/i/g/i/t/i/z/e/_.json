@@ -1,0 +1,52 @@
+{
+  "word": "digitize",
+  "etymologies": [
+    {
+      "description": [
+        "digit +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "digitize (third-person singular simple present digitizes, present participle digitizing, simple past and past participle digitized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To represent something (such as an image or sound) as a structured sequence of binary digits.",
+                  "examples": [
+                    "Synonym: (less common) digitalize"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To quantize a continuous or analog value; to convert it into a discrete value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To finger.",
+                  "examples": [
+                    "to digitize a pen"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
