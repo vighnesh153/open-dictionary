@@ -1,0 +1,79 @@
+{
+  "word": "cartridge",
+  "etymologies": [
+    {
+      "description": [
+        "Corruption of earlier cartage, from French cartouche, from Italian cartoccio (“roll of paper”), from Medieval Latin carta (“paper”). Doublet of cartouche."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cartridge (plural cartridges)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(firearms) The package consisting of the bullet, primer, and casing containing gunpowder; a round of ammunition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A prefabricated subassembly that can be easily installed in or removed from a larger mechanism or replaced with another interchangeable subassembly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A vessel which contains the ink or toner for a computer printer and can be easily replaced with another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Magnetic tape storage, used for storing (backup) copies of data.",
+                  "examples": [
+                    "The program generates a catalogue of the files on the cartridge selected by the user, reads the catalogue into memory and erases the cartridge copy, so that an up-to-date copy is always generated."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A removable enclosure containing read-only memory devices, used for rapid loading of software onto a home computer or video game console.",
+                  "examples": [
+                    "We would like to see someone market a low-power, text-to-speech cartridge that would mate with the Epson and use its internal battery pack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A small paper package, e.g. in an old book about making printer's type: After all the type has been cast: \"The Boy will paper up each sort in a cartridge by itself\".",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
