@@ -1,0 +1,76 @@
+{
+  "word": "decorate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin decoratus, past participle of decorare (“to adorn, distinguish, honor”), from decus (“ornament, grace, dignity, honor”), akin to decor (“elegance, grace, beauty, ornament”), from decet (“adorn, befit”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decorate (third-person singular simple present decorates, present participle decorating, simple past and past participle decorated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To furnish with decorations.",
+                  "examples": [
+                    "We decorated the Christmas tree with tinsel and baubles."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To improve the appearance of an interior of, as a house, room, or office.",
+                  "examples": [
+                    "There's some paint left over from when we decorated the guest bedroom."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To decorate an interior space, as a house, room, or office.",
+                  "examples": [
+                    "People tend to decorate for the holidays or special events."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To honor by providing a medal, ribbon, or other adornment.",
+                  "examples": [
+                    "He was a decorated soldier who served in three wars."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To extend a method, etc. by attaching some further code item.",
+                  "examples": [
+                    "It makes sure that the field name argument is not empty, and that the field specified there is an actual existing field in the class which declares the method decorated with this attribute."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
