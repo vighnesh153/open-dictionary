@@ -1,0 +1,269 @@
+{
+  "word": "choke",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English choken (also cheken), from earlier acheken, from Old English āċēocian (“to choke”), probably derived from Old English ċēoce, ċēace (“jaw, cheek”), see cheek. Cognate with Icelandic kok (“throat”), koka (“to gulp”). See also achoke."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "choke (plural chokes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A control on a carburetor to adjust the air/fuel mixture when the engine is cold.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) In wrestling, karate (etc.), a type of hold that can result in strangulation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A constriction at the muzzle end of a shotgun barrel which affects the spread of the shot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A partial or complete blockage (of boulders, mud, etc.) in a cave passage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A choking coil.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A major mistake at a crucial stage of a competition because one is nervous, especially when one is winning.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "choke (third-person singular simple present chokes, present participle choking, simple past and past participle choked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be unable to breathe because of obstruction of the windpipe (for instance food or other objects that go down the wrong way, or fumes or particles in the air that cause the throat to constrict).",
+                  "examples": [
+                    "Ever since he choked on a bone, he has refused to eat fish."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To prevent (someone) from breathing or talking by strangling or filling the windpipe.",
+                  "examples": [
+                    "Synonyms: asphyxiate, strangle, suffocate, throttle",
+                    "The collar of this shirt is too tight; it’s choking me."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obstruct (a passage, etc.) by filling it up or clogging it.",
+                  "examples": [
+                    "Synonyms: block up, bung up, clog, congest, jam, obstruct, stop up",
+                    "to choke a cave passage with boulders and mud"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hinder or check, as growth, expansion, progress, etc.; to kill (a plant by robbing it of nutrients); to extinguish (fire by robbing it of oxygen).",
+                  "examples": [
+                    "Synonyms: choke out, stifle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, colloquial) To perform badly at a crucial stage of a competition, especially when one appears to be clearly winning.",
+                  "examples": [
+                    "He has a lot of talent, but he tends to choke under pressure."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To move one's fingers very close to the tip of a pencil, brush or other art tool.",
+                  "examples": [
+                    "A brief tryout will demonstrate that the modified grip does indeed make it difficult to “choke” the pencil or apply excessive pressure to the paper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(golf, baseball, transitive) To hold the club or bat lower on the shaft in order to shorten one's swing.",
+                  "examples": [
+                    "Take a grip with your right hand, slightly choked down from your normal grip."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be checked or stopped, as if by choking",
+                  "examples": [
+                    "Synonym: stick"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To check or stop (an utterance or voice) as if by choking.",
+                  "examples": [
+                    "A hundred times fain he would have spoke, but still his rising Passion choak’d his Words;"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To have a feeling of strangulation in one's throat as a result of passion or strong emotion.",
+                  "examples": [
+                    "Grobstock began to choke with chagrin."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give (someone) a feeling of strangulation as a result of passion or strong emotion.",
+                  "examples": [
+                    "[…]  I am very sensible how much the Gentlemen of Wit and Pleasure are apt to murmur, and be choqued at the Sight of so many daggled-tail Parsons, who happen to fall in their Way, and offend their Eyes  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To say (something) with one’s throat constricted (due to emotion, for example).",
+                  "examples": [
+                    "‘There is the padre!’ Kim choked as bare-headed Father Victor sailed down upon them from the veranda."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use the choke valve of (a vehicle) to adjust the air/fuel mixture in the engine.",
+                  "examples": [
+                    "The engine caught, spluttered, and roared as Tom choked the car delicately."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, fluid mechanics, of a duct) To reach a condition of maximum flowrate, due to the flow at the narrowest point of the duct becoming sonic (Ma = 1).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make or install a choke, as in a cartridge, or in the bore of the barrel of a shotgun.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Back-formation from artichoke."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "choke (plural chokes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The mass of immature florets in the centre of the bud of an artichoke.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
