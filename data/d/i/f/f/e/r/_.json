@@ -1,0 +1,82 @@
+{
+  "word": "differ",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English differren, from Old French differer, from Latin differō (“carry apart, put off, defer; differ”), from dis- (“apart”) + ferō (“carry, bear”). Compare Ancient Greek διαφέρω (diaphérō). Doublet of defer (etymology 1)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "differ (third-person singular simple present differs, present participle differing, simple past and past participle differed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Not to have the same traits or characteristics; to be unalike or distinct.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:differ",
+                    "These shoes only differ from those ones in having slightly longer laces."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, people, groups, etc.) To have diverging opinions, disagree.",
+                  "examples": [
+                    "I differ from the honourable baronet on both these subjects"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be separated in quantity.",
+                  "examples": [
+                    "The numbers 3 and 21 differ by 18."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From diff +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "differ (plural differs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program that diffs, a diff.",
+                  "examples": [
+                    "Synonym: diff"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

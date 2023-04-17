@@ -1,0 +1,145 @@
+{
+  "word": "difference",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English difference, from Old French difference, from Latin differentia (“difference”), from differēns (“different”), present participle of differre. Doublet of differentia.",
+        "Morphologically differ +‎ -ence."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "difference (countable and uncountable, plural differences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The quality of being different.",
+                  "examples": [
+                    "You need to learn to be more tolerant of difference.",
+                    "Antonyms: identity, sameness"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A characteristic of something that makes it different from something else.",
+                  "examples": [
+                    "There are three differences between these two pictures."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A disagreement or argument.",
+                  "examples": [
+                    "We have our little differences, but we are firm friends."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) Significant change in or effect on a situation or state.",
+                  "examples": [
+                    "It just won't make much difference to me.",
+                    "It just won't make much of a difference to anyone."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The result of a subtraction; sometimes the absolute value of this result.",
+                  "examples": [
+                    "The difference between 3 and 21 is 18."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Choice; preference.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) An addition to a coat of arms to distinguish two people's bearings which would otherwise be the same. See augmentation and cadency.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The quality or attribute which is added to those of the genus to constitute a species; a differentia.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic circuits) A Boolean operation which is true when the two input variables are different but is otherwise false; the XOR operation (\n  \n    \n      \n        \n          A\n          \n            \n              B\n              ¯\n            \n          \n          +\n          \n            \n              A\n              ¯\n            \n          \n          B\n        \n      \n    \n    {\\displaystyle \\scriptstyle A{\\overline {B}}+{\\overline {A}}B}\n  \n).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(relational algebra) The set of elements that are in one set but not another (\n  \n    \n      \n        \n          A\n          \n            \n              B\n              ¯\n            \n          \n        \n      \n    \n    {\\displaystyle \\scriptstyle A{\\overline {B}}}\n  \n).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "difference (third-person singular simple present differences, present participle differencing, simple past and past participle differenced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To distinguish or differentiate.",
+                  "examples": [
+                    "This simple spectation of the lungs is differenced from that which concomitates a pleurisy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
