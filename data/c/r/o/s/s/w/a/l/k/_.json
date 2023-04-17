@@ -1,0 +1,54 @@
+{
+  "word": "crosswalk",
+  "etymologies": [
+    {
+      "description": [
+        "From cross +‎ walk."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "crosswalk (plural crosswalks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A point designated for pedestrians to cross a street.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A mapping between equivalent elements (fields) in different database schemas.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "crosswalk (third-person singular simple present crosswalks, present participle crosswalking, simple past and past participle crosswalked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) To map equivalent elements (fields) in different database schemas.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
