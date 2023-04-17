@@ -1,0 +1,101 @@
+{
+  "word": "equivalence",
+  "etymologies": [
+    {
+      "description": [
+        "From French équivalence, from Medieval Latin aequivalentia."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "equivalence (countable and uncountable, plural equivalences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The condition of being equivalent or essentially equal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) An equivalence relation; ≡; ~",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, logic) The relationship between two propositions that are either both true or both false.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The quantity of the combining power of an atom, expressed in hydrogen units; the number of hydrogen atoms can combine with, or be exchanged for; valency.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A Boolean operation that is TRUE when both input variables are TRUE or both input variables are FALSE, but otherwise FALSE; the XNOR function.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A number in intersection theory. A positive-dimensional variety sometimes behaves formally as if it were a finite number of points; this number is its equivalence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(translation studies) The degree to which a term or text in one language is semantically similar to its translated counterpart.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "equivalence (third-person singular simple present equivalences, present participle equivalencing, simple past and past participle equivalenced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To be equivalent or equal to; to counterbalance.",
+                  "examples": [
+                    "[…]  whether the transgression of Eve seducing, did not exceed that of Adam seduced, or whether the resistibility of his reason did not equivalence the facility of her seduction, we shall referre it unto the Schoolman."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
