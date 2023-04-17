@@ -1,0 +1,73 @@
+{
+  "word": "covering",
+  "etymologies": [
+    {
+      "description": [
+        "Present participle or participial adjective from cover (verb) +‎ -ing; or, from Middle English participle form of coveren, keveren (“to cover”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "covering",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of cover",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English coverynge, -inge, keverynge, -inge [verbal noun of coveren, keveren (“to cover”)]; or, verbal noun from cover (verb) +‎ -ing."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "covering (countable and uncountable, plural coverings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) That which covers or conceals; a cover; something spread or laid over or wrapped about another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Action of the verb to cover.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A continuous map onto a topological space \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n, \n  \n    \n      \n        π\n        :\n        E\n        →\n        X\n      \n    \n    {\\displaystyle \\pi :E\\rightarrow X}\n  \n, such that there exists a discrete space \n  \n    \n      \n        D\n      \n    \n    {\\displaystyle D}\n  \n and for every \n  \n    \n      \n        x\n        ∈\n        X\n      \n    \n    {\\displaystyle x\\in X}\n  \n an open neighborhood \n  \n    \n      \n        U\n        ⊂\n        X\n      \n    \n    {\\displaystyle U\\subset X}\n  \n, such that \n  \n    \n      \n        \n          π\n          \n            −\n            1\n          \n        \n        (\n        U\n        )\n        =\n        \n          \n            ⨆\n            \n              d\n              ∈\n              D\n            \n          \n          \n            V\n            \n              d\n            \n          \n        \n      \n    \n    {\\displaystyle \\pi ^{-1}(U)=\\displaystyle \\bigsqcup _{d\\in D}V_{d}}\n  \n and \n  \n    \n      \n        π\n        \n          \n            |\n          \n          \n            \n              V\n              \n                d\n              \n            \n          \n        \n        :\n        \n          V\n          \n            d\n          \n        \n        →\n        U\n      \n    \n    {\\displaystyle \\pi |_{V_{d}}:V_{d}\\rightarrow U}\n  \n is a homeomorphism for every \n  \n    \n      \n        d\n        ∈\n        D\n      \n    \n    {\\displaystyle d\\in D}\n  \n.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
