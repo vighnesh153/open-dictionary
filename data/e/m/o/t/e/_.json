@@ -1,0 +1,73 @@
+{
+  "word": "emote",
+  "etymologies": [
+    {
+      "description": [
+        "The verb is a back-formation from emotion. The noun is derived from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "emote (plural emotes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, text messaging) A virtual action expressed to other users as a graphic or reported speech rather than a straightforward message.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, Twitch-speak) Short for emoticon.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "emote (third-person singular simple present emotes, present participle emoting, simple past and past participle emoted) (originally US)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To display or express (emotions, mental states, etc.) openly, particularly while acting, and especially in an excessive manner. [from early 20th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "To deliver (a speech), say (lines of a play, words), etc., in a dramatic or emotional manner, especially if overly so. [from early 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To display (excessive) emotion, especially while acting. [from early 20th c.]",
+                  "examples": [
+                    "Synonym: emotionalize"
+                  ]
+                },
+                {
+                  "meaning": "(Internet, text messaging) To express a virtual action, presented to other users as a graphic or reported speech, rather than sending a straightforward message.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
