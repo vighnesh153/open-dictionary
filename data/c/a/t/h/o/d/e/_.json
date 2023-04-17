@@ -1,0 +1,57 @@
+{
+  "word": "cathode",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek κατα- (kata-, “down”) and ὁδός (hodós, “journey, way”), forming the New Greek compound κάθοδος (káthodos, “way down, descent”). Coined by English polymath William Whewell in 1834 for Michael Faraday, who introduced it later that year."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cathode (plural cathodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity) An electrode, of a cell or other electrically polarized device, through which a positive current of electricity flows outwards (and thus, electrons flow inwards). It usually, but not always, has a positive voltage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, by extension) The electrode at which chemical reduction of cations takes place, usually resulting in the deposition of metal onto the electrode.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) The electrode from which electrons are emitted into a vacuum tube or gas-filled tube.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) That electrode of a semiconductor device which is connected to the n-type material of a p-n junction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
