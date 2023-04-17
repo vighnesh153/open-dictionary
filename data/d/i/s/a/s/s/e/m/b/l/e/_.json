@@ -1,0 +1,41 @@
+{
+  "word": "disassemble",
+  "etymologies": [
+    {
+      "description": [
+        "dis- +‎ assemble"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "disassemble (third-person singular simple present disassembles, present participle disassembling, simple past and past participle disassembled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To take to pieces; to reverse the process of assembly.",
+                  "examples": [
+                    "To perform the repair it was necessary to disassemble most of the mechanism."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To convert machine code to a human-readable, mnemonic form.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
