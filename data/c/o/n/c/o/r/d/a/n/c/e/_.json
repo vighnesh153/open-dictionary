@@ -1,0 +1,63 @@
+{
+  "word": "concordance",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French concordance, from Late Latin concordantia."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "concordance (countable and uncountable, plural concordances)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Agreement; accordance; consonance.",
+                  "examples": [
+                    "Synonyms: accordance, agreement, consonance"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, obsolete)  Agreement of words with one another; concord.",
+                  "examples": [
+                    "Synonyms: agreement, concord"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biblical) An alphabetical verbal index showing the places in the text of a book where each principal word may be found, with its immediate context in each place.",
+                  "examples": [
+                    "His knowledge of the Bible was such, that he might have been called a living concordance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computational linguistics) A list of occurrences of a word or phrase from a corpus, with the immediate context.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
