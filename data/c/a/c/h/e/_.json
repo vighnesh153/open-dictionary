@@ -1,0 +1,99 @@
+{
+  "word": "cache",
+  "etymologies": [
+    {
+      "description": [
+        "From French cache (as used by French Canadian trappers to mean “hiding place for stores”), from the verb cacher (“to hide”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cache (plural caches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A store of things that may be required in the future, which can be retrieved rapidly, protected or hidden in some way.",
+                  "examples": [
+                    "Members of the 29-man Discovery team laid down food caches to allow the polar team to travel light, hopping from food cache to food cache on their return journey."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A fast temporary storage where recently or frequently used information is stored to avoid having to reload it from a slower storage medium.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geocaching) A container containing treasure in a global treasure-hunt game.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cache (third-person singular simple present caches, present participle caching, simple past and past participle cached)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place in a cache.",
+                  "examples": [
+                    "And here the adventurers went ashore, unloaded, turned their canoe bottom up in the shelter of thick brush, and cached their supplies temporarily on a pole scaffold, out of reach of prowling depredators."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To store data in a cache.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cache (plural caches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Misspelling of cachet.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
