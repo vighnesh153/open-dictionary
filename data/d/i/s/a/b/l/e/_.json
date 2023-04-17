@@ -1,0 +1,67 @@
+{
+  "word": "disable",
+  "etymologies": [
+    {
+      "description": [
+        "dis- +‎ able"
+      ],
+      "adjectives": [
+        {
+          "description": "disable (comparative more disable, superlative most disable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Lacking ability; unable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "disable (third-person singular simple present disables, present participle disabling, simple past and past participle disabled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To render unable; to take away an ability of, as by crippling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly of a person) To impair the physical or mental abilities of; to cause a serious, permanent injury.",
+                  "examples": [
+                    "Falling off the horse disabled him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly electronics, computing) To deactivate, to make inoperational (especially of a function of an electronic or mechanical device).",
+                  "examples": [
+                    "The pilot had to disable the autopilot of his airplane."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
