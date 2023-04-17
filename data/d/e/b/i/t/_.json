@@ -1,0 +1,92 @@
+{
+  "word": "debit",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French debet, from Latin debitum (“what is owed, a debt”), neuter of debitus, past participle of debere (“to owe”); Doublet of debt."
+      ],
+      "adjectives": [
+        {
+          "description": "debit (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "of or relating to process of taking money from an account",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "of or relating to the debit card function of a debit card rather than its often available credit card function",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "debit (countable and uncountable, plural debits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In bookkeeping, an entry in the left hand column of an account.",
+                  "examples": [
+                    "A cash sale is recorded as debit on the cash account and as credit on the sales account."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sum of money taken out of a bank account. Thus called, because in bank's bookkeeping a cash withdrawal diminishes the amount of money held on the account, i.e. bank's debt to the customer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "debit (third-person singular simple present debits, present participle debiting, simple past and past participle debited)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make an entry on the debit side of an account.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To record a receivable in the bookkeeping.",
+                  "examples": [
+                    "We shall debit your account for the amount of the purchase.",
+                    "We shall debit the amount of your purchase to your account."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
