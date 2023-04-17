@@ -1,0 +1,50 @@
+{
+  "word": "expensive",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin expēnsīvus, from expendō; synchronically analyzable as expense +‎ -ive. In the sense of \"high-priced\" has largely displaced dear."
+      ],
+      "adjectives": [
+        {
+          "description": "expensive (comparative more expensive, superlative most expensive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Given to expending a lot of money; profligate, lavish.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having a high price or cost.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Taking a lot of system time or resources.",
+                  "examples": [
+                    "an unnecessarily expensive choice of algorithm"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
