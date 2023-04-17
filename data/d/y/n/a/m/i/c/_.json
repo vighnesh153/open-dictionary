@@ -1,0 +1,152 @@
+{
+  "word": "dynamic",
+  "etymologies": [
+    {
+      "description": [
+        "From French dynamique, from Ancient Greek δυναμικός (dunamikós, “powerful”), from δύναμις (dúnamis, “power”), from δύναμαι (dúnamai, “I am able”)."
+      ],
+      "adjectives": [
+        {
+          "description": "dynamic (comparative more dynamic, superlative most dynamic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Changing; active; in motion.",
+                  "examples": [
+                    "The environment is dynamic, changing with the years and the seasons.",
+                    "dynamic economy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Powerful; energetic.",
+                  "examples": [
+                    "He was a dynamic and engaging speaker."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to change and adapt.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Having to do with the volume of sound.",
+                  "examples": [
+                    "The dynamic marking in bar 40 is forte."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Happening at runtime instead of being predetermined at compile time.",
+                  "examples": [
+                    "dynamic allocation",
+                    "dynamic IP addresses",
+                    "the dynamic resizing of an array"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to dynamics, the branch of mechanics concerned with the effects of forces on the motion of objects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Of a verb: not stative, but fientive; indicating continued or progressive action on the part of the subject.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dynamic (plural dynamics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A characteristic or manner of an interaction; a behavior.",
+                  "examples": [
+                    "Watch the dynamic between the husband and wife when they disagree."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A moving force.",
+                  "examples": [
+                    "The study of fluid dynamics quantifies turbulent and laminar flows."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The varying loudness or volume of a song or the markings that indicate the loudness.",
+                  "examples": [
+                    "If you pay attention to the dynamics as you play, it's a very moving piece."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A symbol in a musical score that indicates the desired level of volume.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A verb that indicates continued or progressive action on the part of the subject.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
