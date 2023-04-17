@@ -1,0 +1,100 @@
+{
+  "word": "calendar",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English kalender, from Old French calendier, from Latin calendarium (“account book”), from kalendae (“the first day of the month”), from calō (“to announce solemnly, to call out (the sighting of the new moon)”), from Proto-Indo-European *kelh₁-. Doublet of calendarium."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "calendar (plural calendars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any system by which time is divided into days, weeks, months, and years.",
+                  "examples": [
+                    "The three principal calendars are the Gregorian, Jewish, and Islamic calendars."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A means to determine the date consisting of a document containing dates and other temporal information.",
+                  "examples": [
+                    "Write his birthday on the calendar hanging on the wall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A list of planned events.",
+                  "examples": [
+                    "The club has a busy calendar this year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An orderly list or enumeration of persons, things, or events; a schedule.",
+                  "examples": [
+                    "a calendar of bills presented in a legislative assembly;  a calendar of causes arranged for trial in court"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) An appointment book (US), appointment diary (UK)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "calendar (third-person singular simple present calendars, present participle calendaring, simple past and past participle calendared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) To set a date for a proceeding in court, usually done by a judge at a calendar call.",
+                  "examples": [
+                    "The judge agreed to calendar a hearing for pretrial motions for the week of May 15, but did not agree to calendar the trial itself on a specific date."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To enter or write in a calendar; to register.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
