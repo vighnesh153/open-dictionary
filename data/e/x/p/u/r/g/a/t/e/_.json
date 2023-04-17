@@ -1,0 +1,43 @@
+{
+  "word": "expurgate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin expurgātus, perfect passive participle of expurgō (“purge, cleanse, purify”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "expurgate (third-person singular simple present expurgates, present participle expurgating, simple past and past participle expurgated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To edit out (incorrect, offensive, or otherwise undesirable information) from a book or other publication; to cleanse; to purge.",
+                  "examples": [
+                    "The publisher decided to expurgate the love scene from the book, to make it more child-friendly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To undertake editing out incorrect, offensive, or otherwise undesirable information from (a book or other publication); to cleanse; to purge.",
+                  "examples": [
+                    "The publisher decided to expurgate the book, which meant removing the love scene."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
