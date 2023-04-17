@@ -1,0 +1,75 @@
+{
+  "word": "exponential",
+  "etymologies": [
+    {
+      "description": [
+        "exponent +‎ -ial"
+      ],
+      "adjectives": [
+        {
+          "description": "exponential",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to an exponent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Expressed in terms of a power of e.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Characterised by a rate of change that is proportional to the value of the varying quantity, or, equivalently, by a doubling or halving over successive fixed intervals of time or other parameter.",
+                  "examples": [
+                    "exponential growth, exponential decay",
+                    "There were two deaths on Monday, four on Tuesday, and eight on Wednesday. The rate of increase seems exponential."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(loosely) Characterised by a very rapid rate of change, especially increase.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "exponential (plural exponentials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Any function that has an exponent as an independent variable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

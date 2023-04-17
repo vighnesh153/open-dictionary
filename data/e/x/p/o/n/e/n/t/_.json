@@ -1,0 +1,70 @@
+{
+  "word": "exponent",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin expōnēns, present participle of expōnō (“to expose; to exhibit, display, set out; to explain”), from ex- (“out, away”) + pōnō (“to lay, place, put”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "exponent (plural exponents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who expounds, represents or advocates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The number by which a value (called the base) is said to be raised to a power in exponentiation: for example, the \n  \n    \n      \n        3\n      \n    \n    {\\displaystyle 3}\n  \n in \n  \n    \n      \n        \n          2\n          \n            3\n          \n        \n        =\n        8\n      \n    \n    {\\displaystyle 2^{3}=8}\n  \n.",
+                  "examples": [
+                    "Synonym: power"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, obsolete) The degree to which the root of a radicand is found, for example, the \n  \n    \n      \n        2\n      \n    \n    {\\displaystyle 2}\n  \n in \n  \n    \n      \n        \n          \n            r\n            \n              2\n            \n          \n        \n        =\n        b\n      \n    \n    {\\displaystyle {\\sqrt[{2}]{r}}=b}\n  \n.",
+                  "examples": [
+                    "Synonyms: degree, power"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A manifestation of a morphosyntactic property.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The part of a floating-point number that represents its exponent value.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
