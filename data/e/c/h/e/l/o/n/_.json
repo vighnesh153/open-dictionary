@@ -1,0 +1,78 @@
+{
+  "word": "echelon",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French échelon (“rung; echelon”), from échelle (“ladder”) + -on (“suffix forming diminutives”). Échelle is derived from Latin scāla (“ladder”), from scandō (“to ascend, climb”), from Proto-Indo-European *skend- (“to jump”)."
+      ],
+      "adjectives": [
+        {
+          "description": "echelon (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) Of a matrix: having undergone Gaussian elimination with the result that the leading coefficient or pivot (that is, the first nonzero number from the left) of a nonzero row is to the right of the pivot of the row above it, giving rise to a stepped appearance in the matrix.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "echelon (plural echelons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A level or rank in an organization, profession, or society.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cycling) A line of riders seeking maximum drafting in a crosswind, resulting in a diagonal line across the road.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A formation of troops, ships, etc., in diagonal parallel rows. [from late 18th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "echelon (third-person singular simple present echelons, present participle echeloning, simple past and past participle echeloned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military) To form troops into an echelon.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
