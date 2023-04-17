@@ -1,0 +1,108 @@
+{
+  "word": "controller",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English countreroller, from Anglo-Norman contreroulour and Middle French contreroleur (French contrôleur), from Medieval Latin contrārotulātor, from *contrārotulāre (from which control). By surface analysis, control +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "controller (plural controllers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who controls something.",
+                  "examples": [
+                    "The great controller of our fate / Deigned to be man, and lived in low estate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) Any electric or mechanical device for controlling a circuit or system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business) The chief accounting officer which audits, and manages the financial affairs of a company or government; a comptroller.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer hardware) A mechanism that controls or regulates the operation of a machine, especially a peripheral device in a computer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) A hardware device designed to allow the user to play video games.",
+                  "examples": [
+                    "Synonym: game controller"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) An iron block, usually bolted to a ship's deck, for controlling the running out of a chain cable. The links of the cable tend to drop into hollows in the block, and thus hold fast until disengaged.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(espionage) The person who supervises and handles communication with an agent in the field.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The subject of a control verb. See Control (linguistics)",
+                  "examples": [
+                    "The choice of controller is determined by the matrix verb. If, as in (30b) and (3la), the main verb does not subcategorize for an OBJ, then the controller is the matrix SUBJ. In this case the complement clause is interpreted as having the same subject as the main clause. If the main verb does take an OBJ, the controller is the matrix patient."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software architecture) In software applications using the model-view-controller design pattern, the part or parts of the application that treat input and output, forming an interface between models and views.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
