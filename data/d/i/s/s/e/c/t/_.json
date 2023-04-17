@@ -1,0 +1,68 @@
+{
+  "word": "dissect",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin dissectus past participle of dissecare (“to cut asunder, cut up”), from dis- (“asunder”) + secare (“to cut”); see section."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dissect (third-person singular simple present dissects, present participle dissecting, simple past and past participle dissected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To study an animal's anatomy by cutting it apart; to perform a necropsy or an autopsy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To study a plant or other organism's anatomy similarly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To analyze an idea in detail by separating it into its parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, anatomy, surgery) To separate muscles, organs, and so on without cutting into them or disrupting their architecture.",
+                  "examples": [
+                    "Now dissect the triceps away from its attachment on the humerus."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, pathology) Of an infection or foreign material, following the fascia separating muscles or other organs.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
