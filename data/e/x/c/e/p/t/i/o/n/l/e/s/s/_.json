@@ -1,0 +1,39 @@
+{
+  "word": "exceptionless",
+  "etymologies": [
+    {
+      "description": [
+        "exception +‎ -less."
+      ],
+      "adjectives": [
+        {
+          "description": "exceptionless",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "without exception",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Without the use of an exception-handling mechanism.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
