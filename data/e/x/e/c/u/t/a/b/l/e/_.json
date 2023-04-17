@@ -1,0 +1,47 @@
+{
+  "word": "executable",
+  "etymologies": [
+    {
+      "description": [
+        "execute +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "executable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being executed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "executable (plural executables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A file that can be run directly by a computer's hardware or a p-code interpreter with no further processing.",
+                  "examples": [
+                    "The program as written by the programmer is generally processed into an executable that can be run."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

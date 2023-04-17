@@ -1,0 +1,92 @@
+{
+  "word": "execute",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French executer (French exécuter), from Latin exsecutus, past participle of exsequor, from ex- (“out”) + sequor (“to follow”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "execute (third-person singular simple present executes, present participle executing, simple past and past participle executed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To kill, especially as punishment for a capital crime.",
+                  "examples": [
+                    "Coordinate term: murder",
+                    "There are certain states where it is lawful to execute prisoners convicted of certain crimes.",
+                    "According to international treaties, it is illegal to execute prisoners of war."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To carry out; to put into effect.",
+                  "examples": [
+                    "Your orders have been executed, sir!",
+                    "I'll execute your orders as soon as this meeting is adjourned."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To perform.",
+                  "examples": [
+                    "to execute a difficult piece of music brilliantly",
+                    "to execute a turn in ballet"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To carry out, to perform an act; to put into effect or cause to become legally binding or valid (as a contract) by so doing.",
+                  "examples": [
+                    "to execute a contract"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To start, launch or run",
+                  "examples": [
+                    "to execute a program",
+                    "Synonyms: start, launch, run, open"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To run, usually successfully.",
+                  "examples": [
+                    "The program executed, but data problems were discovered."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
