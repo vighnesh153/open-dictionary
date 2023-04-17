@@ -1,0 +1,65 @@
+{
+  "word": "concept",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French concept, from Latin conceptus (“a thought, purpose, also a conceiving, etc.”), from concipiō (“to take in, conceive”). Doublet of conceit. See conceive."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "concept (plural concepts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An abstract and general idea; an abstraction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Understanding retained in the mind, from experience, reasoning and imagination; a generalization (generic, basic form), or abstraction (mental impression), of a particular set of instances or occurrences (specific, though different, recorded manifestations of the concept).",
+                  "examples": [
+                    "Frege's concepts are very nearly propositional functions in the modern sense. Frege explicitly recognizes them as functions. Like Peirce's rhema, a concept is unsaturated. They are in some sense incomplete. Although Frege never gets beyond the metaphorical in his description of the incompleteness of concepts and other functions, one thing is clear: the distinction between objects and functions is the main division in his metaphysics. There is something special about functions that makes them very different from objects."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(generic programming) A description of supported operations on a type, including their syntax and semantics.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "concept (third-person singular simple present concepts, present participle concepting, simple past and past participle concepted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "to conceive; to dream up",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
