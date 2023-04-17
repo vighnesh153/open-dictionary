@@ -1,0 +1,60 @@
+{
+  "word": "commutative",
+  "etymologies": [
+    {
+      "description": [
+        "From French commuter (“to substitute or switch”) + -ative (“tending to”). See commute."
+      ],
+      "adjectives": [
+        {
+          "description": "commutative (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a binary operation) Such that the order in which the operands are taken does not affect their image under the operation.",
+                  "examples": [
+                    "Addition on the real numbers is commutative because for any real numbers \n  \n    \n      \n        s\n        ,\n        t\n      \n    \n    {\\displaystyle s,t}\n  \n, it is true that \n  \n    \n      \n        s\n        +\n        t\n        =\n        t\n        +\n        s\n      \n    \n    {\\displaystyle s+t=t+s}\n  \n.",
+                    "Addition and multiplication are commutative operations but subtraction and division are not."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of an algebraic structure) Having a commutative operation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a diagram of morphisms) Such that any two sequences of morphisms with the same initial and final positions compose to the same morphism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to exchange; interchangeable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
