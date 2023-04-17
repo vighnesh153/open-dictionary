@@ -1,0 +1,93 @@
+{
+  "word": "decimal",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Late Latin, Medieval Latin decimalis, from Latin decimus, from decem (“ten”) + adjective suffix -alis."
+      ],
+      "adjectives": [
+        {
+          "description": "decimal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic, computing) Concerning numbers expressed in decimal or mathematical calculations performed using decimal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "decimal (countable and uncountable, plural decimals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A number expressed in the base-ten system, (particularly) a fractional numeral written in this system.",
+                  "examples": [
+                    "What is 7⁄23 as a decimal?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, uncountable) The decimal system itself.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A decimal place.",
+                  "examples": [
+                    "Pi has a value of 3.142, to three decimals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A decimal point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decimal (third-person singular simple present decimals, present participle decimaling or decimalling, simple past and past participle decimaled or decimalled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To represent with numbers after a decimal point.",
+                  "examples": [
+                    "Single- decimaled entries, often originating in Whiting (Wh) or Wilson (OW; see p. 23, fn.3), are from SPL. To save space, examples cited in SPL are normally not repeated (examples therefore begin with \"Add:\"). Double- decimaled entries, again often based on Wh or OW, are \"new.\""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
