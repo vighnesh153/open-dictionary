@@ -1,0 +1,39 @@
+{
+  "word": "cylindricity",
+  "etymologies": [
+    {
+      "description": [
+        "cylindric +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cylindricity (countable and uncountable, plural cylindricities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, geometry) The quality of being cylindrical.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, geometry) A three-dimensional geometric tolerance that controls how much a feature can deviate from a perfect cylinder.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
