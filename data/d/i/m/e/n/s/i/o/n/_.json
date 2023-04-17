@@ -1,0 +1,125 @@
+{
+  "word": "dimension",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin dīmēnsiō, dīmēnsiōnem."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dimension (plural dimensions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A single aspect of a given thing.",
+                  "examples": [
+                    "This film can be enjoyed on many dimensions - the script is great, the acting is realistic, and the special effects will simply take you aback."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A measure of spatial extent in a particular direction, such as height, width or breadth, or depth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A construct whereby objects or individuals can be distinguished.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The number of independent coordinates needed to specify uniquely the location of a point in a space; also, any of such independent coordinates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) The number of elements of any basis of a vector space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) One of the physical properties that are regarded as fundamental measures of a physical quantity, such as mass, length and time.",
+                  "examples": [
+                    "The dimension of velocity is length divided by time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Any of the independent ranges of indices in a multidimensional array.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(science fiction, fantasy) A universe or plane of existence.",
+                  "examples": [
+                    "a machine that lets you travel to a parallel dimension."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dimension (third-person singular simple present dimensions, present participle dimensioning, simple past and past participle dimensioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To mark, cut or shape something to specified dimensions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To specify the size of (an array or similar data structure); to allocate.",
+                  "examples": [
+                    "Hyponym: redimension"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
