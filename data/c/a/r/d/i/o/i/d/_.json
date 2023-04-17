@@ -1,0 +1,54 @@
+{
+  "word": "cardioid",
+  "etymologies": [
+    {
+      "description": [
+        "cardio- +‎ -oid"
+      ],
+      "adjectives": [
+        {
+          "description": "cardioid (comparative more cardioid, superlative most cardioid)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having this characteristic shape",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a microphone) sensitive in front, but not behind or at the sides",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cardioid (plural cardioids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) An epicycloid with exactly one cusp; the plane curve with polar equation \n  \n    \n      \n        ρ\n        =\n        1\n        +\n        cos\n        \n        θ\n      \n    \n    {\\displaystyle \\rho =1+\\cos \\,\\theta }\n  \n - approximately heart-shaped",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
