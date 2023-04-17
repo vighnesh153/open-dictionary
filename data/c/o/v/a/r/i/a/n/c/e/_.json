@@ -1,0 +1,43 @@
+{
+  "word": "covariance",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ variance"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "covariance (plural covariances)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A statistical measure defined as \n  \n    \n      \n        \n          Cov\n          ⁡\n          (\n          X\n          ,\n          Y\n          )\n          =\n          E\n          ⁡\n          (\n          (\n          X\n          −\n          μ\n          )\n          (\n          Y\n          −\n          ν\n          )\n          )\n        \n      \n    \n    {\\displaystyle \\scriptstyle \\operatorname {Cov} (X,Y)=\\operatorname {E} ((X-\\mu )(Y-\\nu ))}\n  \n given two real-valued random variables X and Y, with expected values \n  \n    \n      \n        \n          E\n          (\n          X\n          )\n          \n          =\n          \n          μ\n        \n      \n    \n    {\\displaystyle \\scriptstyle E(X)\\,=\\,\\mu }\n  \n and \n  \n    \n      \n        \n          E\n          (\n          Y\n          )\n          \n          =\n          \n          ν\n        \n      \n    \n    {\\displaystyle \\scriptstyle E(Y)\\,=\\,\\nu }\n  \n.",
+                  "examples": [
+                    "The elements of such a correlation matrix do not have asymptotic variances and covariances of the form (1.2), even if S has a Wishart distribution."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) The conversion of data types from wider to narrower in certain situations.",
+                  "examples": [
+                    "Coordinate term: contravariance"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "covariable",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ variable"
+      ],
+      "adjectives": [
+        {
+          "description": "covariable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Possibly predictive of the outcome under study.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "covariable (plural covariables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "covariate",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

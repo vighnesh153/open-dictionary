@@ -1,0 +1,63 @@
+{
+  "word": "covariant",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ variant"
+      ],
+      "adjectives": [
+        {
+          "description": "covariant (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) (Of a functor) which preserves composition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) Using or relating to covariance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "covariant (plural covariants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A bihomogeneous polynomial in x, y, ... and the coefficients of some homogeneous form in x, y, ... that is invariant under some group of linear transformations.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) The variety defined by a covariant.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
