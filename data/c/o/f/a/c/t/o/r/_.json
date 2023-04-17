@@ -1,0 +1,66 @@
+{
+  "word": "cofactor",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ factor"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cofactor (plural cofactors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A contributing factor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) A substance, especially a coenzyme or a metal, that must be present for an enzyme to function.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) A molecule that binds to and regulates the activity of a protein.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The result of a number being divided by one of its factors.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra, of a matrix) The signed determinant of the submatrix produced by removing the row and column containing a specified element; primarily used in the recursive definition and calculation of the determinant of a matrix.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
