@@ -1,0 +1,57 @@
+{
+  "word": "diameter",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French diametre (French diamètre), from Latin diametrus, from Ancient Greek διάμετρος (diámetros) (γραμμή (grammḗ)) (diametros grammē, “line measuring across”), from διά (diá, “across”) + μέτρον (métron, “measure”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "diameter (plural diameters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Any straight line between two points on the circumference of a circle that passes through the centre/center of the circle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The length of such a line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The maximum distance between any two points in a metric space",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) The maximum eccentricity over all vertices in a graph.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
