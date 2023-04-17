@@ -1,0 +1,92 @@
+{
+  "word": "certificate",
+  "etymologies": [
+    {
+      "description": [
+        "From French certificat."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "certificate (plural certificates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A document containing a certified statement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A document evidencing ownership or debt.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(education) A document serving as evidence that a person has completed an educational course, issued either by an institution not authorised to grant diplomas, or to a student not qualifying for a diploma.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) The information needed in order to verify a positive answer to a problem.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Ellipsis of public key certificate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, Ireland) A motion picture age rating.",
+                  "examples": [
+                    "The film is certificate 15."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "certificate (third-person singular simple present certificates, present participle certificating, simple past and past participle certificated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To supply with a certificate, especially following certification.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
