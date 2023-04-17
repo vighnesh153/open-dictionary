@@ -1,0 +1,140 @@
+{
+  "word": "decay",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English decayen, dekeyen (“to decrease, diminish”), from Anglo-Norman decaeir (“to fall away, decay, decline”), from Medieval Latin *dēcadere, restored form of Latin decidere (“to fall away, fail, sink, perish”), from de (“down”) + cadere (“to fall”); compare decadent and decadence."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "decay (countable and uncountable, plural decays)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process or result of being gradually decomposed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A deterioration of condition; loss of status or fortune.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Overthrow, downfall, ruin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The situation, in programming languages such as C, where an array loses its type and dimensions and is reduced to a pointer, for example by passing it to a function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decay (third-person singular simple present decays, present participle decaying, simple past and past participle decayed)",
+          "definitionGroups": [
+            {
+              "group": "(intransitive) To deteriorate, to get worse, to lose strength or health, to decline in quality.",
+              "entries": [
+                {
+                  "meaning": "(intransitive, electronics, of storage media or the data on them) To undergo bit rot, that is, gradual degradation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive, computing, of software) To undergo software rot, that is, to fail to be updated in a changing environment, so as to eventually become legacy or obsolete.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive, physics, of a satellite's orbit) To undergo prolonged reduction in altitude (above the orbited body).",
+                  "examples": [
+                    "Damaged on lift-off, Skylab was left in orbit until its orbit decayed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of organic material) To rot, to go bad.",
+                  "examples": [
+                    "The cat's body decayed rapidly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, transitive, physics, chemistry, of an unstable atom) To change by undergoing fission, by emitting radiation, or by capturing or losing one or more electrons; to undergo radioactive decay.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, transitive, physics, of a quantum system) To undergo optical decay, that is, to relax to a less excited state, usually by emitting a photon or phonon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, aviation) Loss of airspeed due to drag.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to rot or deteriorate.",
+                  "examples": [
+                    "The extreme humidity decayed the wooden sculptures in the museum's collection in a matter of years."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, intransitive) Of an array: to lose its type and dimensions and be reduced to a pointer, for example when passed to a function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
