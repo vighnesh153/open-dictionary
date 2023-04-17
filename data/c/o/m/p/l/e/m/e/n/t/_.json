@@ -1,0 +1,306 @@
+{
+  "word": "complement",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English complement, from Latin complementum (“that which fills up or completes”), from compleō (“I fill up, I complete”) (English complete). Doublet of compliment."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "complement (countable and uncountable, plural complements)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) Something (or someone) that completes; the consummation. [from 14th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The act of completing something, or the fact of being complete; completion, completeness, fulfilment. [15th–18th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The totality, the full amount or number which completes something. [from 16th c.]",
+                  "examples": [
+                    "Some 11 members of Somerton council's complement of 15 stepped down on Tuesday."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Something which completes one's equipment, dress etc.; an accessory. [16th–17th c.]",
+                  "examples": [
+                    "A doleful case desires a doleful song,",
+                    "Without vain art or curious complements."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The whole working force of a vessel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) Fullness (of the moon). [from 17th c.]",
+                  "examples": [
+                    "The sixth Bishop of Ely had very curious arms, for he bore both sun and moon on his shield, the sun \"in his splendour\" and the moon \"in her complement\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy, geometry) An angle which, together with a given angle, makes a right angle. [from 18th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something which completes, something which combines with something else to make up a complete whole; loosely, something perceived to be a harmonious or desirable partner or addition. [from 19th c.]",
+                  "examples": [
+                    "History is the complement of poetry."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, linguistics) A word or group of words that completes a grammatical construction in the predicate and that describes or is identified with the subject or object. [from 19th c.]",
+                  "examples": [
+                    "Why has our grammar broken down at this point? It is not difficult to see why. For, we have failed to make any provision for the fact that only some Verbs in English (i.e. Verbs like those italicized in (5) (a), traditionally called Transitive Verbs) subcategorize ( = ‘takeʼ) an immediately following NP Complement, whereas others (such as those italicised in (5) (b), traditionally referred to as Intransitive Verbs) do not."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) An interval which, together with the given interval, makes an octave. [from 19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(optics) The color which, when mixed with the given color, gives black (for mixing pigments) or white (for mixing light). [from 19th c.]",
+                  "examples": [
+                    "The complement of blue is orange."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) Given two sets, the set containing one set's elements that are not members of the other set (whether a relative complement or an absolute complement). [from 20th c.]",
+                  "examples": [
+                    "The complement of the odd numbers is the even numbers, relative to the natural numbers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(immunology) One of several blood proteins that work with antibodies during an immune response. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An expression related to some other expression such that it is true under the same conditions that make other false, and vice versa. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A voltage level with the opposite logical sense to the given one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A bit with the opposite value to the given one; the logical complement of a number.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, mathematics) The diminished radix complement of a number; the nines' complement of a decimal number; the ones' complement of a binary number.",
+                  "examples": [
+                    "The complement of \n  \n    \n      \n        \n          01100101\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle 01100101_{2}}\n  \n is \n  \n    \n      \n        \n          10011010\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle 10011010_{2}}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, mathematics) The radix complement of a number; the two's complement of a binary number.",
+                  "examples": [
+                    "The complement of \n  \n    \n      \n        \n          01100101\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle 01100101_{2}}\n  \n is \n  \n    \n      \n        \n          10011011\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle 10011011_{2}}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, mathematics) The numeric complement of a number.",
+                  "examples": [
+                    "The complement of −123 is 123."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) A nucleotide sequence in which each base is replaced by the complementary base of the given sequence: adenine (A) by thymine (T) or uracil (U), cytosine (C) by guanine (G), and vice versa.",
+                  "examples": [
+                    "A DNA molecule is formed from two strands, each of which is the complement of the other."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obsolete spelling or misspelling of compliment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) Synonym of alexin",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(economics) Abbreviation of complementary good.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "complement (third-person singular simple present complements, present participle complementing, simple past and past participle complemented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To complete, to bring to perfection, to make whole.",
+                  "examples": [
+                    "We believe your addition will complement the team."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To provide what the partner lacks and lack what the partner provides, thus forming part of a whole.",
+                  "examples": [
+                    "The flavors of the pepper and garlic complement each other, giving a very rich taste in combination.",
+                    "I believe our talents really complement each other."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To change a voltage, number, color, etc. to its complement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Old form of compliment",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
