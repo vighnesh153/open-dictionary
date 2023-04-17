@@ -1,0 +1,89 @@
+{
+  "word": "exploit",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French esploit (noun), esploitier (verb)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "exploit (plural exploits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A heroic or extraordinary deed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An achievement.",
+                  "examples": [
+                    "The first trek to the summit of Mount Everest was a stunning exploit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program or technique that exploits a vulnerability in other software.",
+                  "examples": [
+                    "For example, you can create PE files that are valid PDF exploits or valid ZIP files, valid JPG files, and so on."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, Internet, video games) An action or technique that takes advantage of the conditions of a video game to gain an advantage, or to disadvantage others.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "exploit (third-person singular simple present exploits, present participle exploiting, simple past and past participle exploited)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use for one’s own advantage.",
+                  "examples": [
+                    "Synonyms: take advantage of, use"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To forcibly deprive (someone) of something to which she or he has a natural right for one's own benefit.",
+                  "examples": [
+                    "Materialistic people who exploit others will come to a bad end."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
