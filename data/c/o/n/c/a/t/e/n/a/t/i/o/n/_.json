@@ -1,0 +1,59 @@
+{
+  "word": "concatenation",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin concatenātiō. Related to chain."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "concatenation (countable and uncountable, plural concatenations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A series of links united; a series or order of things depending on each other, as if linked together; a chain, a succession.",
+                  "examples": [
+                    "Try and penetrate with our limited means of the secrets of nature and you will find that, behind all the discernible concatenations, there remains something subtle, intangible and inexplicable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The application of these series of links.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The operation of joining multiple character strings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A character string formed by joining multiple character strings.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
