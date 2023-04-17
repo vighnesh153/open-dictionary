@@ -1,0 +1,137 @@
+{
+  "word": "converse",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French converser, from Latin conversor (“live, have dealings with”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "converse",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now literary) Free verbal interchange of thoughts or views; conversation; chat.",
+                  "examples": [
+                    "Twice ere the sun descends, with zeal inspir'd, / From the vain converse of the world retir'd, / She reads the psalms and chapters for the day  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "converse (third-person singular simple present converses, present participle conversing, simple past and past participle conversed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(formal, intransitive) To talk; to engage in conversation.",
+                  "examples": [
+                    "Synonyms: (nonstandard) conversate, (informal) convo"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(followed by with) To keep company; to hold intimate intercourse; to commune.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To have knowledge of (a thing), from long intercourse or study.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Latin conversus (“turned around”), past participle of converto (“turn about”)."
+      ],
+      "adjectives": [
+        {
+          "description": "converse (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "opposite; reversed in order or relation; reciprocal",
+                  "examples": [
+                    "a converse proposition"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "converse (plural converses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The opposite or reverse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Of a proposition or theorem of the form: given that \"If A is true, then B is true\", then \"If B is true, then A is true.\".",
+                  "examples": [
+                    "All trees are plants, but the converse, that all plants are trees, is not true."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semantics) One of a pair of terms that name or describe a relationship from opposite perspectives; converse antonym; relational antonym.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
