@@ -1,0 +1,627 @@
+{
+  "word": "double",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English double, from Old French doble, double, from Latin duplus (“twofold”). Doublet of doppio and duple."
+      ],
+      "adjectives": [
+        {
+          "description": "double (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Made up of two matching or complementary elements.",
+                  "examples": [
+                    "The closet has double doors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of twice the quantity.",
+                  "examples": [
+                    "Give me a double serving of mashed potatoes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a family relationship, related on both the maternal and paternal sides of a family.",
+                  "examples": [
+                    "He's my double cousin as my mother's sister married my father's brother."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Designed for two users.",
+                  "examples": [
+                    "a double room"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Folded in two; composed of two layers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Stooping; bent over.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having two aspects; ambiguous.",
+                  "examples": [
+                    "a double meaning"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "False, deceitful, or hypocritical.",
+                  "examples": [
+                    "a double life"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of flowers, having more than the normal number of petals.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Of an instrument, sounding an octave lower.",
+                  "examples": [
+                    "a double bass"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Of time, twice as fast.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "double (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Twice over; twofold; doubly.",
+                  "examples": [
+                    "I was double their age."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Two together; two at a time. (especially in see double)",
+                  "examples": [
+                    "There are only a few beds, so some of the children will have to sleep double for the night."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "double (plural doubles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Twice the number, amount, size, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who resembles and stands in for another person, often for safety purposes",
+                  "examples": [
+                    "Saddam Hussein was rumored to have many doubles."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A drink with two portions of alcohol.",
+                  "examples": [
+                    "On second thought, make that a double."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A ghostly apparition of a living person; a doppelgänger.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sharp turn, especially a return on one's own tracks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A redundant item for which an identical item already exists.",
+                  "examples": [
+                    "I have more than 200 stamps in my collection but they're not all unique: some are doubles.",
+                    "Before printing the photos, Liam deleted the doubles."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball) A two-base hit.",
+                  "examples": [
+                    "The catcher hit a double to lead off the ninth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bridge) A call that increases certain scoring points if the last preceding bid becomes the contract.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(billiards) A strike in which the object ball is struck so as to make it rebound against the cushion to an opposite pocket.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bet on two horses in different races in which any winnings from the first race are placed on the horse in the later race.",
+                  "examples": [
+                    "Not only did I collect on the double; I had the win and the place money as well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(darts) The narrow outermost ring on a dartboard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(darts) A hit on this ring.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dominoes) A tile that has the same value (i.e., the same number of pips) on both sides.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A double-precision floating-point number.",
+                  "examples": [
+                    "The sine function returns a double."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(soccer) Two competitions, usually one league and one cup, won by the same team in a single season.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rowing) A boat for two scullers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) The feat of scoring twice in one game.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, chiefly swimming and track) The feat of winning two events in a single meet or competition.",
+                  "examples": [
+                    "In 1996, Michael Johnson achieved a double by winning both the 200 and 400 meter dashes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A former French coin worth one-sixth of a sou.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical, Guernsey) A copper coin worth one-eighth of a penny.",
+                  "examples": [
+                    "As for doubles, they are not worth anything now; and I have still got an egg-cupful my mother used to keep handy to give the baker change from a farthing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Playing the same part on two instruments, alternately.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Christianity) A double feast.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Synonym of double-quick (“fast marching pace”)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "double (third-person singular simple present doubles, present participle doubling, simple past and past participle doubled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To multiply by two.",
+                  "examples": [
+                    "The company doubled their earnings per share over last quarter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To increase by 100%, to become twice as large in size.",
+                  "examples": [
+                    "Our earnings have doubled in the last year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be the double of; to exceed by twofold; to contain or be worth twice as much as.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fold over so as to make two folds.",
+                  "examples": [
+                    "To make a pleat, double the material at the waist."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) (sometimes followed by up) To clench (a fist).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball) To get a two-base hit.",
+                  "examples": [
+                    "The batter doubled into the corner."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) (often followed by together or up) To join or couple.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To repeat exactly; copy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive with as) To serve a second role or have a second purpose.",
+                  "examples": [
+                    "A spork is a kind of fork that doubles as a spoon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, sometimes with \"for\") To act as substitute for (another theatrical performer in a certain role, etc).",
+                  "examples": [
+                    "Laforêt, who (as the French express it), doubles Lainez, that is, performs the same characters in his absence."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater) To play (both one part and another, in the same play, etc).",
+                  "examples": [
+                    "When, therefore, Briggs, the sedate, middle-aged individual, who in the Markham household doubles the roles of butler and valet, makes his  appearance, his master affects to be in a great hurry, looks at his watch, and says :  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To turn sharply, following a winding course.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To sail around (a headland or other point).",
+                  "examples": [
+                    "Sailing along the coast, he doubled the promontory of Carthage."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To duplicate (a part) either in unison or at the octave above or below it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, intransitive, usually followed by \"on\") To be capable of performing (upon an additional instrument).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bridge) To make a call that will double certain scoring points if the preceding bid becomes the contract.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games, intransitive) To double down.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(billiards, snooker, pool) To cause (a ball) to rebound from a cushion before entering the pocket.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To go or march at twice the normal speed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To multiply the strength or effect of by two.",
+                  "examples": [
+                    "Sorry, this store does not double coupons."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) To unite, as ranks or files, so as to form one from each two.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(radio, informal, of a station) To transmit simultaneously on the same channel as another station, either unintentionally or deliberately, causing interference.",
+                  "examples": [
+                    "Could you please repeat your last transmission? Another station was doubling with you."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(espionage, intransitive) To operate as a double agent.",
+                  "examples": [
+                    "Was this simply the cover name of an Allied spy-code named the Brass Monkey?  […]  The possibility that the Brass Monkey himself was \"doubling\" (with headquarters' approval, of course) is too logical  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
