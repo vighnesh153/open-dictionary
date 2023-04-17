@@ -1,0 +1,237 @@
+{
+  "word": "code",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English code (“system of law”), from Old French code (“system of law”), from Latin cōdex, later form of caudex (“the stock or stem of a tree, a board or tablet of wood smeared over with wax, on which the ancients originally wrote; hence, a book, a writing.”). Doublet of codex."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "code (countable and uncountable, plural codes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A short symbol, often with little relation to the item it represents.",
+                  "examples": [
+                    "This flavour of soup has been assigned the code WRT-9."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A body of law, sanctioned by legislation, in which the rules of law to be specifically applied by the courts are set forth in systematic form; a compilation of laws by public authority; a digest.",
+                  "examples": [
+                    "the mild and impartial spirit which pervades the Code compiled under Canute"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any system of principles, rules or regulations relating to one subject.",
+                  "examples": [
+                    "The medical code is a system of rules for the regulation of the professional conduct of physicians.",
+                    "The naval code is a system of rules for making communications at sea by means of signals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A set of rules for converting information into another form or representation.",
+              "entries": [
+                {
+                  "meaning": "By synecdoche: a codeword, code point, an encoded representation of a character, symbol, or other entity.",
+                  "examples": [
+                    "The ASCII code of \"A\" is 65."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A message represented by rules intended to conceal its meaning.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A cryptographic system using a codebook that converts words or phrases into codewords.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, uncountable) Instructions for a computer, written in a programming language; the input of a translator, an interpreter or a browser, namely: source code, machine code, bytecode.",
+                  "examples": [
+                    "Object-oriented C++ code is easier to understand for a human than C code.",
+                    "I wrote some code to reformat text documents.",
+                    "This HTML code may be placed on your web page."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(scientific programming) A program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A particular lect or language variety.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) An emergency requiring situation-trained members of the staff.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A set of unwritten rules that bind a social group.",
+                  "examples": [
+                    "girl code"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "code (third-person singular simple present codes, present participle coding, simple past and past participle coded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To write software programs.",
+                  "examples": [
+                    "I learned to code on an early home computer in the 1980s."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To add codes to a dataset.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To categorise by assigning identifiers from a schedule, for example CPT coding for medical insurance purposes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) To encode.",
+                  "examples": [
+                    "We should code the messages we send out on Usenet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics, intransitive) To encode a protein.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) To call a hospital emergency code.",
+                  "examples": [
+                    "coding in the CT scanner"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, medicine) To go into a state where a hospital emergency code is required to save one's life.",
+                  "examples": [
+                    "He coded out of nowhere"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From code blue, a medical emergency."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "code (third-person singular simple present codes, present participle coding, simple past and past participle coded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Of a patient, to suffer a sudden medical emergency (a code blue) such as cardiac arrest.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

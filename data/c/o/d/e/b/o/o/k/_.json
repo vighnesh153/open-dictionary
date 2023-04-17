@@ -1,0 +1,39 @@
+{
+  "word": "codebook",
+  "etymologies": [
+    {
+      "description": [
+        "code +‎ book."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "codebook (plural codebooks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A book, table, database, or other object that stores the mapping between plaintext words or phrases and their equivalents in a code.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) A lookup table.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
