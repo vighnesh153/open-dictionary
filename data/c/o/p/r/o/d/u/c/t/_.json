@@ -1,0 +1,43 @@
+{
+  "word": "coproduct",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ product"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "coproduct (plural coproducts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of multiple products that are produced at the same time, or by the same process",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The colimit of two (or more) objects, without regard to any morphisms between them.",
+                  "examples": [
+                    "The coproduct is a structure constructed from several similar structures, equipped with appropriate inclusion maps, which generalises the disjoint union of sets, of topological spaces and the free product of groups.",
+                    "Hyponyms: disjoint union, direct sum, free product, wedge sum",
+                    "Meronym: inclusion"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

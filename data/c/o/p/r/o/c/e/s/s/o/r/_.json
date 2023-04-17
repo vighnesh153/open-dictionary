@@ -1,0 +1,30 @@
+{
+  "word": "coprocessor",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ processor"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "coprocessor (plural coprocessors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer hardware) An additional microprocessor used to supplement the functionality of the central processing unit, performing tasks such as floating-point arithmetic (floating-point unit) or graphics calculations (graphics processing unit).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
