@@ -1,0 +1,74 @@
+{
+  "word": "collocation",
+  "etymologies": [
+    {
+      "description": [
+        "1605. Learned borrowing from Latin collocātiō (“a putting together”). By surface analysis, col- (“together”) +‎ location. The technical sense in linguistics was established in 1951, although it may actually be earlier."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "collocation (countable and uncountable, plural collocations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The grouping or juxtaposition of things, especially words or sounds.",
+                  "examples": [
+                    "Everything in fact depends in Chinese on the proper collocation of words in a sentence. Thus ngò tà ni means “I beat thee;” but ni tà ngò would mean “Thou beatest me.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Such a specific grouping.",
+                  "examples": [
+                    "We said at first breāk fâst—“I broke fast at such an hour this morning:” he, or they, who first ventured to say I breakfasted were guilty of as heinous a violation of grammatical rule as he would be who should now declare I takedinnered, instead of I took dinner; but good usage came over to their side and ratified the blunder, because the community were minded to give a specific name to their earliest meal and to the act of partaking of it, and therefore converted the collocation breākfâst into the real compound brĕakfast."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, translation studies) A sequence of words or terms that co-occur more often than would be expected by chance (i.e., the statistically significant placement of particular words in a language), often representing an established name for, or idiomatic way of conveying, a particular semantic concept.",
+                  "examples": [
+                    "Hyponyms: noun phrase, multiword term, open compound term, verb phrase, adjective phrase"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A method of finding an approximate solution of an ordinary differential equation \n  \n    \n      \n        L\n        [\n        y\n        ]\n        =\n        0\n      \n    \n    {\\displaystyle L[y]=0}\n  \n by determining coefficients in an expansion \n  \n    \n      \n        y\n        (\n        x\n        )\n        =\n        \n          y\n          \n            0\n          \n        \n        (\n        x\n        )\n        +\n        \n          ∑\n          \n            l\n            =\n            0\n          \n          \n            q\n          \n        \n        \n          α\n          \n            l\n          \n        \n        \n          y\n          \n            l\n          \n        \n        (\n        x\n        )\n      \n    \n    {\\textstyle y(x)=y_{0}(x)+\\sum _{l=0}^{q}\\alpha _{l}y_{l}(x)}\n  \n so as to make \n  \n    \n      \n        L\n        [\n        y\n        ]\n      \n    \n    {\\displaystyle L[y]}\n  \n vanish at prescribed points; the expansion with the coefficients thus found is the sought approximation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A service allowing multiple customers to locate network, server, and storage gear and connect them to a variety of telecommunications and network service providers, at a minimum of cost and complexity.",
+                  "examples": [
+                    "As usual, nothing of significance will be asked, and most certainly, answered, but do expect the dollar (and, inversely, ES) to go up, then down, then up, and so forth as random vacuum tubes blow in NYSE's ultramodern Mahwah collocation facility."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
