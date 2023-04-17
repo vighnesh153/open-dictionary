@@ -1,0 +1,30 @@
+{
+  "word": "epimorphism",
+  "etymologies": [
+    {
+      "description": [
+        "epi- +‎ morphism"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "epimorphism (plural epimorphisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A morphism p such that for any other pair of morphisms f and g, if \n  \n    \n      \n        f\n        ∘\n        p\n        =\n        g\n        ∘\n        p\n      \n    \n    {\\displaystyle f\\circ p=g\\circ p}\n  \n, then f = g.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
