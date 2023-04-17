@@ -1,0 +1,71 @@
+{
+  "word": "expense",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English expense, from Anglo-Norman expense and Old French espense, from Late Latin expēnsa, from Latin expendō. See expend."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "expense (countable and uncountable, plural expenses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A spending or consuming, often a disbursement of funds.",
+                  "examples": [
+                    "She went to great expense to ensure her children would get the best education.",
+                    "Buying the car was a big expense, but will be worth it in the long run.",
+                    "We had a training weekend in New York, at the expense of our company."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The elimination or consumption of something, sometimes with the notion of loss or damage to the thing eliminated.",
+                  "examples": [
+                    "Jones reached the final at the expense of Smith, who couldn't beat him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Loss.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "expense (third-person singular simple present expenses, present participle expensing, simple past and past participle expensed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To charge a cost against an expense account; to bill something to the company for which one works.",
+                  "examples": [
+                    "It should be acceptable to expense a business lunch with a client."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
