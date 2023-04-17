@@ -1,0 +1,131 @@
+{
+  "word": "chart",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French charte (“card, map”), from Late Latin charta (“paper, card, map”), Latin charta (“papyrus, writing”), from Ancient Greek χάρτης (khártēs, “papyrus, thin sheet”). See charter, card, carte."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "chart (plural charts)",
+          "definitionGroups": [
+            {
+              "group": "A map.",
+              "entries": [
+                {
+                  "meaning": "A map illustrating the geography of a specific phenomenon.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A navigator's map.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A systematic non-narrative presentation of data.",
+              "entries": [
+                {
+                  "meaning": "A tabular presentation of data; a table.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A diagram.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A graph.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A record of a patient's diagnosis, care instructions, and recent history.",
+                  "examples": [
+                    "I snuck a look at his chart. It doesn't look good."
+                  ]
+                },
+                {
+                  "meaning": "A ranked listing of competitors, as of recorded music.",
+                  "examples": [
+                    "They're at the top of the charts again this week."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A written deed; a charter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(differential geometry, topology) Synonym of coordinate chart.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "chart (third-person singular simple present charts, present participle charting, simple past and past participle charted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw a chart or map of.",
+                  "examples": [
+                    "chart the seas"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw or figure out (a route or plan).",
+                  "examples": [
+                    "Let's chart how we're going to get from here to there.",
+                    "We are on a course for disaster without having charted it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To record systematically.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a record or artist) To appear on a hit-recording chart.",
+                  "examples": [
+                    "The song has charted for 15 weeks!",
+                    "The band first charted in 1994."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
