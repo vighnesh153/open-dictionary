@@ -1,0 +1,67 @@
+{
+  "word": "encode",
+  "etymologies": [
+    {
+      "description": [
+        "en- +‎ code"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "encode (plural encodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An encoding operation.",
+                  "examples": [
+                    "When each encode is finished a notification will appear on your screen to let you know it's completed  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "encode (third-person singular simple present encodes, present participle encoding, simple past and past participle encoded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convert (plain text) into code.",
+                  "examples": [
+                    "encode a secret message to be sent"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, communication) To convert source information into another form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) To constitute the code necessary for the biosynthesis of a protein by means of a matrix so as to transcribe DNA material.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
