@@ -1,0 +1,191 @@
+{
+  "word": "false",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English false, fals, from Old English fals (“false; counterfeit; fraudulent; wrong; mistaken”), from Latin falsus (“counterfeit, false; falsehood”), perfect passive participle of fallō (“deceive”). Reinforced in Middle English by Anglo-Norman and Old French fals, faus. Compare Scots fals, false, Saterland Frisian falsk, German falsch, Dutch vals, Swedish and Danish falsk; all from Latin falsus. Displaced native Middle English les, lese, from Old English lēas (“false”); See lease, leasing. Doublet of faux.",
+        "The verb is from Middle English falsen, falsien, from Old French falser, from Latin falsō (“falsify”), itself also from falsus; compare French fausser (“to falsify, to distort”)."
+      ],
+      "adjectives": [
+        {
+          "description": "false (comparative falser, superlative falsest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Untrue, not factual, factually incorrect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Based on factually incorrect premises.",
+                  "examples": [
+                    "false legislation, false punishment"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Spurious, artificial.",
+                  "examples": [
+                    "false teeth"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Uttering falsehood; dishonest or deceitful.",
+                  "examples": [
+                    "a false witness"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not faithful or loyal, as to obligations, allegiance, vows, etc.; untrue; treacherous.",
+                  "examples": [
+                    "a false friend, lover, or subject;  false to promises"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not well founded; not firm or trustworthy; erroneous.",
+                  "examples": [
+                    "a false conclusion;  a false construction in grammar"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not essential or permanent, as parts of a structure which are temporary or supplemental.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Used in the vernacular name of a species (or group of species) together with the name of another species to which it is similar in appearance.",
+                  "examples": [
+                    "false scorpion (an arachnid)",
+                    "false killer whale (a dolphin)",
+                    "false powderpost beetles (members of Bostrichidae not in Lyctinae)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Out of tune.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "false (comparative more false, superlative most false)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a dishonest and disloyal way; falsely.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "false (plural falses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of two options on a true-or-false test.",
+                  "examples": [
+                    "The student received a failing grade for circling every true and false on her quiz."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "false (third-person singular simple present falses, present participle falsing, simple past and past participle falsed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics, telecommunications, of a decoder) To incorrectly decode noise as if it were a valid signal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To violate, to betray (a promise, an agreement, one’s faith, etc.).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To counterfeit, to forge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To make false, to corrupt from something true or real.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
