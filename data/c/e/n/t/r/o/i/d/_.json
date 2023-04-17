@@ -1,0 +1,83 @@
+{
+  "word": "centroid",
+  "etymologies": [
+    {
+      "description": [
+        "From centre +‎ -oid. From 1844, used as a replacement for the older terms \"centre of gravity\" and \"centre of mass\" in situations described in purely geometrical terms, and subsequently used for further generalisations."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "centroid (plural centroids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, physics, engineering, of an object or a geometrical figure) The point at which gravitational force (or other universally and uniformly acting force) may be supposed to act on a given rigid, uniformly dense body; the centre of gravity or centre of mass.",
+                  "examples": [
+                    "The center of gravity of any body or geometrical magnitude is by definition the same as the centroid of a certain system of parallel forces. It will be convenient, therefore, to use the word centroid in most cases instead of center of gravity. […] The centroid of any area may be found by the following method: Divide the area into parts such that the area and centroid of each part are known. Take the centroids of the partial areas as the points of application of forces proportional respectively to those areas. The centroid of this system of forces is the centroid of the total area, and may be found by the method of Art. 172."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, specifically, of a triangle) The point of intersection of the three medians of a given triangle; the point whose (Cartesian) coordinates are the arithmetic mean of the coordinates of the three vertices.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a finite set of points) the point whose (Cartesian) coordinates are the arithmetic mean of the coordinates of a given finite set of points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis, of a function) An analogue of the centre of gravity of a nonuniform body in which local density is replaced by a specified function (which can take negative values) and the place of the body's shape is taken by the function's domain.",
+                  "examples": [
+                    "The centroid of an arbitrary function \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n is given by \n  \n    \n      \n        \n          \n            \n              ∫\n              x\n              f\n              (\n              x\n              )\n              d\n              x\n            \n            \n              ∫\n              f\n              (\n              x\n              )\n              d\n              x\n            \n          \n        \n      \n    \n    {\\displaystyle {\\frac {\\int xf(x)dx}{\\int f(x)dx}}}\n  \n, where the integrals are calculated over the domain of \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, cluster analysis, of a cluster of points) the arithmetic mean (alternatively, median) position of a cluster of points in a coordinate system based on some application-dependent measure of distance.",
+                  "examples": [
+                    "The k-means procedure classifies a given data set by using a user defined number of clusters, k, a priori. The centroids can be placed randomly, or algorithmically, but it should be noted that the initial placement will affect the result. The next step is to analyze each point within the data set and group it with the nearest centroid according to some distance metric. When all points have been assigned to a group, a new centroid is calculated for each group as a barycenter of the cluster, resulting from the previous step. Once the k new centroids are calculated, the algorithm reiterates through the data set, and each sample is again assigned to a cluster based on its distance to the new centroids. This process is continued until the position[sic] of the centroids no longer change."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory, of a tree) Given a tree of n nodes, either (1) a unique node whose removal would split the tree into subtrees of fewer than n/2 nodes, or (2) either of a pair of adjacent nodes such that removal of the edge connecting them would split the tree into two subtrees of exactly n/2 nodes.",
+                  "examples": [
+                    "Just as in the case of centers of a tree (Section 3-4), it can be shown that every tree has either one centroid or two centroids. It can also be shown that if a tree has two centroids, the centroids are adjacent."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
