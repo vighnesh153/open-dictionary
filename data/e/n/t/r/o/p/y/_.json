@@ -1,0 +1,79 @@
+{
+  "word": "entropy",
+  "etymologies": [
+    {
+      "description": [
+        "First attested in 1867, as the translation of German Entropie, coined in 1865 by Rudolph Clausius in analogy to Energie (“energy”), replacing the root of Ancient Greek ἔργον (érgon, “work”) by Ancient Greek τροπή (tropḗ, “transformation”))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "entropy (countable and uncountable, plural entropies)",
+          "definitionGroups": [
+            {
+              "group": "A measure of the disorder present in a system.",
+              "entries": [
+                {
+                  "meaning": "(Boltzmann definition) A measure of the disorder directly proportional to the natural logarithm of the number of microstates yielding an equivalent thermodynamic macrostate.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(information theory) Shannon entropy",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(thermodynamics, countable) A measure of the amount of energy in a physical system that cannot be used to do work.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The capacity factor for thermal energy that is hidden with respect to temperature.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The dispersal of energy; how much energy is spread out in a process, or how widely spread out it becomes, at a specific temperature.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, information theory, countable) A measure of the amount of information and noise present in a signal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The tendency of a system that is left to itself to descend into chaos.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
