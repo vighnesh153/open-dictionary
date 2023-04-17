@@ -1,0 +1,182 @@
+{
+  "word": "clamp",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle Dutch clamp, klampe (“a clamp, hook”), from Proto-Germanic *klampō (“clamp, clasp, cramp”), related to Proto-West Germanic *klammjan.",
+        "Cognate with Middle Low German klampe (“hook, clasp”), German Klampfe, Klampe (“clamp, cleat”), Norwegian klamp (“clamp”), Alemannic German Chlempi."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "clamp (plural clamps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A brace, band, or clasp for strengthening or holding things together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) An instrument used to temporarily shut off blood vessels, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) A parking enforcement device used to immobilise a car until it can be towed or a fine is paid; a wheel clamp.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mass of bricks heaped up to be burned; or of ore for roasting, or of coal coking.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pile of agricultural produce such as root vegetables or silage stored under a layer of earth or an airtight sheet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of wood (batten) across the grain of a board end to keep it flat, as in a breadboard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) An electronic circuit that fixes either the positive or the negative peak excursions of a signal to a defined value by shifting its DC value.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "clamp (third-person singular simple present clamps, present participle clamping, simple past and past participle clamped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To fasten in place or together with (or as if with) a clamp.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hold or grip tightly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To modify (a numeric value) so it lies within a specific range by replacing values outside the range with the closest value within the range.",
+                  "examples": [
+                    "After the depth range is clamped, the depth value is read from the depth stencil buffer, and the two values are compared with a selectable depth-comparison function  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, obsolete, transitive) To cover (vegetables, etc.) with earth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To immobilise (a vehicle) by means of a wheel clamp.",
+                  "examples": [
+                    "I was only parked there for five minutes but my car was still clamped."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Imitative."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "clamp (plural clamps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A heavy footstep; a tramp.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "clamp (third-person singular simple present clamps, present participle clamping, simple past and past participle clamped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, dated) To tread heavily or clumsily; to clump or clomp.",
+                  "examples": [
+                    "the policeman with clamping feet"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
