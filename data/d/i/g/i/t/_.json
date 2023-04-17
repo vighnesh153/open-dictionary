@@ -1,0 +1,126 @@
+{
+  "word": "digit",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English digit, from Latin digitus (“a fingerbreadth; a number”). Doublet of digitus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "digit (plural digits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The whole numbers from 0 to 9 and the Arabic numerals representing them, which are combined to represent base-ten numbers.",
+                  "examples": [
+                    "The number 123.4 has four digits: the hundreds digit is 1, the tens digit is 2, the units digit is 3, and the tenths digit is 4.",
+                    "Synonyms: place; figure (informal, usually in discussion of money)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A distinct symbol representing one of an arithmetic progression of numbers between 0 and the radix.",
+                  "examples": [
+                    "Hexadecimal numeration (Base sixteen) includes the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 but also A (=10 decimal), B, C, D, E, and F. Sixteen itself is written as the two-digit number 10."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(units of measure, astronomy) 1⁄12 the apparent diameter of the sun or moon, (chiefly) as a measure of the totality of an eclipse.",
+                  "examples": [
+                    "A six-digit eclipse covers half the lunar surface.",
+                    "Synonym: finger (obsolete)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical units of measure) A unit of length notionally based upon the width of an adult human finger, standardized differently in various places and times, (especially) the English digit of 1⁄16 foot, now equivalent to about 1.9 cm.",
+                  "examples": [
+                    "Synonyms: finger, fingerbreadth, fingersbreadth"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(units of measure, obsolete) Synonym of inch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) A narrow extremity of the human hand or foot: a finger, thumb, or toe.",
+                  "examples": [
+                    "Hyponyms: finger, thumb, toe"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) Similar or similar-looking structures in other animals.",
+                  "examples": [
+                    "The ruminants have the cloven foot, i.e. two hoofed digits on each foot."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, rare, obsolete) Synonym of degree: 1⁄360 of a circle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "digit (third-person singular simple present digits, present participle digiting, simple past and past participle digited)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To point at or point out with the finger.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
