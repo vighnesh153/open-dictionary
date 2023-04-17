@@ -1,0 +1,76 @@
+{
+  "word": "disjoint",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English disjoynen, from Old French desjoindre (“disjoin”), from Latin disiungō, from dis- + iungō (“join”)."
+      ],
+      "adjectives": [
+        {
+          "description": "disjoint (comparative more disjoint, superlative most disjoint)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not smooth or continuous; disjointed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory, not comparable) Of two or more sets, having no members in common; having an intersection equal to the empty set.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "disjoint (third-person singular simple present disjoints, present participle disjointing, simple past and past participle disjointed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To render disjoint; to remove a connection, linkage, or intersection.",
+                  "examples": [
+                    "to disjoint limbs; to disjoint bones; to disjoint poultry by carving"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To break the natural order and relations of; to make incoherent.",
+                  "examples": [
+                    "a disjointed speech"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To fall into pieces.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
