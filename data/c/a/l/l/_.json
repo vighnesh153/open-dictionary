@@ -1,0 +1,528 @@
+{
+  "word": "call",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English callen, from Old English ceallian (“to call, shout”) and Old Norse kalla (“to call; shout; refer to as; name”); both from Proto-Germanic *kalzōną (“to call, shout”), from Proto-Indo-European *gal(o)s-, *glōs-, *golH-so- (“voice, cry”).",
+        "Cognate with Scots call, caw, ca (“to call, cry, shout”), Dutch kallen (“to chat, talk”), obsolete German kallen (“to call”), Swedish kalla (“to call, refer to, beckon”), Norwegian kalle (“to call, name”),  Danish kalde (“to call, name”), Icelandic kalla (“to call, shout, name”), Welsh galw (“to call, demand”), Polish głos (“voice”), Lithuanian gal̃sas (“echo”), Russian голос (golos, “voice”), Albanian gjuhë (“language, tongue”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "call (countable and uncountable, plural calls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A telephone conversation; a phone call.",
+                  "examples": [
+                    "I received several phone calls today.",
+                    "I received several calls today."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of calling someone on the telephone.",
+                  "examples": [
+                    "I made a call to Jim, but he didn't answer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A short visit, usually for social purposes.",
+                  "examples": [
+                    "I paid a call to a dear friend of mine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A visit by a ship or boat to a port.",
+                  "examples": [
+                    "The ship made a call at Southampton."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cry or shout.",
+                  "examples": [
+                    "He heard a call from the other side of the room."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A decision or judgement.",
+                  "examples": [
+                    "That was a good call."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The characteristic cry of a bird or other animal.",
+                  "examples": [
+                    "That sound is the distinctive call of the cuckoo bird."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A beckoning or summoning.",
+                  "examples": [
+                    "I had to yield to the call of the wild."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The right to speak at a given time during a debate or other public event; the floor.",
+                  "examples": [
+                    "The Prime Minister has the call.",
+                    "I give the call to the Manager of Opposition Business."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) Short for call option.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) The act of calling to the other batsman.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) The state of being the batsman whose role it is to call (depends on where the ball goes.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A work shift which requires one to be available when requested, i.e. on call.",
+                  "examples": [
+                    "We attempted to include all topics that we ourselves have faced while taking plastic surgery call at the affiliated hospitals in the Texas Medical Center, one of the largest medical centers in the world, which sees over 100,000 patients per day."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The act of jumping to a subprogram, saving the means to return to the original point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A statement of a particular state, or rule, made in many games such as bridge, craps, jacks, and so on.",
+                  "examples": [
+                    "There was a 20 dollar bet on the table, and my call was 9."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) The act of matching a bet made by a player who has previously bet in the same round of betting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A note blown on the horn to encourage the dogs in a hunt.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A whistle or pipe, used by the boatswain and his mate to summon the sailors to duty.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pipe or other instrument to call birds or animals by imitating their note or cry. A game call.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An invitation to take charge of or serve a church as its pastor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Vocation; employment; calling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, law) A reference to, or statement of, an object, course, distance, or other matter of description in a survey or grant requiring or calling for a corresponding object, etc., on the land.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, slang, prostitution) A meeting with a client for paid sex; hookup; job.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A lawyer who was called to the bar (became licensed as a lawyer) in a specified year.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in negative constructions) Need; necessity.",
+                  "examples": [
+                    "There's no call for that kind of bad language!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "call (third-person singular simple present calls, present participle calling, simple past and past participle called or call'd)",
+          "definitionGroups": [
+            {
+              "group": "To use one's voice.",
+              "entries": [
+                {
+                  "meaning": "(intransitive) To request, summon, or beckon.",
+                  "examples": [
+                    "That person is hurt; call for help!"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To cry or shout.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To utter in a loud or distinct voice.",
+                  "examples": [
+                    "to call the roll of a military company"
+                  ]
+                },
+                {
+                  "meaning": "(transitive, intransitive) To contact by telephone.",
+                  "examples": [
+                    "Why don’t you call me in the morning?",
+                    "Why don’t you call tomorrow?"
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To declare in advance.",
+                  "examples": [
+                    "The captains call the coin toss."
+                  ]
+                },
+                {
+                  "meaning": "To rouse from sleep; to awaken.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To declare (an effort or project) to be a failure.",
+                  "examples": [
+                    "After the third massive failure, John called the whole initiative."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, jazz) To request that one's band play (a particular tune).",
+                  "examples": [
+                    "They called I Got Rhythm, and turned to me again for a solo, and I said what?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(heading, intransitive) To visit.",
+              "entries": [
+                {
+                  "meaning": "To pay a (social) visit (often used with \"on\", \"round\", or \"at\"; used by salespeople with \"again\" to invite customers to come again).",
+                  "examples": [
+                    "We could always call on a friend.",
+                    "The engineer called round whilst you were away."
+                  ]
+                },
+                {
+                  "meaning": "To stop at a station or port.",
+                  "examples": [
+                    "This train calls at Reading, Slough and London Paddington.",
+                    "Our cruise ship called at Bristol Harbour."
+                  ]
+                },
+                {
+                  "meaning": "To come to pass; to afflict.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To name, identify or describe.",
+              "entries": [
+                {
+                  "meaning": "(ditransitive) To name or refer to.",
+                  "examples": [
+                    "Why don’t we dispense with the formalities. Please call me Al."
+                  ]
+                },
+                {
+                  "meaning": "(in passive) Of a person, to have as one's name; of a thing, to have as its name.",
+                  "examples": [
+                    "I’m called John.",
+                    "A very tall building is called a skyscraper."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To predict.",
+                  "examples": [
+                    "He called twelve of the last three recessions."
+                  ]
+                },
+                {
+                  "meaning": "To state, or estimate, approximately or loosely; to characterize without strict regard to fact.",
+                  "examples": [
+                    "They call the distance ten miles.",
+                    "That's enough work. Let's call it a day and go home."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To formally recognise a death: especially to announce and record the time, place and fact of a person’s death.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To claim the existence of some malfeasance; to denounce as.",
+                  "examples": [
+                    "I call bullshit.",
+                    "She called foul on their scheme."
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) To disclose the class or character of; to identify.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(heading, sports) Direct or indirect use of the voice.",
+              "entries": [
+                {
+                  "meaning": "(cricket) (of a batsman): To shout directions to the other batsman on whether or not they should take a run.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(baseball, cricket) (of a fielder): To shout to other fielders that he intends to take a catch (thus avoiding collisions).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive, poker) To equal the same amount that other players are currently betting.",
+                  "examples": [
+                    "I bet $800 and Jane raised to $1600. My options: call (match her $1600 bet), reraise or fold."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive, poker, proscribed) To match the current bet amount, in preparation for a raise in the same turn. (Usually, players are forbidden to announce one's play this way.)",
+                  "examples": [
+                    "I’ll call your 300, and raise to 600!"
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To state, or invoke a rule, in many games such as bridge, craps, jacks, and so on.",
+                  "examples": [
+                    "My partner called two spades."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, sometimes with for) To require, demand.",
+                  "examples": [
+                    "He felt called to help the old man."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, with into) To cause to be verbally subjected to.",
+                  "examples": [
+                    "The basis for his conclusion was called into doubt"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, colloquial) To lay claim to an object or role which is up for grabs.",
+                  "examples": [
+                    "I call the comfy chair!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, finance) To announce the early extinction of a debt by prepayment, usually at a premium.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, banking) To demand repayment of a loan.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To jump to (another part of a program) to perform some operation, returning to the original point on completion.",
+                  "examples": [
+                    "A recursive function is one that calls itself."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Yorkshire) To scold.",
+                  "examples": [
+                    "CALL 1 scold\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) To make a decision as a referee or umpire.",
+                  "examples": [
+                    "The goal was called offside."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cue sports) To tell in advance which shot one is attempting.",
+                  "examples": [
+                    "Every shot must be called."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "word": "callable",
+  "etymologies": [
+    {
+      "description": [
+        "call +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "callable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) That can be called.",
+                  "examples": [
+                    "Historically, all viable frameworks have always provided a mechanism to implement callbacks. C# goes one step further and encapsulates callbacks into callable objects called delegates."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) That may be redeemed by its holder before it matures.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "callable (plural callables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An object of a type that can be called, such as a function.",
+                  "examples": [
+                    "The ctypes module can be used to create Python callables that wrap around arbitrary memory addresses."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A callable bond.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
