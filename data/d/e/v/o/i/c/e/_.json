@@ -1,0 +1,39 @@
+{
+  "word": "devoice",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ voice."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "devoice (third-person singular simple present devoices, present participle devoicing, simple past and past participle devoiced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, phonetics) To pronounce a word with little movement of the vocal cords",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Internet) To remove the voice flag from a user on IRC, preventing them from sending messages to the channel.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
