@@ -1,0 +1,81 @@
+{
+  "word": "extern",
+  "etymologies": [
+    {
+      "description": [
+        "French externe, from Latin externus."
+      ],
+      "adjectives": [
+        {
+          "description": "extern",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, rare) External; outward; not inherent",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "extern (plural externs)",
+          "definitionGroups": [
+            {
+              "group": "A person affiliated with an institution in a lesser capacity, for example, as a non-resident or as a part-time affiliate.",
+              "entries": [
+                {
+                  "meaning": "A day-scholar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Outward form or part; exterior.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Short for external; used as a keyword in these programming languages."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "extern (plural externs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In the C and C++ programming languages, a variable that can be separately declared in many places, all of them referring to the same variable.",
+                  "examples": [
+                    "Finally, get rid of the two function declarations and two externs that we added at the top of TEFIL.CPP so that we could support file_open()."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

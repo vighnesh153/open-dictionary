@@ -1,0 +1,144 @@
+{
+  "word": "external",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Middle English, from Medieval Latin externus (“outward, external”), from exter/exterus (“on the outside, outward”)."
+      ],
+      "adjectives": [
+        {
+          "description": "external (comparative more external, superlative most external)",
+          "definitionGroups": [
+            {
+              "group": "Outside of something; on the exterior.",
+              "entries": [
+                {
+                  "meaning": "(anatomy) Situated near or toward the surface of the body.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(pharmacology, relational) Relating to or denoting a medicine or similar substance for use on the outside of the body.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Capable of being perceived outwardly.",
+              "entries": [
+                {
+                  "meaning": "Having merely the outward appearance of something.",
+                  "examples": [
+                    "Synonym: superficial"
+                  ]
+                },
+                {
+                  "meaning": "Not intrinsic or essential.",
+                  "examples": [
+                    "Synonyms: accidental, accompanying; see also Thesaurus:extrinsic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Provided by something or someone outside of the entity (object, group, company etc.) considered.",
+                  "examples": [
+                    "external authority, external force"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to or connected with foreign nations or institutions.",
+                  "examples": [
+                    "external trade or commerce; the external relations of a state or kingdom",
+                    "Synonym: foreign"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having existence independent of the mind.",
+                  "examples": [
+                    "external reality"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(education) For or concerning students registered with and taking the examinations of a university but not resident there.",
+                  "examples": [
+                    "external degrees"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a hardware) Not contained in the main computer.",
+                  "examples": [
+                    "Synonym: peripheral"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of storage) Using a disk or tape drive rather than the main memory.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "external (plural externals)",
+          "definitionGroups": [
+            {
+              "group": "(usually in the plural) The exterior; outward features or appearances.",
+              "entries": [
+                {
+                  "meaning": "Inessential or superficial features.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Outward appearance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, in the C language) A variable that is defined in the source code but whose value comes from some external source.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
