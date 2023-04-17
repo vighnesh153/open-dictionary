@@ -1,0 +1,70 @@
+{
+  "word": "chomp",
+  "etymologies": [
+    {
+      "description": [
+        "U.S. regional variation of champ (verb), from Middle English champen, chammen (“to bite; gnash”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "chomp (plural chomps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of chomping (see below)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, rare) A unit of computing storage equal to sixteen bits, which can represent any of 65536 distinct values.",
+                  "examples": [
+                    "Synonym: hextet",
+                    "An IPv6 address is represented as eight hexadecimal chomps."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "chomp (third-person singular simple present chomps, present participle chomping, simple past and past participle chomped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To bite or chew loudly or heavily.",
+                  "examples": [
+                    "The dog chomped on the treat and swallowed it in one gulp."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, Perl) To remove the final character from (a text string) if it is a newline (or, less commonly, some other programmer-specified character).",
+                  "examples": [
+                    "Coordinate term: chop"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
