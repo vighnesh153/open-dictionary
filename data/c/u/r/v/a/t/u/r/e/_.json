@@ -1,0 +1,48 @@
+{
+  "word": "curvature",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin curvare, from Latin curvatura. See also curve. Displaced native Old English ġebīeġednes."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "curvature (countable and uncountable, plural curvatures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The shape of something curved.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The extent to which a subspace is curved within a metric space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(differential geometry) The extent to which a Riemannian manifold is intrinsically curved.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
