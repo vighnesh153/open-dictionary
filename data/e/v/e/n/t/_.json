@@ -1,0 +1,168 @@
+{
+  "word": "event",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French event, from Latin ēventus (“an event, occurrence”), from ēveniō (“to happen, to fall out, to come out”), from ē (“out of, from”), short form of ex + veniō (“come”); related to venture, advent, convent, invent, convene, evene, etc."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "event (plural events)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An occurrence; something that happens.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A prearranged social activity (function, etc.)",
+                  "examples": [
+                    "I went to an event in San Francisco last week.",
+                    "Where will the event be held?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of several contests that combine to make up a competition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An end result; an outcome (now chiefly in phrases).",
+                  "examples": [
+                    "hard beginnings have many times prosperous events […]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A point in spacetime having three spatial coordinates and one temporal coordinate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A possible action that the user can perform that is monitored by an application or the operating system (event listener). When an event occurs an event handler is called which performs a specific task.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(probability theory) A set of some of the possible outcomes; a subset of the sample space.",
+                  "examples": [
+                    "If \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n is a random variable representing the toss of a six-sided die, then its sample space could be denoted as {1,2,3,4,5,6}. Examples of events could be: \n  \n    \n      \n        X\n        =\n        1\n      \n    \n    {\\displaystyle X=1}\n  \n, \n  \n    \n      \n        X\n        =\n        2\n      \n    \n    {\\displaystyle X=2}\n  \n, \n  \n    \n      \n        X\n        ≥\n        5\n        ,\n        X\n        ≠\n        4\n        ,\n      \n    \n    {\\displaystyle X\\geq 5,X\\not =4,}\n  \n and \n  \n    \n      \n        X\n        ∈\n        {\n        1\n        ,\n        3\n        ,\n        5\n        }\n      \n    \n    {\\displaystyle X\\in \\{1,3,5\\}}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) An affair in hand; business; enterprise.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) An episode of severe health conditions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "event (third-person singular simple present events, present participle eventing, simple past and past participle evented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To occur, take place.",
+                  "examples": [
+                    "[…]  I will first rehearse you an English Historie acted and evented in my Countrey of England  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From French éventer."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "event (third-person singular simple present events, present participle eventing, simple past and past participle evented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To be emitted or breathed out; to evaporate.",
+                  "examples": [
+                    "ô that thou sawst my heart, or didst behold",
+                    "The place from whence that scalding sigh evented."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To expose to the air, ventilate.",
+                  "examples": [
+                    "For as I would my gorget have undon",
+                    "To event the heat that had mee nigh undone,",
+                    "An headles arrow strake mee through the throte,",
+                    "Where through my soule forsooke his fylthy cote."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
