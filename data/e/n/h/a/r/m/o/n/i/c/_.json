@@ -1,0 +1,41 @@
+{
+  "word": "enharmonic",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin enharmonicus, from Late Latin enarmonius, from Ancient Greek ἐναρμόνιος (enarmónios), from ἐν (en)+ἁρμονία (harmonía)."
+      ],
+      "adjectives": [
+        {
+          "description": "enharmonic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Describing two or more identical or almost identical notes that are written differently when in different keys. (Whether they are identical depends on the tuning method used.)",
+                  "examples": [
+                    "C sharp is enharmonic to D flat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Of or pertaining to a tetrachord.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
