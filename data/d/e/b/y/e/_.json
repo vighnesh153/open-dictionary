@@ -1,0 +1,32 @@
+{
+  "word": "debye",
+  "etymologies": [
+    {
+      "description": [
+        "Named after Dutch-American physicist and physical chemist Peter Debye."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "debye (plural debyes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The CGS unit of electric dipole moment, defined as 1 D = 10-18 statcoulomb-centimetre and computable from the SI unit coulomb-metre by multiplying by the factor 3.33564 × 10-30.",
+                  "examples": [
+                    "The dipole moments of water and the alcohols are about 1.8 debyes. The moments of ethers are smaller, about 1.2 debyes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
