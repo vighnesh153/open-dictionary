@@ -1,0 +1,54 @@
+{
+  "word": "downlink",
+  "etymologies": [
+    {
+      "description": [
+        "down- +‎ link"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "downlink (plural downlinks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) The transmission of a signal from a satellite to a receiving station on earth; or the means of this transmission.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) Transmission of data from a network, usually wireless, to the user.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "downlink (third-person singular simple present downlinks, present participle downlinking, simple past and past participle downlinked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To transmit a signal from a satellite to a terrestrial receiving station.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
