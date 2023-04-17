@@ -1,0 +1,140 @@
+{
+  "word": "derivative",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French dérivatif, from Latin dērīvātus, perfect passive participle of dērīvō (“I derive”). Related with derive; By surface analysis, derive +‎ -ative."
+      ],
+      "adjectives": [
+        {
+          "description": "derivative (comparative more derivative, superlative most derivative)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obtained by derivation; not radical, original, or fundamental.",
+                  "examples": [
+                    "a derivative conveyance",
+                    "a derivative word"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Imitative of the work of someone else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law, copyright law) Referring to a work, such as a translation or adaptation, based on another work that may be subject to copyright restrictions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) Having a value that depends on an underlying asset of variable value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lacking originality.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "derivative (plural derivatives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something derived.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A word that derives from another one.",
+                  "examples": [
+                    "Synonyms: reflex, descendant",
+                    "Antonym: etymon",
+                    "Coordinate term: cognate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A financial instrument whose value depends on the valuation of an underlying asset; such as a warrant, an option etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A chemical derived from another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(calculus) One of the two fundamental objects of study in calculus (the other being integration), which quantifies the rate of change, tangency, and other qualities arising from the local behavior of a function.",
+              "entries": [
+                {
+                  "meaning": "(Of a function of a single variable \n  \n    \n      \n        f\n        (\n        x\n        )\n      \n    \n    {\\displaystyle f(x)}\n  \n) The derived function of \n  \n    \n      \n        f\n        (\n        x\n        )\n      \n    \n    {\\displaystyle f(x)}\n  \n: the function giving the instantaneous rate of change of \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n; equivalently, the function giving the slope of the line tangent to the graph of \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n. Written \n  \n    \n      \n        \n          f\n          ′\n        \n        (\n        x\n        )\n      \n    \n    {\\displaystyle f'(x)}\n  \n or \n  \n    \n      \n        \n          \n            \n              d\n              f\n            \n            \n              d\n              x\n            \n          \n        \n      \n    \n    {\\displaystyle {\\frac {df}{dx}}}\n  \n in Leibniz's notation, \n  \n    \n      \n        \n          \n            \n              f\n              ˙\n            \n          \n        \n        (\n        x\n        )\n      \n    \n    {\\displaystyle {\\dot {f}}(x)}\n  \n in Newton's notation (the latter used particularly when the independent variable is time).",
+                  "examples": [
+                    "The derivative of \n  \n    \n      \n        \n          x\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle x^{2}}\n  \n is \n  \n    \n      \n        2\n        x\n      \n    \n    {\\displaystyle 2x}\n  \n; if \n  \n    \n      \n        f\n        (\n        x\n        )\n        =\n        \n          x\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle f(x)=x^{2}}\n  \n, then \n  \n    \n      \n        \n          f\n          ′\n        \n        (\n        x\n        )\n        =\n        2\n        x\n      \n    \n    {\\displaystyle f'(x)=2x}"
+                  ]
+                },
+                {
+                  "meaning": "The value of such a derived function for a given value of its independent variable: the rate of change of a function at a point in its domain.",
+                  "examples": [
+                    "The derivative of \n  \n    \n      \n        f\n        (\n        x\n        )\n        =\n        \n          x\n          \n            3\n          \n        \n      \n    \n    {\\displaystyle f(x)=x^{3}}\n  \n at \n  \n    \n      \n        x\n        =\n        2\n      \n    \n    {\\displaystyle x=2}\n  \n is 12."
+                  ]
+                },
+                {
+                  "meaning": "(Of more general classes of functions) Any of several related generalizations of the derivative: the directional derivative, partial derivative, Fréchet derivative, functional derivative, etc.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(generally) The linear operator that maps functions to their derived functions, usually written \n  \n    \n      \n        D\n      \n    \n    {\\displaystyle D}\n  \n; the simplest differential operator.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
