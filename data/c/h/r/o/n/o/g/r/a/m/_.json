@@ -1,0 +1,41 @@
+{
+  "word": "chronogram",
+  "etymologies": [
+    {
+      "description": [
+        "From chrono- +‎ -gram, from Ancient Greek χρόνος (khrónos, “time”) + γράμμα (grámma, “writing”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "chronogram (plural chronograms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sentence or inscription whose letters, when interpreted according to a system (such as Roman numerals) in which letters correspond to numeric values, stand for a particular date (usually the date of inscription) when rearranged.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) A phylogenetic tree that has branch spans proportional to evolutionary time.",
+                  "examples": [
+                    "Coordinate term: phylogram"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
