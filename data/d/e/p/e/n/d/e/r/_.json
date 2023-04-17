@@ -1,0 +1,33 @@
+{
+  "word": "depender",
+  "etymologies": [
+    {
+      "description": [
+        "depend +‎ -er (agent noun suffix)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "depender (plural dependers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An agent that depends on another agent, the dependee; the subject of a dependency, a dependent (used in agent-oriented programming)",
+                  "examples": [
+                    "Synonyms: dependent, dependant",
+                    "Antonym: dependee"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

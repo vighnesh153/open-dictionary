@@ -1,0 +1,87 @@
+{
+  "word": "dependency",
+  "etymologies": [
+    {
+      "description": [
+        "dependent +‎ -cy"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dependency (countable and uncountable, plural dependencies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A state of dependence; a refusal to exercise initiative.",
+                  "examples": [
+                    "Frank's sullen dependency was driving his father nuts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something dependent on, or subordinate to, something else:",
+                  "examples": [
+                    "In the United States' governmental structure, the military is conceived as a dependency under the executive branch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A colony, or a territory subject to rule by an external power.",
+                  "examples": [
+                    "Synonyms: colony, protectorate, province, dominion"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dependence on a habit-forming substance such as a drug or alcohol.",
+                  "examples": [
+                    "Synonym: addiction"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Reliance on the functionality provided by some other, external component.",
+                  "examples": [
+                    "This library has dependencies on a lot of other libraries. We have to compile all of those other libraries first."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An external component whose functionality is relied on.",
+                  "examples": [
+                    "One of this library's dependencies is very finicky. It can be hard to get it to compile on some systems."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
