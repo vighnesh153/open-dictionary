@@ -1,0 +1,52 @@
+{
+  "word": "electrolyte",
+  "etymologies": [
+    {
+      "description": [
+        "From electro- +‎ -lyte, from electrolysis. Coined by English scientist Michael Faraday in 1834."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "electrolyte (countable and uncountable, plural electrolytes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A substance that, in solution or when molten, ionizes and conducts electricity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A solution containing such substances, which therefore also conducts electricity.",
+                  "examples": [
+                    "Some modern lead-acid batteries are sealed because they never need to have any electrolyte added during their service life."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(chemistry, often) Any of the various ions in such a solution, or (metonymically) their concentration therein.",
+              "entries": [
+                {
+                  "meaning": "(physiology, medicine) Any of the various biometal ions (such as sodium or chloride) that regulate the electric charge on cells and the flow of water across their membranes, or (metonymically) such an ion's concentration in a bodily fluid, usually and especially blood, blood serum, or urine.",
+                  "examples": [
+                    "Lab tests to consider under these circumstances include serum electrolytes, serum glucose, and urine protein."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
