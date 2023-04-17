@@ -1,0 +1,199 @@
+{
+  "word": "delta",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek δέλτα (délta), borrowed from a Phoenician word for \"door\", ultimately from Proto-Semitic *dalt-. Doublet of dalet."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "delta (plural deltas)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The fourth letter of the modern Greek alphabet Δ, δ.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A landform at the mouth of a river where it empties into a body of water.",
+                  "examples": [
+                    "Nile Delta"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(international standards) Alternative letter-case form of Delta from the NATO/ICAO Phonetic Alphabet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The symbol Δ.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, informal) A small but noticeable effect. Compare epsilon.",
+                  "examples": [
+                    "This will slow the main code path down, but only by delta."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The set of differences between two versions of a file.",
+                  "examples": [
+                    "When you update the file, the system will only save the deltas."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, engineering) A change in a quantity, likely from \"d\" for \"difference\".",
+                  "examples": [
+                    "ΔV - \"delta vee\"(change in velocity, used in rocketry and orbital mechanics)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) The angle subtended at the center of a circular arc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A type of cargo bike that has one wheel in front and two in back.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical, often attributive) The closed figure produced by connecting three coils or circuits successively, end for end, especially in a three-phase system.",
+                  "examples": [
+                    "delta winding; delta connection; delta current"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) The rate of change in an option value with respect to the underlying asset's price.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A value in delta notation indicating the relative abundances of isotopes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, military, U.S. Space Force) A military unit, nominally headed by a colonel, equivalent to a USAF operations wing, or an army regiment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) a star that is usually the fourth brightest of a constellation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) one of four baryons consisting of up and down quarks with a combined spin of 3/2: Δ++ (uuu), Δ+ (uud), Δ0 (udd), or Δ− (ddd)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Short for delta variant. (variant of the SARS-CoV-2 virus)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "delta (third-person singular simple present deltas, present participle deltaing, simple past and past participle deltaed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) To calculate the differences between the characters in an enciphered text and the characters a fixed number of positions previous.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To compare two versions of the same file in order to determine where they differ (where a programmer has made edits).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
