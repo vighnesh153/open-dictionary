@@ -1,0 +1,95 @@
+{
+  "word": "delete",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin dēlētus, past participle of dēlēre (“destroy, blot out, efface”), from dēlēvī, originally perf. tense of dēlinere (“to daub, erase by smudging”), from dē- (“from, away”) + linere (“to smear, wipe”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "delete (plural deletes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A deletion.",
+                  "examples": [
+                    "Cascading updates and cascading deletes are useful features of the SQL Server database engine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(recorded entertainment industry) A remainder of a music or video release.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Alternative letter-case form of Delete",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The delete character (U+007F or %7F).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "delete (third-person singular simple present deletes, present participle deleting, simple past and past participle deleted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To remove, get rid of or erase, especially written or printed material, or data on a computer or other device. [from 1600s]",
+                  "examples": [
+                    "Synonyms: erase, clear, strike, terminate, remove; see also Thesaurus:delete",
+                    "Antonyms: insert, main"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(online gaming, slang) To defeat or dominate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To kill or murder.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
