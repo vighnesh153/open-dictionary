@@ -1,0 +1,77 @@
+{
+  "word": "extractor",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "extractor (plural extractors)",
+          "definitionGroups": [
+            {
+              "group": "Any of various mechanical devices that extract a component from others.",
+              "entries": [
+                {
+                  "meaning": "A machine for clearing combs of honey.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A device for rendering wax.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) An apparatus that uses a solvent to remove soluble substances from a mixture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A centrifugal drying machine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in a gun) A part of the bolt that removes a cartridge from the chamber.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A particular kind of bipartite graph.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A function which, being applied to output from a weakly random entropy source, together with a short, uniformly random seed, generates a highly random output that appears independent from the source and uniformly distributed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
