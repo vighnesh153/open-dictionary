@@ -1,0 +1,82 @@
+{
+  "word": "chromatic",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French chromatique (“chromatic”) or directly from its etymon Latin chrōmaticus, from Ancient Greek χρωματικός (khrōmatikós, “relating to colour; one of the three types of tetrachord in Greek music”), from χρῶμα (khrôma, “colour; pigment; chromatic scale in music; music”) (ultimately from Proto-Indo-European *gʰer- (“to grind; to rub; to stroke; to remove”), perhaps in the sense of the grinding of pigments) + -τῐκός (-tikós, suffix forming adjectives); analysable as chroma +‎ -tic."
+      ],
+      "adjectives": [
+        {
+          "description": "chromatic (not generally comparable, comparative more chromatic, superlative most chromatic)",
+          "definitionGroups": [
+            {
+              "group": "Uses relating to colour",
+              "entries": [
+                {
+                  "meaning": "(not comparable) Characterized or caused by, or relating to, colour or hue.",
+                  "examples": [
+                    "Antonym: nonchromatic"
+                  ]
+                },
+                {
+                  "meaning": "(comparable) Brightly coloured; colourful, vivid.",
+                  "examples": [
+                    "Antonyms: achromatic, drab, dull, colourless, nonchromatic"
+                  ]
+                },
+                {
+                  "meaning": "(not comparable, optics) Having the capacity to separate spectral colours by refraction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(not comparable, music)",
+              "entries": [
+                {
+                  "meaning": "(Ancient Greece, historical) One of three types of tetrachord (the others being the diatonic and enharmonic), with an interval between half and four-fifths of the total interval of a tetrachord.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Relating to or using notes not belonging to the diatonic scale of the key in which a passage of music is written.",
+                  "examples": [
+                    "Antonyms: achromatic, diatonic"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From chromatin +‎ -ic (suffix meaning ‘of or pertaining to’ forming adjectives from nouns)."
+      ],
+      "adjectives": [
+        {
+          "description": "chromatic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Relating to chromatin (“a complex of DNA, RNA, and proteins within the cell nucleus out of which chromosomes condense during cell division”).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
