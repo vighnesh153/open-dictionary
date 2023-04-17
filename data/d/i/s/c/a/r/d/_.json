@@ -1,0 +1,87 @@
+{
+  "word": "discard",
+  "etymologies": [
+    {
+      "description": [
+        "From dis- +‎ card. Compare Spanish descartar."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "discard (plural discards)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything discarded.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A discarded playing card in a card game.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A temporary variable used to receive a value of no importance and unable to be read later.",
+                  "examples": [
+                    "Discards can be used with out parameters, with tuples, with pattern matching (Chapters 6 and 8), or even as stand-alone variables."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "discard (third-person singular simple present discards, present participle discarding, simple past and past participle discarded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To throw away, to reject.",
+                  "examples": [
+                    "Synonyms: cast away, dismiss, dispose, eliminate, get rid of, throw away; see also Thesaurus:junk"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, card games) To make a discard; to throw out a card.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To dismiss from employment, confidence, or favour; to discharge.",
+                  "examples": [
+                    "Synonyms: fire, let go, sack; see also Thesaurus:lay off"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
