@@ -1,0 +1,52 @@
+{
+  "word": "evaluate",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from evaluation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "evaluate (third-person singular simple present evaluates, present participle evaluating, simple past and past participle evaluated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw conclusions from examining; to assess.",
+                  "examples": [
+                    "It will take several years to evaluate the material gathered in the survey."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics, computing) To compute or determine the value of (an expression).",
+                  "examples": [
+                    "Evaluate this integral."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing, mathematics) To return or have a specific value.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

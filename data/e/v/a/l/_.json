@@ -1,0 +1,70 @@
+{
+  "word": "eval",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eval (plural evals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of evaluation.",
+                  "examples": [
+                    "Scans are unable to determine subject's [Gandrayda's] age, but psych eval suggests a high degree of youthfulness."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "eval (third-person singular simple present evals, present participle evalling or evaling, simple past and past participle evalled or evaled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of software) To evaluate (or execute) source code held in a string during run time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Latin aevum (“lifetime, age, eternity”)."
+      ],
+      "adjectives": [
+        {
+          "description": "eval (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Relating to time or duration.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
