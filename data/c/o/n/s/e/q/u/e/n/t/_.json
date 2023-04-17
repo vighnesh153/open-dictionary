@@ -1,0 +1,94 @@
+{
+  "word": "consequent",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French conséquent , from Latin consequens, consequentem, present participle of consequi (“to follow”), from con- + sequi (“to follow”). Compare French conséquent."
+      ],
+      "adjectives": [
+        {
+          "description": "consequent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Following as a result, inference, or natural effect.",
+                  "examples": [
+                    "His retirement and consequent spare time enabled him to travel more."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to consequences.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) Of a stream, having a course determined by the slope it formed on.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "consequent (plural consequents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The second half of a hypothetical proposition; Q, if the form of the proposition is \"If P, then Q.\"",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An event which follows another.",
+                  "examples": [
+                    "They were ill-governed, which is always a consequent of ill payment."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The second term of a ratio, i.e. the term b in the ratio a:b, the other being the antecedent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A consequent stream.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
