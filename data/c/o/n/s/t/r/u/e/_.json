@@ -1,0 +1,92 @@
+{
+  "word": "construe",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English construen, from Late Latin construo, construere (“to relate grammatically”), from Latin construo (“pile together”); doublet of construct."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "construe (plural construes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A translation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An interpretation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "construe (third-person singular simple present construes, present participle construing, simple past and past participle construed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To interpret or explain the meaning of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, transitive) To analyze the grammatical structure of a clause or sentence; to parse.",
+                  "examples": [
+                    "Thus, in a sentence such as: (113)      John considers [S Fred to be too sure of himself] the italicised Reflexive himself can only be construed with Fred, not with John: this follows from our assumption that non-subject Reflexives must have an antecedent within their own S. Notice, however, that in a sentence such as: (114)      John seems to me [S — to have perjured himself] himself must be construed with John."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, ergative) To admit of grammatical analysis.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To translate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To infer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
