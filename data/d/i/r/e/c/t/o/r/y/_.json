@@ -1,0 +1,65 @@
+{
+  "word": "directory",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English directorie, from Medieval Latin directorium."
+      ],
+      "adjectives": [
+        {
+          "description": "directory (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Containing directions; instructing; directorial.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "directory (plural directories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A list of names, addresses etc, of specific classes of people or organizations, often in alphabetical order or in some classification.",
+                  "examples": [
+                    "look up an address in the directory"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A structured listing of the names and characteristics of the files on a storage device.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A virtual container in a computer's file system, in which files and other directories may be stored. The files and subdirectories in a directory are usually related.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

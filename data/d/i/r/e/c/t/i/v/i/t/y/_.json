@@ -1,0 +1,50 @@
+{
+  "word": "directivity",
+  "etymologies": [
+    {
+      "description": [
+        "directive +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "directivity (countable and uncountable, plural directivities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, electrical engineering) A measure of the performance of an antenna compared to an isotropic antenna; the ratio of the maximum value of radiation intensity to the average radiation intensity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) Anisotropy in the propagation of earthquake waves in the direction of rupture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) Directionality",
+                  "examples": [
+                    "For higher degrees, the spatial integration tends to produce a cancellation and a rapid loss of visibility, although less rapidly for velocity measurement than for luminosity measurement, on account of the directivity of the velocity vector."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
