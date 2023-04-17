@@ -1,0 +1,74 @@
+{
+  "word": "declarative",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French déclaratif."
+      ],
+      "adjectives": [
+        {
+          "description": "declarative (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Serving to declare; having the quality of a declaration.",
+                  "examples": [
+                    "Synonym: declaratory"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, of a verb, sentence, or mood) Expressing truth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) That declares a construct.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A way of programming that is most akin to just stating what is wanted, rather than having to describe how to do it. w:Declarative programming",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "declarative (plural declaratives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Synonym of declaration (declarative statement)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

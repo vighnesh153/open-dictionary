@@ -1,0 +1,77 @@
+{
+  "word": "declaration",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English declaration, declaracion, declaracioun, from Old French declaration (French déclaration), from Latin dēclārātiōnem, accusative of Latin dēclārātiō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "declaration (countable and uncountable, plural declarations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A written or oral indication of a fact, opinion, intention, belief, etc.",
+                  "examples": [
+                    "a declaration of love"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A list of items for various legal purposes, e.g. customs declaration.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or process of declaring.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) The act, by the captain of a batting side, of declaring an innings closed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) In common law, the formal document specifying plaintiff's cause of action, including the facts necessary to sustain a proper cause of action, and to advise the defendant of the grounds upon which he is being sued.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The specification of an object, such as a variable or function, establishing its existence but not necessarily describing its contents.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
