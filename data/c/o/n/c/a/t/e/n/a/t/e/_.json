@@ -1,0 +1,60 @@
+{
+  "word": "concatenate",
+  "etymologies": [
+    {
+      "description": [
+        "From the perfect passive participle stem of Latin concatēnāre (“to link or chain together”), from con- (“with”) + catēnō (“chain, bind”), from catēna (“a chain”)."
+      ],
+      "adjectives": [
+        {
+          "description": "concatenate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Joined together as if in a chain.",
+                  "examples": [
+                    "The Nostocoid type consists of small rounded blue-green cells not over 5p. in diameter and arranged in chains which are often much broken up in the cephalodium, so that the concatenate arrangement is hardly apparent."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "concatenate (third-person singular simple present concatenates, present participle concatenating, simple past and past participle concatenated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To join or link together, as though in a chain.",
+                  "examples": [
+                    "Locke, by contrast, contended that [madness] was essentially a question of intellectual delusion, the capture of the mind by false ideas concatenated into a logical system of unreality."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To join (text strings) together.",
+                  "examples": [
+                    "Concatenating \"shoe\" with \"string\" yields \"shoestring\"."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
