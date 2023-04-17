@@ -1,0 +1,52 @@
+{
+  "word": "convergent",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "convergent (comparative more convergent, superlative most convergent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That converges or focuses; converging",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis, topology) Of a sequence or series in a topological space, converging to a (finite, proper) limit.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "convergent (plural convergents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The rational number obtained when a continued fraction has been terminated after a finite number of terms.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
