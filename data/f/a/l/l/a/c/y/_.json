@@ -1,0 +1,44 @@
+{
+  "word": "fallacy",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English [Term?], from Old French fallace, from Latin fallacia (“deception, deceit”), from fallax (“deceptive, deceitful”), from fallere (“to deceive”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fallacy (plural fallacies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Deceptive or false appearance; that which misleads the eye or the mind.",
+                  "examples": [
+                    "Mr Jones expressed great gratitude to the lady for the kind intentions towards him which she had expressed, and indeed testified, by this proposal; but, besides intimating some diffidence of success from the lady’s knowledge of his love to her niece, which had not been her case in regard to Mr Fitzpatrick, he said, he was afraid Miss Western would never agree to an imposition of this kind, as well from her utter detestation of all fallacy as from her avowed duty to her aunt."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An argument, or apparent argument, which professes to be decisive of the matter at issue, while in reality it is not; a specious argument.",
+                  "examples": [
+                    "Synonyms: logical fallacy; see also Thesaurus:incorrect argument",
+                    "Hyponyms: formal fallacy, informal fallacy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
