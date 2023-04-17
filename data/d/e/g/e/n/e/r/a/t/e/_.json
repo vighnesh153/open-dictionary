@@ -1,0 +1,115 @@
+{
+  "word": "degenerate",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin dēgenerātus. Synchronically analyzable as de- +‎ generate."
+      ],
+      "adjectives": [
+        {
+          "description": "degenerate (comparative more degenerate, superlative most degenerate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of qualities) Having deteriorated, degraded or fallen from normal, coherent, balanced and desirable to undesirable and typically abnormal; an immoral or corrupt person.",
+                  "examples": [
+                    "faint-hearted and degenerate king"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a human or system) Having lost good or desirable qualities.",
+                  "examples": [
+                    "As you grew more degenerate and base, I sent you millions of the croaking race"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of an encoding or function) Having multiple domain elements correspond to one element of the range.",
+                  "examples": [
+                    "The genetic code is degenerate because a single amino acid can be coded by one of several codons."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of an eigenvalue) Having multiple different (linearly independent) eigenvectors.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Having the same quantum energy level.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "degenerate (plural degenerates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who is degenerate, who has fallen from previous stature.",
+                  "examples": [
+                    "In the cult of degenerates, acts of decency, kindness and modesty could be seen as acts of apostasy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "degenerate (third-person singular simple present degenerates, present participle degenerating, simple past and past participle degenerated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To lose good or desirable qualities.",
+                  "examples": [
+                    "His condition continued to degenerate even after admission to hospital."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to lose good or desirable qualities.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
