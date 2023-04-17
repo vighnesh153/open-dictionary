@@ -1,0 +1,54 @@
+{
+  "word": "const",
+  "etymologies": [
+    {
+      "description": [
+        "Abbreviation of constant, used as a keyword in certain programming languages."
+      ],
+      "adjectives": [
+        {
+          "description": "const (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a variable) Whose value cannot be changed directly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a function) Which cannot change the value of its class’s attributes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "const (plural consts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A variable whose value cannot be changed directly.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
