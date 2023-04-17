@@ -1,0 +1,214 @@
+{
+  "word": "content",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English contenten (“to satisfy”), from Latin contentus (“contained; satisfied”), past participle of continēre (“to contain”)."
+      ],
+      "adjectives": [
+        {
+          "description": "content (comparative more content or contenter, superlative most content)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Satisfied, pleased, contented.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "content (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Satisfaction, contentment; pleasure.",
+                  "examples": [
+                    "They were in a state of sleepy content after supper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Acquiescence without examination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which contents or satisfies; that which if attained would make one happy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, House of Lords) An expression of assent to a bill or motion; an affirmative vote.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, House of Lords, by metonymy) A member who votes in assent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "content (third-person singular simple present contents, present participle contenting, simple past and past participle contented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give contentment or satisfaction; to satisfy; to make happy.",
+                  "examples": [
+                    "You can't have any more - you'll have to content yourself with what you already have."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To satisfy the expectations of; to pay; to requite.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English content (plural contentes, contence), from Latin contentus, past participle of continēre (“to hold in, contain”), as Etymology 1, above. English apparently developed a substantive form of the adjective, which is not mirrored in Romance languages."
+      ],
+      "adjectives": [
+        {
+          "description": "content (comparative more content, superlative most content)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Contained.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "content (countable and uncountable, plural contents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) That which is contained.",
+                  "examples": [
+                    "Coordinate term: contents"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Subject matter; semantic information (or a portion or body thereof); that which is contained in writing, speech, video, etc.",
+                  "examples": [
+                    "Although eloquently delivered, the content of the speech was objectionable.",
+                    "Some online video creators upload new content every day.",
+                    "Prolific creators manage their voluminous content with any of various content management systems."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The amount of material contained; contents.",
+                  "examples": [
+                    "Light beer has a lower alcohol content than regular beer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Capacity for containing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The n-dimensional space contained by an n-dimensional polytope (called volume in the case of a polyhedron and area in the case of a polygon); length, area or volume, generalized to an arbitrary number of dimensions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, ring theory, of a polynomial with coefficients in a GCD domain) The greatest common divisor of the coefficients; (of a polynomial with coefficients in an integral domain) the common factor of the coefficients which, when removed, leaves the adjusted coefficients with no common factor that is noninvertible.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
