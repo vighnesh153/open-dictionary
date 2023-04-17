@@ -1,0 +1,188 @@
+{
+  "word": "echo",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English eccho, ecco, ekko, from Medieval Latin ecco, from Latin echo, from Ancient Greek ἠχώ (ēkhṓ), from ἠχή (ēkhḗ, “sound”). Possibly from the same Proto-Indo-European root as sough."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "echo (countable and uncountable, plural echoes or echos)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reflected sound that is heard again by its initial observer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An utterance repeating what has just been said.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poetry) A device in verse in which a line ends with a word which recalls the sound of the last word of the preceding line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Sympathetic recognition; response; answer.",
+                  "examples": [
+                    "Many kind, and sincere speeches found an echo in his heart."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The displaying on the command line of the command that has just been executed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An individual discussion forum using the echomail system.",
+                  "examples": [
+                    "When someone asks an off-topic question  […]  they are usually quickly told to knock it off. You can't ask a question about modems in an echo devoted to local-area networks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(international standards) Alternative letter-case form of Echo from the NATO/ICAO Phonetic Alphabet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(whist, bridge) A signal, played in the same manner as a trump signal, made by a player who holds four or more trumps (or, as played by some, exactly three trumps) and whose partner has led trumps or signalled for trumps.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(whist, bridge) A signal showing the number held of a plain suit when a high card in that suit is led by one's partner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An antisemitic punctuation symbol or marking, ((( ))), placed around a name or phrase to indicate the person is Jewish or the entity is controlled by Jewish people.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, colloquial, uncountable) Clipping of echocardiography.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, colloquial, countable) Clipping of echocardiogram.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "echo (third-person singular simple present echoes, present participle echoing, simple past and past participle echoed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a sound or sound waves, intransitive) To reflect off a surface and return.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reflect back (a sound).",
+                  "examples": [
+                    "Those peals are echoed by the Trojan throng."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, transitive) To repeat (another's speech, opinion, etc.).",
+                  "examples": [
+                    "Sid echoed his father's point of view."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To repeat its input as input to some other device or system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, whist, bridge) To give the echo signal, informing one's partner about cards one holds.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
