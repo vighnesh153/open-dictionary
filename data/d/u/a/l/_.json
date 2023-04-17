@@ -1,0 +1,148 @@
+{
+  "word": "dual",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin dualis (“two”), from duo (“two”) + adjective suffix -alis."
+      ],
+      "adjectives": [
+        {
+          "description": "dual (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Characterized by having two (usually equivalent) components.",
+                  "examples": [
+                    "Synonyms: double, twin; see also Thesaurus:dual",
+                    "a dual-motor vehicle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to two, pertaining to a pair of.",
+                  "examples": [
+                    "Synonyms: double, duplicate; see also Thesaurus:twofold",
+                    "dual engine failure",
+                    "dual citizenship"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Pertaining to a grammatical number in certain languages that refers to two of something, such as a pair of shoes.",
+                  "examples": [
+                    "Coordinate terms: singular, trial, plural",
+                    "Modern Arabic displays a dual number, as did Homeric Greek."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, physics) Exhibiting duality.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) Being the space of all linear functionals of (some other space).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) Being the dual of some other category; containing the same objects but with source and target reversed for all morphisms.",
+                  "examples": [
+                    "Synonym: opposite"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dual (plural duals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of an item that is one of a pair, the other item in the pair.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Of a regular polyhedron with V vertices and F faces, the regular polyhedron having F vertices and V faces.",
+                  "examples": [
+                    "The octahedron is the dual of the cube."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) The dual number.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a vector in an inner product space, the linear functional corresponding to taking the inner product with that vector. The set of all duals is a vector space called the dual space.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dual (third-person singular simple present duals, present participle (UK) dualling or (US) dualing, simple past and past participle (UK) dualled or (US) dualed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convert from single to dual; specifically, to convert a single-carriageway road to a dual carriageway.",
+                  "examples": [
+                    "I have to declare an interest and I do so with some ambivalence because if the road is dualled it is likely to take half of my front garden."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
