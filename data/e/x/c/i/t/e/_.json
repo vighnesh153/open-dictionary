@@ -1,0 +1,67 @@
+{
+  "word": "excite",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English exciten, from Old French exciter, from Latin excitare (“call out, call forth, arouse, wake up, stimulate”), frequentative of exciere (“call out, arouse, excite”), from ex (“out”) + ciere (“call, summon”). See cite and compare to accite, concite, incite."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "excite (third-person singular simple present excites, present participle exciting, simple past and past participle excited)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To stir the emotions of.",
+                  "examples": [
+                    "The fireworks which opened the festivities excited anyone present."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arouse or bring out (e.g. feelings); to stimulate.",
+                  "examples": [
+                    "Favoritism tends to excite jealousy in the ones not being favored.",
+                    "The political reforms excited unrest among the population.",
+                    "There are drugs designed to excite certain nerves in our body."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, physics) To cause an electron to move to a higher than normal state; to promote an electron to an outer level.",
+                  "examples": [
+                    "By applying electric potential to the neon atoms, the electrons become excited, then emit a photon when returning to normal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To energize (an electromagnet); to produce a magnetic field in.",
+                  "examples": [
+                    "to excite a dynamo"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
