@@ -1,0 +1,83 @@
+{
+  "word": "differentiate",
+  "etymologies": [
+    {
+      "description": [
+        "From New Latin differentiātus, past participle of differentiō, from Latin differentia (“difference”); see difference."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "differentiate (plural differentiates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) Something that has been differentiated or stratified.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "differentiate (third-person singular simple present differentiates, present participle differentiating, simple past and past participle differentiated)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To make different; to change, modify.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To recognize a distinction or difference between two things.",
+                  "examples": [
+                    "Antonym: conflate"
+                  ]
+                },
+                {
+                  "meaning": "(mathematics) To calculate the derivative of a function.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(mathematics) To calculate the differential of a function of multiple variables.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To perceive the difference between things; to discriminate.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(education) To teach a lesson in multiple different ways in order to meet the needs of more or less advanced students.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, often in the passive, biology) To (cause to) go through a process of development called differentiation; to make or become different in form or function.",
+                  "examples": [
+                    "Synonym: specialize"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
