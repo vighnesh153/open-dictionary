@@ -6,6 +6,8 @@ An initiative to create an **English** dictionary which is open to all and maint
 
 ## How to use?
 
+### GitHub server (**RECOMMENDED**)
+
 * Break your word into single letters and create a `/`-separated path
 * Prefix the path with `https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/`
 * Suffix the path with `/_.json`
@@ -15,6 +17,19 @@ An initiative to create an **English** dictionary which is open to all and maint
 https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/a/p/p/l/e/_.json
 ```
 
+### My custom Cloudflare worker (for quick testing)
+
+Pass your word to this url as a search parameter: `https://open-dictionary.vighnesh153.workers.dev/?word=<your-word>`
+
+```txt
+# Examples
+https://open-dictionary.vighnesh153.workers.dev/?word=apple
+https://open-dictionary.vighnesh153.workers.dev/?word=banana
+```
+
+> Note: This approach is not recommended because this worker has a free limit of 100K requests per day. If a lot of
+> people are using this, then your application might hit a downtime if the threshold is breached
+
 ## Why?
 
 - No other free API
@@ -23,7 +38,9 @@ https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/a/p/p/l/
 - GitHub's servers are more reliable than a custom host managed by a small group of people without any funding
 
 ## Missing word?
+
 If a word is missing, you can either
+
 * Create an issue specifying which word is missing
 * It would be more awesome if you could also raise a PR for the issue
 
@@ -42,30 +59,30 @@ The `json` files will have a type of `WordWiki` described below:
 
 ```ts
 interface WordWiki {
-  word: string;
-  etymologies: Array<Etymology>;
+    word: string;
+    etymologies: Array<Etymology>;
 }
 
 interface Etymology {
-  description: Array<string>;
-  nouns: Array<PartOfSpeech>;
-  verbs: Array<PartOfSpeech>;
-  adjectives: Array<PartOfSpeech>;
-  prepositions: Array<PartOfSpeech>;
-  adverbs: Array<PartOfSpeech>;
+    description: Array<string>;
+    nouns: Array<PartOfSpeech>;
+    verbs: Array<PartOfSpeech>;
+    adjectives: Array<PartOfSpeech>;
+    prepositions: Array<PartOfSpeech>;
+    adverbs: Array<PartOfSpeech>;
 }
 
 interface PartOfSpeech {
-  description: string;
-  definitionGroups: Array<DefinitionGroup>;
+    description: string;
+    definitionGroups: Array<DefinitionGroup>;
 }
 
 interface DefinitionGroup {
-  description: string;
-  entries: Array<{
-    meaning: string;
-    examples: Array<string>;
-  }>;
+    description: string;
+    entries: Array<{
+        meaning: string;
+        examples: Array<string>;
+    }>;
 }
 ```
 
