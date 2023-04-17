@@ -1,0 +1,42 @@
+{
+  "word": "decoherence",
+  "etymologies": [
+    {
+      "description": [
+        "First attested 1902 (OED) in the electrical engineering sense \"the resetting of a coherer.\" From decohere (also 1902)  +‎ -ence, representing the verbal noun (compare decohesion, decoherency).",
+        "The quantum mechanics concept was introduced in 1970 by German physicist H. Dieter Zeh, writing in the journal Foundations of Physics."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "decoherence (countable and uncountable, plural decoherences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(quantum mechanics) Loss of quantum coherence (phase relation between the quantum states of particles) in a physical system as it interacts with its environment.",
+                  "examples": [
+                    "There is a sense in which simple interference effects are destroyed when a system's environment becomes correlated with its state. This phenomenon is called decoherence. I shall consider three approaches here. According to one, decoherence alone explains why we get determinate records. According to another, decoherence helps one to formulate a satisfactory interpretation of Everett by selecting a globally preferred basis that makes the right physical facts determinate in each Everett branch. According to a third, decoherence sects a locally preferred basis for each observer that makes the right physical facts determinate from the perspective of that particular observer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, dated) The normal condition of sensitiveness in a coherer; reversion to such condition.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
