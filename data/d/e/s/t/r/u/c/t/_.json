@@ -1,0 +1,50 @@
+{
+  "word": "destruct",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from destruction."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "destruct (third-person singular simple present destructs, present participle destructing, simple past and past participle destructed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, nonstandard) To intentionally cause the destruction of.",
+                  "examples": [
+                    "Synonym: destroy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To invoke the destructor of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To self-destruct.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
