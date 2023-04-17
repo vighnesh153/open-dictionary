@@ -1,0 +1,45 @@
+{
+  "word": "capacitated",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "capacitated (comparative more capacitated, superlative most capacitated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) Constrained by maximum throughput, often applied to physical networks transporting flows.",
+                  "examples": [
+                    "We consider uniqueness and multiplicity of market equilibria in a short-run setup where traded quantities of electricity are transported through a capacitated network in which power flows have to satisfy the classical lossless DC approximation."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "capacitated",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of capacitate",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

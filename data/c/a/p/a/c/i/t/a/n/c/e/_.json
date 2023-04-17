@@ -1,0 +1,39 @@
+{
+  "word": "capacitance",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "capacitance (countable and uncountable, plural capacitances)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, uncountable) The property of an electric circuit or its element that permits it to store charge, defined as the ratio of stored charge to potential over that element or circuit (Q/V); SI unit: farad (F).",
+                  "examples": [
+                    "Antonym: elastance"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, countable) An element of an electrical circuit exhibiting capacitance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
