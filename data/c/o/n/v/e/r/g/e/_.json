@@ -1,0 +1,50 @@
+{
+  "word": "converge",
+  "etymologies": [
+    {
+      "description": [
+        "From convergere, from con- (“together”) + vergere (“to bend”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "converge (third-person singular simple present converges, present participle converging, simple past and past participle converged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) (said of two or more entities) To approach each other; to get closer and closer.",
+                  "examples": [
+                    "ideas converge"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, mathematics) (said of a sequence or series) To have a (finite, proper) limit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) (said of an iterative process) To reach a stable end point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
