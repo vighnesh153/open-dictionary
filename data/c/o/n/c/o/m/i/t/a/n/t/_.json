@@ -1,0 +1,67 @@
+{
+  "word": "concomitant",
+  "etymologies": [
+    {
+      "description": [
+        "First attested 1607; from Middle French concomitant, from Latin concomitāns, the present participle of concomitor (“I accompany”), from con- (“together”) + comitor (“I accompany”), from comes (“companion”)."
+      ],
+      "adjectives": [
+        {
+          "description": "concomitant (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Accompanying; conjoining; attending; concurrent. [from early 17th c.]",
+                  "examples": [
+                    "Synonyms: accompanying, adjoining, attendant, incidental"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Of or relating to the grammatical aspect which expresses that a secondary action is occurring simultaneously to the primary action of the statement.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "concomitant (plural concomitants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something happening or existing at the same time.",
+                  "examples": [
+                    "Synonyms: accompaniment, co-occurrence"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) An invariant homogeneous polynomial in the coefficients of a form, a covariant variable, and a contravariant variable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
