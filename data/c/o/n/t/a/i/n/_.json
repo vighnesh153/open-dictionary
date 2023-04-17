@@ -1,0 +1,73 @@
+{
+  "word": "contain",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English, borrowed from Old French contenir, from Latin continēre (“to hold or keep together, comprise, contain”), combined form of con- (“together”) + teneō (“to hold”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "contain (third-person singular simple present contains, present participle containing, simple past and past participle contained)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hold inside.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To include as a part.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put constraints upon; to restrain; to confine; to keep within bounds.",
+                  "examples": [
+                    "I'm so excited, I can hardly contain myself!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a set etc., transitive) To have as an element or subset.",
+                  "examples": [
+                    "A group contains a unique inverse for each of its elements.",
+                    "If that subgraph contains the vertex in question then it must be spanning."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To restrain desire; to live in continence or chastity.",
+                  "examples": [
+                    "But if they cannot contain, let them marry."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "word": "container",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English conteyner, equivalent to contain +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "container (plural containers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who contains; something that contains.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An item in which objects, materials or data can be stored or transported.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:container"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transport) A very large, typically metal, box used for transporting goods.",
+                  "examples": [
+                    "Synonyms: cargo container, shipping container"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) Someone who holds people in their seats or in a (reasonably) calm state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A file format that can hold various types of data.",
+                  "examples": [
+                    "Synonym: container format"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) An abstract data type whose instances are collections of other objects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, graphical user interface) Any user interface component that can hold further (child) components.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A bundle consisting of operating system, application code and dependencies to be run sandboxed inside a virtualized environment; (by extension) the environment itself.",
+                  "examples": [
+                    "Synonym: software container"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
