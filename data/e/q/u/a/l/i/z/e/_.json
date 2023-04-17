@@ -1,0 +1,77 @@
+{
+  "word": "equalize",
+  "etymologies": [
+    {
+      "description": [
+        "From equal +‎ -ize."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "equalize (third-person singular simple present equalizes, present participle equalizing, simple past and past participle equalized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make equal; to cause to correspond in amount or degree.",
+                  "examples": [
+                    "to equalize accounts, burdens, or taxes"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To be equal to; to equal, to rival. [16th–19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, sports) To make the scoreline equal by scoring points. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(underwater diving) To clear the ears to balance the pressure in the middle ear with the outside pressure by letting air enter along the Eustachian tubes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) Said of a morphism: to pre-compose with each of a parallel pair of morphisms so as to yield the same composite morphism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing) To adjust the balance between frequency components within an electronic signal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
