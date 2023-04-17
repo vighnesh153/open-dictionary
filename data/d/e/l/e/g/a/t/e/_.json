@@ -1,0 +1,100 @@
+{
+  "word": "delegate",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English delegat, from Old French delegat, from Latin dēlēgātus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "delegate (plural delegates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person authorized to act as representative for another; a deputy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A representative at a conference, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) An appointed representative in some legislative bodies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A type of variable storing a reference to a method with a particular signature, analogous to a function pointer.",
+                  "examples": [
+                    "Historically, all viable frameworks have always provided a mechanism to implement callbacks. C# goes one step further and encapsulates callbacks into callable objects called delegates."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "delegate (third-person singular simple present delegates, present participle delegating, simple past and past participle delegated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "to authorize someone to be a delegate",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "to commit a task to someone, especially a subordinate",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Internet) (of a subdomain) to give away authority over a subdomain; to allow someone else to create sub-subdomains of a subdomain of one's own",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
