@@ -1,0 +1,53 @@
+{
+  "word": "dedecoration",
+  "etymologies": [
+    {
+      "description": [
+        "Latin dedecoratio."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dedecoration (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Disgrace; dishonour.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) The removal of decoration.",
+                  "examples": [
+                    "He was advised that it clearly might; that these mummers had no right to lay their hands on this public ornament, whether for the purpose of decoration or dedecoration"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) Decimation (the elimination of points from a lattice); the inverse of decoration.",
+                  "examples": [
+                    "Dedecoration did not produce any advantages in observing the size of the displacement of dislocations.",
+                    "Applying the star-triangle and dedecoration transformations […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
