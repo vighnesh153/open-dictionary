@@ -1,0 +1,57 @@
+{
+  "word": "celerity",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French celeritee (compare French célérité), from Latin celeritas, from celer (“fast, swift”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "celerity (usually uncountable, plural celerities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Speed, swiftness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(oceanography) The speed of individual waves (as opposed to the speed of groups of waves).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hydrology) The speed with which a perturbation to the flow propagates through the flow domain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications, dated) The speed of symbol transmission, now called baud rate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
