@@ -1,0 +1,33 @@
+{
+  "word": "fanout",
+  "etymologies": [
+    {
+      "description": [
+        "fan +‎ out, from the phrasal verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fanout (countable and uncountable, plural fanouts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, electronics) The degree to which something fans out, or splits into separate sections.",
+                  "examples": [
+                    "B+ trees have very high fanout, which reduces the number of I/O operations required to find an element in the tree.",
+                    "The fanout of a logic gate output is the number of gate inputs to which it is connected."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
