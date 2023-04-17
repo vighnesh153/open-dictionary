@@ -1,0 +1,65 @@
+{
+  "word": "elision",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin elisionem, accusative singular of elisio."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "elision (plural elisions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The deliberate omission of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The omission of a letter or syllable between two words or inside a word; sometimes marked with an apostrophe.",
+                  "examples": [
+                    "See also: contraction, apheresis, apocope, syncope"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A different mode or method of operating a computer program.",
+                  "examples": [
+                    "Derived terms: copy elision",
+                    "The parallel program running on one core should behave exactly the same as the serial elision."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
