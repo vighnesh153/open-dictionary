@@ -1,0 +1,290 @@
+{
+  "word": "dag",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English dagge, of uncertain (probably Germanic) origin, cognate with (Middle) Dutch dag, dagge, dagh. The sense \"dangling lock of wool, matted with dung\" (originally from the dialect of Kent) is also termed \"daglock\" (derived from the \"hanging end\" sense of \"dag\") or \"daggle-lock\" and some sources consider the sense a shortening of that longer word rather than a mere evolution of the \"hanging end\" sense."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dag (plural dags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hanging end or shred, in particular a long pointed strip of cloth at the edge of a piece of clothing, or one of a row of decorative strips of cloth that may ornament a tent, booth or fairground.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dangling lock of sheep’s wool matted with dung.",
+                  "examples": [
+                    "To see the dunged folds of dag-tayled sheepe."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dag (third-person singular simple present dags, present participle dagging, simple past and past participle dagged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To shear the hindquarters of a sheep in order to remove dags or prevent their formation.",
+                  "examples": [
+                    "After learning how to crutch at 13, he could dag 400 sheep in a day by the spring of 1965 and earned himself more than just a bit of pocket money."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, or dialectal) To sully; to make dirty; to bemire.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Old French dague (from Old Occitan dague, of uncertain origin, perhaps from Vulgar Latin *daca (“Dacian knife”), from the Roman province Dacia (roughly modern Romania); the ending is possibly the faintly pejorative -ard suffix, as in poignard (“dagger”)); cognate with dagger."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dag (plural dags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A skewer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A spit, a sharpened rod used for roasting food over a fire.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A dagger; a poniard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A kind of large pistol.",
+                  "examples": [
+                    "The Spaniards discharged their dags, and hurt some."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The unbranched antler of a young deer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dag (third-person singular simple present dags, present participle dagging, simple past and past participle dagged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To skewer food, for roasting over a fire",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cut or slash the edge of a garment into dags",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Variation of dang."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Perhaps a back-formation from daggy, or, a specialised sense of British dialect dag, a daring feat amongst boys."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dag (plural dags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia slang, derogatory) One who dresses unfashionably or without apparent care about appearance; someone who is not cool; a dweeb or nerd.",
+                  "examples": [
+                    "Now, wide-eyed and unfashionably excited (\"I’m such a dag!\" she remarks several times), she has the leading role of Viola in the Bell Shakespeare Company’s production of Twelfth Night, opening on August 10 at the Victorian Arts Centre Playhouse."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia slang, New Zealand, obsolete) An odd or eccentric person; someone who is a bit strange but amusingly so.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Initialism for directed acyclic graph."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dag (plural dags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A directed acyclic graph; an ordered pair \n  \n    \n      \n        (\n        V\n        ,\n        E\n        )\n      \n    \n    {\\displaystyle (V,E)}\n  \n such that \n  \n    \n      \n        E\n      \n    \n    {\\displaystyle E}\n  \n is a subset of some partial ordering relation on \n  \n    \n      \n        V\n      \n    \n    {\\displaystyle V}\n  \n.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Of North Germanic origin; compare Swedish dagg. Doublet of dew."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dag (plural dags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A misty shower; dew.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dag (third-person singular simple present dags, present participle dagging, simple past and past participle dagged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dialect) To be misty; to drizzle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dag (plural dags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Ireland) Pronunciation spelling of dog.",
+                  "examples": [
+                    "Mickey: Dags! D' ya like dags?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
