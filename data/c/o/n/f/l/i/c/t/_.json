@@ -1,0 +1,74 @@
+{
+  "word": "conflict",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin conflictus, past participle of confligere (“to strike together”), from com- (“together”) (a form of con-) + fligere (“to strike”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "conflict (countable and uncountable, plural conflicts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A clash or disagreement, often violent, between two or more opposing groups or individuals.",
+                  "examples": [
+                    "The conflict between the government and the rebels began three years ago."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An incompatibility, as of two things that cannot be simultaneously fulfilled.",
+                  "examples": [
+                    "I wanted to attend the meeting but there's a conflict in my schedule that day."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "conflict (third-person singular simple present conflicts, present participle conflicting, simple past and past participle conflicted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be at odds (with);  to disagree or be incompatible",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To overlap (with), as in a schedule.",
+                  "examples": [
+                    "Your conference call conflicts with my older one: please reschedule.",
+                    "It appears that our schedules conflict."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
