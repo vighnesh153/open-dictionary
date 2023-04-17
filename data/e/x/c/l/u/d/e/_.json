@@ -1,0 +1,70 @@
+{
+  "word": "exclude",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin exclūdō, from prefix ex- (“out”) + variant form of verb claudō (“close”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "exclude (third-person singular simple present excludes, present participle excluding, simple past and past participle excluded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bar (someone or something) from entering; to keep out.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To expel; to put out.",
+                  "examples": [
+                    "to exclude young animals from the womb or from eggs"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To omit from consideration.",
+                  "examples": [
+                    "Count from 1 to 30, but exclude the prime numbers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To refuse to accept (evidence) as valid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, medicine) To eliminate from diagnostic consideration.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
