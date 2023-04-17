@@ -1,0 +1,228 @@
+{
+  "word": "cone",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English cone (“corner, angle”) and conoun (“cone”), from Medieval Latin cōnus, cōnon (“cone, wedge, peak”), from Ancient Greek κῶνος (kônos, “cone, spinning top, pine cone”). Reinforced by Middle French cone, from the same Graeco-Latin source."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cone (plural cones)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A surface of revolution formed by rotating a segment of a line around another line that intersects the first line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A solid of revolution formed by rotating a triangle around one of its altitudes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A space formed by taking the direct product of a given space with a closed interval and identifying all of one end to a point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything shaped like a cone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The fruit of a conifer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cone-shaped flower head of various plants, such as banksias and proteas.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An ice cream cone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A traffic cone",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unit of volume, applied solely to marijuana and only while it is in a smokable state; roughly 1.5 cubic centimetres, depending on use.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) Any of the small cone-shaped structures in the retina.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) The bowl piece on a bong.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) The process of smoking cannabis in a bong.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A cone-shaped cannabis joint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A passenger on a cruise ship (so-called by employees after traffic cones, from the need to navigate around them)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) An object V together with an arrow going from V to each object of a diagram such that for any arrow A in the diagram, the pair of arrows from V which subtend A also commute with it. (Then V can be said to be the cone’s vertex and the diagram which the cone subtends can be said to be its base.)",
+                  "examples": [
+                    "Hyponym: limit",
+                    "A cone is an object (the apex) and a natural transformation from a constant functor (whose image is the apex of the cone and its identity morphism) to a diagram functor. Its components are projections from the apex to the objects of the diagram and it has a “naturality triangle” for each morphism in the diagram. (A “naturality triangle” is just a naturality square which is degenerate at its apex side.)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A shell of the genus Conus, having a conical form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A set of formal languages with certain desirable closure properties, in particular those of the regular languages, the context-free languages and the recursively enumerable languages.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cone (third-person singular simple present cones, present participle coning, simple past and past participle coned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fashion into the shape of a cone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To form a cone shape.",
+                  "examples": [
+                    "Under the old method the material coned at the bottom of the borehole and as a result it would not go under houses and buildings."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(frequently followed by \"off\") To segregate or delineate an area using traffic cones.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
