@@ -1,0 +1,68 @@
+{
+  "word": "classifier",
+  "etymologies": [
+    {
+      "description": [
+        "classify +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "classifier (plural classifiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who classifies.",
+                  "examples": [
+                    "He was a model of anal defensiveness: fastidious in his dress and appearance, a collector and putter of things in order, a classifier and labeler."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A word or morpheme used in some languages (such as Japanese and American Sign Language), in certain contexts (such as counting), to indicate the semantic class to which something belongs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A machine that separates particles or objects of different size or density.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program or algorithm that classifies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) Class which classifies other classes by features.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
