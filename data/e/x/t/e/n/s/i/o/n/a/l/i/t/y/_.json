@@ -1,0 +1,48 @@
+{
+  "word": "extensionality",
+  "etymologies": [
+    {
+      "description": [
+        "extensional +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "extensionality (usually uncountable, plural extensionalities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) The principle that objects are equal if and only if their observed properties are the same, regardless of internal processes that lead to those properties.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, functional analysis) The principle that functions are equal if and only if they operate on the same domain and for any given element of the domain the result of each of the functions is the same.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, set theory) The principle, codified in the axiom of extensionality, that sets are equal if and only if they contain the same elements.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

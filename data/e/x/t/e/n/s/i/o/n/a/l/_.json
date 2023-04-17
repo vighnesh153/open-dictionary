@@ -1,0 +1,41 @@
+{
+  "word": "extensional",
+  "etymologies": [
+    {
+      "description": [
+        "extension +‎ -al"
+      ],
+      "adjectives": [
+        {
+          "description": "extensional (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to extension.",
+                  "examples": [
+                    "In both the intensional and extensional logic traditions, we see theories of complex terms. In the extensional tradition, disjunctive and conjunctive terms are interpreted by taking the union and intersection of classes. The conjunctive term AB is interpreted as the intersection of the class A and the class B and the extension of the disjunctive term A+B is understood as the union of the extensions of A and B.     In the intensional tradition, the reverse holds. The term AB is interpreted as the union of the properties in the intent of A and the intent of B and A+B is interpreted as the intersection of the properties in A and B. This reversal makes sense, since more things fit a smaller number of properties and fewer things fit a larger number of properties."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having great extent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
