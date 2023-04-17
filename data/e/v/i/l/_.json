@@ -1,0 +1,173 @@
+{
+  "word": "evil",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English yvel, evel, ivel, uvel, from Old English yfel, from Proto-West Germanic *ubil, from Proto-Germanic *ubilaz (compare Saterland Frisian eeuwel, Dutch euvel, Low German övel, German übel, Gothic 𐌿𐌱𐌹𐌻𐍃 (ubils, “bad, evil”)), from Proto-Indo-European *h₂up(h₁)élos, a deverbal derivative of *h₂wep(h₁)-, *h₂wop(h₁)- (“treat badly”). Compare Old Irish fel (“bad, evil”), from Proto-Celtic *uɸelos, and Hittite 𒄷𒉿𒀊𒍣 (huwapp-i, “to mistreat, harass”), 𒄷𒉿𒀊𒉺𒀸 (huwappa-, “evil, badness”). See -le for the supposed suffix.",
+        "Alternatively from *upélos (“evil”, literally “going over or beyond (acceptable limits)”), from Proto-Indo-European *upo, *h₃ewp- (“down, up, over”)."
+      ],
+      "adjectives": [
+        {
+          "description": "evil (comparative eviller or eviler or more evil, superlative evillest or evilest or most evil)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Intending to harm; malevolent.",
+                  "examples": [
+                    "an evil plot to brainwash and even kill innocent people"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Morally corrupt.",
+                  "examples": [
+                    "If something is evil, it is never mandatory.",
+                    "Do you think that companies that engage in animal testing are evil?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unpleasant, foul (of odour, taste, mood, weather, etc.).",
+                  "examples": [
+                    "An Odoriferous Specifick  […]  is a Matter that takes away Diseases from the Sick, no otherwise then as Civet drives away the stinck of Ordure by its Odour; for you are to observe, That the Specifick doth permix it self with this evil Odour of the Dung; and the stink of the Dung cannot hurt, no[r] abide there  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Producing or threatening sorrow, distress, injury, or calamity; unpropitious; calamitous.",
+                  "examples": [
+                    "“ […]  with bandits and robbers roving over the land in these evil times of famine and war, how can it be said that this one or that stole anything? Hunger makes thief of any man.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Having harmful qualities; not good; worthless or deleterious.",
+                  "examples": [
+                    "an evil beast; an evil plant; an evil crop"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, slang) Undesirable; harmful; bad practice.",
+                  "examples": [
+                    "Global variables are evil; storing processing context in object member variables allows those objects to be reused in a much more flexible way."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "evil (countable and uncountable, plural evils)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Moral badness; wickedness; malevolence; the forces or behaviors that are the opposite or enemy of good.",
+                  "examples": [
+                    "The heart of the sons of men is full of evil."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something which impairs the happiness of a being or deprives a being of any good; something which causes suffering of any kind to sentient beings; harm; injury; mischief.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A malady or disease; especially in combination, as in king's evil, colt evil.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English yvel, evel, ivel, uvel (“evilly”), from Old English yfele, yfle (“evilly”), a derivative of the noun yfel (“evil”). Often reinterpreted as the noun in the later language (as in \"to speak evil\")."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "evil (comparative more evil, superlative most evil)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) wickedly, evilly, iniquitously",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) injuriously, harmfully; in a damaging way.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) badly, poorly; in an insufficient way.",
+                  "examples": [
+                    "It went evil with him."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
