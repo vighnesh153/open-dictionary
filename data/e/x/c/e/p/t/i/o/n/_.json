@@ -1,0 +1,74 @@
+{
+  "word": "exception",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English exception, excepcioun, from Anglo-Norman excepcioun, from Old French excepcion, from Latin exceptiō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "exception (countable and uncountable, plural exceptions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of excepting or excluding; exclusion; restriction by taking out something which would otherwise be included, as in a class, statement, rule.",
+                  "examples": [
+                    "the exception of a rule"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is excluded from others; a person, thing, or case, specified as distinct, or not included.",
+                  "examples": [
+                    "Synonym: outlier"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) An objection, on legal grounds; also, as in conveyancing, a clause by which the grantor excepts or reserves something before the right is transferred.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An objection; cavil; dissent; disapprobation; offense; cause of offense; — usually followed by to or against.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An interruption in normal processing, typically caused by an error condition, that can be raised (\"thrown\") by one part of the program and handled (\"caught\") by another part.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
