@@ -1,0 +1,91 @@
+{
+  "word": "execution",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French execution (c.1360), from Latin exsecutiō, an agent noun from exsequor (“to follow out”), from ex (“out”) + sequor (“follow”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "execution (countable and uncountable, plural executions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act, manner or style of executing (actions, maneuvers, performances).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being accomplished.",
+                  "examples": [
+                    "The mission's successful execution lifted the troops' morale.",
+                    "Coordinate term: realization"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of putting to death or being put to death as a penalty, or actions so associated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The carrying into effect of a court judgment, or of a will.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) Specifically, the seizure of a debtor's goods or property in default of payment.",
+                  "examples": [
+                    "There are two executions in the house, one for sixteen hundred, the other for two thousand three hundred pounds."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The formal process by which a contract is made valid and put into binding effect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The carrying out of an instruction, program or program segment by a computer.",
+                  "examples": [
+                    "The entire machine slowed down during the execution of the virus checker."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
