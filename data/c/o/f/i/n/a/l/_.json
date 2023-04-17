@@ -1,0 +1,32 @@
+{
+  "word": "cofinal",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ final"
+      ],
+      "adjectives": [
+        {
+          "description": "cofinal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(order theory) Of a subset of a partially ordered set; containing elements at least as late as any given element of the set, relative to the given partial order.",
+                  "examples": [
+                    "The Archimedean property of real numbers means that the natural numbers form a cofinal subset of ℝ."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
