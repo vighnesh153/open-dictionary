@@ -1,0 +1,54 @@
+{
+  "word": "falsifiable",
+  "etymologies": [
+    {
+      "description": [
+        "falsify +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "falsifiable (comparative more falsifiable, superlative most falsifiable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Logically capable of being proven false.",
+                  "examples": [
+                    "The sentence \"It will rain tomorrow\" is falsifiable, while the sentence \"It is what it is\" is not."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being falsified or forged.",
+                  "examples": [
+                    "A digital signature algorithm must be not falsifiable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(epistemology) The demarcation criterion between scientific and non-scientific statements proposed by Karl Popper. In order to be ranked as scientific, statements or systems of statements must be contradicted by an intersubjective singular existential statement, also called a basic statement, and not be contradicted by another, that is, they must also be logically possible.",
+                  "examples": [
+                    "The statement It rains every day, everywhere is falsifiable, because it is contradicted by the basic statement On the third of August, in New York city it was not raining and it is not contradicted by the basic statement On the second of August, in New York city it was raining, while the statement It will rain someday is not falsifiable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
