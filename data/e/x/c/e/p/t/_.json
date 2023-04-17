@@ -1,0 +1,61 @@
+{
+  "word": "except",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French excepter, from Latin exceptus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [
+        {
+          "description": "except",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "with the exception of; but.",
+                  "examples": [
+                    "There was nothing in the cupboard except a tin of beans.",
+                    "Synonyms: apart from, except for, outtake, with the exception of"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": [
+        {
+          "description": "except (third-person singular simple present excepts, present participle excepting, simple past and past participle excepted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To exclude; to specify as being an exception.",
+                  "examples": [
+                    "But this [ban on circumcision] must have been a provocation, as the emperor Antoninus Pius later acknowledged by excepting the Jews."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To take exception, to object (to or against).",
+                  "examples": [
+                    "to except to a witness or his testimony"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
