@@ -1,0 +1,57 @@
+{
+  "word": "diacritic",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Ancient Greek διακριτικός (diakritikós, “distinguishing, separative”), from διακρίνειν (diakrínein, “to distinguish, separate”), from διά (diá, “between”) + κρίνω (krínō, “I separate, distinguish”)."
+      ],
+      "adjectives": [
+        {
+          "description": "diacritic (comparative more diacritic, superlative most diacritic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "distinguishing",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(orthography, not comparable) Denoting a distinguishing mark applied to a letter or character.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "diacritic (plural diacritics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A special mark added to a letter to indicate a different pronunciation, stress, tone, or meaning.",
+                  "examples": [
+                    "Synonyms: accent, diacritical, diacritical mark",
+                    "Hyponyms: cedilla, diaeresis, röck döts, tilde, umlaut"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
