@@ -1,0 +1,162 @@
+{
+  "word": "extract",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin extractum, neuter perfect passive participle of extrahō, from ex- (“out of”) +‎ trahō (“I drag”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "extract (plural extracts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that is extracted or drawn out.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A portion of a book or document, incorporated distinctly in another work; a citation; a quotation.",
+                  "examples": [
+                    "I used an extract of Hemingway's book to demonstrate culture shock."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A decoction, solution, or infusion made by drawing out from any substance that which gives it its essential and characteristic virtue",
+                  "examples": [
+                    "extract of beef",
+                    "extract of dandelion",
+                    "vanilla extract"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any substance extracted is such a way, and characteristic of that from which it is obtained",
+                  "examples": [
+                    "quinine is the most important extract of Peruvian bark."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A solid preparation obtained by evaporating a solution of a drug, etc., or the fresh juice of a plant (distinguished from an abstract).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A peculiar principle (fundamental essence) once erroneously supposed to form the basis of all vegetable extracts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Ancestry; descent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A draft or copy of writing; a certified copy of the proceedings in an action and the judgment therein, with an order for execution.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "extract (third-person singular simple present extracts, present participle extracting, simple past extracted, past participle extracted or (archaic) extraught)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw out; to pull out; to remove forcibly from a fixed position, as by traction or suction, etc.",
+                  "examples": [
+                    "to extract a tooth from its socket, a stump from the earth, or a splinter from the finger"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To withdraw by expression, distillation, or other mechanical or chemical process. Compare abstract (transitive verb).",
+                  "examples": [
+                    "to extract an essential oil from a plant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take by selection; to choose out; to cite or quote, as a passage from a book.",
+                  "examples": [
+                    "I have thought it proper to extract out of that pamphlet a few of those notorious falsehoods."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To select parts of a whole",
+                  "examples": [
+                    "We need to try to extract the positives from the defeat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, arithmetic) To determine (a root of a number).",
+                  "examples": [
+                    "Please extract the cube root of 27."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
