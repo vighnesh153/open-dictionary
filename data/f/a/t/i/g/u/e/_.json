@@ -1,0 +1,105 @@
+{
+  "word": "fatigue",
+  "etymologies": [
+    {
+      "description": [
+        "From French fatigue, from fatiguer, from Latin fatīgāre (“to weary, tire, vex, harass”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fatigue (countable and uncountable, plural fatigues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A weariness caused by exertion; exhaustion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(often in the plural) A menial task or tasks, especially in the military.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) Weakening and eventual failure of material, typically by cracking leading to complete separation, caused by repeated application of mechanical stress to the material.",
+                  "examples": [
+                    "Mechanical failures due to fatigue have been the subject of engineering efforts for more than 150 years."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fatigue (third-person singular simple present fatigues, present participle fatiguing, simple past and past participle fatigued)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To tire or make weary by physical or mental exertion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, cooking) To wilt a salad by dressing or tossing it.",
+                  "examples": [
+                    "The handsome, silver-haired proprietor was absorbed in fatiguing a salad for a family party."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To lose so much strength or energy that one becomes tired, weary, feeble or exhausted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, engineering, of a material specimen) To undergo the process of fatigue; to fail as a result of fatigue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, engineering) To cause to undergo the process of fatigue.",
+                  "examples": [
+                    "The repeated pressurization cycles fatigued the airplane's metal skin until it eventually broke up in flight."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
