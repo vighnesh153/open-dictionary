@@ -1,0 +1,112 @@
+{
+  "word": "compare",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English comparen, from Old French comparer, from Latin comparare (“to prepare, procure”), from compar (“like or equal to another”), from com- + par (“equal”). Displaced native Old English metan (“to compare,” also “to measure”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compare (countable and uncountable, plural compares)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Comparison.",
+                  "examples": [
+                    "Their small galleys may not hold compare with our tall ships."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, programming) An instruction or command that compares two values or states.",
+                  "examples": [
+                    "[…]  including addition and subtraction, memory operations, compares, shifts, logic operations, and condition operations."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, obsolete) Illustration by comparison; simile.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "compare (third-person singular simple present compares, present participle comparing, simple past and past participle compared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
+                  "examples": [
+                    "Compare the tiger's coloration with that of the zebra.",
+                    "You can't compare my problems and yours."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To declare two things to be similar in some respect [\"to compare X to Y\"].",
+                  "examples": [
+                    "Astronomers have compared comets to dirty snowballs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, grammar) To form the three degrees of comparison of (an adjective).",
+                  "examples": [
+                    "We compare \"good\" as \"good\", \"better\", \"best\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be similar (often used in the negative).",
+                  "examples": [
+                    "A sapling and a fully-grown oak tree do not compare."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To get; to obtain.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
