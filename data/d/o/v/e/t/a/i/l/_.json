@@ -1,0 +1,98 @@
+{
+  "word": "dovetail",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is derived from dove +‎ tail. The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dovetail (plural dovetails)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The tail of a dove (family Columbidae); also, something having the shape of a dove's tail.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(chiefly woodworking, often attributively)",
+              "entries": [
+                {
+                  "meaning": "In full dovetail joint: a type of joint where adjoining components are fastened by multiple tenons cut into wedge shapes resembling a dove's tail, which interlock with mortises having corresponding shapes.",
+                  "examples": [
+                    "Synonyms: culvertail, fantail, swallowtail"
+                  ]
+                },
+                {
+                  "meaning": "A tenon cut into a wedge shape resembling a dove's tail so that it interlocks with a mortise having a corresponding shape in a dovetail joint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) A line resembling a dovetail joint (sense 2.1).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dovetail (third-person singular simple present dovetails, present participle dovetailing, simple past and past participle dovetailed)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "(chiefly woodworking) To unite (components) with a dovetail (noun sense 2.1) or similar joint.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figuratively)",
+                  "examples": [
+                    "The executive board dovetailed its decision neatly with the prior projects the company had taken up.",
+                    "Through my new project, I dovetail my interests in botany and programming."
+                  ]
+                },
+                {
+                  "meaning": "To combine or fit (things) together well.",
+                  "examples": [
+                    "The executive board dovetailed its decision neatly with the prior projects the company had taken up.",
+                    "Through my new project, I dovetail my interests in botany and programming."
+                  ]
+                },
+                {
+                  "meaning": "(computing) To interweave (a number of algorithms or subprograms) so that they can be run more or less simultaneously.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figuratively) Of several things: to combine or fit together well.",
+                  "examples": [
+                    "The parts of your essay should dovetail so that it is cohesive and coherent."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
