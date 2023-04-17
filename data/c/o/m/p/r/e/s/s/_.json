@@ -1,0 +1,123 @@
+{
+  "word": "compress",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English compressen, from Old French compresser, from Late Latin compressare (“to press hard/together”), from Latin compressus, the past participle of comprimō (“to compress”), itself from com- (“together”) + premō (“press”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "compress (third-person singular simple present compresses, present participle compressing, simple past and past participle compressed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make smaller; to press or squeeze together, or to make something occupy a smaller space or volume.",
+                  "examples": [
+                    "The force required to compress a spring varies linearly with the displacement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be pressed together or folded by compression into a more economic, easier format.",
+                  "examples": [
+                    "Our new model compresses easily, ideal for storage and travel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To condense into a more economic, easier format.",
+                  "examples": [
+                    "This chart compresses the entire audit report into a few lines on a single diagram."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To abridge.",
+                  "examples": [
+                    "If you try to compress the entire book into a three-sentence summary, you will lose a lot of information."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(technology, transitive) To make digital information smaller by encoding it using fewer bits.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To embrace sexually.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle French compresse, from compresse (“to compress”), from Late Latin compressare (“to press hard/together”), from Latin compressus, the past participle of comprimō (“to compress”), itself from com- (“together”) + premō (“press”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compress (plural compresses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A multiply folded piece of cloth, a pouch of ice etc., used to apply to a patient's skin, cover the dressing of wounds, and placed with the aid of a bandage to apply pressure on an injury.",
+                  "examples": [
+                    "He held a cold compress over the sprain."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A machine for compressing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
