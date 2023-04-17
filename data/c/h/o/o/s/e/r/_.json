@@ -1,0 +1,41 @@
+{
+  "word": "chooser",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English *chosere, cheoser, chesere, cheosere, equivalent to choose +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "chooser (plural choosers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who chooses something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) A user interface element allowing something to be selected from a list or group.",
+                  "examples": [
+                    "a file chooser; a colour chooser"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
