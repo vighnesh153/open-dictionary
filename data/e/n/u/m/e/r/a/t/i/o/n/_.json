@@ -1,0 +1,61 @@
+{
+  "word": "enumeration",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French énumération."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "enumeration (plural enumerations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of enumerating, making separate mention, or recounting.",
+                  "examples": [
+                    "Synonyms: numbering, telling; see also Thesaurus:counting"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A detailed account, in which each thing is specially noticed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A recapitulation, in the peroration, of the heads of an argument.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A data type that allows variables to have any of a predefined set of values.",
+                  "examples": [
+                    "Synonym: enum"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
