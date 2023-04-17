@@ -1,0 +1,39 @@
+{
+  "word": "encryption",
+  "etymologies": [
+    {
+      "description": [
+        "encrypt +‎ -ion"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "encryption (usually uncountable, plural encryptions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) The process of obscuring information to make it unreadable without special knowledge, key files, or passwords.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A ciphertext, a cryptogram, an encrypted value. Usually used with the preposition \"of\" followed by the value that is hidden in it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

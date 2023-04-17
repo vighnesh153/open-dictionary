@@ -1,0 +1,33 @@
+{
+  "word": "encrypt",
+  "etymologies": [
+    {
+      "description": [
+        "en- +‎ -crypt, from Ancient Greek κρυπτός (kruptós, literally “hidden, concealed, private, secret”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "encrypt (third-person singular simple present encrypts, present participle encrypting, simple past and past participle encrypted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To conceal information by means of a code or cipher.",
+                  "examples": [
+                    "All messages on this platform are doubly encrypted to increase security.",
+                    "Antonym: decrypt"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
