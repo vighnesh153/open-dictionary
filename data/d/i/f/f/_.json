@@ -1,0 +1,101 @@
+{
+  "word": "diff",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "diff (plural diffs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) Clipping of difference.",
+                  "examples": [
+                    "A peach and an apricot? What's the diff?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Any program which compares two files or sets of files and outputs a description of the differences between them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The output of a diff program, a diff file.",
+                  "examples": [
+                    "I didn't want to waste people's time telling them things they already knew. It's more efficient just to give them the diffs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(automotive) Abbreviation of differential: the differential gear in an automobile.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Abbreviation of differential: differential of types of white blood cell in a complete blood count.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rock climbing) A difficult route.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "diff (third-person singular simple present diffs, present participle diffing, simple past and past participle diffed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To run a diff program on (files or items) so as to produce a description of the differences between them, as for a patch file.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To compare two files or other objects, manually or otherwise.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
