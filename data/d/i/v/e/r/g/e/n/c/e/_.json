@@ -1,0 +1,61 @@
+{
+  "word": "divergence",
+  "etymologies": [
+    {
+      "description": [
+        "Morphologically diverge +‎ -ence."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "divergence (countable and uncountable, plural divergences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The degree to which two or more things diverge.",
+                  "examples": [
+                    "An angle is made by the divergence of straight lines."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(calculus) the operator which maps a function F=(F1, ... Fn) from a n-dimensional vector space to itself to the function \n  \n    \n      \n        \n          ∑\n          \n            i\n            =\n            1\n          \n          \n            n\n          \n        \n        \n          \n            \n              ∂\n              \n                F\n                \n                  i\n                \n              \n            \n            \n              ∂\n              \n                x\n                \n                  i\n                \n              \n            \n          \n        \n      \n    \n    {\\displaystyle \\sum _{i=1}^{n}{\\frac {\\partial F_{i}}{\\partial x_{i}}}}",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) disagreement; difference",
+                  "examples": [
+                    "divergence of thought"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process in which two or more populations accumulate genetic changes (mutations) through time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

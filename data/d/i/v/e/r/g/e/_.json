@@ -1,0 +1,76 @@
+{
+  "word": "diverge",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin dīvergō (“bend away from, go in a different direction”), from Latin dī- + vergō (“bend”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "diverge (third-person singular simple present diverges, present participle diverging, simple past and past participle diverged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, literally, of lines or paths) To run apart; to separate; to tend into different directions.",
+                  "examples": [
+                    "Two roads diverged in a yellow wood, / And sorry I could not travel both /  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figuratively, of interests, opinions, or anything else) To become different; to run apart; to separate; to tend into different directions.",
+                  "examples": [
+                    "The brooding, black-clad singer bridged a stark divide that emerged in the recording industry in the 1950s, as post-Elvis pop singers diverged into two camps and audiences aligned themselves with either the sideburned rebels of rock 'n' roll or the cowboy-hatted twangsters of country music."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, literally, of a line or path) To separate, to tend into a different direction (from another line or path).",
+                  "examples": [
+                    "The sidewalk runs next to the street for a few miles, then diverges from it and turns north."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figuratively, of an interest, opinion, or anything else) To become different, to separate (from another line or path).",
+                  "examples": [
+                    "The software is pretty good, except for a few cases where its behavior diverges from user expectations."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, mathematics, of a sequence, series, or function) Not to converge: to have no limit, or no finite limit.",
+                  "examples": [
+                    "The sequence \n  \n    \n      \n        \n          x\n          \n            n\n          \n        \n        =\n        \n          n\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle x_{n}=n^{2}}\n  \n diverges to infinity: that is, it increases without bound."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
