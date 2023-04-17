@@ -1,0 +1,192 @@
+{
+  "word": "cipher",
+  "etymologies": [
+    {
+      "description": [
+        "14th century. From Middle English cifre, from Old French cyfre, cyffre (French chiffre), ultimately from Arabic صِفْر‎ (ṣifr, “zero, empty”), from صَفَرَ‎ (ṣafara, “to be empty”). Doublet of zero. Sense 9 may be a different word."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cipher (plural ciphers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A numeric character.",
+                  "examples": [
+                    "Synonyms: number, numeral"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any text character.",
+                  "examples": [
+                    "This understanding wisdom began to be written in ciphers and characters and letters bearing the forms of creatures."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A combination or interweaving of letters, as the initials of a name.",
+                  "examples": [
+                    "Synonyms: device, monogram"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A method of transforming a text in order to conceal its meaning.",
+                  "examples": [
+                    "Synonym: code",
+                    "The message was written in a simple cipher. Anyone could figure it out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A cryptographic system using an algorithm that converts letters or sequences of bits into ciphertext.",
+                  "examples": [
+                    "a public-key cipher"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Ciphertext; a message concealed via a cipher.",
+                  "examples": [
+                    "The message is clearly a cipher, but I can't figure it out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A grouping of three digits in a number, especially when delimited by commas or periods:",
+                  "examples": [
+                    "The probability is 1 in 1,000,000,000,000,000 — a number having five ciphers of zeros."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A fault in an organ valve which causes a pipe to sound continuously without the key having been pressed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, slang) A hip-hop jam session.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) The path (usually circular) shared cannabis takes through a group, an occasion of cannabis smoking.",
+                  "examples": [
+                    "Synonym: rotation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone or something of no importance.",
+                  "examples": [
+                    "Synonyms: nobody, nonentity, nothing; see also Thesaurus:nonentity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Zero.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cipher (third-person singular simple present ciphers, present participle ciphering, simple past and past participle ciphered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, regional, dated) To calculate.",
+                  "examples": [
+                    "I never learned much more than how to read and cipher."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To write in code or cipher.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, music) Of an organ pipe: to sound independent of the organ.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To decipher.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
