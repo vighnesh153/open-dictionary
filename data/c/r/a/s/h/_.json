@@ -1,0 +1,283 @@
+{
+  "word": "crash",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English crasshen, crasschen, craschen (“to break into pieces”), of uncertain origin. Perhaps from a variant of earlier *crasken, from crasen (“to break”) +‎ -k (formative suffix); or from earlier *craskien, *craksien, a variant of craken (“to crack, break open”) (for form development compare break, brask, brash)."
+      ],
+      "adjectives": [
+        {
+          "description": "crash (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Quick, fast, intensive, impromptu.",
+                  "examples": [
+                    "crash course",
+                    "crash diet"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "crash (plural crashes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sudden, intense, loud sound, as made for example by cymbals.",
+                  "examples": [
+                    "The piece ended in a crescendo, building up to a crash of cymbals.",
+                    "After the lightning came the crash of thunder."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An automobile, airplane, or other vehicle accident.",
+                  "examples": [
+                    "She broke two bones in her body in a car crash.",
+                    "Nobody survived the plane crash."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A malfunction of computer software or hardware which causes it to shut down or become partially or totally inoperable.",
+                  "examples": [
+                    "Synonym: abend",
+                    "My computer had a crash so I had to reboot it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A sudden large decline of business or the prices of stocks (especially one that causes additional failures).",
+                  "examples": [
+                    "the stock market crash"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A comedown from a drug.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(collective) A group of rhinoceroses.",
+                  "examples": [
+                    "One of my favorites among the terms of groups of creatures is a crash of rhinoceros. I can imagine an African guide saying to his client, “Shoot, dammit, shoot! Here comes the whole bloody crash of rhinoceros!”",
+                    "[…]  Personally, I think I’d just as soon come across a crash of rhinoceros as a knot of toad."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ecology) A sudden decline in any living form's population levels, often leading to extinction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "crash (third-person singular simple present crashes, present participle crashing, simple past and past participle crashed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To collide with something destructively, fall or come down violently.",
+                  "examples": [
+                    "When the car crashed into a house, the driver was heavily injured."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To severely damage or destroy something by causing it to collide with something else.",
+                  "examples": [
+                    "I'm sorry for crashing the bike into a wall. I'll pay for repairs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) Short for gatecrash. [from 1920s]",
+                  "examples": [
+                    "We weren't invited to the party so we decided to crash it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, management) To accelerate a project or a task or its schedule by devoting more resources to it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, slang) To make or experience informal temporary living arrangements, especially overnight.",
+                  "examples": [
+                    "Hey dude, can I crash at your pad?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To give, as a favor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, slang) To lie down for a long rest, sleep or nap, as from tiredness or exhaustion. [from 1940s]",
+                  "examples": [
+                    "Synonyms: see Thesaurus:sleep"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, hardware, software, intransitive) To terminate extraordinarily.",
+                  "examples": [
+                    "Synonym: bomb",
+                    "If the system crashes again, we'll have it fixed in the computer shop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, hardware, software, transitive) To cause to terminate extraordinarily.",
+                  "examples": [
+                    "Double-clicking this icon crashes the desktop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To experience a period of depression and/or lethargy after a period of euphoria, as after the euphoric effect of a psychotropic drug has dissipated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hit or strike with force",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, of a patient's condition) To take a sudden and severe turn for the worse; to rapidly deteriorate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a sudden loud noise.",
+                  "examples": [
+                    "Thunder crashed directly overhead."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Uncertain; perhaps compare Russian крашени́на (krašenína, “coarse linen”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "crash (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(textiles) A type of rough linen.",
+                  "examples": [
+                    "Unlocking the door of her bath-room she went inside, and soon emerged, bringing a rug, which she spread upon the floor of the gallery, and two huge hair pillows covered with crash, which she placed against the front of the building."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
