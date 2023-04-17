@@ -1,0 +1,60 @@
+{
+  "word": "cardinality",
+  "etymologies": [
+    {
+      "description": [
+        "cardinal +‎ -ity."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cardinality (plural cardinalities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory, of a set) The number of elements a given set contains.",
+                  "examples": [
+                    "Synonym: power",
+                    "The empty set has a cardinality of zero."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(type theory) The number of terms that can inhabit a type; the possible values of a type.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(data modeling, databases) The property of a relationship between a database table and another one, specifying whether it is one-to-one, one-to-many, many-to-one, or many-to-many.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(religion) The status of being cardinalitial",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
