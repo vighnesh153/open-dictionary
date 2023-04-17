@@ -1,0 +1,32 @@
+{
+  "word": "coset",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ set; apparently first used 1910 by American mathematician George Abram Miller."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "coset (plural cosets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, group theory) The set that results from applying a group's binary operation with a given fixed element of the group on each element of a given subgroup.",
+                  "examples": [
+                    "Theorem 10.5. The collection consisting of an invariant subgroup H and all its distinct cosets is itself a group, called the factor group of G, usually denoted by G/H. (Remember that the left and right cosets of an invariant subgroup are identical.) Multiplication of two cosets aH and bH is defined as the set of all distinct products z = xy, with x ∈ aH and y ∈ bH; the identity element of the factor group is the subgroup H itself."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
