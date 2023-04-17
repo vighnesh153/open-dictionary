@@ -1,0 +1,39 @@
+{
+  "word": "deallocation",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ allocation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "deallocation (countable and uncountable, plural deallocations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of deallocating.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The release of a portion of storage that had previously been allocated to a specific task.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
