@@ -1,0 +1,191 @@
+{
+  "word": "control",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English controllen, from Old French contrerole, from Medieval Latin contrarotulum (“a counter-roll or register used to verify accounts”), from Latin contra (“against, opposite”) + Medieval Latin rotulus, Latin rotula (“roll, a little wheel”), diminutive of rota (“a wheel”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "control (countable and uncountable, plural controls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) Influence or authority over something.",
+                  "examples": [
+                    "The government has complete control over the situation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The method and means of governing the performance of any apparatus, machine or system, such as a lever, handle or button.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Restraint or ability to contain one's movements or emotions, or self-control.",
+                  "examples": [
+                    "She had no control of her body as she tumbled downhill. She did not know up from down. It was not unlike being cartwheeled in a relentlessly crashing wave."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A security mechanism, policy, or procedure that can counter system attack, reduce risks, and resolve vulnerabilities; a safeguard or countermeasure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(project management) A means of monitoring for, and triggering intervention in, activities that are not going according to plan.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A control group or control experiment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A duplicate book, register, or account, kept to correct or check another account or register.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) An interface element that a computer user interacts with, such as a window or a text box (abbreviated Ctrl).",
+                  "examples": [
+                    "Synonym: widget"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(climatology) Any of the physical factors determining the climate of a place, such as latitude, distribution of land and water, altitude, exposure, prevailing winds, permanent high- or low-barometric-pressure areas, ocean currents, mountain barriers, soil, and vegetation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A construction in which the understood subject of a given predicate is determined by an expression in context. See control.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(spiritualism, parapsychology) A spirit that takes possession of a psychic or medium and allows other spirits to communicate with the living.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cycling, countable) A checkpoint along an audax route.",
+                  "examples": [
+                    "[…]  the self-acknowledged stereotype of the audaxer as a socially awkward middle-aged man,  […]  carefully avoiding eye contact as a volunteer serves him his cup of tea and plate of baked beans in one of the draughty village halls that typically host audax controls."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "control (third-person singular simple present controls, present participle controlling, simple past and past participle controlled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To exercise influence over; to suggest or dictate the behavior of.",
+                  "examples": [
+                    "Synonyms: besteer, bewield, manage, puppeteer, rule",
+                    "With a simple remote, he could control the toy truck."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, statistics) (construed with for) To design (an experiment) so that the effects of one or more variables are reduced or eliminated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) to verify the accuracy of (something or someone, especially a financial account) by comparison with another account",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) to call to account, to take to task, to challenge",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to hold in check, to curb, to restrain",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
