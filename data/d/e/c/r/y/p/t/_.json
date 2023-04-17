@@ -1,0 +1,47 @@
+{
+  "word": "decrypt",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ -crypt, from Ancient Greek κρυπτός (kruptós, literally “hidden, concealed, private, secret”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "decrypt (plural decrypts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A decoded communication.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decrypt (third-person singular simple present decrypts, present participle decrypting, simple past and past participle decrypted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convert (an encrypted or coded message) back into plain text.",
+                  "examples": [
+                    "Antonym: encrypt"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
