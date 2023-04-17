@@ -1,0 +1,82 @@
+{
+  "word": "experiment",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English experiment, from Old French esperiment (French expérience), from Latin experimentum (“experience, attempt, experiment”), from experior (“to experience, to attempt”), itself from ex + *perior, in turn from Proto-Indo-European *per-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "experiment (plural experiments)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A test under controlled conditions made to either demonstrate a known truth, examine the validity of a hypothesis, or determine the efficacy or likelihood of something previously untried.",
+                  "examples": [
+                    "conduct an experiment",
+                    "carry out some experiments",
+                    "perform a scientific experiment"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Experience, practical familiarity with something.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "experiment (third-person singular simple present experiments, present participle experimenting, simple past and past participle experimented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To conduct an experiment.",
+                  "examples": [
+                    "We're going to experiment on rats."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To experience; to feel; to perceive; to detect.",
+                  "examples": [
+                    "The Earth, the which may have carried us about perpetually ... without our being ever able to experiment its rest."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To test or ascertain by experiment; to try out; to make an experiment on.",
+                  "examples": [
+                    "Til they had experimented whiche was trewe, and who knewe most."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
