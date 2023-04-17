@@ -1,0 +1,64 @@
+{
+  "word": "determiner",
+  "etymologies": [
+    {
+      "description": [
+        "determine +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "determiner (plural determiners)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A member of a class of words functioning in a noun phrase to identify or distinguish a referent without describing or modifying it.",
+                  "examples": [
+                    "Definite articles and indefinite articles are types of determiners."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A dependent function in a noun phrase marking the NP as definite or indefinite. This function is usually filled by words in the determinative class but may be filled by other elements such as a genitive pronoun.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something (some input factor, a nonsentient agent) that determines, or helps someone to determine, something else.",
+                  "examples": [
+                    "In quality management, the determiners of quality sometimes differ across use cases."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone (a sentient agent) who determines; a decider of a disposition.",
+                  "examples": [
+                    "He is the determiner [usually referring to God (in theological contexts) and job roles (in administrative contexts)]",
+                    "Who is the determiner? [administratively or theologically]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
