@@ -1,0 +1,45 @@
+{
+  "word": "decrement",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin decrementum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "decrement (plural decrements)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small quantity removed or lost. One of a series of regular subtractions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decrement (third-person singular simple present decrements, present participle decrementing, simple past and past participle decremented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To decrease a value by a basic quantity unit.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
