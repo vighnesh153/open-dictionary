@@ -1,0 +1,32 @@
+{
+  "word": "caselessly",
+  "etymologies": [
+    {
+      "description": [
+        "caseless +‎ -ly"
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "caselessly (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) In a case-insensitive manner.",
+                  "examples": [
+                    "[…]  even though the original capturing subpattern is matched caselessly."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
