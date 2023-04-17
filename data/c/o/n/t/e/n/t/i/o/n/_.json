@@ -1,0 +1,50 @@
+{
+  "word": "contention",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English contencion, borrowed from Old French contencion, from Latin contentio, contentionem, from contendō (past participle contentus); equivalent to contend +‎ -tion (similar formation to attention)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "contention (countable and uncountable, plural contentions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Argument, contest, debate, strife, struggle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A point maintained in an argument, or a line of argument taken in its support; the subject matter of discussion of strife; a position taken or contended for.",
+                  "examples": [
+                    "It is my contention that state lotteries are taxes on stupid people."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, telecommunications) Competition by parts of a system or its users for a limited resource.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
