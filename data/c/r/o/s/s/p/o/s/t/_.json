@@ -1,0 +1,71 @@
+{
+  "word": "crosspost",
+  "etymologies": [
+    {
+      "description": [
+        "From cross- +‎ post."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "crosspost (plural crossposts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An electronic message posted to multiple newsgroups simultaneously.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, indexing) An instance of crossposting, or the post thus created.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "crosspost (third-person singular simple present crossposts, present participle crossposting, simple past and past participle crossposted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To post (a message) to multiple newsgroups simultaneously.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(indexing, especially physically) To post an entry (in a book index or other index) such that no matter which word a user looks under, they will find the relevant entry (see examples).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
