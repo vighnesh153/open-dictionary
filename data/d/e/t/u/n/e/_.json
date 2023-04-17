@@ -1,0 +1,42 @@
+{
+  "word": "detune",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ tune."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "detune (third-person singular simple present detunes, present participle detuning, simple past and past participle detuned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To intentionally lower or raise the pitch produced by a musical instrument. Often done to produce sounds not normally possible, or in the case of stringed instruments to reduce tension for the purposes of shipping or maintenance.",
+                  "examples": [
+                    "Synonym: untune",
+                    "Some avant-garde composers request that performers detune their instruments before playing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) To alter the capacitance of a circuit such that its resonant frequency differs from the incoming frequency.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
