@@ -1,0 +1,69 @@
+{
+  "word": "clique",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French clique, ultimately of imitative origin. Influenced by \"claque\", though this may have happened in French rather than in English."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "clique (plural cliques)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small, exclusive group of individuals, usually according to lifestyle or social status; a cabal.",
+                  "examples": [
+                    "This school used to be really friendly, but now everyone keeps to their own cliques."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A subgraph isomorphic to a complete graph.",
+                  "examples": [
+                    "The problem of finding the largest clique in an arbitrary graph is NP-complete."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A group of related web sites that link to each other, like a webring but with exclusive membership determined by the clique owner.",
+                  "examples": [
+                    "Does anyone know what an internet clique is/does? I came across a few and am thoroughly confused."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "clique (third-person singular simple present cliques, present participle cliquing, simple past and past participle cliqued)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To associate together in a clannish way; to act with others secretly to gain a desired end; to plot.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
