@@ -1,0 +1,50 @@
+{
+  "word": "compilation",
+  "etymologies": [
+    {
+      "description": [
+        "English compile +‎ -ation, from Middle French, from Latin compilatio (“a raking together, a plundering, a collection of documents”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compilation (countable and uncountable, plural compilations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The act or process of compiling or gathering together from various sources.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) That which is compiled; especially, a book or document composed of materials gathering from other books or documents.",
+                  "examples": [
+                    "Susie made Jasmine a compilation CD of some of best songs they'd heard at the festival."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable, computing) Translation of source code into object code by a compiler.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

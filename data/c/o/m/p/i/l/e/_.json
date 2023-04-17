@@ -1,0 +1,113 @@
+{
+  "word": "compile",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English compilen, from Old French compiler, from Latin compīlō (“heap, plunder”, verb)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compile (plural compiles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An act of compiling code.",
+                  "examples": [
+                    "Any file with an error or warning on it will be added to this smart group until the next compile."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "compile (third-person singular simple present compiles, present participle compiling, simple past and past participle compiled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put together; to assemble; to make by gathering things from various sources.",
+                  "examples": [
+                    "Samuel Johnson compiled one of the most influential dictionaries of the English language."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To construct; to build.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, snooker) To achieve (a break) by making a sequence of shots.",
+                  "examples": [
+                    "Steve Davis compiled a 147."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To use a compiler to process source code and produce executable code.",
+                  "examples": [
+                    "After I compile this program I'll run it and see if it works."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, programming) To be successfully processed by a compiler into executable code.",
+                  "examples": [
+                    "There must be an error in my source code because it won't compile."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To contain or comprise.",
+                  "examples": [
+                    "Which these six books compile."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To write; to compose.",
+                  "examples": [
+                    "They are at their leisure much given to poetry; in which they compile the praises of virtuous men and actions , satires against vice"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

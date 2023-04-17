@@ -1,0 +1,42 @@
+{
+  "word": "compiler",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English compilour, from Anglo-Norman compilour, from Old French compileur, from Latin compilatorem."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compiler (plural compilers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who compiles.",
+                  "examples": [
+                    "a compiler of poetry anthologies",
+                    "my favourite crossword compiler"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software compilation) A computer program which transforms source code into object code.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
