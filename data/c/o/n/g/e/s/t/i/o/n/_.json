@@ -1,0 +1,59 @@
+{
+  "word": "congestion",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French [Term?], from Latin congestĭō (“heap, accumulation”), from congerō (“to bring together, accumulate, heap up”), formed by the root gerō (“to carry”) and the prefix con-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "congestion (countable and uncountable, plural congestions)",
+          "definitionGroups": [
+            {
+              "group": "The hindrance or blockage of the passage of something, for example a fluid, mixture, traffic, people, etc. (due to an excess of this or due to a partial or complete obstruction), resulting in overfilling or overcrowding.",
+              "entries": [
+                {
+                  "meaning": "An accumulation or buildup, the act of gathering into a heap or mass.",
+                  "examples": [
+                    "network congestion"
+                  ]
+                },
+                {
+                  "meaning": "(medicine) Blocking up of the capillary and other blood vessels, etc., in any locality or organ (often producing other morbid symptoms); local hypermic, active or passive",
+                  "examples": [
+                    "arterial congestion",
+                    "venous congestion",
+                    "congestion of the lungs"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "An excess or accumulation of something",
+              "entries": [
+                {
+                  "meaning": "An excess of traffic; usually not a complete standstill of traffic, so usually not synonymous with traffic jam.",
+                  "examples": [
+                    "traffic congestion"
+                  ]
+                },
+                {
+                  "meaning": "(medicine) An excess of mucus or fluid in the respiratory system; congestion of the lungs, or nasal congestion.",
+                  "examples": []
+                },
+                {
+                  "meaning": "edema, water retention, swelling, enlargement of a body part because of fluid retention in tissues and vessels",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
