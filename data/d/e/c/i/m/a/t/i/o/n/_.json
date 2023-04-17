@@ -1,0 +1,57 @@
+{
+  "word": "decimation",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin decimātiō, a punishment where every 10th man in a unit would be stoned to death by the men who were spared. Used by the Romans to keep order in their military. Compare septimation and vicesimation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "decimation (countable and uncountable, plural decimations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(strictly) The killing or punishment of every tenth person, usually by lot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(generally) The killing or destruction of any large portion of a population.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tithe or the act of tithing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(mathematics) The creation of a new sequence comprising only every nth element of a source sequence.",
+              "entries": [
+                {
+                  "meaning": "(signal processing) A digital signal-processing technique for reducing the number of samples in a discrete-time signal; downsampling",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
