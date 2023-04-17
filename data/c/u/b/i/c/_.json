@@ -1,0 +1,70 @@
+{
+  "word": "cubic",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French cubique."
+      ],
+      "adjectives": [
+        {
+          "description": "cubic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Used in the names of units of volume formed by multiplying a unit of length by itself twice.",
+                  "examples": [
+                    "On one recent day, officials said the fine dust concentration levels in Seoul rose above 130 micrograms per cubic meter.\nAudio (US)(file)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebraic geometry) Of a class of polynomial of the form \n  \n    \n      \n        a\n        \n          x\n          \n            3\n          \n        \n        +\n        b\n        \n          x\n          \n            2\n          \n        \n        +\n        c\n        x\n        +\n        d\n      \n    \n    {\\displaystyle ax^{3}+bx^{2}+cx+d}",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(crystallography) Having three equal axes and all angles 90°.",
+                  "examples": [
+                    "cubic cleavage",
+                    "Synonyms: isometric, monometric"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cubic (plural cubics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebraic geometry) A cubic curve.",
+                  "examples": [
+                    "Synonym: cubic curve"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
