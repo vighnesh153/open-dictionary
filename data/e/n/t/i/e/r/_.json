@@ -1,0 +1,33 @@
+{
+  "word": "entier",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French entier."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "entier (plural entiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The greatest integer not exceeding the specified number.",
+                  "examples": [
+                    "Let the state of the system vary according to\n\n  \n    \n      \n        \n          x\n          \n            n\n          \n        \n        =\n        2\n        \n          x\n          \n            n\n            −\n            1\n          \n        \n        −\n        \n          [\n          \n            2\n            \n              x\n              \n                n\n                −\n                1\n              \n            \n          \n          ]\n        \n      \n    \n    {\\displaystyle x_{n}=2x_{n-1}-\\left[2x_{n-1}\\right]}\n  \n,",
+                    "where \n  \n    \n      \n        [\n        z\n        ]\n      \n    \n    {\\displaystyle [z]}\n  \n is the entier of \n  \n    \n      \n        z\n      \n    \n    {\\displaystyle z}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
