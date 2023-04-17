@@ -1,0 +1,124 @@
+{
+  "word": "ceiling",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English celing (“paneling; (bed) cover or hanging”), from celen (“to cover or panel walls”) (from Old French celer (“to conceal”)) + -ing (gerund-forming suffix)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ceiling (plural ceilings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The overhead closure of a room.",
+                  "examples": [
+                    "The dining room had an ornate ceiling."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The upper limit of an object or action.",
+                  "examples": [
+                    "Market forces naturally move the economy to the equilibrium, and the price ceiling has no effect on the price or the quantity sold."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) The highest altitude at which an aircraft can safely maintain flight.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) The measurement of visible distance from ground or sea level to an overcast cloud cover; under a clear sky, the ceiling measurement is identified as \"unlimited.\"",
+                  "examples": [
+                    "Even though it was cloudy, there was still enough ceiling for the Blue Angels to perform a great show."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The smallest integer greater than or equal to a given number.",
+                  "examples": [
+                    "The ceiling of 4.5 is 5; the ceiling of −4.5 is −4."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The inner planking of a vessel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) The maximum permitted level in a financial transaction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The overhead interior surface that covers the upper limits of a room.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ceiling",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of ceil",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
