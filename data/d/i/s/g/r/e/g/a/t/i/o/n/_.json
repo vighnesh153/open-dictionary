@@ -1,0 +1,45 @@
+{
+  "word": "disgregation",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin disgregātiō, from dis- (“apart”) + grex (“flock”).",
+        "The thermodynamics sense was introduced in 1862 by German physicist Rudolf Clausius in his formulation of what is now called the second law of thermodynamics."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "disgregation (countable and uncountable, plural disgregations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Separation; scattering.",
+                  "examples": [
+                    "If the first one is called before the second one, very few disgregations will be performed on the text, since the concepts initially have no associated list of attributes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(thermodynamics, obsolete or historical) A measure of the separation of the particles of a system; an early formulation of entropy.",
+                  "examples": [
+                    "The disgregation of a body is consequently, among the three states of aggregation, least in the solid state, greater in the liquid state, and greatest of all in the gaseous state. In the last condition it can still be increased by the molecules separating further from each other—that is, by the gas expanding to a larger volume. In like manner, the decomposition of a chemically compound body into its elements is in general accompanied by an increase of disgregation.",
+                    "By help of this conception the effect of heat can be simply expressed by saying that heat tends to increase the disgregation of bodies."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
