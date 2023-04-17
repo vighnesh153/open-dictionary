@@ -1,0 +1,61 @@
+{
+  "word": "facade",
+  "etymologies": [
+    {
+      "description": [
+        "From French façade, from Italian facciata, a derivation of faccia (“front”), from Latin faciēs (“face”); compare face."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "facade (plural facades)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The face of a building, especially the front view or elevation.",
+                  "examples": [
+                    "Synonyms: face, front, frontage"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) The face or front (most visible side) of any other thing, such as an organ.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A deceptive or insincere outward appearance.",
+                  "examples": [
+                    "Synonyms: appearance, cover, front, guise, pretence; see also Thesaurus:fake"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An object serving as a simplified interface to a larger body of code, as in the facade pattern.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
