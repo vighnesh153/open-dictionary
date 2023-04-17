@@ -1,0 +1,114 @@
+{
+  "word": "erase",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin erasus, past participle of eradere (“to scrape, to abrade”), from ex- (“out of”) + radere (“to scrape”). Compare Middle English arasen, aracen (“to eradicate, erase”). Displaced native Old English dilegian."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "erase (plural erases)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The operation of deleting data.",
+                  "examples": [
+                    "This subsystem is waiting to become Exclusive after having issued an erase."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "erase (third-person singular simple present erases, present participle erasing, simple past and past participle erased)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to remove markings or information",
+                  "examples": [
+                    "I erased that note because it was wrong."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obliterate information from (a storage medium), such as to clear or (with magnetic storage) to demagnetize.",
+                  "examples": [
+                    "I'm going to erase this tape."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obliterate (information) from a storage medium, such as to clear or to overwrite.",
+                  "examples": [
+                    "I'm going to erase those files."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, baseball) To remove a runner from the bases via a double play or pick off play",
+                  "examples": [
+                    "Jones was erased by a 6-4-3 double play."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be erased (have markings removed, have information removed, or be cleared of information).",
+                  "examples": [
+                    "The chalkboard erased easily.",
+                    "The files will erase quickly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To disregard (a group, an orientation, etc.); to prevent from having an active role in society.",
+                  "examples": [
+                    "I suggest, then, that counterdiscourses, when reductive, tend to emulate the screen discourse that erases gay sociality."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To kill; assassinate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
