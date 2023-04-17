@@ -1,0 +1,138 @@
+{
+  "word": "decimate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin decimāre (“to take or offer a tenth part”), from decimus (“tenth”). As a noun, via Latin decimatus (“tithing area; tithing rights”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "decimate (plural decimates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A tithe or other 10% tax or payment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A tenth of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A set of ten items.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decimate (third-person singular simple present decimates, present participle decimating, simple past and past participle decimated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) To kill one-tenth of a group, (historical, specifically) as a military punishment in the Roman army selected by lot, usually carried out by the surviving soldiers.",
+                  "examples": [
+                    "God sometimes decimates or tithes delinquent persons, and they died for a common crime, according as God hath cast their lot in the decrees of predestination."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To destroy or remove one-tenth of anything.",
+                  "examples": [
+                    "...there will be eight hundred and ten laborers producing as nine hundred, while, to accomplish their purpose, they would have to produce as one thousand... Here, then, we have a society which is continually decimating itself..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(loosely) To devastate: to reduce or destroy significantly but not completely.",
+                  "examples": [
+                    "[England] had decimated itself for a question which involved no principle, and led to no result."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To exact a tithe or other 10% tax",
+                  "examples": [
+                    "In addition, an ordinance was published that “all who had ever borne arms for the king, or declared themselves to be of the royal party, should be decimated, that is, pay a tenth part of all the estate which they had left, to support the charge which the commonwealth was put to..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, rare) To tithe: to pay a 10% tax.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To decimalize: to divide into tenths, hundredths, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(proscribed) To reduce to one-tenth: to destroy or remove nine-tenths of anything.",
+                  "examples": [
+                    "In this dramatic picture, the nation is literally decimated, and even the tenth which remains is subjected to a further destruction."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) To replace a high-resolution model with another of lower but acceptable quality.",
+                  "examples": [
+                    "A decimate tool allows us to obtain a more coarse-grained view of the data over the full n-dimensional space."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
