@@ -1,0 +1,52 @@
+{
+  "word": "destructive",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French destructif, from Latin destructivus, from past participle of destruere (“to tear down, destroy”) + -ivus."
+      ],
+      "adjectives": [
+        {
+          "description": "destructive (comparative more destructive, superlative most destructive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Causing destruction; damaging.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Causing breakdown or disassembly.",
+                  "examples": [
+                    "Catabolism is a destructive metabolism that involves the breakdown of molecules and release of energy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Lossy; causing irreversible change.",
+                  "examples": [
+                    "Blurring an image is a destructive operation, but rotating an image is not."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
