@@ -1,0 +1,113 @@
+{
+  "word": "discrete",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French discret, from Latin discrētus, past participle of discernō (“divide”), from dis- + cernō (“sift”). Doublet of discreet."
+      ],
+      "adjectives": [
+        {
+          "description": "discrete (comparative more discrete, superlative most discrete)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Separate; distinct; individual; non-continuous.",
+                  "examples": [
+                    "a government with three discrete divisions"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That can be perceived individually, not as connected to, or part of, something else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Consisting of or permitting only distinct values drawn from a finite, countable set.",
+                  "examples": [
+                    "a discrete sum"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical engineering) Having separate electronic components, such as individual diodes, transistors and resistors, as opposed to integrated circuitry.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(audio engineering) Having separate and independent channels of audio, as opposed to multiplexed stereo or quadraphonic, or other multi-channel sound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) Having each singleton subset open: said of a topological space or a topology.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Disjunctive; containing a disjunctive or discretive clause.",
+                  "examples": [
+                    "\"I resign my life, but not my honour\" is a discrete proposition."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "discrete (comparative discreter, superlative discretest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obsolete form of discreet.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
