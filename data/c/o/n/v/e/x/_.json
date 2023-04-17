@@ -1,0 +1,96 @@
+{
+  "word": "convex",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French convexe, from Latin convexus (“arched”)."
+      ],
+      "adjectives": [
+        {
+          "description": "convex (comparative more convex, superlative most convex)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Curved or bowed outward like the outside of a bowl, circle, or sphere.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(functional analysis, not comparable, of a real-valued function on the reals) having an epigraph that is a convex set.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, not comparable, of a polygon) having no internal angles greater than 180 degrees.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, not comparable, of a set in Euclidean space) arranged such that for any two points in the set, a straight line between the two points is contained within the set.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "convex (plural convexes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any convex body or surface.",
+                  "examples": [
+                    "Half heaven's convex glitters with the flame."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gambling) A playing card made convex for use in cheating.",
+                  "examples": [
+                    "Coordinate term: concave"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gambling) A small convex mirror used to cheat by observing other players' cards.",
+                  "examples": [
+                    "Synonym: shiner"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
