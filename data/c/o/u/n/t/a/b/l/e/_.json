@@ -1,0 +1,80 @@
+{
+  "word": "countable",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English countable, equivalent to count (“to enumerate”) +‎ -able."
+      ],
+      "adjectives": [
+        {
+          "description": "countable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being counted; having a quantity.",
+                  "examples": [
+                    "Antonym: uncountable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a set) finite or countably infinite; having a one-to-one correspondence (bijection) with a subset of the natural numbers.",
+                  "examples": [
+                    "Antonym: uncountable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a set) Countably infinite; having a bijection with the natural numbers.",
+                  "examples": [
+                    "Synonym: denumerable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, of a noun) Freely usable with the indefinite article and with numbers, and therefore having a plural form.",
+                  "examples": [
+                    "Antonym: uncountable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "countable (plural countables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A countable noun.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
