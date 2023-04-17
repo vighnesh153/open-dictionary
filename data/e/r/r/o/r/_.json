@@ -1,0 +1,140 @@
+{
+  "word": "error",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English errour, from Anglo-Norman errour, from Old French error, from Latin error (“wandering about”), infinitive of errō (“to wander, to err”). Cognate with Gothic 𐌰𐌹𐍂𐌶𐌴𐌹 (airzei, “error”), Gothic 𐌰𐌹𐍂𐌶𐌾𐌰𐌽 (airzjan, “to lead astray”). More at err."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "error (countable and uncountable, plural errors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The state, quality, or condition of being wrong.",
+                  "examples": [
+                    "\"Am I in error in marking out the s in the word assistants used in the following manner? [...]\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A mistake; an accidental wrong action or a false statement not made deliberately.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) Sin; transgression.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, countable) A failure to complete a task, usually involving a premature termination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, countable) The difference between a measured or calculated value and a true one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball, countable) A play which is scored as having been made incorrectly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(appellate law, uncountable) One or more mistakes in a trial that could be grounds for review of the judgement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any alteration in the DNA chemical structure occurring during DNA replication, recombination or repairing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "error (third-person singular simple present errors, present participle erroring, simple past and past participle errored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To function improperly due to an error, especially accompanied by error message.",
+                  "examples": [
+                    "The web-page took a long time to load and errored out.",
+                    "Remove that line of code and the script should stop erroring there.",
+                    "This directory errors with a \"Permission denied\" message."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) To show or contain an error or fault.",
+                  "examples": [
+                    "The block transmission errored near the start and could not be received."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nonstandard) To err.",
+                  "examples": [
+                    "Pixels which are mathematically outside of a triangle, but which are included for anti-aliasing purposes can be generated with colour and depth information outside of the valid range. The ADE should identify these cases and clamp the output to the minimum or maximum value depending on the direction it has errored in."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
