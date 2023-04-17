@@ -1,0 +1,64 @@
+{
+  "word": "contradiction",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English contradiccioun, contradiction, from Old French contradiction, from Latin contrādictiō, from contrādīcō (“speak against”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "contradiction (countable and uncountable, plural contradictions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) The act of contradicting.",
+                  "examples": [
+                    "His contradiction of the proposal was very interesting."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A statement that contradicts itself, i.e., a statement that claims that the same thing is true and that it is false at the same time and in the same senses of the terms.",
+                  "examples": [
+                    "There is a contradiction in Clarence Page's statement that a woman should have the right to choose and decide for herself whether to have an abortion and at the same time she should not have that right.",
+                    "There is a  contradiction in what you say: she can't be both married and single."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A logical inconsistency among two or more elements or propositions.",
+                  "examples": [
+                    "Marx believed that the contradictions of capitalism would lead to socialism."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, countable) A proposition that is false for all values of its propositional variables or Boolean atoms.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
