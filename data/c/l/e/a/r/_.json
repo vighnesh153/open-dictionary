@@ -1,0 +1,538 @@
+{
+  "word": "clear",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English clere, from Anglo-Norman cler, from Old French cler (Modern French clair), from Latin clarus. Displaced native Middle English schir (“clear, pure”) (from Old English scīr (“clear, bright”)), Middle English skere (“clear, sheer”) (from Old English scǣre and Old Norse skǣr (“sheer, clear, pure”)), Middle English smolt (“clear (of mind), serene”) (from Old English smolt (“peaceful, serene”)).  Cognate with Danish klar, Dutch klaar, French clair, German klar, Italian chiaro, Norwegian klar, Portuguese claro, Romanian clar, Spanish claro, and Swedish klar."
+      ],
+      "adjectives": [
+        {
+          "description": "clear (comparative clearer, superlative clearest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Transparent in colour.",
+                  "examples": [
+                    "as clear as crystal"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Bright; luminous; not dark or obscured.",
+                  "examples": [
+                    "The windshield was clear and clean.",
+                    "Congress passed the President’s Clear Skies legislation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Free of obstacles.",
+                  "examples": [
+                    "The driver had mistakenly thought the intersection was clear.",
+                    "The coast is clear."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without clouds.",
+                  "examples": [
+                    "clear weather; a clear day"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) Of the sky, such that less than one eighth of its area is obscured by clouds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Free of ambiguity or doubt; easily understood.",
+                  "examples": [
+                    "He gave clear instructions not to bother him at work.",
+                    "Do I make myself clear? Crystal clear.",
+                    "I'm still not quite clear on what some of these words mean."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Distinct, sharp, well-marked.",
+                  "examples": [
+                    "Synonym: conspicuous"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Free of guilt, or suspicion.",
+                  "examples": [
+                    "a clear conscience"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a soup) Without a thickening ingredient.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Possessing little or no perceptible stimulus.",
+                  "examples": [
+                    "clear of texture;  clear of odor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scientology) Free from the influence of engrams; see Clear (Scientology).",
+                  "examples": [
+                    "Yes, and Jane came by with a lock of your hair.  She said that you gave it to her that night that you planned to go clear.  Did you ever go clear?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to perceive clearly; keen; acute; penetrating; discriminating.",
+                  "examples": [
+                    "a clear intellect; a clear head"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not clouded with passion; serene; cheerful.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Easily or distinctly heard; audible.",
+                  "examples": [
+                    "Hark! the numbers, soft and clear  Gently steal upon the ear"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unmixed; entirely pure.",
+                  "examples": [
+                    "clear sand"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without defects or blemishes, such as freckles or knots.",
+                  "examples": [
+                    "a clear complexion; clear lumber"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without diminution; in full; net.",
+                  "examples": [
+                    "a clear profit"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a railway signal) Showing a green aspect, allowing a train to proceed past it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(MLE) Good, the best.",
+                  "examples": [
+                    "Nando's is clear."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(MLE) Better than, superior to.",
+                  "examples": [
+                    "Spurs are clear of Arsenal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "clear (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "All the way; entirely.",
+                  "examples": [
+                    "I threw it clear across the river to the other side."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not near something or touching it.",
+                  "examples": [
+                    "Stand clear of the rails, a train is coming."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Free (or separate) from others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a clear manner; plainly.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "clear (plural clears)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(carpentry) Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+                  "examples": [
+                    "a room ten feet square in the clear"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) The completion of a stage or challenge, or of the whole game.",
+                  "examples": [
+                    "It took me weeks to achieve a one-credit clear (1CC)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scientology) A person who is free from the influence of engrams.",
+                  "examples": [
+                    "Today, clear status can be conferred only by high ranking ministers of the church, and clears are not presented for examination by outsiders."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "clear (third-person singular simple present clears, present participle clearing, simple past and past participle cleared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove obstructions, impediments or other unwanted items from.",
+                  "examples": [
+                    "Police took two hours to clear the road.",
+                    "If you clear the table, I'll wash up."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove (items or material) so as to leave something unobstructed or open.",
+                  "examples": [
+                    "Please clear all this stuff off the table.",
+                    "The loggers came and cleared the trees."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To leave abruptly; to clear off or clear out.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become free from obstruction or obscurement; to become transparent.",
+                  "examples": [
+                    "When the road cleared we continued our journey.",
+                    "After a heavy rain, the sky cleared nicely for the evening.",
+                    "Shake the test tube well, and the liquid should slowly clear."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To eliminate ambiguity or doubt from (a matter); to clarify or resolve; to clear up.",
+                  "examples": [
+                    "We need to clear this issue once and for all."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove from suspicion, especially of having committed a crime.",
+                  "examples": [
+                    "The court cleared the man of murder."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pass without interference; to miss.",
+                  "examples": [
+                    "The door just barely clears the table as it closes.",
+                    "The leaping horse easily cleared the hurdles."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, activities such as jumping or throwing) To exceed a stated mark.",
+                  "examples": [
+                    "She was the first female high jumper to clear two metres."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, video games) To finish or complete (a stage, challenge, or game).",
+                  "examples": [
+                    "I cleared the first level in 36 seconds."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Of a check or financial transaction, to go through as payment; to be processed so that the money is transferred.",
+                  "examples": [
+                    "The check might not clear for a couple of days."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, business) To earn a profit of; to net.",
+                  "examples": [
+                    "He's been clearing seven thousand a week."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To approve or authorise for a particular purpose or action; to give clearance to.",
+                  "examples": [
+                    "Air traffic control cleared the plane to land.",
+                    "The marketing department has cleared the press release for publication."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obtain approval or authorisation in respect of.",
+                  "examples": [
+                    "I've cleared the press release with the marketing department, so go ahead and publish it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To obtain a clearance.",
+                  "examples": [
+                    "The steamer cleared for Liverpool today."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obtain permission to use (a sample of copyrighted audio) in another track.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To disengage oneself from incumbrances, distress, or entanglements; to become free.",
+                  "examples": [
+                    "Beſides, he that cleares at once will relapſe: for finding himſelfe out of ſtraights, he will reuert to his cuſtomes. But hee that cleareth by degrees, induceth an habite of frugality, and gaineth as well vpon his minde, as vpon his Eſtate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, sports) To hit, kick, head, punch etc. (a ball, puck) away in order to defend one's goal.",
+                  "examples": [
+                    "The goalkeeper rushed forward to clear the ball.",
+                    "A low cross came in, and Smith cleared."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To reset or unset; to return to an empty state or to zero.",
+                  "examples": [
+                    "to clear an array;  to clear a single bit (binary digit) in a value"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To style (an element within a document) so that it is not permitted to float at a given position.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
