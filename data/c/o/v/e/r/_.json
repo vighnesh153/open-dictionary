@@ -1,0 +1,436 @@
+{
+  "word": "cover",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English coveren, borrowed from Old French covrir, cueuvrir (modern French couvrir), from Late Latin coperire, from Latin cooperiō (“I cover completely”), from co- (intensive prefix) + operiō (“I close, cover”). Displaced native Middle English thecchen and bethecchen (“to cover”) (from Old English þeccan, beþeccan (“to cover”)), Middle English helen, (over)helen, (for)helen (“to cover, conceal”) (from Old English helan (“to conceal, cover, hide”)), Middle English wrien, (be)wreon (“to cover”) (from Old English (be)wrēon (“to cover”)), Middle English hodren, hothren (“to cover up”) (from Low German hudren (“to cover up”)).",
+        "According to the Oxford English Dictionary, the original sense of the verb and noun cover was “hide from view” as in its cognate covert. Except in the limited sense of “cover again,” the word recover is unrelated and is cognate with recuperate. Cognate with Spanish cubrir (“to cover”)."
+      ],
+      "adjectives": [
+        {
+          "description": "cover (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to the front cover of a book or magazine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Of, pertaining to, or consisting of cover versions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cover (countable and uncountable, plural covers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A lid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Area or situation which screens a person or thing from view.",
+                  "examples": [
+                    "The soldiers took cover behind a ruined building."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The front and back of a book, magazine, CD package, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The top sheet of a bed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cloth or similar material, often fitted, placed over an item such as a car or sofa or food to protect it from dust, rain, insects, etc. when not being used.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cover charge.",
+                  "examples": [
+                    "There's a $15 cover tonight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A setting at a restaurant table or formal dinner.",
+                  "examples": [
+                    "We need to set another cover for the Smith party."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A new performance or rerecording of a previously recorded song; a cover version; a cover song.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) A fielding position on the off side, between point and mid off, about 30° forward of square; a fielder in this position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(combinatorics, topology) A collection (or family) of subsets of a given set, whose union contains every element of said original set.",
+                  "examples": [
+                    "Hyponyms: exact cover, partition",
+                    "The open intervals are a cover for the real numbers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philately) An envelope complete with stamps and postmarks etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A solid object, including terrain, that provides protection from enemy fire.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) In commercial law, a buyer’s purchase on the open market of goods similar or identical to the goods contracted for after a seller has breached a contract of sale by failure to deliver the goods contracted for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(insurance) An insurance contract; coverage by an insurance contract.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(espionage) A persona maintained by a spy or undercover operative; cover story.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A swindler's confederate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The portion of a slate, tile, or shingle that is hidden by the overlap of the course above.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a steam engine, the lap of a slide valve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(construction) The distance between reinforcing steel and the exterior of concrete.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cover (third-person singular simple present covers, present participle covering, simple past and past participle covered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place something over or upon, as to conceal or protect.",
+                  "examples": [
+                    "He covered the baby with a blanket.",
+                    "When the pot comes to a boil, cover it and reduce the heat to medium."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To be over or upon, as to conceal or protect.",
+                  "examples": [
+                    "The blanket covered the baby."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To be upon all of, so as to completely conceal.",
+                  "examples": [
+                    "Regular hexagons can cover the plane."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set upon all of, so as to completely conceal.",
+                  "examples": [
+                    "You can cover the plane with regular hexagons."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, dated) To put on one's hat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To invest (oneself with something); to bring upon (oneself).",
+                  "examples": [
+                    "The heroic soldier covered himself with glory."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a publication) To discuss thoroughly; to provide coverage of.",
+                  "examples": [
+                    "The magazine covers such diverse topics as politics, news from the world of science, and the economy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To deal with or include someone or something.",
+                  "examples": [
+                    "Richard Morgan covers science for The Economist, The New York Times, Scientific American, and Wired."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be enough money for.",
+                  "examples": [
+                    "We've earned enough to cover most of our costs.",
+                    "Ten dollars should cover lunch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To act as a replacement.",
+                  "examples": [
+                    "I need to take off Tuesday. Can you cover for me?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To have as an assignment or responsibility.",
+                  "examples": [
+                    "Can you cover the morning shift tomorrow? I'll give you off next Monday instead.",
+                    "He is our salesman covering companies with headquarters in the northern provinces."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To make a cover version of (a song that was originally recorded by another artist).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, law enforcement) To protect using an aimed firearm and the threat of firing; or to protect using continuous, heaving fire at or in the direction of the enemy so as to force the enemy to remain in cover; or to threaten using an aimed firearm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To provide insurance coverage for.",
+                  "examples": [
+                    "Does my policy cover accidental loss?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To copulate with (said of certain male animals such as dogs and horses).",
+                  "examples": [
+                    "I would like to have my bitch covered next spring.",
+                    "The stallion has not covered the mare yet.",
+                    "Synonym: impregnate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess, transitive) To protect or control (a piece or square).",
+                  "examples": [
+                    "In order to checkmate a king on the side of the board, the five squares adjacent to the king must all be covered."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To extend over a given period of time or range, to occupy, to stretch over a given area.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To traverse or put behind a certain distance.",
+                  "examples": [
+                    "November 22 — Owing to bad weather all machines flew at a height of 5,000 feet and covered the 90 miles in just 90 minutes . November 23 — During fourth lap ..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) To defend (mark) a particular player or area.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
