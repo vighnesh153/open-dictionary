@@ -1,0 +1,68 @@
+{
+  "word": "client",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English client, from Anglo-Norman clyent, Old French client, from Latin cliēns, according to some, an alteration of cluēns, from clueō (“to be called”), or more likely from clīnō (“to lean”). Ultimately from the root *ḱel- (“to incline”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "client (plural clients)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A customer, a buyer or receiver of goods or services.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The role of a computer application or system that requests and/or consumes the services provided by another having the role of server.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who receives help or services from a professional such as a lawyer or accountant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A person who employs or retains an attorney to represent him or her in any legal matter, or one who merely divulges confidential matters to an attorney while pursuing professional assistance without subsequently retaining the attorney.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Short for client state.",
+                  "examples": [
+                    "A third preliminary comment deals explicitly with the relations between clients and superpowers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
