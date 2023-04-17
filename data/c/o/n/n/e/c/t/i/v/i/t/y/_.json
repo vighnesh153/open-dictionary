@@ -1,0 +1,48 @@
+{
+  "word": "connectivity",
+  "etymologies": [
+    {
+      "description": [
+        "connective +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "connectivity (countable and uncountable, plural connectivities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The state of being connected",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) The ability to make a connection between two or more points in a network",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) In a graph, a measure of concatenated adjacency (the number of ways that points are connected to each other)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
