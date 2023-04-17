@@ -1,0 +1,74 @@
+{
+  "word": "convene",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French convenir, from Latin convenio, convenire (“come together”), from con- (“with, together”) +‎ veniō (“come”), ultimately from Proto-Indo-European *gʷm̥yéti, from the root *gʷem-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "convene (third-person singular simple present convenes, present participle convening, simple past and past participle convened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To come together; to meet; to unite.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To come together, as in one body or for a public purpose; to meet; to assemble.",
+                  "examples": [
+                    "The Parliament of Scotland now convened."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to assemble; to call together; to convoke.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To summon judicially to meet or appear.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, with \"on\" or \"upon\") To make a convention; to declare a rule by convention.",
+                  "examples": [
+                    "To forestall any problems, we convened on the rule that all the database records would avoid containing certain literal strings."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
