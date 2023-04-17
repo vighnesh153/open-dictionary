@@ -1,0 +1,39 @@
+{
+  "word": "extrapolate",
+  "etymologies": [
+    {
+      "description": [
+        "From extra- +‎ (inter)polate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "extrapolate (third-person singular simple present extrapolates, present participle extrapolating, simple past and past participle extrapolated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To infer by extending known information.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To estimate the value of a variable outside a known range from values within that range by assuming that the estimated value follows logically from the known ones",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
