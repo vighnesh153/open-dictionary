@@ -1,0 +1,45 @@
+{
+  "word": "checksum",
+  "etymologies": [
+    {
+      "description": [
+        "check +‎ sum"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "checksum (plural checksums)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) A number, derived by applying a suitable algorithm to some data, used to check whether errors have occurred in transmission, storage or data entry.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "checksum (third-person singular simple present checksums, present participle checksumming, simple past and past participle checksummed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) To compute a checksum.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
