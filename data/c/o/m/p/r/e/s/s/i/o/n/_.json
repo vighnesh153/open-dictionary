@@ -1,0 +1,68 @@
+{
+  "word": "compression",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French compression, from Latin compressiō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compression (countable and uncountable, plural compressions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An increase in density; the act of compressing, or the state of being compressed; compaction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(automotive) The cycle of an internal combustion engine during which the fuel and air mixture is compressed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process by which data is compressed.",
+                  "examples": [
+                    "Due to the presence of long-range correlations in language [21], [22] it is not possible to compute accurate measures of the entropy by estimating block probabilities directly. More efficient nonparametric methods that work even in the presence of long-range correlations are based on the property that the entropy of a sequence is a lower bound to any lossless compressed version of it [15]. Thus, in principle, it is possible to estimate the entropy of a sequence by finding its length after being compressed by an optimal algorithm. In our analysis, we used an efficient entropy estimator derived from the Lempel-Ziv compression algorithm that converges to the entropy [19], [23], [24], and shows a robust performance when applied to correlated sequences [25] (see Materials and Methods)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The electronic process by which any sound's gain is automatically controlled.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) The deviation of a heavenly body from a spherical form.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
