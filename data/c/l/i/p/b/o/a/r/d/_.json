@@ -1,0 +1,39 @@
+{
+  "word": "clipboard",
+  "etymologies": [
+    {
+      "description": [
+        "clip +‎ board"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "clipboard (plural clipboards)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flat piece of rigid material, such as card or plastic, with a clip at one end under which papers can be held.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A buffer in memory where the user can store data temporarily while transferring it from one place within an application to another or between applications.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
