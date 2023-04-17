@@ -1,0 +1,65 @@
+{
+  "word": "factorial",
+  "etymologies": [
+    {
+      "description": [
+        "factor +‎ -ial"
+      ],
+      "adjectives": [
+        {
+          "description": "factorial (comparative more factorial, superlative most factorial)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of or pertaining to a factor or factorial.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to a factor, a kind of business agent.",
+                  "examples": [
+                    "The latter sold the goods to a customer who was cashier to certain creditors of the agents without disclosing the factorial capacity in which they acted."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Of or pertaining to a factory.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "factorial (plural factorials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, combinatorics) The result of multiplying a given number of consecutive integers from 1 to the given number. In equations, it is symbolized by an exclamation mark (!). For example, 5! = 1 × 2 × 3 × 4 × 5 = 120.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

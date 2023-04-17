@@ -1,0 +1,114 @@
+{
+  "word": "factory",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin factorium (“place of doers, makers”). Equivalent to factor +‎ -y. Compare Middle French factorie; Italian fattoria, Spanish factoría, Portuguese feitoria, Dutch factorij."
+      ],
+      "adjectives": [
+        {
+          "description": "factory (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, of a configuration, part, etc.) Having come from the factory in the state it is currently in; original, stock.",
+                  "examples": [
+                    "See how there's another layer of metal there? That's not factory."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "factory (plural factories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Scotland, now rare) The position or state of being a factor. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now historical) A trading establishment, especially set up by merchants working in a foreign country. [from 16th c.]",
+                  "examples": [
+                    "We had here his curate, Mr. Furley, who had been nine years chaplain to the English factory at St. Petersburg  […] ."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A building or other place where manufacturing takes place. [from 17th c.]",
+                  "examples": [
+                    "Synonym: manufactory",
+                    "History has shown that, even without cheap labor, factories run perfectly well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, slang) A police station. [from 19th c.]",
+                  "examples": [
+                    "The guys all knew each other and we were having a jolly old chinwag as we marched them out of the house in front of their stunned neighbours and into a van we had called to take them all to the Factory (police station)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device or process that produces or manufactures something.",
+                  "examples": [
+                    "Radio became a star factory for journalists."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A factory farm.",
+                  "examples": [
+                    "chicken factory; pig factory"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In a computer program or library, a function, method, etc. which creates an object.",
+                  "examples": [
+                    "The task factory  […]  is the object that is responsible for creating instances of those tasks dynamically."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
