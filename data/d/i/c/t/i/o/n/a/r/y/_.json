@@ -1,0 +1,95 @@
+{
+  "word": "dictionary",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Medieval Latin dictiōnārium, from Latin dictiōnārius, from dictiō (“speaking”), from dictus, perfect past participle of dīcō (“speak”) + -ārium (“room, place”). By surface analysis, diction +‎ -ary."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dictionary (plural dictionaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reference work with a list of words from one or more languages, normally ordered alphabetically, explaining each word's meanings (senses), and sometimes also containing information on its etymology, pronunciation, usage, semantic relations, and translations, as well as other data.",
+                  "examples": [
+                    "If you want to know the meaning of a word, look it up in the dictionary.",
+                    "Synonyms: wordbook; see also Thesaurus:dictionary"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(preceded by the) A synchronic dictionary of a standardised language held to only contain words that are properly part of the language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) Any work that has a list of material organized alphabetically; e.g., biographical dictionary, encyclopedic dictionary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An associative array, a data structure where each value is referenced by a particular key, analogous to words and definitions in a dictionary (sense 1).",
+                  "examples": [
+                    "Hyponym: hash table"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dictionary (third-person singular simple present dictionaries, present participle dictionarying, simple past and past participle dictionaried)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To look up in a dictionary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To add to a dictionary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, rare) To compile a dictionary.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
