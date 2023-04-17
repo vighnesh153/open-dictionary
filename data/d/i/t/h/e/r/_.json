@@ -1,0 +1,106 @@
+{
+  "word": "dither",
+  "etymologies": [
+    {
+      "description": [
+        "Variant of didder, from Middle English dideren (“to tremble”). Compare Middle English bididren, bididdren (“to seduce, deceive”), from Old English bedidrian, bedyderian (“to deceive, trick”).",
+        "Alternatively, perhaps with expressive voicing from *titeren, from Proto-Germanic *titrōną. If so a doublet of teeter and cognate with Old High German zittarōn (German zittern) and Old Norse titra (Faroese titra, Icelandic titra). Alternatively an unrelated reduplicative onomatopoeia."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dither (countable and uncountable, plural dithers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being undecided.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A form of noise which is intentionally applied to randomize errors which occur in the processing of both digital audio and digital video data.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) The use of dot patterns to approximate colors not available in the palette.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dither (third-person singular simple present dithers, present participle dithering, simple past and past participle dithered) (intransitive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To tremble, shake, or shiver with cold.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be uncertain or unable to make a decision about doing something.",
+                  "examples": [
+                    "The dithering Mr Singh of recent times may worry that his reform proposals are already too bold. The reforming Mr Singh of yore would see them as just the start."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To do something nervously.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) To render an approximation of (an image or graphic) by using dot patterns to simulate the appearance of colors or shades not in the system palette.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To intentionally add noise to a signal to randomize errors.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
