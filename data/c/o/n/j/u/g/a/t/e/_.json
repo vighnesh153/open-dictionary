@@ -1,0 +1,186 @@
+{
+  "word": "conjugate",
+  "etymologies": [
+    {
+      "description": [
+        "From the participle stem of Latin coniugāre (“to yoke together”), from con- (“with”) +‎ iugāre (“join, bind, connect”)."
+      ],
+      "adjectives": [
+        {
+          "description": "conjugate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "United in pairs; yoked together; coupled.",
+                  "examples": [
+                    "Antonym: dysconjugate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) In single pairs; coupled.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) Containing two or more radicals supposed to act the part of a single one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Agreeing in derivation and radical signification; said of words.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Presenting themselves simultaneously and having reciprocal properties; said of quantities, points, lines, axes, curves, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "conjugate (plural conjugates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any entity formed by joining two or more smaller entities together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of a complex number) A complex conjugate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) More generally, any of a set of irrational or complex numbers that are zeros of the same polynomial with integral coefficients.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, field theory, of an element of an extension field) Given a field extension L / K and an element α ∈ L, any other element β ∈ L that is another root of the minimal polynomial of α over K.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An explementary angle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word agreeing in derivation with another word, and therefore generally resembling it in meaning.",
+                  "examples": [
+                    "We have learned in logic, that conjugates are sometimes in name only, and not in deed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(immunology) A weak and a strong antigen covalently linked together",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "conjugate (third-person singular simple present conjugates, present participle conjugating, simple past and past participle conjugated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, transitive) To inflect (a verb) for each person, in order, for one or more tenses; to list or recite its principal parts.",
+                  "examples": [
+                    "Coordinate term: decline",
+                    "In English, the verb 'to be' is conjugated as follows: 'I am', 'you are', 'he/she/it is', 'we are', 'you are', 'they are'."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) To multiply on the left by one element and on the right by its inverse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) To join together, to unite; to juxtapose.",
+                  "examples": [
+                    "The effects of hunger were often conjugated with epidemic disease."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, of bacteria and algae) To temporarily fuse, exchanging or transferring DNA.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
