@@ -1,0 +1,69 @@
+{
+  "word": "causative",
+  "etymologies": [
+    {
+      "description": [
+        "From French causatif, from Latin causātīvus (“causative, pertaining to a lawsuit, accusative”), from causa (“to cause”); see cause (verb) and -ive."
+      ],
+      "adjectives": [
+        {
+          "description": "causative (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Acting as a cause.",
+                  "examples": [
+                    "Causative in nature of a number of effects."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Involving, or affected by, causality.",
+                  "examples": [
+                    "Such statistical analysis can establish correlation but cannot tell us whether the correlation is proximally causative, distally causative, or noncausative."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) Expressing a cause or causation.",
+                  "examples": [
+                    "The ablative is a causative case."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "causative (plural causatives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) An expression of an agent causing or forcing a patient to perform an action (or to be in a certain condition).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
