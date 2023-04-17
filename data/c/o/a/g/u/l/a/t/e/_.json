@@ -1,0 +1,81 @@
+{
+  "word": "coagulate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin coāgulō, coāgulātus, from coāgulum (“a means of curdling, rennet”), from cōgō (“bring together, gather, collect”), from co- (“together”) + agō (“do, make, drive”). Doublet of quail. Displaced native Middle English irennen, from Old English ġerinnan, but not native curdle."
+      ],
+      "adjectives": [
+        {
+          "description": "coagulate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Coagulated.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "coagulate (third-person singular simple present coagulates, present participle coagulating, simple past and past participle coagulated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become congealed; to convert from a liquid to a semisolid mass.",
+                  "examples": [
+                    "In cheese making, milk coagulates into curds that become cheese."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to congeal.",
+                  "examples": [
+                    "Rennet coagulates milk; heat coagulates the white of an egg."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "coagulate (plural coagulates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mass formed by means of coagulation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
