@@ -1,0 +1,88 @@
+{
+  "word": "equity",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English equitee, equytee, from Old French equité, from Latin aequitās (“uniformity; impartiality; fairness”). Doublet of equality."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "equity (countable and uncountable, plural equities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Fairness, impartiality, or justice as determined in light of \"natural law\" or \"natural right\".",
+                  "examples": [
+                    "Antonyms: inequity, iniquity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(law) Various related senses originating with the Court of Chancery in late Medieval England",
+              "entries": [
+                {
+                  "meaning": "(law) The power of a court of law having extra-statutory discretion, to decide legal matters and to provide legal relief apart from, though not in violation of, the prevailing legal code; in some cases, a court \"sitting in equity\" may provide relief to a complainant should the code be found either inapplicable or insufficient to do so.",
+                  "examples": [
+                    "A Court of equity knows its own province."
+                  ]
+                },
+                {
+                  "meaning": "(law) A right which accrues to a party in a transaction because of the nature of the transaction itself, and which is exercisable upon a change of circumstances or conditions; in other words, an equitable claim.",
+                  "examples": [
+                    "\"...the mortgagor retains ‘equitable title’ or the ‘equity of redemption’….The equity of redemption permits the mortgagor to regain legal title to the mortgaged property upon satisfying the conditions of the mortgage...\""
+                  ]
+                },
+                {
+                  "meaning": "(law, England) The body of law which was developed in the English Court of Chancery, which Court had extra-statutory discretion, and is now administered alongside the common law of Britain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(finance) Various senses related to net value",
+              "entries": [
+                {
+                  "meaning": "(law, finance) Value of property minus liens or other encumbrances.",
+                  "examples": [
+                    "Hyponym: home equity",
+                    "I have a lot of equity in my house."
+                  ]
+                },
+                {
+                  "meaning": "(business) Ownership, especially in terms of net monetary value of some business.",
+                  "examples": [
+                    "Hyponyms: stock, shares"
+                  ]
+                },
+                {
+                  "meaning": "(accounting) Ownership interest in a company as determined by subtracting liabilities from assets.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(poker) A player's expected share of the pot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nonstandard) Equality",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
