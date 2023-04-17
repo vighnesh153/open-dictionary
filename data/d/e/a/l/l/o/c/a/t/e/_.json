@@ -1,0 +1,43 @@
+{
+  "word": "deallocate",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ allocate"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deallocate (third-person singular simple present deallocates, present participle deallocating, simple past and past participle deallocated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove from the set of resources put aside for (allocated to) a particular user or purpose.",
+                  "examples": [
+                    "Empty out your locker; it will be deallocated at the end of the day."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To return previously allocated memory.",
+                  "examples": [
+                    "Computer programs should deallocate memory they no longer need, releasing it back to the system."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
