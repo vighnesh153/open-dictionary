@@ -1,0 +1,71 @@
+{
+  "word": "compute",
+  "etymologies": [
+    {
+      "description": [
+        "17th century. Borrowed from French computer, from Latin computō (“calculate, compute”). Doublet of count."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compute (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, informal) computation",
+                  "examples": [
+                    "Once you have the total, does it exceed the maximum amount of compute that can be served up in your vCenter environment? It is quite normal for users to consume everything you provide."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, informal) processing power",
+                  "examples": [
+                    "The GPU does not have enough on-chip SRAM memory for the parameters, and doesn't have enough compute for the entire model."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "compute (third-person singular simple present computes, present participle computing, simple past and past participle computed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reckon, calculate.",
+                  "examples": [
+                    "Can anyone here compute the square root of 10201?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, informal) To make sense. (commonly used in mimicry of a science fictional robot and spoken in a robotic voice; most frequently in negative constructs)",
+                  "examples": [
+                    "Does that compute, or do I need to explain further?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
