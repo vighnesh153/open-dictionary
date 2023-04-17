@@ -1,0 +1,114 @@
+{
+  "word": "defective",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English defectif, defective, from Old French defectif, from Late Latin dēfectīvus."
+      ],
+      "adjectives": [
+        {
+          "description": "defective (comparative more defective, superlative most defective)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having one or more defects.",
+                  "examples": [
+                    "Synonym: faulty",
+                    "Antonyms: complete, perfect"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, of a lexeme, especially a verb) Lacking some forms; e.g., having only one tense or being usable only in the third person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Arabic grammar, of a verb) Having a root whose final consonant is weak (ي, و, or ء).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(orthography, of a script) Not capable of representing all the phonemic distinctions of a language it is used to write.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly of abjad script) Spelled without matres lectionis, for example אמץ (ómets, “courage”) as opposed to the plene spelling אומץ where the letter vav ⟨ו⟩ indicates the vowel o.",
+                  "examples": [
+                    "Antonym: plene"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "defective (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly of abjad script) Without matres lectionis (letters indicating vowels) written out.",
+                  "examples": [
+                    "Antonym: plene"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "defective (plural defectives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or thing considered to be defective.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly of abjad script) A word written without matres lectionis (letters indicating vowels).",
+                  "examples": [
+                    "Antonym: plene"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
