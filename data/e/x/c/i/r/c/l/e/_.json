@@ -1,0 +1,32 @@
+{
+  "word": "excircle",
+  "etymologies": [
+    {
+      "description": [
+        "ex- +‎ circle"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "excircle (plural excircles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) An escribed circle; a circle outside a polygon (especially a triangle, but also sometimes a quadrilateral) that is tangent to each of the lines on which the sides of the polygon lie.",
+                  "examples": [
+                    "Also since the circle of inversion cuts both excircles orthogonally, each excircle inverts into itself."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
