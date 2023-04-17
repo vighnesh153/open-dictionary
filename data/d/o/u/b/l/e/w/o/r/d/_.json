@@ -1,0 +1,30 @@
+{
+  "word": "doubleword",
+  "etymologies": [
+    {
+      "description": [
+        "double +‎ word"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "doubleword (plural doublewords)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An area of storage double the size of the word in a particular system; in 32-bit architecture, this is equal to four bytes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
