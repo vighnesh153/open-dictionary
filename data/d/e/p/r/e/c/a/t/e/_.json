@@ -1,0 +1,66 @@
+{
+  "word": "deprecate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin dēprecātus, past participle of dēprecārī (“to pray against (a present or impending evil), pray for, intercede for (that which is in danger), rarely imprecate”), from dē- (“off”) +‎ precārī (“to pray”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deprecate (third-person singular simple present deprecates, present participle deprecating, simple past and past participle deprecated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To belittle or express disapproval of.",
+                  "examples": [
+                    "He deprecates any praise of his own merits.",
+                    "They deprecated the attempt to deny aid to homeless people.",
+                    "She deprecated any action which might disturb the peace."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chiefly computing) To declare something obsolescent; to recommend against a function, technique, command, etc. that still works but has been replaced.",
+                  "examples": [
+                    "The 'bold' tag has been deprecated in favour of the 'strong' tag.",
+                    "It is still supported but strongly deprecated."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, transitive) To pray against.",
+                  "examples": [
+                    "And in deprecating of Evil, we make an humble Acknowledgement of Guilt; and of God’s Juſtice in chaſtizing, as well as Clemency, in ſparing the Guilty."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, transitive) To regret deeply.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

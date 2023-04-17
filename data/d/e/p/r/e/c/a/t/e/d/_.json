@@ -1,0 +1,65 @@
+{
+  "word": "deprecated",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin dēprecātus, past participle of deprecari (“to pray against (a present or impending evil), pray for, intercede for (that which is in danger), rarely imprecate”), from de (“off”) + precari (“to pray”)."
+      ],
+      "adjectives": [
+        {
+          "description": "deprecated (comparative more deprecated, superlative most deprecated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Strongly disapproved of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Belittled; insulted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Said of a function or feature planned to be phased out, but still available for use.",
+                  "examples": [
+                    "Synonyms: on its way out, obsolescent; see also Thesaurus:obsolete"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deprecated",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of deprecate",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
