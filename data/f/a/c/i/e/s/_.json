@@ -1,0 +1,53 @@
+{
+  "word": "facies",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin faciēs (“form, configuration, figure; face, visage, countenance”). Doublet of face."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "facies (countable and uncountable, plural facies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "General appearance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Facial features, like an expression or complexion, typical for patients having certain diseases or conditions.",
+                  "examples": [
+                    "costive facies",
+                    "Hyponyms: masked facies, moon facies"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A body of rock with specified characteristics reflecting its formation, composition, age, and fossil content.",
+                  "examples": [
+                    "Hyponyms: biofacies, lithofacies, microfacies, ichnofacies, taphofacies"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
