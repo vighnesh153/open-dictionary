@@ -1,0 +1,48 @@
+{
+  "word": "circumscribe",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin circumscrībō, from circum (“around”) + scrībō (“write”). Surface analysis: circum- +‎ scribe."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "circumscribe (third-person singular simple present circumscribes, present participle circumscribing, simple past and past participle circumscribed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To draw a line around; to encircle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To limit narrowly; to restrict.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) To draw the smallest circle or higher-dimensional sphere that has (a polyhedron, polygon, etc.) in its interior.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
