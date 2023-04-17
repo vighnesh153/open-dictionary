@@ -1,0 +1,44 @@
+{
+  "word": "category",
+  "etymologies": [
+    {
+      "description": [
+        "Late Middle English, borrowed from French catégorie, from Middle French categorie, from Late Latin catēgoria (“class of predicables”), from Ancient Greek κατηγορία (katēgoría, “head of predicables”). Doublet of categoria."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "category (plural categories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+                  "examples": [
+                    "The traditional way of describing the similarities and differences between constituents is to say that they belong to categories of various types. Thus, words like boy, girl, man, woman, etc. are traditionally said to belong to the category of Nouns, whereas words like a, the, this, and that are traditionally said to belong to the category of Determiners."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A collection of objects, together with a transitively closed collection of composable arrows between them, such that every object has an identity arrow, and such that arrow composition is associative.",
+                  "examples": [
+                    "One well-known category has sets as objects and functions as arrows.",
+                    "Just as a monoid consists of an underlying set with a binary operation \"on top of it\" which is closed, associative and with an identity, a category consists of an underlying digraph with an arrow composition operation \"on top of it\" which is transitively closed, associative, and with an identity at each object. In fact, a category's composition operation, when restricted to a single one of its objects, turns that object's set of arrows (which would all be loops) into a monoid."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
