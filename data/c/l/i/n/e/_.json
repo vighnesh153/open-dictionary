@@ -1,0 +1,68 @@
+{
+  "word": "cline",
+  "etymologies": [
+    {
+      "description": [
+        "Ancient Greek κλῑ́νω (klī́nō, “to lean, incline”). Introduced by English evolutionary biologist and eugenicist Julian Huxley in 1938 after British mycologist John Ramsbottom suggested the term."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cline (plural clines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(systematics) A gradation in a character or phenotype within a species or other group.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any graduated continuum.",
+                  "examples": [
+                    "This account effectively reconstructs the well-known grammaticalisation cline from anaphora to agreement, …"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From c(ircle) + line; compare circline."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cline (plural clines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, inversive geometry) A generalized circle.",
+                  "examples": [
+                    "Let Ω be a fixed, arbitrary, point. Then circles (in the classical sense) through Ω can be considered as lines. For convenience, such circles are called clines in this section. Two distinct clines cut in one point (ignoring Ω and the two cyclic points); it can happen that Ω is a double intersection point; in this case, one may say that the two clines are parallel, and that they meet at a point at infinity, which is Ω."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
