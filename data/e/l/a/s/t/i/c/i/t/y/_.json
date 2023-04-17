@@ -1,0 +1,90 @@
+{
+  "word": "elasticity",
+  "etymologies": [
+    {
+      "description": [
+        "elastic +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "elasticity (countable and uncountable, plural elasticities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The property by virtue of which a material deformed under load can regain its original dimensions when unloaded",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(economics) The sensitivity of changes in a quantity with respect to changes in another quantity.",
+                  "examples": [
+                    "If the sales of an item drop by 5% when the price increases by 10%, its price elasticity is −0.5."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A measure of the flexibility of a data store's data model and clustering capabilities.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A system's ability to adapt to changes in workload by automatically provisioning and de-provisioning resources.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The ratio of the relative change in a function's output with respect to the relative change in its input, for infinitesimal changes at a certain point.",
+                  "examples": [
+                    "Synonym: point elasticity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality of being elastic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Adaptability.",
+                  "examples": [
+                    "Her elasticity allowed her to recover quickly."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
