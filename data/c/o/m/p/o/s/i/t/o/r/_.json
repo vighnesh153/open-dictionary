@@ -1,0 +1,52 @@
+{
+  "word": "compositor",
+  "etymologies": [
+    {
+      "description": [
+        "From French compositeur, from Latin compositor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compositor (plural compositors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who sets type; a typesetter.",
+                  "examples": [
+                    "However late medieval copyists were supervised — and controls were much more lax than many accounts suggest — scribes were incapable of committing the sort of \"standardized\" error that was produced by a compositor who dropped the word \"not\" from the Seventh Commandment and thus created the \"wicked\" Bible of 1631."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, composes or sets in order.",
+                  "examples": [
+                    "I work as an image compositor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A system that puts images together in a buffer (such as individual windows on a desktop) to generate a final display image.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
