@@ -1,0 +1,98 @@
+{
+  "word": "eager",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English egre, eger, from Old French egre (French aigre), from Latin acer (“sharp, keen”); see acid, acerb, etc. Compare vinegar, alegar."
+      ],
+      "adjectives": [
+        {
+          "description": "eager (comparative more eager or eagerer, superlative most eager or eagerest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Desirous; keen to do or obtain something.",
+                  "examples": [
+                    "Stacey is very eager to go cycling this weekend.",
+                    "The hounds were eager in the chase.",
+                    "I was eager to show my teacher how much I'd learned over the holidays.",
+                    "You stayed up all night to get to the front of the queue. You must be very eager to get tickets."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) Not employing lazy evaluation; calculating results immediately, rather than deferring calculation until they are required.",
+                  "examples": [
+                    "an eager algorithm"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Brittle; inflexible; not ductile.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, literally) Sharp; sour; acid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, figurative) Sharp; keen; bitter; severe.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "See eagre."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eager (plural eagers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of eagre (tidal bore).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
