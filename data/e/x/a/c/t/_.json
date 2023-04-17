@@ -1,0 +1,121 @@
+{
+  "word": "exact",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin exāctus (the verb via Middle English exact), perfect passive participle of exigō (“demand, claim as due; measure by a standard, weigh, test”), from ex (“out”) + agō (“drive”)."
+      ],
+      "adjectives": [
+        {
+          "description": "exact (comparative exacter or more exact, superlative exactest or most exact)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Precisely agreeing with a standard, a fact, or the truth; perfectly conforming; neither exceeding nor falling short in any respect.",
+                  "examples": [
+                    "The clock keeps exact time.",
+                    "He paid the exact debt.",
+                    "an exact copy of a letter",
+                    "exact accounts"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Habitually careful to agree with a standard, a rule, or a promise; accurate; methodical; punctual.",
+                  "examples": [
+                    "a man exact in observing an appointment",
+                    "In my doings I was exact."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Precisely or definitely conceived or stated; strict.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of a sequence of groups connected by homomorphisms) Such that the kernel of one homomorphism is the image of the preceding one.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "exact (comparative more exact, superlative most exact)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "exactly",
+                  "examples": [
+                    "She's wearing the exact same sweater as I am!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "exact (third-person singular simple present exacts, present participle exacting, simple past and past participle exacted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To demand and enforce the payment or performance of, sometimes in a forcible or imperious way.",
+                  "examples": [
+                    "to exact tribute, fees, or obedience from someone"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make desirable or necessary.",
+                  "examples": [
+                    "My designs exact me in another place."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To inflict; to forcibly obtain or produce.",
+                  "examples": [
+                    "to exact revenge on someone"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
