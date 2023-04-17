@@ -1,0 +1,67 @@
+{
+  "word": "deficient",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin deficiens, present participle of deficere (“to lack, fail, be wanting”); see defect."
+      ],
+      "adjectives": [
+        {
+          "description": "deficient (comparative more deficient, superlative most deficient)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lacking something essential; often construed with in.",
+                  "examples": [
+                    "They were deficient in social skills."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Insufficient or inadequate in amount.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a number n, Having the sum of divisors σ(n)<2n, or, equivalently, the sum of proper divisors (or aliquot sum) s(n)<n.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "deficient (plural deficients)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who is deficient.",
+                  "examples": [
+                    "This was justified by the rationale that mental deficients, by definition, are not able to succeed in society."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
