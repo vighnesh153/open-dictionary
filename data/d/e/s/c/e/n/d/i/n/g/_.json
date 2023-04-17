@@ -1,0 +1,82 @@
+{
+  "word": "descending",
+  "etymologies": [
+    {
+      "description": [
+        "From descend +‎ -ing."
+      ],
+      "adjectives": [
+        {
+          "description": "descending (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Moving or sloping downwards.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(of a sequence) Ordered such that each element is less than or equal to the previous element.",
+              "entries": [
+                {
+                  "meaning": "(computing) Causing a sequence to follow a descending order.",
+                  "examples": [
+                    "We used a descending sort."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Becoming lower in pitch.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "descending (plural descendings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A descent.",
+                  "examples": [
+                    "continual ascendings and descendings"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "descending",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle and gerund of descend",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
