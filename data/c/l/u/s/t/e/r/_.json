@@ -1,0 +1,145 @@
+{
+  "word": "cluster",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is derived from Middle English cluster (“bunch, cluster, spray; compact body or mass, ball”) [and other forms], from Old English cluster, clyster (“cluster, bunch, branch”), from Proto-Germanic *klas-, *klus- (“to clump, lump together”) (possibly from Proto-Indo-European *gel- (“to ball up; to clench; to amass”)) + *-þrą (suffix forming nouns denoting an instrument or tool). The English word is probably a doublet of clot.",
+        "The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cluster (plural clusters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "A bunch or group of several discrete items that are close to each other.",
+              "entries": [
+                {
+                  "meaning": "(astronomy) A group of galaxies, nebulae, or stars that appear to the naked eye to be near each other.",
+                  "examples": [
+                    "(of galaxies): Synonym: galaxy cluster",
+                    "(of stars): Synonym: star cluster",
+                    "Hyponyms: globular cluster, open cluster",
+                    "The Pleiades cluster contains seven bright stars."
+                  ]
+                },
+                {
+                  "meaning": "(chemistry) An ensemble of bound atoms (especially of a metal) or molecules, intermediate in size between a molecule and a bulk solid.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing)",
+                  "examples": []
+                },
+                {
+                  "meaning": "A group of computers that work together.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A logical data storage unit containing one or more physical sectors (see block (noun)).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(epidemiology) A group of cases of the same disease occurring around the same place or time.",
+                  "examples": [
+                    "A leukemia cluster has developed in the town."
+                  ]
+                },
+                {
+                  "meaning": "(linguistics) Synonym of lexical bundle (“a sequence of two or more words that occur in a language with high frequency but are not idiomatic”)",
+                  "examples": [
+                    "Synonyms: bundle, chunk",
+                    "examples of clusters would include in accordance with, so far, and the results of"
+                  ]
+                },
+                {
+                  "meaning": "(military)",
+                  "examples": []
+                },
+                {
+                  "meaning": "A set of bombs or mines released as part of the same blast.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(US) In full oak leaf cluster: a small bronze or silver device shaped like a twig of oak leaves and acorns which is worn on a ribbon to indicate that the wearer has been conferred the same award or decoration before; an oakleaf.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(music) A secundal chord of three or more notes.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(phonetics) A group of consonants that occur together.",
+                  "examples": [
+                    "The word scrub begins with a cluster of three consonants."
+                  ]
+                },
+                {
+                  "meaning": "(statistics) In cluster analysis: a subset of a population whose members are sufficiently similar to each other and distinct from others as to be considered a separate group; also, such a grouping in a set of observed data that is statistically significant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A number of individuals (animals or people) collected in one place or grouped together; a crowd, a mob, a swarm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) Euphemistic form of clusterfuck (“a chaotic situation where everything seems to go wrong”).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cluster (third-person singular simple present clusters, present participle clustering, simple past and past participle clustered)",
+          "definitionGroups": [
+            {
+              "group": "(transitive, chiefly passive)",
+              "entries": [
+                {
+                  "meaning": "To collect (animals, people, or objects) into clusters (noun sense 1).",
+                  "examples": []
+                },
+                {
+                  "meaning": "To cover (with clusters); to scatter or strew in clusters (within); to distribute (objects) within such that they form clusters.",
+                  "examples": [
+                    "The sea is clustered with islands."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To form a cluster or group; to assemble, to gather.",
+                  "examples": [
+                    "The children clustered around the puppy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
