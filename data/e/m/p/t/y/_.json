@@ -1,0 +1,181 @@
+{
+  "word": "empty",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English emty, amty, from Old English ǣmtiġ, ǣmettiġ (“vacant, empty, free, idle, unmarried”, literally “without must or obligation, leisurely”), from Proto-Germanic *uz- (“out”) + Proto-Germanic *mōtijô, *mōtô (“must, obligation, need”), *mōtiþô (“ability, accommodation”), from Proto-Indo-European *med- (“measure; to acquire, possess, be in command”). Related to Old English ġeǣmtigian (“to empty”), ǣmetta (“leisure”), mōtan (“can, to be allowed”). More at mote, meet.",
+        "The interconsonantal excrescent p is a euphonic insertion dating from Middle English."
+      ],
+      "adjectives": [
+        {
+          "description": "empty (comparative emptier, superlative emptiest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Devoid of content; containing nothing or nobody; vacant.",
+                  "examples": [
+                    "Synonyms: unoccupied, clear, (obsolete) leer, (rare dialect) toom, clean",
+                    "Antonym: full",
+                    "an empty purse",
+                    "an empty jug",
+                    "an empty stomach"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, mathematics) Containing no elements (as of a string, array, or set), opposed to being null (having no valid value).",
+                  "examples": [
+                    "Antonym: non-empty"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Free; clear; devoid; often with of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having nothing to carry, emptyhanded; unburdened.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Destitute of effect, sincerity, or sense; said of language.",
+                  "examples": [
+                    "empty words, or threats",
+                    "empty offer",
+                    "empty promises"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unable to satisfy; hollow; vain.",
+                  "examples": [
+                    "empty pleasures"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Destitute of reality, or real existence; unsubstantial.",
+                  "examples": [
+                    "empty dreams"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Destitute of, or lacking, sense, knowledge, or courtesy.",
+                  "examples": [
+                    "empty brains",
+                    "an empty coxcomb"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of some female animals, especially cows and sheep) Not pregnant; not producing offspring when expected to do so during the breeding season.",
+                  "examples": [
+                    "Empty cow rates have increased in recent years."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, of a plant or tree) Producing nothing; unfruitful.",
+                  "examples": [
+                    "an empty vine"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "empty (plural empties)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually plural) A container, especially a bottle, whose contents have been used up, leaving it empty.",
+                  "examples": [
+                    "Put the empties out to be recycled."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "empty (third-person singular simple present empties, present participle emptying, simple past and past participle emptied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, ergative) To make empty; to void; to remove the contents of.",
+                  "examples": [
+                    "to empty a well or a cistern",
+                    "The cinema emptied quickly after the end of the film."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Of a river, duct, etc: to drain or flow toward an ultimate destination.",
+                  "examples": [
+                    "Salmon River empties on the W shore about 2 miles below Bear River."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
