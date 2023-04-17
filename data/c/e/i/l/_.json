@@ -1,0 +1,81 @@
+{
+  "word": "ceil",
+  "etymologies": [
+    {
+      "description": [
+        "Uncertain; perhaps related to Latin cēlō (“to hide”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ceil (third-person singular simple present ceils, present participle ceiling, simple past and past participle ceiled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To line or finish (a surface, such as a wall), with plaster, stucco, thin boards, or similar.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Abbrevation of ceiling, influenced by French ciel"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ceil (plural ceils)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poetic) A ceiling.",
+                  "examples": [
+                    "[…]  The mossy sward / Beneath their feet, their carpet was, / An azure ceil, the sky above;  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Abbreviation of ceiling.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ceil (third-person singular simple present ceils, present participle ceiling, simple past and past participle ceiled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) To set a higher bound.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
