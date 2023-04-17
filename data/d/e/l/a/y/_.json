@@ -1,0 +1,133 @@
+{
+  "word": "delay",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English delaien, borrowed from Anglo-Norman delaier, Old French deslaier, from des- + Old French laier (“to leave”), a conflation of Old Frankish *lattjan (\"to delay, hinder\"; from Proto-Germanic *latjaną (“to delay, hinder, stall”), from Proto-Indo-European *leh₁d- (“to leave, leave behind”)), and Old Frankish *laibijan (\"to leave\"; from Proto-Germanic *laibijaną (“to leave, cause to stay”), from Proto-Indo-European *leyp- (“to remain, continue”)).",
+        "Akin to Old English latian (“to delay, hesitate”), Old English latu (“a delay, a hindrance”), Old English lǣfan (“to leave”). More at let (to hinder), late, leave."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "delay (countable and uncountable, plural delays)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A period of time before an event occurs; the act of delaying; procrastination; lingering inactivity.",
+                  "examples": [
+                    "the delay before the echo of a sound"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) An audio effects unit that introduces a controlled delay.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, Clojure) Synonym of promise (“object representing delayed result”)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess) An amount of time provided on each move before one's clock starts to tick; a less common time control than increment.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "delay (third-person singular simple present delays, present participle delaying, simple past and past participle delayed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To put off until a later time; to defer.",
+                  "examples": [
+                    "My lord delayeth his coming."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To retard; to stop, detain, or hinder, for a time.",
+                  "examples": [
+                    "The mail is delayed by a heavy fall of snow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To allay; to temper.",
+                  "examples": [
+                    "The watery showers delay the raging wind."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English delaien, from Old French delaiier, a variant of delaissier."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "delay (third-person singular simple present delays, present participle delaying, simple past and past participle delayed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To dilute, temper.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To assuage, quench, allay.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
