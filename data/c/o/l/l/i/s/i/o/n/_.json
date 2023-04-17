@@ -1,0 +1,50 @@
+{
+  "word": "collision",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French collision, from Late Latin collisio, from Latin collidere, past participle collisus (“to dash together”); see collide."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "collision (countable and uncountable, plural collisions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of colliding.",
+                  "examples": [
+                    "At the very moment he cried out, David realised that what he had run into was only the Christmas tree. Disgusted with himself at such cowardice, he spat a needle from his mouth, stepped back from the tree and listened. There were no sounds of any movement upstairs: no shouts, no sleepy grumbles, only a gentle tinkle from the decorations as the tree had recovered from the collision."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Any event in which two or more bodies exert forces on each other in a relatively short time. In a collision, physical contact of two bodies is not necessary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software compilation) Clipping of naming collision.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
