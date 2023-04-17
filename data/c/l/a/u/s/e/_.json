@@ -1,0 +1,65 @@
+{
+  "word": "clause",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English clause, claus, borrowed from Old French clause, from Medieval Latin clausa (Latin diminutive clausula (“close, end; a clause, close of a period”)), from Latin clausus, past participle of claudere (“to shut, close”). See close, its doublet."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "clause (plural clauses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A verb, its necessary grammatical arguments, and any adjuncts affecting them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A verb along with its subject and their modifiers. If a clause provides a complete thought on its own, then it is an independent (superordinate) clause; otherwise, it is (subordinate) dependent.",
+                  "examples": [
+                    "However, Coordination facts seem to undermine this hasty conclusion: thus, consider the following: (43)      [Your sister could go to College], but [would she get a degree?] The second (italicised) conjunct is a Clause containing an inverted Auxiliary, would. Given our earlier assumptions that inverted Auxiliaries are in C, and that C is a constituent of S-bar, it follows that the italicised Clause in (43) must be an S-bar. But our familiar constraint on Coordination tells us that only constituents belonging to the same Category can be conjoined. Since the second Clause in (43) is clearly an S-bar, then it follows that the first Clause must also be an S-bar — one in which the C(omplementiser) position has been left empty."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A separate part of a contract, a will or another legal document.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "clause (third-person singular simple present clauses, present participle clausing, simple past and past participle claused)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, shipping) To amend (a bill of lading or similar document).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
