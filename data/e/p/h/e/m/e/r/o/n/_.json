@@ -1,0 +1,41 @@
+{
+  "word": "ephemeron",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Ancient Greek ἐφήμερον (ephḗmeron), neuter form of ἐφήμερος (ephḗmeros)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ephemeron (plural ephemera)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something short-lived or transitory.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A type of weak reference in a garbage collected programming language that does not permit an object to be kept alive by its finalizer.",
+                  "examples": [
+                    "Beyond type safety, OCaml has several features that closely interact with the garbage collector. These include weak references, finalisers, ephemerons, and lazy values, whose semantics will have to be preserved with the new GC so as to not break programs that use those features."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

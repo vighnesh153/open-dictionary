@@ -1,0 +1,50 @@
+{
+  "word": "ephemeris",
+  "etymologies": [
+    {
+      "description": [
+        "From New Latin ephēmeris, from Ancient Greek ἐφημερίς (ephēmerís, “diary, calendar”), from ἐφήμερος (ephḗmeros, “daily”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ephemeris (plural ephemerides or ephemerises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A journal or diary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy, nautical) A table giving the apparent position of celestial bodies throughout the year; normally given as right ascension and declination.",
+                  "examples": [
+                    "Synonym: almanac"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Computer software that calculates the apparent position of celestial bodies.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
