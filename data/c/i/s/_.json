@@ -1,0 +1,86 @@
+{
+  "word": "cis",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin cis (“on the same side”)."
+      ],
+      "adjectives": [
+        {
+          "description": "cis (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Having two mutations on two genes on the same chromosome of a homologous pair.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cytology) Of the side of the Golgi apparatus nearer to the endoplasmic reticulum.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) In (or constituting, forming, or describing) a double bond in which the greater radical on both ends is on the same side of the bond.",
+                  "examples": [
+                    "9 is thought to survive longer when the CH = CH bond is cis and to favour the formation of another cis double bond in a propagation reaction involving its displacement by monomer. 10, on the other hand, is more likely to yield a trans double bond  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) In (or constituting, forming, or describing) a coordination compound in which the two instances of a particular ligand are adjacent to each other.",
+                  "examples": [
+                    "The cis effect is the labilization of ligands which are cis to certain other ligands."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "A clipping of cisgender or of cissexual (from Latin cis)."
+      ],
+      "adjectives": [
+        {
+          "description": "cis (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Cisgender (or sometimes cissexual): not trans (transgender or transsexual) nor non-binary.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
