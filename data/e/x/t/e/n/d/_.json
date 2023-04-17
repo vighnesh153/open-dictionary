@@ -1,0 +1,138 @@
+{
+  "word": "extend",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English extenden, from Anglo-Norman extendre, estendre, from Latin extendō (“I stretch out”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "extend",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Misspelling of extent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "extend (third-person singular simple present extends, present participle extending, simple past and past participle extended)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To increase in extent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To possess a certain extent; to cover an amount of space.",
+                  "examples": [
+                    "The desert extended for miles in all directions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to increase in extent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to last for a longer period of time.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To straighten (a limb).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bestow; to offer; to impart; to apply.",
+                  "examples": [
+                    "to extend sympathy to the suffering",
+                    "to extend credit to a valued customer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To increase in quantity by weakening or adulterating additions.",
+                  "examples": [
+                    "[…]  the exalted morality of those virtuous brethren in the trade who, with consciences as weak as their own \"extended\" liquors, sought to convince him that to reduce the drink was a mercy to the poor deluded toper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, law) To value, as lands taken by a writ of extent in satisfaction of a debt; to assign by writ of extent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) Of a class: to be an extension or subtype of, or to be based on, a prototype or a more abstract class.",
+                  "examples": [
+                    "The classes Person and Dog extend the class Animal.",
+                    "Synonym: inherit"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, US, military) To reenlist for a further period.",
+                  "examples": [
+                    "Two years later, back to amtracs, this time at Camp Schwab, Okinawa, and I liked it so much I extended."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
