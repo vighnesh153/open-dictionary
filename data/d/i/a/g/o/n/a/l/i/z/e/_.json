@@ -1,0 +1,39 @@
+{
+  "word": "diagonalize",
+  "etymologies": [
+    {
+      "description": [
+        "diagonal +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "diagonalize (third-person singular simple present diagonalizes, present participle diagonalizing, simple past and past participle diagonalized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, transitive) To convert a square matrix into a diagonal matrix by multiplying it by a second matrix and its inverse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cybernetics) To design variables such that design problems only bear upon subsets that are loosely coupled to others.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "word": "diagram",
+  "etymologies": [
+    {
+      "description": [
+        "From French diagramme, from Italian diagramma, from Ancient Greek διάγραμμα (diágramma)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "diagram (plural diagrams)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A plan, drawing, sketch or outline to show how something works, or show the relationships between the parts of a whole.",
+                  "examples": [
+                    "Electrical diagrams show device interconnections."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A graph or chart.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A functor from an index category to another category. The objects and morphisms of the index category need not have any internal substance, but rather merely outline the connective structure of at least some part of the diagram's codomain. If the index category is J and the codomain is C, then the diagram is said to be \"of type J in C\".",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "diagram (third-person singular simple present diagrams, present participle diagraming or diagramming, simple past and past participle diagramed or diagrammed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To represent or indicate something using a diagram.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) To schedule the operations of a locomotive or train according to a diagram.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
