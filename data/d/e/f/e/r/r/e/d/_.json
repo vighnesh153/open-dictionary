@@ -1,0 +1,92 @@
+{
+  "word": "deferred",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "deferred (comparative more deferred, superlative most deferred)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Delayed; put off till later.",
+                  "examples": [
+                    "requested a deferred payment",
+                    "Synonyms: delayed, postponed"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Yielded to someone else's decision or judgment.",
+                  "examples": [
+                    "The decision was deferred to the regional manager"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(accounting) Whose value is not realized until a future date: e.g. annuities, charges, taxes, and income, either as an asset or liability.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "deferred (plural deferreds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Synonym of promise (“object representing delayed result”)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A deferred bond.",
+                  "examples": [
+                    "Only some Eurobonds are Euro straights with normal fixed coupons: many have innovative coupon structures, like zeros, deferreds, or step-ups; many are dual-currency (coupon and principal currencies are not the same);  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deferred",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of defer",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
