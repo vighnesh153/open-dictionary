@@ -1,0 +1,50 @@
+{
+  "word": "coerce",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin coercere (“to surround, encompass, restrain, control, curb”), from co- (“together”) + arcere (“to inclose, confine, keep off”); see arcade, arcane, ark."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "coerce (third-person singular simple present coerces, present participle coercing, simple past and past participle coerced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To restrain by force, especially by law or authority; to repress; to curb.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use force, threat, fraud, or intimidation in an attempt to compel one to act against their will.",
+                  "examples": [
+                    "They coerced their children into going to the country park."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To force an attribute, normally of a data type, to take on the attribute of another data type.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
