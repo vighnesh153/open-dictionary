@@ -1,0 +1,68 @@
+{
+  "word": "epsilon",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἒ ψιλόν (è psilón, “simple Ε”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "epsilon (countable and uncountable, plural epsilons or epsila)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The name for the fifth letter of the Greek alphabet, ε or Ε, preceded by delta (Δ, δ) and followed by zeta (Ζ, ζ).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) In IPA, the phonetic symbol ɛ that represents the open-mid front unrounded vowel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(mathematics) An arbitrarily small quantity.",
+              "entries": [
+                {
+                  "meaning": "(colloquial) A small child.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, colloquial) Something negligible or insignificant.",
+                  "examples": [
+                    "Yes, we have to convert all the symbol names to upper case at startup, but that’s epsilon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) The percentage change in an option value with respect to the underlying dividend yield.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
