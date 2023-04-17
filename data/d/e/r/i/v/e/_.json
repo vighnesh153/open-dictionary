@@ -1,0 +1,79 @@
+{
+  "word": "derive",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English deriven, from Old French deriver, from Latin dērīvō (“to lead, turn, or draw off (a liquid), draw off, derive”), from dē (“away”) + rīvus (“a stream”); see rival."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "derive (third-person singular simple present derives, present participle deriving, simple past and past participle derived)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obtain or receive (something) from something else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, logic) To deduce (a conclusion) by reasoning.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, linguistics) To find the derivation of (a word or phrase).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chemistry) To create (a compound) from another by means of a reaction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To originate or stem (from).",
+                  "examples": [
+                    "her excellent organisation skills derive from her time as a secretary in the army"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To turn the course of (water, etc.); to divert and distribute into subordinate channels.",
+                  "examples": [
+                    "For fear it [water] choke up the pits […] they [the workman] deriue it by other drains."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
