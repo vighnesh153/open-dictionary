@@ -1,0 +1,116 @@
+{
+  "word": "compromise",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French compromis, from Medieval Latin, Late Latin compromissum (“a compromise, originally a mutual promise to refer to arbitration”), prop. neuter of Latin compromissus, past participle of compromittere (“to make a mutual promise to abide by the decision of an arbiter”), from com- (“together”) + promittere (“to promise”); see promise."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compromise (countable and uncountable, plural compromises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The settlement of differences by arbitration or by consent reached by mutual concessions.",
+                  "examples": [
+                    "All government, indeed every human benefit and enjoyment, every virtue and every prudent act, is founded on compromise and barter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A committal to something derogatory or objectionable; a prejudicial concession; a surrender.",
+                  "examples": [
+                    "a compromise of character or right"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer security) A breach of a computer or network's rules such that an unauthorized disclosure or loss of sensitive information may have occurred, or the unauthorized disclosure or loss itself.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "compromise (third-person singular simple present compromises, present participle compromising, simple past and past participle compromised)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To bind by mutual agreement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To adjust and settle by mutual concessions; to compound.",
+                  "examples": [
+                    "Synonym: split the difference"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To find a way between extremes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To pledge by some act or declaration; to endanger the life, reputation, etc., of, by some act which can not be recalled; to expose to suspicion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause impairment of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To breach (a security system).",
+                  "examples": [
+                    "They tried to compromise the security in the computer by guessing the password."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
