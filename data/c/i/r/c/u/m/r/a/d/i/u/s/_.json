@@ -1,0 +1,32 @@
+{
+  "word": "circumradius",
+  "etymologies": [
+    {
+      "description": [
+        "circum- +‎ radius"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "circumradius (plural circumradii)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) For a given geometric shape, the radius of the smallest circle or sphere into which it will fit.",
+                  "examples": [
+                    "The circumradius of the unit square is one-half the square root of two."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
