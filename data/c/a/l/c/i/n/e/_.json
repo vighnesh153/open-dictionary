@@ -1,0 +1,81 @@
+{
+  "word": "calcine",
+  "etymologies": [
+    {
+      "description": [
+        "The verb is derived from Late Middle English calcinen (“(alchemy, medicine) to heat (something) until it turns to powder; to change the nature of (something) by heating”) [and other forms], from Old French calciner (modern French calciner (“to calcinate; to calcine”)) and from its etymon Medieval Latin calcināre (“(alchemy) to burn like lime; to reduce to calx”), from Late Latin calcīna (“inorganic material containing calcium, lime”) + -āre (suffix forming present active infinitive forms of verbs). Calcīna is derived from Latin calcis, the genitive singular of calx (“chalk; limestone”), possibly from Ancient Greek χᾰ́λῐξ (khálix, “small stone, pebble; gravel, rubble”); further etymology unknown, possibly Pre-Greek .",
+        "The noun is derived from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "calcine (plural calcines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something calcined; also, material left over after burning or roasting.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "calcine (third-person singular simple present calcines, present participle calcining, simple past and past participle calcined)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "(alchemy, historical) To heat (a substance) to remove its impurities and refine it.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(chemistry) To heat (a substance) without melting in order to drive off water, etc., and to oxidize or reduce it; specifically, to decompose (carbonates) into oxides, and, especially, to heat (limestone) to form quicklime.",
+                  "examples": [
+                    "Synonyms: (obsolete) calcinate, chark"
+                  ]
+                },
+                {
+                  "meaning": "(by extension) To heat (something) to dry and sterilize it.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figuratively)",
+                  "examples": [
+                    "Synonym: (obsolete) calcinize"
+                  ]
+                },
+                {
+                  "meaning": "To purify or refine (something).",
+                  "examples": []
+                },
+                {
+                  "meaning": "To burn up (something) completely; to incinerate; hence, to destroy (something).",
+                  "examples": [
+                    "Synonym: (obsolete) calcinize"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, chemistry) Of a substance: to undergo heating so as to oxidize it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
