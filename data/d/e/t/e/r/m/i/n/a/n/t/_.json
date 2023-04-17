@@ -1,0 +1,76 @@
+{
+  "word": "determinant",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French déterminant."
+      ],
+      "adjectives": [
+        {
+          "description": "determinant (comparative more determinant, superlative most determinant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Serving to determine or limit; determinative.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "determinant (plural determinants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A determining factor; an element that determines the nature of something.",
+                  "examples": [
+                    "Shields and Young (1993) argue that the budget participation literature \"has not produced a coherent nor unified definition\" of both the determinants and consequences of budget participation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) A scalar that encodes certain characteristics of a given transformation matrix; the unique scalar function over square matrices which is distributive over matrix multiplication, multilinear in the rows and columns, and takes the value 1 for the unit matrix; abbreviated as: det.",
+                  "examples": [
+                    "The determinant of a square matrix \n  \n    \n      \n        \n          A\n          \n            (\n            n\n            )\n          \n        \n      \n    \n    {\\displaystyle A_{(n)}}\n  \n is a function (actually a polynomial function) of the elements \n  \n    \n      \n        \n          a\n          \n            i\n            j\n          \n        \n      \n    \n    {\\displaystyle a_{ij}}\n  \n of \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) A substance that causes a cell to adopt a particular fate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) Something that causes a nuclease to cut at a specified point",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
