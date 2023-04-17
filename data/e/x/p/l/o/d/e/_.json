@@ -1,0 +1,150 @@
+{
+  "word": "explode",
+  "etymologies": [
+    {
+      "description": [
+        "First recorded around 1538, from the Latin verb explōdere (“drive out or off by clapping”). The meaning was originally theatrical, \"to drive an actor off the stage by making noise,\" hence meaning to \"to drive out\" or \"to reject\". From ex- (“out”) + plaudere (“to clap; to applaud”). In English it used to mean to \"drive out with violence and sudden noise\" (from around 1660), and later meaning to \"go off with a loud noise\" (from around 1790).",
+        "The sense of \"bursting with destructive force\" is first recorded around 1882."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "explode (third-person singular simple present explodes, present participle exploding, simple past and past participle exploded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To destroy with an explosion.",
+                  "examples": [
+                    "Synonyms: blow up, blow, blast, burst",
+                    "The assassin exploded the car by means of a car bomb."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To destroy violently or abruptly.",
+                  "examples": [
+                    "They sought to explode the myth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To create an exploded view of.",
+                  "examples": [
+                    "Explode the assembly drawing so that all the fasteners are visible."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To disprove or debunk.",
+                  "examples": [
+                    "Astrology is required by many famous physicians  […]  doubted of, and exploded by others."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To fly apart with sudden violent force; to blow up, to burst, to detonate, to go off.",
+                  "examples": [
+                    "The bomb explodes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively, intransitive) To make a violent or emotional outburst.",
+                  "examples": [
+                    "Synonym: blow up",
+                    "She exploded when I criticised her hat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, intransitive) To increase suddenly.",
+                  "examples": [
+                    "Synonym: blow up"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, vulgar) To ejaculate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, PHP) To break (a delimited string of text) into several smaller strings by removing the separators.",
+                  "examples": [
+                    "The third check uses the exploded data stored in the array $parts and the function checkdate() to test if the date is a valid calendar date."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To decompress (data) that was previously imploded.",
+                  "examples": [
+                    "Synonym: unstring"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To open all doors and hatches on an automobile.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, board gaming) Of a die, to produce the highest face result and consequently reroll.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
