@@ -1,0 +1,92 @@
+{
+  "word": "catcall",
+  "etymologies": [
+    {
+      "description": [
+        "cat +‎ call Mid-17th c. < the resemblance to cats' nocturnal cries."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "catcall (plural catcalls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A shout or whistle expressing dislike, especially from a crowd or audience; a jeer, a boo.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A shout, whistle, or comment of a sexual nature, usually made toward a passing woman.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A whistle blown by a theatre-goer to express disapproval.",
+                  "examples": [
+                    "At what period was the custom of blowing catcalls at the theatre discontinued?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "catcall (third-person singular simple present catcalls, present participle catcalling, simple past and past participle catcalled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make such an exclamation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Short for change availability or type + call."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "catcall (plural catcalls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In the Eiffel programming language, a run-time error caused by use of the wrong data type.",
+                  "examples": [
+                    "Java does not let you make members more private than they are in parent classes, so has no catcall problem for changing availability. Thus to avoid catcalls with export problems, you should adopt a once-public, always-public policy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
