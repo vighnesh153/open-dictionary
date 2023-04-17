@@ -1,0 +1,30 @@
+{
+  "word": "defunctionalization",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ functionalization"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "defunctionalization (countable and uncountable, plural defunctionalizations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A compile-time transformation which eliminates higher-order functions, replacing them by a single first-order apply function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

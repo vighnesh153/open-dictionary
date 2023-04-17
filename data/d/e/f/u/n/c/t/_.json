@@ -1,0 +1,89 @@
+{
+  "word": "defunct",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French defunct (French défunt), from Latin dēfunctus, past participle of dēfungor (“to finish, discharge”)."
+      ],
+      "adjectives": [
+        {
+          "description": "defunct (comparative more defunct, superlative most defunct)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) Deceased, dead.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "No longer in use or active, nor expected to be again.",
+              "entries": [
+                {
+                  "meaning": "(business) No longer in business or service, nor expected to be again.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Specifically, of a process: having terminated but not having been reaped (by its parent or an inheritor), and thus still occupying a process slot. See also zombie, zombie process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) (of a language) No longer spoken.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "defunct",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The dead person (referred to).",
+                  "examples": [
+                    "[…]  he saw Robert Johnston, pannel, come out of the cott-house with the fork in his hand, and pass by Alexander Fall and the deponent; heard the pannell say, he had sticked the dog, and he would stick the whelps too; whereupon the pannell run after the defunct’s son with the fork in his hand,  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "defunct (third-person singular simple present defuncts, present participle defuncting, simple past and past participle defuncted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make defunct.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
