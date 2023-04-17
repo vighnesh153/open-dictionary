@@ -1,0 +1,28 @@
+{
+  "word": "cartogram",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cartogram (plural cartograms)",
+          "definitionGroups": [
+            {
+              "group": "(dated) A map used to indicate geographically-bound statistical information, typically region-by-region values of a given variable, for example by using different shadings for different ranges of values.",
+              "entries": [
+                {
+                  "meaning": "A map-like graph where the relative areas of graph regions are proportional not to the relative areas of the land regions they represent, but rather to another quantitative variable, such as population or gross domestic product.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
