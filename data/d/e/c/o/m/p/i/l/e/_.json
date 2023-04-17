@@ -1,0 +1,30 @@
+{
+  "word": "decompile",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ compile"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decompile (third-person singular simple present decompiles, present participle decompiling, simple past and past participle decompiled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) To recreate the original source code from a compiled executable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
