@@ -1,0 +1,81 @@
+{
+  "word": "dismount",
+  "etymologies": [
+    {
+      "description": [
+        "dis- +‎ mount, probably a calque of Old French desmonter."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dismount (plural dismounts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gymnastics) The part of a routine in which the gymnast detaches from an apparatus.",
+                  "examples": [
+                    "It was a stylish routine, let down by a sloppy dismount."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dismount (third-person singular simple present dismounts, present participle dismounting, simple past and past participle dismounted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To (cause to) get off (something).",
+                  "examples": [
+                    "She carefully dismounted from the horse.",
+                    "She carefully dismounted the horse."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To make (a mounted drive) unavailable for use.",
+                  "examples": [
+                    "The VMS operator tried to dismount the Unix hard drive with the DISMOUNT DISK$NFSMOUNT command, instead of umount /mnt/nfshome."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To come down; to descend.",
+                  "examples": [
+                    "But now the bright sun ginneth to dismount."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, transitive) To throw (cannon) off their carriages.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
