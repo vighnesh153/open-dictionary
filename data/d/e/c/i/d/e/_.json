@@ -1,0 +1,68 @@
+{
+  "word": "decide",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English deciden, from Old French decider, from Latin dēcīdere, infinitive of dēcīdō (“cut off, decide”), from dē (“down from”) + caedō (“cut”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "decide (third-person singular simple present decides, present participle deciding, simple past and past participle decided)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) to resolve (a contest, problem, dispute, etc.); to choose, determine, or settle",
+                  "examples": [
+                    "The election will be decided on foreign policies.",
+                    "We must decide our next move.",
+                    "Her last-minute goal decided the game."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) to make a judgment, especially after deliberation",
+                  "examples": [
+                    "You must decide between good and evil.",
+                    "I have decided that it is healthier to walk to work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to cause someone to come to a decision",
+                  "examples": [
+                    "It decides me to look into the matter, for if it is worth anyone's while to take so much trouble, there must be something in it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) to cut off; to separate",
+                  "examples": [
+                    "Our seat denies us traffic here; / The sea, too near, decides us from the rest."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

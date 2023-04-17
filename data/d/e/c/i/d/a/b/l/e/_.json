@@ -1,0 +1,50 @@
+{
+  "word": "decidable",
+  "etymologies": [
+    {
+      "description": [
+        "decide +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "decidable (comparative more decidable, superlative most decidable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "capable of being decided.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) describing a set for which there exists an algorithm that will determine whether any element is or is not within the set in a finite amount of time.",
+                  "examples": [
+                    "It is easy to show that the set of even numbers is decidable by creating the relevant Turing machine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) in intuitionistic logic, a proposition P is decidable in a given theory if it can be proven from the theory that \"either P or not P\", i.e. in symbols: \n  \n    \n      \n        P\n        ∨\n        ¬\n        P\n      \n    \n    {\\displaystyle P\\vee \\neg P}\n  \n.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
