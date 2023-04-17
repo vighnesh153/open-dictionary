@@ -1,0 +1,30 @@
+{
+  "word": "enqueue",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French queu, cueue et al., and from Modern French queue."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "enqueue (third-person singular simple present enqueues, present participle enqueuing or enqueueing, simple past and past participle enqueued)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To add an item to a queue. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
