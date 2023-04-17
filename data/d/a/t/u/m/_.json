@@ -1,0 +1,81 @@
+{
+  "word": "datum",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin datum (“a given”). Doublet of die."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "datum (plural (senses 1–3) data or (senses 1 and 4–5) datums)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Singular of data; a single recorded observation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) A fact known from direct observation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) A premise from which conclusions are drawn.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cartography, surveying, engineering) A fixed reference point or set of reference points which precisely define a system of measurement or a coordinate system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A floating reference point, or SLDMB, used to evaluate surface currents in a body of water. Often employed by coastal search and rescue.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "datum (third-person singular simple present datums, present participle datuming or datumming, simple past and past participle datumed or datummed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To provide missing data points by using a mathematical model to extrapolate values that are outside the range of a measuring device.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
