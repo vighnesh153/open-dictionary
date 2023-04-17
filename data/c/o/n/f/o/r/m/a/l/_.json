@@ -1,0 +1,54 @@
+{
+  "word": "conformal",
+  "etymologies": [
+    {
+      "description": [
+        "conform +‎ -al."
+      ],
+      "adjectives": [
+        {
+          "description": "conformal (comparative more conformal, superlative most conformal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That conforms, especially to the shape of something.",
+                  "examples": [
+                    "Some are realizable in practical computational times; others giving ‘more conformal’ 3D dose distributions take longer and some invoke technology which is not readily available, such as intensity-modulated fields."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a transformation) That preserves angles between intersecting curves.",
+                  "examples": [
+                    "This would have been tantamount to a conformal transformation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cartography, of a map projection) That preserves relative angles over small scales, at all but a limited number of distinct points.",
+                  "examples": [
+                    "On conformal map projections, the scale depends on location only and not direction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
