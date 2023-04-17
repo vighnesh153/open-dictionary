@@ -1,0 +1,299 @@
+{
+  "word": "even",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English even, from Old English efn (“flat; level, even, equal”), from Proto-West Germanic *ebn, from Proto-Germanic *ebnaz, from Proto-Indo-European *(h₁)em-no- (“equal, straight; flat, level, even”).",
+        "Cognate with West Frisian even (“even”), Low German even (“even”), Dutch even (“even, equal, same”), effen, German eben (“even, flat, level”), Danish jævn (“even, flat, smooth”), Swedish jämn (“even, level, smooth”), Icelandic jafn, jamn (“even, equal”), Old Cornish eun (“equal, right”) (attested in Vocabularium Cornicum eun-hinsic (“iustus, i. e., just”)), Old Breton eun (“equal, right”) (attested in Eutychius Glossary eunt (“aequus, i. e., equal”)), Middle Breton effn, Breton eeun, Sanskrit अम्नस् (amnás, “(adverb) just, just now; at once”).",
+        "The verb descends from Middle English evenen, from Old English efnan; the adverb from Middle English evene, from Old English efne.",
+        "The traditional proposal connecting the Germanic adjective with the root Proto-Indo-European *h₂eym-, (Latin imāgō (“picture, image, likeness, copy”), Latin aemulus (“competitor, rival”), Sanskrit यमस् (yamás, “pair, twin”)) is problematic from a phonological point of view."
+      ],
+      "adjectives": [
+        {
+          "description": "even (comparative more even, superlative most even)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Flat and level.",
+                  "examples": [
+                    "Clear out those rocks. The surface must be even."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without great variation.",
+                  "examples": [
+                    "Despite her fear, she spoke in an even voice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Equal in proportion, quantity, size, etc.",
+                  "examples": [
+                    "The distribution of food must be even.",
+                    "Call it even."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable, of an integer) Divisible by two.",
+                  "examples": [
+                    "Four, fourteen and forty are even numbers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a number) Convenient for rounding other numbers to; for example, ending in a zero.",
+                  "examples": [
+                    "Coles. How many shares have you bought, Mr. Garfinkle?",
+                    "Garfinkle. One hundred and ninety-six thousand. […]",
+                    "Jorgenson.  […]  How'd you figure out to buy such an odd amount? Why not two hundred thousand — nice even number. Thought you liked nice even numbers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "On equal monetary terms; neither owing nor being owed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) On equal terms of a moral sort; quits.",
+                  "examples": [
+                    "You biffed me back at the barn, and I biffed you here—so now we're even."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "parallel; on a level; reaching the same limit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Without an irregularity, flaw, or blemish; pure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Associate; fellow; of the same condition.",
+                  "examples": [
+                    "His even servant."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "even (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Exactly, just, fully.",
+                  "examples": [
+                    "I fulfilled my instructions even as I had promised.",
+                    "You are leaving tonight? — Even so.",
+                    "This is my commandment, that ye love one another, even as I have loved you."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In reality; implying an extreme example in the case mentioned, as compared to the implied reality.",
+                  "examples": [
+                    "Even a blind squirrel finds an acorn sometimes.",
+                    "Did you even make it through the front door?",
+                    "That was before I was even born."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Emphasizing a comparative.",
+                  "examples": [
+                    "I was strong before, but now I am even stronger."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Signalling a correction of one's previous utterance; rather, that is.",
+                  "examples": [
+                    "My favorite actor is Jack Nicklaus. Jack Nicholson, even."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "even (plural evens)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, diminutive) An even number.",
+                  "examples": [
+                    "So let's see. There are two evens here and three odds."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "even (third-person singular simple present evens, present participle evening, simple past and past participle evened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make flat and level.",
+                  "examples": [
+                    "We need to even this playing field; the west goal is too low."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To equal or equate; to make the same.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To be equal.",
+                  "examples": [
+                    "Thrice nine evens twenty seven.",
+                    "1609,  Richard Carew,  The Survey of Cornwall. […], new edition, London:  […]  B. Law, […]; Penzance, Cornwall: J. Hewett, published 1769, →OCLC:"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To place in an equal state, as to obligation, or in a state in which nothing is due on either side; to balance, as accounts; to make quits.",
+                  "examples": [
+                    "We need to even the score."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To set right; to complete.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To act up to; to keep pace with.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English even, from Old English ǣfen, from Proto-Germanic *ēbanþs.",
+        "Cognate with Dutch avond, Low German Avend, German Abend, Danish aften. See also the related terms eve and evening."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "even (plural evens)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic or poetic) Evening.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
