@@ -1,0 +1,87 @@
+{
+  "word": "fatal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French fatal, from Latin fātālis (“fatal”)."
+      ],
+      "adjectives": [
+        {
+          "description": "fatal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Proceeding from, or appointed by, fate or destiny.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Foreboding death or great disaster.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Causing death or destruction.",
+                  "examples": [
+                    "a fatal wound; a fatal disease; that fatal day; a fatal mistake"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Causing a sudden end to the running of a program.",
+                  "examples": [
+                    "a fatal error; a fatal exception"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fatal (plural fatals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A fatality; an event that leads to death.",
+                  "examples": [
+                    "For this same period there have been four fatals and 44 nonfatals in gassy mines."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A fatal error; a failure that causes a program to terminate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
