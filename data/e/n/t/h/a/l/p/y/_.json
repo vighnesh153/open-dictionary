@@ -1,0 +1,32 @@
+{
+  "word": "enthalpy",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἐν- (en-, “in”) + θάλπω (thálpō, “to warm”). Coined by Dutch physicist Heike Kamerlingh Onnes, but first used in print by J. P. Dalton in 1909 in a paper titled \"Researches on the Joule-Kelvin-effect, especially at low temperatures\"."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "enthalpy (countable and uncountable, plural enthalpies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, chemistry) In thermodynamics, a measure of the heat content of a chemical or physical system.",
+                  "examples": [
+                    "H\n        =\n        U\n        +\n        p\n        V\n      \n    \n    {\\displaystyle H=U+pV}\n  \n, where H is enthalpy, U is internal energy, p is pressure, and V is volume."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
