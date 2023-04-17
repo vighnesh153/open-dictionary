@@ -1,0 +1,91 @@
+{
+  "word": "eavesdrop",
+  "etymologies": [
+    {
+      "description": [
+        "eaves +‎ drop; the \"listening\" sense derives from the notion of the listener standing in the area denoted by the physical sense."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eavesdrop (countable and uncountable, plural eavesdrops)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The dripping of rain from the eaves of a house.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The space around a house on which such water drips.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A concealed aperture through which an occupant of a building can surreptitiously listen to people talking at an entrance to the building.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The act of intentionally hearing a conversation not intended to be heard.",
+                  "examples": [
+                    "Were you having a little eavesdrop on us last night?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "eavesdrop (third-person singular simple present eavesdrops, present participle eavesdropping, simple past and past participle eavesdropped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To hear a conversation one is not intended to hear; to listen in.",
+                  "examples": [
+                    "I hope nobody was eavesdropping on our conversation last night, since it got so personal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) To listen for another organism's calls, so as to exploit them.",
+                  "examples": [
+                    "[…]  Eastern Red Bat will eavesdrop on the sonar calls of other red bats to locate potential insect prey."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
