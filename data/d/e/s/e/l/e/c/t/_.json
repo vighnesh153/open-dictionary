@@ -1,0 +1,54 @@
+{
+  "word": "deselect",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ select"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deselect (third-person singular simple present deselects, present participle deselecting, simple past and past participle deselected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To not select; to rule out of selection.",
+                  "examples": [
+                    "ACTION may deselect a Trainee out of a training program for any of the following reasons: (a) Failure to meet training selection standards which includes, but is not limited to, the following conduct:  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Britain, politics) To reject (an incumbent) as a party's candidate for a forthcoming election.",
+                  "examples": [
+                    "One recently deselected Sinn Féin assembly member, Davy Hyland in Newry and Armagh, has already quit the party in protest."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, graphical user interface) To remove from an existing selection.",
+                  "examples": [
+                    "Make sure you deselect any files you wish to keep before proceeding with the deletion."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
