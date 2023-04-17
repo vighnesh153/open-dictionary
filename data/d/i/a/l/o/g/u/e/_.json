@@ -1,0 +1,101 @@
+{
+  "word": "dialogue",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English dialog, from Old French dialoge (French dialogue), from Late Latin dialogus, from Ancient Greek διάλογος (diálogos, “conversation, discourse”), from διά (diá, “through, inter”) + λόγος (lógos, “speech, oration, discourse”), from διαλέγομαι (dialégomai, “to converse”), from διά (diá) + λέγειν (légein, “to speak”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dialogue (countable and uncountable, plural dialogues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A conversation or other form of discourse between two or more individuals.",
+                  "examples": [
+                    "Bill and Melinda maintained a dialogue via email over the course of their long-distance relationship.",
+                    "Start up a dialogue"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(authorship) In a dramatic or literary presentation, the verbal parts of the script or text; the verbalizations of the actors or characters.",
+                  "examples": [
+                    "The movie had great special effects, but the dialogue was lackluster."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) A literary form, where the presentation resembles a conversation.",
+                  "examples": [
+                    "A literary historian, she specialized in the dialogues of ancient Greek philosophers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A dialogue box.",
+                  "examples": [
+                    "Once the My Computer dialogue opens, select Local Disk (C:), then right click and scroll down."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dialogue (third-person singular simple present dialogues, present participle dialoguing, simple past and past participle dialogued)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, business) To discuss or negotiate so that all parties can reach an understanding.",
+                  "examples": [
+                    "Pearson wanted to dialogue with his overseas counterparts about the new reporting requirements."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put into dialogue form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To take part in a dialogue; to dialogize.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
