@@ -1,0 +1,63 @@
+{
+  "word": "deterministic",
+  "etymologies": [
+    {
+      "description": [
+        "determinist +‎ -ic"
+      ],
+      "adjectives": [
+        {
+          "description": "deterministic (comparative more deterministic, superlative most deterministic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) Of, or relating to determinism.",
+                  "examples": [
+                    "Antonym: indeterministic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a Turing machine) Having at most one instruction associated with any given internal state.",
+                  "examples": [
+                    "Antonym: nondeterministic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, of a system) Having exactly predictable time evolution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of an algorithm) For a given particular input, always producing the same output through the same sequence of states.",
+                  "examples": [
+                    "Antonym: nondeterministic"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

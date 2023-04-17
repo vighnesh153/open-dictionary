@@ -1,0 +1,43 @@
+{
+  "word": "determinism",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "determinism (countable and uncountable, plural determinisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) The doctrine that all actions are determined by the current state and immutable laws of the universe, with no possibility of choice.",
+                  "examples": [
+                    "Synonym: fatalism",
+                    "Antonym: indeterminism",
+                    "Hyponyms: hard determinism, soft determinism"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The property of having behavior determined only by initial state and input.",
+                  "examples": [
+                    "Antonym: indeterminism"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
