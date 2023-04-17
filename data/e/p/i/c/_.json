@@ -1,0 +1,122 @@
+{
+  "word": "epic",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French épique, from Latin epicus, from Ancient Greek ἐπικός (epikós), from ἔπος (épos, “word, story”)."
+      ],
+      "adjectives": [
+        {
+          "description": "epic (comparative more epic, superlative most epic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to an epic.",
+                  "examples": [
+                    "Synonym: epical",
+                    "Beowulf is an epic poem."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Momentously heroic; grand in scale or character",
+                  "examples": [
+                    "The epic defense was rewarded with the highest military decorations"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, slang, informal) Extending beyond the usual or ordinary.",
+                  "examples": [
+                    "Synonyms: extraordinary, momentous, remarkable",
+                    "The after-prom party was truly epic.",
+                    "You made an epic mistake."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "epic (plural epics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic epic), other legend or traditional hero.",
+                  "examples": [
+                    "Synonyms: epopee, epos",
+                    "The Icelandic epic took all night to recite."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of events considered appropriate to an epic.",
+                  "examples": [
+                    "The book was an epic in four volumes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) In software development, a large or extended user story.",
+                  "examples": [
+                    "Epics are shown in a separate list from user stories. This is because it is the user stories that are developed, not epics. Epics are decomposed into child user stories."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From epi-, from Ancient Greek ἐπί (epí, “on top of”)."
+      ],
+      "adjectives": [
+        {
+          "description": "epic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory, of a morphism) That is an epimorphism.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
