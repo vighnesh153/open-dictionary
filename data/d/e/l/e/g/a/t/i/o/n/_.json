@@ -1,0 +1,59 @@
+{
+  "word": "delegation",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin dēlēgātiō, dēlēgātiōnis, from dēlēgō: compare French délégation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "delegation (countable and uncountable, plural delegations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of delegating.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of delegates used to discuss issues with an opponent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A method-dispatching technique describing the lookup and inheritance rules for self-referential calls.",
+                  "examples": [
+                    "Hyponyms: multicast delegation, singlecast delegation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The act whereby or constellation in which the performance of an obligation (owed to an obligee, presuming its validity; irrespective of the obligation as the target of the delegation, rarely called delegatary) is assigned by its debtor (delegator, obligor) to and towards another party (delegatee, delegate)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
