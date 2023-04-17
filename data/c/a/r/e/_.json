@@ -1,0 +1,169 @@
+{
+  "word": "care",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English care, from Old English caru, ċearu (“care, concern, anxiety, sorrow, grief, trouble”), from Proto-West Germanic *karu, from Proto-Germanic *karō (“care, sorrow, cry”), from Proto-Indo-European *ǵeh₂r- (“shout, call”). Cognate with Old Saxon cara, kara (“concern, action”), Middle High German kar (“sorrow, lamentation”), Icelandic kör (“sickbed”), Gothic 𐌺𐌰𐍂𐌰 (kara, “concern, care”). Related also to Dutch karig (“scanty”), German karg (“sparse, meagre, barren”), Latin garriō, Ancient Greek γῆρυς (gêrus). See also chary."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "care (countable and uncountable, plural cares)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Grief, sorrow. [13th–19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Close attention; concern; responsibility.",
+                  "examples": [
+                    "Care should be taken when holding babies."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Worry.",
+                  "examples": [
+                    "I don't have a care in the world."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Maintenance, upkeep.",
+                  "examples": [
+                    "dental care"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The treatment of those in need (especially as a profession).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being cared for by others.",
+                  "examples": [
+                    "in care"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The object of watchful attention or anxiety.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English caren, carien, from Old English carian (“to sorrow, grieve, be troubled, be anxious, to care for, heed”), from Proto-West Germanic *karōn (“to care”), from Proto-Germanic *karōną (“to care”).",
+        "Cognate with Middle High German karn (“to complain, lament, grieve, mourn”), Alemannic German karen, kären (“to groan, wheeze, give a death rattle”), Swedish kära (“to fall in love”), Icelandic kæra (“to care, like”), Gothic 𐌺𐌰𐍂𐍉𐌽 (karōn, “to be concerned”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "care (third-person singular simple present cares, present participle caring, simple past and past participle cared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To be concerned (about), to have an interest (in); to feel concern (about).",
+                  "examples": [
+                    "\"She doesn't care what you think.\" \"I don't care, I'm still going.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, polite, formal) To want, to desire; to like; to be inclined towards.",
+                  "examples": [
+                    "Would you care for another slice of cake?",
+                    "Would you care to dance?",
+                    "I don't care to hear your opinion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, informal, by extension) For it to matter to, or make any difference to.",
+                  "examples": [
+                    "An event aggregator facilitates a fire-and-forget model of communication. The object triggering the event doesn't care if there are any subscribers. It just fires the event and moves on."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) (with for) To look after or look out for.",
+                  "examples": [
+                    "Young children can learn to care for a pet.",
+                    "He cared for his mother while she was sick."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, Appalachia) To mind; to object.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
