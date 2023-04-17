@@ -1,0 +1,66 @@
+{
+  "word": "coercion",
+  "etymologies": [
+    {
+      "description": [
+        "Inherited from Middle English cohercioun, from Old French cohercion, from Latin coercitiō (“magisterial coercion”), from past participle coercitus of coerceō (“to restrain, coerce”), from co- (“with”) + arceō (“to shut in, enclose”); see coerce."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "coercion (countable and uncountable, plural coercions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Actual or threatened force for the purpose of compelling action by another person; the act of coercing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law, uncountable) Use of physical or moral force to compel a person to do something, or to abstain from doing something, thereby depriving that person of the exercise of free will.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A specific instance of coercing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, countable) Conversion of a value of one data type to a value of another data type.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, semantics) The process by which the meaning of a word or other linguistic element is reinterpreted to match the grammatical context.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
