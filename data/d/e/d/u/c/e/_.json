@@ -1,0 +1,80 @@
+{
+  "word": "deduce",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Middle English deducen (“to demonstrate, prove, show; to argue, infer; to bring, lead; to turn (something) to a use; to deduct”), borrowed from Latin dēdūcere, the present active infinitive of dēdūcō (“to lead or bring out or away; to accompany, conduct, escort; (figuratively) to derive, discover, deduce”); from dē- (prefix meaning ‘from, away from’) + dūcere (the present active infinitive of dūcō (“to conduct, guide, lead; to draw, pull; to consider, regard, think”), ultimately from Proto-Indo-European *dewk- (“to lead; to draw, pull”))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deduce (third-person singular simple present deduces, present participle deducing, simple past and past participle deduced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reach (a conclusion) by applying rules of logic or other forms of reasoning to given premises or known facts.",
+                  "examples": [
+                    "Synonyms: conclude, infer",
+                    "Antonym: induce"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To examine, explain, or record (something) in an orderly manner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To obtain (something) from some source; to derive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, archaic) To be derived or obtained from some source.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To take away (something); to deduct, to subtract (something).",
+                  "examples": [
+                    "to deduce a part from the whole"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete, based on the word’s Latin etymon) To lead (something) forth.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
