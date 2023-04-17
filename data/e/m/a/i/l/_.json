@@ -1,0 +1,135 @@
+{
+  "word": "email",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is an abbreviation of electronic mail. The verb is derived from the noun, by analogy with mail (“to send through the mail”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "email (countable and uncountable, plural emails) (computing)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A system for transferring messages from one computer to another, usually through a network.",
+                  "examples": [
+                    "Antonym: snail mail",
+                    "He sent me his details via email.",
+                    "The advent of email has simultaneously brought our society closer together and farther apart."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A quantity of messages sent through an email system.",
+                  "examples": [
+                    "I am searching through my old email.",
+                    "My inbox used to allow only 50 MB of email at a time until last year, when they upgraded it to 2 GBs!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A message sent through an email system.",
+                  "examples": [
+                    "He sent me an email last week to remind me about the meeting.",
+                    "I archive my old emails using a cloud-based service."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, informal) An email address.",
+                  "examples": [
+                    "What’s your email?",
+                    "Don’t send personal messages to my work email."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "email (third-person singular simple present emails, present participle emailing, simple past and past participle emailed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send an email or emails to.",
+                  "examples": [
+                    "She emailed me last week, asking about the status of the project."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, ditransitive) To send (something) through email.",
+                  "examples": [
+                    "I’ll email you the link.",
+                    "He emailed the file out to everyone."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To send, or compose and send, an email or emails.",
+                  "examples": [
+                    "Most teenagers seem to spend almost the whole day emailing and surfing the Web."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Borrowed from Middle French email, from Old French esmal (“enamel”) (modern French émail (“enamel; vitreous enamel; glaze (coating on pottery)”)), from Medieval Latin smaltum (“enamel”), ultimately from Proto-Indo-European *(s)meld- (“to melt; to soften”). Doublet of smalt, smalto, and schmaltz."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "email (plural emails)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, rare) Enamel (“an opaque, glossy coating”).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
