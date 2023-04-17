@@ -1,0 +1,86 @@
+{
+  "word": "dropout",
+  "etymologies": [
+    {
+      "description": [
+        "drop +‎ out, from the verb phrase."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dropout (countable and uncountable, plural dropouts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who has left an educational institution without completing the course",
+                  "examples": [
+                    "The politicians of the world are mere political university dropouts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who has opted out of conventional society.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who suddenly leaves anything, or the act of doing so.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cycling) The slot in the frame that accepts the axles of the wheels.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A damaged portion of a tape or disk, causing a brief omission of audio, video, or data.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Momentary loss of an electronic signal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A technique for regularizing a neural network by discarding a random subset of its units.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
