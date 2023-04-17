@@ -1,0 +1,81 @@
+{
+  "word": "damage",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English damage, from Old French damage, from Vulgar Latin *damnāticum from Classical Latin damnum. Compare modern French dommage. Displaced Middle English scath."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "damage (countable and uncountable, plural damages)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Injury or harm; the condition or measure of something not being intact.",
+                  "examples": [
+                    "The storm did a lot of damage to the area."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) Cost or expense.",
+                  "examples": [
+                    "\"What's the damage?\" he asked the waiter."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "damage (third-person singular simple present damages, present participle damaging, simple past and past participle damaged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To impair the soundness, goodness, or value of; to harm or cause destruction.",
+                  "examples": [
+                    "Be careful not to damage any of the fragile items while unpacking them.",
+                    "Cold temperatures, heavy rain, falling rocks, strong winds and glacier movement can damage the equipment."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To undergo damage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove a damaged or unsalable item from the sales floor for processing.",
+                  "examples": [
+                    "Did you damage the items that the customer returned yet?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
