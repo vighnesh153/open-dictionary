@@ -1,0 +1,169 @@
+{
+  "word": "demean",
+  "etymologies": [
+    {
+      "description": [
+        "(1595) From de- +‎ mean (“lowly, base, common”), from Middle English mene, aphetic variation of imene (“mean, base, common”), from Old English ġemǣne (“mean, common”). Compare English bemean."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "demean (third-person singular simple present demeans, present participle demeaning, simple past and past participle demeaned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To debase; to lower; to degrade.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To humble, humble oneself; to humiliate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To mortify.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English demenen, demeinen, from Anglo-Norman demener, from Old French demener, from de- + mener (“to conduct, lead”), from Latin mināre, from minārī (“to threaten”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "demean (usually uncountable, plural demeans)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Management; treatment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Behavior; conduct; bearing; demeanor.",
+                  "examples": [
+                    "with grave demean and solemn vanity"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "demean (third-person singular simple present demeans, present participle demeaning, simple past and past participle demeaned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To manage; to conduct; to treat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) To conduct; to behave; to comport; followed by the reflexive pronoun.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Variant of demesne."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "demean (plural demeans)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "demesne.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "resources; means.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "de- +‎ mean"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "demean (third-person singular simple present demeans, present participle demeaning, simple past and past participle demeaned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, transitive) To subtract the mean from (a value, or every observation in a dataset).",
+                  "examples": [
+                    "Concerning FE estimation, it makes no difference whether you demean the data with unit-specific means computed on (balanced) T observations per unit, or with unit-specific means computed on (unbalanced) Ti observations per unit."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
