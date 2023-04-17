@@ -1,0 +1,55 @@
+{
+  "word": "exportation",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "exportation (countable and uncountable, plural exportations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of exporting; the act of conveying or sending commodities abroad or to another country, in the course of commerce.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The commodity exported; an export.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of carrying something outside.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Either the logical law \n  \n    \n      \n        (\n        (\n        P\n        ∧\n        Q\n        )\n        →\n        R\n        )\n        ⇒\n        (\n        P\n        →\n        (\n        Q\n        →\n        R\n        )\n        )\n      \n    \n    {\\displaystyle ((P\\land Q)\\to R)\\Rightarrow (P\\to (Q\\to R))}\n  \n, or the rule of replacement \n  \n    \n      \n        (\n        (\n        P\n        ∧\n        Q\n        )\n        →\n        R\n        )\n        ⇔\n        (\n        P\n        →\n        (\n        Q\n        →\n        R\n        )\n        )\n      \n    \n    {\\displaystyle ((P\\land Q)\\to R)\\Leftrightarrow (P\\to (Q\\to R))}\n  \n.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
