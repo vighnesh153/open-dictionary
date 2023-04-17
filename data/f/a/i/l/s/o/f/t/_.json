@@ -1,0 +1,32 @@
+{
+  "word": "failsoft",
+  "etymologies": [
+    {
+      "description": [
+        "fail +‎ soft"
+      ],
+      "adjectives": [
+        {
+          "description": "failsoft (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, dated) Supporting graceful degradation, so that a partial failure does not bring down the entire system.",
+                  "examples": [
+                    "The second phase of the executive development proceeded through two steps as stated in Section 2. First, a failsoft executive was developed providing automatic failure detection and recovery  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
