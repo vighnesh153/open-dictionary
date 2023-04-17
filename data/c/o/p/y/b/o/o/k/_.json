@@ -1,0 +1,50 @@
+{
+  "word": "copybook",
+  "etymologies": [
+    {
+      "description": [
+        "copy +‎ book"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "copybook (plural copybooks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A student's exercise book containing samples of good handwriting to be copied.",
+                  "examples": [
+                    "She whipped up the cards on the floor, extinguished an unglobed candle, and ruffled open the pages of Claude's copybook."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Quebec, UK) A notebook containing blank, often lined, pages for writing answers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, COBOL) A series of instructions or data definitions copied into multiple programs from a shared library; boilerplate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
