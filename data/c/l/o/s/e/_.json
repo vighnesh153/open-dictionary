@@ -1,0 +1,492 @@
+{
+  "word": "close",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English closen (“to close, enclose”), partly continuing (in altered form) earlier Middle English clusen (“to close”) (from Old English clȳsan (“to close, shut”); compare beclose, foreclose, etc.), and partly derived from Middle English clos (“close, shut up, confined, secret”, adjective), from Old French clos (“close, confined”, adjective), from Latin clausus (“shut up”, past participle), from claudere (“to bar, block, close, enclose, bring an end to, confine”), from Proto-Indo-European *klāw- (“key, hook, nail”), related to Latin clāvis (“key, deadbolt, bar”), clāvus (“nail, peg”), claustrum (“bar, bolt, barrier”), claustra (“dam, wall, barricade, stronghold”). Cognate with Ancient Greek κλείς (kleís, “bar, bolt, key”), German schließen (“to close, conclude, lock”), Dutch sluiten (“to close, conclude, lock”). Partially replaced Old English lūcan (“to close, lock, enclose”), (whence English lock). Doublet of clause."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "close (plural closes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An end or conclusion.",
+                  "examples": [
+                    "We owe them our thanks for bringing the project to a successful close."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The manner of shutting; the union of parts; junction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sales) The point at the end of a sales pitch when the consumer is asked to buy.",
+                  "examples": [
+                    "Synonym: closer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A grapple in wrestling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The conclusion of a strain of music; cadence.",
+                  "examples": [
+                    "At every close she made, the attending throng / Replied, and bore the burden of the song."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A double bar marking the end.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation, travel) The time when checkin staff will no longer accept passengers for a flight.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "close (third-person singular simple present closes, present participle closing, simple past and past participle closed)",
+          "definitionGroups": [
+            {
+              "group": "(physical) To remove a gap.",
+              "entries": [
+                {
+                  "meaning": "To obstruct (an opening).",
+                  "examples": []
+                },
+                {
+                  "meaning": "To move so that an opening is closed.",
+                  "examples": [
+                    "Close the door behind you when you leave.",
+                    "Jim was listening to headphones with his eyes closed."
+                  ]
+                },
+                {
+                  "meaning": "To make (e.g. a gap) smaller.",
+                  "examples": [
+                    "The runner in second place is closing the gap on the leader.",
+                    "to close the ranks of an army"
+                  ]
+                },
+                {
+                  "meaning": "(transitive, intransitive, engineering, gas and liquid flow, of valve or damper) To move to a position preventing fluid from flowing.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, intransitive, electricity, of a switch, fuse or circuit breaker) To move to a position allowing electricity to flow.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To grapple; to engage in close combat.",
+                  "examples": [
+                    "They boldly closed in a hand-to-hand contest."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "To finish, to terminate.",
+              "entries": [
+                {
+                  "meaning": "To put an end to; to conclude; to complete; to finish; to consummate.",
+                  "examples": [
+                    "close the session;   to close a bargain;   to close a course of instruction"
+                  ]
+                },
+                {
+                  "meaning": "To come to an end.",
+                  "examples": [
+                    "The debate closed at six o'clock."
+                  ]
+                },
+                {
+                  "meaning": "(marketing) To make a sale.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(baseball, pitching) To make the final outs, usually three, of a game.",
+                  "examples": [
+                    "He has closed the last two games for his team."
+                  ]
+                },
+                {
+                  "meaning": "(figurative, computing) To terminate an application, window, file or database connection, etc.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, finance) To cancel or reverse (a trading position).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To come or gather around; to enclose; to encompass; to confine.",
+                  "examples": [
+                    "The depth closed me round about."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) To have a vector sum of 0; that is, to form a closed polygon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To do the tasks (putting things away, locking doors, etc.) required to prepare a store or other establishment to shut down for the night.",
+                  "examples": [
+                    "Whoever closed last night forgot to turn off the closet light."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Philippines) To turn off; to switch off.",
+                  "examples": [
+                    "Please close the lights. ― Please turn off the lights.",
+                    "Close the fan please. ― Please switch off the fan.",
+                    "Close the TV now. ― Turn off the TV now."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Borrowed from French clos, from Latin clausum, participle of claudō."
+      ],
+      "adjectives": [
+        {
+          "description": "close (comparative closer, superlative closest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) Closed, shut.",
+                  "examples": [
+                    "As the alchymists were assiduous workmen—as they mixed all the metals, salts, &c... and subjected such mixtures to the action of heat in close vessels, their labours were occasionally repaid by the discovery of new substances..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Narrow; confined.",
+                  "examples": [
+                    "a close alley; close quarters"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "At a little distance; near.",
+                  "examples": [
+                    "Is your house close?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Intimate; well-loved.",
+              "entries": [
+                {
+                  "meaning": "(law) Of a corporation or other business entity, closely held.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Oppressive; without motion or ventilation; causing a feeling of lassitude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Ireland, UK, weather) Hot, humid, with no wind.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, phonetics, of a vowel) Articulated with the tongue body relatively close to the hard palate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Strictly confined; carefully guarded.",
+                  "examples": [
+                    "a close prisoner"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Out of the way of observation; secluded; secret; hidden.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Nearly equal; almost evenly balanced.",
+                  "examples": [
+                    "a close contest"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Short.",
+                  "examples": [
+                    "to cut grass or hair close"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Dense; solid; compact.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Concise; to the point.",
+                  "examples": [
+                    "close reasoning"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Difficult to obtain.",
+                  "examples": [
+                    "Money is close."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Parsimonious; stingy.",
+                  "examples": [
+                    "[...] he was a crusty old fellow, as close as a vice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Adhering strictly to a standard or original; exact.",
+                  "examples": [
+                    "a close translation; a close copy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Accurate; careful; precise; also, attentive; undeviating; strict.",
+                  "examples": [
+                    "The patient was kept under close observation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Marked, evident.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Almost, but not quite (getting to an answer or goal); near",
+                  "examples": [
+                    "No, but you were close.",
+                    "We were so close to winning!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "close (plural closes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare, chiefly Yorkshire) An enclosed field.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly British) A street that ends in a dead end.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland) A very narrow alley between two buildings, often overhung by one of the buildings above the ground floor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland) The common staircase in a tenement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cathedral close.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The interest which one may have in a piece of ground, even though it is not enclosed",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

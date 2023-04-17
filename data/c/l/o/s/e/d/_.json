@@ -1,0 +1,148 @@
+{
+  "word": "closed",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "closed (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Sealed, made inaccessible or impassable; not open.",
+                  "examples": [
+                    "A closed and locked door prevented my escape."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, gas and liquid flow, of valve or damper) To be in a position preventing fluid from flowing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity, of a switch or circuit breaker) To be in a position allowing electricity to flow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a store or business) Not operating or conducting trade.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not public.",
+                  "examples": [
+                    "closed source  a closed committee  The bill is being considered by the committee in closed session."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology, of a set) Having an open complement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a set) Such that its image under the specified operation is contained in it.",
+                  "examples": [
+                    "The set of integers is closed under addition: \n  \n    \n      \n        ∀\n        x\n        ,\n        y\n        ∈\n        \n          Z\n        \n        \n        x\n        +\n        y\n        ∈\n        \n          Z\n        \n      \n    \n    {\\displaystyle \\forall x,y\\in \\mathbb {Z} \\,x+y\\in \\mathbb {Z} }\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, logic, of a formula) Lacking a free variable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory, of a walk) Whose first and last vertices are the same, forming a closed loop.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonology) Formed by closing the mouth and nose passages completely, like the consonants /t/, /d/, and /p/.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonology) Having the sound cut off sharply by a following consonant, like the /ɪ/ in pin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a multi-word compound) Having component words joined together without spaces or hyphens; for example, timeslot as opposed to time slot or time-slot.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "closed",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of close",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
