@@ -1,0 +1,89 @@
+{
+  "word": "conjecture",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French, from Latin coniectūra (“a guess”), from coniectus, perfect passive participle of cōniciō (“throw or cast together; guess”), from con- (“together”) + iaciō (“throw, hurl”); see jet. Compare adjective, eject, inject, project, reject, subject, object, trajectory."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "conjecture (countable and uncountable, plural conjectures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(formal) A statement or an idea which is unproven, but is thought to be true; a guess.",
+                  "examples": [
+                    "I explained it, but it is pure conjecture whether he understood, or not."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(formal) A supposition based upon incomplete evidence; a hypothesis.",
+                  "examples": [
+                    "The physicist used his conjecture about subatomic particles to design an experiment."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linguistics) A statement likely to be true based on available evidence, but which has not been formally proven.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Interpretation of signs and omens.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "conjecture (third-person singular simple present conjectures, present participle conjecturing, simple past and past participle conjectured)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(formal, intransitive) To guess; to venture an unproven idea.",
+                  "examples": [
+                    "I do not know if it is true; I am simply conjecturing here."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To infer on slight evidence; to guess at.",
+                  "examples": [
+                    "Human reason can then, at the best, but conjecture what will be."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
