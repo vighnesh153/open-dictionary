@@ -1,0 +1,65 @@
+{
+  "word": "debug",
+  "etymologies": [
+    {
+      "description": [
+        "From de- +‎ bug."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "debug (countable and uncountable, plural debugs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The action, or a session, of reviewing source code to find and eliminate errors.",
+                  "examples": [
+                    "What should be the next steps following a test failure during debug?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "debug (third-person singular simple present debugs, present participle debugging, simple past and past participle debugged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) To search for and eliminate malfunctioning elements or errors in something, especially a computer program or machinery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) To remove a hidden electronic surveillance device from (somewhere).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) To remove insects from (somewhere), especially lice.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
