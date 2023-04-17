@@ -1,0 +1,41 @@
+{
+  "word": "cofunction",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ function"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cofunction (plural cofunctions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The trigonometric function of the complement of the supplied angle.",
+                  "examples": [
+                    "Cosine and sine are each other's cofunctions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A costatement that takes the form of a function and can accept parameters and return a value.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
