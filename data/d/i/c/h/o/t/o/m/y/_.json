@@ -1,0 +1,82 @@
+{
+  "word": "dichotomy",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek διχοτομία (dikhotomía, “dichotomy”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dichotomy (countable and uncountable, plural dichotomies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A separation or division into two; a distinction that results in such a division.",
+                  "examples": [
+                    "The dichotomy between the private and the public is central to almost two centuries of feminist writing and political struggle; it is, ultimately, what the feminist movement is all about. Although some feminists treat the dichotomy as a universal, trans-historical and trans-cultural feature of human existence, feminist criticism is primarily directed at the separation and opposition between the public and private spheres in liberal theory and practice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Such a division involving apparently incompatible or opposite principles; a duality.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The division of a class into two disjoint subclasses that are together comprehensive, as the division of man into white and not white.",
+                  "examples": [
+                    "One can ask if for any algebra the considered problem is always in P or NP-complete (P or coNP-complete)? For example, the problem of the satisfiability of a system of polynomial equations over a group G is in P if G is abelian and NP-complete otherwise ([7, 13]).",
+                    "One of the most widely known subclasses of NP which exhibits such a dichotomy, is the class of constraint satisfaction problems (CSP) on the set {0,1}, see [16]. Recently Bulatov proved the dichotomy for CSP on a three-element set [3]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, taxonomy) The division of a genus into two species; a division into two subordinate parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) A phase of the moon when it appears half lit and half dark, as at the quadratures.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) Division and subdivision; bifurcation, as of a stem of a plant or a vein of the body into two parts as it proceeds from its origin; often successive.",
+                  "examples": [
+                    "In one forked leaf there is a distinct vein dichotomy, and the leaf boundary commences 1.5 mm above the dichotomy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
