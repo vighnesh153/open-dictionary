@@ -1,0 +1,78 @@
+{
+  "word": "expose",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French exposer (“to lay open, set forth”), from Latin expōnō (“set forth”), with contamination from poser (“to lay, place”). Doublet of expound, via Old French espondre (“to set forth, explain”), from the same Latin term."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "expose (third-person singular simple present exposes, present participle exposing, simple past and past participle exposed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reveal, uncover, make visible, bring to light, introduce (to).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To subject photographic film to light thereby recording an image.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To abandon, especially an unwanted baby in the wilderness.",
+                  "examples": [
+                    "This they do, as a rule, by exposing the child or throwing it into the sea."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To submit to an active (mostly dangerous) substance like an allergen, ozone, nicotine, solvent, or to any other stress, in order to test the reaction, resistance, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To make available to other parts of a program, or to other programs.",
+                  "examples": [
+                    "In the OO world, the word is to hide the structure of the data, and expose only functionality. OO designers expose an object to the world in terms of the services it provides."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
