@@ -1,0 +1,39 @@
+{
+  "word": "electrode",
+  "etymologies": [
+    {
+      "description": [
+        "Coined by British scientist Michael Faraday in 1833, first used in his Diary (laboratory notebook) from the Ancient Greek words ἤλεκτρον (ḗlektron, “amber”) (from which the word electricity is derived) and ὁδός (hodós, “way”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "electrode (plural electrodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "the terminal through which electric current passes between metallic and nonmetallic parts of an electric circuit",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "a collector or emitter of electric charge in a semiconducting device",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
