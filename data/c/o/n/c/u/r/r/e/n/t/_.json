@@ -1,0 +1,138 @@
+{
+  "word": "concurrent",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English concurrent, from Old French concurrent, from Latin concurrēns, present active participle of concurrō (“happen at the same time”), from con- (“with”) + currō (“run”)."
+      ],
+      "adjectives": [
+        {
+          "description": "concurrent (comparative more concurrent, superlative most concurrent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Happening at the same time; simultaneous.",
+                  "examples": [
+                    "Such are the changes which science recognizes in the wire itself, as concurrent with the visual changes taking place in the eye."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Belonging to the same period; contemporary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Acting in conjunction; agreeing in the same act or opinion; contributing to the same event or effect.",
+                  "examples": [
+                    "I join with these laws the personal presence of the king's son, as a concurrent cause of this reformation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Joint and equal in authority; taking cognizance of similar questions; operating on the same objects.",
+                  "examples": [
+                    "the concurrent jurisdiction of courts"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Meeting in one point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Running alongside one another on parallel courses; moving together in space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of code) Designed to run independently, rather than sequentially, using various mechanisms, such as threads, event loops or time-slicing.",
+                  "examples": [
+                    "Antonym: sequential"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "concurrent (plural concurrents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, concurs; a joint or contributory cause.",
+                  "examples": [
+                    "To all affairs of importance there are three necessary concurrents  […]  time, industry, and faculties."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One pursuing the same course, or seeking the same objects; hence, a rival; an opponent.",
+                  "examples": [
+                    "Menander  […]  had no concurrent in his time that came neere vnto him"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of the supernumerary days of the year over fifty-two complete weeks; so called because they concur with the solar cycle, the course of which they follow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who accompanies a sheriff's officer as witness.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
