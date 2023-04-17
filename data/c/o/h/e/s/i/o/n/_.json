@@ -1,0 +1,72 @@
+{
+  "word": "cohesion",
+  "etymologies": [
+    {
+      "description": [
+        "Attested from the late 17th century, borrowed from French cohésion, from Latin cohaesiō, cohaesiōnem."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cohesion (usually uncountable, plural cohesions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "State of cohering, or of working together.",
+                  "examples": [
+                    "Unit cohesion is important in the military."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, chemistry) Various intermolecular forces that hold solids and liquids together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Growing together of normally distinct parts of a plant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) Degree to which functionally related elements in a system belong together.",
+                  "examples": [
+                    "Coordinate term: coupling"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) Grammatical or lexical relationship between different parts of the same text.",
+                  "examples": [
+                    "Coordinate term: coherence"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
