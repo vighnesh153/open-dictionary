@@ -1,0 +1,52 @@
+{
+  "word": "codeword",
+  "etymologies": [
+    {
+      "description": [
+        "code +‎ word"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "codeword (plural codewords)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A string representing an encoded piece of text.",
+                  "examples": [
+                    "Bob cannot get any information out of the codeword since he doesn't know what transmission bases Alice used."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A word or phrase (or by extension a concept) used to make a (concealed) reference to another word or concept.",
+                  "examples": [
+                    "Even the most virtuous concepts were scrutinised by governments eager to interpret them as codewords for something unwelcome."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A type of crossword puzzle where the letters of the alphabet are represented by numbers and the solver must identify them by their position and frequency.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
