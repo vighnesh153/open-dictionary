@@ -1,0 +1,52 @@
+{
+  "word": "contravariant",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "contravariant (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory, of a functor) which reverses composition",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) Using or relating to contravariance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "contravariant (plural contravariants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A bihomogeneous polynomial in dual variables of x, y, ... and the coefficients of some homogeneous form in x, y, ... that is invariant under some group of linear transformations.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
