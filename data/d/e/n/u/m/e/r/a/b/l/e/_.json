@@ -1,0 +1,33 @@
+{
+  "word": "denumerable",
+  "etymologies": [
+    {
+      "description": [
+        "The word was introduced around the beginning of the 20th century, from Latin denumerō (“to count out”) +‎ -able."
+      ],
+      "adjectives": [
+        {
+          "description": "denumerable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Capable of being assigned a bijection to the natural numbers. Applied to sets which are not finite, but have a one-to-one mapping to the natural numbers.",
+                  "examples": [
+                    "The empty set is not denumerable because it is finite; the rational numbers are, surprisingly, denumerable because every possible fraction can be assigned a natural number and vice versa.",
+                    "Synonyms: countable, countably infinite"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
