@@ -1,0 +1,134 @@
+{
+  "word": "cascade",
+  "etymologies": [
+    {
+      "description": [
+        "From French cascade, from Italian cascata, from cascare (“to fall”), from Vulgar Latin *casicāre, from casus, verbal noun of cadō, ultimately from Proto-Indo-European *ḱh₂d- (“to fall”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cascade (plural cascades)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A waterfall or series of small waterfalls.",
+                  "examples": [
+                    "Now murm'ring soft, now roaring in cascade."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A stream or sequence of a thing or things occurring as if falling like a cascade.",
+                  "examples": [
+                    "The rise in serotonin levels sets off a cascade of chemical events"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of electrical (or other types of) components, the output of any one being connected to the input of the next; See also daisy chain",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(juggling) A pattern typically performed with an odd number of props, where each prop is caught by the opposite hand.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A sequence of absurd short messages posted to a newsgroup by different authors, each one responding to the most recent message and quoting the entire sequence to that point (with ever-increasing indentation).",
+                  "examples": [
+                    "Don't you hate cascades? I hate cascades!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hairpiece for women consisting of curled locks or a bun attached to a firm base, used to create the illusion of fuller hair.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A series of reactions in which the product of one becomes a reactant in the next",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cascade (third-person singular simple present cascades, present participle cascading, simple past and past participle cascaded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To fall as a waterfall or series of small waterfalls.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange in a stepped series like a waterfall.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To occur as a causal sequence.",
+                  "examples": [
+                    "Child folders inherit the configuration of their parent folder, meaning that configuration settings cascade down through an application's virtual folder hierarchy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, slang) To vomit.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
