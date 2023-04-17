@@ -1,0 +1,59 @@
+{
+  "word": "compensator",
+  "etymologies": [
+    {
+      "description": [
+        "compensate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "compensator (plural compensators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literally) A party or thing which compensates, pays or otherwise provides a compensation",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any device used to compensate for something, notably to achieve a better balance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A building control device used to deliver the compensation relationship or curve between the air temperature outside a building and the temperature of water or air provided to spaces or zones within the building for purposes of heating or cooling.",
+                  "examples": [
+                    "Compensators ensure less heat is provided to a room on a warmer day. They may be implemented mechanically, electronically or in software."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) One of several small magnets placed in the binnacle to neutralize the effect of the ship's metal on the compass",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
