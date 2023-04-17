@@ -1,0 +1,76 @@
+{
+  "word": "ellipsoid",
+  "etymologies": [
+    {
+      "description": [
+        "ellipse +‎ -oid"
+      ],
+      "adjectives": [
+        {
+          "description": "ellipsoid (comparative more ellipsoid, superlative most ellipsoid)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Shaped like an ellipse; elliptical.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of or pertaining to an ellipse; elliptic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) Having the tridimensional shape of an ellipse rotated on its long axis.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ellipsoid (plural ellipsoids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, geometry) A surface, all of whose cross sections are elliptic or circular (including the sphere), that generalises the ellipse and in Cartesian coordinates (x, y, z) is a quadric with equation x2/a2 + y2/b2 + z2/c2 = 1.",
+                  "examples": [
+                    "Polarizability can be imagined as a three-dimensional ellipsoid centred on the centre of the molecule, as shown in Figure 10.4."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geography) Such a surface used as a model of the shape of the earth.",
+                  "examples": [
+                    "Here the geoid is thirty meters below the ellipsoid."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
