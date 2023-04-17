@@ -1,0 +1,120 @@
+{
+  "word": "chunk",
+  "etymologies": [
+    {
+      "description": [
+        "Variant of chuck; or alternatively a diminutive of chump (“chunk; block”)  +‎ *-k (diminutive suffix) (compare hunk from hump, etc.)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "chunk (plural chunks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A part of something that has been separated.",
+                  "examples": [
+                    "The statue broke into chunks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A representative portion of a substance, often large and irregular.",
+                  "examples": [
+                    "a chunk of granite"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, education) A sequence of two or more words that occur in language with high frequency but are not idiomatic; a bundle or cluster.",
+                  "examples": [
+                    "examples of chunks would include \"in accordance with\", \"the results of\", and \"so far\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A discrete segment of a file, stream, etc. (especially one that represents audiovisual media); a block.",
+                  "examples": [
+                    "The first DWORD of a chunk data in the RIFF chunk is a four character code value identifying the form type of the file."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(comedy) A segment of a comedian's performance.",
+                  "examples": [
+                    "You begin gathering two hours of dependable comedy by developing that first three-minute chunk. When you're satisfied with it, you create another three minutes of laughs, then another three minutes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "chunk (third-person singular simple present chunks, present participle chunking, simple past and past participle chunked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To break into large pieces or chunks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To break down (language, etc.) into conceptual pieces of manageable size.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang, chiefly Southern US) To throw.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, video games) Deal a substantial amount of damage to an opponent.",
+                  "examples": [
+                    "He's chunked right before the next battle so he has to regen HP."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
