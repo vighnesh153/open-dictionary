@@ -1,0 +1,86 @@
+{
+  "word": "deviate",
+  "etymologies": [
+    {
+      "description": [
+        "Late Latin deviatus, past participle of deviare, from the phrase de via."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "deviate (plural deviates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sociology) A person with deviant behaviour; a deviant, degenerate or pervert.",
+                  "examples": [
+                    "Synonyms: deviant, degenerate, pervert"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A value equal to the difference between a measured variable factor and a fixed or algorithmic reference value.",
+                  "examples": [
+                    "It will be noted that for a deviate x = 1.5, the ordinate z will have the value .130..."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "deviate (third-person singular simple present deviates, present participle deviating, simple past and past participle deviated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To go off course from; to change course; to change plans.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figurative) To fall outside of, or part from, some norm; to stray.",
+                  "examples": [
+                    "His exhibition of nude paintings deviated from the norm."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to diverge.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
