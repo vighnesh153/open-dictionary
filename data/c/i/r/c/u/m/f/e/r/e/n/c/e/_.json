@@ -1,0 +1,72 @@
+{
+  "word": "circumference",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin circumferentia, from circum (“around”) + ferō (“I carry”). Displaced native Old English ymbgang."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "circumference (plural circumferences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The line that bounds a circle or other two-dimensional figure",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The length of such a line",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The surface of a round or spherical object",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) The length of the longest cycle of a graph",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "circumference (third-person singular simple present circumferences, present participle circumferencing, simple past and past participle circumferenced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To include in a circular space; to bound.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
