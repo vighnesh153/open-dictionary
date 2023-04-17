@@ -1,0 +1,87 @@
+{
+  "word": "cursor",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin cursor (“runner”), from currō (“run”) + -or (agentive suffix). Ultimately from Proto-Indo-European."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cursor (plural cursors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A part of any of several scientific or measuring instruments that moves back and forth to indicate a position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) A moving icon or other representation of the position of the pointing device.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) An indicator, often a blinking line or bar, indicating where the next insertion or other edit will take place.",
+                  "examples": [
+                    "Synonym: the caret"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A reference to a row of data in a table, which moves from row to row as data is retrieved by way of it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A design pattern in object oriented methodology in which a collection is iterated uniformly.",
+                  "examples": [
+                    "Synonym: the iterator pattern"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cursor (third-person singular simple present cursors, present participle cursoring, simple past and past participle cursored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To navigate by means of the cursor keys.",
+                  "examples": [
+                    "The only other problem is that there's a nagging tendency for the highlight to overrun when cursoring through file lists."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
