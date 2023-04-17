@@ -1,0 +1,124 @@
+{
+  "word": "expand",
+  "etymologies": [
+    {
+      "description": [
+        "Recorded in Middle English since 1422 (as expanden, expaunden), from Anglo-Norman espaundre, from Latin expandere present active infinitive of expandō (“to spread out”), itself from ex- (“out, outwards”) + pandō (“to spread”). Doublet of spawn."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "expand (third-person singular simple present expands, present participle expanding, simple past and past participle expanded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To change (something) from a smaller form or size to a larger one; to spread out or lay open.",
+                  "examples": [
+                    "You can expand this compact umbrella to cover a large table."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To increase the extent, number, volume or scope of (something).",
+                  "examples": [
+                    "A flower expands its leaves."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To express (something) at length and/or in detail.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, algebra) To rewrite (an expression) as a longer, yet equivalent sum of terms.",
+                  "examples": [
+                    "Use the binomial theorem to expand \n  \n    \n      \n        \n          \n            (\n            x\n            +\n            1\n            )\n          \n          \n            4\n          \n        \n      \n    \n    {\\displaystyle {(x+1)}^{4}}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, algebra, of an expression) To become, by rewriting, a longer, yet equivalent sum of terms.",
+                  "examples": [
+                    "The expression \n  \n    \n      \n        \n          \n            (\n            x\n            +\n            1\n            )\n          \n          \n            4\n          \n        \n      \n    \n    {\\displaystyle {(x+1)}^{4}}\n  \n expands to \n  \n    \n      \n        \n          x\n          \n            4\n          \n        \n        +\n        4\n        \n          x\n          \n            3\n          \n        \n        +\n        6\n        \n          x\n          \n            2\n          \n        \n        +\n        4\n        x\n        +\n        1\n      \n    \n    {\\displaystyle x^{4}+4x^{3}+6x^{2}+4x+1}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, arithmetic) To multiply both the numerator and the denominator of a fraction by the same natural number yielding a fraction of equal value",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To change or grow from smaller to larger in form, number, or size.",
+                  "examples": [
+                    "Many materials expand when heated.",
+                    "This compact umbrella expands to cover a large table."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To increase in extent, number, volume or scope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To speak or write at length or in detail.",
+                  "examples": [
+                    "He expanded on his plans for the business."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To feel generous or optimistic.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
