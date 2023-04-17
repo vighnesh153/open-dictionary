@@ -1,0 +1,76 @@
+{
+  "word": "density",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French densité or Latin densitas.",
+        "Morphologically dense +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "density (countable and uncountable, plural densities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A measure of the mass of matter contained by a unit volume.",
+                  "examples": [
+                    "Synonym: mass density"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ratio of one quantity, representing something of interest, to another quantity representing space, area, or extent in which the thing of interest is distributed.",
+                  "examples": [
+                    "Synonym: number density"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, statistics) The probability that an outcome will fall into a given range, per unit of that range; the relative likelihood of possible values of a continuous random variable.",
+                  "examples": [
+                    "Synonym: probability density"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Stupidity; denseness.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
