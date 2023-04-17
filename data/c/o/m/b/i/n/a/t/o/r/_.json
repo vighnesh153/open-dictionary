@@ -1,0 +1,30 @@
+{
+  "word": "combinator",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "combinator (plural combinators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) A lambda expression which has no free variables in it.",
+                  "examples": [
+                    "M is a closed λ-term (or combinator) if FV(M) = ∅. The set of closed λ-terms is denoted by Λ0."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
