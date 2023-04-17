@@ -1,0 +1,72 @@
+{
+  "word": "constraint",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English constreynt, constreynte, from Old French constreinte, past participle of constreindre (“to constrain”), from Latin cōnstringō (corresponding to the past participle cōnstrictus)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "constraint (countable and uncountable, plural constraints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that constrains; a restriction.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An irresistible force or compulsion.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The repression of one's feelings.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A condition that a solution to an optimization problem must satisfy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A linkage or other restriction that maintains database integrity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
