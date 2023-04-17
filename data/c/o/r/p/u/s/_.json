@@ -1,0 +1,54 @@
+{
+  "word": "corpus",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin corpus (“body”). Doublet of corpse, corps, and riff."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "corpus (plural corpora or corpuses or corpusses or (proscribed) corpi)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A collection of writings, often on a specific topic, of a specific genre, from a specific demographic or a particular author, etc.",
+                  "examples": [
+                    "Synonyms: collection, compilation, aggregation; see also Thesaurus:body"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(specifically, linguistics) Such a collection in form of an electronic database used for linguistic analyses.",
+                  "examples": [
+                    "Synonyms: digital corpus, text corpus"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncommon) A body, a collection.",
+                  "examples": [
+                    "Synonyms: collection; see also Thesaurus:body"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
