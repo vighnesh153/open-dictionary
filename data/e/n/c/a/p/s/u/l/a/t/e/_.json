@@ -1,0 +1,59 @@
+{
+  "word": "encapsulate",
+  "etymologies": [
+    {
+      "description": [
+        "From en- +‎ capsule +‎ -ate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "encapsulate (third-person singular simple present encapsulates, present participle encapsulating, simple past and past participle encapsulated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enclose something in, or as if in, a capsule.",
+                  "examples": [
+                    "At a rate of six inches a year, the salt closes in on the waste and encapsulates it for what engineers say will be millions of years."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To epitomize something by expressing it as a brief summary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software, object-oriented programming) To enclose objects in a common interface in a way that makes them interchangeable, and guards their states from invalid changes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) To enclose data in packets that can be transmitted using a given protocol.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
