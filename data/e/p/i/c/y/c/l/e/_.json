@@ -1,0 +1,61 @@
+{
+  "word": "epicycle",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin epicyclus, from Ancient Greek ἐπίκυκλος (epíkuklos), from ἐπί (epí, “upon”) + κύκλος (kúklos, “circle”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "epicycle (plural epicycles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) A small circle whose centre is on the circumference of a larger circle; in Ptolemaic astronomy it was seen as the basis of revolution of the \"seven planets\", given a fixed central Earth.",
+                  "examples": [
+                    "Is it not [Philosophie], that […] teacheth miserie, famine and sicknesse to laugh? Not by reason of some imaginarie Epicicles, but by naturall and palpable reasons."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Any circle whose circumference rolls around that of another circle, thus creating a hypocycloid or epicycloid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(organic chemistry) A ring of atoms joining parts of an already cyclic compound",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) An ad hoc complication added to a model to make it fit the known data",
+                  "examples": [
+                    "If two chronicles seemed contradictory, instead of trying to choose between them, a rationalization (epicycle) was devised to cover both."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
