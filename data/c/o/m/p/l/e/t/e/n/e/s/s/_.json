@@ -1,0 +1,41 @@
+{
+  "word": "completeness",
+  "etymologies": [
+    {
+      "description": [
+        "complete +‎ -ness"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "completeness (usually uncountable, plural completenesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state or condition of being complete.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The property of a logical theory that whenever a wff is valid then it must also be a theorem. Symbolically, letting T represent a theory within logic L, this can be represented as the property that whenever \n  \n    \n      \n        T\n        ⊨\n        ϕ\n      \n    \n    {\\displaystyle T\\vDash \\phi }\n  \n is true, then \n  \n    \n      \n        T\n        ⊢\n        ϕ\n      \n    \n    {\\displaystyle T\\vdash \\phi }\n  \n must also be true, for any wff φ of logic L.",
+                  "examples": [
+                    "THEOREM 37°. (Gödel's completeness theorem 1930.) In the predicate calculus H:(a) If \n  \n    \n      \n        ⊨\n        F\n      \n    \n    {\\displaystyle \\vDash F}\n  \n [or even if \n  \n    \n      \n        \n          ℵ\n          \n            0\n          \n        \n      \n    \n    {\\displaystyle \\aleph _{0}}\n  \n-\n  \n    \n      \n        ⊨\n        F\n      \n    \n    {\\displaystyle \\vDash F}\n  \n], then \n  \n    \n      \n        ⊢\n        F\n      \n    \n    {\\displaystyle \\vdash F}\n  \n. If \n  \n    \n      \n        \n          E\n          \n            1\n          \n        \n        ,\n        .\n        .\n        .\n        ,\n        \n          E\n          \n            k\n          \n        \n        ⊨\n        F\n      \n    \n    {\\displaystyle E_{1},...,E_{k}\\vDash F}\n  \n [or even if \n  \n    \n      \n        \n          E\n          \n            1\n          \n        \n        ,\n        .\n        .\n        .\n        ,\n        \n          E\n          \n            k\n          \n        \n         \n        \n          ℵ\n          \n            0\n          \n        \n      \n    \n    {\\displaystyle E_{1},...,E_{k}\\ \\aleph _{0}}\n  \n-\n  \n    \n      \n        ⊨\n        F\n      \n    \n    {\\displaystyle \\vDash F}\n  \n], then \n  \n    \n      \n        \n          E\n          \n            1\n          \n        \n        ,\n        .\n        .\n        .\n        ,\n        \n          E\n          \n            k\n          \n        \n        ⊢\n        F\n      \n    \n    {\\displaystyle E_{1},...,E_{k}\\vdash F}\n  \n.(b)  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
