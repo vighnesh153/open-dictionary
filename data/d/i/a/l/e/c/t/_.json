@@ -1,0 +1,83 @@
+{
+  "word": "dialect",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French dialecte, from Latin dialectos, dialectus, from Ancient Greek διάλεκτος (diálektos, “conversation, the language of a country or a place or a nation, the local idiom which derives from a dominant language”), from διαλέγομαι (dialégomai, “I participate in a dialogue”), from διά (diá, “inter, through”) + λέγω (légō, “I speak”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dialect (plural dialects)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, strict sense) A lect (often a regional or minority language) as part of a group or family of languages, especially if they are viewed as a single language, or if contrasted with a standardized idiom that is considered the 'true' form of the language (for example, Cantonese as contrasted with Mandarin Chinese or Bavarian as contrasted with Standard German).",
+                  "examples": [
+                    "Synonym: (often derogatory) patois"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, broad sense) A variety of a language that is characteristic of a particular area, community, or social group, differing from other varieties of the same language in relatively minor ways as regards grammar, phonology, and lexicon.",
+                  "examples": [
+                    "Hyponyms: sociolect, ethnolect, genderlect, regiolect, topolect, geolect, vernacular"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory) Language that is perceived as substandard or wrong.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, offensive) A language existing only in an oral or non-standardized form, especially a language spoken in a developing country or an isolated region.",
+                  "examples": [
+                    "Synonym: vernacular"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A variant of a non-standardized programming language.",
+                  "examples": [
+                    "Home computers in the 1980s had many incompatible dialects of BASIC."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ornithology) A variant form of the vocalizations of a bird species restricted to a certain area or population.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
