@@ -1,0 +1,132 @@
+{
+  "word": "concern",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French concerner, from Medieval Latin concernō, concernere (“I distinguish, have respect to”), from Latin concernō (“I mix, sift, or mingle together, as in a sieve”), combined form of con- + cernō (“distinguish”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "concern (countable and uncountable, plural concerns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which affects one’s welfare or happiness. A matter of interest to someone.",
+                  "examples": [
+                    "Synonym: interest",
+                    "Antonym: unconcern"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The placement of interest or worry on a subject.",
+                  "examples": [
+                    "Most people in Australia have no concern for the recent events in London."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A worry; a sense that something may be wrong; an identification of a possible problem.",
+                  "examples": [
+                    "Let me know if you have any questions or concerns about the document."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The expression of solicitude, anxiety, or compassion toward a thing or person.",
+                  "examples": [
+                    "Judy's eyes filled with concern as she listened to the news report."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A business, firm or enterprise; a company.",
+                  "examples": [
+                    "The employees’ attitude is really hurting the concern.",
+                    "a going concern"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Any set of information that affects the code of a computer program.",
+                  "examples": [
+                    "At the programming level, an aspect is a modular unit that implements a concern."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "concern (third-person singular simple present concerns, present participle concerning, simple past and past participle concerned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To relate or belong to; to have reference to or connection with; to affect the interest of; to be of importance to.",
+                  "examples": [
+                    "our wars with France have always affected us in our most tender interests, and concerned us more than those we have had with any other nation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To engage by feeling or sentiment; to interest.",
+                  "examples": [
+                    "A good prince concerns himself in the happiness of his subjects."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make somebody worried.",
+                  "examples": [
+                    "I’m concerned that she’s becoming an alcoholic."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
