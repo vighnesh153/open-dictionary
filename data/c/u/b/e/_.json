@@ -1,0 +1,146 @@
+{
+  "word": "cube",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French cube, from Latin cubus, from Ancient Greek κύβος (kúbos)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cube (plural cubes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A regular polyhedron having six identical square faces.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any object more or less in the form of a cube.",
+                  "examples": [
+                    "a sugar cube",
+                    "a stock cube"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The third power of a number, value, term or expression.",
+                  "examples": [
+                    "the cube of 2 is 8"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A data structure consisting of a three-dimensional array; a data cube",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A Rubik's cube style puzzle, not necessarily in the shape of a cube",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cube (third-person singular simple present cubes, present participle cubing, simple past and past participle cubed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, arithmetic) To raise to the third power; to determine the result of multiplying by itself twice.",
+                  "examples": [
+                    "Three cubed can be written as 33, and equals twenty-seven."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To form into the shape of a cube.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cut into cubes.",
+                  "examples": [
+                    "Cube the ham right after adding the curry to the rice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To use a Rubik's cube.",
+                  "examples": [
+                    "He likes to cube now and then."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Clipped form of cubicle (with intentional reference to their common shape per cube, etymology 1), which from Latin cubiculum (“a small bedchamber or lounge”), from cubare (“to lie down”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cube (plural cubes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cubicle, especially one of those found in offices.",
+                  "examples": [
+                    "My co-worker annoys me by throwing things over the walls of my cube."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
