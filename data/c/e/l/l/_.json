@@ -1,0 +1,293 @@
+{
+  "word": "cell",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English celle, selle, from Old English cell (attested in inflected forms), from Latin cella (“chamber, small room, compartment”), later reinforced by Old French cel, sele, Old French cele. Doublet of cella; ultimately from Proto-Italic *kelnā, from Proto-Indo-European *ḱelneh₂, from Proto-Indo-European *ḱel- (“to cover”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cell (plural cells)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A single-room dwelling for a hermit. [from 10th c.]",
+                  "examples": [
+                    "For three days he and his attendants had wandered in the forest without seeing a human form: but on the evening of the third they came to a cell, in which they found a venerable hermit in the agonies of death."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now historical) A small monastery or nunnery dependent on a larger religious establishment. [from 11th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small room in a monastery or nunnery accommodating one person. [from 14th c.]",
+                  "examples": [
+                    "Gregor Mendel must have spent a good amount of time outside of his cell."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A room in a prison or jail for one or more inmates. [from 18th c.]",
+                  "examples": [
+                    "Synonym: prison cell",
+                    "The combatants spent the night in separate cells."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Each of the small hexagonal compartments in a honeycomb. [from 14th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, now chiefly botany) Any of various chambers in a tissue or organism having specific functions. [from 14th c.]",
+                  "examples": [
+                    "Each of the two cells or lobes of the anther is marked with a lateral line or furrow, running from top to bottom […]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(entomology) The discal cell of the wing of a lepidopteran insect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Specifically, any of the supposed compartments of the brain, formerly thought to be the source of specific mental capacities, knowledge, or memories. [14th–19th c.]",
+                  "examples": [
+                    "[W]e shall feel still more contempt for the order of men, who cultivated their faculties, only to enable them to consolidate their power, by leading the ignorant astray; making the learning they concentrated in their cells, a more polished instrument of oppression."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A section or compartment of a larger structure. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, chiefly literary) Any small dwelling; a remote nook, a den. [16th–19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device which stores electrical power; used either singly or together in batteries; the basic unit of a battery. [from 19th c.]",
+                  "examples": [
+                    "This MP3 player runs on 2 AAA cells."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The basic unit of a living organism, consisting of a quantity of protoplasm surrounded by a cell membrane, which is able to synthesize proteins and replicate itself. [from 19th c.]",
+                  "examples": [
+                    "An American company has applied to experiment in Britain on Parkinson's disease sufferers by injecting their brains with cells from pigs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) A small thunderstorm, caused by convection, that forms ahead of a storm front. [from 20th c.]",
+                  "examples": [
+                    "There is a powerful storm cell headed our way."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The minimal unit of a cellular automaton that can change state and has an associated behavior. [from 20th c.]",
+                  "examples": [
+                    "The upper right cell always starts with the color green."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) In FreeCell-type games, a space where one card can be placed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small group of people forming part of a larger organization, often an outlawed one. [from 20th c.]",
+                  "examples": [
+                    "Those three fellows are the local cell of that organization."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) A short, fixed-length packet, as in asynchronous transfer mode. [from 20th c.]",
+                  "examples": [
+                    "Virtual Channel number 5 received 170 cells."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) A region of radio reception that is a part of a larger radio network.",
+                  "examples": [
+                    "I get good reception in my home because it is near a cell tower."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A three-dimensional facet of a polytope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) The unit in a statistical array (a spreadsheet, for example) where a row and a column intersect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The space between the ribs of a vaulted roof.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A cella.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(entomology) An area of an insect wing bounded by veins.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cell (third-person singular simple present cells, present participle celling, simple past and past participle celled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place or enclose in a cell.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From cell phone, from cellular phone, from cellular + telephone."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cell (plural cells)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, informal) A cellular phone.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
