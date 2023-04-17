@@ -1,0 +1,101 @@
+{
+  "word": "construct",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin constructus, from construo (“I heap together, build, make, construct, connect grammatically”), from com- (“together”) + struo (“I heap up, pile”). Doublet of construe."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "Noun Verb",
+          "definitionGroups": []
+        },
+        {
+          "description": "construct (plural constructs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something constructed from parts.",
+                  "examples": [
+                    "The artwork was a construct of wire and tubes.",
+                    "Loops and conditional statements are constructs in computer programming."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A concept or model.",
+                  "examples": [
+                    "Bohr's theoretical construct of the atom was soon superseded by quantum mechanics."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) A segment of nucleic acid, created artificially, for transplantation into a target cell or tissue.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "Noun Verb",
+          "definitionGroups": []
+        },
+        {
+          "description": "construct (third-person singular simple present constructs, present participle constructing, simple past and past participle constructed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To build or form (something) by assembling parts.",
+                  "examples": [
+                    "We constructed the radio from spares.",
+                    "A wall constructed of random stones."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To build (a sentence, an argument, etc.) by arranging words or ideas.",
+                  "examples": [
+                    "A sentence may be constructed with a subject, verb and object."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, geometry) To draw (a geometric figure) by following precise specifications and using geometric tools and techniques.",
+                  "examples": [
+                    "Construct a circle that touches each vertex of the given triangle."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
