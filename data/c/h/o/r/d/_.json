@@ -1,0 +1,143 @@
+{
+  "word": "chord",
+  "etymologies": [
+    {
+      "description": [
+        "Variant of cord, with spelling alteration due to Latin chorda (“cord”), ultimately from Ancient Greek (Doric) χορδά (khordá), (Ionic) χορδή (khordḗ, “string of gut, the string of a lyre”)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "chord (plural chords)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A harmonic set of three or more notes that is heard as if sounding simultaneously.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A straight line between two points of a curve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(engineering) A horizontal member of a truss.",
+              "entries": [
+                {
+                  "meaning": "(rail transport) A section of subsidiary railway track that interconnects two primary tracks that cross at different levels, to permit traffic to flow between them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aeronautics) The distance between the leading and trailing edge of a wing, measured in the direction of the normal airflow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) An imaginary line from the luff of a sail to its leech.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A keyboard shortcut that involves two or more distinct keypresses, such as Ctrl+M followed by P.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The string of a musical instrument.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) A cord.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) An edge that is not part of a cycle but connects two vertices of the cycle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "chord (third-person singular simple present chords, present participle chording, simple past and past participle chorded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To write chords for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To accord; to harmonize together.",
+                  "examples": [
+                    "This note chords with that one."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To provide with musical chords or strings; to string; to tune.",
+                  "examples": [
+                    "When Jubal struck the chorded shell."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
