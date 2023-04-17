@@ -1,0 +1,160 @@
+{
+  "word": "complete",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English compleet (“full, complete”), borrowed from Old French complet or Latin completus, past participle of compleō (“I fill up, I complete”) (whence also complement, compliment), from com- + pleō (“I fill, I fulfill”) (whence also deplete, replete, plenty), ultimately from Proto-Indo-European *pleh₁- (“to fill”) (English full)."
+      ],
+      "adjectives": [
+        {
+          "description": "complete (comparative completer or more complete, superlative completest or most complete)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "With all parts included; with nothing missing; full.",
+                  "examples": [
+                    "My life will be complete once I buy this new television.",
+                    "She offered me complete control of the project.",
+                    "After she found the rook, the chess set was complete."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Finished; ended; concluded; completed.",
+                  "examples": [
+                    "When your homework is complete, you can go and play with Martin."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Generic intensifier.",
+                  "examples": [
+                    "He is a complete bastard!",
+                    "It was a complete shock when he turned up on my doorstep.",
+                    "Our vacation was a complete disaster.",
+                    "Synonyms: downright, utter; see also Thesaurus:total"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis, of a metric space) In which every Cauchy sequence converges to a point within the space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of a lattice) In which every set with a lower bound has a greatest lower bound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a category) In which all small limits exist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, of a proof system of a formal system with respect to a given semantics) In which every semantically valid well-formed formula is provable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory, of a problem) That is in a given complexity class and is such that every other problem in the class can be reduced to it (usually in polynomial time or logarithmic space).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "complete (plural completes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A completed survey.",
+                  "examples": [
+                    "“If SSI says we're going to get two completes an hour, the sample will yield two Qualifieds to do the survey with us.”"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "complete (third-person singular simple present completes, present participle completing, simple past and past participle completed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To finish; to make done; to reach the end.",
+                  "examples": [
+                    "He completed the assignment on time.",
+                    "Synonyms: accomplish, finish; see also Thesaurus:end"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make whole or entire.",
+                  "examples": [
+                    "The last chapter completes the book nicely.",
+                    "Synonyms: consummate, perfect, top off"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) To call from the small blind in an unraised pot.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
