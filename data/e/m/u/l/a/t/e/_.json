@@ -1,0 +1,76 @@
+{
+  "word": "emulate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin aemulor (“to rival, emulate”)."
+      ],
+      "adjectives": [
+        {
+          "description": "emulate (comparative more emulate, superlative most emulate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Striving to excel; ambitious; emulous.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "emulate (third-person singular simple present emulates, present participle emulating, simple past and past participle emulated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) To attempt to equal or be the same as.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To copy or imitate, especially a person.",
+                  "examples": [
+                    "People are endlessly fascinating, even if you'd never want to emulate them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To feel a rivalry with; to be jealous of, to envy.",
+                  "examples": [
+                    "But the councell then present emulating my successe, would not thinke it fit to spare me fortie men to be hazzarded in those unknowne regions [...]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) of a program or device: to imitate another program or device",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "emulation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French émulation, from Latin aemulātiōnem, accusative singular form of aemulātiō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "emulation (countable and uncountable, plural emulations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The endeavor or desire to equal or excel someone else in qualities or actions.",
+                  "examples": [
+                    "a great figure who is worthy of respect and emulation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Jealous rivalry; envy; envious contention.",
+                  "examples": [
+                    "Scarce two gentlemen dwell together in the country  […] , but there is emulation betwixt them and their servants, some quarrel or some grudge betwixt their wives or children  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Execution of a program or other software designed for a different system, by simulating parts of the other system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
