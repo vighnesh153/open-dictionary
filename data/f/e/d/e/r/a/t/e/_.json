@@ -1,0 +1,69 @@
+{
+  "word": "federate",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "federate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Federated, united in an alliance or federation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "federate (plural federates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A member of a federation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer simulation) a system participating in a collective simulation, particularly within the context of the HLA (High Level Architecture) standard.",
+                  "examples": [
+                    "2016,  Okan Topçu, Umut Durak, Halit Oğuztüzün,  Distributed Simulation: A Model Driven Engineering Approach:A Federate (Application) can be defined as an application that implements or conforms to the HLA standard."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "federate (third-person singular simple present federates, present participle federating, simple past and past participle federated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To unite in a federation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
