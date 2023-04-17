@@ -1,0 +1,125 @@
+{
+  "word": "capture",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French capture (noun), from Latin captūra. Displaced native Old English fenġ (noun) and ġefōn (verb)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "capture (countable and uncountable, plural captures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of capturing; a seizing by force or stratagem.",
+                  "examples": [
+                    "even with regard to captures made at sea"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The securing of an object of strife or desire, as by the power of some attraction.",
+                  "examples": [
+                    "the capture of a lover's heart"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that has been captured; a captive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The recording or storage of something for later playback.",
+                  "examples": [
+                    "video capture"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A particular match found for a pattern in a text string.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "capture (third-person singular simple present captures, present participle capturing, simple past and past participle captured)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take control of; to seize by force or stratagem.",
+                  "examples": [
+                    "to capture an enemy, a vessel, or a criminal"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To store (as in sounds or image) for later revisitation.",
+                  "examples": [
+                    "She captured the sounds of a subway station on tape.",
+                    "She captured the details of the fresco in a series of photographs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reproduce convincingly.",
+                  "examples": [
+                    "His film adaptation captured the spirit of the original work.",
+                    "In her latest masterpiece, she captured the essence of Venice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove or take control of an opponent’s piece in a game (e.g., chess, go, checkers).",
+                  "examples": [
+                    "My pawn was captured.",
+                    "He captured his opponent’s queen on the 15th move."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
