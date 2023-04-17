@@ -1,0 +1,64 @@
+{
+  "word": "defendant",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English defendaunt (“defending; defending in a suit”), borrowed from Old French defendant, present participle of defendre, from Latin dēfendere."
+      ],
+      "adjectives": [
+        {
+          "description": "defendant (comparative more defendant, superlative most defendant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Serving, or suitable, for defense; defensive, defending.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English defendaunt (“defendant in a suit; defender”), borrowed from Old French defendant, nominalisation of defendant; see above."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "defendant (plural defendants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) In civil proceedings, the party responding to the complaint; one who is sued and called upon to make satisfaction for a wrong complained of by another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) In criminal proceedings, the accused.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "defenestrate",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from defenestration, from Latin de- (“out”) + fenestra (“window”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "defenestrate (third-person singular simple present defenestrates, present participle defenestrating, simple past and past participle defenestrated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To eject or throw (someone or something) from or through a window.",
+                  "examples": [
+                    "I defenestrated a clock to see if time flies!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To throw out; to remove or dismiss (someone) from a position of power or authority.",
+                  "examples": [
+                    "The cultural historians of science 'feel the need to defenestrate science, or at least take it off its pedestal' (Pumfrey. Rossi & Slawinski 1991. p. 3)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, humorous, slang) To remove a Windows operating system from a computer.",
+                  "examples": [
+                    "This posting was written on a Windows 95 PC,",
+                    "Defenestrate it immediately. Install Linux. :-)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
