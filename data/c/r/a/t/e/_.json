@@ -1,0 +1,78 @@
+{
+  "word": "crate",
+  "etymologies": [
+    {
+      "description": [
+        "From Dutch krat (“crate, large box, basket”), from Middle Dutch cratte (“basketware, mold”), from Old Dutch *kratta, *kratto (“basket”), from Proto-Germanic *kratjô, *krattijô (“basket”), from Proto-Indo-European *gred-, *gre(n)t- (“plaiting, wicker, basket, cradle”), from Proto-Indo-European *ger- (“to bind, twist, wind”).",
+        "Cognate with West Frisian kret (“wheelbarrow”), German Krätze (“basket”), Old English cræt, ceart (“cart, wagon, chariot”), Old Norse kartr (“wagon”), modern English cart. Wider cognates include Sanskrit ग्रन्थ (grantha, “a binding”).",
+        "Alternatively from Latin crātis (“wickerwork”), perhaps from the same PIE root."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "crate (plural crates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large open box or basket, used especially to transport fragile goods. [from 1680s]",
+                  "examples": [
+                    "Synonym: packing case"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, mildly derogatory) A vehicle (car, aircraft, spacecraft, etc.) seen as unreliable.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:old car"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In the Rust programming language, a binary or library.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "crate (third-person singular simple present crates, present participle crating, simple past and past participle crated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put into a crate. [from 1871]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To keep in a crate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
