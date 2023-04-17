@@ -1,0 +1,52 @@
+{
+  "word": "circulator",
+  "etymologies": [
+    {
+      "description": [
+        "circulate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "circulator (plural circulators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or thing that causes something to circulate",
+                  "examples": [
+                    "Who is the circulator of this rumor?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transport) A local transit system that provides regular service within a closed loop",
+                  "examples": [
+                    "You can ride the airport circulator to the next terminal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A passive electronic component with three or more ports, in which the ports can be accessed in such a way that when a signal is fed into any port it is transferred to the next port only",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
