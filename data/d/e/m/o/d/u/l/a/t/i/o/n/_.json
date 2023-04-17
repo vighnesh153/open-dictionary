@@ -1,0 +1,32 @@
+{
+  "word": "demodulation",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ modulation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "demodulation (countable and uncountable, plural demodulations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The inverse of the effect of modulation, or applying a signal to a carrier.",
+                  "examples": [
+                    "A radio transmitter applies modulation to a carrier wave and the receiver applies demodulation to it to recover the message."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
