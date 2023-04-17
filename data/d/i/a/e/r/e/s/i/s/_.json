@@ -1,0 +1,60 @@
+{
+  "word": "diaeresis",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin diaeresis, from Ancient Greek διαίρεσις (diaíresis, “division, split”), from διά (diá, “apart”) + αἱρέω (hairéō, “I take”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "diaeresis (plural diaereses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(orthography) A diacritic ( ¨ ) placed over a vowel letter (especially the second of two consecutive ones) indicating that it is sounded separately, usually forming a distinct syllable, as in the English words naïve, Noël and Brontë, the French haïr and the Dutch ruïne.",
+                  "examples": [
+                    "Synonym: trema",
+                    "Coordinate term: umlaut"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, prosody) Distraction; the separation of a vowel, often a diphthong, into two distinct syllables.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(prosody) A natural break in rhythm when a word ends at the end of a metrical foot, in a line of verse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, prosody) Hiatus; the occurrence of separate vowel sounds in adjacent syllables without an intervening consonant.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
