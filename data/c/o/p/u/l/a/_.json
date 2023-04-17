@@ -1,0 +1,61 @@
+{
+  "word": "copula",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin copula (“connection, linking of words”), from co- (“together”) +‎ apere (“fasten”). Doublet of couple."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "copula (plural copulas or copulae)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, grammar) A word, usually a verb, used to link the subject of a sentence with a predicate (usually a subject complement or an adverbial), that unites or associates the subject with the predicate.",
+                  "examples": [
+                    "I begin by arguing in section 2 that there are in fact at least two Celtic copulas, a grammatical copula that simply spells out tense and agreement, and a substantive copula formed on a lexically listed verbal stem."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A function that represents the association between two or more variables, independent of the individual marginal distributions of the variables.",
+                  "examples": [
+                    "There is little statistical theoretical theory for copulas. Sensitivity studies of estimation procedures and goodness-of-fit tests for copulas are unknown."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A device that connects two or more keyboards of an organ.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The act of copulation; mating.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
