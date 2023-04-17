@@ -1,0 +1,58 @@
+{
+  "word": "deadlock",
+  "etymologies": [
+    {
+      "description": [
+        "From dead +‎ lock."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "deadlock (countable and uncountable, plural deadlocks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A standstill resulting from the opposition of two evenly matched forces; a stalemate or impasse.",
+                  "examples": [
+                    "The negotiation ended in deadlock, with neither party willing to compromise on the price."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An inability to continue due to two programs or devices each requiring a response from the other before completing an operation.",
+                  "examples": [
+                    "Coordinate terms: livelock, starvation"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deadlock (third-person singular simple present deadlocks, present participle deadlocking, simple past and past participle deadlocked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To cause or come to a deadlock.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
