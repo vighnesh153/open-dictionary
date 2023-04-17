@@ -1,0 +1,259 @@
+{
+  "word": "chain",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English cheyne, chaine, from Old French chaine, chaene (“chain”), from Latin catēna (“chain”), from Proto-Indo-European *kat- (“to braid, twist; hut, shed”).  Doublet of catena."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "chain (plural chains)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of interconnected rings or links usually made of metal.",
+                  "examples": [
+                    "He wore a gold chain around the neck.",
+                    "The anchor is connected to the boat with a 100-metre long chain."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of interconnected things.",
+                  "examples": [
+                    "a chain of mountains",
+                    "a chain of ideas, one leading to the next",
+                    "This led to an unfortunate chain of events."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of stores or businesses with the same brand name.",
+                  "examples": [
+                    "That chain of restaurants is expanding into our town."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A number of atoms in a series, which combine to form a molecule.",
+                  "examples": [
+                    "When examined, the molecular chain included oxygen and hydrogen."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) A series of interconnected links of known length, used as a measuring device.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) A long measuring tape.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unit of length equal to 22 yards. The length of a Gunter's surveying chain. The length of a cricket pitch. Equal to 20.12 metres, 4 rods, or 100 links.",
+                  "examples": [
+                    "\"But it's too far—must be a quarter of a mile—and I've a portmanteau to carry.\"  […]",
+                    "\"Garn!\" shouted the guard. \"Taint ten chain.  […] \""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, set theory, order theory) A totally ordered set, especially a totally ordered subset of a poset.",
+                  "examples": [
+                    "We first find an approximation of the chain partition, i.e. a small but not minimum size set of chains which cover all elements of the poset."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain) A sequence of linked house purchases, each of which is dependent on the preceding and succeeding purchase (said to be \"broken\" if a buyer or seller pulls out).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which confines, fetters, or secures; a bond.",
+                  "examples": [
+                    "the chains of habit"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical, in the plural) Iron links bolted to the side of a vessel to bold the dead-eyes connected with the shrouds; also, the channels.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A livery collar, a chain of office.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(weaving) The warp threads of a web.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "chain (third-person singular simple present chains, present participle chaining, simple past and past participle chained)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fasten something with a chain.",
+                  "examples": [
+                    "You should chain your bicycle to the railings to protect it from being stolen."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) To connect as if with a chain, due to dependence, addiction, or other feelings",
+                  "examples": [
+                    "Sometimes I feel like I'm chained to this computer.",
+                    "She's been chained to her principles since she was 18, it's unlikely you can convince her otherwise."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To link multiple items together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To secure someone with fetters.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obstruct the mouth of a river etc with a chain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) To obligate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To relate data items with a chain of pointers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To be chained to another data item.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To measure a distance using a 66-foot long chain, as in land surveying.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, rare, associated with Acorn Computers) To load and automatically run (a program).",
+                  "examples": [
+                    "How do you get one program to chain another? I want to run DrawWorks2 then !Draw but as soon as you run Drawworks2 it finishes the batch file and doesn't go on to the next instruction! Is there a way without loading one of these automatic loaders?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
