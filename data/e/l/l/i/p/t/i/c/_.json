@@ -1,0 +1,67 @@
+{
+  "word": "elliptic",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἐλλειπτικός (elleiptikós), from ἐλλείπω (elleípō, “I leave out, omit”). Surface analysis ellipse +‎ -tic."
+      ],
+      "adjectives": [
+        {
+          "description": "elliptic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Of or pertaining to an ellipse.",
+                  "examples": [
+                    "In this chapter, the history of solving elliptic problems by direct marching methods is reviewed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of or pertaining to a broad field of mathematics that originates from the problem of calculating arc lengths of an ellipse.",
+                  "examples": [
+                    "elliptic integral",
+                    "elliptic function",
+                    "elliptic curve"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, in combination, of certain functions, equations and operators) That has coefficients satisfying a condition analogous to the condition for the general equation for a conic section to be of an ellipse.",
+                  "examples": [
+                    "elliptic partial differential equation",
+                    "elliptic operator",
+                    "elliptic regularity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany, of leaves) Oval, with a short or no point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
