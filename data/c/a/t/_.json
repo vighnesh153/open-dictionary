@@ -1,0 +1,360 @@
+{
+  "word": "cat",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English cat, catte, from Old English catt (“male cat”), catte (“female cat”), from Proto-West Germanic *kattu, from Proto-Germanic *kattuz."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cat (plural cats)",
+          "definitionGroups": [
+            {
+              "group": "An animal of the family Felidae:",
+              "entries": [
+                {
+                  "meaning": "A domesticated species (Felis catus) of feline animal, commonly kept as a house pet. [from 8thc.]",
+                  "examples": [
+                    "At twilight in the summer there is never anybody to fear—man, woman, or cat—in the chambers and at that hour the mice come out. They do not eat parchment or foolscap or red tape, but they eat the luncheon crumbs."
+                  ]
+                },
+                {
+                  "meaning": "Any similar animal of the family Felidae, which includes lions, tigers, bobcats, leopards, cougars, cheetahs, caracals, lynxes, and other such non-domesticated species.",
+                  "examples": [
+                    "If you should someday round a corner on the hiking trail and come face to face with a mountain lion, you would probably never forget the mighty cat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A person:",
+              "entries": [
+                {
+                  "meaning": "(offensive) A spiteful or angry woman. [from early 13thc.]",
+                  "examples": [
+                    "But, ere one rapid moon its tale has told, / He finds his prize — a cat — a slut — a scold."
+                  ]
+                },
+                {
+                  "meaning": "An enthusiast or player of jazz.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(slang) A person (usually male).",
+                  "examples": [
+                    "Synonyms: bloke, chap, cove, dude, fellow, fella, guy; see also Thesaurus:man"
+                  ]
+                },
+                {
+                  "meaning": "(slang) A prostitute. [from at least early 15thc.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A strong tackle used to hoist an anchor to the cathead of a ship.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly nautical) Short for cat-o'-nine-tails.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A sturdy merchant sailing vessel (now only in \"catboat\").",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(archaic, uncountable) The game of trap ball.",
+              "entries": [
+                {
+                  "meaning": "(archaic, countable) The trap in that game.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) The pointed piece of wood that is struck in the game of tipcat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, vulgar, African-American Vernacular) A vagina, a vulva; the female external genitalia.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A double tripod (for holding a plate, etc.) with six feet, of which three rest on the ground, in whatever position it is placed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A wheeled shelter, used in the Middle Ages as a siege weapon to allow assailants to approach enemy defences.",
+                  "examples": [
+                    "Synonyms: tortoise, Welsh cat"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cat (third-person singular simple present cats, present participle catting, simple past and past participle catted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical, transitive) To hoist (the anchor) by its ring so that it hangs at the cathead.",
+                  "examples": [
+                    "The anchors were catted at the bows of the yacht …"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical, transitive) To flog with a cat-o'-nine-tails.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) To vomit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To go wandering at night.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To gossip in a catty manner.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From concatenate, derived from the program's function of concatenating files. Compare concat."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cat (plural cats)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program and command in Unix that reads one or more files and directs their content to the standard output.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cat (third-person singular simple present cats, present participle catting, simple past and past participle catted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To apply the cat command to (one or more files).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) To dump large amounts of data on (an unprepared target), usually with no intention of browsing it carefully.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Abbreviations."
+      ],
+      "adjectives": [
+        {
+          "description": "cat (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Ireland, colloquial) Catastrophic; terrible, disastrous.",
+                  "examples": [
+                    "The weather was cat, so they returned home early."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cat (plural cats)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A street name of the drug methcathinone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of catapult.",
+                  "examples": [
+                    "a carrier's bow cats"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of catalytic converter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of catamaran.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of category.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of catfish.",
+                  "examples": [
+                    "Fishing for cat is probably, up to a certain stage, the least exciting of all similar sports."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Abbreviation of caterpillar.",
+              "entries": [
+                {
+                  "meaning": "(slang) Any of a variety of earth-moving machines. (from their manufacturer Caterpillar Inc.)",
+                  "examples": []
+                },
+                {
+                  "meaning": "A ground vehicle which uses caterpillar tracks, especially tractors, trucks, minibuses, and snow groomers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of computed axial tomography. Often used attributively, as in “CAT scan” or “CT scan”.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
