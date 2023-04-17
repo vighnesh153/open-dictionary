@@ -1,0 +1,52 @@
+{
+  "word": "disown",
+  "etymologies": [
+    {
+      "description": [
+        "dis- +‎ own"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "disown (third-person singular simple present disowns, present participle disowning, simple past and past participle disowned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To refuse to own, or to refuse to acknowledge one’s own.",
+                  "examples": [
+                    "Lord Capulet and his wife threatened to disown their daughter Juliet if she didn’t go through with marrying Count Paris."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To repudiate any connection to; to renounce.",
+                  "examples": [
+                    "Synonyms: disavow, disclaim; see also Thesaurus:repudiate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, Unix) To detach (a job or process) so that it can continue to run even when the user who launched it ends his/her login session.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
