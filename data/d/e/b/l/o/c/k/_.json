@@ -1,0 +1,48 @@
+{
+  "word": "deblock",
+  "etymologies": [
+    {
+      "description": [
+        "de- +‎ block"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "deblock (third-person singular simple present deblocks, present participle deblocking, simple past and past participle deblocked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To unblock; remove a blockage from.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To separate the logical records that have been combined into a physical block for storage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To process (digital video) so as to remove block-shaped artifacts of encoding.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
