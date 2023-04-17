@@ -1,0 +1,149 @@
+{
+  "word": "closure",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English closure, from Old French closure, from Late Latin clausura, from Latin claudere (“to close”); see clausure and cloture (etymological doublets) and close."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "closure (countable and uncountable, plural closures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An event or occurrence that signifies an ending.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A feeling of completeness; the experience of an emotional conclusion, usually to a difficult period.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device to facilitate temporary and repeatable opening and closing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An abstraction that represents a function within an environment, a context consisting of the variables that are both bound at a particular time during the execution of the program and that are within the function's scope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The smallest set that both includes a given subset and possesses some given property.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology, of a set) The smallest closed set which contains the given set.",
+                  "examples": [
+                    "The closure (\n  \n    \n      \n        \n          \n            T\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {T}}}\n  \n-closure) of a subset A of a topological space \n  \n    \n      \n        (\n        X\n        ,\n        \n          \n            T\n          \n        \n        )\n      \n    \n    {\\displaystyle (X,{\\mathfrak {T}})}\n  \n is the intersection of the members of the family of all closed sets containing A. […]",
+                    "7 THEOREM  The closure of any set is the union of the set and the set of its accumulation points."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of shutting; a closing.",
+                  "examples": [
+                    "the closure of a door, or of a chink"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of shutting or closing something permanently or temporarily.",
+                  "examples": [
+                    "The closure of Hammersmith Bridge means road traffic has to use Chiswick and Putney Bridges instead."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which closes or shuts; that by which separate parts are fastened or closed.",
+                  "examples": [
+                    "I admire on this consideration your sending your last to me quite open, without a seal, wafer, or any closure whatever, manifesting the utter openness of the writer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That which encloses or confines; an enclosure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(politics) A method of ending a parliamentary debate and securing an immediate vote upon a measure before a legislative body.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sociology) The phenomenon by which a group maintains its resources by the exclusion of others from their group based on varied criteria. Wp",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process whereby the reader of a comic book infers the sequence of events by looking at the picture panels.",
+                  "examples": [
+                    "The comic book reader performs closure within each panel, between panels, and among panels."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
