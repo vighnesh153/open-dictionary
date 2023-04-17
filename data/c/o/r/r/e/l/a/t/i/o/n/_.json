@@ -1,0 +1,51 @@
+{
+  "word": "correlation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French corrélation. Morphologically correlate +‎ -ion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "correlation (countable and uncountable, plural correlations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reciprocal, parallel or complementary relationship between two or more comparable objects.",
+                  "examples": [
+                    "clear correlation",
+                    "positive correlation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) One of the several measures of the linear statistical relationship between two random variables, indicating both the strength and direction of the relationship.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) An isomorphism from a projective space to the dual of a projective space, often to the dual of itself.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
