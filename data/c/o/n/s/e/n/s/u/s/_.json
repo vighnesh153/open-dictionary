@@ -1,0 +1,79 @@
+{
+  "word": "consensus",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin cōnsēnsus (“agreement, accordance, unanimity”), from cōnsentiō (“feel together; agree”); see consent."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "consensus (countable and uncountable, plural consensuses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A process of decision-making that seeks widespread agreement among group members.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "General agreement among the members of a given group or community, each of which exercises some discretion in decision-making and follow-up action.",
+                  "examples": [
+                    "After years of debate over the best wine to serve at Thanksgiving, no real consensus has emerged.",
+                    "reach consensus"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An agreement on some data value that is needed during computation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive) Average projected value.",
+                  "examples": [
+                    "a financial consensus forecast"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "consensus (third-person singular simple present consensuses, present participle consensusing, simple past and past participle consensused)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To seek consensus; to hold discussions with the aim of reaching mutual agreement.",
+                  "examples": [
+                    "I think we are a strongly consensused society. There was a consensus during the 1950's, the Eisenhower years, in our society. Then in the 1960's came a period of division."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
