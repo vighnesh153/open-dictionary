@@ -1,0 +1,183 @@
+{
+  "word": "digest",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English digesten, from Latin dīgestus, past participle of dīgerō (“carry apart”), from dī- (for dis- (“apart”)) + gerō (“I carry”), influenced by Middle French digestion. Partly displaced native Old English meltan (intransitive) and mieltan (transitive), both “to melt, to digest,” whence Modern English melt."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "digest (third-person singular simple present digests, present participle digesting, simple past and past participle digested)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To distribute or arrange methodically; to work over and classify; to reduce to portions for ready use or application.",
+                  "examples": [
+                    "to digest laws"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To separate (the food) in its passage through the alimentary canal into the nutritive and nonnutritive elements; to prepare, by the action of the digestive juices, for conversion into blood; to convert into chyme.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To think over and arrange methodically in the mind; to reduce to a plan or method; to receive in the mind and consider carefully; to get an understanding of; to comprehend.",
+                  "examples": [
+                    "Feelingly digest the words you speak in prayer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To bear comfortably or patiently; to be reconciled to; to brook.",
+                  "examples": [
+                    "I never can digest the loss of most of Origen's works."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chemistry) To expose to a gentle heat in a boiler or matrass, as a preparation for chemical operations.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To undergo digestion.",
+                  "examples": [
+                    "I just ate an omelette and I'm waiting for it to digest."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, obsolete, intransitive) To suppurate; to generate pus, as an ulcer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, obsolete, transitive) To cause to suppurate, or generate pus, as an ulcer or wound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To ripen; to mature.",
+                  "examples": [
+                    "well-digested fruits"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To quieten or reduce (a negative feeling, such as anger or grief)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Latin dīgesta, neuter plural of dīgestus, past participle of dīgerō (“separate”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "digest (plural digests)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is digested; especially, that which is worked over, classified, and arranged under proper heads or titles",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A compilation of statutes or decisions analytically arranged; a summary of laws.",
+                  "examples": [
+                    "Comyn's Digest",
+                    "the United States Digest"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any collection of articles, as an Internet mailing list including a week's postings, or a magazine arranging a collection of writings.",
+                  "examples": [
+                    "Reader's Digest is published monthly.",
+                    "The weekly email digest contains all the messages exchanged during the past week."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) The result of applying a hash function to a message.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
