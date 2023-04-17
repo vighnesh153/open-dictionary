@@ -1,0 +1,44 @@
+{
+  "word": "conchoid",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin concha (“mussel”) (from Ancient Greek κόγχη (kónkhē))  +‎ -oid or directly from Ancient Greek κογχοειδής (konkhoeidḗs), referring to the curved outline of a mussel shell or anything in this form."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "conchoid (plural conchoids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, geometry) Any of a family of curves defined as the locus of points p, such that each p is on a line that passes through a given fixed point P and intersects a given curve, C, and the distance from p to the point of intersection with C is a specified constant (note that for nontrivial cases two such points p satisfy the criteria, and the resultant curve has two parts).",
+                  "examples": [
+                    "The conchoid of a circle with respect to a point on the circle is a cardioid if the fixed distance is equal to the diameter of the circle.",
+                    "The Conchoid of Nicomedes is the conchoid of a straight line with respect to a point not on the line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A conchoidal fracture in rock.",
+                  "examples": [
+                    "Conchoids of sound rock, from a few feet to 20 or more feet in diameter, entirely surrounded by comparatively thin layers of weathered material, were frequently encountered, sometimes in adjacent series."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
