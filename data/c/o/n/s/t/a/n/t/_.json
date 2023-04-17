@@ -1,0 +1,123 @@
+{
+  "word": "constant",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English constant, from Old French constant, from Latin constantem, accusative of constans, from constare (“to stand firm”). Displaced native Old English singal."
+      ],
+      "adjectives": [
+        {
+          "description": "constant (comparative more constant, superlative most constant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unchanged through time or space; permanent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Consistently recurring over time; persistent.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:continuous"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Steady in purpose, action, feeling, etc.",
+                  "examples": [
+                    "Both loving one fair maid, they yet remained constant friends."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Firm; solid; not fluid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Consistent; logical.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, complexity theory) Bounded above by a constant.",
+                  "examples": [
+                    "constant time   constant space"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "constant (plural constants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is permanent or invariable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A quantity that remains at a fixed value throughout a given discussion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences) Any property of an experiment, determined numerically, that does not change under given circumstances.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An identifier that is bound to an invariant value; a fixed value given a name to aid in readability of source code.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
