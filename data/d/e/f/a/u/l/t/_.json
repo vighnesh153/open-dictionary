@@ -1,0 +1,168 @@
+{
+  "word": "default",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English defaut, defaute, from Old French defaute (“fault, defect, failure, culpability, lack”), ultimately from Latin de- (“away”) + fallo (“deceive, cheat, escape notice of”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "default (countable and uncountable, plural defaults)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) The condition of failing to meet an obligation.",
+                  "examples": [
+                    "He failed to make payments on time, and he is now in default.",
+                    "You may cure this default by paying the full amount within a week."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) The condition of being an obligation that has not been met.",
+                  "examples": [
+                    "The deadline has passed, so the debt is now in default."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics, computing) the original software programming settings as set by the factory",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A loss incurred by failing to compete.",
+                  "examples": [
+                    "The team's three losses include one default."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A selection made in the absence of an alternative.",
+                  "examples": [
+                    "The man became the leader of the group as a default."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(often attributive) A value used when none has been given; a tentative value or standard that is presumed.",
+                  "examples": [
+                    "If you don't specify a number of items, the default is 1."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The failure of a defendant to appear and answer a summons and complaint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A failing or failure; omission of that which ought to be done; neglect to do what duty or law requires.",
+                  "examples": [
+                    "This evil has happened through the governor's default."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Lack; absence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Fault; offence; wrong act.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "default (third-person singular simple present defaults, present participle defaulting, simple past and past participle defaulted)",
+          "definitionGroups": [
+            {
+              "group": "(intransitive) To fail to meet an obligation.",
+              "entries": [
+                {
+                  "meaning": "(intransitive, law) To fail to appear and answer a summons and complaint.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive, finance) To fail to fulfill a financial obligation.",
+                  "examples": [
+                    "to default on a loan"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To lose a competition by failing to compete.",
+                  "examples": [
+                    "Synonym: forfeit",
+                    "If you refuse to wear a proper uniform, you will not be allowed to compete and will default this match."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, computing) To assume a value when none was given; to presume a tentative value or standard.",
+                  "examples": [
+                    "If you don't specify a color, it defaults to red."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
