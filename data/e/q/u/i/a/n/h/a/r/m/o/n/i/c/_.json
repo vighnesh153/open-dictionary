@@ -1,0 +1,45 @@
+{
+  "word": "equianharmonic",
+  "etymologies": [
+    {
+      "description": [
+        "equi- +‎ anharmonic"
+      ],
+      "adjectives": [
+        {
+          "description": "equianharmonic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) equally anharmonic; specifically, whose anharmonic ratio is a cube root of unity",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "equianharmonic (plural equianharmonics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A set of four points whose cross ratio (or anharmonic ratio) is a cube root of 1.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
