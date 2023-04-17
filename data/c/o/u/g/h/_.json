@@ -1,0 +1,93 @@
+{
+  "word": "cough",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English coughen, coghen, from Old English cohhian (compare Old English cohhetan (“to shout”)), from Proto-West Germanic *kuh- (“to cough”), ultimately of onomatopoeic origin. Cognate with Dutch kuchen (“to cough”), German keuchen (“to pant”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cough (plural coughs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sudden, usually noisy expulsion of air from the lungs, often involuntary.",
+                  "examples": [
+                    "Behind me, I heard a distinct, dry cough."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A condition that causes one to cough; a tendency to cough.",
+                  "examples": [
+                    "Sorry, I can't come to work today – I've got a nasty cough."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Used to focus attention on a following utterance, often a euphemism or an attribution of blame.",
+                  "examples": [
+                    "He was – cough – indisposed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cough (third-person singular simple present coughs, present participle coughing, simple past and past participle coughed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To push air from the lungs in a quick, noisy explosion.",
+                  "examples": [
+                    "I breathed in a lungful of smoke by mistake, and started to cough."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, sometimes followed by \"up\") To force something out of the throat or lungs by coughing.",
+                  "examples": [
+                    "Sometimes she coughed (up) blood."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make a noise like a cough.",
+                  "examples": [
+                    "The engine coughed and sputtered."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
