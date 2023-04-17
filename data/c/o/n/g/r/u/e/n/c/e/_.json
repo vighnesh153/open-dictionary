@@ -1,0 +1,66 @@
+{
+  "word": "congruence",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English congruence, from Latin congruentia (“agreement”), from congruēns, present active participle of congruō (“meet together, agree”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "congruence (plural congruences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality of agreeing or corresponding; being suitable and appropriate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, number theory) A relation between two numbers indicating they give the same remainder when divided by some given number.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, geometry) The quality of being isometric — roughly, the same measure and shape.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra) Matrix similarity by an orthogonal matrix.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) More generally: any equivalence relation defined on an algebraic structure which is preserved by operations defined by the structure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
