@@ -1,0 +1,115 @@
+{
+  "word": "fathom",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English fathome, fadom, fadme (“unit of length of about six feet; depth of six feet for nautical soundings; (loosely) cubit; ell”) [and other forms], from Old English fæþm, fæþme (“encircling or outstretched arms, bosom, embrace; envelopment; control, grasp, power; fathom (unit of measurement); cubit”) [and other forms], from Proto-West Germanic *faþm (“outstretched arms, embrace; fathom (unit of measurement)”), from Proto-Germanic *faþmaz (“outstretched arms, embrace; fathom (unit of measurement)”), from Proto-Indo-European *pet-, *peth₂- (“to spread out; to fly”).",
+        "Sense 1 (“unit for water depth”) is derived from sense 3.1 (“act of stretching out one’s arms away from the sides of the torso”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fathom (plural fathoms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly nautical, historical) Originally, the distance between an adult man's arms stretched out away from the sides of his torso so that they make a straight line perpendicular to his body, measured from the tips of the longest fingers of each hand, generally reckoned to be six feet (about 1.8 metres); subsequently used as a unit for water depth but now generally replaced by the metre.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(figuratively)",
+              "entries": [
+                {
+                  "meaning": "(chiefly in the plural) An unspecified depth.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(archaic or obsolete) Depth of insight; mental reach or scope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(obsolete)",
+              "entries": [
+                {
+                  "meaning": "The act of stretching out one's arms away from the sides of the torso so that they make a straight line perpendicular to the body.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Someone or something that is embraced.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figuratively) Control, grasp.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English fathmen, fadmen (“to encircle (something) with the arms, embrace; to feel, grope; to measure by the ell (or perhaps the fathom)”) [and other forms], from Old English fæðmian, from Proto-Germanic *faþmōjan, from *faþm (“outstretched arms, embrace; fathom (unit of measurement)”): see further at etymology 1."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fathom (third-person singular simple present fathoms, present participle fathoming, simple past and past participle fathomed)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "(also figuratively) To measure the depth of (water); to take a sounding of; to sound.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(archaic or obsolete) To encircle (someone or something) with outstretched arms; specifically, to measure the circumference or (rare) length of something.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figuratively) Often followed by out: to deeply understand (someone or something); to get to the bottom of.",
+                  "examples": [
+                    "Synonyms: figure out, puzzle out, work out",
+                    "Coordinate term: grok",
+                    "I can’t for the life of me fathom what this means."
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) To embrace (someone or something).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To measure a depth; to sound.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figuratively) To conduct an examination or inquiry; to investigate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
