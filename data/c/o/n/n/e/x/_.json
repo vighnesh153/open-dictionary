@@ -1,0 +1,69 @@
+{
+  "word": "connex",
+  "etymologies": [
+    {
+      "description": [
+        "Latin connexus, p.p. See connect."
+      ],
+      "adjectives": [
+        {
+          "description": "connex (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) Such that, for all x and y in X, and for a binary relation R, either or both of xRy and yRx hold(s).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "connex (plural connexes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A correspondence between a projective space and its dual.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "connex (third-person singular simple present connexes, present participle connexing, simple past and past participle connexed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To connect; to fasten together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To connect; to become joined or united.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
