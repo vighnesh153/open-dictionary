@@ -1,0 +1,174 @@
+{
+  "word": "cancel",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English cancellen, from Anglo-Norman canceler (“to cross out with lines”) (modern French chanceler (“unsteady move”)), from Latin cancellō (“to make resemble a lattice”), from cancellus (“a railing or lattice”), diminutive of cancer (“a lattice”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "cancel (plural cancels)",
+          "definitionGroups": [
+            {
+              "group": "A cancellation (US); (nonstandard in some kinds of English).",
+              "entries": [
+                {
+                  "meaning": "A control message posted to Usenet that serves to cancel a previously posted message.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) An enclosure; a boundary; a limit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) The suppression on striking out of matter in type, or of a printed page or pages.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) The page thus suppressed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) The page that replaces it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "cancel (third-person singular simple present cancels, present participle cancelling or (US) canceling, simple past and past participle cancelled or (US) canceled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cross out something with lines etc.",
+                  "examples": [
+                    "A deed may be avoided by delivering it up to be cancelled; that is, to have lines drawn over it in the form of latticework or cancelli; the phrase is now used figuratively for any manner of obliterating or defacing it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To invalidate or annul something.",
+                  "examples": [
+                    "He cancelled his order on their website."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To mark something (such as a used postage stamp) so that it can't be reused.",
+                  "examples": [
+                    "This machine cancels the letters that have a valid zip code."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To offset or equalize something.",
+                  "examples": [
+                    "The corrective feedback mechanism cancels out the noise."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To remove a common factor from both the numerator and denominator of a fraction, or from both sides of an equation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, media) To stop production of a programme.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing, dated) To suppress or omit; to strike out, as matter in type.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To shut out, as with a railing or with latticework; to exclude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) To kill.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, neologism) To cease to provide financial or moral support to (someone deemed unacceptable). Compare cancel culture.",
+                  "examples": [
+                    "Bill Gates is canceled. Gwen Stefani and Erykah Badu are canceled. Despite his relatively strong play in the World Cup, Cristiano Ronaldo has been canceled. Taylor Swift is canceled and Common is canceled and, Wednesday, Antoni Porowski, a “Queer Eye” fan favorite was also canceled. Needless to say, Kanye West is canceled, too."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
