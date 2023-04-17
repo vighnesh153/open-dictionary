@@ -1,0 +1,81 @@
+{
+  "word": "confluent",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French [Term?]."
+      ],
+      "adjectives": [
+        {
+          "description": "confluent (comparative more confluent, superlative most confluent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of two or more objects or shapes) Converging, merging or flowing together into one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology, of wind) Converging, especially as viewed on a weather chart.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Describing cells in a culture that merge to form a mass.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, of a triangle) Exactly the same size as another triangle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Given a binary operation \n  \n    \n      \n        \n          →\n          \n            β\n          \n        \n      \n    \n    {\\displaystyle \\rightarrow _{\\beta }}\n  \n on a set A, and its reflexive, transitive closure \n  \n    \n      \n        \n          ↠\n          \n            β\n          \n        \n      \n    \n    {\\displaystyle \\twoheadrightarrow _{\\beta }}\n  \n , then, for all a1, a2, and a3 in A, if a1 \n  \n    \n      \n        \n          →\n          \n            β\n          \n        \n      \n    \n    {\\displaystyle \\rightarrow _{\\beta }}\n  \n a2 and a1 \n  \n    \n      \n        \n          →\n          \n            β\n          \n        \n      \n    \n    {\\displaystyle \\rightarrow _{\\beta }}\n  \n a3, then there must exist an a4 in A such that a2 \n  \n    \n      \n        \n          ↠\n          \n            β\n          \n        \n      \n    \n    {\\displaystyle \\twoheadrightarrow _{\\beta }}\n  \n a4 and a3 \n  \n    \n      \n        \n          ↠\n          \n            β\n          \n        \n      \n    \n    {\\displaystyle \\twoheadrightarrow _{\\beta }}\n  \n a4.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "confluent (plural confluents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A stream uniting and flowing with another; a confluent stream.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

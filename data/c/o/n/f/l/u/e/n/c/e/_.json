@@ -1,0 +1,70 @@
+{
+  "word": "confluence",
+  "etymologies": [
+    {
+      "description": [
+        "Late Middle English, borrowing from Late Latin cōnfluentia (“a flowing together, conflux”), from cōnfluēns (present participle of cōnfluō (“to flow or run together”)) +‎ -ia (nominal suffix)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "confluence (plural confluences)",
+          "definitionGroups": [
+            {
+              "group": "The act of combining that occurs where two rivers meet.",
+              "entries": [
+                {
+                  "meaning": "The place where two rivers, streams, or other continuously flowing bodies of water meet and become one, especially where a tributary joins a river.",
+                  "examples": [
+                    "We encountered an abandoned boat at the confluence of the Mississippi and Ohio Rivers.",
+                    "Synonym: watersmeet",
+                    "Antonyms: fork, branch"
+                  ]
+                },
+                {
+                  "meaning": "The stream or body formed by the junction of two or more streams; a combined flood.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A convergence or combination of forces, people, or things.",
+                  "examples": [
+                    "The confluence of our skills resulted in a successful home renovation project.",
+                    "The political turmoil was the result of a confluence of factors, and the corollary of years of misrule, as evidenced by a low home ownership rate incommensurate with the economic growth.",
+                    "Synonym: coinfluence",
+                    "Hyponym: confluence of sinuses"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The proportion of cells, in a culture medium, that adhere to each other.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science, in rewriting systems) A property describing which terms can be rewritten with other, equivalent terms.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
