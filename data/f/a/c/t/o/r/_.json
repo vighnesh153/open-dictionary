@@ -1,0 +1,150 @@
+{
+  "word": "factor",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French facteur, from Latin factor (“a doer, maker, performer”), from factus (“done or made”), perfect passive participle of faciō (“do, make”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "factor (plural factors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A doer, maker; a person who does things for another person or organization.",
+                  "examples": [
+                    "The factor of the trading post bought the furs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An agent or representative.",
+                  "examples": [
+                    "Motor factors — Good factors will stock all of the more important components which wear out relatively quickly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(law)",
+              "entries": [
+                {
+                  "meaning": "A commission agent.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A person or business organization that provides money for another's new business venture; one who finances another's business.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A business organization that lends money on accounts receivable or buys and collects accounts receivable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of the elements, circumstances, or influences which contribute to produce a result.",
+                  "examples": [
+                    "The greatest factor in the decision was the need for public transportation.",
+                    "The economy was a factor in this year's budget figures."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Any of various objects multiplied together to form some whole.",
+                  "examples": [
+                    "3 is a factor of 12, as are 2, 4 and 6.",
+                    "The factors of the Klein four-group are both cyclic of order 2."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(causal analysis) Influence; a phenomenon that affects the nature, the magnitude, and/or the timing of a consequence.",
+                  "examples": [
+                    "The launch temperature was a factor of the Challenger disaster."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(economics) A resource used in the production of goods or services, a factor of production.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland) A steward or bailiff of an estate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "factor (third-person singular simple present factors, present participle factoring, simple past and past participle factored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To find all the factors of (a number or other mathematical object) (the objects that divide it evenly).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a number or other mathematical object, intransitive) To be a product of other objects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(commercial, transitive) To sell a debt or debts to an agent (the factor) to collect.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
