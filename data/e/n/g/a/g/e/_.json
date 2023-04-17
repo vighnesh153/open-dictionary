@@ -1,0 +1,111 @@
+{
+  "word": "engage",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English engagen, from Old French engagier (“to pledge, engage”), from Frankish *anwadjōn (“to pledge”), from Proto-Germanic *an-, *andi- + Proto-Germanic *wadjōną (“to pledge, secure”), from Proto-Germanic *wadją (“pledge, guarantee”), from Proto-Indo-European *wedʰ- (“to pledge, redeem a pledge; guarantee, bail”), equivalent to en- +‎ gage. Cognate with Old English anwedd (“pledge, security”), Old English weddian (“to engage, covenant, undertake”), German wetten (“to bet, wager”), Icelandic veðja (“to wager”). More at wed."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "engage (third-person singular simple present engages, present participle engaging, simple past and past participle engaged)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To interact socially.",
+              "entries": [
+                {
+                  "meaning": "To engross or hold the attention of; to keep busy or occupied.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To draw into conversation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To attract, to please; (archaic) to fascinate or win over (someone).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To interact antagonistically.",
+              "entries": [
+                {
+                  "meaning": "(transitive) To enter into conflict with (an enemy).",
+                  "examples": [
+                    "a favourable opportunity of engaging the enemy"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To enter into battle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To interact contractually.",
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange to employ or use (a worker, a space, etc.).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive) To guarantee or promise (to do something).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To bind through legal or moral obligation (to do something, especially to marry) (usually in passive).",
+                  "examples": [
+                    "They were engaged last month! They're planning to have the wedding next year."
+                  ]
+                },
+                {
+                  "meaning": "(obsolete, transitive) To pledge, pawn (one's property); to put (something) at risk or on the line; to mortgage (houses, land).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To interact mechanically.",
+              "entries": [
+                {
+                  "meaning": "To mesh or interlock (of machinery, especially a clutch).",
+                  "examples": [
+                    "Whenever I engage the clutch, the car stalls out."
+                  ]
+                },
+                {
+                  "meaning": "(engineering, transitive) To come into gear with.",
+                  "examples": [
+                    "The teeth of one cogwheel engage those of another."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To enter into (an activity), to participate (construed with in).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To entangle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
