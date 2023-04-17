@@ -1,0 +1,47 @@
+{
+  "word": "environmental",
+  "etymologies": [
+    {
+      "description": [
+        "environment +‎ -al"
+      ],
+      "adjectives": [
+        {
+          "description": "environmental (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to the environment.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "environmental (plural environmentals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Any factor relating to the physical environment in which hardware is operated, such as the room temperature or the number of racks used to hold equipment.",
+                  "examples": [
+                    "The process to enable migration from the vendor-supplied configuration to a new architecture depends on many system environmentals."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
