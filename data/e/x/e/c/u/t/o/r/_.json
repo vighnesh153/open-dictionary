@@ -1,0 +1,61 @@
+{
+  "word": "executor",
+  "etymologies": [
+    {
+      "description": [
+        "From Anglo-Norman executour, from Latin execūtor, agent noun of exequor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "executor (plural executors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who carries out some task.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A component of a system that executes or runs something.",
+                  "examples": [
+                    "When searching for a solution is unnecessary, then the program executor \"doesn't care\" which solution is generated nor how it is obtained."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) Someone appointed by a testator to administer a will; an administrator.",
+                  "examples": [
+                    "literary executor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) An executioner.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "executive",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French executif, from Latin executivus."
+      ],
+      "adjectives": [
+        {
+          "description": "executive (comparative more executive, superlative most executive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Designed or fitted for execution, or carrying into effect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of, pertaining to, or having responsibility for the day-to-day running of an organisation, business, country, etc.",
+                  "examples": [
+                    "executive act",
+                    "an executive officer",
+                    "executive government"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Exclusive.",
+                  "examples": [
+                    "an executive bathroom"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "executive (plural executives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A chief officer or administrator, especially one who can make significant decisions on their own authority.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The branch of government that is responsible for enforcing laws and judicial decisions, and for the day-to-day administration of the state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A process that coordinates and governs the action of other processes or threads; supervisor.",
+                  "examples": [
+                    "The second phase of the executive development proceeded through two steps as stated in Section 2. First, a failsoft executive was developed providing automatic failure detection and recovery  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
