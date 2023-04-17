@@ -1,0 +1,32 @@
+{
+  "word": "codomain",
+  "etymologies": [
+    {
+      "description": [
+        "co- +‎ domain"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "codomain (plural codomains)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, mathematical analysis) The target set into which a function is formally defined to map elements of its domain; the set denoted Y in the notation f : X → Y.",
+                  "examples": [
+                    "Definition 2.5. A function is onto if each element of the codomain has at least one element of the domain assigned to it. In other words, a function is onto if the range equals the codomain."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
