@@ -1,0 +1,57 @@
+{
+  "word": "demigrate",
+  "etymologies": [
+    {
+      "description": [
+        "Latin dēmīgrō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "demigrate (third-person singular simple present demigrates, present participle demigrating, simple past and past participle demigrated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To emigrate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "de- +‎ migrate"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "demigrate (third-person singular simple present demigrates, present participle demigrating, simple past and past participle demigrated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cancel or return from migration (of e.g. a computer system).",
+                  "examples": [
+                    "The reason is that it is more cost effective to debug and troubleshoot the new environment than to demigrate and lose all the data transactions completed under the new technology."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
