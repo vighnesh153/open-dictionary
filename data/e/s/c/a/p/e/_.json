@@ -1,0 +1,198 @@
+{
+  "word": "escape",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English escapen, from Anglo-Norman and Old Northern French escaper ( = Old French eschaper, modern French échapper), from Vulgar Latin *excappāre, literally \"get out of one's cape, leave a pursuer with just one's cape,\" from Latin ex- (“out”) + Late Latin cappa (“cape, cloak”). Cognate with escapade."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "escape (plural escapes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of leaving a dangerous or unpleasant situation.",
+                  "examples": [
+                    "The prisoners made their escape by digging a tunnel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Leakage or outflow, as of steam or a liquid, or an electric current through defective insulation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that has escaped; an escapee.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A holiday, viewed as time away from the vicissitudes of life.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) escape key",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The text character represented by 27 (decimal) or 1B (hexadecimal).",
+                  "examples": [
+                    "You forgot to insert an escape in the datastream."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(snooker) A successful shot from a snooker position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(manufacturing) A defective product that is allowed to leave a manufacturing facility.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That which escapes attention or restraint; a mistake, oversight, or transgression.",
+                  "examples": [
+                    "I should have been more accurate, corrected all those former escapes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A sally.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) An apophyge.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "escape (third-person singular simple present escapes, present participle escaping, simple past and past participle escaped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To get free; to free oneself.",
+                  "examples": [
+                    "The prisoners escaped by jumping over a wall.",
+                    "The factory was evacuated after toxic gases escaped from a pipe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To avoid (any unpleasant person or thing); to elude, get away from.",
+                  "examples": [
+                    "He only got a fine and so escaped going to jail.",
+                    "The children climbed out of the window to escape the fire."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To avoid capture; to get away with something, avoid punishment.",
+                  "examples": [
+                    "Luckily, I escaped with only a fine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To elude the observation or notice of; to not be seen or remembered by.",
+                  "examples": [
+                    "The name of the hotel escapes me at present."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To cause (a single character, or all such characters in a string) to be interpreted literally, instead of with any special meaning it would usually have in the same context, often by prefixing with another character.",
+                  "examples": [
+                    "If the data for a URI component would conflict with the reserved purpose, then the conflicting data must be escaped before forming the URI."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To halt a program or command by pressing a key (such as the \"Esc\" key) or combination of keys.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
