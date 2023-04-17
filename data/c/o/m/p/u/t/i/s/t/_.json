@@ -1,0 +1,41 @@
+{
+  "word": "computist",
+  "etymologies": [
+    {
+      "description": [
+        "compute +‎ -ist"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "computist (plural computists)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who performs computations.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who performs computus (calculation of the date of Easter).",
+                  "examples": [
+                    "Despite the high acclaim and wide acceptance of Bede's work, centuries later, medieval computists were still working on the same problem. Given the (relatively) confined scope of the mathematics involved, how did computus manage to remain such a core intellectual pursuit? In part, computists refined the basic model Bede had popularised. The introduction of a golden number in circa 1150 enabled computists to reference a given year's position in the 19-year cycle. It was calculated as (year number, divided modulo 19) + 1. By this reckoning, 2013/ 19, remainder 18; 18+1 = 19. Thus, 2013 is the 19th year in the 19-year cycle."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
