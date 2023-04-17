@@ -1,0 +1,91 @@
+{
+  "word": "diagonal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French diagonal, from Latin diagōnālis, from Ancient Greek διαγώνιος (diagṓnios, “from angle to angle”), from διά (diá, “across”) + γωνία (gōnía, “angle”)."
+      ],
+      "adjectives": [
+        {
+          "description": "diagonal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Joining two nonadjacent vertices (of a polygon or polyhedron).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having slanted or oblique lines or markings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having a slanted or oblique direction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or related to the cater-corner (diagonally opposite) legs of a quadruped, whether the front left and back right or front right and back left.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "diagonal (plural diagonals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A line joining non-adjacent vertices of a polygon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Anything forming or resembling such a line, particularly:",
+              "entries": [
+                {
+                  "meaning": "(geometry) A line or plane at an oblique angle to another.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(fashion) A line or cut across a fabric at an oblique angle to its sides.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(typography, uncommon) Synonym of slash ⟨/⟩.",
+                  "examples": [
+                    "Initial inquiries among professional typists uncover names like slant, slant line, slash, and slash mark. Examination of typing instruction manuals discloses additional names such as diagonal and diagonal mark, and other sources provide the designation oblique."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
