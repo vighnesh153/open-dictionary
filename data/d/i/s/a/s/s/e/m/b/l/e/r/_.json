@@ -1,0 +1,30 @@
+{
+  "word": "disassembler",
+  "etymologies": [
+    {
+      "description": [
+        "disassemble +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "disassembler (plural disassemblers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A computer program that examines another computer program and attempts to generate assembly language source code that would, in theory, reproduce the target program.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
