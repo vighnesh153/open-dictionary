@@ -1,0 +1,76 @@
+{
+  "word": "corollary",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English, from Late Latin corōllārium (“money paid for a garland; gift, gratuity, corollary; consequence, deduction”), from corōlla (“small garland”), diminutive of corōna (“crown”)."
+      ],
+      "adjectives": [
+        {
+          "description": "corollary (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Occurring as a natural consequence or result; attendant; consequential.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) Forming a proposition that follows from one already proved.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "corollary (plural corollaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A gift beyond what is actually due; an addition or superfluity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An a fortiori occurrence, as a result of another effort without significant additional effort.",
+                  "examples": [
+                    "Finally getting that cracked window fixed was a nice corollary of redoing the whole storefront."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, logic) A proposition which follows easily from the proof of another proposition.",
+                  "examples": [
+                    "We have proven that this set is finite and well ordered; as a corollary, we now know that there is an order-preserving map from it to the natural numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
