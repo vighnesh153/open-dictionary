@@ -1,0 +1,92 @@
+{
+  "word": "directive",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French directif. The noun senses are from French directive (feminine form of the adjective)."
+      ],
+      "adjectives": [
+        {
+          "description": "directive (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which directs; serving to direct, indicate, or guide.",
+                  "examples": [
+                    "A directive management style is stronger among owners with 'lifestyle' as a business objective than among those with business/economic objectives."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Relating to the directive case.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "directive (plural directives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instruction or guideline that indicates how to perform an action or reach a goal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A construct in source code that indicates how it should be processed but is not necessarily part of the program to be run.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An authoritative decision from an official body, which may or may not have binding force.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(European Union law) A form of legislative act addressed to the member states. The directive binds the member state to reach certain objectives in their national legislation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) The directive case.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
