@@ -1,0 +1,41 @@
+{
+  "word": "collineation",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin collineare to direct in a straight line. See collimation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "collineation (countable and uncountable, plural collineations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of collineating; collimation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) An isomorphism from one projective space to another, often to itself.",
+                  "examples": [
+                    "Hyponym: central collineation"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
