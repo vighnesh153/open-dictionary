@@ -1,0 +1,92 @@
+{
+  "word": "conductor",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French conductour, from Old French conduitor, from Latin conductor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "conductor (plural conductors, feminine conductress or conductrix)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who conducts or leads; a guide; a director.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A person who conducts an orchestra, choir or other music ensemble; a professional whose occupation is conducting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) A person who takes tickets on public transportation and also helps passengers.",
+                  "examples": [
+                    "train conductor",
+                    "tram conductor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Something that can transmit electricity, heat, light, or sound.",
+                  "examples": [
+                    "Coordinate term: semiconductor",
+                    "Antonyms: dielectric, nonconductor, insulator"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An ideal of a ring that measures how far it is from being integrally closed",
+                  "examples": [
+                    "If c is the conductor ideal for R in R then prime ideals not containing c correspond to localizations yielding discrete valuation rings."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A grooved sound or staff used for directing instruments, such as lithontriptic forceps; a director.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A leader.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
