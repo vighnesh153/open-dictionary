@@ -1,0 +1,32 @@
+{
+  "word": "eigenvalue",
+  "etymologies": [
+    {
+      "description": [
+        "eigen- +‎ value, a partial calque of German Eigenwert."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eigenvalue (plural eigenvalues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) A scalar, \n  \n    \n      \n        λ\n      \n    \n    {\\displaystyle \\lambda }\n  \n, such that there exists a non-zero vector \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n (a corresponding eigenvector) for which the image of \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n under a given linear operator \n  \n    \n      \n        \n          A\n        \n      \n    \n    {\\displaystyle \\mathrm {A} }\n  \n is equal to the image of \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n under multiplication by \n  \n    \n      \n        λ\n      \n    \n    {\\displaystyle \\lambda }\n  \n; i.e. \n  \n    \n      \n        \n          A\n        \n        x\n        =\n        λ\n        x\n      \n    \n    {\\displaystyle \\mathrm {A} x=\\lambda x}\n  \n.",
+                  "examples": [
+                    "The eigenvalues \n  \n    \n      \n        λ\n      \n    \n    {\\displaystyle \\lambda }\n  \n of a square transformation matrix \n  \n    \n      \n        \n          M\n        \n      \n    \n    {\\displaystyle \\mathrm {M} }\n  \n may be found by solving \n  \n    \n      \n        det\n        (\n        \n          M\n        \n        −\n        λ\n        \n          I\n        \n        )\n        =\n        0\n      \n    \n    {\\displaystyle \\det(\\mathrm {M} -\\lambda \\mathrm {I} )=0}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

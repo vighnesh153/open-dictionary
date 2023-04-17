@@ -1,0 +1,39 @@
+{
+  "word": "eigenvector",
+  "etymologies": [
+    {
+      "description": [
+        "eigen- +‎ vector, a partial calque of German Eigenvektor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eigenvector (plural eigenvectors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) given a linear transformation \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n, a vector \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n such that \n  \n    \n      \n        A\n        x\n        =\n        λ\n        x\n      \n    \n    {\\displaystyle Ax=\\lambda x}\n  \n for some scalar \n  \n    \n      \n        λ\n      \n    \n    {\\displaystyle \\lambda }",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) specifically, given a matrix A, the eigenvector of the transformation \"left-side multiplication by A\"",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

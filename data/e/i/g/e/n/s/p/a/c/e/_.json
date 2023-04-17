@@ -1,0 +1,30 @@
+{
+  "word": "eigenspace",
+  "etymologies": [
+    {
+      "description": [
+        "eigen- +‎ space"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eigenspace (plural eigenspaces)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) The linear subspace consisting of all eigenvectors associated with a particular eigenvalue, together with the zero vector.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "eigenfunction",
+  "etymologies": [
+    {
+      "description": [
+        "eigen- +‎ function"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "eigenfunction (plural eigenfunctions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function \n  \n    \n      \n        ϕ\n      \n    \n    {\\displaystyle \\phi }\n  \n such that, for a given linear operator \n  \n    \n      \n        D\n      \n    \n    {\\displaystyle D}\n  \n, \n  \n    \n      \n        D\n        ϕ\n        =\n        λ\n        ϕ\n      \n    \n    {\\displaystyle D\\phi =\\lambda \\phi }\n  \n for some scalar \n  \n    \n      \n        λ\n      \n    \n    {\\displaystyle \\lambda }\n  \n (called an eigenvalue).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
