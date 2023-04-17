@@ -1,0 +1,67 @@
+{
+  "word": "discriminate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin discriminatus, past participle of discriminare (“to divide, separate, distinguish”), from discrimen (“a space between, division, separation, distinction”), from discerno (“to divide, separate, distinguish, discern”); see discern, discreet, discrete. Compare crime."
+      ],
+      "adjectives": [
+        {
+          "description": "discriminate (comparative more discriminate, superlative most discriminate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having the difference marked; distinguished by certain tokens.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "discriminate (third-person singular simple present discriminates, present participle discriminating, simple past and past participle discriminated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make distinctions.",
+                  "examples": [
+                    "Since he was color blind he was unable to discriminate between the blue and green bottles."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "To treat or affect differently, depending on differences in traits.",
+              "entries": [
+                {
+                  "meaning": "(intransitive, construed with against) To make decisions based on prejudice.",
+                  "examples": [
+                    "The law prohibits discriminating against people based on their skin color."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set apart as being different; to mark as different; to separate from another by discerning differences; to distinguish.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

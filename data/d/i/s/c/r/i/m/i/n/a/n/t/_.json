@@ -1,0 +1,52 @@
+{
+  "word": "discriminant",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "discriminant (comparative more discriminant, superlative most discriminant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Serving to discriminate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "discriminant (plural discriminants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) An expression that gives information about the roots of a polynomial; for example, the expression D = b2 - 4ac determines whether the roots of the quadratic equation ax2 + bx + c = 0 are real and distinct (D > 0), real and equal (D = 0) or complex (D < 0).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The invariant (on the vector space of forms of degree d in n variables) that vanishes exactly when the corresponding hypersurface in Pn-1 is singular.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
