@@ -1,0 +1,109 @@
+{
+  "word": "dwell",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English dwellen (“delay, live, remain, persist”), from Old English dwellan (“to mislead, deceive; be led into error, stray”), from Proto-Germanic *dwaljaną (“to hold up, delay; hesitate”), from Proto-Indo-European *dʰwelH- (“to whirl, swirl, blur, obfuscate”), which is cognate with Old Norse dvelja and related to Proto-Germanic *dwelaną (“to go astray”), which underwent semantic change in its descendants. Cognates include Danish dvæle (“to linger, dwell”) and Swedish dväljas (“to dwell, reside”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dwell (plural dwells)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) A period of time in which a system or component remains in a given state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) A brief pause in the motion of part of a mechanism to allow an operation to be completed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical engineering) A planned delay in a timed control program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(automotive) In a petrol engine, the period of time the ignition points are closed to let current flow through the ignition coil in between each spark. This is measured as an angle in degrees around the camshaft in the distributor which controls the points, for example in a 4-cylinder engine it might be 55° (spark at 90° intervals, points closed for 55° between each).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "dwell (third-person singular simple present dwells, present participle dwelling, simple past and past participle dwelt or (mostly US) dwelled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, now literary) To live; to reside.",
+                  "examples": [
+                    "I am fully resolved to go dwell in another house."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive with on) To linger on a particular thought, idea, etc.; to remain fixated on something.",
+                  "examples": [
+                    "So it came about that long ere Ailie reached home it was on young Heriotside that her mind dwelled, and it was the love of him that made her eyes glow and her cheeks redden."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, engineering) To be in a given state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To abide; to remain; to continue.",
+                  "examples": [
+                    "Thy soul was like a star and dwelt apart."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
