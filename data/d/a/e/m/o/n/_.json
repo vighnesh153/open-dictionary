@@ -1,0 +1,64 @@
+{
+  "word": "daemon",
+  "etymologies": [
+    {
+      "description": [
+        "A borrowing of Latin daemōn (“tutelary deity”), from Ancient Greek δαίμων (daímōn, “dispenser, tutelary deity”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "daemon (plural daemons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An idea depicted as an entity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncommon) Alternative form of demon.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Maxwell's demon; a derivation from “disk and execution monitor” is generally considered a backronym."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "daemon (plural daemons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Unix) A process (a running program) that does not have a controlling terminal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
