@@ -1,0 +1,61 @@
+{
+  "word": "dilemma",
+  "etymologies": [
+    {
+      "description": [
+        "First attested 1523, from Late Latin dilemma, from Ancient Greek δίλημμα (dílēmma, “ambiguous proposition”), from δι- (di-, “having two of”) + λῆμμα (lêmma, “premise, proposition”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "dilemma (plural dilemmas or dilemmata)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A circumstance in which a choice must be made between two or more alternatives that seem equally undesirable.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:dilemma"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A difficult circumstance or problem.",
+                  "examples": [
+                    "Synonyms: bind, fix, pickle, problem, quandary"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A type of syllogism of the form \"if A is true then B is true; if C is true then D is true; either A or C is true; therefore either B or D is true\".",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) Offering to an opponent a choice between two (equally unfavorable) alternatives.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
