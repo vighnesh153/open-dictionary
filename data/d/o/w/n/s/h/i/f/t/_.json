@@ -1,0 +1,104 @@
+{
+  "word": "downshift",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is derived from down (preposition) +‎ shift (“slight change or movement”). The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "downshift (plural downshifts) (chiefly Canada, US)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A change of direction or a movement downwards.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reduction in quality or quantity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A change in career or lifestyle to one which is not as well paid but less stressful and more personally rewarding.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(automotive, cycling) A shift of a transmission into a lower gear.",
+                  "examples": [
+                    "Hyponym: kickdown"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "downshift (third-person singular simple present downshifts, present participle downshifting, simple past and past participle downshifted) (chiefly Canada, US)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To reduce (something) in quality or quantity (as effect, scope, speed, etc.)",
+                  "examples": [
+                    "Synonym: attenuate"
+                  ]
+                },
+                {
+                  "meaning": "To change (one's career or lifestyle) to one which is not as well paid but less stressful and more personally rewarding.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(automotive, cycling) To shift (a car or bicycle) into a lower gear.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To function at a lower rate; to slacken.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To change one's career or lifestyle to one which is not as well paid but less stressful and more personally rewarding.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(automotive, cycling) To shift a transmission into a lower gear.",
+                  "examples": [
+                    "Antonym: upshift",
+                    "In a stick-shift vehicle, the driver must downshift when necessary; in an automatic, the transmission downshifts as needed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
