@@ -1,0 +1,105 @@
+{
+  "word": "distributive",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French distributif."
+      ],
+      "adjectives": [
+        {
+          "description": "distributive (comparative more distributive, superlative most distributive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to distribution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Tending to distribute; serving to divide and assign in portions; dealing a proper share to each.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A property of functions that have a rule describing how the function can be performed to the individual components of another operation.",
+                  "examples": [
+                    "If function f is distributive with respect to function g, then \n  \n    \n      \n        f\n        (\n        a\n        ,\n        g\n        (\n        b\n        ,\n        c\n        )\n        )\n        =\n        g\n        (\n        f\n        (\n        a\n        ,\n        b\n        )\n        ,\n        f\n        (\n        a\n        ,\n        c\n        )\n        )\n      \n    \n    {\\displaystyle f(a,g(b,c))=g(f(a,b),f(a,c))}\n  \n.",
+                    "If the operation \n  \n    \n      \n        ⋆\n      \n    \n    {\\displaystyle \\star }\n  \n is distributive with respect to the operation \n  \n    \n      \n        ∘\n      \n    \n    {\\displaystyle \\circ }\n  \n, then \n  \n    \n      \n        a\n        ⋆\n        (\n        b\n        ∘\n        c\n        )\n        =\n        (\n        a\n        ⋆\n        b\n        )\n        ∘\n        (\n        a\n        ⋆\n        c\n        )\n      \n    \n    {\\displaystyle a\\star (b\\circ c)=(a\\star b)\\circ (a\\star c)}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Assigning the species of a general term.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Expressing separation; denoting a taking singly, not collectively.",
+                  "examples": [
+                    "a distributive adjective or pronoun, such as \"each\", \"either\", or \"every\"",
+                    "a distributive numeral, such as Latin \"bini\" (two by two)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "distributive (plural distributives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) distributive case",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A distributive adjective or pronoun.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A distributive numeral.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
