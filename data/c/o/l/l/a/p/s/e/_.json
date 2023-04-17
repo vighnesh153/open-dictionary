@@ -1,0 +1,118 @@
+{
+  "word": "collapse",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin collāpsus (past participle of collābor)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "collapse (countable and uncountable, plural collapses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of collapsing.",
+                  "examples": [
+                    "She suffered a terrible collapse after slipping on the wet floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Constant function, one-valued function (in automata theory) (in particular application causing a reset).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "collapse (third-person singular simple present collapses, present participle collapsing, simple past and past participle collapsed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To break apart and fall down suddenly; to cave in.",
+                  "examples": [
+                    "A balloon collapses when the gas escapes from it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To cease to function due to a sudden breakdown; to fail suddenly and completely.",
+                  "examples": [
+                    "Pyramid schemes tend to generate profits for a while and then collapse."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To fold compactly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To hide additional directory (folder) levels below the selected directory (folder) levels. When a folder contains no additional folders, a minus sign (-) appears next to the folder.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) For several batsmen to get out in quick succession",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause something to collapse.",
+                  "examples": [
+                    "Hurry up and collapse the tent so we can get moving."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To pass out and fall to the floor or ground, as from exhaustion or other illness; to faint.",
+                  "examples": [
+                    "The exhausted singer collapsed on stage and had to be taken to the hospital."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
