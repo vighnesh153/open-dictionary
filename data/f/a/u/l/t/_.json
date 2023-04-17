@@ -1,0 +1,185 @@
+{
+  "word": "fault",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English faute, faulte, from Anglo-Norman faute, Old French faute, from Vulgar Latin *fallita (“shortcoming”), feminine of *fallitus, in place of Latin falsus, perfect passive participle of fallō (“deceive”). Displaced native Middle English schuld, schuild (“fault”) (from Old English scyld (“fault”)), Middle English lac (“fault, lack”) (from Middle Dutch lak (“lack, fault”)), Middle English last (“fault, vice”) (from Old Norse lǫstr (“fault, vice, crime”)). Compare French faute (“fault, foul”), Portuguese falta (“lack, shortage”) and Spanish falta (“lack, absence”). More at fail, false."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fault (plural faults)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A defect; something that detracts from perfection.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mistake or error.",
+                  "examples": [
+                    "No! This is my fault, not yours."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A weakness of character; a failing.",
+                  "examples": [
+                    "Despite for all her faults, she’s a good person at heart."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A characteristic, positive or negative or both, which subjects a person or thing to increased risk of danger.",
+                  "examples": [
+                    "You're still young, that's your fault."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A minor offense.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Blame; the responsibility for a mistake.",
+                  "examples": [
+                    "The fault lies with you."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(seismology) A fracture in a rock formation causing a discontinuity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) In coal seams, coal rendered worthless by impurities in the seam.",
+                  "examples": [
+                    "slate fault  dirt fault"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(tennis) An illegal serve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical) An abnormal connection in a circuit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) want; lack",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hunting) A lost scent; act of losing the scent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fault (third-person singular simple present faults, present participle faulting, simple past and past participle faulted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To criticize, blame or find fault with something or someone.",
+                  "examples": [
+                    "For that, says he, I ne'er will fault thee / But for humbleness exalt thee."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, geology) To fracture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To commit a mistake or error.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To undergo a page fault.",
+                  "examples": [
+                    "When a page is read in, a few pages surrounding the faulted page are typically loaded as well in the same I/O operation in an effort to head off future page faults."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
