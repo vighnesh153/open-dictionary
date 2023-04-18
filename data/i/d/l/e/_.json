@@ -1,0 +1,185 @@
+{
+  "word": "idle",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English idel, ydel, from Old English īdel, from Proto-West Germanic *īdal, from Proto-Germanic *īdalaz. Cognate with Dutch ijdel (“vain, meaningless”), German Low German iedel (“vain, idle”), German eitel (“vain, conceited”), and possibly Old Norse illr (\"bad\"; > English ill)."
+      ],
+      "adjectives": [
+        {
+          "description": "idle (comparative more idle, superlative most idle)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Empty, vacant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not being used appropriately; not occupied; (of time) with no, no important, or not much activity.",
+                  "examples": [
+                    "idle hours",
+                    "My computer hibernates after it has been idle for 30 minutes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not engaged in any occupation or employment; unemployed; inactive; doing nothing in particular.",
+                  "examples": [
+                    "idle workmen"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Averse to work, labor or employment; lazy; slothful.",
+                  "examples": [
+                    "an idle fellow"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of no importance; useless; worthless; vain; trifling; thoughtless; silly.",
+                  "examples": [
+                    "an idle story;  idle talk;  idle rumor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Light-headed; foolish.",
+                  "examples": [
+                    "The youth is idle"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English idelen, from Old English īdlian, from Proto-West Germanic *īdalēn. Cognate with German eiteln (“to make empty, free up”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "idle (third-person singular simple present idles, present participle idling, simple past and past participle idled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To spend in idleness; to waste; to consume.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To lose or spend time doing nothing, or without being employed in business.",
+                  "examples": [
+                    "to idle in an IRC channel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Of an engine: to run at a slow speed, or out of gear; to tick over.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English idel, ydel, from Old English īdel (“idleness”), from teh adjective (see above)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "idle (plural idles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of idling, of being idle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanical engineering) The lowest selectable thrust or power setting of an engine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gaming) An idle animation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gaming) An idle game.",
+                  "examples": [
+                    "Synonyms: idle game, incremental game"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
