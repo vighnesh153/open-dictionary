@@ -1,0 +1,90 @@
+{
+  "word": "indirect",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French indirect, from Late Latin indirectus."
+      ],
+      "adjectives": [
+        {
+          "description": "indirect (comparative more indirect, superlative most indirect)",
+          "definitionGroups": [
+            {
+              "group": "Not direct",
+              "entries": [
+                {
+                  "meaning": "Not of obvious or immediate cause, but as a secondary result",
+                  "examples": [
+                    "The direct result of socialising every day in the bars may be happiness and meeting new people, but the indirect results could be addiction, or even poverty."
+                  ]
+                },
+                {
+                  "meaning": "Not focused straight at the target or subject, but by more subtle means",
+                  "examples": [
+                    "While not mentioning any of their competitors by name, the CEO made some indirect statements that they were acting immorally.",
+                    "Se asked him some indirect questions to ascertain whether he was single."
+                  ]
+                },
+                {
+                  "meaning": "Not involving the quickest, shortest, or most convenient path",
+                  "examples": [
+                    "In an effort to beat the traffic jams, they opted to take an indirect route to their destination."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "indirect (plural indirects)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) An indirect cost.",
+                  "examples": [
+                    "Gradually analytical thinking was taking a greater awareness of the importance it took for all the investigation system of the possible identification or traceability of fixed costs and, in general, of the indirects of other times."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An indirect radiator",
+                  "examples": [
+                    "Indirect radiators are seldom installed except for rooms on the first or second floors; and in the former case the duct, D, is very short, and in the latter it is usually from 12 to 16 feet long. It should be stated in this connection that indirects of large size should be spread out as much as possible so as to give a large area against the current of air."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "indirect (third-person singular simple present indirects, present participle indirecting, simple past and past participle indirected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To access by means of indirection; to dereference.",
+                  "examples": [
+                    "The X operations access the data fields by indirecting through the _rep pointer."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
