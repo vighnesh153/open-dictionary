@@ -1,0 +1,193 @@
+{
+  "word": "inverse",
+  "etymologies": [
+    {
+      "description": [
+        "Recorded since 1440, from Latin inversus, the past participle of invertere (“to invert”), itself from in- (“in, on”) + vertere (“to turn”)."
+      ],
+      "adjectives": [
+        {
+          "description": "inverse (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Opposite in effect, nature or order.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Reverse, opposite in order.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) Inverted; having a position or mode of attachment the reverse of that which is usual.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Having the properties of an inverse; said with reference to any two operations, which, when both are performed in succession upon any quantity, reproduce that quantity.",
+                  "examples": [
+                    "Multiplication is the inverse operation to division."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) That has the property of being an inverse (the result of a circle inversion of a given point or geometrical figure); that is constructed by circle inversion.",
+                  "examples": [
+                    "A circle inversion maps a given generalized circle to its inverse generalized circle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory, of a category) Whose every element has an inverse (morphism which is both a left inverse and a right inverse).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inverse (plural inverses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An inverted state: a state in which something has been turned (properly) upside down or (loosely) inside out or backwards.",
+                  "examples": [
+                    "Cowgirl is the inverse of missionary.",
+                    "321 is the inverse of 123."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "The result of an inversion, particularly:",
+              "entries": [
+                {
+                  "meaning": "The reverse of any procedure or process.",
+                  "examples": [
+                    "Uninstalling is the inverse of installation."
+                  ]
+                },
+                {
+                  "meaning": "(mathematics) A ratio etc. in which the antecedents and consequents are switched.",
+                  "examples": [
+                    "The inverse of a:b is b:a."
+                  ]
+                },
+                {
+                  "meaning": "(geometry) The result of a circle inversion; the set of all such points; the curve described by such a set.",
+                  "examples": [
+                    "The inverse P‘ of a point P is the point on a ray from the center O through P such that OP × OP‘ = r² or the set of all such points."
+                  ]
+                },
+                {
+                  "meaning": "(logic) The non-truth-preserving proposition constructed by negating both the premise and conclusion of an initially given proposition.",
+                  "examples": [
+                    "\"Anything that isn't a dog doesn't go to heaven\" is the inverse of \"All dogs go to heaven.\" More generally, \n  \n    \n      \n        ¬\n        \n          \n            p\n          \n        \n        →\n        ¬\n        \n          \n            q\n          \n        \n      \n    \n    {\\displaystyle \\lnot {\\mathsf {p}}\\to \\lnot {\\mathsf {q}}}\n  \n is the inverse of \n  \n    \n      \n        \n          \n            p\n          \n        \n        →\n        \n          \n            q\n          \n        \n      \n    \n    {\\displaystyle {\\mathsf {p}}\\to {\\mathsf {q}}}\n  \n and is equivalent to the converse proposition \n  \n    \n      \n        \n          \n            q\n          \n        \n        →\n        \n          \n            p\n          \n        \n      \n    \n    {\\displaystyle {\\mathsf {q}}\\to {\\mathsf {p}}}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(mathematics) A second element which negates a first; in a binary operation, the element for which the binary operation—when applied to both it and an initially given element—yields the operation's identity element, specifically:",
+              "entries": [
+                {
+                  "meaning": "(addition) The negative of a given number.",
+                  "examples": [
+                    "The additive inverse of \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n is \n  \n    \n      \n        −\n        x\n      \n    \n    {\\displaystyle -x}\n  \n, as \n  \n    \n      \n        x\n        −\n        x\n        =\n        0\n      \n    \n    {\\displaystyle x-x=0}\n  \n, as \n  \n    \n      \n        0\n      \n    \n    {\\displaystyle 0}\n  \n is the additive identity element."
+                  ]
+                },
+                {
+                  "meaning": "(multiplication) One divided by a given number.",
+                  "examples": [
+                    "The multiplicative inverse of \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n is \n  \n    \n      \n        \n          x\n          \n            −\n            1\n          \n        \n      \n    \n    {\\displaystyle x^{-1}}\n  \n, as \n  \n    \n      \n        x\n        ×\n        \n          x\n          \n            −\n            1\n          \n        \n        =\n        1\n      \n    \n    {\\displaystyle x\\times x^{-1}=1}\n  \n, as \n  \n    \n      \n        1\n      \n    \n    {\\displaystyle 1}\n  \n the multiplicative identity element."
+                  ]
+                },
+                {
+                  "meaning": "(functions) A second function which, when combined with the initially given function, yields as its output any term inputted into the first function.",
+                  "examples": [
+                    "The compositional inverse of a function \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n is \n  \n    \n      \n        \n          f\n          \n            −\n            1\n          \n        \n      \n    \n    {\\displaystyle f^{-1}}\n  \n, as \n  \n    \n      \n        f\n         \n        \n          f\n          \n            −\n            1\n          \n        \n        =\n        \n          \n            I\n          \n        \n      \n    \n    {\\displaystyle f\\ f^{-1}={\\mathit {I}}}\n  \n, as \n  \n    \n      \n        \n          \n            I\n          \n        \n      \n    \n    {\\displaystyle {\\mathit {I}}}\n  \n is the identity function. That is, \n  \n    \n      \n        ∀\n        x\n        ,\n        f\n        (\n        \n          f\n          \n            −\n            1\n          \n        \n        (\n        x\n        )\n        )\n        =\n        \n          \n            I\n          \n        \n        (\n        x\n        )\n        =\n        x\n      \n    \n    {\\displaystyle \\forall x,f(f^{-1}(x))={\\mathit {I}}(x)=x}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A morphism which is both a left inverse and a right inverse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) The winning of the coup in a game of rouge et noir by a card of a color different from that first dealt; the area of the table reserved for bets upon such an outcome.",
+                  "examples": [
+                    "If the player... be determined to try his luck on the inverse, he must place his money on a yellow circle, or rather a collection of circles, situated at the extremity of the table."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, Kiowa-Tanoan) A grammatical number marking that indicates the opposite grammatical number (or numbers) of the default number specification of noun class.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "inverse (third-person singular simple present inverses, present participle inversing, simple past and past participle inversed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) To compute the bearing and distance between two points.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
