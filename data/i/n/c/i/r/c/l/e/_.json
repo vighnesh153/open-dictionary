@@ -1,0 +1,47 @@
+{
+  "word": "incircle",
+  "etymologies": [
+    {
+      "description": [
+        "in- +‎ circle"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "incircle (plural incircles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A circle within a polygon, especially a triangle, that is tangent to each side.",
+                  "examples": [
+                    "To construct the incircle of ΔABC, we need the center of the circle and a pass-through point."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "incircle (third-person singular simple present incircles, present participle incircling, simple past and past participle incircled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Archaic form of encircle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
