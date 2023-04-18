@@ -1,0 +1,95 @@
+{
+  "word": "iterate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin iterō (“do it for a second time, repeat”), from iterum (“again”), akin to is (“he, that”)."
+      ],
+      "adjectives": [
+        {
+          "description": "iterate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Said or done again; repeated.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "iterate (plural iterates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) a function that iterates",
+                  "examples": [
+                    "f2(x0) is the second iterate of x0 under f."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "iterate (third-person singular simple present iterates, present participle iterating, simple past and past participle iterated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) to perform or repeat an action on each item in a set",
+                  "examples": [
+                    "The max() function iterates through the data to find the highest value."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, mathematics) to perform or repeat an action on the results of each such prior action",
+                  "examples": [
+                    "In mathematics, an iterated function is a function which is composed with itself, possibly ad infinitum, in a process called iteration."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To utter or do a second time or many times; to repeat.",
+                  "examples": [
+                    "to iterate advice"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(design, transitive, intransitive) To repeat an activity, making incremental changes each time",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

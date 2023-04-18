@@ -1,0 +1,61 @@
+{
+  "word": "iteration",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin iterātiō, from iterō.\nMorphologically iterate +‎ -ion"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "iteration (plural iterations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Recital or performance a second time; repetition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A variation or version.",
+                  "examples": [
+                    "The architect drafted several iterations of the floorplan before deciding on his final design."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The use of repetition in a computer program, especially in the form of a loop.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A single repetition of the code within such a repetitive process.",
+                  "examples": [
+                    "The code calculates the appropriate value at each iteration."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
