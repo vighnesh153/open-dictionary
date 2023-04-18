@@ -1,0 +1,109 @@
+{
+  "word": "flatten",
+  "etymologies": [
+    {
+      "description": [
+        "From flat +‎ -en."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "flatten (third-person singular simple present flattens, present participle flattening, simple past and past participle flattened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make something flat or flatter.",
+                  "examples": [
+                    "As there was a lot of damage, we chose the heavy roller to flatten the pitch.",
+                    "Mary would flatten the dough before rolling it into pretzels."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(reflexive) To press one's body tightly against a surface, such as a wall or floor, especially in order to avoid being seen or harmed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To knock down or lay low.",
+                  "examples": [
+                    "The prize fighter quickly flattened his challenger."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become flat or flatter; to plateau.",
+                  "examples": [
+                    "Prices have flattened out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be knocked down or laid low.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To lower by a semitone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make vapid or insipid; to render stale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To reduce (a data structure) to one that has fewer dimensions, e.g. a 2×2 array into a list of four elements.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics, transitive) To combine (separate layers) into a single image.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
