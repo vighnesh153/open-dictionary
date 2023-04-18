@@ -1,0 +1,100 @@
+{
+  "word": "grandfather",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is derived from Middle English grandfadre, graundfadir, graunfadir, grauntfader, and other forms, from graunt (“big, large; great, important”) + fā̆der (“male parent, father; remoter male ancestor”), probably modelled after Middle French grandpere, grant pere (“male parent; remoter male ancestor”) (whence French grand-père); the English word is analysable as grand- +‎ father. Superseded earlier eldfather, elderfather.",
+        "The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "grandfather (plural grandfathers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A father of someone's parent. [from 15th c.]",
+                  "examples": [
+                    "Synonyms: see Thesaurus:grandfather",
+                    "Antonyms: (with regard to gender) grandmother, (with regard to ancestry) grandson; see also Thesaurus:grandmother"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A male forefather.",
+                  "examples": [
+                    "Synonyms: (rare) highfather, grandsire"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The archived older version of a file that immediately preceded the father file.",
+                  "examples": [
+                    "File C is the grandfather because it was used to create file B."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "grandfather (third-person singular simple present grandfathers, present participle grandfathering, simple past and past participle grandfathered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To be, or act as, a grandfather to.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From grandfather clause: see grandfather (etymology 1) and clause."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "grandfather (third-person singular simple present grandfathers, present participle grandfathering, simple past and past participle grandfathered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chiefly US, law) To retain discontinued laws or rules for (a thing, person or organization previously affected by them). [from 1950s]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
