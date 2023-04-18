@@ -1,0 +1,71 @@
+{
+  "word": "generalization",
+  "etymologies": [
+    {
+      "description": [
+        "general +‎ -ization"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "generalization (countable and uncountable, plural generalizations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act or instance of generalizing; concluding that something true of a subclass is true of the entire class",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The formulation of general concepts from specific instances by abstracting common properties.",
+                  "examples": [
+                    "Synonyms: universalization; see also Thesaurus:generalization",
+                    "Antonyms: specialization; see also Thesaurus:specialization"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Inductive reasoning from detailed facts to general principles",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An oversimplified or exaggerated conception, opinion, or image of the members of a group.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A proof, axiom, problem, or definition that includes another's cases, and also some additional cases; a conclusion reached by inferring from specific cases to more general cases or principles.",
+                  "examples": [
+                    "A hypersphere is a generalization of a sphere across more than three dimensions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
