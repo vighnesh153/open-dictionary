@@ -1,0 +1,150 @@
+{
+  "word": "heap",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hepe, from Old English hēap, from Proto-West Germanic *haup, from Proto-Germanic *haupaz (compare Dutch hoop, German Low German Hupen, German Haufen), from Proto-Indo-European *koupos (“hill”) (compare Lithuanian kaũpas, Albanian qipi (“stack”), Avestan 𐬐𐬂𐬟𐬀‎ (kåfa))."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "heap (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(possibly offensive) very; representing broken English stereotypically or comically attributed to Native Americans",
+                  "examples": [
+                    "We are all familiar with the stereotyped broken English which writers of Western stories, comic strips, and similar literature put into the mouths of Indians: 'me heap big chief', 'you like um fire water', and so forth."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "heap (plural heaps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A crowd; a throng; a multitude or great number of people.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pile or mass; a collection of things laid in a body, or thrown together so as to form an elevation.",
+                  "examples": [
+                    "a heap of earth; a heap of stones"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A great number or large quantity of things.",
+                  "examples": [
+                    "a vast heap, both of places of scripture and quotations"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A data structure consisting of trees in which each node is greater than all its children.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Memory that is dynamically allocated.",
+                  "examples": [
+                    "You should move these structures from the stack to the heap to avoid a potential stack overflow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) A dilapidated place or vehicle.",
+                  "examples": [
+                    "Chuffy: It's on a knife edge at the moment, Bertie. If he can get planning permission, old Stoker's going to take this heap off my hands in return for vast amounts of oof."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) A lot, a large amount",
+                  "examples": [
+                    "Thanks a heap!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "heap (third-person singular simple present heaps, present participle heaping, simple past and past participle heaped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pile in a heap.",
+                  "examples": [
+                    "He heaped the laundry upon the bed and began folding."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To form or round into a heap, as in measuring.",
+                  "examples": [
+                    "Cry a reward, to him who shall first bring  News of that vanished Arabian,  A full-heap’d helmet of the purest gold."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To supply in great quantity.",
+                  "examples": [
+                    "They heaped praise upon their newest hero."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
