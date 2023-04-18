@@ -1,0 +1,87 @@
+{
+  "word": "flashback",
+  "etymologies": [
+    {
+      "description": [
+        "flash +‎ back"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flashback (plural flashbacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(authorship) A dramatic device in which an earlier event is inserted into the normal chronological flow of a narrative.",
+                  "examples": [
+                    "Synonym: analepsis"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) A vivid mental image of a past trauma or other sensation that the trauma is happening in the present, especially one that recurs.",
+                  "examples": [
+                    "Coordinate term: reminiscence"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A similar recurrence of the effects of a hallucinogenic drug.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The condition of the flame propagating down the hose of an oxy-fuel welding system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A query that operates against data from an earlier time, before it was changed.",
+                  "examples": [
+                    "As noted, that method provides limited support for multi-table flashbacks."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "flashback (third-person singular simple present flashbacks, present participle flashbacking, simple past and past participle flashbacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To undergo a flashback; to experience a vivid mental image from the past.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
