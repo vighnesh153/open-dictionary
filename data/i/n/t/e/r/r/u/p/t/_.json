@@ -1,0 +1,71 @@
+{
+  "word": "interrupt",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin interruptus, from interrumpere (“to break apart, break to pieces, break off, interrupt”), from inter (“between”) + rumpere (“to break”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interrupt (plural interrupts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, electronics) An event that causes a computer or other device to temporarily cease what it was doing and attend to a condition.",
+                  "examples": [
+                    "The interrupt caused the packet handler routine to run."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "interrupt (third-person singular simple present interrupts, present participle interrupting, simple past and past participle interrupted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To disturb or halt (an ongoing process or action, or the person performing it) by interfering suddenly.",
+                  "examples": [
+                    "A maverick politician repeatedly interrupted the debate by shouting."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To divide; to separate; to break the monotony of.",
+                  "examples": [
+                    "The evenness of the road was not interrupted by a single hill."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To assert to (a computer) that an exceptional condition must be handled.",
+                  "examples": [
+                    "The packet receiver circuit interrupted the microprocessor."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
