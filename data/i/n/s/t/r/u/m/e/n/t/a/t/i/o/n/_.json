@@ -1,0 +1,77 @@
+{
+  "word": "instrumentation",
+  "etymologies": [
+    {
+      "description": [
+        "instrument +‎ -ation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "instrumentation (countable and uncountable, plural instrumentations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of using or adapting as an instrument; a series or combination of instruments.",
+                  "examples": [
+                    "Science should be distinguished from technique and its scientific instrumentation, technology. Science is practised by scientists, and techniques by ‘engineers’ — a term that in our terminology includes physicians, lawyers, and teachers. If for the scientist knowledge and cognition are primary, it is action and construction that characterises the work of the engineer, though in fact his activity may be based on science. In history, technique often preceded science."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The arrangement of a musical composition for performance by a number of different instruments; instrumental composition; composition for an orchestra or military band.",
+                  "examples": [
+                    "Synonym: orchestration",
+                    "They changed the woodwind instrumentation to piccollos and saxophones, and as a result it sounded much more clumsy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or manner of playing upon musical instruments; performance.",
+                  "examples": [
+                    "He had a wonderful instrumentation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(automotive) On a vehicle, dashboard gauges monitoring engine functions and performance, along with other essential functions.",
+                  "examples": [
+                    "The car's instrumentation included fuel, temperature, voltimeter and oil pressure gauges, along with a speedometer and tachometer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, computing) The dynamic analysis of a program's performance and behaviour, usually by injecting profiling code into it.",
+                  "examples": [
+                    "bytecode instrumentation"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
