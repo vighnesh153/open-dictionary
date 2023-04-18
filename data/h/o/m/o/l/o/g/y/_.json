@@ -1,0 +1,113 @@
+{
+  "word": "homology",
+  "etymologies": [
+    {
+      "description": [
+        "From homo- +‎ -logy.",
+        "In topology, first used by French polymath Henri Poincaré, in the sense (close to what is now called a bordism) of a relation between manifolds mapped into a reference manifold: that is, the property of such manifolds that they form the boundary of a higher-dimensional manifold inside the reference manifold. Poincaré's version was eventually replaced by the more general singular homology, which is what mathematicians now mean by homology."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "homology (countable and uncountable, plural homologies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The relationship of being homologous; a homologous relationship;(geometry, projective geometry) specifically, such relationship in the context of the geometry of perspective.",
+                  "examples": [
+                    "Two triangles are said to be homologous, when the intersections of the corresponding sides lie on the same right line called the axis of homology: prove that the lines joining the corresponding vertices meet in a point [called the centre of homology]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, projective geometry) An automorphism of the projective plane (representing a perspective projection) that leaves all the points of some straight line (the homology axis) fixed and maps all the lines through some single point (the homology centre) onto themselves.",
+                  "examples": [
+                    "If the homology centre lies on the homology axis, the homology is said to be singular or parabolic; otherwise, it is called non-singular or hyperbolic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology, algebraic topology) A general way of associating a sequence of algebraic objects, such as abelian groups or modules, to a sequence of topological spaces; also used attributively: see Usage notes below.",
+                  "examples": [
+                    "One encounters a similar situation in homology theory. Beside singular homology, which is a homotopy invariant, and Čech homology, which is a shape invariant, there exists strong homology, which is a strong shape invariant. In the special case of metric compacta, this homology was introduced by N.E. Steenrod in 1940 and is often referred to as the Steenrod homology."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) Given a chain complex {Gn} and its associated set of homomorphisms {Hn}, the rule which explains how each Hn maps Gn into the kernel of Gn+1.",
+                  "examples": [
+                    "Because of their connection with both homology and cohomology, chain complexes are an important topic of study in homological algebra."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The relationship, between elements, of being in the same group of the periodic table.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(organic chemistry) The relationship, between organic compounds, of being in the same homologous series.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, psychology) The relationship, between characteristics or behaviours, of having a shared evolutionary or developmental origin;(evolutionary theory) specifically, a correspondence between structures in separate life forms having a common evolutionary origin, such as that between flippers and hands.",
+                  "examples": [
+                    "The objective of this study is to classify approaches to primary homology assessment, and to quantify the extent to which different approaches are found in the literature by examining variation in the ways characters are defined and coded in a data matrix."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) The presence of the same series of bases in different but related genes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anthropology) The relationship, between temporally separated human beliefs, practices or artefacts, of possessing shared characteristics attributed to genetic or historical links to a common ancestor.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
