@@ -1,0 +1,209 @@
+{
+  "word": "host",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hoste, from Old French oste (French: hôte), from Latin hospitem, accusative of hospes (“a host, also a sojourner, visitor, guest; hence, a foreigner, a stranger”), from Proto-Indo-European *gʰostipotis (“master of guests”), from *gʰóstis (“stranger, guest, enemy”) and *pótis (“owner, master, host, husband”). Used in English since 13th century. Doublet of guest."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "host (plural hosts, feminine hostess)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One which receives or entertains a guest, socially, commercially, or officially.",
+                  "examples": [
+                    "A good host is always considerate of the guest’s needs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One that provides a facility for an event.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or organization responsible for running an event.",
+                  "examples": [
+                    "Our company is host of the annual conference this year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A moderator or master of ceremonies for a performance.",
+                  "examples": [
+                    "The host was terrible, but the acts themselves were good."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Internet) Any computer attached to a network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ecology) A cell or organism which harbors another organism or biological entity, usually a parasite.",
+                  "examples": [
+                    "Viruses depend on the host that they infect in order to be able to reproduce."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(evolution, genetics) An organism bearing certain genetic material, with respect to its cells.",
+                  "examples": [
+                    "The so-called junk DNA is known, so far, to provide no apparent benefit to its host."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A paid male companion offering conversation and in some cases sex, as in certain types of bar in Japan.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "host (third-person singular simple present hosts, present participle hosting, simple past and past participle hosted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To perform the role of a host.",
+                  "examples": [
+                    "Our company will host the annual conference this year.",
+                    "I was terrible at hosting that show.",
+                    "I’ll be hosting tonight. I hope I’m not terrible."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To lodge at an inn.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Internet) To run software made available to a remote user or process.",
+                  "examples": [
+                    "CMU/TEK TCP/IP software uses an excessive amount of cpu resources for terminal support both outbound, when accessing another system, and inbound, when the local system is hosting a session."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English oost, borrowed from Old French ost, oste, hoste, from Latin hostis (“foreign enemy”) (as opposed to inimicus (“personal enemy”)); cognate with etymology 1 through an Indo-European root."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "host (plural hosts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A multitude of people arrayed as an army; used also in religious senses, as: Heavenly host (of angels)",
+                  "examples": [
+                    "the invading host that had sailed from Hellas in more than one thousand ships was of an unprecedented size."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large number of items; a large inventory.",
+                  "examples": [
+                    "The dealer stocks a host of parts for my Model A."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English host, oist, ost, from Old French hoiste, from Latin hostia (“sacrificial victim”). Doublet of hostie."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "host (plural hosts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Christianity) The consecrated bread of the Eucharist.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
