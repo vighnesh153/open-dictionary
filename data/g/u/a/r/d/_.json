@@ -1,0 +1,238 @@
+{
+  "word": "guard",
+  "etymologies": [
+    {
+      "description": [
+        "For verb: From early Middle French or late Old French (circa 14th cent) guarder (“to keep, ward, guard, save, preserve, etc.”), from Frankish *wardōn, from Proto-Germanic *wardāną (“to guard, protect”). Cognate with French garder, Old English weardian (whence also the English inherited doublet ward). See also English regard.",
+        "For noun: From Middle English garde, from early Middle French or late Old French guarde (“a guardian, warden, keeper”) (whence modern French garde), from the verb guarder. Doublet of garda, which is from Irish."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "guard (plural guards)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who, or thing that, protects or watches over something.",
+                  "examples": [
+                    "The prison guard unlocked the door of the cell.   After completing the repairs, he replaced the sump guard."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Ireland) A garda; a police officer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A squad responsible for protecting something.",
+                  "examples": [
+                    "The president inspected the guard of honour."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The part of a sword that protects the wielder's hand.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A part of a machine which blocks access to dangerous parts.",
+                  "examples": [
+                    "The motorcycle mechanic removed the damaged chain guard."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A watchchain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia) A panel of a car that encloses the wheel area, especially the front wheels.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A state of caution; posture of defence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something worn to protect part of the body, e.g. the shins in cricket.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(basketball) A relatively short player, playing farther from the basket than a forward or centre.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) The position on the popping crease where a batsman makes a mark to align himself with the wicket; see take guard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(American football) Either of two offensive positions between the centre and each of the offensive tackles, whose main responsibilities are to protect the quarterback, and open up \"holes\" through which offensive players can run.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(martial arts) A ground grappling position in which one combatant has their back to the ground while attempting to control the other combatant using their legs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) A player playing a position named guard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) An employee, normally travelling in the last vehicle of a train, responsible for the safety of the train.",
+                  "examples": [
+                    "When an engineer wished to stop a swiftly moving train he had first to whistle to the guard requesting him to apply the hand-brake of the van, and then apply the hand-brake of the engine. Guards did not always hear."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A Boolean expression that must evaluate to true for a branch of program execution to continue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) The aircraft emergency frequency, a radio frequency reserved for emergency communications, typically 121.5MHz for civilian use.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "guard (third-person singular simple present guards, present participle guarding, simple past and past participle guarded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To protect from danger; to secure against surprise, attack, or injury; to keep in safety; to defend.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To keep watch over, in order to prevent escape or restrain from acts of violence, or the like.",
+                  "examples": [
+                    "Guard the prisoner."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To watch by way of caution or defense; to be caution; to be in a state or position of defense or safety.",
+                  "examples": [
+                    "Careful people guard against mistakes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To protect the edge of, especially with an ornamental border; hence, to face or ornament with lists, laces, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fasten by binding; to gird.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
