@@ -1,0 +1,209 @@
+{
+  "word": "label",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English label (“narrow band, strip of cloth”), from Old French label, lambel (Modern French lambeau), from Frankish *lappā (“torn piece of cloth”), from Proto-Germanic *lappǭ, *lappô (“cloth stuff, rag, scraps, flap, dewlap, lobe, rabbit ear”), from Proto-Indo-European *leb- (“blade”). Cognate with Old High German lappa (“rag, piece of cloth”), Old English læppa (“skirt, flap of a garment”). More at lap."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "label (plural labels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small ticket or sign giving information about something to which it is attached or intended to be attached.",
+                  "examples": [
+                    "Synonyms: sign, tag, ticket",
+                    "We laughed at her because the label was still on her new sweater.",
+                    "The label says this silk scarf should not be washed in the washing machine.",
+                    "Although the label priced this poster at three pounds, I got it for two."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A name given to something or someone to categorise them as part of a particular social group.",
+                  "examples": [
+                    "Synonyms: category, pigeonhole",
+                    "Ever since he started going to the rock club, he's been given the label \"waster\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A company that sells records.",
+                  "examples": [
+                    "Synonym: record label",
+                    "The label signed the band after hearing a demo tape."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A user-defined alias for a numerical designation, the reverse of an enumeration.",
+                  "examples": [
+                    "Storage devices can be given by label or ID."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A named place in source code that can be jumped to using a GOTO or equivalent construct.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) A charge resembling the strap crossing the horse’s chest from which pendants are hung.",
+                  "examples": [
+                    "Synonym: lambel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A tassel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small strip, especially of paper or parchment (or of some material attached to parchment to carry the seal), but also of iron, brass, land, etc.",
+                  "examples": [
+                    "Ere this hand, by thee to Romeo seal'd, / Shall be the label to another deed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of writing added to something, such as a codicil appended to a will.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A brass rule with sights, formerly used with a circumferentor to take altitudes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The projecting moulding by the sides, and over the tops, of openings in mediaeval architecture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In mediaeval and later art, a representation of a band or scroll containing an inscription.",
+                  "examples": [
+                    "2654. Two-handled globular vase; early Deruta lustred ware; centre surrounded by a band of scroll work; on each side the neck is an oval compartment with clasped hands, and a label scroll inscribed \"Co pura fe.;\" decoration, blue outline on white ground filled in with yellow lustre."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) A non-interactive control or widget displaying text, often used to describe the purpose of another control.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "label (third-person singular simple present labels, present participle (UK) labelling or (US) labeling, simple past and past participle (UK) labelled or (US) labeled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put a label (a ticket or sign) on (something).",
+                  "examples": [
+                    "The shop assistant labeled all the products in the shop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ditransitive) To give a label to (someone or something) in order to categorise that person or thing.",
+                  "examples": [
+                    "He's been unfairly labeled as a cheat, although he's only ever cheated once."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) To replace specific atoms by their isotope in order to track the presence or movement of this isotope through a reaction, metabolic pathway or cell.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) To add a detectable substance, either transiently or permanently, to a biological substance in order to track the presence of the label-substance combination either in situ or in vitro",
+                  "examples": [
+                    "They may be used to label and image a protein within tissue, to isolate cells on the basis of marker expression, or to physically capture a protein from a complex biological mixture...."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
