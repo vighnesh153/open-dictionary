@@ -1,0 +1,69 @@
+{
+  "word": "interleave",
+  "etymologies": [
+    {
+      "description": [
+        "inter- +‎ leave"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interleave (plural interleaves)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An interleaved or interspersed arrangement.",
+                  "examples": [
+                    "the interleave of sectors on a floppy disk"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "interleave (third-person singular simple present interleaves, present participle interleaving, simple past and past participle interleaved)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To insert (pages, which are normally blank) between the pages of a book.",
+                  "examples": [
+                    "Let a Servitor transcribe the quotations, and interleave them with references to save time. This will shorten the work and lessen the fatigue."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To intersperse (something) at regular intervals between the parts of a thing or between items in a group.",
+                  "examples": [
+                    "I had the demon’s own time with my armor, and this delayed me a little.  It is troublesome to get into, and there is so much detail.  First you wrap a layer or two of blanket around your body,  […]  then you put on your sleeves and shirt of chain mail—  […]  then you put on your shoes—flat-boats roofed over with interleaving bands of steel—and screw your clumsy spurs into the heels."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To allocate (things such as successive segments of memory) to different tasks.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
