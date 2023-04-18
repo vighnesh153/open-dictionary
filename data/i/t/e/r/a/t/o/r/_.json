@@ -1,0 +1,41 @@
+{
+  "word": "iterator",
+  "etymologies": [
+    {
+      "description": [
+        "iterate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "iterator (plural iterators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who or that which iterates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A method capable of performing the same action on every item in a collection.",
+                  "examples": [
+                    "Coordinate term: iteratee"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
