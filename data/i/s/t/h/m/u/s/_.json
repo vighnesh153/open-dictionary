@@ -1,0 +1,52 @@
+{
+  "word": "isthmus",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowing from Latin isthmus (“a strip of land between two seas”), from Ancient Greek ῐ̓σθμός (isthmós, “neck, narrow passage”), possibly from εἶμῐ (eîmi, “to go”). Cognate to Old Norse eið (“isthmus”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "isthmus (plural isthmuses or isthmi)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A narrow strip of land, bordered on both sides by water, and connecting two larger landmasses.",
+                  "examples": [
+                    "Hyponym: Isthmus of Suez"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) Any such narrow part connecting two larger structures.",
+                  "examples": [
+                    "Hyponym: uterine isthmus"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) An edge in a graph whose deletion increases the number of connected components of the graph.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
