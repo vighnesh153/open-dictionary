@@ -1,0 +1,100 @@
+{
+  "word": "imperative",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin imperātīvus."
+      ],
+      "adjectives": [
+        {
+          "description": "imperative (comparative more imperative, superlative most imperative)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Essential; crucial; extremely important.",
+                  "examples": [
+                    "That you come here right now is imperative."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Of, or relating to the imperative mood.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) Having semantics that incorporates mutable variables.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Expressing a command; authoritatively or absolutely directive.",
+                  "examples": [
+                    "imperative orders"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "imperative (countable and uncountable, plural imperatives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, grammar) The grammatical mood expressing an order (see jussive). In English, the imperative form of a verb is the same as that of the bare infinitive.",
+                  "examples": [
+                    "The verbs in sentences like \"Do it!\" and \"Say what you like!\" are in the imperative.",
+                    "Synonym: imperative mood",
+                    "Coordinate terms: assertoric, interrogative"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, grammar) A verb in imperative mood.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An essential action, a must: something which is imperative.",
+                  "examples": [
+                    "Visiting Berlin is an imperative."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
