@@ -1,0 +1,54 @@
+{
+  "word": "ko",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Japanese 劫 (kō)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ko (plural ko)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(game of Go) A local shape to which the ko rule applies; a ko shape.",
+                  "examples": [
+                    "Black gets an easy game by just filling the ko."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(game of Go) ko fight",
+                  "examples": [
+                    "Black wins the ko easily."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(game of Go) a stone in a ko in atari, a ko stone",
+                  "examples": [
+                    "Black recaptures the ko and white has to find another ko threat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
