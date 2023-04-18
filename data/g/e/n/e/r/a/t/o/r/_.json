@@ -1,0 +1,55 @@
+{
+  "word": "generator",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin, from past participle of genero (“beget, father”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "generator (plural generators)",
+          "definitionGroups": [
+            {
+              "group": "One who, or that which, generates, begets, causes, or produces.",
+              "entries": [
+                {
+                  "meaning": "(chemistry) An apparatus in which vapour or gas is formed from a liquid or solid by means of heat or chemical process, as a steam boiler, gas retort etc.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(music) The principal sound or sounds by which others are produced; the fundamental note or root of the common chord; -- see also generating tone.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(mathematics) An element of a group that is used in the presentation of the group: one of the elements from which the others can be inferred with the given relators.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(geometry) One of the lines of a ruled surface; more generally, an element of some family of linear spaces.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(programming) A subordinate piece of code which, given some initial parameters, will generate multiple output values on request.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A piece of apparatus, equipment, etc, to convert or change energy from one form to another.",
+              "entries": [
+                {
+                  "meaning": "Especially, a machine that converts mechanical energy into electrical energy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
