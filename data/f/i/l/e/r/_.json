@@ -1,0 +1,41 @@
+{
+  "word": "filer",
+  "etymologies": [
+    {
+      "description": [
+        "file +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "filer (plural filers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Agent noun of file; one who files something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A software program for managing files.",
+                  "examples": [
+                    "The filer allows users to format and copy disks and to include a run-time UCSD Pascal operating system."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
