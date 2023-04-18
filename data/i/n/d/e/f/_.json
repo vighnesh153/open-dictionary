@@ -1,0 +1,76 @@
+{
+  "word": "indef",
+  "etymologies": [
+    {
+      "description": [
+        "Shortened from indefinite."
+      ],
+      "adjectives": [
+        {
+          "description": "indef",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of indefinite.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Wikimedia jargon, Internet slang) Of a user, account, or IP address: blocked or banned from editing or other actions for an indefinite length of time.",
+                  "examples": [
+                    "Synonym: indeffed",
+                    "While there's nothing wrong with imposing a topic ban on an indef editor who may one day be allowed back, it is a little unusual."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "indef (plural indefs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Wikimedia jargon, Internet slang) The action of blocking or banning a user, account, or IP address from editing or other actions for an indefinite length of time.",
+                  "examples": [
+                    "An indef seems the only way to stem the flow of disruption from this user."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "indef (third-person singular simple present indefs, present participle indeffing, simple past and past participle indeffed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Wikimedia jargon, Internet slang) To block or ban a user, account, or IP address from editing or other actions for an indefinite length of time.",
+                  "examples": [
+                    "I indeffed the editor based on the legal threat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
