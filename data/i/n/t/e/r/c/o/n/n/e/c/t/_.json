@@ -1,0 +1,50 @@
+{
+  "word": "interconnect",
+  "etymologies": [
+    {
+      "description": [
+        "inter- +‎ connect"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interconnect (plural interconnects)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) An interconnection.",
+                  "examples": [
+                    "These interconnects are suitable for any kind of point-to-point on-chip communication, such as in a SoC to connect nearby or far away system blocks and in a NoC between two routers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "interconnect (third-person singular simple present interconnects, present participle interconnecting, simple past and past participle interconnected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To connect to one another.",
+                  "examples": [
+                    "Synonym: anastomose",
+                    "The Internet interconnects a set of networks."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
