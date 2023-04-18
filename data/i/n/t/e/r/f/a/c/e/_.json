@@ -1,0 +1,142 @@
+{
+  "word": "interface",
+  "etymologies": [
+    {
+      "description": [
+        "From inter- (“between”) +‎ face (“shape, figure, form”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interface (plural interfaces)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The point of interconnection or contact between entities.",
+                  "examples": [
+                    "Public relations firms often serve as the interface between a company and the press."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, physics) A thin layer or boundary between different substances or two phases of a single substance.",
+                  "examples": [
+                    "If water and oil are mixed together, they tend to separate, and at equilibrium they are in different strata with an oil-water interface in between.",
+                    "The surface of a lake is a water-air interface."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The point of interconnection between systems or subsystems.",
+                  "examples": [
+                    "The data is sent over the air interface to the remote system."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The connection between a user and a machine.",
+                  "examples": [
+                    "The options are selected via the user interface."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, object-oriented programming) The connection between parts of software; also the public or published sections of an object or module,",
+                  "examples": [
+                    "This interface is implemented by several Java classes.",
+                    "Traits are somewhat between an interface and a mixin, as an interface contains only method signatures, while a trait includes also the full method definitions; on the other side mixins include method definitions, but they can also carry state through attributes, while traits usually don't."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, object-oriented programming) In object-oriented programming, a piece of code defining a set of operations that other code must implement.",
+                  "examples": [
+                    "The Audio and Video classes both implement the IPlayable interface."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) The internal surface of a coiled protein (compare exoface).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "interface (third-person singular simple present interfaces, present participle interfacing, simple past and past participle interfaced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To construct an interface for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To connect through an interface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To serve as an interface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business, intransitive) To meet for discussion.",
+                  "examples": [
+                    "Let's interface on Wednesday."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
