@@ -1,0 +1,39 @@
+{
+  "word": "flyback",
+  "etymologies": [
+    {
+      "description": [
+        "fly +‎ back"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flyback (countable and uncountable, plural flybacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The movement of the electron beam back to its initial position between scan lines in a cathode-ray tube display.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A special kind of electrical transformer, originally designed to generate high-voltage sawtooth signals at a relatively high frequency, and now extensively used in switched-mode power supplies.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
