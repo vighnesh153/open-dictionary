@@ -1,0 +1,105 @@
+{
+  "word": "glitch",
+  "etymologies": [
+    {
+      "description": [
+        "Probably from Yiddish גליטש‎ (glitsh), from German glitschig (“slippy”), from glitsch (“slide, glide, slip”) + -ig (“-y”). Related to gleiten (“glide”). Cognate with French glisser (“to slip, to slide, to skid”).",
+        "Popularized 1960s, by US space program. Attested 1962 by American astronaut John Glenn, in reference to spikes in electrical current."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "glitch (countable and uncountable, plural glitches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A problem affecting function.",
+                  "examples": [
+                    "Synonyms: bug, hitch, imperfection, quirk, gremlin"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, informal, engineering) An unexpected behavior in an electrical signal, especially if the signal spontaneously returns to expected behavior after a period of time.",
+                  "examples": [
+                    "Coordinate terms: surge, spike, instability"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) A bug or an exploit.",
+                  "examples": [
+                    "Performing this glitch gives you extra lives."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, music) A genre of experimental electronic music since the 1990s, characterized by a deliberate use of sonic artifacts that would normally be viewed as unwanted noise.",
+                  "examples": [
+                    "Hypernym: electronic music",
+                    "Hyponym: glitchcore",
+                    "Coordinate term: noise"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy, countable) A sudden increase in the rotational frequency of a pulsar.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "glitch (third-person singular simple present glitches, present participle glitching, simple past and past participle glitched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, especially of machines) To experience an unexpected, typically intermittent malfunction.",
+                  "examples": [
+                    "My computer keeps glitching; every couple of hours it just reboots without warning."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, video games) To perform an exploit or recreate a bug while playing a video game.",
+                  "examples": [
+                    "His character will glitch into the wall and out of the level."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
