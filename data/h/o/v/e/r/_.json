@@ -1,0 +1,128 @@
+{
+  "word": "hover",
+  "etymologies": [
+    {
+      "description": [
+        "The verb is derived from Middle English hoveren (“to float in the air, hover; to stay”), probably from hoven (“hover; of a bird: to fly high in the air, soar”) (which it displaced) + -er- (frequentative suffix). Hoven is probably derived from Old English *hōfian, from hōfon, the plural past indicative form of hebban (“to lift, raise”), from Proto-West Germanic *habbjan, from Proto-Germanic *habjaną (“to lift; to heave”), ultimately from Proto-Indo-European *keh₂p- (“to hold, seize”). The English word is analysable as hove (“(obsolete) to remain suspended, float, hover; to linger, wait”) +‎ -er (frequentative suffix).",
+        "The noun is derived from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hover (plural hovers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act, or the state, of remaining stationary in the air or some other place.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flock of birds fluttering in the air in one place.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) An act, or the state, of being suspended; a suspension.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Southern England) A cover; a protection; a shelter; specifically, an overhanging bank or stone under which fish can shelter; also, a shelter for hens brooding their eggs.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hover (third-person singular simple present hovers, present participle hovering, simple past and past participle hovered)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To keep (something, such as an aircraft) in a stationary state in the air.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Of a bird: to shelter (chicks) under its body and wings; (by extension) of a thing: to cover or surround (something).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) Of a bird or insect: to flap (its wings) so it can remain stationary in the air.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To remain stationary or float in the air.",
+                  "examples": [
+                    "The hummingbird hovered by the plant."
+                  ]
+                },
+                {
+                  "meaning": "(figuratively)",
+                  "examples": [
+                    "Synonym: wasp around",
+                    "His pen hovered above the paper.",
+                    "The strange man hovered outside the gents’ toilet.",
+                    "The visitors were hovering at the door, seemingly unwilling to enter.",
+                    "Some helicopter parents weren’t so much dropping off their kids as hovering over them until the event started."
+                  ]
+                },
+                {
+                  "meaning": "Sometimes followed by over: to hang around or linger in a place, especially in an uncertain manner.",
+                  "examples": [
+                    "Synonym: wasp around",
+                    "His pen hovered above the paper.",
+                    "The strange man hovered outside the gents’ toilet.",
+                    "The visitors were hovering at the door, seemingly unwilling to enter.",
+                    "Some helicopter parents weren’t so much dropping off their kids as hovering over them until the event started."
+                  ]
+                },
+                {
+                  "meaning": "To be indecisive or uncertain; to vacillate, to waver.",
+                  "examples": [
+                    "Filling in the voting form, I hovered between Labour and Liberal Democrat."
+                  ]
+                },
+                {
+                  "meaning": "(computing) Chiefly followed by over: to use a mouse or other device to place a cursor over something on a screen such as a hyperlink or icon without clicking, so as to produce a result (such as the appearance of a tooltip).",
+                  "examples": [
+                    "A tooltip appears when you hover over this link."
+                  ]
+                },
+                {
+                  "meaning": "(nautical) To travel in a hovercraft as it moves above a water surface.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
