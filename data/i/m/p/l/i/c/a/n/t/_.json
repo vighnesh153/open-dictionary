@@ -1,0 +1,37 @@
+{
+  "word": "implicant",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "implicant (plural implicants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(propositional calculus) The hypothesis of an implication",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical engineering) On a Karnaugh map: a set of ones (whose quantity is a power of two) which are related by adjacency (i.e., the set is connected, if the Karnaugh map is considered to be a graph which \"wraps around\" its edges, like a torus; and all elements of the subgraph induced by the set have the same degree). Equivalently, in terms of Boolean algebra, a product term which, when true, always implies that the given Boolean function is true.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

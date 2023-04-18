@@ -1,0 +1,76 @@
+{
+  "word": "implicate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin implicatus < implico (“entangle, involve”), from plico (“fold”). Doublet of imply and employ."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "implicate (plural implicates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) The thing implied.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "implicate (third-person singular simple present implicates, present participle implicating, simple past and past participle implicated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, with “in”) To show to be connected or involved in an unfavorable or criminal way.",
+                  "examples": [
+                    "The evidence implicates involvement of top management in the scheme."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, nonstandard) To imply, to have as a necessary consequence or accompaniment.",
+                  "examples": [
+                    "What did Nixon's visit to China implicate for Russia?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(pragmatics) To imply without entailing; to have as an implicature.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) To fold or twist together, intertwine, interlace, entangle, entwine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
