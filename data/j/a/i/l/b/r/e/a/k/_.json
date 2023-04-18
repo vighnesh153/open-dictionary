@@ -1,0 +1,83 @@
+{
+  "word": "jailbreak",
+  "etymologies": [
+    {
+      "description": [
+        "jail +‎ break"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jailbreak (plural jailbreaks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An escape from prison.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A modification to the firmware of an electronic device (typically a mobile phone or tablet) to allow the installation and use of software not officially supported by the device's manufacturer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(artificial intelligence) A prompt to an artificial intelligence which frees it from its ethical restrictions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "jailbreak (third-person singular simple present jailbreaks, present participle jailbreaking, simple past jailbroke, past participle jailbroken)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To escape from prison.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To modify the firmware of an electronic device, especially a mobile phone, in order to remove restrictions that prevent it from running unofficial software.",
+                  "examples": [
+                    "Synonym: root"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(artificial intelligence) To free an artificial intelligence from its ethical restrictions using prompt injection.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
