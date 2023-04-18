@@ -1,0 +1,107 @@
+{
+  "word": "guillotine",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French guillotine, named after the French physician Joseph-Ignace Guillotin (1738–1814), who proposed its use for capital punishment."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "guillotine (plural guillotines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical, also figuratively) A machine used for the application of capital punishment by decapitation, consisting of a tall upright frame from which is suspended a heavy diagonal-edged blade which is dropped onto the neck of the person to be executed; also, execution using this machine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(by extension)",
+              "entries": [
+                {
+                  "meaning": "A device or machine with a cutting blade.",
+                  "examples": [
+                    "Hyponyms: (for tonsils) tonsillotome, tonsilotome, (for the uvula) uvulotome"
+                  ]
+                },
+                {
+                  "meaning": "A device used for cutting the pages of books, stacks of paper, etc., to straight edges, usually by means of a hinged or sliding blade attached to a flat platform.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(surgery) An instrument with a sliding blade for cutting the tonsils, uvula, or other body parts.",
+                  "examples": [
+                    "Hyponyms: (for tonsils) tonsillotome, tonsilotome, (for the uvula) uvulotome"
+                  ]
+                },
+                {
+                  "meaning": "(law, politics, informal)",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Britain) A parliamentary procedure for fixing the dates when various stages of discussion of a bill must end, to ensure that the enactment of the bill proceeds expeditiously.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(US) A legislative motion that debate be ended and a vote taken; a cloture.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Borrowed from French guillotiner (“to execute with a guillotine, to guillotine”), from guillotine (see etymology 1) + -er (suffix forming infinitives of first-conjugation verbs)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "guillotine (third-person singular simple present guillotines, present participle guillotining, simple past and past participle guillotined) (transitive)",
+          "definitionGroups": [
+            {
+              "group": "To use a guillotine (on someone or something).",
+              "entries": [
+                {
+                  "meaning": "(also figuratively) To execute (someone) with a guillotine.",
+                  "examples": [
+                    "Many counterrevolutionaries were guillotined during the French Revolution."
+                  ]
+                },
+                {
+                  "meaning": "To cut or trim (a body part, a stack of paper, etc.) with a guillotine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(law, politics, informal)",
+              "entries": [
+                {
+                  "meaning": "(Britain) To end discussion (about a parliamentary bill or part of one) by invoking a guillotine procedure.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(US) To end (a legislative debate) by invoking cloture.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
