@@ -1,0 +1,32 @@
+{
+  "word": "headend",
+  "etymologies": [
+    {
+      "description": [
+        "head +‎ end"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "headend (plural headends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cable TV control centre, at which terrestrial and satellite signals are received, monitored and injected into the cable network.",
+                  "examples": [
+                    "The headend cable modem handles the medium access control (MAC) protocol which is necessary for point-to-multipoint operation on the tree-and-branch network."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
