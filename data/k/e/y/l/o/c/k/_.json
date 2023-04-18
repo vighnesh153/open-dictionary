@@ -1,0 +1,41 @@
+{
+  "word": "keylock",
+  "etymologies": [
+    {
+      "description": [
+        "key +‎ lock."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "keylock (plural keylocks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(combat sports) An armlock where the implementer isolates the opponent's arm and torques the shoulder in order to cause pain or injury.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, historical) A physical lock on the case of a computer, preventing use of the keyboard until unlocked.",
+                  "examples": [
+                    "We complained in our review of the PC AT that the problem with the keylock is that when you power up with the keylock on, you cannot continue until you unlock the system."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
