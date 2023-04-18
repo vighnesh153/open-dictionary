@@ -1,0 +1,43 @@
+{
+  "word": "isochron",
+  "etymologies": [
+    {
+      "description": [
+        "iso- +‎ chron."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "isochron (plural isochrons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology, geochemistry) A line on a chart linking rock of the same age (as determined from isotope ratios).",
+                  "examples": [
+                    "Recapitulating, any suite of comagmatic rocks with an age \n  \n    \n      \n        t\n      \n    \n    {\\displaystyle t}\n  \n defines an isochron if its members all had the same initial \n  \n    \n      \n        \n          \n            Sr\n            \n            \n            \n            \n            87\n          \n          \n            \n              /\n            \n            \n              86\n            \n          \n          Sr\n        \n      \n    \n    {\\displaystyle {\\ce {^{87}Sr/^{86}Sr}}}\n  \n ratio and if it was closed to both \n  \n    \n      \n        \n          Rb\n        \n      \n    \n    {\\displaystyle {\\ce {Rb}}}\n  \n and \n  \n    \n      \n        \n          Sr\n        \n      \n    \n    {\\displaystyle {\\ce {Sr}}}\n  \n since crystallization occurred and neither element was introduced from any extraneous source. […] In this way, whole-rock \n  \n    \n      \n        \n          Rb\n          \n            −\n          \n          Sr\n        \n      \n    \n    {\\displaystyle {\\ce {Rb-Sr}}}\n  \n isochrons can produce rather reliable age data for rock samples."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, dynamical systems) A collection of points (such as a manifold), each point representing a set of initial conditions for a given dynamical system, such that every set results in the same long-term behaviour of the system.",
+                  "examples": [
+                    "The entire plane is foliated by isochrons."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
