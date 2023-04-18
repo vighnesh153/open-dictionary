@@ -1,0 +1,93 @@
+{
+  "word": "identity",
+  "etymologies": [
+    {
+      "description": [
+        "Middle French identité, from Latin idem (“the same”). See identical and idem."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "identity (countable and uncountable, plural identities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Sameness, identicalness; the quality or fact of (several specified things) being the same.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The difference or character that marks off an individual or collective from the rest of the same kind; selfhood; the sense of who something or someone or oneself is, or the recurring characteristics that enable the recognition of such an individual or group by others or themself.",
+                  "examples": [
+                    "I've been through so many changes, I have no sense of identity.",
+                    "This nation has a strong identity.",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A name or persona—a mask or appearance one presents to the world—by which one is known.",
+                  "examples": [
+                    "This criminal has taken on several identities.",
+                    "In this show, the competitor's identity will remain secret until after the vote."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An equation which always holds true regardless of the choice of input variables.",
+                  "examples": [
+                    "The equation (x+y)(x−y) = x2−y2 is an algebraic identity. It is true regardless of the values of x and y."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, computing) Any function which maps all elements of its domain to themselves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) An element of an algebraic structure which, when applied to another element under an operation in that structure, yields this second element.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, New Zealand) A well-known or famous person.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
