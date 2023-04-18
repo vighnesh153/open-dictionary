@@ -1,0 +1,67 @@
+{
+  "word": "fiducial",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin fīdūciālis, from fīdūcia (“trust, reliance”) + -ālis, from fīdō (“I trust”)."
+      ],
+      "adjectives": [
+        {
+          "description": "fiducial (comparative more fiducial, superlative most fiducial)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Accepted as a fixed basis of reference.",
+                  "examples": [
+                    "Rulers and coins make good fiducial markers in photographs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Based on having trust.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fiducial (plural fiducials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In photography, a familiar reference object used to show size or scale, such as a ruler or a coin; a fiducial marker.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In manufacturing, a small mark on a circuit board used to align components; a fiducial point.",
+                  "examples": [
+                    "Coordinate term: registration mark (in printing)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
