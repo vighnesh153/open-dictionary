@@ -1,0 +1,63 @@
+{
+  "word": "greek",
+  "etymologies": [
+    {
+      "description": [
+        "Probably from Greek (“unintelligible speech or text”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "greek (plural greeks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative letter-case form of Greek (“nonsense writing or talk; gibberish”).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative letter-case form of Greek (“anal sex”).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "greek (third-person singular simple present greeks, present participle greeking, simple past and past participle greeked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To display a placeholder (instead of text), especially to optimize speed in displaying text that would be too small to read.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To fill a template with nonsense text (particularly the Lorem ipsum), so that form can be focused on instead of content.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
