@@ -1,0 +1,100 @@
+{
+  "word": "fragment",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Middle English fragment, from Latin fragmentum (“a fragment, remnant”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fragment (plural fragments)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A part broken off; a small, detached portion; an imperfect part, either physically or not",
+                  "examples": [
+                    "a fragment of an ancient writing",
+                    "I heard a small fragment of the conversation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A sentence not containing a subject or a predicate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An incomplete portion of code.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A portion of a URL referring to a subordinate resource or anchor (such as a specific point on a web page), introduced by the # sign.",
+                  "examples": [
+                    "Holonym: anchor link",
+                    "The URL www.example.com/home#recent ends with a fragment."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fragment (third-person singular simple present fragments, present participle fragmenting, simple past and past participle fragmented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To break apart.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to be broken into pieces.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To break up and disperse (a file) into non-contiguous areas of a disk.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
