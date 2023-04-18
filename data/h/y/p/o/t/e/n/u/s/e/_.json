@@ -1,0 +1,32 @@
+{
+  "word": "hypotenuse",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin hypotenusa, from Ancient Greek ὑποτείνουσα πλευρά (hupoteínousa pleurá, “side subtending [the right angle]”), from ὑποτείνουσα (hupoteínousa, “stretching, extending, subtending”), active participle of ὑποτείνω (hupoteínō, “subtend, stretch under”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hypotenuse (plural hypotenuses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The side of a right triangle opposite the right angle.",
+                  "examples": [
+                    "Coordinate term: cathetus"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
