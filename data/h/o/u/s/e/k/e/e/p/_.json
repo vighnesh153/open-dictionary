@@ -1,0 +1,58 @@
+{
+  "word": "housekeep",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from housekeeping."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "housekeep (plural housekeeps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic or fantasy) The person in charge of a house; a housekeeper or innkeeper.",
+                  "examples": [
+                    "The housekeep was back rather quickly with a tray, which held a flagon of ale and a pewter cup as well as bread and cheese."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "housekeep (third-person singular simple present housekeeps, present participle housekeeping, simple past and past participle housekept)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To carry out the domestic duties of housekeeping.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, computing) To perform the general tasks of housekeeping.",
+                  "examples": [
+                    "The clock burst which enables the supervisor to housekeep the console input and output and to change program status is currently set to 200 ms."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
