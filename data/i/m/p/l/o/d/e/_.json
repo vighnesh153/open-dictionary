@@ -1,0 +1,62 @@
+{
+  "word": "implode",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from implosion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "implode (third-person singular simple present implodes, present participle imploding, simple past and past participle imploded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To collapse or burst inward violently.",
+                  "examples": [
+                    "Antonym: explode",
+                    "The submarine imploded as it sank below its crush depth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to collapse or burst inward violently.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, PHP) The opposite of explode, array to string conversion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To compress (data) with a particular algorithm.",
+                  "examples": [
+                    "Antonym: explode"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
