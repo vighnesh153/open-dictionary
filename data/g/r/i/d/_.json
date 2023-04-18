@@ -1,0 +1,137 @@
+{
+  "word": "grid",
+  "etymologies": [
+    {
+      "description": [
+        "From a shortening of griddle or gridiron."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "grid (plural grids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rectangular array of squares or rectangles of equal size, such as in a crossword puzzle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tiling of the plane with regular polygons; a honeycomb.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A system for delivery of electricity, consisting of various substations, transformers and generators, connected by wire.",
+                  "examples": [
+                    "You can't turn off the building from here; you have to shut down the whole grid."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A system or structure of distributed computers working mostly on a peer-to-peer basis, used mainly to solve single and complex scientific or technical problems or to process data at high speeds (as in clusters).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cartography) A method of marking off maps into areas.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(motor racing) The pattern of starting positions of the drivers for a race.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) The third (or higher) electrode of a vacuum tube (triode or higher).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity) A battery-plate somewhat like a grating, especially a zinc plate in a primary battery, or a lead plate in a secondary or storage battery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A grating of parallel bars; a gridiron.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater, television) An openwork ceiling above the stage or studio, used for affixing lights etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "grid (third-person singular simple present grids, present participle gridding, simple past and past participle gridded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To mark with a grid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To assign a reference grid to.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
