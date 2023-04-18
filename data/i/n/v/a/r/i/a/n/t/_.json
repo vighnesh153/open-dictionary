@@ -1,0 +1,63 @@
+{
+  "word": "invariant",
+  "etymologies": [
+    {
+      "description": [
+        "in- +‎ variant"
+      ],
+      "adjectives": [
+        {
+          "description": "invariant (comparative more invariant, superlative most invariant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "not varying; constant",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Unaffected by a specified operation (especially by a transformation)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) Neither covariant nor contravariant.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "invariant (plural invariants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An invariant quantity, function etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
