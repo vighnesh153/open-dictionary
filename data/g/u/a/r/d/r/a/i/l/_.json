@@ -1,0 +1,43 @@
+{
+  "word": "guardrail",
+  "etymologies": [
+    {
+      "description": [
+        "guard +‎ rail"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "guardrail (plural guardrails)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rail set alongside a dangerous place as a barrier, to improve safety.",
+                  "examples": [
+                    "Synonyms: crash barrier, guard railing, guide board, guide rail, side rail, traffic barrier"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, by extension) Any barrier designed to prevent accidents or mistakes.",
+                  "examples": [
+                    "Set guardrails on Visual Studio Live ShareWe’ve heard from Live Share users that they want to use Live Share in their organization, but without controls to prevent individuals from outside their company domain joining Live Share sessions, they’re blocked. We are excited that this and many other requested policies are now available."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
