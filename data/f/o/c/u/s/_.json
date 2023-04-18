@@ -1,0 +1,196 @@
+{
+  "word": "focus",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin focus (“hearth, fireplace”); see there for more. Doublet of fuel.",
+        "Kepler introduced the term into mathematics and the sciences in describing elliptical orbits of planets (quote from Nicholas Mee) :\n\"One of the interesting properties of an ellipse is that if there were a light bulb at one focus, then all the light that it emits would reflect off the ellipse and converge at the other focus. This is why Kepler originally used the name focus for these points.\""
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "focus (countable and uncountable, plural foci or focuses or focusses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, optics) A point at which reflected or refracted rays of light converge.",
+                  "examples": [
+                    "The heat of sunlight at the focus of a magnifying glass can easily set dry leaves on fire."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, geometry) A point of a conic at which rays reflected from a curve or surface converge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, photography, cinematography) The fact of the convergence of light on the photographic medium.",
+                  "examples": [
+                    "Unfortunately, the license plate is out of focus in this image."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, photography, cinematography) The quality of the convergence of light on the photographic medium.",
+                  "examples": [
+                    "During this scene, the boy’s face shifts subtly from soft focus into sharp focus."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Concentration of attention.",
+                  "examples": [
+                    "I believe I can bring the high degree of focus required for this important job."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, seismology) The exact point of where an earthquake occurs, in three dimensions (underneath the epicentre).",
+                  "examples": [
+                    "The earthquake's focus was at exactly 37 degrees north, 18 degrees south, seventy five meters below the ground."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) The status of being the currently active element in a user interface, often indicated by a visual highlight.",
+                  "examples": [
+                    "Text entered at the keyboard or pasted from a clipboard is sent to the component which currently has the focus."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The most important word or phrase in a sentence or passage, or the one that imparts information.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object used in casting a magic spell.",
+                  "examples": [
+                    "Candles, in fact, are an essential ingredient in many spells. They can be used as either the focus of the spell or as a component that sets the spell's overall mood and tone."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "focus (third-person singular simple present focuses or focusses, present participle focusing or focussing, simple past and past participle focused or focussed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, followed by on or upon) To concentrate during a task.",
+                  "examples": [
+                    "I have to focus on my work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To direct attention, effort, or energy to a particular audience or task.",
+                  "examples": [
+                    "The president focused her remarks to the newcomers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause (rays of light, etc) to converge at a single point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To adjust (a lens, an optical instrument) in order to position an image with respect to the focal plane.",
+                  "examples": [
+                    "You'll need to focus the microscope carefully in order to capture the full detail of this surface."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To concentrate one’s attention.",
+                  "examples": [
+                    "If you're going to beat your competitors, you need to focus."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, graphical user interface, transitive) To transfer the input focus to (a visual element), so that it receives subsequent input.",
+                  "examples": [
+                    "The text box won't receive the user's keystrokes unless you explicitly focus it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(accounting, formerly) To aggregate figures of accounts.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
