@@ -1,0 +1,68 @@
+{
+  "word": "heterogeneous",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin heterogeneus, from Ancient Greek ἑτερογενής (heterogenḗs, “of different kinds”), from ἕτερος (héteros, “other, another, different”) + γένος (génos, “kind”). Compare hetero- and -ous."
+      ],
+      "adjectives": [
+        {
+          "description": "heterogeneous (comparative more heterogeneous, superlative most heterogeneous)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Diverse in kind or nature; composed of diverse parts.",
+                  "examples": [
+                    "He had a large and heterogeneous collection of books."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Incommensurable because of different kinds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, chemistry) Having more than one phase (solid, liquid, gas) present in a system or process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) Visibly consisting of different components.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of a network comprising different types of computers, potentially with vastly differing memory sizes, processing power and even basic underlying architecture; alternatively, of a data resource with multiple types of formats.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
