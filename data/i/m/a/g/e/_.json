@@ -1,0 +1,159 @@
+{
+  "word": "image",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English ymage, borrowed from Old French image, from Latin imāgō (“a copy, likeness, image”), from Proto-Indo-European *h₂eym-; the same PIE root is the source of imitari (“to copy, imitate”); see imitate. Displaced native Old English biliþe (“an image, a representation, resemblance, likeness; pattern, example”). Doublet of imago."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "image (plural images)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An optical or other representation of a real object; a graphic; a picture.",
+                  "examples": [
+                    "The Bible forbids the worship of graven images."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mental picture of something not real or not present.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A statue or idol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A file that contains all information needed to produce a live working copy. (See disk image and image copy.)",
+                  "examples": [
+                    "Most game console emulators do not come with any ROM images for copyright reasons."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A characteristic of a person, group or company etc., style, manner of dress, how one is or wishes to be perceived by others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) What a function maps to.",
+                  "examples": [
+                    "The number 6 is the image of 3 under f that is defined as f(x) = 2x."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The subset of a codomain comprising those elements that are images of something.",
+                  "examples": [
+                    "The image of this step function is the set of integers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(radio) A form of interference: a weaker \"copy\" of a strong signal that occurs at a different frequency.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Show; appearance; cast.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "image (third-person singular simple present images, present participle imaging, simple past and past participle imaged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To represent by an image or symbol; to portray.",
+                  "examples": [
+                    "This Representation of the Terrors which must have attended the Conflict of two such mighty Powers as Jupiter and Neptune, whereby the Elements had been mix’d in Confusion, and the whole Frame of Nature endangered, is imaged in these few Lines with a Nobleness suitable to the Occasion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reflect, mirror.",
+                  "examples": [
+                    "See’st thou yon river, whose translucent wave,",
+                    "Forth issuing from the darkness, windeth through",
+                    "The argent streets o’ th’ City, imaging",
+                    "The soft inversion of her tremulous Domes,"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To create an image of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To create a complete backup copy of a file system or other entity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
