@@ -1,0 +1,106 @@
+{
+  "word": "foliation",
+  "etymologies": [
+    {
+      "description": [
+        "From French foliation, from Latin folium (“leaf”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "foliation (countable and uncountable, plural foliations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) The process of forming into a leaf or leaves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(publishing) The process of forming into pages; pagination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(codicology, publishing) The numbering of the folios of a manuscript or a book.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) The manner in which the young leaves are disposed within the bud.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of beating a metal into a thin plate, leaf, foil, or lamina.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of coating with an amalgam of tin foil and quicksilver, as in making looking-glasses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The enrichment of an opening by means of foils, arranged in trefoils, quatrefoils, etc.; also, one of the ornaments.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) The property, possessed by some crystalline rocks, of being divided into plates or layers, due to the cleavage structure of one of the constituents, as mica or hornblende. It may sometimes include slaty structure or cleavage, though the latter is usually independent of any mineral constituent, and transverse to the bedding, it having been produced by pressure.",
+                  "examples": [
+                    "The dominant strike orientation of both bedding and foliation of Vermont bedrock is north or northeasterly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A set of submanifolds of a given manifold, each of which is of lower dimension than it, but which, taken together, are coextensive with it.",
+                  "examples": [
+                    "We will show that every closed 3-manifold has a foliation of codimension one. In 1952, G. Reeb published his construction of a foliation of the 3-sphere. About twelve years later, W. Lickorish [123] exhibited foliations of codimension one on every closed, orientable 3-manifold."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
