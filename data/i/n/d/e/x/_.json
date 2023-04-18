@@ -1,0 +1,210 @@
+{
+  "word": "index",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin index (“a discoverer, informer, spy; of things, an indicator, the forefinger, a title, superscription”), from indicō (“point out, show”); see indicate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "index (plural indexes or indices or (obsolete, in use in the 17th century) index's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An alphabetical listing of items and their location.",
+                  "examples": [
+                    "The index of a book lists words or expressions and the pages of the book upon which they are to be found."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The index finger; the forefinger.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:index finger"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A movable finger on a gauge, scale, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) A symbol resembling a pointing hand, used to direct particular attention to a note or paragraph.",
+                  "examples": [
+                    "Synonym: manicule"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which points out; that which shows, indicates, manifests, or discloses.",
+                  "examples": [
+                    "Tastes are the Indexes of the different Qualities of Plants."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sign; an indication; a token.",
+                  "examples": [
+                    "His son's empty guffaws  […]  struck him with pain as the indices of a weak mind."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A type of noun where the meaning of the form changes with respect to the context; e.g., 'Today's newspaper' is an indexical form since its referent will differ depending on the context. See also icon and symbol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(economics) A single number calculated from an array of prices or of quantities.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences) A number representing a property or ratio; a coefficient.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A raised suffix indicating a power.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, especially programming and databases) An integer or other key indicating the location of data, e.g. within an array, vector, database table, associative array, or hash table.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases) A data structure that improves the performance of operations on a table.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A prologue indicating what follows.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "index (third-person singular simple present indexes, present participle indexing, simple past and past participle indexed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange an index for something, especially a long text.",
+                  "examples": [
+                    "MySQL does not index short words and common words."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To inventory; to take stock.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly economics) To normalise in order to account for inflation; to correct for inflation by linking to a price index in order to maintain real levels.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To measure by an associated value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, transitive) To be indexical for (some situation or state of affairs); to indicate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To access a value in a data container by an index.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
