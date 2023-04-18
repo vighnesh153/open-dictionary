@@ -1,0 +1,66 @@
+{
+  "word": "genus",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin genus (“birth, origin, a race, sort, kind”) from the root gen- in Latin gignere, Old Latin gegnere (“to beget, produce”). Doublet of gender, genre, and kin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "genus (plural genera or (both nonstandard) genuses or genusses)",
+          "definitionGroups": [
+            {
+              "group": "(biology, taxonomy) A category in the classification of organisms, ranking below family (Lat. familia) and above species.",
+              "entries": [
+                {
+                  "meaning": "A taxon at this rank.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group with common attributes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology, graph theory, algebraic geometry) A natural number representing any of several related measures of the complexity of a given manifold or graph.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semantics) Within a definition, a broader category of the defined concept.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A type of tuning or intonation, used within an Ancient Greek tetrachord.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
