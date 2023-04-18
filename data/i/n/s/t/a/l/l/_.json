@@ -1,0 +1,80 @@
+{
+  "word": "install",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English installen, from Old French installer, from Medieval Latin installō (“to install, put in place, establish”), from in- + stallum (“stall”), from Frankish *stall (“stall, position, place”), from Proto-Germanic *stallaz (“place, position”), from Proto-Indo-European *stel-, *stAlǝn-, *stAlǝm- (“stem, trunk”). Cognate with Old High German stal (“location, stall”), Old English steall (“position, stall”), Old English onstellan (“to institute, create, originate, establish, give the example of”), Middle High German anstalt (“institute”), German anstellen (“to conduct, employ”), German einstellen (“to set, adjust, position”), Dutch aanstellen (“to appoint, commission, institute”), Dutch instellen (“to set up, establish”). More at in, stall."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "install (plural installs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Installer. A software utility that installs an application.",
+                  "examples": [
+                    "After inserting the disk, you need to run the install."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) An installation. (Usage originated as a truncated form of the word installation.)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "install (third-person singular simple present installs, present participle installing, simple past and past participle installed)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To connect, set up or prepare something for use",
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To transfer software onto a device's permanent storage and put it in a state where it is ready to be run when needed, usually decompressing it if necessary and performing any necessary pre-first-run configuration.",
+                  "examples": [
+                    "I haven't installed the new operating system yet because of all the bugs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To admit formally into an office, rank or position.",
+                  "examples": [
+                    "He was installed as Chancellor of the University."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To establish or settle in.",
+                  "examples": [
+                    "I installed myself in my usual chair by the fire."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
