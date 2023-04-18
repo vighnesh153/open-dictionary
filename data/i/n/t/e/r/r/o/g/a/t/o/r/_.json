@@ -1,0 +1,41 @@
+{
+  "word": "interrogator",
+  "etymologies": [
+    {
+      "description": [
+        "interrogate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interrogator (plural interrogators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who interrogates; a person who asks questions; a questioner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device that requests data from another device.",
+                  "examples": [
+                    "Any RFID interrogator within 30 meters can read an RFID tag in active mode."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
