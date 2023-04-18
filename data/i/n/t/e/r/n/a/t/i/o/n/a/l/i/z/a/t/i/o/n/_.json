@@ -1,0 +1,41 @@
+{
+  "word": "internationalization",
+  "etymologies": [
+    {
+      "description": [
+        "international +‎ -ization"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "internationalization (countable and uncountable, plural internationalizations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The conversion of something in order to make it international.",
+                  "examples": [
+                    "Antonym: de-internationalization"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) The act or process of making a product suitable for international markets, typically by making text messages easily translatable and ensuring support of non-Latin character sets, languages, and regions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
