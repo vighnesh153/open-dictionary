@@ -1,0 +1,39 @@
+{
+  "word": "indexer",
+  "etymologies": [
+    {
+      "description": [
+        "index +‎ -er.  Doublet of indicator."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "indexer (plural indexers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or program which creates indexes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, .NET) A special property of a class allowing objects of the class to be accessed by index as though they were arrays or hash tables.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
