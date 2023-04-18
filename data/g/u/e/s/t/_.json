@@ -1,0 +1,114 @@
+{
+  "word": "guest",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English gest, from Old Norse gestr, which replaced or was merged with Old English ġiest, both from Proto-Germanic *gastiz, from Proto-Indo-European *gʰóstis (“stranger, guest, host, someone with whom one has reciprocal duties of hospitality”). Cognate with German Gast (“guest”), Norwegian gjest (“guest”). Doublet of host, from Latin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "guest (plural guests)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A recipient of hospitality, especially someone staying by invitation at the house of another.",
+                  "examples": [
+                    "The guests were let in by the butler."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A patron or customer in a hotel etc.",
+                  "examples": [
+                    "Guests must vacate their rooms by 10 o'clock on their day of departure."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An invited visitor or performer to an institution or to a broadcast.",
+                  "examples": [
+                    "The guest for the broadcast was a leading footballer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A user given temporary access to a system despite not having an account of their own.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) Any insect that lives in the nest of another without compulsion and usually not as a parasite.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) An inquiline.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "guest (third-person singular simple present guests, present participle guesting, simple past and past participle guested)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) to appear as a guest, especially on a broadcast",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) as a musician, to play as a guest, providing an instrument that a band/orchestra does not normally have in its line up (for instance, percussion in a string band)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To receive or entertain hospitably.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
