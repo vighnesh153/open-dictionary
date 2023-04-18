@@ -1,0 +1,42 @@
+{
+  "word": "intersect",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin intersecare (“to cut between, cut off”), from inter (“between”) + secare (“to cut”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "intersect (third-person singular simple present intersects, present participle intersecting, simple past and past participle intersected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To cut into or between; to cut or cross mutually; to divide into parts.",
+                  "examples": [
+                    "Parallel lines don't intersect.",
+                    "Any two diameters of a circle intersect each other at the centre."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of two sets, to have at least one element in common.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
