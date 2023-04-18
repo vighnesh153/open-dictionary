@@ -1,0 +1,32 @@
+{
+  "word": "injective",
+  "etymologies": [
+    {
+      "description": [
+        "This term was introduced by Nicolas Bourbaki in his treatise Éléments de mathématique."
+      ],
+      "adjectives": [
+        {
+          "description": "injective (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) of, relating to, or being an injection: such that each element of the image (or range) is associated with at most one element of the preimage (or domain); inverse-deterministic",
+                  "examples": [
+                    "Synonym: one-to-one"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

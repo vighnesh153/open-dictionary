@@ -1,0 +1,47 @@
+{
+  "word": "injector",
+  "etymologies": [
+    {
+      "description": [
+        "inject +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "injector (plural injectors)",
+          "definitionGroups": [
+            {
+              "group": "One who, or that which, injects something.",
+              "entries": [
+                {
+                  "meaning": "One who injects (himself or herself with) psychoactive drugs.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Any of various devices that are used to inject something.",
+                  "examples": []
+                },
+                {
+                  "meaning": "An apparatus by which a stream of water is forced into a steam boiler.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) An object that realizes a dependency injection.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "word": "injection",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French injection, from Latin iniectio. The mathematical sense is from French injection, introduced by Nicolas Bourbaki in their treatise Éléments de mathématique."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "injection (countable and uncountable, plural injections)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of injecting, or something that is injected.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A specimen prepared by injection.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A morphism from either one of the two components of a coproduct to that coproduct.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(construction) The act of inserting materials like concrete grout or gravel by using high pressure pumps.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) The supply of additional funding to a person or a business.",
+                  "examples": [
+                    "The troubled business received a much-needed cash injection."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A relation on sets (X,Y) that associates each element of Y with at most one element of X.",
+                  "examples": [
+                    "Synonym: injective function"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer security) The insertion of program code into an application, URL, hardware, etc.; especially when malicious or when the target is not designed for such insertion.",
+                  "examples": [
+                    "a SQL injection exploit allowing a malicious user to modify a database query"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(space science) The act of putting a spacecraft into a particular orbit, especially for changing a stable orbit into a transfer orbit, e.g. trans-lunar injection.",
+                  "examples": [
+                    "It had been determined that one of the whip turnstile antennas had broken off from Explorer 1 shortly after injection into orbit, so these were eliminated."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) A function that maps distinct x in the domain to distinct y in the codomain; formally, a f: X → Y such that f(a) = f(b) implies a = b for any a, b in the domain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Something injected subcutaneously, intravenously, or intramuscularly by use of a syringe and a needle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Congestion (of a body part, with blood or other fluid), such as hyperemia.",
+                  "examples": [
+                    "conjunctival injection"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(internal combustion engines) Fuel injection: the pressurized introduction of fuel into a cylinder.",
+                  "examples": [
+                    "direct injection",
+                    "tuned port injection"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(steam engines) The act of throwing cold water into a condenser to produce a vacuum.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(steam engines) The cold water thrown into a condenser to produce a vacuum.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
