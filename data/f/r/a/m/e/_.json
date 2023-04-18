@@ -1,0 +1,434 @@
+{
+  "word": "frame",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English framen, fremen, fremmen (“to construct, build, strengthen, refresh, perform, execute, profit, avail”), from Old English framian, fremian, fremman (“to profit, avail, advance, perform, promote, execute, commit, do”), from Proto-West Germanic *frammjan, from Proto-Germanic *framjaną (“to perform, promote”), from Proto-Indo-European *promo- (“front, forward”). Cognate with Low German framen (“to commit, effect”), Danish fremme (“to promote, further, perform”), Swedish främja (“to promote, encourage, foster”), Icelandic fremja (“to commit”). More at from."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "frame (plural frames)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The structural elements of a building or other constructed object.",
+                  "examples": [
+                    "Now that the frame is complete, we can start on the walls."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything composed of parts fitted and united together; a fabric; a structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The structure of a person's body; the human body.",
+                  "examples": [
+                    "His starved flesh hung loosely on his once imposing frame."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rigid, generally rectangular mounting for paper, canvas or other flexible material.",
+                  "examples": [
+                    "The painting was housed in a beautifully carved frame."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of photographic film containing an image.",
+                  "examples": [
+                    "If the audience had a nickel for every time a character on one side of the frame says something could never happen as it simultaneously happens on the other side of the frame, they’d have enough to pay the surcharge for the movie’s badly implemented 3-D."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A context for understanding or interpretation.",
+                  "examples": [
+                    "In this frame, it's easy to ask the question that the investigators missed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(snooker) A complete game of snooker, from break-off until all the balls (or as many as necessary to win) have been potted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) An independent chunk of data sent over a network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bowling) A set of balls whose results are added together for scoring purposes. Usually two balls, but only one ball in the case of a strike, and three balls in the case of a strike or a spare in the last frame of a game.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bowling) The complete set of pins to be knocked down in their starting configuration.",
+                  "examples": [
+                    "In knockemdowns and bowls ten pins are used, the centre one being called the king, and the ball has to be grounded before it reaches the frame."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(horticulture) A movable structure used for the cultivation or the sheltering of plants.",
+                  "examples": [
+                    "a forcing-frame; a cucumber frame"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philately) The outer decorated portion of a stamp's image, often repeated on several issues although the inner picture may change.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philately) The outer circle of a cancellation mark.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics, film, animation, video games) A division of time on a multimedia timeline, such as 1/30th or 1/60th of a second.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) An individually scrollable region of a webpage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball, slang) An inning.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, dated, chiefly UK) Any of certain machines built upon or within framework.",
+                  "examples": [
+                    "a stocking frame; a lace frame; a spinning frame"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Frame of mind; disposition.",
+                  "examples": [
+                    "to be always in a happy frame"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Contrivance; the act of devising or scheming.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated, video games) A stage or location in a video game.",
+                  "examples": [
+                    "When you play the game it will draw a set pattern depending on the frame you are on, with random additions to the pattern, to give a different orchard each time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics, \"reading frame\") A way of dividing nucleotide sequences into a set of consecutive triplets.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A form of knowledge representation in artificial intelligence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A complete lattice in which meets distribute over arbitrary joins.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "frame (third-person singular simple present frames, present participle framing, simple past and past participle framed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fit, as for a specific end or purpose; make suitable or comfortable; adapt; adjust.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To construct by fitting together or uniting various parts; fabricate by union of constituent parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring or put into form or order; adjust the parts or elements of; compose; contrive; plan; devise.",
+                  "examples": [
+                    "How many excellent reasonings are framed in the mind of a man of wisdom and study in a length of years."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) Of a constructed object such as a building, to put together the structural elements.",
+                  "examples": [
+                    "Once we finish framing the house, we'll hang tin on the roof."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) Of a picture such as a painting or photograph, to place inside a decorative border.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To position visually within a fixed boundary.",
+                  "examples": [
+                    "The director frames the fishing scene very well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To construct in words so as to establish a context for understanding or interpretation.",
+                  "examples": [
+                    "How would you frame your accomplishments?",
+                    "The way the opposition has framed the argument makes it hard for us to win.",
+                    "They have framed this sentencing bill as not caring about victims; we have to frame it as preventing government overreach."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, criminology) Conspire to falsely incriminate a presumably innocent person. See frameup.",
+                  "examples": [
+                    "The gun had obviously been placed in her car in an effort to frame her."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, dialectal, mining) To wash ore with the aid of a frame.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, dialectal) To move.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To proceed; to go.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(tennis) To hit (the ball) with the frame of the racquet rather than the strings (normally a mishit).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To strengthen; refresh; support.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To execute; perform.",
+                  "examples": [
+                    "All have sworn him an oath that they should frame his will on earth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To cause; to bring about; to produce.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To profit; avail.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To fit; accord.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To succeed in doing or trying to do something; manage.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
