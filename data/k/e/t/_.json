@@ -1,0 +1,123 @@
+{
+  "word": "ket",
+  "etymologies": [
+    {
+      "description": [
+        "From bra-ket notation invented by Paul Dirac, from bracket."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ket (plural kets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A column vector, in Hilbert space, especially as representing the state of a quantum mechanical system; the complex conjugate of a bra (a row vector); a ket vector. Symbolised by |...〉.",
+                  "examples": [
+                    "A particular ket, say \n  \n    \n      \n        \n          |\n        \n        A\n        ⟩\n      \n    \n    {\\displaystyle |A\\rangle }\n  \n, might be represented by a particular column vector. Its corresponding bra, \n  \n    \n      \n        ⟨\n        A\n        \n          |\n        \n      \n    \n    {\\displaystyle \\langle A|}\n  \n, would then be represented by the row vector which is the transpose conjugate of that column vector."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Compare Icelandic kjöt (“flesh”); akin to Swedish kött, Danish kød, and Norwegian kjøtt. The use of the term ket for \"candy\" or \"sweets\" probably derived from its use to describe sweet meats or as a deterrent to children."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ket (countable and uncountable, plural kets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northern England) Carrion; any filth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northumbria) Sweetmeats.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Wearside) A sweet, treat or candy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Clipping of ketamine."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ket (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) ketamine",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ket (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland) matted wool",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
