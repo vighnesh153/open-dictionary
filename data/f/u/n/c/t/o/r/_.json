@@ -1,0 +1,60 @@
+{
+  "word": "functor",
+  "etymologies": [
+    {
+      "description": [
+        "From function, modeled after factor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "functor (plural functors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A function word.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) A function object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A category homomorphism; a morphism from a source category to a target category which maps objects to objects and arrows to arrows, in such a way as to preserve domains and codomains (of the arrows) as well as composition and identities.",
+                  "examples": [
+                    "Hyponym: endofunctor",
+                    "In the category of categories, \n  \n    \n      \n        \n          C\n          A\n          T\n        \n      \n    \n    {\\displaystyle \\mathbb {CAT} }\n  \n, the objects are categories and the morphisms are functors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(functional programming) A structure allowing a function to apply within a generic type, in a way that is conceptually similar to a functor in category theory.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
