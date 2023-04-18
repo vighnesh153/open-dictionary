@@ -1,0 +1,75 @@
+{
+  "word": "gadget",
+  "etymologies": [
+    {
+      "description": [
+        "Unknown. First used in print by Robert Brown in 1886 (see quote in definition section). Might come from French gâchette or gagée, or from the French family name Gaget, an industrialist who produced promotional gadgets in collaboration with the project to build the statue of Liberty."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gadget (plural gadgets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A thing whose name cannot be remembered; thingamajig, doohickey.",
+                  "examples": [
+                    "Then the names of all the other things on board a ship! I don't know half of them yet; even the sailors forget at times, and if the exact name of anything they want happens to slip from their memory, they call it a chicken-fixing, or a gadjet, or a timmey-noggy, or a wim-wom—just pro tem., you know."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any device or machine, especially one whose name cannot be recalled. Often either clever or complicated.",
+                  "examples": [
+                    "He bought a neat new gadget for shredding potatoes.",
+                    "That's quite a lot of gadgets you have collected. Do you use any of them?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Any consumer electronics product.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A sequence of machine code instructions crafted as part of an exploit that attempts to divert execution to a memory location chosen by the attacker.",
+                  "examples": [
+                    "A Spectre gadget was found in the Linux kernel's implementation of system interrupts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) A technique for converting a part of one problem to an equivalent part of another problem. Used in constructing reductions.",
+                  "examples": [
+                    "We reduce an instance of 3-SAT to an instance of bird-flock-optimization, using a gadget that converts each conjunctive Boolean clause to a group of birds."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
