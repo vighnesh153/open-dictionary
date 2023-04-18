@@ -1,0 +1,115 @@
+{
+  "word": "intercept",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin interceptum, past participle of intercipiō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "intercept (plural intercepts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An interception of a radio broadcast or a telephone call.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An interception of a missile.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebraic geometry) The coordinate of the point at which a curve intersects an axis.",
+                  "examples": [
+                    "Because the horizontal-axis intercept occurs when y=0 and the vertical-axis intercept occurs when x=0, we can find the intercepts algebraically."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(marketing) A form of market research where consumers are intercepted and interviewed in a retail store or mall.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "intercept (third-person singular simple present intercepts, present participle intercepting, simple past and past participle intercepted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To stop, deflect or divert (something in progress or motion).",
+                  "examples": [
+                    "The police intercepted the package of stolen goods while it was in transit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive, sports) To gain possession of (the ball) in a ball game",
+              "entries": [
+                {
+                  "meaning": "(transitive, American football) Of a defensive player: to steal a pass thrown by the opposing team, gaining possession of the ball.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To take or comprehend between.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An aeronautical action in which a fighter approaches a suspicious aircraft to escort it away from a prohibited area, or approaches an enemy aircraft to shoot it down.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
