@@ -1,0 +1,39 @@
+{
+  "word": "hysteresis",
+  "etymologies": [
+    {
+      "description": [
+        "Coined by Sir James Alfred Ewing from Ancient Greek ὑστέρησις (hustérēsis, “shortcoming”), from ὑστερέω (husteréō, “I am late, fall short”), from ὕστερος (hústeros, “later”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hysteresis (countable and uncountable, plural hystereses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A property of a system such that an output value is not a strict function of the corresponding input, but also incorporates some lag, delay, or history dependence, and in particular when the response for a decrease in the input variable is different from the response for an increase. For example, a thermostat with a nominal setpoint of 75° might switch the controlled heat source on when the temperature drops below 74°, and off when it rises above 76°.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Magnetic friction in dynamos, by which every reversal of magnetism in the iron causes dissipation of energy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
