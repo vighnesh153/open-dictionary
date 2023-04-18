@@ -1,0 +1,112 @@
+{
+  "word": "gradient",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin gradiēns, present participle of gradior (“to step, to walk”)."
+      ],
+      "adjectives": [
+        {
+          "description": "gradient (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Moving by steps; walking.",
+                  "examples": [
+                    "movable and Gradient Automata"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Rising or descending by regular degrees of inclination.",
+                  "examples": [
+                    "the gradient line of a railroad"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Adapted for walking, as the feet of certain birds.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gradient (plural gradients)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A slope or incline.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rate of inclination or declination of a slope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(calculus, of a function) The ratio of the rates of change of a dependent variable and an independent variable, the slope of a curve's tangent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences) The rate at which a physical quantity increases or decreases relative to change in a given variable, especially distance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(calculus) A differential operator that maps each point of a scalar field to a vector pointed in the direction of the greatest rate of change of the scalar. Notation for a scalar field φ: ∇φ",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A gradual change in color. A color gradient; gradation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
