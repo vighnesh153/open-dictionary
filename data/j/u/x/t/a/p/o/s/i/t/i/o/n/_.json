@@ -1,0 +1,70 @@
+{
+  "word": "juxtaposition",
+  "etymologies": [
+    {
+      "description": [
+        "From French juxtaposition, from Latin iuxtā (“near”) (from Latin iungō (“to join”)) + French position (“position”) (from Latin pōnō (“to place”))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "juxtaposition (countable and uncountable, plural juxtapositions)",
+          "definitionGroups": [
+            {
+              "group": "The nearness of objects with little or no delimiter.",
+              "entries": [
+                {
+                  "meaning": "(grammar) An absence of linking elements in a group of words that are listed together.",
+                  "examples": [
+                    "Example: mother father instead of mother and father"
+                  ]
+                },
+                {
+                  "meaning": "(mathematics) An absence of operators in an expression.",
+                  "examples": [
+                    "Using juxtaposition for multiplication saves space when writing longer expressions. \n  \n    \n      \n        a\n        ×\n        b\n      \n    \n    {\\displaystyle a\\times b}\n  \n collapses to \n  \n    \n      \n        a\n        b\n      \n    \n    {\\displaystyle ab}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "The extra emphasis given to a comparison when the contrasted objects are close together.",
+              "entries": [
+                {
+                  "meaning": "(art) Two or more contrasting sounds, colours, styles etc. placed together for stylistic effect.",
+                  "examples": [
+                    "The juxtaposition of the bright yellows on the dark background made the painting appear three dimensional."
+                  ]
+                },
+                {
+                  "meaning": "(rhetoric) The close placement of two ideas to imply a link that may not exist.",
+                  "examples": [
+                    "Example: In 1965 the government was elected; in 1965 the economy took a dive."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "juxtaposition (third-person singular simple present juxtapositions, present participle juxtapositioning, simple past and past participle juxtapositioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To place in juxtaposition.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
