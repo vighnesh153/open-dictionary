@@ -1,0 +1,41 @@
+{
+  "word": "homomorphism",
+  "etymologies": [
+    {
+      "description": [
+        "homo- +‎ morphism."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "homomorphism (plural homomorphisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A structure-preserving map between two algebraic structures of the same type, such as groups, rings, or vector spaces.",
+                  "examples": [
+                    "A field homomorphism is a map from one field to another one which is additive, multiplicative, zero-preserving, and unit-preserving."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) A similar appearance of two unrelated organisms or structures.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
