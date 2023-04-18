@@ -1,0 +1,69 @@
+{
+  "word": "ingest",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin ingerō (“I carry in”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ingest (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process of importing data or other material into a system.",
+                  "examples": [
+                    "Film is a physical, photochemical medium that requires a significant transformation process for ingest into the electronic/digital domain of television."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ingest (third-person singular simple present ingests, present participle ingesting, simple past and past participle ingested)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take (a substance, e.g., food) into the body of an organism, especially through the mouth and into the gastrointestinal tract.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation, transitive, by extension, of a jet engine) To cause (an undesired object or fluid) to enter the engine, generally via the intake.",
+                  "examples": [
+                    "The plane's engine ingested a large bird and flamed out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring or import into a system.",
+                  "examples": [
+                    "While this might seem like more than enough computing power for these purposes, the same machine is also used to ingest, archive and distribute TRMM data to the user community."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
