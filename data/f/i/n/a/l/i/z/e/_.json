@@ -1,0 +1,41 @@
+{
+  "word": "finalize",
+  "etymologies": [
+    {
+      "description": [
+        "From final +‎ -ize."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "finalize (third-person singular simple present finalizes, present participle finalizing, simple past and past participle finalized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make final or firm; to finish or complete.",
+                  "examples": [
+                    "As soon as we get the plane tickets, we'll finalize our reservations with the hotel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, programming) To prepare (an object) for garbage collection by calling its finalizer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
