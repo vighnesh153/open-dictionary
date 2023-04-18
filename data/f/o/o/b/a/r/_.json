@@ -1,0 +1,39 @@
+{
+  "word": "foobar",
+  "etymologies": [
+    {
+      "description": [
+        "Phonetic spelling of FUBAR, which is either an acronym for \"Fucked up beyond all recognition\", or derived from foo."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "foobar (plural foobars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A serious mistake.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A metasyntactic variable name, a place holder for words; compare foo, bar.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
