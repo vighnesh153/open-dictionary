@@ -1,0 +1,157 @@
+{
+  "word": "hail",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hayle, haile, hail, from Old English hæġl, hæġel, from Proto-Germanic *haglaz (compare West Frisian heil, Low German Hagel, Dutch hagel, German Hagel, Danish hagl,  Norwegian hagl)). Either from Proto-Indo-European *kagʰlos (“pebble”), or from *ḱoḱló-, a reduplication of *ḱel- (“cold”) (compare Old Norse héla (“frost”)).",
+        "Root-cognates outside of Germanic include Welsh caill (“testicle”), Breton kell (“testicle”), Lithuanian šešėlis (“shade, shadow”), Ancient Greek κάχληξ (kákhlēx, “pebble”), Albanian çakëll (“pebble”), Sanskrit शिशिर (śíśira, “cool, cold”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hail (countable and uncountable, plural hails)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology, uncountable) Balls or pieces of ice falling as precipitation, often in connection with a thunderstorm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology, countable) An occurrence of this type of precipitation; a hailstorm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, by extension) A rapid, intense barrage by a large number of projectiles or other objects.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hail (third-person singular simple present hails, present participle hailing, simple past and past participle hailed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(impersonal) Of hail, to fall from the sky.",
+                  "examples": [
+                    "They say it's going to hail tomorrow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To send or release hail.",
+                  "examples": [
+                    "The cloud would hail down furiously within a few minutes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To pour down in rapid succession.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English heil (“healthy, sound”), from Old Norse heill, from Proto-Germanic *hailaz (“whole, entire, healthy”). The verb is from Middle English heilen, itself from the adjective. Doublet of whole, hale, and heil."
+      ],
+      "adjectives": [
+        {
+          "description": "hail (comparative hailer, superlative hailest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Healthy, whole, safe.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hail (third-person singular simple present hails, present participle hailing, simple past and past participle hailed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To greet; give salutation to; salute.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To name; to designate; to call.",
+                  "examples": [
+                    "He was hailed as a hero."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive) To call out loudly in order to gain the attention of.",
+              "entries": [
+                {
+                  "meaning": "(transitive, by extension, UK, Australia) To indicate, from a designated stop or otherwise, to the driver of a public transport vehicle that one wishes to board and travel on the vehicle, usually using hand signals such as waving.",
+                  "examples": [
+                    "In Melbourne, you would usually have to hail a tram when you are travelling late at night and there are no other passengers waiting at your stop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To signal in order to initiate communication with.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
