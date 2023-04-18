@@ -1,0 +1,48 @@
+{
+  "word": "instantiation",
+  "etymologies": [
+    {
+      "description": [
+        "20th-century coinage from instantiate +‎ -tion, itself coined 1946 from instance +‎ -ate. The latter, in the sense \"a case, an example\", from Middle English instance, from Medieval Latin īnstantia (“a being near, presence; also perseverance, earnestness, importunity, urgency”), from Latin īnstāns (“urgent”); see English instant."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "instantiation (countable and uncountable, plural instantiations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The production of an instance, example, or specific application of a general classification, principle, theory, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Something resulting from the act of instantiating; an instance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, object-oriented programming) Creation of an instance of some class or template.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
