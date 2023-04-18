@@ -1,0 +1,94 @@
+{
+  "word": "inflection",
+  "etymologies": [
+    {
+      "description": [
+        "From older inflexion, borrowed from Middle French inflexion, itself borrowed from Latin inflexiōnem (“alteration”, literally “bending”). The English spelling with ⟨ct⟩ is due to influence from inflect or related words like correction."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inflection (countable and uncountable, plural inflections)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, uncountable) Change in the form of a word (morphologic change) to express different grammatical categories.",
+                  "examples": [
+                    "In English, word order often does the work that inflection did in Latin"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(grammar, countable) An instance of such change.",
+              "entries": [
+                {
+                  "meaning": "(grammar) An affix representing such an instance.",
+                  "examples": [
+                    "English's regular inflection for number in plural nouns is the suffix -s."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, countable) Any form produced by such an instance of a change, such as the principal parts for any given stem: any of the declined or conjugated forms that constitute its declension or conjugation.",
+                  "examples": [
+                    "Recite every inflection for each of these words."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A change in pitch or tone of voice.",
+                  "examples": [
+                    "If he's lying, his inflection changes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A change in curvature from concave to convex or from convex to concave.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A turning away from a straight course.",
+                  "examples": [
+                    "inflection from the rules"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(optometry) Diffraction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
