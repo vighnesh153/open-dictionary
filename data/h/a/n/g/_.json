@@ -1,0 +1,377 @@
+{
+  "word": "hang",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hangen, hongen, from a fusion of Old English hōn (“to hang, be hanging”, intransitive verb) and hangian (“to hang, cause to hang”, transitive verb), from Proto-West Germanic *hą̄han and *hangēn; also probably influenced by Old Norse hengja (“to suspend”) and hanga (“to be suspended”); all from Proto-Germanic *hanhaną, *hangāną (compare Dutch hangen, Low German hangen and hängen, German hängen, Norwegian Bokmål henge, Norwegian Nynorsk henga), from Proto-Indo-European *ḱenk- (“to waver, be in suspense”) (compare Gothic 𐌷𐌰𐌷𐌰𐌽 (hāhan), Hittite 𒂵𒀀𒀭𒂵 (/kānk-/, “to hang”), Sanskrit शङ्कते (śáṅkate, “is in doubt, hesitates”), Latin cūnctārī (“to delay”))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hang (plural hangs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The way in which something hangs.",
+                  "examples": [
+                    "This skirt has a nice hang."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mass of hanging material.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A slackening of motion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sharp or steep declivity or slope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An instance of ceasing to respond to input.",
+                  "examples": [
+                    "We sometimes get system hangs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, figuratively) A grip, understanding.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(colloquial)",
+              "entries": [
+                {
+                  "meaning": "The smallest amount of concern or consideration; a damn.",
+                  "examples": [
+                    "I don't give a hang.",
+                    "They don't seem to care a hang about the consequences."
+                  ]
+                },
+                {
+                  "meaning": "A hangout.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A person that someone hangs out with.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hang (third-person singular simple present hangs, present participle hanging, simple past and past participle hung or (legal) hanged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be or remain suspended.",
+                  "examples": [
+                    "The lights hung from the ceiling."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To float, as if suspended.",
+                  "examples": [
+                    "The smoke hung in the room."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To veer in one direction.",
+                  "examples": [
+                    "The jockey claimed that the horse hung towards the outside"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a ball in cricket, tennis, etc.) To rebound unexpectedly or unusually slowly, due to backward spin on the ball or imperfections of the ground.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hold or bear in a suspended or inclined manner or position instead of erect.",
+                  "examples": [
+                    "He hung his head in shame."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause (something) to be suspended, as from a hook, hanger, hinges, or the like.",
+                  "examples": [
+                    "Hang those lights from the ceiling.",
+                    "to hang a door"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To kill (someone) by suspension from the neck, usually as a form of execution or suicide.",
+                  "examples": [
+                    "The culprits were hanged from the nearest tree."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, law) To be executed by suspension by one's neck from a gallows, a tree, or other raised bar, attached by a rope tied into a noose.",
+                  "examples": [
+                    "You will hang for this, my friend."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, informal) (used in maledictions) To damn.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, informal) To loiter; to hang around; to spend time idly.",
+                  "examples": [
+                    "Synonym: hang out",
+                    "I didn't see anything, officer. I was just hanging."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To exhibit (an object) by hanging.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To apply (wallpaper or drywall to a wall).",
+                  "examples": [
+                    "Let's hang this cute animal design in the nursery."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To decorate (something) with hanging objects.",
+                  "examples": [
+                    "Let's hang the nursery with some new wallpaper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figuratively) To remain persistently in one's thoughts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To prevent from reaching a decision, especially by refusing to join in a verdict that must be unanimous.",
+                  "examples": [
+                    "One obstinate juror can hang a jury."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To stop responding to manual input devices such as the keyboard and mouse.",
+                  "examples": [
+                    "The computer has hung again. Not even pressing <Ctrl>+<Alt>+<Del> works.",
+                    "When I push this button the program hangs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To cause (a program or computer) to stop responding.",
+                  "examples": [
+                    "The program has a bug that can hang the system."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chess) To cause (a piece) to become vulnerable to capture.",
+                  "examples": [
+                    "If you move there, you'll hang your rook."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, chess) To be vulnerable to capture.",
+                  "examples": [
+                    "In this standard opening position White has to be careful because the pawn on e4 hangs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, baseball, slang, of a pitcher) To throw a hittable off-speed pitch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figurative) To attach or cause to stick (a charge or accusation, etc.).",
+                  "examples": [
+                    "There were no whisperings, even from his opponents, that he was no better than he ought to be. Because, there was nothing wrong on which to hang a charge. As an eloquent orator, he carried with him the firm support of a good name."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From hang sangwich, Irish colloquial pronunciation of ham sandwich."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hang (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Ireland, informal, derogatory) Cheap processed ham (cured pork), often made specially for sandwiches.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hang",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative spelling of Hang (“musical instrument”)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
