@@ -1,0 +1,78 @@
+{
+  "word": "fundamental",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin fundamentālis, from Latin fundamentum (“foundation”), from fundō (“to lay the foundation (of something), to found”), from fundus (“bottom”), from Proto-Indo-European *bʰudʰmḗn."
+      ],
+      "adjectives": [
+        {
+          "description": "fundamental (comparative more fundamental, superlative most fundamental)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Related to a foundation. base, or basis; serving as a foundation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "essential; extremely important",
+                  "examples": [
+                    "Synonym: elementary",
+                    "a fundamental truth;   a fundamental axiom;   a fundamental element;   fundamental principle;    fundamental law",
+                    "A need for belonging seems fundamental to humans."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fundamental (plural fundamentals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually in the plural) A main or major principle, rule, law, etc. which serves as the foundation or basis of a system; an essential part",
+                  "examples": [
+                    "one of the fundamentals of linear algebra"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The lowest frequency of a periodic waveform.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The lowest partial of a complex tone.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
