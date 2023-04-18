@@ -1,0 +1,54 @@
+{
+  "word": "interframe",
+  "etymologies": [
+    {
+      "description": [
+        "inter- +‎ frame"
+      ],
+      "adjectives": [
+        {
+          "description": "interframe (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Between frames (of a video file, a network protocol, etc.).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interframe (plural interframes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing) A video frame which is compressed to express only the change from a reference frame.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A type of bolster for a folding knife.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
