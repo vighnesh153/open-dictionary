@@ -1,0 +1,50 @@
+{
+  "word": "keyset",
+  "etymologies": [
+    {
+      "description": [
+        "key +‎ set"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "keyset (plural keysets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, telegraphy) An input device whose few keys can be pressed in many combinations, often simultaneously, to enter different commands or characters.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases) A set of keys (unique identifiers) used to distinguish the rows of data being traversed by a cursor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) A collection of keys on a typewriter or keyboard.",
+                  "examples": [
+                    "This typewriter has a numeric keyset to the right of the standard alphanumeric keyset."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
