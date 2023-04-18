@@ -1,0 +1,30 @@
+{
+  "word": "idempotency",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "idempotency (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Idempotence.",
+                  "examples": [
+                    "The electron number constraint unlike the idempotency constraint can be represented by a single equation. For this reason, one can properly incorporate this constraint using a Lagrange multiplier and defining an effective chemical potential"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

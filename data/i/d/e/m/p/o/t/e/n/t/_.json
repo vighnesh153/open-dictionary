@@ -1,0 +1,89 @@
+{
+  "word": "idempotent",
+  "etymologies": [
+    {
+      "description": [
+        "Latin roots, idem (“same”) +‎ potent (“having power”) – literally, “having the same power”.",
+        "Coined 1870 by American mathematician Benjamin Peirce in context of algebra."
+      ],
+      "adjectives": [
+        {
+          "description": "idempotent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) (said of a function) Such that, when performed multiple times on the same subject, it has no further effect on its subject after the first time it is performed.",
+                  "examples": [
+                    "A projection operator is idempotent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) (said of an element of an algebraic structure with a binary operation, such as a group or semigroup) Such that, when it operates on itself, the result is equal to itself.",
+                  "examples": [
+                    "Every finite semigroup has an idempotent element.",
+                    "Every group has a unique idempotent element: namely, its identity element."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) (said of a binary operation) Such that all of the distinct elements it can operate on are idempotent (in the sense given just above).",
+                  "examples": [
+                    "Since the AND logical operator is commutative, associative, and idempotent, it distributes with respect to itself."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) (said of an algebraic structure) Having an idempotent operation (in the sense given above).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "idempotent (plural idempotents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An idempotent element.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An idempotent structure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
