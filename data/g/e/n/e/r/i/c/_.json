@@ -1,0 +1,150 @@
+{
+  "word": "generic",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French générique, from Latin genus (“genus, kind”) + -ic; thus morphologically parallel with, and a doublet of, general."
+      ],
+      "adjectives": [
+        {
+          "description": "generic (comparative more generic, superlative most generic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "Very comprehensive; pertaining or appropriate to large classes or groups (genera) as opposed to specific instances.",
+              "entries": [
+                {
+                  "meaning": "(taxonomy) Pertaining to genera of life instead of particular species thereof.",
+                  "examples": [
+                    "There are scores of generic names within the order Decapoda, which includes many sea creatures that are called shrimp.",
+                    "Antonym: specific"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "lacking in precision, often in an evasive fashion; vague; imprecise",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a product or drug) not having a brand name; nonproprietary in design or contents; fungible with the rest of its class.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to gender.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) specifying neither masculine nor feminine; epicene; unisex.",
+                  "examples": [
+                    "Words like salesperson and firefighter are generic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of procedures) Written so as to operate on any data type, the type required being passed as a parameter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, of a point) Having coordinates that are algebraically independent over the base field.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "generic (plural generics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A product sold under a generic name.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A wine that is a blend of several wines, or made from a blend of several grape varieties.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A term that specifies neither male nor female.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
