@@ -1,0 +1,52 @@
+{
+  "word": "incantation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English incantacioun, from Old French incantation, from Latin incantatio. More at enchant."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "incantation (plural incantations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or process of using formulas and/or usually rhyming words, sung or spoken, with occult ceremonies, for the purpose of raising spirits, producing enchantment, or creating other magical results.",
+                  "examples": [
+                    "Synonym: galdr"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A formula of words used as above.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) Any esoteric command or procedure.",
+                  "examples": [
+                    "The appropriate incantation of route is shown below; the gw keyword tells it that the next argument denotes a gateway."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
