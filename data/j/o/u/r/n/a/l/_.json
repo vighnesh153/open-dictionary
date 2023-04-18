@@ -1,0 +1,181 @@
+{
+  "word": "journal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English journal, from Anglo-Norman jurnal (“daily”), from Old French jornel (“day”) (French journal), from Latin diurnālis, from diurnus (“of the day”), from diēs (“day”) (whence also diary), from *djous, from Proto-Indo-European *dyḗws (“heaven, sky”). Doublet of diurnal  and the journal from French. The sound change from Latin to French (‘diur’ to ‘jor’) is due to the ‘i’ changing to a ‘j’, followed by the ‘d’ being dropped; compare French jour (“day”)."
+      ],
+      "adjectives": [
+        {
+          "description": "journal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Daily.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "journal (plural journals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A diary or daily record of a person, organization, vessel etc.; daybook.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A newspaper or magazine dealing with a particular subject.",
+                  "examples": [
+                    "The university's biology department subscribes to half a dozen academic journals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(accounting) A chronological record of payments or receipts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(accounting) A general journal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A chronological record of changes made to a database or other system; along with a backup or image copy that allows recovery after a failure or reinstatement to a previous time; a log.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "journal (third-person singular simple present journals, present participle journaling or journalling, simple past and past participle journaled or journalled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To archive or record something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To scrapbook.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To insert (a shaft, etc.) in a journal bearing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From French journal. Doublet of diurnal and the journal from Middle English."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "journal (plural journaux)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The amount of land that can be worked in a day.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Unknown, apparently of Scots origin. Perhaps from chirnel, from English kernel (“lump in the flesh”), owing to resemblance in shape."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "journal (plural journals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) The part of a shaft or axle that rests on bearings.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "journal (third-person singular simple present journals, present participle journaling or journalling, simple past and past participle journaled or journalled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To insert (a shaft, an axle, etc) into a journal bearing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
