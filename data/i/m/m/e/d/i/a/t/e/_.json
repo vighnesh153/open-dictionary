@@ -1,0 +1,83 @@
+{
+  "word": "immediate",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French immediat, from Late Latin immediātus (“without anything between”), from Latin in + mediātus, past participle of mediō (“to halve, to be in the middle”), from medius (“middle”)."
+      ],
+      "adjectives": [
+        {
+          "description": "immediate (comparative more immediate, superlative most immediate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Happening right away, instantly, with no delay.",
+                  "examples": [
+                    "Computer users these days expect immediate results when they click on a link."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Very close; direct or adjacent.",
+                  "examples": [
+                    "immediate family;  immediate vicinity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Manifestly true; requiring no argument.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science, of an instruction operand) Embedded as part of the instruction itself, rather than stored elsewhere (such as a register or memory location).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(procedure word, military) Used to denote that a transmission is urgent.",
+                  "examples": [
+                    "Bravo Three, this Bravo Six. Immediate! We are coming under fire from the north from an unknown enemy, over!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(procedure word, military) An artillery fire mission modifier for to types of fire mission to denote an immediate need for fire: Immediate smoke, all guns involved must reload smoke and fire. Immediate suppression, all guns involved fire the rounds currently loaded and then switch to high explosive with impact fused (unless fuses are specified).",
+                  "examples": [
+                    "Hotel Two-Niner, this is Bravo Six. Immediate suppression at grid November-Kilo four-five-three two-one-five. Danger Close. I authenticate Golf Echo, over."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
