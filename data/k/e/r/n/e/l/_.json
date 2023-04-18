@@ -1,0 +1,188 @@
+{
+  "word": "kernel",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English kernel, kirnel, kürnel, from Old English cyrnel, from Proto-West Germanic *kurnil, diminutive of Proto-Germanic *kurną (“seed, grain, corn”), equivalent to corn +‎ -le. Cognate with Yiddish קערנדל‎ (kerndl), Middle Dutch kernel, cornel, Middle High German kornel. Related also to Old Norse kjarni (“kernel”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "kernel (plural kernels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The core, center, or essence of an object or system.",
+                  "examples": [
+                    "the kernel of an argument",
+                    "Synonyms: crux, gist"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) The central (usually edible) part of a nut, especially once the hard shell has been removed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) A single seed or grain, especially of corn or wheat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany, US) The stone of certain fruits, such as peaches or plums.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small mass around which other matter is concreted; a nucleus; a concretion or hard lump in the flesh.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The central part of many computer operating systems which manages the system's resources and the communication between hardware and software components.",
+                  "examples": [
+                    "Hyponyms: microkernel, unikernel",
+                    "Antonym: userland",
+                    "The Linux kernel is open-source."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The core engine of any complex software system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(calculus) A function used to define an integral transform.",
+                  "examples": [
+                    "The Dirichlet kernel convolved with a function yields its Fourier series approximation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A set of pairs of a mapping's domain which are mapped to the same value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra, functional analysis) For a given function (especially a linear map between vector spaces), the set of elements in the domain which are mapped to zero; (formally) given f : X → Y, the set {x ∈ X : f(x) = 0}.",
+                  "examples": [
+                    "If a function is continuous then its kernel is a closed set.",
+                    "Antonym: support",
+                    "Meronyms: root, zero"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, category theory) For a category with zero morphisms: the equalizer of a given morphism and the zero morphism which is parallel to that given morphism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, fuzzy set theory) The set of members of a fuzzy set that are fully included (i.e., whose grade of membership is 1).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) The human clitoris.",
+                  "examples": [
+                    "Using the blunt end of one of the vibraphone mallets, he pried open her folds. With the balled end of the other, he rhythmically rolled over her kernel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The nucleus and electrons of an atom excluding its valence electrons.",
+                  "examples": [
+                    "1. In every atom is an essential kernel which remains unaltered in all ordinary chemical changes and which possesses an excess of positive charges corresponding in number to the ordinal number of the group in the periodic table to which the element belongs."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "kernel (third-person singular simple present kernels, present participle (US) kerneling or (UK) kernelling, simple past and past participle (US) kerneled or (UK) kernelled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To enclose within a kernel",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To crenellate",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
