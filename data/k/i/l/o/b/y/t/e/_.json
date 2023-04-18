@@ -1,0 +1,39 @@
+{
+  "word": "kilobyte",
+  "etymologies": [
+    {
+      "description": [
+        "Coined in the 1960s, from kilo- (“thousand”) +‎ byte."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "kilobyte (plural kilobytes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, especially networking) 1000 (103) bytes. SI Symbol: kB",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, especially RAM) A unit of storage capacity, equal to 1024 (210) bytes : a kibibyte. Frequently abbreviated KB.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
