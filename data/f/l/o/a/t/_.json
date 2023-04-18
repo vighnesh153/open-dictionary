@@ -1,0 +1,523 @@
+{
+  "word": "float",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English floten, from Old English flotian (“to float”), from Proto-West Germanic *flotōn, from Proto-Germanic *flutōną (“to float”), from Proto-Indo-European *plewd-, *plew- (“to float, swim, fly”).",
+        "Cognate with Saterland Frisian flotje (“to float”), West Frisian flotsje (“to float”), Dutch vlotten (“to float”), Middle Low German vloten, vlotten (“to float, swim”), German flötzen, flößen (“to float”), Swedish flotta (“to float”), Icelandic fljóta, Old English flēotan (“to float, swim”), Ancient Greek πλέω (pléō), Lithuanian plaukti, Russian пла́вать (plávatʹ). Compare flow, fleet."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "float (plural floats)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A buoyant device used to support something in water or another liquid.",
+                  "examples": [
+                    "Attach the float and the weight to the fishing line, above the hook."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mass of timber or boards fastened together, and conveyed down a stream by the current; a raft.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A float board.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tool similar to a rasp, used in various trades.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sort of trowel used for finishing concrete surfaces or smoothing plaster.",
+                  "examples": [
+                    "When pouring a new driveway, you can use a two-by-four as a float."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An elaborately decorated trailer or vehicle, intended for display in a parade or pageant.",
+                  "examples": [
+                    "That float covered in roses is very pretty."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A floating toy made of foam, used in swimming pools.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain) A small vehicle used for local deliveries, especially in the term milk float.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) Funds committed to be paid but not yet paid.",
+                  "examples": [
+                    "Our bank does a nightly sweep of accounts, to adjust the float so we stay within our reserves limit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, Australia, and other Commonwealth countries?) An offering of shares in a company (or units in a trust) to members of the public, normally followed by a listing on a stock exchange.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(banking) The total amount of checks/cheques or other drafts written against a bank account but not yet cleared and charged against the account.",
+                  "examples": [
+                    "No sir, your current float is not taken into account, when assets are legally garnished."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(insurance) Premiums taken in but not yet paid out.",
+                  "examples": [
+                    "We make a lot of interest from our nightly float."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A floating-point number, especially one that has lower precision than a double.",
+                  "examples": [
+                    "That routine should not have used an int; it should be a float."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A soft beverage with a scoop of ice-cream floating in it.",
+                  "examples": [
+                    "I don't consider anything other than root-beer with vanilla ice-cream to be a \"real\" float."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small sum of money put in a cashier's till, or otherwise secured, at the start of business, to enable change to be made.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) A maneuver where a player calls on the flop or turn with a weak hand, with the intention of bluffing after a subsequent community card.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(knitting) One of the loose ends of yarn on an unfinished work.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(automotive) A car carrier or car transporter truck or truck-and-trailer combination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transport) A lowboy trailer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The act of flowing; flux; flow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A polishing block used in marble working; a runner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dated) A coal cart.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A breakdancing move in which the body is held parallel to the floor while balancing on one or both hands.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A visual style on a web page that causes the styled elements to float above or beside others.",
+                  "examples": [
+                    "Because margin floats don't collapse together, the actual spacing between two floats sitting next to each other will be 6 pixels  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The gas-filled sac, bag, or body of a siphonophore; a pneumatophore.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(publishing, digital typesetting) Any object (element) whose location in composition (page makeup, pagination) does not flow within body text but rather floats outside of it, usually anchored loosely (in buoy metaphor) to spots within it (citations, callouts): a figure (image), table, box, pull quote, ornament, or other floated element.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "float (third-person singular simple present floats, present participle floating, simple past and past participle floated)",
+          "definitionGroups": [
+            {
+              "group": "(intransitive, of an object or substance) To be supported by a fluid of greater density (than the object).",
+              "entries": [
+                {
+                  "meaning": "To be supported by a liquid of greater density, such that part (of the object or substance) remains above the surface.",
+                  "examples": [
+                    "The boat floated on the water.",
+                    "The oil floated on the vinegar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause something to be suspended in a liquid of greater density.",
+                  "examples": [
+                    "to float a boat"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be capable of floating.",
+                  "examples": [
+                    "That boat doesn't float.",
+                    "Oil floats on vinegar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move in a particular direction with the liquid in which one is floating.",
+                  "examples": [
+                    "I’d love to just float downstream."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To drift or wander aimlessly.",
+                  "examples": [
+                    "I’m not sure where they went... they're floating around here somewhere.",
+                    "Images from my childhood floated through my mind."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To drift gently through the air.",
+                  "examples": [
+                    "The balloon floated off into the distance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move in a fluid manner.",
+                  "examples": [
+                    "The dancer floated gracefully around the stage."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figurative) To circulate.",
+                  "examples": [
+                    "There's a rumour floating around the office that Jan is pregnant."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) To remain airborne, without touching down, for an excessive length of time during landing, due to excessive airspeed during the landing flare.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, colloquial) (of an idea or scheme) To be viable.",
+                  "examples": [
+                    "That's a daft idea... it'll never float."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To propose (an idea) for consideration.",
+                  "examples": [
+                    "I floated the idea of free ice-cream on Fridays, but no one was interested."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To automatically adjust a parameter as related parameters change.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, finance) (of currencies) To have an exchange value determined by the markets, as opposed to by central fiat.",
+                  "examples": [
+                    "The yen floats against the dollar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, finance) To allow (the exchange value of a currency) to be determined by the markets.",
+                  "examples": [
+                    "The government floated the pound in January.",
+                    "Increased pressure on Thailand’s currency, the baht, in 1997 led to a crisis that forced the government to float the currency."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, colloquial) To extend a short-term loan to.",
+                  "examples": [
+                    "Could you float me $50 until payday?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, finance) To issue or sell shares in a company (or units in a trust) to members of the public, followed by listing on a stock exchange.",
+                  "examples": [
+                    "He [Mario Moretti Polegato] floated the company on the Milan Stock Exchange last December and sold 29 per cent of its shares, mostly to American investors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To spread plaster over (a surface), using the tool called a float.",
+                  "examples": [
+                    "This wire, nailed over the face of the old plaster will also reinforce any loose lath or plaster after the walls have set. Float the wall to the face of the lath first."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use a float (rasp-like tool) upon.",
+                  "examples": [
+                    "It is time to float this horse's teeth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To transport by float (vehicular trailer).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) To perform a float.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, publishing, transitive) To cause (an element within a document) to float above or beside others.",
+                  "examples": [
+                    "To get the footer acting right, you need to float it and clear it on both margins."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
