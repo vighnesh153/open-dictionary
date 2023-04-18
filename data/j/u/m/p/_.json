@@ -1,0 +1,510 @@
+{
+  "word": "jump",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English jumpen (“to walk quickly, run, jump”), probably of Middle Low German or North Germanic origin, ultimately from Proto-Germanic *gempaną, *gembaną (“to hop, skip, jump”), from Proto-Indo-European *gʷʰemb- (“to spring, hop, jump”).  The OED instead suggests an imitative origin. Related to jumble."
+      ],
+      "adjectives": [
+        {
+          "description": "jump (comparative more jump, superlative most jump)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Exact; matched; fitting; precise.",
+                  "examples": [
+                    "jump names"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "jump (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Exactly; precisely",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "jump (plural jumps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of jumping; a leap; a spring; a bound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An effort; an attempt; a venture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) A dislocation in a stratum; a fault.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) An abrupt interruption of level in a piece of brickwork or masonry.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of propelling oneself upwards.",
+                  "examples": [
+                    "The boy took a skip and a jump down the lane."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object which causes one to jump; a ramp.",
+                  "examples": [
+                    "The skier flew off the jump and landed perfectly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of causing oneself to fall from an elevated location.",
+                  "examples": [
+                    "There were a couple of jumps from the bridge."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of employing a parachute to leave an aircraft or elevated location.",
+                  "examples": [
+                    "She was terrified before the jump, but was thrilled to be skydiving."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of reacting to a sudden stimulus by jerking the body.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A jumping move in a board game.",
+                  "examples": [
+                    "the knight's jump in chess"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A button (of a joypad, joystick or similar device) used to make a video game character jump (propel itself upwards).",
+                  "examples": [
+                    "Press jump to start."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, equestrianism) An obstacle that forms part of a showjumping course, and that the horse has to jump over cleanly.",
+                  "examples": [
+                    "Heartless managed the scale the first jump but fell over the second."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(with on) An early start or an advantage.",
+                  "examples": [
+                    "He got a jump on the day because he had laid out everything the night before.",
+                    "Their research department gave them the jump on the competition."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A discontinuity in the graph of a function, where the function is continuous in a punctured interval of the discontinuity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, hydrodynamics) An abrupt increase in the height of the surface of a flowing liquid at the location where the flow transitions from supercritical to subcritical, involving an abrupt reduction in flow speed and increase in turbulence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(science fiction) An instance of faster-than-light travel, not observable from ordinary space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A change of the path of execution to a different location.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, informal, automotive) Short for jump-start.",
+                  "examples": [
+                    "My car won't start. Could you give me a jump?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(film) Clipping of jump cut.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater) Synonym of one-night stand (“single evening's performance”)",
+                  "examples": [
+                    "Next jump will be at the Chicago Theater, Chicago."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "jump (third-person singular simple present jumps, present participle jumping, simple past and past participle jumped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To propel oneself rapidly upward, downward and/or in any horizontal direction such that momentum causes the body to become airborne.",
+                  "examples": [
+                    "The boy jumped over a fence.",
+                    "Kangaroos are known for their ability to jump high."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To cause oneself to leave an elevated location and fall downward.",
+                  "examples": [
+                    "She is going to jump from the diving board."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pass by a spring or leap; to overleap.",
+                  "examples": [
+                    "to jump a stream"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To employ a parachute to leave an aircraft or elevated location.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To react to a sudden, often unexpected, stimulus (such as a sharp prick or a loud sound) by jerking the body violently.",
+                  "examples": [
+                    "The sudden sharp sound made me jump."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figuratively) To increase sharply, to rise, to shoot up.",
+                  "examples": [
+                    "Share prices jumped by 10% after the company announced record profits."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To employ a move in certain board games where one game piece is moved from one legal position to another passing over the position of another piece.",
+                  "examples": [
+                    "The player's knight jumped the opponent's bishop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To move to a position (in a queue/line) that is further forward.",
+                  "examples": [
+                    "I hate it when people jump the queue."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To attack suddenly and violently.",
+                  "examples": [
+                    "The hoodlum jumped a woman in the alley."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To engage in sexual intercourse with (a person).",
+                  "examples": [
+                    "Harold: How is Sarah? I don't want to jump her while she's on the rag."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to jump.",
+                  "examples": [
+                    "The rider jumped the horse over the fence."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To move the distance between two opposing subjects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To increase the height of a tower crane by inserting a section at the base of the tower and jacking up everything above it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cycling, intransitive) To increase speed aggressively and without warning.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To expose to danger; to risk; to hazard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, smithwork) To join by a buttweld.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To thicken or enlarge by endwise blows; to upset.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(quarrying) To bore with a jumper.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To jump-start a car or other vehicle with a dead battery, as with jumper cables.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To coincide; to agree; to accord; to tally; followed by with.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, programming) To start executing code from a different location, rather than following the program counter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, slang, archaic) To flee; to make one's escape.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Compare French jupe (“a long petticoat, a skirt”) and English jupon."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jump (plural jumps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A kind of loose jacket for men.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
