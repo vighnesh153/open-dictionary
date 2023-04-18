@@ -1,0 +1,221 @@
+{
+  "word": "header",
+  "etymologies": [
+    {
+      "description": [
+        "From head +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "header (plural headers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The upper portion of a page (or other) layout.",
+                  "examples": [
+                    "Coordinate terms: body, footer, table",
+                    "If you reduce the header of this document, the body will fit onto a single page."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Text, or other visual information, used to mark off a quantity of text, often titling or summarizing it.",
+                  "examples": [
+                    "Synonyms: head, heading",
+                    "Your header is too long; \"Local Cannibals\" will suffice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Text, or other visual information, that goes at the top of a column of information in a table.",
+                  "examples": [
+                    "That column should have the header \"payment status\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A font, text style, or typesetting used for any of the above.",
+                  "examples": [
+                    "Parts of speech belong in a level-three header. Level-two headers are reserved for the name of the language."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The first part of a file or record that describes its contents.",
+                  "examples": [
+                    "The header includes an index, an identifier, and a pointer to the next entry."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Clipping of header file.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) the first part of a packet or stream, often containing its address and descriptors.",
+                  "examples": [
+                    "Coordinate terms: body, payload",
+                    "Hyponyms: cache header, cache-control header",
+                    "The encapsulation layer adds an eight-byte header and a two-byte trailer to each packet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(masonry) A brick that is laid sideways at the top of a wall or within the brickwork with the short side showing.",
+                  "examples": [
+                    "Synonyms: bonder, coping, cope",
+                    "Coordinate term: stretcher",
+                    "This wall has four header courses."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A horizontal structural or finish piece over an opening.",
+                  "examples": [
+                    "Synonym: lintel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A machine that separates and gathers the heads of grain etc.",
+                  "examples": [
+                    "They fed the bale into the header."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(soccer) The act of hitting the ball with the head.",
+                  "examples": [
+                    "His header for the goal followed a perfect corner kick."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(soccer) Someone who heads the ball.",
+                  "examples": [
+                    "Hyponym: diving header"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A headlong fall, jump or dive.",
+                  "examples": [
+                    "The clown tripped over the other clown and took a header."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A raised tank that supplies water at constant pressure, especially to a central heating and hot water system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pipe which connects several smaller pipes.",
+                  "examples": [
+                    "Common practice is to use plastic pipes with iron headers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The rodeo performer who drives the steer toward the heeler to be tied.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who puts a head on something.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "header (third-person singular simple present headers, present participle headering, simple past and past participle headered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, transitive) To strike (a ball) with one's head.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
