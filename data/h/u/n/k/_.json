@@ -1,0 +1,84 @@
+{
+  "word": "hunk",
+  "etymologies": [
+    {
+      "description": [
+        "Probably borrowed from West Flemish hunke (“hunk; chunk”), of obscure origin. Probably from an earlier *humke, *humpke, a diminutive related to Dutch homp (“hunk; lump”), English hump, equivalent to hump +‎ -kin. The sense of an attractive man is recorded in Australian slang in 1941, in jive talk in 1945."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hunk (plural hunks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large or dense piece of something.",
+                  "examples": [
+                    "a hunk of metal"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) An attractive man, especially one who is muscular.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A record of differences between almost contiguous portions of two files (or other sources of information). Differences that are widely separated by areas which are identical in both files would not be part of a single hunk. Differences that are separated by small regions which are identical in both files may comprise a single hunk. Patches are made up of hunks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang) A honyock.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Dutch honk (“the base in a game”)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hunk",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A goal or base in children's games.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
