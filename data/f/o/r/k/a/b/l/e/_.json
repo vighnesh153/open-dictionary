@@ -1,0 +1,52 @@
+{
+  "word": "forkable",
+  "etymologies": [
+    {
+      "description": [
+        "fork +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "forkable (comparative more forkable, superlative most forkable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being moved or separated with a fork.",
+                  "examples": [
+                    "Loss of so much moisture  […]  produces a sludge cake, which is generally forkable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Capable of being split into separate processes.",
+                  "examples": [
+                    "The debugger will support any forkable Perl program, and you can see examples in this book in Chapter 9."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Capable of being split into separate projects.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

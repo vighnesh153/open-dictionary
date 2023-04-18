@@ -1,0 +1,353 @@
+{
+  "word": "fork",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English forke (“digging fork”), from Old English force, forca (“forked instrument used to torture”), from Proto-West Germanic *furkō (“fork”), from Latin furca (“pitchfork, forked stake; gallows, beam, stake, support post, yoke”), of uncertain origin. The Middle English word was later reinforced by Anglo-Norman, Old Northern French forque (= Old French forche whence French fourche), also from the Latin. Cognate also with North Frisian forck (“fork”), Dutch vork (“fork”), Danish fork (“fork”), German Forke (“pitchfork”). Displaced native gafol, ġeafel, ġeafle (“fork”), from Old English.",
+        "In its primary sense of “fork”, Latin furca appears to be derived from Proto-Indo-European *ǵʰerk(ʷ)-, *ǵʰerg(ʷ)- (“fork”), although the development of the -c- is difficult to explain. In other senses this derivation is unlikely. For these, perhaps it is connected to Proto-Germanic *furkaz, *firkalaz (“stake, stick, pole, post”), from Proto-Indo-European *perg- (“pole, post”). If so, this would relate the word to Old English forclas pl (“bolt”), Old Saxon ferkal (“lock, bolt, bar”), Old Norse forkr (“pole, staff, stick”), Norwegian fork (“stick, bat”), Swedish fork (“pole”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fork (plural forks)",
+          "definitionGroups": [
+            {
+              "group": "Any of several types of pronged (tined) tools (physical tools), as follows:",
+              "entries": [
+                {
+                  "meaning": "A utensil with spikes used to put solid food into the mouth, or to hold food down while cutting.",
+                  "examples": [
+                    "Coordinate terms: spoon, knife, table knife, butter knife, steak knife, spork, foon, chork",
+                    "Hyponyms: salad fork, cocktail fork, crab fork, pickle fork, chip fork"
+                  ]
+                },
+                {
+                  "meaning": "Any of several types of pronged tools for use on farms, in fields, or in the garden or lawn, such as a smaller hand fork for weeding or a larger one for turning over the soil.",
+                  "examples": [
+                    "Hyponyms: pitchfork, digging fork, spade fork, spading fork, garden fork"
+                  ]
+                },
+                {
+                  "meaning": "Such a pronged tool having a long straight handle, generally for two-handed use, as used for digging, lifting, mucking, pitching, etc.",
+                  "examples": [
+                    "Hyponyms: pitchfork, digging fork, spade fork, spading fork, garden fork"
+                  ]
+                },
+                {
+                  "meaning": "A tuning fork.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "(by abstraction, from the tool shape) A fork in the road, as follows:",
+              "entries": [
+                {
+                  "meaning": "(physical) An intersection in a road or path where one road is split into two.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figurative) A decision point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by abstraction, from the tool shape) A point where a waterway, such as a river or other stream, splits and flows into two (or more) different directions.",
+                  "examples": [
+                    "Antonym: confluence"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(metonymically, and analogous to any prong of a pronged tool) One of the parts into which anything is furcated or divided; a prong; a branch of a stream, a road, etc.; a barbed point, as of an arrow.",
+                  "examples": [
+                    "a thunderbolt with three forks",
+                    "this fork of the river dries up during droughts",
+                    "Synonyms: branch, prong (but the word prong is usually reserved for the physical sense, and the word tine is always so)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "(figuratively, decision-making) A point in time where one has to make a decision between two life paths.",
+              "entries": [
+                {
+                  "meaning": "(metonymically) Either of the (figurative) paths thus taken.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "(figuratively, by abstraction, from a physical fork) (software development, content management, data management) A departure from having a single source of truth (SSOT), sometimes intentionally but usually unintentionally.",
+              "entries": [
+                {
+                  "meaning": "(metonymically) Any of the pieces/versions (of software, content, or data sets) thus created.",
+                  "examples": [
+                    "Antonym: single source of truth, SSOT"
+                  ]
+                },
+                {
+                  "meaning": "(software) The launch of one or more separate software development efforts based upon a modified copy of an existing project, especially in free and open-source software.",
+                  "examples": [
+                    "LibreOffice is a fork of OpenOffice."
+                  ]
+                },
+                {
+                  "meaning": "(software) Any of the software projects resulting from the launch of such separate software development efforts based upon a copy of the original project.",
+                  "examples": [
+                    "LibreOffice is a fork of OpenOffice."
+                  ]
+                },
+                {
+                  "meaning": "(content management) The splitting of the coverage of a topic (within a corpus of content) into two or more pieces.",
+                  "examples": [
+                    "A content fork may be intentional (as from a schism about goals) or unintentional (merely from a lack of reorganizing, so far)."
+                  ]
+                },
+                {
+                  "meaning": "(content management) Any of the pieces/versions of content thus created.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(cryptocurrencies) A split in a blockchain resulting from protocol disagreements, or a branch of the blockchain resulting from such a split.",
+                  "examples": [
+                    "Hyponyms: hard fork, soft fork"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess) The simultaneous attack of two adversary pieces with one single attacking piece (especially a knight).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, vulgar) The crotch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) A forklift.",
+                  "examples": [
+                    "Are you qualified to drive a fork?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Either of the blades of a forklift (or, in plural, the set of blades), on which the goods to be raised are loaded.",
+                  "examples": [
+                    "Get those forks tilted back more or you're gonna lose that pallet!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cycling, motorcycling, by abstraction from a pronged tool's shape) In a bicycle or motorcycle, the portion of the frameset holding the front wheel, allowing the rider to steer and balance, also called front fork.",
+                  "examples": [
+                    "The fork can be equipped with a suspension on mountain bikes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The upper front brow of a saddle bow, connected in the tree by the two saddle bars to the cantle on the other end.",
+                  "examples": [
+                    "Synonyms: swell, pommel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A gallows.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fork (third-person singular simple present forks, present participle forking, simple past and past participle forked)",
+          "definitionGroups": [
+            {
+              "group": "(transitive, intransitive) To divide into two or more branches or copies.",
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, computing) To spawn a new child process by duplicating the existing process.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, intransitive, software engineering) To launch a separate software development effort based upon a modified copy of an existing software project, especially in free and open-source software.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, software engineering) To create a copy of a distributed version control repository.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To move with a fork (as hay or food).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Britain) To kick someone in the crotch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To shoot into blades, as corn does.",
+                  "examples": [
+                    "I have known them couched up a Yard thick cover’d with an Hair-cloth and ſtirred only once a day, the Maltſer being always careful to throw the frozen outſides into the middle till the Corn begin to fork and warm in the Couch; after which time if it be not laid too thin, it will not eaſily freeze."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) Euphemistic form of fuck.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fork (plural forks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) The bottom of a sump into which the water of a mine drains.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fork (third-person singular simple present forks, present participle forking, simple past and past participle forked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining, transitive) To bale a shaft dry.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
