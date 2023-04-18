@@ -1,0 +1,435 @@
+{
+  "word": "ghost",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English gost, from Old English gāst, which was the word for \"spirit\" as well as \"ghost\" (the original sense survives in Modern English Holy Ghost from Old English Hāliġ Gāst). Further from Proto-West Germanic *gaist, from Proto-Germanic *gaistaz, from Proto-Indo-European *ǵʰéysdos, derived from *ǵʰéysd- (“anger, agitation”).",
+        "Cognate with Scots ghaist (“ghost”), Saterland Frisian Gäist (“spirit”), West Frisian geast (“spirit”), Dutch geest (“spirit, mind, ghost”), German Geist (“spirit, mind, intellect”), Swedish gast (“ghost”). Wider cognates include Sanskrit हेड (héḍa, “anger, hatred”), Persian زشت‎ (zešt, “ugly, hateful, disgusting”).",
+        "The 'h' in the spelling appears in the Prologue to William Caxton's Royal Book, printed in 1484, in a reference to the 'Holy Ghoost', likely introduced by Caxton's assistant, Wynkyn de Worde, as a result of Flemish influence, where it was spelled 'gheest'."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ghost (countable and uncountable, plural ghosts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncommon or dated) The spirit; the human soul.",
+                  "examples": [
+                    "Synonyms: essence, soul, spirit; see also Thesaurus:ghost"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The disembodied soul; the soul or spirit of a deceased person; a spirit appearing after death.",
+                  "examples": [
+                    "Synonyms: apparition, bogey, haint, phantom, revenant, specter, spook, wraith",
+                    "Everyone believed that the ghost of an old lady haunted the crypt."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any faint shadowy semblance; an unsubstantial image.",
+                  "examples": [
+                    "Synonyms: glimmer, glimmering, glimpse, hint, inkling, phantom, spark, suggestion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A false image formed in a telescope, camera, or other optical device by reflection from the surfaces of one or more lenses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An unwanted image similar to and overlapping or adjacent to the main one on a television screen, caused by the transmitted image being received both directly and via reflection.",
+                  "examples": [
+                    "Synonym: echo"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A ghostwriter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A nonexistent person invented to obtain some fraudulent benefit.",
+                  "examples": [
+                    "Some health systems are plagued by \"ghost\" and \"absent\" workers. Ghost workers are nonexistent, listed in the payroll, and paid, a clear sign of corruption."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dead person whose identity is stolen by another. See ghosting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) An unresponsive user on IRC, resulting from the user's client disconnecting without notifying the server.",
+                  "examples": [
+                    "This will let you open a query with NickServ again so you can remove your “ghost” from the server:  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An image of a file or hard disk.",
+                  "examples": [
+                    "Synonym: backup"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater) An understudy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(espionage) A covert (and deniable) agent.",
+                  "examples": [
+                    "Synonyms: spook, spy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The faint image that remains after an attempt to remove graffiti.",
+                  "examples": [
+                    "Synonym: shadow"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) An opponent in a racing game that follows a previously recorded route, allowing players to compete against previous best times.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone whose identity cannot be established because there are no records of him/her.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(quantum mechanics) An unphysical state in a gauge theory.",
+                  "examples": [
+                    "The proof is well known, and independent of the metric, but to make certain we prove it here also for the case when the state vector system of an operator contains multipole[sic] ghosts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive, linguistics, computing) A formerly nonexistent character that was at some point mistakenly encoded into a character set standard, which might have since become used opportunistically for some genuine purpose.",
+                  "examples": [
+                    "彁 is a ghost character from the Japanese JIS X 0208 character set."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Clipping of ghost pepper.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A game in which players take turns to add a letter to a possible word, trying not to complete a word.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive, in names of species) White or pale.",
+                  "examples": [
+                    "ghost slug",
+                    "ghostflower"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive, in names of species) Transparent or translucent.",
+                  "examples": [
+                    "ghost ant",
+                    "ghost catfish"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive) Abandoned.",
+                  "examples": [
+                    "ghost town",
+                    "ghost ship"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive) Remnant; the remains of a(n).",
+                  "examples": [
+                    "ghost cell",
+                    "ghost crater",
+                    "ghost image"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive) Perceived or listed but not real.",
+                  "examples": [
+                    "ghost cellphone vibration",
+                    "ghost pain",
+                    "ghost island",
+                    "ghost voter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive) Of cryptid, supernatural or extraterrestrial nature.",
+                  "examples": [
+                    "ghost rocket",
+                    "ghost deer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive) Substitute.",
+                  "examples": [
+                    "ghost writer",
+                    "ghost singer"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ghost (third-person singular simple present ghosts, present participle ghosting, simple past and past participle ghosted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To haunt; to appear to in the form of an apparition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To die; to expire.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literary) To imbue with a ghost-like hue or effect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To ghostwrite.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To sail seemingly without wind.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To copy a file or hard drive image.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) To gray out (a visual item) to indicate that it is unavailable.",
+                  "examples": [
+                    "Whenever a menu or menu item is inappropriate or unavailable for selection, it should be ghosted. Never allow the user to select something that does nothing in response."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, transitive) To forcibly disconnect an IRC user who is using one's reserved nickname.",
+                  "examples": [
+                    "I'm so untechnical that I once ghosted a registered IRC nick and then tried to identify myself to NickServ with the valid password before actually changing my nick to the aforementioned moniker."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To appear or move without warning, quickly and quietly; to slip.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To transfer (a prisoner) to another prison without the prior knowledge of other inmates.",
+                  "examples": [
+                    "His power base, however, is undermined by him being constantly, “ghosted”, or moved from prison to prison."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) To kill.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, social media) To perform an act of ghosting: to break up with someone without warning or explanation; to ignore someone, especially on social media.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(film) To provide the speaking or singing voice for another actor, who is lip-syncing.",
+                  "examples": [
+                    "Here's how it went: Larry Parks as elderly Al Jolson was watching Larry Parks playing young Al Jolson in the first movie — in other words, Parks ghosting for Parks. At the same time, Jolson himself was ghosting the voices for both of them."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
