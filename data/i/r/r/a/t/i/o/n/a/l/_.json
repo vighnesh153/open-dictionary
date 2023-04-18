@@ -1,0 +1,62 @@
+{
+  "word": "irrational",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin irratiōnālis, from ir- + ratiōnālis."
+      ],
+      "adjectives": [
+        {
+          "description": "irrational (comparative more irrational, superlative most irrational)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not rational; unfounded or nonsensical.",
+                  "examples": [
+                    "an irrational decision"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, arithmetic, number theory, not comparable) Of a real number, that cannot be written as the ratio of two integers.",
+                  "examples": [
+                    "The number π is irrational.",
+                    "Antonym: rational",
+                    "Hyponyms: transcendental, uncomputable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "irrational (plural irrationals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A real number that can not be expressed as the quotient of two integers, an irrational number.",
+                  "examples": [
+                    "The square root of 2, which was the first irrational to be discovered, was known to the early Pythagoreans, and ingenious methods of approximating to its value were discovered."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
