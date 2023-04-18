@@ -1,0 +1,102 @@
+{
+  "word": "gesture",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin gestūra (“a mode of action”), from Latin gerō (“to bear; (reflexive) bear oneself, behave, act”), past participle gestus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gesture (plural gestures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A motion of the limbs or body, especially one made to emphasize speech.",
+                  "examples": [
+                    "The middle-finger gesture is really a nonverbal swear.",
+                    "This Web browser can be controlled with mouse gestures."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act or a remark that serves as a formality or as a sign of attitude.",
+                  "examples": [
+                    "We took flowers as a gesture of sympathy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) A motion made with a pointing device, or on a touchscreen, that is recognised by the system as a command.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The manner of carrying the body; position of the body or limbs; posture.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "gesture (third-person singular simple present gestures, present participle gesturing, simple past and past participle gestured)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make a gesture or gestures.",
+                  "examples": [
+                    "My dad told me never to gesture with my hands when I talk.",
+                    "Never gesture at someone using your middle finger: it may be perceived as an insult."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To express something by a gesture or gestures.",
+                  "examples": [
+                    "He gestured his disgust."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To accompany or illustrate with gesture or action.",
+                  "examples": [
+                    "It is not orderly read, nor gestured as beseemeth."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
