@@ -1,0 +1,30 @@
+{
+  "word": "isometry",
+  "etymologies": [
+    {
+      "description": [
+        "iso- +‎ -metry"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "isometry (plural isometries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function between metric spaces (or on a single metric space) having the property that the distance between two images is equal to the distance between their preimages.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
