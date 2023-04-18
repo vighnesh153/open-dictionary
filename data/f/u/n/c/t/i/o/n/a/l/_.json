@@ -1,0 +1,103 @@
+{
+  "word": "functional",
+  "etymologies": [
+    {
+      "description": [
+        "function +‎ -al"
+      ],
+      "adjectives": [
+        {
+          "description": "functional (comparative more functional, superlative most functional)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In good working order.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Useful; serving a purpose, fulfilling a function",
+                  "examples": [
+                    "That sculpture is not merely artistic, but also functional: it can be used as a hatrack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Only for functional purposes, notably in architecture",
+                  "examples": [
+                    "A functional construction element generally must meet higher technical but lower aesthetical requirements"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) Having semantics defined purely in terms of mathematical functions, without side-effects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Of a disease, such that its symptoms cannot be referred to any appreciable lesion or change of structure; opposed to organic disease, in which the organ itself is affected.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "functional (plural functionals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function that takes a function as its argument; More precisely: A function whose argument varies in a space of (real or complex valued) functions and whose value belongs to a monodimensional space. An example is the definite integration of integrable real functions in a real interval.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, functional analysis) A scalar-valued linear function on a vector space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An object encapsulating a function pointer (or equivalent).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
