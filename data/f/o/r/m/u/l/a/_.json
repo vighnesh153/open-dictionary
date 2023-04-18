@@ -1,0 +1,97 @@
+{
+  "word": "formula",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin formula (“a small pattern or mold, form, rule, principle, method, formula”), diminutive of forma (“a form”); see form."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "formula (plural formulae or formulas or formulæ)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Any mathematical rule expressed symbolically.",
+                  "examples": [
+                    "Synonym: mathematical formula",
+                    "x\n        =\n        \n          \n            \n              −\n              b\n              ±\n              \n                \n                  \n                    b\n                    \n                      2\n                    \n                  \n                  −\n                  4\n                  a\n                  c\n                \n              \n            \n            \n              2\n              a\n            \n          \n        \n      \n    \n    {\\displaystyle x={\\frac {-b\\pm {\\sqrt {b^{2}-4ac}}}{2a}}}\n  \n is a formula for finding the roots of the quadratic equation ax2 + bx + c = 0.",
+                    "Hyponyms: Brahmagupta's formula, Bretschneider's formula, Cauchy's integral formula, Cayley's formula, De Moivre's formula, Euler's formula, Faulhaber's formula, Heron's formula, haversine formula, Jacobi's formula, Legendre's formula, Stirling's formula, Vieta's formulas, Viète's formula"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A symbolic expression of the structure of a compound.",
+                  "examples": [
+                    "Synonym: chemical formula",
+                    "H2O is the formula for water."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A plan or method for dealing with a problem or for achieving a result.",
+                  "examples": [
+                    "The company's winning formula includes excellent service and quality products."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A formulation; a prescription; a mixture or solution made in a prescribed manner; the identity and quantities of ingredients of such a mixture.",
+                  "examples": [
+                    "The formula of the rocket fuel has not been revealed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(especially religion) A formal statement of doctrine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) Ellipsis of infant formula; drink given to babies to substitute for mother's milk.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A syntactic expression of a proposition, built up from quantifiers, logical connectives, variables, relation and operation symbols, and, depending on the type of logic, possibly other operators such as modal, temporal, deontic or epistemic ones.",
+                  "examples": [
+                    "Hyponym: sentence"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
