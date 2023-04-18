@@ -1,0 +1,30 @@
+{
+  "word": "infimum",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin infimum (“lowest part”), from infimus (“lowest”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "infimum (plural infima or infimums)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) (of a subset) the greatest element of the containing set that is smaller than or equal to all elements of the subset. The infimum may or may not be a member of the subset.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
