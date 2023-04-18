@@ -1,0 +1,44 @@
+{
+  "word": "homologue",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French homologue."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "homologue (plural homologues)",
+          "definitionGroups": [
+            {
+              "group": "Something homologous; a homologous organ or part, chemical compound, chromosome, gene, or cultural element.",
+              "entries": [
+                {
+                  "meaning": "(linguistics) A phoneme, morpheme, or word shared by two languages or dialects, via cognation or naturalization.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(biology, genetics, medicine) One of a group of similar DNA sequences that share a common ancestry, or the peptides or proteins that they encode; the counterpart gene or protein in another taxon evolved from a common ancestor (molecularly it may be either identical or similar).",
+                  "examples": [
+                    "TP53 is the human homologue of murine Trp53."
+                  ]
+                },
+                {
+                  "meaning": "(organic chemistry) A member of a homologous series.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(cultural anthropology) A belief, practice, concept, or artifact that has a counterpart in another culture.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
