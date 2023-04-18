@@ -1,0 +1,65 @@
+{
+  "word": "golf",
+  "etymologies": [
+    {
+      "description": [
+        "The word is first known in English from the 17th century as a borrowing from Middle Scots golf, gouff. Although the etymology is uncertain, the most likely origin is that it comes from the Middle Dutch colve, colf (“club”), ultimately from Proto-Germanic *kulbaz (“club”), related to German Kolben (“piston, rod”), Swedish kolv (“piston, rod”), Old English clopp (“rock; cliff”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "golf (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(international standards) Alternative letter-case form of Golf from the NATO/ICAO Phonetic Alphabet.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "golf (third-person singular simple present golfs, present participle golfing, simple past and past participle golfed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To play the game of golf.",
+                  "examples": [
+                    "Last mystery of all, he learned to golf."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To write something in as few characters as possible (e.g. in code golf, regex golf)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "golfed",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "golfed (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Having had its source code made as short as possible, as in code golf.",
+                  "examples": [
+                    "One of the best optimizations of Perl programs is trimming the number of operations it has to perform. The less work it has to do, the better. This isn't an argument for obfuscated or golfed code—just good profiling  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "golfed",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of golf",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
