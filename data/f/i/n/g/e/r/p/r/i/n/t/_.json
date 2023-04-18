@@ -1,0 +1,94 @@
+{
+  "word": "fingerprint",
+  "etymologies": [
+    {
+      "description": [
+        "From finger +‎ print."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fingerprint (plural fingerprints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The natural pattern of ridges on the tips of human fingers, unique to each individual.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The patterns left on surfaces where uncovered fingertips have touched, especially as used to identify the person who touched the surface.",
+                  "examples": [
+                    "Nervously, he wiped the gun of fingerprints real and imaginary with the stocking-covered fingers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Unique identification for public key in asymmetric cryptosystem.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unique combination of features that serves as an identification of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A trace that gives evidence of someone's involvement.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fingerprint (third-person singular simple present fingerprints, present participle fingerprinting, simple past and past participle fingerprinted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take somebody's fingerprints.",
+                  "examples": [
+                    "The jail staff fingerprints its inmates routinely"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To identify something uniquely by a combination of measurements.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
