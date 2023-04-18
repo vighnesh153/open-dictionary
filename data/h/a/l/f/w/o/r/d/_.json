@@ -1,0 +1,30 @@
+{
+  "word": "halfword",
+  "etymologies": [
+    {
+      "description": [
+        "half +‎ word"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "halfword (plural halfwords)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An area of storage one half the size of the word in a particular system; usually two bytes",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
