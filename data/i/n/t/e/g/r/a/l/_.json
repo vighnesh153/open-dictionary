@@ -1,0 +1,99 @@
+{
+  "word": "integral",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French integral, from Medieval Latin integrālis, from Latin integer (“entire”); see integer."
+      ],
+      "adjectives": [
+        {
+          "description": "integral (comparative more integral, superlative most integral)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Constituting a whole together with other parts or factors; not omittable or removable",
+                  "examples": [
+                    "Synonyms: immanent, inherent, necessary; see also Thesaurus:intrinsic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of, pertaining to, or being an integer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Relating to integration.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Whole; undamaged.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "integral (plural integrals)",
+          "definitionGroups": [
+            {
+              "group": "(mathematics) One of the two fundamental operations of calculus (the other being differentiation), whereby a function's displacement, area, volume, or other qualities arising from the study of infinitesimal change are quantified, usually defined as a limiting process on a sequence of partial sums. Denoted using a long s: ∫, or a variant thereof.",
+              "entries": [
+                {
+                  "meaning": "(specifically) Any of several analytic formalizations of this operation: the Riemann integral, the Lebesgue integral, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A definite integral: the result of the application of such an operation onto a function and a suitable subset of the function's domain: either a number or positive or negative infinity. In the former case, the integral is said to be finite or to converge; in the latter, the integral is said to diverge. In notation, the domain of integration is indicated either below the sign, or, if it is an interval, with its endpoints as sub- and super-scripts, and the function being integrated forming part of the integrand (or, generally, differential form) appearing in front of the integral sign.",
+                  "examples": [
+                    "The integral of \n  \n    \n      \n        \n          \n            1\n            x\n          \n        \n      \n    \n    {\\displaystyle {\\frac {1}{x}}}\n  \n on \n  \n    \n      \n        [\n        \n          \n            1\n            2\n          \n        \n        ,\n        1\n        ]\n      \n    \n    {\\displaystyle [{\\frac {1}{2}},1]}\n  \n is \n  \n    \n      \n        ln\n        ⁡\n        (\n        2\n        )\n      \n    \n    {\\displaystyle \\ln(2)}\n  \n, but the integral of the same function on \n  \n    \n      \n        (\n        0\n        ,\n        1\n        ]\n      \n    \n    {\\displaystyle (0,1]}\n  \n diverges. In notation, \n  \n    \n      \n        \n          ∫\n          \n            \n              1\n              2\n            \n          \n          \n            1\n          \n        \n        \n          \n            1\n            x\n          \n        \n        d\n        x\n        =\n        ln\n        ⁡\n        (\n        2\n        )\n      \n    \n    {\\displaystyle \\int _{\\frac {1}{2}}^{1}{\\frac {1}{x}}dx=\\ln(2)}\n  \n, but \n  \n    \n      \n        \n          ∫\n          \n            0\n          \n          \n            1\n          \n        \n        \n          \n            1\n            x\n          \n        \n        d\n        x\n        =\n        ∞\n      \n    \n    {\\displaystyle \\int _{0}^{1}{\\frac {1}{x}}dx=\\infty }\n  \n.",
+                    "Stokes' theorem relates the integral over a surface of the curl of a vector field to a line integral around the boundary of that surface: \n  \n    \n      \n        \n          ∫\n          \n            S\n          \n        \n        ∇\n        ×\n        \n          F\n        \n        ⋅\n        d\n        \n          S\n        \n        =\n        \n          ∫\n          \n            ∂\n            S\n          \n        \n        \n          F\n        \n        ⋅\n        d\n        \n          r\n        \n        ,\n      \n    \n    {\\displaystyle \\int _{S}\\nabla \\times \\mathbf {F} \\cdot d\\mathbf {S} =\\int _{\\partial S}\\mathbf {F} \\cdot d\\mathbf {r} ,}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(mathematics) An indefinite integral: the result of the application of such an operation onto a function together with an indefinite domain, yielding a function; a function's antiderivative;",
+              "entries": [
+                {
+                  "meaning": "(mathematics, historical or obsolete) The fluent of a given fluxion in Newtonian calculus.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
