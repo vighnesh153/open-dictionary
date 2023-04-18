@@ -1,0 +1,52 @@
+{
+  "word": "introspect",
+  "etymologies": [
+    {
+      "description": [
+        "intro- +‎ -spect"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "introspect (third-person singular simple present introspects, present participle introspecting, simple past and past participle introspected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To engage in introspection.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To look into.",
+                  "examples": [
+                    "Second, to say that something is introspectible, that we can introspect it, is not to imply that we are in fact aware of it. What's more, I haven't claimed that we even can introspect all the thoughts we have, only that we can introspect that we have two important sorts of thoughts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To examine by means of type introspection.",
+                  "examples": [
+                    "DynamicMBeanFacade uses Java's reflection API to introspect the managed resource and discover data type information for attributes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
