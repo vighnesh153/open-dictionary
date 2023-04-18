@@ -1,0 +1,66 @@
+{
+  "word": "infinity",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English infinite, from Old French infinité, from Latin infinitas (“unlimitedness”), from negative prefix in- (“not”), + finis (“end”), + noun of state suffix -tas."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "infinity (countable and uncountable, plural infinities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) endlessness, unlimitedness, absence of a beginning, end or limits to size.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) A number that has an infinite numerical value that cannot be counted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, topology, mathematical analysis) An idealised point which is said to be approached by sequences of values whose magnitudes increase without bound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A number which is very large compared to some characteristic number. For example, in optics, an object which is much further away than the focal length of a lens is said to be \"at infinity\", as the distance of the image from the lens varies very little as the distance increases further.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) The symbol ∞.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
