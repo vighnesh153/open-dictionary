@@ -1,0 +1,50 @@
+{
+  "word": "hallucination",
+  "etymologies": [
+    {
+      "description": [
+        "Derives from the verb hallucinate, from Latin hallucinatus. Compare French hallucination. The first known usage in the English language is from Sir Thomas Browne."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hallucination (countable and uncountable, plural hallucinations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sensory perception of something that does not exist, often arising from disorder of the nervous system, as in delirium tremens.",
+                  "examples": [
+                    "Hallucinations are always evidence of cerebral derangement and are common phenomena of insanity."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of hallucinating; a wandering of the mind; an error, mistake or blunder.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(artificial intelligence) A confident but incorrect response given by an artificial intelligence.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "hallucinate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin hallūcinātus, alternate form of alūcinātus, from alūcināri (to dream)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hallucinate (third-person singular simple present hallucinates, present participle hallucinating, simple past and past participle hallucinated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive and intransitive) To seem to perceive things (with one or more of one's senses) which are not really present; to have visions; to experience a hallucination.",
+                  "examples": [
+                    "Synonyms: imagine, see things"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(artificial intelligence, of a model) To produce factually invalid information; to interpolate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
