@@ -1,0 +1,74 @@
+{
+  "word": "hydrate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French hydrate, coined by Joseph-Louis Proust, from Ancient Greek ὕδωρ (húdōr, “water”) + -ate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hydrate (plural hydrates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A solid compound containing or linked to water molecules.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(inorganic chemistry, rare) Water.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hydrate (third-person singular simple present hydrates, present participle hydrating, simple past and past participle hydrated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take up, consume or become linked to water.",
+                  "examples": [
+                    "A lotion can hydrate the skin."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) To drink water.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To load data from a database record into an object's variables",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
