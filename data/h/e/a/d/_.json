@@ -1,0 +1,632 @@
+{
+  "word": "head",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hed, heed, heved, heaved, from Old English hēafd-, hēafod (“head; top; source, origin; chief, leader; capital”), from Proto-West Germanic *haubud, from Proto-Germanic *haubudą (“head”), from Proto-Indo-European *káput-. The modern word comes from Old English oblique stem hēafd-, the expected Modern English outcome for hēafod would be *heaved (similar to the Middle English word), with irregular pronunciation of /ˈheɪvd/. Doublet of caput, cape, chef and chief."
+      ],
+      "adjectives": [
+        {
+          "description": "head (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of, relating to, or intended for the head.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "head (countable and uncountable, plural heads or head)",
+          "definitionGroups": [
+            {
+              "group": "(countable) The part of the body of an animal or human which contains the brain, mouth, and main sense organs.",
+              "entries": [
+                {
+                  "meaning": "(people) To do with heads.",
+                  "examples": [
+                    "The company is looking for people with good heads for business.",
+                    "He has no head for heights.",
+                    "It's all about having a good head on your shoulders."
+                  ]
+                },
+                {
+                  "meaning": "Mental or emotional aptitude or skill.",
+                  "examples": [
+                    "The company is looking for people with good heads for business.",
+                    "He has no head for heights.",
+                    "It's all about having a good head on your shoulders."
+                  ]
+                },
+                {
+                  "meaning": "(figurative, metonymically) Mind; one's own thoughts.",
+                  "examples": [
+                    "This song keeps going through my head."
+                  ]
+                },
+                {
+                  "meaning": "A headache; especially one resulting from intoxication.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A headdress; a covering for the head.",
+                  "examples": [
+                    "a laced head;   a head of hair"
+                  ]
+                },
+                {
+                  "meaning": "(figurative, metonymically) An individual person.",
+                  "examples": [
+                    "Admission is three dollars a head."
+                  ]
+                },
+                {
+                  "meaning": "(animals) To do with heads.",
+                  "examples": [
+                    "200 head of cattle and 50 head of horses",
+                    "12 head of big cattle and 14 head of branded calves",
+                    "at five years of age this head of cattle is worth perhaps $40",
+                    "a reduction in the assessment per head of sheep",
+                    "they shot 20 head of quail"
+                  ]
+                },
+                {
+                  "meaning": "(plural head, measure word for livestock and game) A single animal.",
+                  "examples": [
+                    "200 head of cattle and 50 head of horses",
+                    "12 head of big cattle and 14 head of branded calves",
+                    "at five years of age this head of cattle is worth perhaps $40",
+                    "a reduction in the assessment per head of sheep",
+                    "they shot 20 head of quail"
+                  ]
+                },
+                {
+                  "meaning": "The population of game.",
+                  "examples": [
+                    "we have a heavy head of deer this year",
+                    "planting the hedges increased the head of quail and doves"
+                  ]
+                },
+                {
+                  "meaning": "The antlers of a deer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(countable) The topmost, foremost, or leading part.",
+              "entries": [
+                {
+                  "meaning": "The end of a table.",
+                  "examples": [
+                    "During meetings, the supervisor usually sits at the head of the table."
+                  ]
+                },
+                {
+                  "meaning": "The end of a rectangular table furthest from the entrance; traditionally considered a seat of honor.",
+                  "examples": [
+                    "During meetings, the supervisor usually sits at the head of the table."
+                  ]
+                },
+                {
+                  "meaning": "(billiards) The end of a pool table opposite the end where the balls have been racked.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(countable) The principal operative part of a machine or tool.",
+                  "examples": [
+                    "Hit the nail on the head!"
+                  ]
+                },
+                {
+                  "meaning": "The end of a hammer, axe, golf club, or similar implement used for striking other objects.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The end of a nail, screw, bolt, or similar fastener which is opposite the point; usually blunt and relatively wide.",
+                  "examples": [
+                    "Hit the nail on the head!"
+                  ]
+                },
+                {
+                  "meaning": "The sharp end of an arrow, spear, or pointer.",
+                  "examples": [
+                    "The head of the compass needle is pointing due north."
+                  ]
+                },
+                {
+                  "meaning": "(lacrosse) The top part of a lacrosse stick that holds the ball.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(music) A drum head, the membrane which is hit to produce sound.",
+                  "examples": [
+                    "Tap the head of the drum for this roll."
+                  ]
+                },
+                {
+                  "meaning": "A machine element which reads or writes electromagnetic signals to or from a storage medium.",
+                  "examples": [
+                    "The heads of your tape player need to be cleaned."
+                  ]
+                },
+                {
+                  "meaning": "(computing) The part of a disk drive responsible for reading and writing data.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(automotive) The cylinder head, a platform above the cylinders in an internal combustion engine, containing the valves and spark plugs.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(machining) A milling head, a part of a milling machine that houses the spindle.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(uncountable, countable) The foam that forms on top of beer or other carbonated beverages.",
+                  "examples": [
+                    "Pour me a fresh beer; this one has no head.",
+                    "He never learned how to pour a glass of beer so it didn't have too much head."
+                  ]
+                },
+                {
+                  "meaning": "(engineering) The end cap of a cylindrically-shaped pressure vessel.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(coopering) The end cap of a cask or other barrel.",
+                  "examples": [
+                    "Synonym: barrelhead"
+                  ]
+                },
+                {
+                  "meaning": "(geology) The uppermost part of a valley.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Britain, geology) Deposits near the top of a geological succession.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(journalism) Short for headline.",
+                  "examples": [
+                    "The content of a headline over a news story should be taken from the lead of the story.  […]  The head should give the same impression as the body of the story."
+                  ]
+                },
+                {
+                  "meaning": "(medicine) The end of an abscess where pus collects.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(music) The headstock of a guitar.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(nautical) A leading component.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The top edge of a sail.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The bow of a vessel.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Britain) A headland.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(social, countable, metonymically) A leader or expert.",
+              "entries": [
+                {
+                  "meaning": "The place of honour, or of command; the most important or foremost position; the front.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(metonymically) Leader; chief; mastermind.",
+                  "examples": [
+                    "I'd like to speak to the head of the department.",
+                    "Police arrested the head of the gang in a raid last night."
+                  ]
+                },
+                {
+                  "meaning": "(metonymically) A headmaster or headmistress.",
+                  "examples": [
+                    "At 4pm, the phone went. It was The Sun: 'We hear your daughter's been expelled for cheating at her school exams...'She'd made a remark to a friend at the end of the German exam and had been pulled up for talking.As they left the exam room, she muttered that the teacher was a 'twat'. He heard and flipped—a pretty stupid thing to do, knowing the kids were tired and tense after exams. Instead of dropping it, the teacher complained to the Head and Deb was carpeted."
+                  ]
+                },
+                {
+                  "meaning": "(music, slang, figurative, metonymically) A person with an extensive knowledge of hip hop.",
+                  "examples": [
+                    "Only true heads know this."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A significant or important part.",
+              "entries": [
+                {
+                  "meaning": "A beginning or end, a protuberance.",
+                  "examples": [
+                    "The expedition followed the river all the way to the head."
+                  ]
+                },
+                {
+                  "meaning": "The source of a river; the end of a lake where a river flows into it.",
+                  "examples": [
+                    "The expedition followed the river all the way to the head."
+                  ]
+                },
+                {
+                  "meaning": "A clump of seeds, leaves or flowers; a capitulum.",
+                  "examples": [
+                    "Give me a head of lettuce."
+                  ]
+                },
+                {
+                  "meaning": "An ear of wheat, barley, or other small cereal.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The leafy top part of a tree.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(anatomy) The rounded part of a bone fitting into a depression in another bone to form a ball-and-socket joint.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(nautical) The toilet of a ship.",
+                  "examples": [
+                    "I've got to go to the head."
+                  ]
+                },
+                {
+                  "meaning": "(in the plural) Tiles laid at the eaves of a house.",
+                  "examples": [
+                    "Heads. (Roofing.) Tiles which are laid at the eaves of a house"
+                  ]
+                },
+                {
+                  "meaning": "A component.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(jazz) The principal melody or theme of a piece.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(linguistics) A morpheme that determines the category of a compound or the word that determines the syntactic type of the phrase of which it is a member.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Headway; progress.",
+                  "examples": [
+                    "We are having a difficult time making head against this wind."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Topic; subject.",
+                  "examples": [
+                    "We will consider performance issues under the head of future improvements."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(only in the singular) Denouement; crisis.",
+                  "examples": [
+                    "These isses are going to come to a head today."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(fluid dynamics) Pressure and energy.",
+              "entries": [
+                {
+                  "meaning": "(uncountable, countable) A buildup of fluid pressure, often quantified as pressure head.",
+                  "examples": [
+                    "Let the engine build up a good head of steam.",
+                    "How much head do you have at the Glens Falls feeder dam?"
+                  ]
+                },
+                {
+                  "meaning": "The difference in elevation between two points in a column of fluid, and the resulting pressure of the fluid at the lower point.",
+                  "examples": []
+                },
+                {
+                  "meaning": "More generally, energy in a mass of fluid divided by its weight.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, uncountable) Fellatio or cunnilingus; oral sex.",
+                  "examples": [
+                    "She gave great head."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) The glans penis.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, countable) A heavy or habitual user of illicit drugs.",
+                  "examples": [
+                    "Then I saw the more advanced narcotic addicts, who shot unbelievable doses of powerful heroin in the main line – the vein of their arms; the hysien users; chloroform sniffers, who belonged to the riff-raff element of the dope chippeys, who mingled freely with others of their kind; canned heat stiffs, paragoric hounds, laudanum fiends, and last but not least, the veronal heads."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Power; armed force.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "head (third-person singular simple present heads, present participle heading, simple past and past participle headed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To be in command of. (See also head up.)",
+                  "examples": [
+                    "Who heads the board of trustees?",
+                    "to head an army, an expedition, or a riot"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To come at the beginning or front of; to commence.",
+                  "examples": [
+                    "A group of clowns headed the procession.",
+                    "The most important items headed the list."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To strike with the head; as in soccer, to head the ball",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move in a specified direction.",
+                  "examples": [
+                    "We are going to head up North for our holiday.",
+                    "We will head off tomorrow.",
+                    "Next holiday we will head out West, or head to Chicago.",
+                    "Right now I need to head into town to do some shopping.",
+                    "I'm fed up working for a boss. I'm going to head out on my own, set up my own business.",
+                    "Where does the train head to?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fishing) To remove the head from a fish.",
+                  "examples": [
+                    "The salmon are first headed and then scaled."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To originate; to spring; to have its course, as a river.",
+                  "examples": [
+                    "a broad purling river, that heads in the great blue ridge of mountains,"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To form a head.",
+                  "examples": [
+                    "This kind of cabbage heads early."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To form a head to; to fit or furnish with a head.",
+                  "examples": [
+                    "to head a nail"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cut off the top of; to lop off.",
+                  "examples": [
+                    "to head trees"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To behead; to decapitate.",
+                  "examples": [
+                    "I tell thee, man of God, the uncharitableness of the sect to which thou pertainest has thronged the land of punishment as much as those who headed, and hanged, and stabbed, and shot, and tortured."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To go in front of.",
+                  "examples": [
+                    "to head a drove of cattle",
+                    "to head a person"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To get in the front of, so as to hinder or stop; to oppose.",
+                  "examples": [
+                    "The wind headed the ship and made progress difficult."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) To check or restrain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To set on the head.",
+                  "examples": [
+                    "to head a cask"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English heed, from Old English hēafod- (“main”), from Proto-West Germanic *haubida-, derived from the noun *haubid (“head”). Cognate with Saterland Frisian hööft-, West Frisian haad-, Dutch hoofd-, German Low German höövd-, German haupt-."
+      ],
+      "adjectives": [
+        {
+          "description": "head (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Foremost in rank or importance.",
+                  "examples": [
+                    "the head cook"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Placed at the top or the front.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Coming from in front.",
+                  "examples": [
+                    "head sea",
+                    "head wind"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
