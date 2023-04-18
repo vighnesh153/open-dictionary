@@ -1,0 +1,110 @@
+{
+  "word": "jitter",
+  "etymologies": [
+    {
+      "description": [
+        "Possibly alteration of chitter (“tremble, shiver”), from Middle English chittern (“to twitter, chatter”). Ultimately onomatopoeic; compare didder and teeter as well as German zittern."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jitter (countable and uncountable, plural jitters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A nervous action; a tic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly in the plural, often with \"the\") A state of nervousness.",
+                  "examples": [
+                    "That creepy movie gave me the jitters."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) An abrupt and unwanted variation of one or more signal characteristics.",
+                  "examples": [
+                    "Now you have mirror-clear TV without picture flopover, jitter, tear!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(data visualization) A random positioning of data points to avoid visual overlap.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "jitter (third-person singular simple present jitters, present participle jittering, simple past and past participle jittered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be nervous.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(data visualization) To position data points randomly to avoid visual overlap.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "jit +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jitter (plural jitters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program or routine that performs jitting; a just-in-time compiler.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
