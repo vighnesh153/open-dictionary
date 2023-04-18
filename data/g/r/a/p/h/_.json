@@ -1,0 +1,109 @@
+{
+  "word": "graph",
+  "etymologies": [
+    {
+      "description": [
+        "Shortening of graphic formula. From 1878; verb from 1889."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "graph (plural graphs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(applied mathematics, statistics) A data chart (graphical representation of data) intended to illustrate the relationship between a set (or sets) of numbers (quantities, measurements or indicative numbers) and a reference set, whose elements are indexed to those of the former set(s) and may or may not be numbers.",
+                  "examples": [
+                    "Hyponyms: bar graph, line graph, pie graph"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A set of points constituting a graphical representation of a real function; (formally) a set of tuples \n  \n    \n      \n        (\n        \n          x\n          \n            1\n          \n        \n        ,\n        \n          x\n          \n            2\n          \n        \n        ,\n        …\n        ,\n        \n          x\n          \n            m\n          \n        \n        ,\n        y\n        )\n        ∈\n        \n          \n            R\n          \n          \n            m\n            +\n            1\n          \n        \n      \n    \n    {\\displaystyle (x_{1},x_{2},\\ldots ,x_{m},y)\\in \\mathbb {R} ^{m+1}}\n  \n, where \n  \n    \n      \n        y\n        =\n        f\n        (\n        \n          x\n          \n            1\n          \n        \n        ,\n        \n          x\n          \n            2\n          \n        \n        ,\n        …\n        ,\n        \n          x\n          \n            m\n          \n        \n        )\n      \n    \n    {\\displaystyle y=f(x_{1},x_{2},\\ldots ,x_{m})}\n  \n for a given function \n  \n    \n      \n        f\n        :\n        \n          \n            R\n          \n          \n            m\n          \n        \n        →\n        \n          R\n        \n      \n    \n    {\\displaystyle f:\\mathbb {R} ^{m}\\rightarrow \\mathbb {R} }\n  \n. See also  Graph of a function on  Wikipedia.Wikipedia",
+                  "examples": [
+                    "Let us take any point of the first graph, for example, \n  \n    \n      \n        \n          x\n          =\n          \n            \n              1\n              2\n            \n          \n          ,\n          y\n          =\n          \n            \n              4\n              5\n            \n          \n        \n      \n    \n    {\\displaystyle \\textstyle x={\\frac {1}{2}},y={\\frac {4}{5}}}\n  \n, that is, the point \n  \n    \n      \n        \n          \n            M\n            \n              1\n            \n          \n          (\n          \n            \n              1\n              2\n            \n          \n          ,\n          \n            \n              4\n              5\n            \n          \n          )\n        \n      \n    \n    {\\displaystyle \\textstyle M_{1}({\\frac {1}{2}},{\\frac {4}{5}})}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A set of vertices (or nodes) connected together by edges; (formally) an ordered pair of sets \n  \n    \n      \n        (\n        V\n        ,\n        E\n        )\n      \n    \n    {\\displaystyle (V,E)}\n  \n, where the elements of \n  \n    \n      \n        V\n      \n    \n    {\\displaystyle V}\n  \n are called vertices or nodes and \n  \n    \n      \n        E\n      \n    \n    {\\displaystyle E}\n  \n is a set of pairs (called edges) of elements of \n  \n    \n      \n        V\n      \n    \n    {\\displaystyle V}\n  \n. See also  Graph (discrete mathematics) on  Wikipedia.Wikipedia",
+                  "examples": [
+                    "Hyponyms: directed graph, undirected graph, tree"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A topological space which represents some graph (ordered pair of sets) and which is constructed by representing the vertices as points and the edges as copies of the real interval [0,1] (where, for any given edge, 0 and 1 are identified with the points representing the two vertices) and equipping the result with a particular topology called the graph topology.",
+                  "examples": [
+                    "Synonym: topological graph"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory, of a morphism f) A morphism \n  \n    \n      \n        \n          Γ\n          \n            f\n          \n        \n      \n    \n    {\\displaystyle \\Gamma _{f}}\n  \n from the domain of \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n to the product of the domain and codomain of \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n, such that the first projection applied to \n  \n    \n      \n        \n          Γ\n          \n            f\n          \n        \n      \n    \n    {\\displaystyle \\Gamma _{f}}\n  \n equals the identity of the domain, and the second projection applied to \n  \n    \n      \n        \n          Γ\n          \n            f\n          \n        \n      \n    \n    {\\displaystyle \\Gamma _{f}}\n  \n is equal to \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, typography) A graphical unit on the token-level, the abstracted fundamental shape of a character or letter as distinct from its ductus (realization in a particular typeface or handwriting on the instance-level) and as distinct by a grapheme on the type-level by not fundamentally distinguishing meaning.",
+                  "examples": [
+                    "Synonym: glyph"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "graph (third-person singular simple present graphs, present participle graphing, simple past and past participle graphed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw a graph.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To draw a graph of a function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

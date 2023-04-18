@@ -1,0 +1,39 @@
+{
+  "word": "grapheme",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek γράφω (gráphō, “write”) + -eme. Doublet of -gram."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "grapheme (plural graphemes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A fundamental unit of a writing system, corresponding to (for example) letters in the English alphabet or jamo in Korean Hangeul.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In alphabetic writing, the shortest group of letters composing a phoneme.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
