@@ -1,0 +1,59 @@
+{
+  "word": "headroom",
+  "etymologies": [
+    {
+      "description": [
+        "head +‎ room"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "headroom (countable and uncountable, plural headrooms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The vertical clearance above someone's head, as in a tunnel, doorway etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The vertical measurement, top to bottom, for example for clearance under a bridge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) The ability of a system to reproduce loud sounds free of distortion; dynamic headroom.",
+                  "examples": [
+                    "[…]  the difference between signal-to-noise ratio and overload reserve (headroom) as well as noise (safety) margin (footroom)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The distance between the actual performance of an algorithm and its maximum possible performance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
