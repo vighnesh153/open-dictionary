@@ -1,0 +1,63 @@
+{
+  "word": "imply",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English implien, emplien, borrowed from Old French emplier, from Latin implicare (“to infold, involve”), from in (“in”) + plicare (“to fold”). Doublet of employ and implicate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "imply (third-person singular simple present implies, present participle implying, simple past and past participle implied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of a proposition) to have as a necessary consequence",
+                  "examples": [
+                    "The proposition that \"all dogs are mammals\" implies that my dog is a mammal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of a person) to suggest by logical inference",
+                  "examples": [
+                    "When I state that your dog is brown, I am not implying that all dogs are brown."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of a person or proposition) to hint; to insinuate; to suggest tacitly and avoid a direct statement",
+                  "examples": [
+                    "What do you mean \"we need to be more careful with hygiene\"? Are you implying that I don't wash my hands?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) to enfold, entangle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
