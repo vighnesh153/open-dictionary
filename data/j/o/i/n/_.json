@@ -1,0 +1,165 @@
+{
+  "word": "join",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English joinen, joynen, joignen, from Old French joindre, juindre, jungre, from Latin iungō (“join, yoke”, verb), from Proto-Indo-European *yewg- (“to join, unite”). Cognate with Old English iucian, iugian, ġeocian, ġyċċan (“to join; yoke”). More at yoke."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "join (plural joins)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An intersection of piping or wiring; an interconnect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases) An intersection of data in two or more database tables.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The act of joining something, such as a network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) The lowest upper bound, an operation between pairs of elements in a lattice, denoted by the symbol ∨.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "join (third-person singular simple present joins, present participle joining, simple past and past participle joined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To connect or combine into one; to put together.",
+                  "examples": [
+                    "The plumber joined the two ends of the broken pipe.",
+                    "We joined our efforts to get an even better result."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To come together; to meet.",
+                  "examples": [
+                    "Parallel lines never join.",
+                    "These two rivers join in about 80 miles."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To enter into association or alliance, to unite in a common purpose.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To come into the company of.",
+                  "examples": [
+                    "I will join you watching the football game as soon as I have finished my work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To become a member of.",
+                  "examples": [
+                    "Many children join a sports club.",
+                    "Most politicians have joined a party."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases, transitive) To produce an intersection of data in two or more database tables.",
+                  "examples": [
+                    "By joining the Customer table on the Product table, we can show each customer's name alongside the products they have ordered."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To unite in marriage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, rare) To enjoin upon; to command.",
+                  "examples": [
+                    "They join them penance, as they call it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To accept, or engage in, as a contest.",
+                  "examples": [
+                    "to join encounter, battle, or issue"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
