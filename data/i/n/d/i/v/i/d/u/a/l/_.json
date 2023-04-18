@@ -1,0 +1,98 @@
+{
+  "word": "individual",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin indīviduālis, from Latin indīviduum (“an indivisible thing”), neuter of indīviduus (“indivisible, undivided”), from in + dīviduus (“divisible”), from dīvidō (“divide”)."
+      ],
+      "adjectives": [
+        {
+          "description": "individual (comparative more individual, superlative most individual)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relating to a single person or thing as opposed to more than one.",
+                  "examples": [
+                    "As we can't print them all together, the individual pages will have to be printed one by one."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Intended for a single person as opposed to more than one person.",
+                  "examples": [
+                    "individual personal pension; individual cream cakes"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not divisible without losing its identity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "individual (plural individuals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person considered alone, rather than as belonging to a group of people.",
+                  "examples": [
+                    "He is an unusual individual."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A single physical human being as a legal subject, as opposed to a legal person such as a corporation.",
+                  "examples": [
+                    "Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination […]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object, be it a thing or an agent, as contrasted to a class.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) An element belonging to a population.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
