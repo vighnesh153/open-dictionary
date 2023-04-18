@@ -1,0 +1,143 @@
+{
+  "word": "filter",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English filtre, from Medieval Latin filtrum (compare also Old French feutre (“felt; filter”)), from Frankish *filtir, from Proto-West Germanic *felt. See felt."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "filter (plural filters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device which separates a suspended, dissolved, or particulate matter from a fluid, solution, or other substance; any device that separates one substance from another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Electronics or software that separates unwanted signals (for example noise) from wanted signals or that attenuates selected frequencies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any item, mechanism, device or procedure that acts to separate or isolate.",
+                  "examples": [
+                    "He runs an email filter to catch the junk mail."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) self-restraint in speech.",
+                  "examples": [
+                    "He's got no filter, and he's always offending people as a result."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, order theory) A non-empty upper set (of a partially ordered set) which is closed under binary infima (a.k.a. meets).",
+                  "examples": [
+                    "The collection of cofinite subsets of ℝ is a filter under inclusion: it includes the intersection of every pair of its members, and includes every superset of every cofinite set.",
+                    "If (1) the universal set (here, the set of natural numbers) were called a \"large\" set, (2) the superset of any \"large\" set were also a \"large\" set, and (3) the intersection of a pair of \"large\" sets were also a \"large\" set, then the set of all \"large\" sets would form a filter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(photography) A translucent object placed in the light path of a camera to remove certain wavelengths (colors), or a computer program that simulates such an effect.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "filter (third-person singular simple present filters, present participle filtering, simple past and past participle filtered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To sort, sift, or isolate.",
+                  "examples": [
+                    "This strainer should filter out the large particles."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To diffuse; to cause to be less concentrated or focused.",
+                  "examples": [
+                    "The leaves of the trees filtered the light."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To pass through a filter or to act as though passing through a filter.",
+                  "examples": [
+                    "The water filtered through the rock and soil."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move slowly or gradually; to come or go a few at a time.",
+                  "examples": [
+                    "The crowd filtered into the theater."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To ride a motorcycle between lanes on a road",
+                  "examples": [
+                    "I can skip past all the traffic on my bike by filtering."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
