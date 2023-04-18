@@ -1,0 +1,61 @@
+{
+  "word": "isochronous",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἴσος (ísos, “equal”) + Ancient Greek χρόνος (khrónos, “time”)  +‎ -ous."
+      ],
+      "adjectives": [
+        {
+          "description": "isochronous (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Happening at regular intervals; isochronal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Happening at the same time; simultaneous.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of or pertaining to the use of clocks derived from the same clock reference.",
+                  "examples": [
+                    "Their entire national telephone network is isochronous, with a clock distribution tree radiating from a single, protected cesium reference clock."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) of or pertaining to data associated with time-sensitive applications.",
+                  "examples": [
+                    "These packets belong to an isochronous voice application and need priority handling."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
