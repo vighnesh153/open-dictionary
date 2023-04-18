@@ -1,0 +1,41 @@
+{
+  "word": "inductance",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inductance (countable and uncountable, plural inductances)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The property of an electric circuit by which a voltage is induced in it by a changing magnetic field.",
+                  "examples": [
+                    "The power cable itself has enough inductance to disrupt the digital signal of the video output cable, due to poor shielding."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quantity of the resulting electromagnetic flux divided by the current that produces it, measured in henries (SI symbol: H.)",
+                  "examples": [
+                    "What is the inductance of that power supply's main inductor?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
