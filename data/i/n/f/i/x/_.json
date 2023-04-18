@@ -1,0 +1,91 @@
+{
+  "word": "infix",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from Middle English infixed (“stuck in”), from Latin infixus, past participle of infigere (“to fasten in”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "infix (plural infixes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) An affix inserted inside a root, such as -ma- in English.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, dated) A prefix that is not at the beginning of a word, such as the con- of reconcile, or a suffix that is not at the end of a word, such as the -al of nationality.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, proscribed) A morpheme that always appears between other morphemes in a word, such as -i- and -o- in English (i.e. an interfix).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "infix (third-person singular simple present infixes, present participle infixing, simple past and past participle infixed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To set; to fasten or fix by piercing or thrusting in.",
+                  "examples": [
+                    "to infix a sting, spear, or dart"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To instill.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, linguistics) To insert a morpheme inside an existing word.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
