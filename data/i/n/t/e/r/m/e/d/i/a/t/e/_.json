@@ -1,0 +1,91 @@
+{
+  "word": "intermediate",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin intermediatus, past participle of intermediare, from inter + Late Latin mediare (“to mediate”); also Latin intermedius."
+      ],
+      "adjectives": [
+        {
+          "description": "intermediate (comparative more intermediate, superlative most intermediate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being between two extremes, or in the middle of a range.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:intermediate"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "intermediate (plural intermediates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything in an intermediate position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An intermediary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) Any substance formed as part of a series of chemical reactions that is not the end-product.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "intermediate (third-person singular simple present intermediates, present participle intermediating, simple past and past participle intermediated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To mediate, to be an intermediate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange, in the manner of a broker.",
+                  "examples": [
+                    "Central banks need to regulate the entities that intermediate monetary transactions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
