@@ -1,0 +1,84 @@
+{
+  "word": "incline",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English enclinen, from Old French encliner (modern incliner), from Latin inclīnō (“incline, tilt”), from in- + clīnō (compare -cline), from Proto-Indo-European *ḱley- (English lean)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "incline (plural inclines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A slope.",
+                  "examples": [
+                    "To reach the building, we had to climb a steep incline."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A portal of a subway tunnel.",
+                  "examples": [
+                    "the Pleasant Street Incline"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "incline (third-person singular simple present inclines, present participle inclining, simple past and past participle inclined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bend or move (something) out of a given plane or direction, often the horizontal or vertical.",
+                  "examples": [
+                    "He had to incline his body against the gusts to avoid being blown down in the storm.",
+                    "The people following the coffin inclined their heads in grief."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To slope.",
+                  "examples": [
+                    "Over the centuries the wind made the walls of the farmhouse incline."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly intransitive, chiefly passive) To tend to do or believe something, or move or be moved in a certain direction, away from a point of view, attitude, etc.",
+                  "examples": [
+                    "He inclines to believe anything he reads in the newspapers.",
+                    "I'm inclined to give up smoking after hearing of the risks to my health."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
