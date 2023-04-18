@@ -1,0 +1,41 @@
+{
+  "word": "haptics",
+  "etymologies": [
+    {
+      "description": [
+        "From haptic."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "haptics (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The study of the sense of touch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The study of user interfaces that use the sense of touch.",
+                  "examples": [
+                    "Future work of this research field will include two issues: the safety and psychology of haptics."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
