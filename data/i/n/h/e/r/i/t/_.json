@@ -1,0 +1,105 @@
+{
+  "word": "inherit",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English enheriten, from Old French enheriter, from Late Latin inhereditare (“make heir”). Displaced native Old English ierfan."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "inherit (third-person singular simple present inherits, present participle inheriting, simple past and past participle inherited)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take possession of as a right (especially in Biblical translations).",
+                  "examples": [
+                    "Your descendants will inherit the earth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To receive (property, a title, etc.), by legal succession or bequest after the previous owner's death.",
+                  "examples": [
+                    "After Grandad died, I inherited the house."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, biology) To receive a characteristic from one's ancestors by genetic transmission.",
+                  "examples": [
+                    "Let's hope the baby inherits his mother's looks and his father's intelligence."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To derive from people or conditions previously in force.",
+                  "examples": [
+                    "This country has inherited an invidious class culture."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To come into an inheritance.",
+                  "examples": [
+                    "Lucky old Daniel – his grandfather died rich, and he's inherited."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, transitive) To derive (existing functionality) from a superclass.",
+                  "examples": [
+                    "ModalWindow inherits all the properties and methods of Window."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, transitive) To derive a new class from (a superclass).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To put in possession of.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
