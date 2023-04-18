@@ -1,0 +1,69 @@
+{
+  "word": "immerse",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin immersus, from immergō, from in + mergō."
+      ],
+      "adjectives": [
+        {
+          "description": "immerse (comparative more immerse, superlative most immerse)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Immersed; buried; sunk.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "immerse (third-person singular simple present immerses, present participle immersing, simple past and past participle immersed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place within a fluid (generally a liquid, but also a gas).",
+                  "examples": [
+                    "... the two plates of platinum immersed in oxygen and hydrogen gases"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To involve or engage deeply.",
+                  "examples": [
+                    "The sculptor immersed himself in anatomic studies."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To map into an immersion.",
+                  "examples": [
+                    "Thus, in mathematical terms a Klein bottle cannot be \"embedded\" but only \"immersed\" in three dimensions as an embedding has no self-intersections but an immersion may have them."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
