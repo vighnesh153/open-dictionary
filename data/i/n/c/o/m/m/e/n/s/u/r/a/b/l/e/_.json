@@ -1,0 +1,68 @@
+{
+  "word": "incommensurable",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French incommensurable, from Medieval Latin incommensurabilis.",
+        "Its full etymology is equivalent to that of in- + commensurable."
+      ],
+      "adjectives": [
+        {
+          "description": "incommensurable (comparative more incommensurable, superlative most incommensurable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of two real numbers) having a ratio that is not expressible as a fraction of two integers.",
+                  "examples": [
+                    "The side and diagonal of a square are incommensurable with each other; the diameter and circumference of a circle are incommensurable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of two integers) having no common integer divisor except 1.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not able to be measured by the same standards as another term in the context.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "incommensurable (plural incommensurables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An incommensurable value or quantity; an irrational number.",
+                  "examples": [
+                    "Unfortunately for Pythagoras, his theorem led at once to the discovery of incommensurables, which appeared to disprove his whole philosophy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
