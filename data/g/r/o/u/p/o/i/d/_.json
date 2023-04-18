@@ -1,0 +1,39 @@
+{
+  "word": "groupoid",
+  "etymologies": [
+    {
+      "description": [
+        "group +‎ -oid"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "groupoid (plural groupoids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A magma: a set with a total binary operation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra and category theory) A set with a partial binary operation that is associative and has identities and inverses.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
