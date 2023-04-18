@@ -1,0 +1,47 @@
+{
+  "word": "jank",
+  "etymologies": [
+    {
+      "description": [
+        "Ostensibly a back-formation from janky (“shoddy, poor quality”)."
+      ],
+      "adjectives": [
+        {
+          "description": "jank (comparative more jank, superlative most jank)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang, rare) Janky.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jank (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang, rare) Perceptible pause in the smooth rendering of a software application's user interface due to slow operations or poor interface design.",
+                  "examples": [
+                    "This also marks the first time I haven’t felt that Samsung jank on the phone, which deserves its own paragraph in its own right. That weird stuttering and pausing you’ve seen on so many Samsung phones seems to be almost completely gone on the Note 3  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
