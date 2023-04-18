@@ -1,0 +1,543 @@
+{
+  "word": "key",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English keye, kaye, keiȝe, from Old English cǣġ (“key, solution, experiment”) (whence also Scots key and kay (“key”)), of uncertain origin. The only sure cognates are Saterland Frisian Koai (“key”), West Frisian kaai (“key”), and North Frisian kay (“key”). Possibly from Proto-Germanic *kēgaz, *kēguz (“stake, post, pole”), from Proto-Indo-European *ǵogʰ-, *ǵegʰ-, *ǵegʰn- (“branch, stake, bush”), which would make it cognate with Middle Low German kāk (“whipping post, pillory”), and perhaps to Middle Dutch keige (“javelin, spear”) and Middle Low German keie, keige (“spear”). For the semantic development, note that medieval keys were simply long poles (ending in a hook) with which a crossbar obstructing a door from the inside could be removed from the outside, by lifting it through a hole in the door. Liberman has noted, however, \"The original meaning of *kaig-jo- was presumably '*pin with a twisted end.' Words with the root *kai- followed by a consonant meaning 'crooked, bent; twisted' are common only in the North Germanic languages.\""
+      ],
+      "adjectives": [
+        {
+          "description": "key (comparative more key, superlative most key)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Indispensable, supremely important.",
+                  "examples": [
+                    "He is the key player on his soccer team."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Important, salient.",
+                  "examples": [
+                    "She makes several key points."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "key (plural keys)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object designed to open and close a lock.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object designed to fit between two other objects (such as a shaft and a wheel) in a mechanism and maintain their relative orientation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A crucial step or requirement.",
+                  "examples": [
+                    "The key to solving this problem is persistence.",
+                    "the key to winning a game"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A guide explaining the symbols or terminology of a map or chart; a legend.",
+                  "examples": [
+                    "The key says that A stands for the accounting department."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A guide to the correct answers of a worksheet or test.",
+                  "examples": [
+                    "Some students cheated by using the answer key."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) One of several small, usually square buttons on a typewriter or computer keyboard, mostly corresponding to text characters.",
+                  "examples": [
+                    "Press the Escape key."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(music)",
+              "entries": [
+                {
+                  "meaning": "In musical instruments, one of the valve levers used to select notes, such as a lever opening a hole on a woodwind.",
+                  "examples": []
+                },
+                {
+                  "meaning": "In instruments with a keyboard such as an organ or piano, one of the levers, or especially the exposed front end of it, which are depressed to cause a particular sound or note to be produced.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(music) A scale or group of pitches constituting the basis of a musical composition.",
+              "entries": [
+                {
+                  "meaning": "The lowest note of a scale; keynote.",
+                  "examples": []
+                },
+                {
+                  "meaning": "In musical theory, the total melodic and harmonic relations, which exist between the tones of an ideal scale, major or minor; tonality.",
+                  "examples": []
+                },
+                {
+                  "meaning": "In musical theory and notation, the tonality centering in a given tone, or the several tones taken collectively, of a given scale, major or minor.",
+                  "examples": []
+                },
+                {
+                  "meaning": "In musical notation, a sign at the head of a staff indicating the musical key.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) The general pitch or tone of a sentence or utterance.",
+                  "examples": [
+                    "You fall at once into a lower key."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(advertising) A modification of an advertisement so as to target a particular group or demographic.",
+                  "examples": [
+                    "Another popular way to key ads and mailings is to use a suite number, room number, department number, desk number, etc. as part of the ordering address. With a classified ad, using such a key may increase your ad cost."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) An indehiscent, one-seeded fruit furnished with a wing, such as the fruit of the ash and maple; a samara.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A manual electrical switching device primarily used for the transmission of Morse code.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A piece of information (e.g., a password or passphrase) used to encode or decode a message or messages.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A password restricting access to an IRC channel.",
+                  "examples": [
+                    "if you know someone who is in the channel, you can query them and ask for the key."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) In a relational database, a field used as an index into another table (not necessarily unique).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A value that uniquely identifies an entry in a container.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(basketball) The free-throw lane together with the circle surrounding the free-throw line, the free-throw lane having formerly been narrower, giving the area the shape of a skeleton key hole.",
+                  "examples": [
+                    "He shoots from the top of the key."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) A series of logically organized groups of discriminating information which aims to allow the user to correctly identify a taxon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A piece of wood used as a wedge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The last board of a floor when laid down.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(masonry) A keystone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That part of the plastering which is forced through between the laths and holds the rest in place.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) A wooden support for a rail on the bullhead rail system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The degree of roughness, or retention ability of a surface to have applied a liquid such as paint, or glue.",
+                  "examples": [
+                    "The door panel should be sanded down carefully to provide a good key for the new paint."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cartomancy) The thirty-third card of the Lenormand deck.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(print and film) The black ink layer, especially in relation to the three color layers of cyan, magenta, and yellow.  See also CMYK.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics, television) A color to be masked or made transparent.",
+                  "examples": [
+                    "You can easily create this type of user interface by creating a bitmap with certain portions set to a predefined color you want to use as the transparency key."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "key (third-person singular simple present keys, present participle keying, simple past and past participle keyed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fit (a lock) with a key.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fit (pieces of a mechanical assembly) with a key to maintain the orientation between them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To mark or indicate with a symbol indicating membership in a class.",
+                  "examples": [
+                    "So I worked on a tissue-paper copy of the perimeter plan, outlining groupings of plants of the same species and keying them with letters for the species."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telegraphy and radio telegraphy) To depress (a telegraph key).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(radio) To operate (the transmitter switch of a two-way radio).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) (more usually to key in) To enter (information) by typing on a keyboard or keypad.",
+                  "examples": [
+                    "Our instructor told us to key in our user IDs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) To vandalize (a car, etc.) by scratching with an implement such as a key.",
+                  "examples": [
+                    "He keyed the car that had taken his parking spot."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To link (as one might do with a key or legend).",
+                  "examples": [
+                    "The American Heart Association has prepared their own guide to classification and, keying it with the Standard Nomenclature of Diseases, have done much to encourage a concise yet complete diagnosis."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, biology, chiefly taxonomy) To be identified as a certain taxon when using a key.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(advertising, transitive) To modify (an advertisement) so as to target a particular group or demographic.",
+                  "examples": [
+                    "Keying advertisements and counting the number of inquiries received or the number of coupons returned to indicate the \"pulling power\" of a particular piece of copy or the coverage of a particular advertising medium."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To attune to; to set at; to pitch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fasten or secure firmly; to fasten or tighten with keys or wedges.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To prepare for plastering by adding the key (that part of the plastering which is forced through between the laths and holds the rest in place).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Variant of cay, from Spanish cayo, from Taíno cayo (“small island”)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "key (plural keys)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of a string of small islands.",
+                  "examples": [
+                    "the Florida Keys"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "key (plural keys)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of quay.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Abbreviating kilogram, via kilo."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "key (plural keys)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) Clipping of kilogram (especially of a recreational drug)",
+                  "examples": [
+                    "Synonym: kay"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
