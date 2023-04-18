@@ -1,0 +1,33 @@
+{
+  "word": "intuitionistic",
+  "etymologies": [
+    {
+      "description": [
+        "intuition +‎ -istic"
+      ],
+      "adjectives": [
+        {
+          "description": "intuitionistic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, logic) Dealing strictly in constructive proofs, abstaining from proof by contradiction",
+                  "examples": [
+                    "Intuitionistic type theory is based on a certain analogy or isomorphism between propositions and types: a proposition is identified with the type of its proofs. This identification is usually called the Curry–Howard isomorphism, which was originally formulated for intuitionistic logic and simply typed lambda calculus. Type Theory extends this identification to predicate logic by introducing dependent types, that is types which contain values. Type Theory internalizes the interpretation of intuitionistic logic proposed by Brouwer, Heyting and Kolmogorov, the so called BHK interpretation. The types of Type Theory play a similar role to sets in set theory but functions definable in Type Theory are always computable.WP",
+                    "The system, which has come to be known as IZF, or Intuitionistic Zermelo–Fraenkel (ZF refers to ZFC without the axiom of choice), has the usual axioms of extensionality, pairing, union, infinity, separation and power set. The axiom of regularity is stated in the form of an axiom schema of set induction. Also, while Myhill used the axiom schema of replacement in his system, IZF usually stands for the version with collection.WP"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
