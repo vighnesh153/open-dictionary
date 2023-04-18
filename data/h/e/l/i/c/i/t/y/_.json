@@ -1,0 +1,50 @@
+{
+  "word": "helicity",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "helicity (countable and uncountable, plural helicities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality of being helical.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, fluid mechanics, electrodynamics) Any of certain measures of the extent to which vortex lines (in fluid flow) or field lines (in a magnetic or electromagnetic field) kink and twist and/or link and coil around one another.",
+                  "examples": [
+                    "The conjecture made in Tsinober and Levich (1983) was that coherent structures should possess a significant coherent helicity."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, quantum mechanics) The quantized spin component of a moving particle along the direction of its motion.",
+                  "examples": [
+                    "To understand this name, note that the helicity is, roughly speaking, the spin in the direction of motion."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
