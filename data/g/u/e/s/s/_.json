@@ -1,0 +1,101 @@
+{
+  "word": "guess",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English gessen, probably of North Germanic origin, from Old Danish getse, gitse, getsa (“to guess”), from Old Norse *getsa, *gitsa, from Proto-Germanic *gitisōną (“to guess”), from Proto-Germanic *getaną (“to get”), from Proto-Indo-European *gʰed- (“to take, seize”). Cognate with Danish gisse (“to guess”), Norwegian gissa, gjette (“to guess”), Swedish gissa (“to guess”), Saterland Frisian gisje (“to guess”), Dutch gissen (“to guess”), Low German gissen (“to guess”). Related also to Icelandic giska (\"to guess\"; from Proto-Germanic *gitiskōną). Compare also Russian гада́ть (gadátʹ, “to conjecture, guess, divine”), Albanian gjëzë (“riddle”) from gjej (“find, recover, obtain”). More at get."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "guess (third-person singular simple present guesses, present participle guessing, simple past and past participle guessed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To reach a partly (or totally) unqualified conclusion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To solve by a correct conjecture; to conjecture rightly.",
+                  "examples": [
+                    "He who guesses the riddle shall have the ring."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly US) to suppose (introducing a proposition of uncertain plausibility).",
+                  "examples": [
+                    "That album is quite hard to find, but I guess you could try ordering it online."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) To think, conclude, or decide (without a connotation of uncertainty). Usually in first person: \"I guess\".",
+                  "examples": [
+                    "\"I guess you were right.\" \"What did he say?\" \"He guesses you were right.\"",
+                    "\"I guess I'll go to bed.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To hit upon or reproduce by memory.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English gesse. Cognate with Dutch gis (“a guess”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "guess (plural guesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A prediction about the outcome of something, typically made without factual evidence or support.",
+                  "examples": [
+                    "If you don't know the answer, take a guess.",
+                    "Synonyms: estimate, hypothesis, prediction"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
