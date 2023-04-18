@@ -1,0 +1,54 @@
+{
+  "word": "internalize",
+  "etymologies": [
+    {
+      "description": [
+        "internal +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "internalize (third-person singular simple present internalizes, present participle internalizing, simple past and past participle internalized) (American spelling, Oxford British English)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To make something internal; to incorporate it in oneself.",
+              "entries": [
+                {
+                  "meaning": "To process new information in one's mind.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To refrain from expressing (a negative emotion), to one's psychological detriment; to bottle up.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To store (a string or other structure) in a shared pool, such that subsequent items with the same value can share the same instance.",
+                  "examples": [
+                    "Synonym: intern"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) To transfer stocks between brokers within an organization, rather than through the exchange.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
