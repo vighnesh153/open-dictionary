@@ -1,0 +1,70 @@
+{
+  "word": "framework",
+  "etymologies": [
+    {
+      "description": [
+        "From frame +‎ -work."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "framework (plural frameworks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literally) A support structure comprising joined parts or conglomerated particles and intervening open spaces of similar or larger size.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literally) The arrangement of support beams that represent a building's general shape and size.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) The larger branches of a tree that determine its shape.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A basic conceptual structure.",
+                  "examples": [
+                    "These ‘three principles of connexion’ compose the framework of principles in Hume's account of the association of ideas."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) A reusable piece of code (and, sometimes, other utilities) providing a standard environment within which an application can be implemented.",
+                  "examples": [
+                    "Hyponyms: architectural framework, entity framework, software framework"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
