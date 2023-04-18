@@ -1,0 +1,63 @@
+{
+  "word": "inflate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin īnflātus, from the verb īnflō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "inflate (third-person singular simple present inflates, present participle inflating, simple past and past participle inflated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enlarge an object by pushing air (or a gas) into it; to raise or expand abnormally",
+                  "examples": [
+                    "You inflate a balloon by blowing air into it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To enlarge by filling with air (or a gas).",
+                  "examples": [
+                    "The balloon will inflate if you blow into it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) To swell; to puff up.",
+                  "examples": [
+                    "to inflate somebody with pride or vanity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To decompress (data) that was previously deflated.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
