@@ -1,0 +1,83 @@
+{
+  "word": "firewall",
+  "etymologies": [
+    {
+      "description": [
+        "From fire +‎ wall. Compare West Frisian brânmuorre, Dutch brandmuur, German Brandmauer, Feuermauer, Swedish brandvägg, brandmur, Icelandic eldvegg.  The verb sense for using maximum power or acceleration comes from the engine's firewall being the limit of forward movement of the throttle controls on many simpler vehicles; thus, to get the maximum engine output, one would push the throttle levers or pedal all the way to the firewall."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "firewall (plural firewalls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A fireproof barrier used to prevent the spread of fire between or through buildings, structures, electrical substation transformers, or within an aircraft or vehicle.",
+                  "examples": [
+                    "Coordinate terms: firestop, fire block"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer security) The software that monitors traffic in and out of a private network or a personal computer and allows or blocks such traffic depending on its perceived threat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A hypothetical phenomenon where an observer falling into a black hole encounters high-energy quanta at or near the event horizon.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "firewall (third-person singular simple present firewalls, present participle firewalling, simple past and past participle firewalled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer security) To protect with a firewall.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer security) To block with a firewall.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, motor vehicles or aircraft, slang) To use maximum engine power or acceleration.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
