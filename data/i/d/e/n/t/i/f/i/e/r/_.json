@@ -1,0 +1,90 @@
+{
+  "word": "identifier",
+  "etymologies": [
+    {
+      "description": [
+        "identify +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "identifier (plural identifiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who identifies; a person who establishes the identity of someone or something.",
+                  "examples": [
+                    "Here, we would use the anonymous key technique to obtain a quantum identification protocol AKI of the challenge-response type in which the identifier cannot pretend to be the identifiee  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that identifies or uniquely points to something or someone else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who identifies as a particular type or role; one who says and believes that they are a certain thing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A guidebook that helps determine the specific class of an object (such as a mushroom, herb, fish, bird, drug, or mineral), or its individual identity (such as that of a star).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, operating systems) A formal name used in source code to refer to a variable, function, procedure, package, etc. or in an operating system to refer to a process, user, group, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(HTML) A code that distinguishes a particular element from all other elements in a document.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A primary key.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
