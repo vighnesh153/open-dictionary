@@ -1,0 +1,99 @@
+{
+  "word": "hive",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hyve, from Old English hȳf, from Proto-West Germanic *hūfi (compare Dutch huif (“beehive”), Danish dialect huv (“ship’s hull”)), from Proto-Indo-European *kuHp- (“water vessel”) (compare Latin cūpa (“tub, vat”), Ancient Greek κύπη (kúpē, “gap, hole”), κύπελλον (kúpellon, “beaker”), Sanskrit कूप (kū́pa, “cave”)), from *kew- (“to bend, curve”). The computing term was chosen as an in-joke relating to bees; see [1]."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hive (plural hives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A structure, whether artificial or natural, for housing a swarm of honeybees.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The bees of one hive; a swarm of bees.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A place swarming with busy occupants; a crowd.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Microsoft Windows) A section of the registry.",
+                  "examples": [
+                    "For devices built with hive-based registry implementation, the registry data are broken into three different hives — the boot hive, system hive, and user hive."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hive (third-person singular simple present hives, present participle hiving, simple past and past participle hived)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To collect (bees) into a hive.",
+                  "examples": [
+                    "to hive a swarm of bees"
+                  ]
+                },
+                {
+                  "meaning": "To store (something other than bees) in, or as if in, a hive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To form a hive-like entity.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To take lodging or shelter together; to reside in a collective body.",
+                  "examples": [
+                    "[…]  to get into warmer houses, and hive together in cities"
+                  ]
+                },
+                {
+                  "meaning": "(entomology) Of insects: to enter or possess a hive.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
