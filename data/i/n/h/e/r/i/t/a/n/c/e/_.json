@@ -1,0 +1,68 @@
+{
+  "word": "inheritance",
+  "etymologies": [
+    {
+      "description": [
+        "Recorded since 1473, inherit +‎ -ance. More at inherit."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inheritance (countable and uncountable, plural inheritances)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The passing of title to an estate upon death.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) That which a person is entitled to inherit, by law or testament.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, especially linguistics, biology) The act or mechanism of inheriting; the state of having inherited",
+                  "examples": [
+                    "The Indo-European languages share various similarities as a result of their inheritance from a common ancestor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, genetic algorithms) The biological attributes passed hereditarily from ancestors to their offspring.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, object-oriented programming) The mechanism whereby parts of a superclass are available to instances of its subclass.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "inheritor",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English enheriter, enheritour; equivalent to inherit +‎ -or. Displaced native Old English ierfenuma."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inheritor (plural inheritors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who inherits something; an heir.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A class, etc. that derives from another code element through inheritance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
