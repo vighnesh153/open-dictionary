@@ -1,0 +1,107 @@
+{
+  "word": "input",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English inputten, equivalent to in- +‎ put."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "input (countable and uncountable, plural inputs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or process of putting in; infusion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is put in, as in an amount.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Contribution of work or information, as an opinion or advice.",
+                  "examples": [
+                    "You can provide input via this form."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Data fed into a process with the intention of it shaping or affecting the output of that process.",
+                  "examples": [
+                    "sound input"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) An input jack.",
+                  "examples": [
+                    "model with A/V input"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "input (third-person singular simple present inputs, present participle inputting, simple past and past participle input or inputted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put in; put on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enter data.",
+                  "examples": [
+                    "The user inputs his date of birth and the computer displays his age."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To accept data that is entered.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
