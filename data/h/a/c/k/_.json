@@ -1,0 +1,749 @@
+{
+  "word": "hack",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hacken, hakken, from Old English haccian (“to hack”), from Proto-West Germanic *hakkōn, from Proto-Germanic *hakkōną (“to chop; hoe; hew”), from Proto-Indo-European *keg-, *keng- (“to be sharp; peg; hook; handle”).",
+        "Cognate with Saterland Frisian häkje (“to hack”), West Frisian hakje (“to hack”), Dutch hakken (“to chop up; hack”), German hacken (“to chop; hack; hoe”), Danish hakke (“to chop”), Swedish hacka (“to hack; chop”), French hacher (“to chop”).",
+        "The computer senses date back to at least 1955 when it initially referred to creative problem solving. By 1963, the negative connotations of “black hat” or malicious hacking had become associated with telephone hacking (cf. phreaking)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hack (countable and uncountable, plural hacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tool for chopping. [14th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hacking blow. [19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A gouge or notch made by such a blow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dry cough.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hacking; a catch in speaking; a short, broken cough.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A try, an attempt. [19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(curling) The foothold traditionally cut into the ice from which the person who throws the rock pushes off for delivery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A mattock or a miner's pickaxe.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) An improvised device or solution to a problem.",
+                  "examples": [
+                    "Luckily for us J company picked us up in their hack — two snowmobiles with a big inflatable raft strapped between them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) An expedient, temporary solution, such as a small patch or change to code, meant to be replaced with a more elegant solution at a later date; a workaround.",
+                  "examples": [
+                    "Valleysoft released a hack yesterday to fix the \"crashes when more than 50 recipients\" bug for people who need it right away. The company says its next release will also solve this as well as add new features."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) A computer programmer who makes quick but inelegant changes to computer code to solve problems or add features.",
+                  "examples": [
+                    "Tsang is great but Zhou is such a hack — I wouldn't want him on my project."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) A computer programmer, particularly a veteran or someone not immediately expected to be capable of programming.",
+                  "examples": [
+                    "Terry wrote that module? I didn't know she was a hack too!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) An interesting technical achievement, particularly in computer programming.",
+                  "examples": [
+                    "Flugensoft came out with a neat hack last week that allows your watch to warm up your car if it's below freezing outside."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) A trick, shortcut, skill, or novelty method to increase productivity, efficiency, or ease.",
+                  "examples": [
+                    "Putting your phone in a sandwich bag when you go to the beach is such a great hack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) An illegal attempt to gain access to a computer network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) A video game or any computer software that has been altered from its original state.",
+                  "examples": [
+                    "[…]  found out a discarded sex mini-game in the code, and made it available again in the modified PC version of the game that they nicknamed “Hot Coffee.” This hack of the game created a controversy, since the inclusion of sexual content would change its age rating,  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, military) Time check, as for example upon synchronization of wristwatches.",
+                  "examples": [
+                    "Related terms: hack watch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ice hockey) The act of striking an opponent with one's hockey stick, typically on the leg but occasionally and more seriously on the back, arm, head, etc.",
+                  "examples": [
+                    "Zersky is still down after that nasty hack by Lenner."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball) A swing of the bat at a pitched ball by the batter, particularly a choppy, ungraceful one that misses the ball such as at a fastball.",
+                  "examples": [
+                    "And Melnick goes down with one last hack at an O'Malley fastball."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A kick on the shins in football of any type.",
+                  "examples": [
+                    "Wales are awarded a free kick after a minor hack by Järvinen on Llewellyn."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, slang, naval) Confinement of an officer to their stateroom as a punishment.",
+                  "examples": [
+                    "“Lieutenant Cauthen, you've got ten seconds to explain yourself before I put you in hack!”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, slang) An airplane of poor quality or in poor condition.",
+                  "examples": [
+                    "Henebry's planes returned to Japan to reload, and early in the morning brought almost 3,000 more troopers to Korea  […]  Before sunrise next day, all troops in the maneuver had been picked up again and airlifted in “Henebry Hacks” back to Japan."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hack (third-person singular simple present hacks, present participle hacking, simple past and past participle hacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To chop or cut down in a rough manner. [circa 12th c.]",
+                  "examples": [
+                    "They hacked the brush down and made their way through the jungle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To cough noisily. [19th c.]",
+                  "examples": [
+                    "This cold is awful. I can't stop hacking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To withstand or put up with a difficult situation. [20th c.]",
+                  "examples": [
+                    "Can you hack it out here with no electricity or running water?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To make a quick code change to patch a computer program, often one that, while being effective, is inelegant or makes the program harder to maintain.",
+                  "examples": [
+                    "Synonyms: frob, tweak",
+                    "I hacked in a fix for this bug, but we'll still have to do a real fix later."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To accomplish a difficult programming task.",
+                  "examples": [
+                    "He can hack like no one else and make the program work as expected."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang, transitive) To work with something on an intimately technical level.",
+                  "examples": [
+                    "I'm currently hacking distributed garbage collection."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, colloquial, by extension) To apply a trick, shortcut, skill, or novelty method to something to increase productivity, efficiency or ease.",
+                  "examples": [
+                    "I read up on dating tips so I can hack my sex life."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang, computing) To hack into; to gain unauthorized access to (a computer system, e.g., a website, or network) by manipulating code.",
+                  "examples": [
+                    "Synonym: crack"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang, computing, by extension) To gain unauthorised access to a computer or online account belonging to (a person or organisation).",
+                  "examples": [
+                    "When I logged into the social network, I discovered I'd been hacked."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, video games) To cheat by using unauthorized modifications.",
+                  "examples": [
+                    "That player must be hacking, they got so many kills last game."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ice hockey) To strike an opponent with one's hockey stick, typically on the leg but occasionally and more seriously on the back, arm, head, etc.",
+                  "examples": [
+                    "He's going to the penalty box after hacking the defender in front of the goal.",
+                    "Jensen gets a 5 minute major penalty for hacking Orsov in the back."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ice hockey) To make a flailing attempt to hit the puck with a hockey stick.",
+                  "examples": [
+                    "There's a scramble in front of the net as the forwards are hacking at the bouncing puck."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball) To swing at a pitched ball.",
+                  "examples": [
+                    "He went to the batter's box hacking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(soccer and rugby) To kick (a player) on the shins.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To strike in a frantic movement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To strike lightly as part of tapotement massage.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Variations of hatch, heck."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hack (plural hacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(falconry) A board which the falcon's food is placed on; used by extension for the state of partial freedom in which they are kept before being trained.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A food-rack for cattle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rack used to dry something, such as bricks, fish, or cheese.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A grating in a mill race.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hack (third-person singular simple present hacks, present participle hacking, simple past and past participle hacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To lay (bricks) on a rack to dry.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(falconry) To keep (young hawks) in a state of partial freedom, before they are trained.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Abbreviation of hackney (“an ordinary horse”), probably from place name Hackney."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hack (plural hacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A horse for hire, especially one which is old and tired. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person, often a journalist, hired to do routine work. [from 17th c.]",
+                  "examples": [
+                    "I got by on hack work for years before I finally published my novel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory) Someone who is available for hire; hireling, mercenary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A taxicab (hackney cab) driver.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now chiefly Canada, US, colloquial) A vehicle let for hire; originally, a hackney coach, now typically a taxicab. [from 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hearse.",
+                  "examples": [
+                    "Bring out the rubber-tired buggie/Bring out the rubber-tired hack/I'm takin' my Johnny to the graveyard/But I ain't gonna bring him back"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory, authorship) An untalented writer.",
+                  "examples": [
+                    "Dason is nothing but a two-bit hack.",
+                    "He's nothing but the typical hack writer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory) One who is professionally successful despite producing mediocre work. (Usually applied to persons in a creative field.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory) A talented writer-for-hire, paid to put others' thoughts into felicitous language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(politics, slightly derogatory) A political agitator.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, student politics, derogatory) A person who frequently canvasses for votes, either directly or by appearing to continuously act with the ulterior motive of furthering their political career.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A writer who hires himself out for any sort of literary work; an overworked man; a drudge.",
+                  "examples": [
+                    "Here lies poor Ned Purdon, from misery freed, / Who long was a bookseller's hack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A procuress.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hack (third-person singular simple present hacks, present participle hacking, simple past and past participle hacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) To make common or cliched; to vulgarise.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(equestrianism) To ride a horse at a regular pace; to ride on a road (as opposed to riding cross-country etc.).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To live the life of a drudge or hack.",
+                  "examples": [
+                    "Poor madam , now condemn'd to hack The rest of life with anxious Jack"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To use as a hack; to let out for hire.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To use frequently and indiscriminately, so as to render trite and commonplace.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To drive a hackney cab.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From hackysack."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hack (plural hacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small ball usually made of woven cotton or suede and filled with rice, sand or some other filler, for use in hackeysack.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hack (third-person singular simple present hacks, present participle hacking, simple past and past participle hacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To play hackeysack.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
