@@ -1,0 +1,47 @@
+{
+  "word": "histogram",
+  "etymologies": [
+    {
+      "description": [
+        "Probably from Ancient Greek ἱστός (histós, “mast”) + -γραμμα (-gramma), although it is sometimes claimed to have been derived from historical + diagram; coined in 1891 by English mathematician Karl Pearson."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "histogram (plural histograms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A graphical display of numerical data in the form of upright bars, with the area of each bar representing frequency.",
+                  "examples": [
+                    "Such distinctions, however, require detailed information, such as histograms of the distribution of energy use among residential customers, both by month and by year."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "histogram (third-person singular simple present histograms, present participle histogramming, simple past and past participle histogrammed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To represent (data) as a histogram.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
