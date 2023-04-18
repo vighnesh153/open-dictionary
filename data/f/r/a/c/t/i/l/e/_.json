@@ -1,0 +1,60 @@
+{
+  "word": "fractile",
+  "etymologies": [
+    {
+      "description": [
+        "fraction +‎ -ile"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fractile (plural fractiles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) The value of a distribution for which some fraction of the sample lies below.",
+                  "examples": [
+                    "The q-quantile is the same as the (1/q)-fractile.",
+                    "The median is the .5-fractile."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "fracture +‎ -ile"
+      ],
+      "adjectives": [
+        {
+          "description": "fractile (comparative more fractile, superlative most fractile)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Describing the quality of a sedimentary stone as it relates to the sediments to cohesively bond without fracturing.",
+                  "examples": [
+                    "A stone with a low fractile strength lacks tensile strength and will crack or crumble under stress or pressure."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
