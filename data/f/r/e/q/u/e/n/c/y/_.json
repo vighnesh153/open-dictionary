@@ -1,0 +1,68 @@
+{
+  "word": "frequency",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin frequentia, from frequens. English equivalent frequent +‎ -cy."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "frequency (countable and uncountable, plural frequencies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable or countable) The rate of occurrence of anything; the relationship between incidence and time period.",
+                  "examples": [
+                    "With growing confidence, the Viking’s raids increased in frequency.",
+                    "The frequency of bus service has been improved from one every 15 to one every 12 minutes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The property of occurring often rather than infrequently.",
+                  "examples": [
+                    "The FAQ addresses questions that come up with some frequency.",
+                    "The frequency of the visits was what annoyed him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The quotient of the number of times \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n a periodic phenomenon occurs over the time \n  \n    \n      \n        t\n      \n    \n    {\\displaystyle t}\n  \n in which it occurs: \n  \n    \n      \n        f\n        =\n        n\n        \n          /\n        \n        t\n      \n    \n    {\\displaystyle f=n/t}\n  \n.",
+                  "examples": [
+                    "The frequency of the musical note A above middle C is 440 oscillations per second.",
+                    "The frequency of a wave is its velocity \n  \n    \n      \n        v\n      \n    \n    {\\displaystyle v}\n  \n divided by its wavelength \n  \n    \n      \n        λ\n      \n    \n    {\\displaystyle \\lambda }\n  \n: \n  \n    \n      \n        f\n        =\n        v\n        \n          /\n        \n        λ\n      \n    \n    {\\displaystyle f=v/\\lambda }\n  \n.",
+                    "Broadcasting live at a frequency of 98.3 megahertz, we’re your rock alternative!",
+                    "The frequency for electric power in the Americas is generally 60 Hz rather than 50."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) number of times an event occurred in an experiment (absolute frequency)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
