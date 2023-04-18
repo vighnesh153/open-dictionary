@@ -1,0 +1,82 @@
+{
+  "word": "ident",
+  "etymologies": [
+    {
+      "description": [
+        "From a later form of ithand, itself an alteration (due to assimilation to suffix -and) of Middle English ithen, from Old Norse iðinn (“assiduous, diligent”), from iðja, iðna (“to do, perform”), from ið (“a restless motion”), equivalent to ithe +‎ -and and/or ithe +‎ -en. Cognate with Icelandic iðinn (“diligent”), Norwegian idig (“busy”), Danish id (“pursuit, calling, business”). More at ithand."
+      ],
+      "adjectives": [
+        {
+          "description": "ident (comparative more ident, superlative most ident)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Now chiefly dialectal, Northern England, Scotland) Diligent; persistent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Shortened form of identification."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ident (plural idents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Identification.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(radio, television) A brief audio or audiovisual sequence serving to identify the broadcaster.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A protocol serving to identify the user of a particular TCP connection, used especially on IRC networks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Identifier.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
