@@ -1,0 +1,121 @@
+{
+  "word": "harmonic",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin harmonicus, from Ancient Greek ἁρμονικός (harmonikós), from ἁρμονία (harmonía, “harmony”)."
+      ],
+      "adjectives": [
+        {
+          "description": "harmonic (comparative more harmonic, superlative most harmonic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "pertaining to harmony",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "pleasant to hear; harmonious; melodious",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) used to characterize various mathematical entities or relationships supposed to bear some resemblance to musical consonance",
+                  "examples": [
+                    "The harmonic polar line of an inflection point of a cubic curve is the component of the polar conic other than the tangent line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "recurring periodically",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonology) Exhibiting or applying constraints on what vowels (e.g. front/back vowels only) may be found near each other and sometimes in the entire word.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australianist linguistics) Of or relating to a generation an even number of generations distant from a particular person.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "harmonic (plural harmonics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A component frequency of the signal of a wave that is an integer multiple of the fundamental frequency.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The place where, on a bowed string instrument, a note in the harmonic series of a particular string can be played without the fundamental present.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) One of a class of functions that enter into the development of the potential of a nearly spherical mass due to its attraction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(CB radio slang) One's child.",
+                  "examples": [
+                    "Games for the harmonics, (children), YL's and XYL's and the OM's, plus free soda for all."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
