@@ -1,0 +1,123 @@
+{
+  "word": "hint",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hinten, hynten, variant of henten (“to lay hold of, catch”), from Old English hentan (“to seize, grasp”), from Proto-West Germanic *hantijan, from Proto-Germanic *hantijaną. Doublet of hent. Related also to hunt."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hint (plural hints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A clue.",
+                  "examples": [
+                    "I needed a hint to complete the crossword."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An implicit suggestion that avoids a direct statement.",
+                  "examples": [
+                    "He gave me a hint that my breath smelt."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small, barely detectable amount.",
+                  "examples": [
+                    "There was a hint of irony in his voice.",
+                    "I could taste a hint of lemon in my iced water."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Information in a computer-based font that suggests how the outlines of the font's glyphs should be distorted in order to produce, at specific sizes, a visually appealing pixel-based rendering; an instance of hinting.",
+                  "examples": [
+                    "This font does not scale well to small sizes; the hints for the 10-point letter 'g' still need work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) An instruction to the database engine as to how a query should be executed, for example whether to use an index or not.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) An opportunity; occasion; fit time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hint (third-person singular simple present hints, present participle hinting, simple past and past participle hinted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To imply without a direct statement; to provide a clue.",
+                  "examples": [
+                    "She hinted at the possibility of a recount of the votes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring to mind by a slight mention or remote allusion; to suggest in an indirect manner.",
+                  "examples": [
+                    "to hint a suspicion"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To develop and add hints to a font.",
+                  "examples": [
+                    "The typographer worked all day on hinting her new font so it would look good on computer screens."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
