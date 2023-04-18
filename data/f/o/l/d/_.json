@@ -1,0 +1,355 @@
+{
+  "word": "fold",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English folden, from Old English fealdan, from Proto-Germanic *falþaną (“to fold”), from Proto-Indo-European *pel- (“to fold”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fold (plural folds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of folding.",
+                  "examples": [
+                    "give the bedsheets a fold before putting them in the cupboard.",
+                    "After two reraises in quick succession, John realised his best option was probably a fold.",
+                    "Synonyms: bending, creasing"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bend or crease.",
+                  "examples": [
+                    "Synonyms: bend, crease"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any correct move in origami.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(newspapers) The division between the top and bottom halves of a broadsheet: headlines above the fold will be readable in a newsstand display; usually the fold.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, web design) The division between the part of a web page visible in a web browser window without scrolling; usually the fold.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is folded together, or which enfolds or envelops; embrace.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) The bending or curving of one or a stack of originally flat and planar surfaces, such as sedimentary strata, as a result of plastic (i.e. permanent) deformation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) In functional programming, any of a family of higher-order functions that process a data structure recursively to build up a value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A section of source code that can be collapsed out of view in an editor to aid readability.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fold (third-person singular simple present folds, present participle folding, simple past folded, past participle folded or (obsolete) folden)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bend (any thin material, such as paper) over so that it comes in contact with itself.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make the proper arrangement (in a thin material) by bending.",
+                  "examples": [
+                    "If you fold the sheets, they'll fit more easily in the drawer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become folded; to form folds.",
+                  "examples": [
+                    "Cardboard doesn't fold very easily."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, informal) To fall over; to be crushed.",
+                  "examples": [
+                    "The chair folded under his enormous weight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enclose within folded arms (see also enfold).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To give way on a point or in an argument.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, poker) To withdraw from betting.",
+                  "examples": [
+                    "With no hearts in the river and no chance to hit his straight, he folded."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, by extension) To withdraw or quit in general.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, cooking) To stir gently, with a folding action.",
+                  "examples": [
+                    "Fold the egg whites into the batter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, business) Of a company, to cease to trade.",
+                  "examples": [
+                    "The company folded after six quarters of negative growth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To double or lay together, as the arms or the hands.",
+                  "examples": [
+                    "He folded his arms in defiance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cover or wrap up; to conceal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English fold, fald, from Old English fald, falæd, falod (“fold, stall, stable, cattle-pen”), from Proto-Germanic *faludaz (“enclosure”). Akin to Scots fald, fauld (“an enclosure for livestock”), Dutch vaalt (“dung heap”), Middle Low German valt, vālt (“an inclosed space, a yard”), Danish fold (“pen for herbivorous livestock”), Swedish fålla (“corral, pen, pound”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fold (plural folds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pen or enclosure for sheep or other domestic animals.",
+                  "examples": [
+                    "Synonyms: enclosure, pen, penfold, pinfold"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(collective) A group of sheep or goats.",
+                  "examples": [
+                    "Synonym: flock"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Home, family.",
+                  "examples": [
+                    "Synonyms: home, family"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Christianity) A church congregation, a group of people who adhere to a common faith and habitually attend a given church; the Christian church as a whole, the flock of Christ.",
+                  "examples": [
+                    "Synonyms: congregation, flock"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of people with shared ideas or goals or who live or work together.",
+                  "examples": [
+                    "Synonym: cohort"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fold (third-person singular simple present folds, present participle folding, simple past and past participle folded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To confine animals in a fold.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English folde, from Old English folde (“earth, land, country, district, region, territory, ground, soil, clay”), from Proto-Germanic *fuldǭ, *fuldō (“earth, ground; field; the world”). Cognate with Old Norse fold (“earth, land, field”), Norwegian and Icelandic fold (“land, earth, meadow”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fold (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dialectal, poetic or obsolete) The Earth; earth; land, country.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
