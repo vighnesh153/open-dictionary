@@ -1,0 +1,79 @@
+{
+  "word": "jupe",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English jupe, from Middle French jupe. Doublet of jubbah."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jupe (plural jupes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A style of skirt.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A style of short jacket, usually for a woman or child.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Apparently named after an EFnet user called Jupiter who did this to NickServ"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jupe (plural jupes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(IRC) A block placed on a server, nickname or channel.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "jupe (third-person singular simple present jupes, present participle juping, simple past and past participle juped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(IRC) To block a server (from joining the network), a nickname or channel (from being used).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
