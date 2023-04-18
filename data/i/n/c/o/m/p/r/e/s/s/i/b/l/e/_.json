@@ -1,0 +1,39 @@
+{
+  "word": "incompressible",
+  "etymologies": [
+    {
+      "description": [
+        "From French incompressible, from in- +‎ compressible."
+      ],
+      "adjectives": [
+        {
+          "description": "incompressible (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not compressible.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(calculus, of a vector field) Having a divergence equal to zero.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
