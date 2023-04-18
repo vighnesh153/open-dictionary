@@ -1,0 +1,70 @@
+{
+  "word": "geodesic",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "geodesic (comparative more geodesic, superlative most geodesic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to geodesy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to a geodesic dome.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "geodesic (plural geodesics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The shortest curve between two points on a specific surface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, spherical geometry) A segment of a great circle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, sciences) A course allowing the parallel-transport of vectors along a course that causes tangent vectors to remain tangent vectors throughout that course (a straight curve, a line that is straight).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
