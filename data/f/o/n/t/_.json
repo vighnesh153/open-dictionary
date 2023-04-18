@@ -1,0 +1,146 @@
+{
+  "word": "font",
+  "etymologies": [
+    {
+      "description": [
+        "From Old English font, an early borrowing from Latin fōns, fontis (“fountain”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "font (plural fonts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Christianity) A receptacle in a church for holy water, especially one used in baptism.",
+                  "examples": [
+                    "Synonym: stoup",
+                    "Hyponym: baptismal font"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A receptacle for oil in a lamp.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Spring, source, fountain.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Borrowed from Middle French fonte, feminine past participle of verb fondre (“to melt”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "font (plural fonts)",
+          "definitionGroups": [
+            {
+              "group": "(typography) A set of glyphs of unified design, belonging to one typeface (e.g., Helvetica), style (e.g., italic), and weight (e.g., bold). Usually representing the letters of an alphabet and its supplementary characters.",
+              "entries": [
+                {
+                  "meaning": "In metal typesetting, a set of type sorts in one size.",
+                  "examples": []
+                },
+                {
+                  "meaning": "In phototypesetting, a set of patterns forming glyphs of any size, or the film they are stored on.",
+                  "examples": []
+                },
+                {
+                  "meaning": "In digital typesetting, a set of glyphs in a single style, representing one or more alphabets or writing systems, or the computer code representing it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, typography, informal) A typeface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, typography) A computer file containing the code used to draw and compose the glyphs of one or more typographic fonts on a computer display or printer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "font (third-person singular simple present fonts, present participle fonting, simple past and past participle fonted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(television, colloquial, transitive) To overlay (text) on the picture.",
+                  "examples": [
+                    "When figures or quotes are thought helpful to understanding a spot, they're \"fonted\" over the cover picture."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Apparently from fount, with influence from the senses above (under etymology 1)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "font (plural fonts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A source, wellspring, fount.",
+                  "examples": [
+                    "A gaudy taste; for they are little skill'd inThe arts of which these lands were once the font"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
