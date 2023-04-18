@@ -1,0 +1,39 @@
+{
+  "word": "inradius",
+  "etymologies": [
+    {
+      "description": [
+        "in- +‎ radius"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inradius (plural inradii)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) the radius of the largest circle that will fit inside any given geometric shape, especially inside a regular polygon",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) the radius of the largest sphere that will fit inside any given polyhedron",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
