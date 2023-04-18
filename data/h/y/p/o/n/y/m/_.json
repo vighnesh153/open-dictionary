@@ -1,0 +1,32 @@
+{
+  "word": "hyponym",
+  "etymologies": [
+    {
+      "description": [
+        "hyp- +‎ -onym = hypo- +‎ -nym; from Ancient Greek ὑπό (hupó, “under”) + ὄνυμα (ónuma) (\"appellation\"), a Doric specific dialectal form of ὄνομα (ónoma, “name”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hyponym (plural hyponyms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semantics) A more specific term; a subordinate grouping word or phrase; a term designating a subclass of another more general class described by the given word.",
+                  "examples": [
+                    "The words “dog”, “cat”, and “human” are hyponyms of “animal” because dogs, cats, and humans are types of animal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
