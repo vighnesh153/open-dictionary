@@ -1,0 +1,70 @@
+{
+  "word": "interpolation",
+  "etymologies": [
+    {
+      "description": [
+        "From French interpolation, from Latin interpolatio.\nMorphologically interpolate +‎ -ion"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interpolation (countable and uncountable, plural interpolations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) An abrupt change in elements, with continuation of the first idea.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, sciences) The process of estimating the value of a function at a point from its values at nearby points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process of including and processing externally-fetched data in a document or program; see interpolate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(editing, content analysis) That which is introduced or inserted; in contexts of content analysis of centuries-old texts, especially something foreign or spurious.",
+                  "examples": [
+                    "Today a widely established convention encloses all editorial interpolations in square brackets [like so] for clarity."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The use of a melody from a previously recorded song, but recreated rather than sampled from that recording.",
+                  "examples": [
+                    "The melody itself is an interpolation of “The Streets of Cairo,” an Orientalist Tin Pan Alley song originally published in 1895."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
