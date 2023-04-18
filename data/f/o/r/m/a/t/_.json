@@ -1,0 +1,94 @@
+{
+  "word": "format",
+  "etymologies": [
+    {
+      "description": [
+        "Via French format and German Format, from New Latin liber fōrmātus (“book fashioned”), from fōrmō (“I shape, fashion”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "format (plural formats)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The layout of a publication or document.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) The form of presentation of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(radio) The type of programming that a radio station broadcasts; such as a certain genre of music, news, sports, talk, etc.",
+                  "examples": [
+                    "The radio station changed the format of its evening program."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A file type.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "format (third-person singular simple present formats, present participle formatting, simple past and past participle formatted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To create or edit the layout of a document.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Change a document so it will fit onto a different type of page.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To prepare a mass storage medium for initial use, erasing any existing data in the process.",
+                  "examples": [
+                    "I lost weeks of work when I inadvertently formatted my hard drive."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
