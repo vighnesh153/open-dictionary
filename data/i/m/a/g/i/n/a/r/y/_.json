@@ -1,0 +1,77 @@
+{
+  "word": "imaginary",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English ymaginarie, ymagynary, from Latin imāginārius (“relating to images, fancied”), from imāgō.",
+        "The mathematical sense derives from René Descartes's use (of the French imaginaire) in 1637, La Geometrie, to ridicule the notion of regarding non-real roots of polynomials as numbers. Although Descartes' usage was derogatory, the designation stuck even after the concept gained acceptance in the 18th century."
+      ],
+      "adjectives": [
+        {
+          "description": "imaginary (comparative more imaginary, superlative most imaginary)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Existing only in the imagination.",
+                  "examples": [
+                    "Unicorns are imaginary."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a number) Having no real part; that part of a complex number which is a multiple of \n  \n    \n      \n        \n          \n            −\n            1\n          \n        \n      \n    \n    {\\displaystyle {\\sqrt {-1}}}\n  \n (called imaginary unit).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "imaginary (plural imaginaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Imagination; fancy. [from 16th c.]",
+                  "examples": [
+                    "By then too Mozart's opera, from Da Ponte's libretto, had made Figaro a stock character in the European imaginary and set the whole Continent whistling Mozartian airs and chuckling at Figaresque humour."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An imaginary quantity. [from 18th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sociology) The set of values, institutions, laws, and symbols common to a particular social group and the corresponding society through which people imagine their social whole.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
