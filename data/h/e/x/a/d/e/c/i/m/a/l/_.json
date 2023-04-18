@@ -1,0 +1,54 @@
+{
+  "word": "hexadecimal",
+  "etymologies": [
+    {
+      "description": [
+        "1952. hexadeca- +‎ decimal; see the Wikipedia article for more information."
+      ],
+      "adjectives": [
+        {
+          "description": "hexadecimal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a number, expressed in hexadecimal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hexadecimal (countable and uncountable, plural hexadecimals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic, computing, uncountable) A number system with base sixteen, using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F, most used in computing as a hexadecimal digit can represent four bits, half a standard byte, and thus a single byte can be represented conveniently with two digits.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, computing) A number expressed in the hexadecimal system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
