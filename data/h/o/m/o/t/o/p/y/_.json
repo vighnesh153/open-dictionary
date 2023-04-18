@@ -1,0 +1,68 @@
+{
+  "word": "homotopy",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ὁμός (homós, “same, similar”) + τόπος (tópos, “place”); earliest known use in print in 1922, Oswald Veblen, Analysis Situs."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "homotopy (countable and uncountable, plural homotopies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A continuous deformation of one continuous function or map to another.",
+                  "examples": [
+                    "The concept of homotopy represents a formalisation of the intuitive idea of a smooth deformation of one curve into another."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The relationship between two continuous functions where homotopy from one to the other is evident.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Ellipsis of homotopy theory. (the systematic study of homotopies and their equivalence classes).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A theory associating a system of groups with each topological space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A system of groups associated with a topological space.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
