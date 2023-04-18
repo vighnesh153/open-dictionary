@@ -1,0 +1,143 @@
+{
+  "word": "instance",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French instance, from Latin īnstantia (“a being near, presence, also perseverance, earnestness, importunity, urgency”), from īnstāns (“urgent”); see instant."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "instance (plural instances)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Urgency of manner or words; an urgent request; insistence. [14th–19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A token; a sign; a symptom or indication.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That which is urgent; motive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A piece of evidence; a proof or sign (of something). [16th–18th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Occasion; order of occurrence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A case offered as an exemplification or a precedent; an illustrative example. [from 16th c.]",
+                  "examples": [
+                    "most remarkable instances of suffering"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of a series of recurring occasions, cases, essentially the same.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A specific occurrence of something that is created or instantiated, such as a database, or an object of a class in object-oriented programming. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(massively multiplayer online games) A dungeon or other area that is duplicated for each player, or each party of players, that enters it, so that each player or party has a private copy of the area, isolated from other players.",
+                  "examples": [
+                    "As long as the most difficult instance you've tried is Gnomeregan, you're never going to be credible talking about 'difficult encounters'."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(massively multiplayer online games) An individual copy of such a dungeon or other area.",
+                  "examples": [
+                    "The instance is created for the group that enters it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "instance (third-person singular simple present instances, present participle instancing, simple past and past participle instanced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To mention as a case or example; to refer to; to cite",
+                  "examples": [
+                    "The poems which I have instanced are concrete and relatively glaring examples of the intangible difference which the change of language made in Rilke's visions ."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To cite an example as proof; to exemplify.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
