@@ -1,0 +1,57 @@
+{
+  "word": "fragmentation",
+  "etymologies": [
+    {
+      "description": [
+        "fragment +‎ -ation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fragmentation (countable and uncountable, plural fragmentations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of fragmenting or something fragmented; disintegration.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process by which fragments of an exploding bomb scatter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The breaking up and dispersal of a file into non-contiguous areas of a disk.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The breaking up of a data packet when larger than the transmission unit of a network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
