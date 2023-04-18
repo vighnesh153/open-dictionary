@@ -1,0 +1,64 @@
+{
+  "word": "knightship",
+  "etymologies": [
+    {
+      "description": [
+        "From knight +‎ -ship."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "knightship (plural knightships)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The honor bestowed that makes someone a knight.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Honorific formal address to a knighted person. Usually used with the relevant possessive pronoun.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "knight +‎ ship"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "knightship (plural knightships)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) A spaceship, in a cellular automaton, which moves knightwise (i.e., moving two spaces along the x-axis for every space it moves along the y-axis [or vice versa], in the manner of a chess knight); a spaceship which moves with slope 2; a (2,1) spaceship.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
