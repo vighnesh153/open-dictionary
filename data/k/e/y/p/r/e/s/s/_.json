@@ -1,0 +1,39 @@
+{
+  "word": "keypress",
+  "etymologies": [
+    {
+      "description": [
+        "key +‎ press"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "keypress (plural keypresses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The depression of an input key; a keystroke.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The buffered electrical signal resulting from such an event, sometimes distinguished from the release.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
