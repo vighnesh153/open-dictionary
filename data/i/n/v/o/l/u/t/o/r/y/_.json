@@ -1,0 +1,43 @@
+{
+  "word": "involutory",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "involutory (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a mapping or transformation: being its own inverse.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "involutory (plural involutories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A linear transformation that is its own inverse, i.e., that has period two.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
