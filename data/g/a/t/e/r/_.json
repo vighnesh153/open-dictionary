@@ -1,0 +1,32 @@
+{
+  "word": "gater",
+  "etymologies": [
+    {
+      "description": [
+        "gate +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gater (plural gaters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mechanism that saves power in a circuit by removing the clock signal while the circuit is not in use.",
+                  "examples": [
+                    "Optimizing the selection of clock gaters based on activity is known as power-driven clock gating."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
