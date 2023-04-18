@@ -1,0 +1,110 @@
+{
+  "word": "irreducible",
+  "etymologies": [
+    {
+      "description": [
+        "ir- +‎ reducible"
+      ],
+      "adjectives": [
+        {
+          "description": "irreducible (comparative more irreducible, superlative most irreducible)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not able to be reduced or lessened.",
+                  "examples": [
+                    "Antonym: unincreasable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not able to be brought to a simpler or reduced form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a polynomial) Unable to be factorized into polynomials of lower degree, as (x2 + 1).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(number theory, of a fraction) Whose numerator and denominator share no common factor greater than 1.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(number theory, of an integer) Unable to be factored into smaller integers; prime.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of an element of a ring) that its only divisors are units and associates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology, of a manifold) Not containing a sphere of codimension 1 that is not the boundary of a ball.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(group theory, of a representation) Impossible to divide further into representations of lower dimension by means of any similarity transformation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "irreducible (plural irreducibles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Such a polynomial",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
