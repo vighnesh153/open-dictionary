@@ -1,0 +1,39 @@
+{
+  "word": "hypernormal",
+  "etymologies": [
+    {
+      "description": [
+        "hyper- +‎ normal"
+      ],
+      "adjectives": [
+        {
+          "description": "hypernormal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) Having or relating to a personality that makes one try hard to appear normal to others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A matrix M is hypernormal if, given any n by n diagonal matrix G with entries of 1 or -1, MTGM  = G.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
