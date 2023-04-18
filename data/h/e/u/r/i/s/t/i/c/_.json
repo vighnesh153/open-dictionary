@@ -1,0 +1,81 @@
+{
+  "word": "heuristic",
+  "etymologies": [
+    {
+      "description": [
+        "Irregular formation from Ancient Greek εὑρίσκω (heurískō, “I find, discover”) (compare the proper Greek term εὑρετικός (heuretikós))."
+      ],
+      "adjectives": [
+        {
+          "description": "heuristic (comparative more heuristic, superlative most heuristic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of an approach to problem solving, learning, or discovery) That employs a practical method not guaranteed to be optimal or perfect; not following or derived from any theory. [from 1821]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a method or algorithm) That provides a useful, but not optimal, solution to a problem. Such algorithms are typically employed either because the only known algorithms that provide optimal solutions use too much time or resources, or else because there is no known algorithm that provides an optimal solution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of an argument) That reasons from the value of a method or principle that has been shown by experimental investigation to be a useful aid in learning, discovery and problem-solving.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "heuristic (plural heuristics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A heuristic method. [from 1860]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The art of applying heuristic methods.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A heuristic algorithm or method.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
