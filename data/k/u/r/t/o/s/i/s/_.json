@@ -1,0 +1,39 @@
+{
+  "word": "kurtosis",
+  "etymologies": [
+    {
+      "description": [
+        "Coined c. 1895 by Karl Pearson (published 1899 in \"On certain Properties of the Hypergeometrical Series, and so on the fitting of such series to Observation Polygons in the Theory of Chance\", Phil. Mag.).\nFrom Ancient Greek κύρτωσις (kúrtōsis, “bulging, convexity”), from κυρτός (kurtós, “bulging”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "kurtosis (countable and uncountable, plural kurtoses or kurtosises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A measure of \"heaviness of the tails\" of a probability distribution, defined as the fourth cumulant divided by the square of the variance of the probability distribution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Excess kurtosis: the difference between a given distribution's kurtosis and the kurtosis of a normal distribution.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
