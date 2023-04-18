@@ -1,0 +1,32 @@
+{
+  "word": "homothety",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ὁμο- (homo-, “same”) + θέσις (thésis, “setting, placement, arrangement”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "homothety (plural homotheties)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, geometry) An isotropic scaling transformation of an affine space with a single fixed point.",
+                  "examples": [
+                    "One cannot obtain all similarity mappings from products of homotheties alone, but they are necessary and basic to similarities."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
