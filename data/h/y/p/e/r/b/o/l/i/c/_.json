@@ -1,0 +1,119 @@
+{
+  "word": "hyperbolic",
+  "etymologies": [
+    {
+      "description": [
+        "hyperbole +‎ -ic"
+      ],
+      "adjectives": [
+        {
+          "description": "hyperbolic (comparative more hyperbolic, superlative most hyperbolic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to hyperbole.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Using hyperbole: exaggerated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(vision, of a perceived color) Having a saturation exceeding 100%.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "hyperbola +‎ -ic"
+      ],
+      "adjectives": [
+        {
+          "description": "hyperbolic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to a hyperbola.",
+                  "examples": [
+                    "In this configuration the on-axis image is produced at the real hyperbolic focus (fs2) but off-axis performance suffers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Indicates that the specified function is a hyperbolic function rather than a trigonometric function.",
+                  "examples": [
+                    "The hyperbolic cosine of zero is one."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a metric space or a geometry) Having negative curvature or sectional curvature.",
+                  "examples": [
+                    "There is a universal constant \n  \n    \n      \n        \n          m\n          \n            0\n          \n        \n        >\n        0\n      \n    \n    {\\displaystyle m_{0}>0}\n  \n such that every hyperbolic surface \n  \n    \n      \n        R\n      \n    \n    {\\displaystyle R}\n  \n has an embedded hyperbolic disk with radius greater than \n  \n    \n      \n        \n          m\n          \n            0\n          \n        \n      \n    \n    {\\displaystyle m_{0}}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, topology, of an automorphism) Whose domain has two (possibly ideal) fixed points joined by a line mapped to itself by translation.",
+                  "examples": [
+                    "A hyperbolic isometry \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n has two (distinct) fixed points on \n  \n    \n      \n        ∂\n        \n          \n            H\n          \n        \n      \n    \n    {\\displaystyle \\partial {\\mathcal {H}}}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) Of, pertaining to, or in a hyperbolic space (a space having negative curvature or sectional curvature).",
+                  "examples": [
+                    "Exactly one hypercycle is a hyperbolic geodesic, and this is called the axis \n  \n    \n      \n        \n          A\n          \n            f\n          \n        \n      \n    \n    {\\displaystyle A_{f}}\n  \n of \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
