@@ -1,0 +1,44 @@
+{
+  "word": "inscribe",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin īnscrībō, from in- (“upon”) and scrībō (“to write”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "inscribe (third-person singular simple present inscribes, present participle inscribing, simple past and past participle inscribed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To write or cut (words) onto (something, especially a hard surface, or a book to be given to another person); to engrave.",
+                  "examples": [
+                    "I inscribed the book with a message for Kate.",
+                    "I inscribed my name into the book."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) To draw a circle, sphere, etc. inside a polygon, polyhedron, etc. and tangent to all its sides.",
+                  "examples": [
+                    "Antonym: (rare) escribe"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
