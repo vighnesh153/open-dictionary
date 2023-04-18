@@ -1,0 +1,123 @@
+{
+  "word": "grammar",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English gramer, gramarye, gramery, from Old French gramaire (“classical learning”), from the unattested *grammāria, an alteration of Latin grammatica, from Ancient Greek γραμματική (grammatikḗ, “skilled in writing”), from γράμμα (grámma, “line of writing”), from γράφω (gráphō, “write”), from Proto-Indo-European *gerbʰ- (“to carve, scratch”). Displaced native Old English stæfcræft."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "grammar (countable and uncountable, plural grammars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A system of rules and principles for speaking and writing a language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, linguistics) The study of the internal structure of words (morphology) and the use of words in the construction of phrases and sentences (syntax).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A book describing the rules of grammar of a language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A formal system specifying the syntax of a language.",
+                  "examples": [
+                    "Because real lexicons are big and complex, from a software engineering perspective it is best to write simple grammars that have a simple, well-defined way, of pulling out the information they need from vast lexicons. That is, grammars should be thought of as separate entities which can access the information contained in lexicons. We can then use specialised mechanisms for efficiently storing the lexicon and retrieving data from it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Actual or presumed prescriptive notions about the correct use of a language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A formal system defining a formal language",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The basic rules or principles of a field of knowledge or a particular skill.",
+                  "examples": [
+                    "We must learn a new grammar of power in a world that is made up more of the common good – or the common bad – than of self-interest or national interest."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, archaic) A book describing these rules or principles; a textbook.",
+                  "examples": [
+                    "a grammar of geography"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) A grammar school.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "grammar (third-person singular simple present grammars, present participle grammaring, simple past and past participle grammared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To discourse according to the rules of grammar; to use grammar.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
