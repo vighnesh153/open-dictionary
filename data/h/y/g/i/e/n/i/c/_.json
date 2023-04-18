@@ -1,0 +1,39 @@
+{
+  "word": "hygienic",
+  "etymologies": [
+    {
+      "description": [
+        "From French hygiénique. Displaced earlier hygienal."
+      ],
+      "adjectives": [
+        {
+          "description": "hygienic (comparative more hygienic, superlative most hygienic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to hygiene; clean, sanitary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang, of a macro) Whose expansion is guaranteed not to cause the accidental capture of identifiers.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

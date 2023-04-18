@@ -1,0 +1,61 @@
+{
+  "word": "hygiene",
+  "etymologies": [
+    {
+      "description": [
+        "From French hygiène, from Ancient Greek ὑγιεινή (τέχνη) (hugieinḗ (tékhnē), literally “art of health”), from ὑγιεινός (hugieinós, “of health, good for the health, wholesome, sound, healthy”), from ὑγιής (hugiḗs, “healthy, sound”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hygiene (countable and uncountable, plural hygienes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The science of health, its promotion and preservation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Those conditions and practices that promote and preserve health.",
+                  "examples": [
+                    "Hygiene is an important consideration in places where food is prepared."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Cleanliness.",
+                  "examples": [
+                    "They have poor personal hygiene."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang, of a macro) The property of having an expansion that is guaranteed not to cause the accidental capture of identifiers.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
