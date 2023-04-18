@@ -1,0 +1,93 @@
+{
+  "word": "inventory",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English inventorie, from Old French inventoire (whence French inventaire), from Late Latin inventārium, from Latin inveniō (“to find out”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inventory (plural inventories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(operations) The stock of an item on hand at a particular location or business.",
+                  "examples": [
+                    "Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(operations) A detailed list of all of the items on hand.",
+                  "examples": [
+                    "The inventory included several items that one wouldn't normally think to find at a cheese shop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(operations) The process of producing or updating such a list.",
+                  "examples": [
+                    "This month's inventory took nearly three days."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A space containing the items available to a character, especially that in a video game, for immediate use.",
+                  "examples": [
+                    "You can't get through the underground tunnel if there are more than three items in your inventory."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, especially phonology) The total set of a (specified) linguistic feature (within a language etc.)",
+                  "examples": [
+                    "Germanic languages have a marked tendency towards  large vocalic inventories."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "inventory (third-person singular simple present inventories, present participle inventorying, simple past and past participle inventoried)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, operations) To take stock of the resources or items on hand; to produce an inventory.",
+                  "examples": [
+                    "The main job of the night shift was to inventory the store, and restock when necessary."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
