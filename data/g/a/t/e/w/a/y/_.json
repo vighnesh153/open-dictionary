@@ -1,0 +1,87 @@
+{
+  "word": "gateway",
+  "etymologies": [
+    {
+      "description": [
+        "From gate +‎ way."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gateway (plural gateways)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An entrance capable of being blocked by use of a gate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A place regarded as giving access to somewhere.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Any point that represents the beginning of a transition from one place or phase to another.",
+              "entries": [
+                {
+                  "meaning": "(attributive) Any thing or area of interest that tends to lead to deeper involvement.",
+                  "examples": [
+                    "a gateway drug"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A point at which freight moving from one territory to another is interchanged between transportation lines.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(digital communications) In wireless internet, an access point with additional software capabilities such as providing NAT and DHCP, which may also provide VPN support, roaming, firewalls, various levels of security, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "gateway (third-person singular simple present gateways, present participle gatewaying, simple past and past participle gatewayed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, digital communications) To make available via a gateway, or access point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
