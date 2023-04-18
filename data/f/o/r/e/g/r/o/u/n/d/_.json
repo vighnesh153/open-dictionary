@@ -1,0 +1,65 @@
+{
+  "word": "foreground",
+  "etymologies": [
+    {
+      "description": [
+        "From fore- +‎ ground. Compare Dutch voorgrond (“foreground”), German Vordergrund (“foreground”), Danish forgrund (“foreground”), Swedish förgrund (“foreground”), Norwegian forgrunn (“foreground”), Icelandic forgrunni (“foreground”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "foreground (plural foregrounds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The elements of an image which lie closest to the picture plane.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The subject of an image, often depicted at the bottom in a two-dimensional work.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, often attributive) The application the user is currently interacting with; the application window that appears in front of all others.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "foreground (third-person singular simple present foregrounds, present participle foregrounding, simple past and past participle foregrounded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To place in the foreground (physically or metaphorically).",
+                  "examples": [
+                    "Synonym: highlight"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
