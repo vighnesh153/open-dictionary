@@ -1,0 +1,291 @@
+{
+  "word": "flow",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English flowe, from the verb (see below). The psychology sense “state of focus” was coined by Mihaly Csikszentmihalyi in 1975."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flow (countable and uncountable, plural flows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Movement in people or things characterized with a continuous motion, involving either a non solid mass or a multitude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The movement of a real or figurative fluid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A formalization of the idea of the motion of particles in a fluid, as a group action of the real numbers on a set.",
+                  "examples": [
+                    "The notion of flow is basic to the study of ordinary differential equations."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The rising movement of the tide.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Smoothness or continuity.",
+                  "examples": [
+                    "The room was small, but it had good symmetry and flow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The amount of a fluid that moves or the rate of fluid movement.",
+                  "examples": [
+                    "Turn on the valve and make sure you have sufficient flow.",
+                    "Other devices measure water flow in streams fed by melted ice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flow pipe, carrying liquid away from a boiler or other central plant (compare with return pipe which returns fluid to central plant).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) A mental state characterized by concentration, focus and enjoyment of a given task.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The emission of blood during menstruation.",
+                  "examples": [
+                    "Tampons can be small or large, slender or thick. From “slender” to “super”, you can pick the size that matches your flow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rap music slang) The ability to skilfully rap along to a beat.",
+                  "examples": [
+                    "The production on his new mixtape is mediocre but his flow is on point."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software) The sequence of steps taken in a piece of software to perform some action.",
+                  "examples": [
+                    "login flow",
+                    "search flow"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English flowen, from Old English flōwan (“to flow”), from Proto-West Germanic *flōan, from Proto-Germanic *flōaną (“to flow”), from Proto-Indo-European *plōw-, lengthened o-grade form of *plew- (“to fly, flow, run”).",
+        "Cognate with Saterland Frisian flouje (“to flow”), West Frisian floeie (“to flow”), Dutch vloeien (“to flow”), Norwegian flo (“to flow”). Compare also English float. Not cognate with Latin fluō despite similarity."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "flow (third-person singular simple present flows, present participle flowing, simple past and past participle flowed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move as a fluid from one position to another.",
+                  "examples": [
+                    "Rivers flow from springs and lakes.",
+                    "Tears flow from the eyes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To proceed; to issue forth.",
+                  "examples": [
+                    "Wealth flows from industry and economy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move or match smoothly, gracefully, or continuously.",
+                  "examples": [
+                    "The writing is grammatically correct, but it just doesn't flow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To have or be in abundance; to abound, so as to run or flow over.",
+                  "examples": [
+                    "the exhilaration of a night that needed not the influence of the flowing bowl"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To hang loosely and wave.",
+                  "examples": [
+                    "a flowing mantle",
+                    "flowing locks"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To rise, as the tide; opposed to ebb.",
+                  "examples": [
+                    "The tide flows twice in twenty-four hours."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To arrange (text in a wordprocessor, etc.) so that it wraps neatly into a designated space; to reflow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To allow (a liquid) to flow.",
+                  "examples": [
+                    "The action is usually progressive, and as a certain amount of oil is flowed from the tubing it lowers the pressure on the remaining oil and liberates more gas, thus causing additional oil to flow from the tubing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover with water or other liquid; to overflow; to inundate; to flood.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover with varnish.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To discharge excessive blood from the uterus.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Uncertain. Perhaps from Old Norse flói (“a large bay, firth”), see floe. Compare Scots flow (“peat-bog, marsh”), Icelandic flói (“marshy ground”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flow (plural flows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland) A morass or marsh.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
