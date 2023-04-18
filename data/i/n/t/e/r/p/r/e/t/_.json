@@ -1,0 +1,74 @@
+{
+  "word": "interpret",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English interpreten, from Old French enterpreter, (French interpréter), from Latin interpretor (“to explain, expound, interpret”), past participle interpretatus, from interpres (“an agent, broker, explainer, interpreter, negotiator”), from inter (“between”) + -pres, probably the root of pretium (“price”); -pres is probably connected with Ancient Greek φράζειν (phrázein, “to point out, show, explain, declare, speak”), from which φραδή (phradḗ, “understanding”), φράσις (phrásis, “speech”); see phrase."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "interpret (third-person singular simple present interprets, present participle interpreting, simple past and past participle interpreted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To decode the meaning of a topic and then act, whether to continue researching the topic, follow through, act in opposition, or further the understanding through sharing an interpretation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To explain or tell the meaning of; to translate orally into intelligible or familiar language or terms. applied especially to language, but also to dreams, signs, conduct, mysteries, etc.",
+                  "examples": [
+                    "to interpret an Indian speech"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To apprehend and represent by means of art; to show by illustrative representation",
+                  "examples": [
+                    "The actor interpreted the character of Hamlet with great skill.",
+                    "The way the musician interpreted a sonata was quite special.",
+                    "an artist interprets a landscape"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To convey what a user of one language is saying or signing, in real time or shortly after that person has finished communicating, to a user of a different language",
+                  "examples": [
+                    "He interpreted at the meeting between the Chinese and French associates."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To analyse or execute (a program) by reading the instructions as they are encountered, rather than compiling in advance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
