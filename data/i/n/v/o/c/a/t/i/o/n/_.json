@@ -1,0 +1,59 @@
+{
+  "word": "invocation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English invocacioun, from Old French invocacion, from Latin invocatio, invocationem."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "invocation (countable and uncountable, plural invocations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or form of calling for the assistance or presence of some superior being, especially prayer offered to a divine being.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly law) A call or summons, especially a judicial call, demand, or order.",
+                  "examples": [
+                    "the invocation of papers or evidence into court"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) An act of invoking or claiming a legal right.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The act of invoking, such as a function call.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
