@@ -1,0 +1,108 @@
+{
+  "word": "highlight",
+  "etymologies": [
+    {
+      "description": [
+        "From high +‎ light."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "highlight (plural highlights)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(painting, photography) An area or a spot in a drawing, painting, or photograph that is strongly illuminated.",
+                  "examples": [
+                    "Antonym: lowlight"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) An especially significant or interesting detail or event or period of time.",
+                  "examples": [
+                    "Meeting my future wife was the highlight of my trip to Spain.",
+                    "We'll be broadcasting the news highlights every half an hour."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cosmetics) A strand or spot of hair dyed a different color than the rest.",
+                  "examples": [
+                    "Hyponym: lowlight"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "highlight (third-person singular simple present highlights, present participle highlighting, simple past and past participle highlighted or (nonstandard) highlit)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make prominent; emphasize.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To be a highlight of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To mark (important passages of text), e.g. with a fluorescent marker pen or in a wordprocessor, as a means of memory retention or for later reference.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To dye (part of the hair) a different color than the rest.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Internet) To seek the attention of (a user) on IRC by mentioning their name in a message, causing that message to appear highlighted on their screen.",
+                  "examples": [
+                    "You could have asked: is there a reason this easy patch was not applied, either on IRC or private mail by me. You did write a comment on IRC and I did see it. Problem is that you did not highlight me _and_ you did not wait for an answer."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
