@@ -1,0 +1,59 @@
+{
+  "word": "immutable",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English immutable, from Latin immūtābilis (“unchangeable”); im- +‎ mutable."
+      ],
+      "adjectives": [
+        {
+          "description": "immutable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unable to be changed without exception.",
+                  "examples": [
+                    "Synonym: unchangeable",
+                    "The government has enacted an immutable law."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a variable) Not able to be altered in the memory after its value is set initially.",
+                  "examples": [
+                    "Constants are immutable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "immutable (plural immutables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that cannot be changed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "immutability",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French immutabilité, itself borrowed from Latin immūtābilitās."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "immutability (usually uncountable, plural immutabilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state or quality of being immutable; immutableness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The state of being unchangeable in the memory after creation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
