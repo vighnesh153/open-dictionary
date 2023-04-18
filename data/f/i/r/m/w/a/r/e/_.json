@@ -1,0 +1,39 @@
+{
+  "word": "firmware",
+  "etymologies": [
+    {
+      "description": [
+        "From firm +‎ -ware, coined in a 1967 article as an intermediary term between hardware and software."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "firmware (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Something in between hardware and software. Like software, it is created from source code, but it is closely tied to the hardware it runs on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Software intended for such embedded computer applications.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
