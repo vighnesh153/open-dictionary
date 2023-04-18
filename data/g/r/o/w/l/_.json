@@ -1,0 +1,123 @@
+{
+  "word": "growl",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English groulen, grollen, gurlen (“of the bowels: to growl, rumble”), either possibly from Old French groler (variant of croler (“to be agitated, shake”)), grouler, grouller (“to growl, grumble”), from Frankish *grullen, *gruljan or from Old English gryllan, both from Proto-Germanic *gruljaną (“to make a sound; to growl, grumble, rumble”), from Proto-Indo-European *gʰer- (“to make a noise; to mumble, murmur; to rattle; to grind; to rub, stroke”), probably ultimately imitative. The word is cognate with Middle Dutch grollen (“to make a noise; to croak, grumble, murmur; to be angry”) (modern Dutch grollen (“to grumble”)), German grollen (“to rumble; to be angry, bear ill will”), Old English grillan, griellan (“to provoke, offend; to gnash the teeth”). Compare grill.",
+        "The noun is derived from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "growl (plural growls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A deep, rumbling, threatening sound made in the throat by an animal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A similar sound made by a human.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) The rumbling sound made by a human's hungry stomach.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) An aggressive grumbling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(jazz, by extension) A low-pitched rumbling sound produced with a wind instrument.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "growl (third-person singular simple present growls, present participle growling, simple past and past participle growled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To utter a deep guttural sound, as an angry animal; to give forth an angry, grumbling sound.",
+                  "examples": [
+                    "Synonyms: gnar, gnarl, gurl, snarl",
+                    "The dog growled at me as I walked past."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, jazz) Of a wind instrument: to produce a low-pitched rumbling sound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, software) To send a user a message via the Growl software library.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To express (something) by growling.",
+                  "examples": [
+                    "The old man growled his displeasure at the postman."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, jazz) To play a wind instrument in a way that produces a low-pitched rumbling sound.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
