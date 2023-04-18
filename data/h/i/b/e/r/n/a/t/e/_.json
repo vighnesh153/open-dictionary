@@ -1,0 +1,53 @@
+{
+  "word": "hibernate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin hībernātus, from hībernāre, from hībernus (“winter”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hibernate (third-person singular simple present hibernates, present participle hibernating, simple past and past participle hibernated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, biology) To spend the winter in a dormant or inactive state of minimal activity, low body temperature, slow breathing and heart rate, and low metabolic rate; to go through a winter sleep.",
+                  "examples": [
+                    "Coordinate term: estivate",
+                    "Hedgehogs and bears are two of the many mammals that hibernate in winter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To live in seclusion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To enter a standby state which conserves power without losing the contents of memory.",
+                  "examples": [
+                    "Your computer hibernates after it has been idle for the specified amount of time."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

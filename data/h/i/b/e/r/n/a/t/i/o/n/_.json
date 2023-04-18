@@ -1,0 +1,55 @@
+{
+  "word": "hibernation",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin hibernātus, from hibernō, from hībernus (“winter”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hibernation (countable and uncountable, plural hibernations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, sleep) A state of minimum power consumption, inactivity and metabolic depression in some animals during winter.",
+                  "examples": [
+                    "Coordinate term: aestivation (summer inactivity)",
+                    "The bears are in hibernation.",
+                    "The bears come out of hibernation in March."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, sleep, space science) A hypothetical state of minimum power consumption, inactivity and metabolic depression in humans during long space flights.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A standby state which conserves power by writing the contents of the memory to disk and completely power off the computer, in order that one will resume the session from the disk.",
+                  "examples": [
+                    "Synonym: suspension to disk",
+                    "Coordinate terms: sleep mode, standby, suspension to memory"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
