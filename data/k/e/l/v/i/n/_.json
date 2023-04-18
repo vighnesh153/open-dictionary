@@ -1,0 +1,53 @@
+{
+  "word": "kelvin",
+  "etymologies": [
+    {
+      "description": [
+        "Named after Irish-born Scottish physicist William Thomson, Lord Kelvin.  For the surname, see Kelvin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "kelvin (plural kelvins or kelvin)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In the International System of Units, the base unit of thermodynamic temperature; 1⁄273.16 of the thermodynamic temperature of the triple point of water. Shown as \"K\".",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unit interval on the Kelvin scale.",
+                  "examples": [
+                    "The interval between the freezing and boiling points of water is 100 kelvins."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually as postpositioned adjective) A unit for a specific temperature on the Kelvin scale.",
+                  "examples": [
+                    "Ice melts above 273.15 kelvins.",
+                    "Water boils above 373.15 kelvins."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
