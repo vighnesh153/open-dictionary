@@ -1,0 +1,56 @@
+{
+  "word": "knapsack",
+  "etymologies": [
+    {
+      "description": [
+        "From Low German knapzak or Dutch knapzak (older form cnapsack), from Middle Dutch cnappen (“to bite with teeth”), ultimately from knappen (“to eat, crack”), of imitative origin, + sack. German Knappsack is from Dutch."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "knapsack (plural knapsacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly US) A case of canvas or leather, for carrying items on the back.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A set of values from which a subset is chosen.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "knapsack (third-person singular simple present knapsacks, present participle knapsacking, simple past and past participle knapsacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To go hiking while burdened with a knapsack, usually overnight or for longer.",
+                  "examples": [
+                    "My sleeping bag fell off my backpack into the water, while we were knapsacking up the mountain."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
