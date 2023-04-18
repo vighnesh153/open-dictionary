@@ -1,0 +1,54 @@
+{
+  "word": "yearday",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English ȝereday, ȝerdai (“anniversary”), from Old English *ġēardæġ (found in plural ġēardagas (“days of yore”)), from Proto-West Germanic *jāradag (“anniversary day”), equivalent to year +‎ day. Cognate with West Frisian jierdei (“birthday”), Dutch jaardag (“birthday”), German Jahrtag (“anniversary”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "yearday (plural yeardays)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A day or time occurring in a yearly cycle; an annual day, season, or event.",
+                  "examples": [
+                    "Synonym: anniversary day"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A day of the year.",
+                  "examples": [
+                    "To avoid the idiosyncracies[sic] of leap years, we propose, as a first approximation to the actual yearday, a standardized yearday s that is a function of ( m, d) only, s = S(m) +dl (6) where 5 is a function of m only."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) An annual remembrance day, the anniversary of a death; a day on which prayers are said for the dead.",
+                  "examples": [
+                    "His executors were to keep his yearday for twenty years at the cost of 20s. per year, and finally after his wife's death the bailiffs and commonalty of Southwold were to find a priest for sixteen years next following to sing for his soul  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
