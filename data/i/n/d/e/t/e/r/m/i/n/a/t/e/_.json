@@ -1,0 +1,101 @@
+{
+  "word": "indeterminate",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "indeterminate (comparative more indeterminate, superlative most indeterminate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not accurately determined or determinable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Imprecise or vague.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis, of certain forms of limit) Not definitively or precisely determined, because of the presence of infinity or zero symbols used in any of several improper combinations.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, of growth) With no genetically defined end, and thus theoretically limitless.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany, of inflorescences) Not topped with some form of terminal bud.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Intersex.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) Designed to allow the incorporation of future changes whose nature is not yet known.",
+                  "examples": [
+                    "It bears an affinity to the problem of indeterminate architecture—the indeterminate residential area."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "indeterminate (plural indeterminates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, strict sense) A symbol that resembles a variable or parameter but is used purely formally and neither signifies nor is ever assigned a particular value;(loose sense) a variable.",
+                  "examples": [
+                    "The form is linear, quadratic, cubic, biquadratic or quartic, quintic, &c., according to its order in respect of the indeterminates it contains; and binary, ternary, quaternary, &c., according to the number of its indeterminates. Thus \n  \n    \n      \n        \n          x\n          \n            2\n          \n        \n        +\n        \n          y\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle x^{2}+y^{2}}\n  \n is a binary quadratic form, \n  \n    \n      \n        \n          x\n          \n            3\n          \n        \n        +\n        \n          y\n          \n            3\n          \n        \n        +\n        \n          z\n          \n            3\n          \n        \n        −\n        3\n        x\n        y\n        z\n      \n    \n    {\\displaystyle x^{3}+y^{3}+z^{3}-3xyz}\n  \n is a ternary cubic form."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
