@@ -1,0 +1,76 @@
+{
+  "word": "generate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin generātus, perfect passive participle of generō (“beget, procreate, produce”), from genus (“a kind, race, family”); see genus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "generate (third-person singular simple present generates, present participle generating, simple past and past participle generated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring into being; give rise to.",
+                  "examples": [
+                    "The discussion generated an uproar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To produce as a result of a chemical or physical process.",
+                  "examples": [
+                    "Adding concentrated sulphuric acid to water generates heat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To procreate, beget.",
+                  "examples": [
+                    "They generated many offspring."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To form a figure from a curve or solid.",
+                  "examples": [
+                    "Rotating a circle generates a sphere."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To appear or occur; be generated.",
+                  "examples": [
+                    "Mrs. Fennel, seeing the steam begin to generate on the countenances of her guests, crossed over and touched the fiddler's elbow and put her hand on the serpent's mouth."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
