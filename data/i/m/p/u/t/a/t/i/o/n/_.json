@@ -1,0 +1,96 @@
+{
+  "word": "imputation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French imputation, from Latin imputatio."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "imputation (countable and uncountable, plural imputations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of imputing or charging; attribution; ascription.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which has been imputed or charged.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Charge or attribution of evil; censure; reproach; insinuation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theology) A setting of something to the account of; the attribution of personal guilt or personal righteousness of another.",
+                  "examples": [
+                    "the imputation of the sin of Adam",
+                    "the imputation of the righteousness of Christ"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Opinion; intimation; hint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) The process of replacing missing data with substituted values.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) The statistical inference of unobserved genotypes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(game theory) A distribution that is efficient and individually rational.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

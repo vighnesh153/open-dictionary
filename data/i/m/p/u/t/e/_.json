@@ -1,0 +1,74 @@
+{
+  "word": "impute",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French imputer, from Latin imputō (“to bring into the reckoning, charge, impute”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "impute (third-person singular simple present imputes, present participle imputing, simple past and past participle imputed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To attribute or ascribe (responsibility or fault) to a cause or source.",
+                  "examples": [
+                    "Synonyms: attribute, insinuate, charge, imply",
+                    "The teacher imputed the student's failure to his nervousness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, theology) To ascribe (sin or righteousness) to someone by substitution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take into account.",
+                  "examples": [
+                    "Synonyms: consider, regard, reckon"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To attribute or credit to.",
+                  "examples": [
+                    "Synonyms: attribute, ascribe, assign",
+                    "People impute great cleverness to cats."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, statistics) To replace missing data with substituted values.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
