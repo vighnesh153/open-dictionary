@@ -1,0 +1,43 @@
+{
+  "word": "instantiate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin instāntia  +‎ -ate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "instantiate (third-person singular simple present instantiates, present participle instantiating, simple past and past participle instantiated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To represent (a concept, theme, or principle) by an instance. [from 20th c.]",
+                  "examples": [
+                    "To see and test the result of one's CSS for any particular HTML element, one must instantiate that element in a document."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, object-oriented programming) To create an object (an instance) of a specific class. [from 20th c.]",
+                  "examples": [
+                    "To instantiate  a class, we call its constructor."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
