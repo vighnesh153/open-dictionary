@@ -1,0 +1,54 @@
+{
+  "word": "jackknife",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jackknife (plural jackknives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative spelling of jack-knife",
+                  "examples": [
+                    "[…]  near it is a cluster of weapons of villanous aspect, comprising every thing from a Malayan creese to a sailor's jackknife or a Smith & Wesson revolver."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A resampling method that applies estimators to all subsamples that each omit a single different group (possibly of a single datapoint) of the original sample to provide a sample distribution of the estimate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "jackknife (third-person singular simple present jackknifes, present participle jackknifing, simple past and past participle jackknifed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative spelling of jack-knife",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
