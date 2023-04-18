@@ -1,0 +1,161 @@
+{
+  "word": "ideal",
+  "etymologies": [
+    {
+      "description": [
+        "From French idéal, from Late Latin ideālis (“existing in idea”), from Latin idea (“idea”); see idea.\nIn mathematics, the noun ring theory sense was first introduced by German mathematician Richard Dedekind in his 1871 edition of a text on number theory. The concept was quickly expanded to ring theory and later generalised to order theory. The set theory and Lie theory senses can be regarded as applications of the order theory sense."
+      ],
+      "adjectives": [
+        {
+          "description": "ideal (comparative more ideal, superlative most ideal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Optimal; being the best possibility.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Perfect, flawless, having no defects.",
+                  "examples": [
+                    "There will always be a wide interval between practical and ideal excellence; […] ."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to ideas, or to a given idea.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Existing only in the mind; conceptual, imaginary.",
+                  "examples": [
+                    "The idea of ghosts is ridiculous in the extreme; and if you continue to be swayed by ideal terrors —"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Teaching or relating to the doctrine of idealism.",
+                  "examples": [
+                    "the ideal theory or philosophy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Not actually present, but considered as present when limits at infinity are included.",
+                  "examples": [
+                    "ideal point",
+                    "An ideal triangle in the hyperbolic disk is one bounded by three geodesics that meet precisely on the circle."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ideal (plural ideals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.",
+                  "examples": [
+                    "Ideals are like stars; you will not succeed in touching them with your hands. But like the seafaring man on the desert of waters, you choose them as your guides, and following them you will reach your destiny - Carl Schurz"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, ring theory) A subring closed under multiplication by its containing ring.",
+                  "examples": [
+                    "Let \n  \n    \n      \n        \n          Z\n        \n      \n    \n    {\\displaystyle \\mathbb {Z} }\n  \n be the ring of integers and let \n  \n    \n      \n        2\n        \n          Z\n        \n      \n    \n    {\\displaystyle 2\\mathbb {Z} }\n  \n be its ideal of even integers. Then the quotient ring \n  \n    \n      \n        \n          Z\n        \n        \n          /\n        \n        2\n        \n          Z\n        \n      \n    \n    {\\displaystyle \\mathbb {Z} /2\\mathbb {Z} }\n  \n is a Boolean ring.",
+                    "The product of two ideals \n  \n    \n      \n        \n          \n            a\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {a}}}\n  \n and \n  \n    \n      \n        \n          \n            b\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {b}}}\n  \n is an ideal \n  \n    \n      \n        \n          \n            a\n            b\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {ab}}}\n  \n which is a subset of the intersection of \n  \n    \n      \n        \n          \n            a\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {a}}}\n  \n and \n  \n    \n      \n        \n          \n            b\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {b}}}\n  \n. This should help to understand why maximal ideals are prime ideals. Likewise, the union of \n  \n    \n      \n        \n          \n            a\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {a}}}\n  \n and \n  \n    \n      \n        \n          \n            b\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {b}}}\n  \n is a subset of \n  \n    \n      \n        \n          \n            a\n            +\n            b\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {a+b}}}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, order theory, lattice theory) A non-empty lower set (of a partially ordered set) which is closed under binary suprema (a.k.a. joins).",
+                  "examples": [
+                    "An ideal A of L is called complete if it contains all least upper bounds of its subsets that exist in L. Bishop and Schreiner [80] studied conditions under which joins of ideals in the lattices of all ideals and of all complete ideals coincide."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) A collection of sets, considered small or negligible, such that every subset of each member and the union of any two members are also members of the collection.",
+                  "examples": [
+                    "Formally, an ideal \n  \n    \n      \n        I\n      \n    \n    {\\displaystyle I}\n  \n of a given set \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n is a nonempty subset of the powerset \n  \n    \n      \n        \n          \n            P\n          \n        \n        (\n        X\n        )\n      \n    \n    {\\displaystyle {\\mathcal {P}}(X)}\n  \n such that: \n  \n    \n      \n        (\n        1\n        )\n         \n        ∅\n        ∈\n        I\n      \n    \n    {\\displaystyle (1)\\ \\emptyset \\in I}\n  \n, \n  \n    \n      \n        (\n        2\n        )\n         \n        A\n        ∈\n        I\n        ∧\n        B\n        ⊆\n        A\n        \n        ⟹\n        \n        B\n        ∈\n        I\n      \n    \n    {\\displaystyle (2)\\ A\\in I\\land B\\subseteq A\\implies B\\in I}\n  \n and \n  \n    \n      \n        (\n        3\n        )\n         \n        A\n        ,\n        B\n        ∈\n        I\n        \n        ⟹\n        \n        A\n        ∪\n        B\n        ∈\n        I\n      \n    \n    {\\displaystyle (3)\\ A,B\\in I\\implies A\\cup B\\in I}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, Lie theory) A Lie subalgebra (subspace that is closed under the Lie bracket) 𝖍 of a given Lie algebra 𝖌 such that the Lie bracket [𝖌,𝖍] is a subset of 𝖍.",
+                  "examples": [
+                    "If 𝖌 is a Lie algebra, 𝖍 is an ideal and the Lie algebras 𝖍 and 𝖌/𝖍 are solvable, then 𝖌 is solvable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A subsemigroup with the property that if any semigroup element outside of it is added to any one of its members, the result must lie outside of it.",
+                  "examples": [
+                    "The set of natural numbers with multiplication as the monoid operation (instead of addition) has multiplicative ideals, such as, for example, the set {1, 3, 9, 27, 81, ...}. If any member of it is multiplied by a number which is not a power of 3 then the result will not be a power of three."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
