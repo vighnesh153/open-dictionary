@@ -1,0 +1,54 @@
+{
+  "word": "impersonate",
+  "etymologies": [
+    {
+      "description": [
+        "From im- +‎ person +‎ -ate. Compare incorporate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "impersonate (third-person singular simple present impersonates, present participle impersonating, simple past and past participle impersonated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pretend to be (a different person); to assume the identity of.",
+                  "examples": [
+                    "Synonym: personate",
+                    "The conman managed to impersonate several executives.",
+                    "Evil can and will always impersonate goodness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To operate with the permissions of a different user account.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To manifest in corporeal form; to personify.",
+                  "examples": [
+                    "Synonyms: embody, impersonize"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
