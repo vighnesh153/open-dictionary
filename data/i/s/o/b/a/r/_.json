@@ -1,0 +1,50 @@
+{
+  "word": "isobar",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ἴσος (ísos, “equal”) + βάρος (báros, “weight”), equivalent to iso- + bar-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "isobar (plural isobars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) A line drawn on a map or chart connecting places of equal or constant pressure.",
+                  "examples": [
+                    "Coordinate terms: isopleth, isohyet, isotherm"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(thermodynamics) A set of points or conditions at constant pressure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nuclear physics) Either of two nuclides of different elements having the same mass number.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
