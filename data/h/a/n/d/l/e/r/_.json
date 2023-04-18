@@ -1,0 +1,63 @@
+{
+  "word": "handler",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English handler, handiller, equivalent to handle +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "handler (plural handlers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literally) One who handles something (especially manually) or someone.",
+                  "examples": [
+                    "The handler of a weapon gets a symbolic sensation of deadly power."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in combination) A controller, trainer, someone who handles a specified thing, animal or person (especially a prizefighter).",
+                  "examples": [
+                    "The spy's handler told him to approach the subject by posing as a dog handler."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory) An advisor or manager to a person occupying a position or office to which the speaker believes the holder does not possess the typical qualifications and/or experience.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A subroutine that handles a particular situation such as an event or exception.",
+                  "examples": [
+                    "If the expression is a throw, we unwind the stack seeking a handler expression."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
