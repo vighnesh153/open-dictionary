@@ -1,0 +1,69 @@
+{
+  "word": "gnomon",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French gnomon, or directly from its etymon Latin gnōmōn, or directly from its etymon Ancient Greek γνώμων (gnṓmōn, “discerner, interpreter; carpenter’s square; gnomon of a sundial; (geometry) gnomon”), from γιγνώσκω (gignṓskō, “to be aware of; to perceive; to know”), ultimately from Proto-Indo-European *ǵneh₃- (“to know”); the word is thus related to know.",
+        "The geometry sense (sense 4) is from the resemblance of the plane figure to a carpenter’s square. Similarly, a gnomon in mathematics (sense 5) is also shaped like a carpenter’s square when depicted pictorially if the figurate numbers are squares."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gnomon (plural gnomons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object such as a pillar or a rod that is used to tell time by the shadow it casts when the sun shines on it, especially the pointer on a sundial. [from mid 16th c.]",
+                  "examples": [
+                    "Synonyms: cock, style"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object such as a pillar used by an observer to calculate the meridian altitude of the sun (that is, the altitude of the sun when it reaches the observer's meridian), for the purpose of determining the observer's latitude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The index of the hour circle of a globe.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A plane figure formed by removing a parallelogram from a corner of a larger parallelogram.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, by extension) A number representing the increment between two figurate numbers (“numbers equal to the numbers of dots in geometric figures formed of dots”).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
