@@ -1,0 +1,97 @@
+{
+  "word": "global",
+  "etymologies": [
+    {
+      "description": [
+        "From globe +‎ -al; compare French global."
+      ],
+      "adjectives": [
+        {
+          "description": "global (comparative more global, superlative most global)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Concerning all parts of the world.",
+                  "examples": [
+                    "Pollution is a global problem."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(not comparable) Pertaining to the whole of something; total, universal:",
+              "entries": [
+                {
+                  "meaning": "(not comparable, computing) Of a variable, accessible by all parts of a program.",
+                  "examples": [
+                    "Global variables keep support engineers employed."
+                  ]
+                },
+                {
+                  "meaning": "Which has to be considered in its entirety.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Spherical, ball-shaped.",
+                  "examples": [
+                    "In the center was a small, global mass."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable) Of or relating to a globe or sphere.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "global (comparative more global, superlative most global)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In the global manner; world-wide.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "global (plural globals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A globally scoped identifier.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

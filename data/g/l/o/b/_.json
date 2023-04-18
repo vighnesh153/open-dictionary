@@ -1,0 +1,78 @@
+{
+  "word": "glob",
+  "etymologies": [
+    {
+      "description": [
+        "Possibly a blend of blob +‎ gob or a clipping of globule. An element of sound symbolism is clearly involved: compare such phonetically and semantically similar words as glop, gop, blob, clump and clod. (Still, globe, clump and clod may be related via the Proto-Indo-European root *gel-; compare clew.)",
+        "In the programming sense, originates from the early (c. 1970) Unix command glob; short for global.",
+        "In the biological sense, proposed by Bevil R. Conway and Doris Y. Tsao, by analogy with the cytochrome-oxidase \"blobs\" of V1, an earlier stage in the hierarchical elaboration of colour."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "glob (plural globs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A round, shapeless or amorphous lump, as of a semisolid substance.",
+                  "examples": [
+                    "He put a glob of paint into the cup and went on painting."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A limited pattern matching technique using wildcards, less powerful than a regular expression.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) A millimeter-sized colour module found beyond the visual area V2 in the brain's parvocellular pathway.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "glob (third-person singular simple present globs, present participle globbing, simple past and past participle globbed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To stick in globs or lumps.",
+                  "examples": [
+                    "Paint was globbing off the wall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To carry out pattern matching using a glob.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
