@@ -1,0 +1,124 @@
+{
+  "word": "intern",
+  "etymologies": [
+    {
+      "description": [
+        "From French interner, from interne (“inner, internal”), from Latin internus (“within, internal”), compare Etymology 2."
+      ],
+      "adjectives": [
+        {
+          "description": "intern (comparative more intern, superlative most intern)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Internal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "intern (plural interns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who is interned, forcibly or voluntarily.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "intern (third-person singular simple present interns, present participle interning, simple past and past participle interned)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To imprison somebody, usually without trial.",
+              "entries": [
+                {
+                  "meaning": "(of a state, especially a neutral state) To confine or hold (foreign military personnel who stray into the state's territory) within prescribed limits during wartime.",
+                  "examples": [
+                    "The Swiss government interned the Italian soldiers who had strayed onto Swiss territory."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To internalize.",
+                  "examples": [
+                    "Strings are automatically interned if they are assigned to a literal string within code."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From French interne (“inner, internal”), from Latin internus (“within, internal”), from inter (“between”); compare etymology 1."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "intern (plural interns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A student or recent graduate who works in order to gain experience in their chosen field.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A medical student or recent graduate working in a hospital as a final part of medical training.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "intern (third-person singular simple present interns, present participle interning, simple past and past participle interned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To work as an intern. Usually with little or no pay or other legal prerogatives of employment, for the purpose of furthering a program of education.",
+                  "examples": [
+                    "I'll be interning at Universal Studios this summer."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
