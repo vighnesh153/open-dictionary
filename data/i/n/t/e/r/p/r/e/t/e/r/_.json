@@ -1,0 +1,61 @@
+{
+  "word": "interpreter",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English interpreter, interpretour, from Latin interpretor (“to explain, expound, understand”), from interpres (“agent, translator”).",
+        "Displaced native Old English wealhstod."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interpreter (plural interpreters)",
+          "definitionGroups": [
+            {
+              "group": "A person who interprets.",
+              "entries": [
+                {
+                  "meaning": "A person who converts spoken or signed language into a different language for the benefit of one or more others who do not understand the first language being used (especially if in real time or shortly after that person has finished communicating). (Contrasted with translator.)",
+                  "examples": [
+                    "A Japanese man who is tried before a German court is assisted by an interpreter in making oral statements."
+                  ]
+                },
+                {
+                  "meaning": "A guide who helps people visiting an attraction such as an art exhibit, a nature reserve, etc., understand what they are seeing.",
+                  "examples": [
+                    "At the historic site there are costumed interpreters demonstrating ancient crafts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Something that reveals or clarifies.",
+                  "examples": [
+                    "[…]  these thy offices, / So rarely kind, are as interpreters / Of my behind-hand slackness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program that executes another program written in a high-level language by reading the instructions in real time rather than by compiling it in advance.",
+                  "examples": [
+                    "Programs written in the BASIC language are usually run through an interpreter, though some can be compiled."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
