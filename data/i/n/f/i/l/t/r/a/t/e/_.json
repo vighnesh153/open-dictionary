@@ -1,0 +1,110 @@
+{
+  "word": "infiltrate",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English infiltrate (adj), from Medieval Latin infiltrātus, from infiltrō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "infiltrate (plural infiltrates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(pathology) Any undesirable substance or group of cells that has made its way into part of the body.",
+                  "examples": [
+                    "One critical distinction to make is whether a focal corneal infiltrate is infected with bacteria or is a sterile immunologic response."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "infiltrate (third-person singular simple present infiltrates, present participle infiltrating, simple past and past participle infiltrated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To surreptitiously penetrate, enter or gain access to.",
+                  "examples": [
+                    "The spy infiltrated the high-tech company and stole many secrets."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to penetrate in this way.",
+                  "examples": [
+                    "The agency infiltrated several spies into the company."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, of a liquid) To pass through something by filtration.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause (a liquid) to pass through something by filtration.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, medicine) To invade or penetrate a tissue or organ.",
+                  "examples": [
+                    "High-grade tumors often infiltrate surrounding structures.",
+                    "In certain conditions, immune cells may infiltrate into the cerebrospinal fluid."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military) To send (soldiers, spies, etc.) through gaps in the enemy line.",
+                  "examples": [
+                    "Antonym: exfiltrate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of an intravenous needle) To move from a vein, remaining in the body.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
