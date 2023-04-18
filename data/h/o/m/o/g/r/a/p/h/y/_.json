@@ -1,0 +1,48 @@
+{
+  "word": "homography",
+  "etymologies": [
+    {
+      "description": [
+        "homo- +‎ -graphy"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "homography (countable and uncountable, plural homographies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state or quality of being written in the same way, especially when spelled with the same letters (as with a pair of homonyms), or also as represented with similar or identical glyphs (as with homoglyphs); the state or quality of existing as homographs.",
+                  "examples": [
+                    "Hypernym: homonymy",
+                    "Hyponym: homoglyphy",
+                    "Coordinate term: homophony"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) An isomorphism between projective spaces that maps straight lines to straight lines.",
+                  "examples": [
+                    "A homography on a real projective plane can be specified by a mapping from one set of four non-collinear points to another set of four non-collinear points. Given such a specification, then the 3-by-3 homography matrix may be computed by means of the DLT (Direct Linear Transformation) algorithm.",
+                    "Synonyms: projectivity, projective transformation, projective collineation",
+                    "Hypernym: collineation",
+                    "Hyponyms: linear fractional transformation, Möbius transformation"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "homograph",
+  "etymologies": [
+    {
+      "description": [
+        "From homo- +‎ -graph."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "homograph (plural homographs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A word that is spelled the same as another word, usually having a different etymology.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A text character or string that looks identical to another when rendered.",
+                  "examples": [
+                    "Hyponym: homoglyph"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
