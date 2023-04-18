@@ -1,0 +1,61 @@
+{
+  "word": "fractionation",
+  "etymologies": [
+    {
+      "description": [
+        "From fraction +‎ -ation or fractionate +‎ -ion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fractionation (countable and uncountable, plural fractionations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A separation process in which a certain quantity of a mixture is divided up into smaller quantities (fractions) in which the composition changes according to a gradient.",
+                  "examples": [
+                    "Methane is separated from other hydrocarbons in a gas fractionation plant."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(radiotherapy) The division of a total dose of radiation into fractions.",
+                  "examples": [
+                    "Hyponym: hyperfractionation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A preliminary stage of encryption that divides each plaintext symbol into several ciphertext symbols.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A form of hypnosis where the patient is made to enter and leave a trance state many times in quick succession.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
