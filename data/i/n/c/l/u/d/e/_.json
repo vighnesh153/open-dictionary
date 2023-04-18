@@ -1,0 +1,94 @@
+{
+  "word": "include",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English includen, borrowed from Latin inclūdere (“to shut in, enclose, insert”), from in- (“in”) + claudere (“to shut”), ultimately from Proto-Indo-European *kleh₂u- (“key, hook, nail”). Doublet of enclose. Displaced native Old English belūcan (“to include,” also “to shut in”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "include (plural includes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A piece of source code or other content that is dynamically retrieved for inclusion in another item.",
+                  "examples": [
+                    "In the previous lesson, you learned how to use server-side includes, which enable you to easily include snippets of web pages within other web pages."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "include (third-person singular simple present includes, present participle including, simple past and past participle included)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To bring into a group, class, set, or total as a (new) part or member.",
+                  "examples": [
+                    "I will purchase the vacation package if you will include car rental."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To consider as part of something; to comprehend.",
+                  "examples": [
+                    "The vacation package includes car rental.",
+                    "Does this volume of Shakespeare include his sonnets?",
+                    "I was included in the invitation to the family gathering.",
+                    "up to and including page twenty-five"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To enclose, confine. [from early 15th c.]",
+                  "examples": [
+                    "I could have here willingly ranged, but these straits wherein I am included will not permit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To conclude; to terminate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To use a directive that allows the use of source code from another file.",
+                  "examples": [
+                    "You have to include the strings library to use this function."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
