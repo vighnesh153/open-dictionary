@@ -1,0 +1,39 @@
+{
+  "word": "inlier",
+  "etymologies": [
+    {
+      "description": [
+        "in +‎ lier"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inlier (plural inliers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) An area of older rocks surrounded by younger rocks, typically formed by erosion of part of the younger rock.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A value that fits a pattern, rather than being an outlier.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

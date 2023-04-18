@@ -1,0 +1,62 @@
+{
+  "word": "inline",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "inline",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative spelling of in-line",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inline (plural inlines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(web design, Cascading Style Sheets) An element that occurs within the flow of the text.",
+                  "examples": [
+                    "Inline elements are things like an italic tag, or a bold tag."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "inline (third-person singular simple present inlines, present participle inlining, simple past and past participle inlined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, software compilation) To optimize using in-line expansion.",
+                  "examples": [
+                    "Coordinate term: outline"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
