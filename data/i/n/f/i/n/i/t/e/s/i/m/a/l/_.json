@@ -1,0 +1,65 @@
+{
+  "word": "infinitesimal",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin infinitesimus, from infinitus (“infinite”) + -esimus, as in centesimus (“hundredth”)."
+      ],
+      "adjectives": [
+        {
+          "description": "infinitesimal (comparative more infinitesimal, superlative most infinitesimal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Incalculably, exceedingly, or immeasurably minute; vanishingly small.",
+                  "examples": [
+                    "Do you ever get the feeling that you are but an infinitesimal speck, swallowed by the vastness of the universe and beyond?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of or pertaining to values that approach zero as a limit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Very small.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "infinitesimal (plural infinitesimals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A non-zero quantity whose magnitude is smaller than any positive number (by definition it is not a real number).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
