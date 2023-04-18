@@ -1,0 +1,30 @@
+{
+  "word": "hyperbola",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ὑπερβολή (huperbolḗ). Doublet of hyperbole."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hyperbola (plural hyperbolas or hyperbolae or hyperbolæ)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A conic section formed by the intersection of a cone with a plane that intersects the base of the cone and is not tangent to the cone. The function y(x) = 1/x draws a hyperbola.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
