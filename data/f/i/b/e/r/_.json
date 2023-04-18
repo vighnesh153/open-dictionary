@@ -1,0 +1,118 @@
+{
+  "word": "fiber",
+  "etymologies": [
+    {
+      "description": [
+        "From French fibre, from Old French fibre, from Latin fibra."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fiber (countable and uncountable, plural fibers) (American spelling)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A single elongated piece of a given material, roughly round in cross-section, often twisted with other fibers to form thread.",
+                  "examples": [
+                    "The microscope showed a single blue fiber stuck to the sole of the shoe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A material in the form of fibers.",
+                  "examples": [
+                    "The cloth is made from strange, somewhat rough fiber."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(textiles) A material whose length is at least 1000 times its width.",
+                  "examples": [
+                    "Please use polyester fiber for this shirt."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Dietary fiber.",
+                  "examples": [
+                    "Fresh vegetables are a good source of fiber."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Moral strength and resolve.",
+                  "examples": [
+                    "The ordeal was a test of everyone's fiber."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The preimage of a given point in the range of a map.",
+                  "examples": [
+                    "Holonyms: bundle, fiber bundle",
+                    "Meronym: germ",
+                    "Under this map, any two values in the fiber of a given point on the circle differ by 2π."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) The pullback of a morphism along a global element (called the fiber of the morphism over the global element).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A kind of lightweight thread of execution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cytology) A long tubular cell found in bodily tissue.",
+                  "examples": [
+                    "Hyponyms: axon, myocyte, muscle fiber, nerve fiber"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
