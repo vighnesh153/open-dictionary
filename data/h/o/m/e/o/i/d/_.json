@@ -1,0 +1,30 @@
+{
+  "word": "homeoid",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "homeoid (plural homeoids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A shell bounded by two similar ellipsoids having a constant ratio of axes [1].",
+                  "examples": [
+                    "Steady-state solutions for the motion of a passively gravitating globular cluster (GC) inside an inhomogeneous, rotating, ellipsoidal elliptical galaxy (EG) are considered. It is assumed that an EG with a halo is comprised of a triaxial ellipsoid consisting of two layers. The first is formed by an inner, uniform ellipsoid representing the luminous part of the galaxy, while the second corresponds to the space between an inner and outer ellipsoid, which is uniformly filled with dark matter. The triaxial ellipsoids are taken to be homothetic and to have a common center; the space between them is called a homeoid. The outer boundary of the homeoid is the boundary of the galaxy halo. The densities of the luminous part of the EG and the homeoid are different. This picture of an EG is in agreement with our current understanding of galactic structure."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
