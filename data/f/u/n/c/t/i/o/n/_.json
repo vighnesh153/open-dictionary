@@ -1,0 +1,164 @@
+{
+  "word": "function",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French function, from Old French fonction, from Latin functiō (“performance, execution”), from functus, perfect participle of fungor (“to perform, execute, discharge”), from Proto-Indo-European *bʰewg- (“to enjoy”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "function (plural functions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "What something does or is used for.",
+                  "examples": [
+                    "Synonyms: aim, intention, purpose, role, use"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A professional or official position.",
+                  "examples": [
+                    "Synonyms: occupation, office, part, role"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An official or social occasion.",
+                  "examples": [
+                    "Synonyms: affair, occasion, social occasion, social function"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something which is dependent on or stems from another thing; a result or concomitant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A relation where one thing is dependent on another for its existence, value, or significance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "English Wikipedia has an article on:Function (mathematics)Wikipedia (mathematics) A relation in which each element of the domain is associated with exactly one element of the codomain.",
+                  "examples": [
+                    "Synonyms: map, mapping, mathematical function, operator, transformation",
+                    "Hypernym: relation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A routine that receives zero or more arguments and may return a result.",
+                  "examples": [
+                    "Synonyms: procedure, routine, subprogram, subroutine, func, funct"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The physiological activity of an organ or body part.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The characteristic behavior of a chemical compound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anthropology) The role of a social practice in the continued existence of the group.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A party.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "function (third-person singular simple present functions, present participle functioning, simple past and past participle functioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To have a function.",
+                  "examples": [
+                    "Synonyms: officiate, serve"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To carry out a function; to be in action.",
+                  "examples": [
+                    "Synonyms: go, operate, run, work",
+                    "Antonym: malfunction"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
