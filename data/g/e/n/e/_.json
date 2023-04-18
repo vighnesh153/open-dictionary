@@ -1,0 +1,43 @@
+{
+  "word": "gene",
+  "etymologies": [
+    {
+      "description": [
+        "From German Gen, from Ancient Greek γενεά (geneá, “generation, descent”), from the aorist infinitive of γίγνομαι (gígnomai, “I come into being”). Coined by the Danish biologist Wilhelm Ludvig Johannsen in a German-language publication, from the last syllable of pangene."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gene (plural genes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) A theoretical unit of heredity of living organisms; a gene may take several values and in principle predetermines a precise trait of an organism's form (phenotype), such as hair color.",
+                  "examples": [
+                    "Coordinate term: cistron"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(molecular biology) A segment of DNA or RNA from a cell's or an organism's genome, that may take several forms and thus parameterizes a phenomenon, in general the structure of a protein; locus.",
+                  "examples": [
+                    "A change in a gene is reflected in the protein or RNA molecule that it codes for."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
