@@ -1,0 +1,67 @@
+{
+  "word": "gimbal",
+  "etymologies": [
+    {
+      "description": [
+        "Alteration of gemel, from Old French gemel, jumel (“twin”) (French jumeau), from Latin gemellus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gimbal (plural gimbals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device for suspending something, such as a ship's compass, so that it will remain level when its support is tipped.",
+                  "examples": [
+                    "The lamp wriggled in its gimbals, the barometer swung in circles, the table altered its slant every moment  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "gimbal (third-person singular simple present gimbals, present participle gimballing or gimbaling, simple past and past participle gimballed or gimbaled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To suspend using a gimbal or gimbals.",
+                  "examples": [
+                    "[…]  he conned his course in masterly fashion by aid of the roller-map, protected by its transparent, rainproof casing, or the compass, clock, altimeter, and other instruments gimballed in the wooden frame in front of the pilot’s seat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, aerospace) To move a reaction engine about on a gimbal so as to obtain pitching and yawing correction moments.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To swivel, move on an axis.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
