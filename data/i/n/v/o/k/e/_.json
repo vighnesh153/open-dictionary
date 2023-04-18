@@ -1,0 +1,94 @@
+{
+  "word": "invoke",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English *invoken, envoken, borrowed from Old French envoquer, from Latin invocāre (“to call upon”), itself from in- +‎ vocare (“to call”). Doublet of invocate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "invoke (third-person singular simple present invokes, present participle invoking, simple past and past participle invoked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To call upon (a person, a god) for help, assistance or guidance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To solicit, petition for, appeal to a favorable attitude.",
+                  "examples": [
+                    "The envoy invoked the King of Kings's magnanimity to reduce his province's tribute after another drought."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To call to mind (something) for some purpose.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To appeal for validation to a (notably cited) authority.",
+                  "examples": [
+                    "In certain Christian circles, invoking the Bible constitutes irrefutable proof."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To conjure up with incantations.",
+                  "examples": [
+                    "This satanist ritual invokes Beelzebub."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring about as an inevitable consequence.",
+                  "examples": [
+                    "Blasphemy is taboo as it may invoke divine wrath."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To cause (a program or subroutine) to execute.",
+                  "examples": [
+                    "Interactive programs let the users enter choices and invoke the corresponding routines."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

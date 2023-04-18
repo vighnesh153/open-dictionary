@@ -1,0 +1,77 @@
+{
+  "word": "invoice",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French envois pl, plural of envoi, from the verb envoyer (“to send”). See also envoy."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "invoice (plural invoices)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bill; a commercial document issued by a seller to a buyer indicating the products, quantities and agreed prices for products or services that the seller has already provided the buyer with. An invoice indicates that, unless paid in advance, payment is due by the buyer to the seller, according to the agreed terms.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The lot or set of goods as shipped or received.",
+                  "examples": [
+                    "The merchant receives a large invoice of goods.",
+                    "Synonym: shipment"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(generally of a vehicle) The price which a seller or dealer pays the manufacturer for goods to be sold.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "invoice (third-person singular simple present invoices, present participle invoicing, simple past and past participle invoiced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bill; to issue an invoice to.",
+                  "examples": [
+                    "I will invoice my supplier tomorrow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make an invoice for (goods or services).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
