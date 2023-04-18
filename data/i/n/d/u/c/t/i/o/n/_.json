@@ -1,0 +1,83 @@
+{
+  "word": "induction",
+  "etymologies": [
+    {
+      "description": [
+        "Inherited from Middle English induction, from Old French induction, from Latin inductiō, from indūcō (“I lead”). By surface analysis, induct +‎ -ion or induce +‎ -tion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "induction (countable and uncountable, plural inductions)",
+          "definitionGroups": [
+            {
+              "group": "An act of inducting.",
+              "entries": [
+                {
+                  "meaning": "A formal ceremony in which a person is appointed to an office or into military service.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The process of showing a newcomer around a place where they will work or study.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "An act of inducing.",
+              "entries": [
+                {
+                  "meaning": "(physics) Generation of an electric current by a varying magnetic field.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(logic) Derivation of general principles from specific instances.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(mathematics) A method of proof of a theorem by first proving it for a specific case (often an integer; usually 0 or 1) and showing that, if it is true for one case then it must be true for the next.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(theater) Use of rumors to twist and complicate the plot of a play or to narrate in a way that does not have to state truth nor fact within the play.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(embryology) Given a group of cells that emits or displays a substance, the influence of this substance on the fate of a second group of cells",
+                  "examples": []
+                },
+                {
+                  "meaning": "(mechanical engineering) The delivery of air to the cylinders of an internal combustion piston engine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The process of inducing the birth process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) An introduction.",
+                  "examples": [
+                    "This is but an induction: I'lldraw / The curtains of the tragedy hereafter."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
