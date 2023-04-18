@@ -1,0 +1,44 @@
+{
+  "word": "inequality",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English inequalite, from Old French inequalité, from Medieval Latin inaequālitās, from Latin inaequālis (“unequal”), from in- (“not”) + aequālis (“equal”).",
+        "Morphologically inequal +‎ -ity and in- +‎ equality."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inequality (countable and uncountable, plural inequalities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An unfair, not equal, state.",
+                  "examples": [
+                    "The inequality in living standards led to a civil war as the have nots rebelled."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A statement that of two quantities one is specifically less than (or greater than) another. Symbol: \n  \n    \n      \n        <\n      \n    \n    {\\displaystyle <}\n  \n or \n  \n    \n      \n        ≤\n      \n    \n    {\\displaystyle \\leq }\n  \n or \n  \n    \n      \n        >\n      \n    \n    {\\displaystyle >}\n  \n or \n  \n    \n      \n        ≥\n      \n    \n    {\\displaystyle \\geq }\n  \n or \n  \n    \n      \n        ≠\n      \n    \n    {\\displaystyle \\neq }\n  \n, as appropriate.",
+                  "examples": [
+                    "The inequality \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n is less than \n  \n    \n      \n        y\n      \n    \n    {\\displaystyle y}\n  \n, together with that \n  \n    \n      \n        y\n        <\n        z\n      \n    \n    {\\displaystyle y<z}\n  \n, allows us to deduce the inequality \n  \n    \n      \n        x\n        <\n        z\n      \n    \n    {\\displaystyle x<z}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
