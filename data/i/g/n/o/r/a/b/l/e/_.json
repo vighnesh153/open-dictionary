@@ -1,0 +1,61 @@
+{
+  "word": "ignorable",
+  "etymologies": [
+    {
+      "description": [
+        "ignore +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "ignorable (comparative more ignorable, superlative most ignorable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That can be ignored.",
+                  "examples": [
+                    "Synonyms: negligible, neglectable, trivial, insignificant",
+                    "Antonyms: unignorable, noticeable, important, radical, significant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, of missing data) Unrelated to the parameters being estimated",
+                  "examples": [
+                    "Antonym: informative"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ignorable (plural ignorables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything that can be ignored.",
+                  "examples": [
+                    "So long as people like Mr Spearing stop at this point and resort to adjectives instead of numbers, so long will engineers, and probably also decision makers, continue to treat intangibles as ignorables."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
