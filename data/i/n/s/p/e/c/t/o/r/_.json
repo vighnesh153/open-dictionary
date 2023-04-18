@@ -1,0 +1,50 @@
+{
+  "word": "inspector",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin īnspector, from īnspiciō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "inspector (plural inspectors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person employed to inspect something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law enforcement) A police officer ranking below superintendent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A software tool used to examine something.",
+                  "examples": [
+                    "Chrome has a built-in development tool called the Chrome Inspector. You can use it to examine the HTML elements in a web page; review what resources — or files, cookies, and databases — are active; follow network activity;  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
