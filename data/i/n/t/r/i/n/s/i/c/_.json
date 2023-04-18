@@ -1,0 +1,79 @@
+{
+  "word": "intrinsic",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French intrinsèque, from Latin intrīnsecus (“on the inside, inwardly”), from *intrim, an assumed adverbial form of inter (“within”) + secus (“by, on the side”)."
+      ],
+      "adjectives": [
+        {
+          "description": "intrinsic (comparative more intrinsic, superlative most intrinsic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Innate, inherent, inseparable from the thing itself, essential.",
+                  "examples": [
+                    "Synonyms: essential, inherent, innate, proper to; see also Thesaurus:intrinsic, Thesaurus:innate",
+                    "Antonym: extrinsic",
+                    "the intrinsic value of gold or silver",
+                    "the intrinsic merit of an action"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy, of a body part) Situated, produced, secreted in, or coming from inside an organ, tissue, muscle or member.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a function or operator) Built-in.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "intrinsic (plural intrinsics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A built-in function that is implemented directly by the compiler, without any intermediate call to a library.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) An ability possessed by a character and not requiring any external equipment.",
+                  "examples": [
+                    "You can acquire the fire-resistance intrinsic by eating dragon meat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
