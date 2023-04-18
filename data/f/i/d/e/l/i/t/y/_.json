@@ -1,0 +1,61 @@
+{
+  "word": "fidelity",
+  "etymologies": [
+    {
+      "description": [
+        "15th century, from Middle English [Term?], from Middle French fidélité, from Latin fidēlitās, from fidēlis (“faithful”), from fidēs (“faith, loyalty”) (English faith), from Proto-Indo-European *bʰidʰ-, zero-grade of *bʰeydʰ- (“to command, to persuade, to trust”) (English bide). Doublet of fealty."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fidelity (countable and uncountable, plural fidelities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Faithfulness to one's duties.",
+                  "examples": [
+                    "the fidelity of the civil servants"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Loyalty to one's spouse or partner, including abstention from cheating or extramarital affairs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Accuracy, or exact correspondence to some given quality or fact.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The degree to which a system accurately reproduces an input.",
+                  "examples": [
+                    "By placing them closer to the source, we can reduce the number of messages in the system and this in turn is likely to improve the fidelity of the system."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
