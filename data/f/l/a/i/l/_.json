@@ -1,0 +1,86 @@
+{
+  "word": "flail",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English flayle, from earlier fleil, fleyl, fleȝȝl, from Old English fligel, *flegel (“flail”), from Proto-West Germanic *flagil, of uncertain origin. Cognate with Scots flail (“a thresher's flail”), West Frisian fleil, flaaiel (“flail”), Dutch vlegel (“flail”), German Flegel (“flail”). Possibly a native Germanic word from Proto-Germanic *flagilaz (“whip”), from Proto-Germanic *flag-, *flah- (“to whip, beat”), from Proto-Indo-European *pleh₂k- (“to beat, hit, strike; weep”); compare Old Norse flaga (“sudden attack, bout”), Lithuanian plàkti (“to whip, lash, flog”), Ancient Greek πληγνύναι (plēgnúnai, “strike, hit, encounter”), Latin plangō (“lament”, i.e. “beat one's breast”) + Proto-Germanic *-ilaz (instrumental suffix). If so, related also to English flag, flack, flacker.",
+        "Alternatively, Proto-West Germanic *flagil may be an early borrowing of Latin flagellum (“winnowing tool, thresher”), diminutive of flagrum (“scourge, whip”), from Proto-Indo-European *bʰlag-, *bʰlaǵ- (“to beat”); compare Old Norse blekkja (“to beat, mistreat”). Compare also Old French flael (“flail”), Walloon flayea (“flail”) (locally pronounced \"flai\"), Italian flagello (“scourge, whip, plague”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flail (plural flails)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tool used for threshing, consisting of a long handle with a shorter stick attached with a short piece of chain, thong or similar material.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A weapon which has the (usually spherical) striking part attached to the handle with a flexible joint such as a chain.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "flail (third-person singular simple present flails, present participle flailing, simple past and past participle flailed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To beat using a flail or similar implement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To wave or swing vigorously",
+                  "examples": [
+                    "Synonym: thrash"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To thresh.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move like a flail.",
+                  "examples": [
+                    "He was flailing wildly, but didn't land a blow."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
