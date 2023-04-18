@@ -1,0 +1,50 @@
+{
+  "word": "isomorphic",
+  "etymologies": [
+    {
+      "description": [
+        "From iso- +‎ -morphic."
+      ],
+      "adjectives": [
+        {
+          "description": "isomorphic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Related by an isomorphism; having a structure-preserving one-to-one correspondence.",
+                  "examples": [
+                    "Let A, B be the ordered sets in Figure 10.3. Let C be the direct product of infinitely many copies of the two element chain 2. Then AC is isomorphic to BC, but A is not isomorphic to B."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Having a similar structure or function to something that is not related genetically or through evolution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having identical relevant structure; being structure-preserving while undergoing certain invertible transformations.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

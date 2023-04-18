@@ -1,0 +1,57 @@
+{
+  "word": "isomorphism",
+  "etymologies": [
+    {
+      "description": [
+        "iso- +‎ -morphism"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "isomorphism (countable and uncountable, plural isomorphisms)",
+          "definitionGroups": [
+            {
+              "group": "Similarity of form",
+              "entries": [
+                {
+                  "meaning": "(biology) the similarity in form of organisms, which may be due to convergent evolution or shared genetic background, e.g. an algae species in which the haploid and diploid life stages are indistinguishable based on morphology.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(chemistry) the similarity in the crystal structures of similar chemical compounds",
+                  "examples": [
+                    "The isomorphism of compounds does not prove the isomorphism of their respective constituents."
+                  ]
+                },
+                {
+                  "meaning": "(sociology) the similarity in the structure or processes of different organizations",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A one-to-one correspondence",
+              "entries": [
+                {
+                  "meaning": "(group algebra) A bijection f such that both f and its inverse f −1 are homomorphisms, that is, structure-preserving mappings.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computer science) a one-to-one correspondence between all the elements of two sets, e.g. the instances of two classes, or the records in two datasets",
+                  "examples": []
+                },
+                {
+                  "meaning": "(category theory) A morphism which has a two-sided inverse; the composition of the morphism and such an inverse yields either one of two identity morphisms (depending on the order of composition).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
