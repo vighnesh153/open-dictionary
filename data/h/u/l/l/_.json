@@ -1,0 +1,127 @@
+{
+  "word": "hull",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hul, hulle, holle (“seed covering, hull of a ship”), from Old English hulu (“seed covering”), from Proto-Germanic *hul- (compare Dutch hul (“hood”),\nGerman Hülle, Hülse (“cover, veil”)), perhaps from Proto-Indo-European *ḱel- (“to cover, hide”); or possibly from Proto-Indo-European *kal- (“hard”) (compare Old Irish calad, calath (“hard”), Latin callus, callum (“rough skin”), Old Church Slavonic калити (kaliti, “to cool, harden”)). For the sense development, compare French coque (“nutshell; ship's hull”), Ancient Greek φάσηλος (phásēlos, “bean pod; yacht”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hull (plural hulls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The outer covering of a fruit or seed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any covering.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hull (third-person singular simple present hulls, present participle hulling, simple past and past participle hulled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To remove the outer covering of a fruit or seed.",
+                  "examples": [
+                    "She sat on the back porch hulling peanuts."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English holle, hoole (“hull, hold of a ship, ship”), of uncertain origin. Possibly a variant and special use of Etymology 1 above, conformed to hull. Alternatively, a variant of Middle English hole, hoole, holle (“hiding place, lair, den, shelter, compartment”, literally “hole, hollow”), related to Middle Dutch and Dutch hol (“hole, ship's cargo hold”). More at hole."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hull (plural hulls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The body or frame of a vessel, such as a ship or plane.",
+                  "examples": [
+                    "Deep in their hulls our deadly bullets light, / And through the yielding planks a passage find."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, geometry, of a set A) The smallest set that possesses a particular property (such as convexity) and contains every point of A; slightly more formally, the intersection of all sets which possess the specified property and of which A is a subset.",
+                  "examples": [
+                    "The orthogonal convex hull of an orthogonal polygon is the smallest orthogonally convex polygon that encloses the original polygon.",
+                    "holomorphically convex hull; affine hull; injective hull"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hull (third-person singular simple present hulls, present participle hulling, simple past and past participle hulled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive, nautical) To drift; to be carried by the impetus of wind or water on the ship's hull alone, with sails furled.",
+                  "examples": [
+                    "In this virtuous voyage of life hull not about like the ark, without the use of rudder, mast, or sail, and bound for no port."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hit (a ship) in the hull with cannon fire etc.",
+                  "examples": [
+                    "During this action, we had not a man killed or wounded, although the enemy often hulled us, and once, in particular, a shot coming into one of our ports, dismounted one of our guns between decks  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
