@@ -1,0 +1,63 @@
+{
+  "word": "handshake",
+  "etymologies": [
+    {
+      "description": [
+        "hand +‎ shake"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "handshake (plural handshakes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The grasping of hands by two people when greeting, leave-taking, or making an agreement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An exchange of signals between two devices when communications begin in order to ensure synchronization.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "handshake (third-person singular simple present handshakes, present participle handshaking, simple past and past participle handshaked or handshook)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To perform a handshake; to shake hands.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To perform a handshake with another device.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
