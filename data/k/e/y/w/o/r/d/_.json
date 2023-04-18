@@ -1,0 +1,112 @@
+{
+  "word": "keyword",
+  "etymologies": [
+    {
+      "description": [
+        "key +‎ word"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "keyword (plural keywords)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) Any word used as the key to a code.",
+                  "examples": [
+                    "Synonyms: password, passcode",
+                    "Coordinate term: keyphrase"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(information science) Any word used in a reference work to link to other words or other information.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(information science) Any important word in a text or document, which may be linked to other words or other information, or at least merely listed in the metadata for searches to find.",
+                  "examples": [
+                    "Synonyms: operative word, workword",
+                    "Coordinate term: keyphrase",
+                    "Hypernym: keystring"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A reserved word used to identify a specific command, function, etc.",
+                  "examples": [
+                    "Each function has an entry address which must be quoted after the USR keyword."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) Any word that occurs in a text more often than normal.",
+                  "examples": [
+                    "Coordinate terms: collocation, statistically improbable phrase"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "keyword (third-person singular simple present keywords, present participle keywording, simple past and past participle keyworded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To tag with keywords, as for example to facilitate searching.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
