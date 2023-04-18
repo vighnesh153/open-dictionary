@@ -1,0 +1,92 @@
+{
+  "word": "isolation",
+  "etymologies": [
+    {
+      "description": [
+        "First attested in  1800. From French isolation, from isolé, placed on an island (thus away from other people). Equivalent to isolate +‎ -ion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "isolation (countable and uncountable, plural isolations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly uncountable) The state of being isolated, detached, or separated; the state of being away from other people.",
+                  "examples": [
+                    "She lived her final year in complete isolation, not wanting to see anybody."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of isolating.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(diplomacy, of a country) The state of not having diplomatic relations with other countries (either with most or all other countries, or with specified other countries).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The obtaining of an element from one of its compounds, or of a compound from a mixture",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The separation of a patient, suffering from a contagious disease, from contact with others (compare: quarantine)",
+                  "examples": [
+                    "Upon returning from the field, he went into isolation for a week so as not to infect anyone with potential diseases."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A database property that determines when and how changes made in one transaction are visible to other concurrent transactions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) A Freudian defense mechanism in which a person suppresses a harmful thought from developing into a train of thought.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
