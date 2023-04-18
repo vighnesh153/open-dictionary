@@ -1,0 +1,54 @@
+{
+  "word": "interrogate",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin interrogātus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "interrogate (third-person singular simple present interrogates, present participle interrogating, simple past and past participle interrogated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to question or quiz, especially in a thorough and/or aggressive manner",
+                  "examples": [
+                    "The police interrogated the suspect at some length before they let him go."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) to query; to request information from.",
+                  "examples": [
+                    "to interrogate a database"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, literary) to examine critically.",
+                  "examples": [
+                    "Griffin's approach allows her to reveal Billie Holiday's resilient strength of character and to interrogate the racism she endured, which was as tragic as her personal mistakes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
