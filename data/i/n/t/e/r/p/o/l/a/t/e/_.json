@@ -1,0 +1,53 @@
+{
+  "word": "interpolate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin interpolare, Latin interpolatum, from inter (“between”) and polire (“to polish”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "interpolate (third-person singular simple present interpolates, present participle interpolating, simple past and past participle interpolated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To introduce (something) between other things; especially to insert (possibly spurious) words into a text.",
+                  "examples": [
+                    "in verse 74, the second line is clearly interpolated, probably by some unknown medieval scribe",
+                    "When interpolating an explanatory gloss, please enclose it in square brackets to make clear that it is interpolated."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) To estimate the value of a function between two tabulated points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) During the course of processing some data, and in response to a directive in that data, to fetch data from a different source and process it in-line along with the original data.",
+                  "examples": [
+                    "A macro is invoked in the same way as a request; a control line beginning .xx will interpolate the contents of macro xx."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
