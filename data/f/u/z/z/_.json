@@ -1,0 +1,173 @@
+{
+  "word": "fuzz",
+  "etymologies": [
+    {
+      "description": [
+        "Uncertain. Some dictionaries suggest a Germanic source; compare Low German fussig (“loose; spongy”), Dutch voos (“unsound; rotten”). Others, such as Webster's New College Dictionary, suggest a back-formation from fuzzy. The Oxford English Dictionary suggests, “Perhaps imitative of the action of blowing away light particles.”"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fuzz (countable and uncountable, plural fuzzes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A frizzy mass of hair or fibre.",
+                  "examples": [
+                    "His cheeks were like peaches, with much the same sort of fuzz over them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Quality of an image that is unclear; a blurred image.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The random data used in fuzz testing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A distorted sound, especially from an electric guitar or other amplified instrument.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A state of befuddlement.",
+                  "examples": [
+                    "I think I'm in a fuzz, and don't know what I ſay, I never ſaw the like."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "fuzz (third-person singular simple present fuzzes, present participle fuzzing, simple past and past participle fuzzed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make fuzzy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become fuzzy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, dated) To make drunk.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To test a software component by running it on randomly generated input.",
+                  "examples": [
+                    "Sulley works by fuzzing the first fuzzable field to be fuzzed. While it is iterating through all the values it wants to try for that field, all the other fields are untouched and remain at their default value."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, dated) To fly off in minute particles with a fizzing sound, like water from hot metal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Unknown. Godfrey Irwin (1930) suggests a possible connection to fuss, \"over-particular\", excessive bother."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fuzz (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang, with \"the\") The police, or any law enforcement agency.",
+                  "examples": [
+                    "Let's get the hell out of here before the fuzz turns up"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "fuzz",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Misspelling of fuss.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
