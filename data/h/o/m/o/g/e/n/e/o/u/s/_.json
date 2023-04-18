@@ -1,0 +1,61 @@
+{
+  "word": "homogeneous",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin homogeneus, from Ancient Greek ὁμογενής (homogenḗs, “of the same race, family or kind”), from ὁμός (homós, “same”) + γένος (génos, “kind”). Compare homo- (“same”) and -ous (adjectival suffix)."
+      ],
+      "adjectives": [
+        {
+          "description": "homogeneous (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of the same kind; alike, similar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having the same composition throughout; of uniform make-up.",
+                  "examples": [
+                    "Their citizens were not of homogeneous origin, but were from all parts of Greece."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) In the same state of matter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of which the properties of a smaller set apply to the whole; scalable.",
+                  "examples": [
+                    "The function \n  \n    \n      \n        f\n        (\n        x\n        ,\n        y\n        )\n        =\n        \n          x\n          \n            2\n          \n        \n        +\n        \n          y\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle f(x,y)=x^{2}+y^{2}}\n  \n is homogeneous of degree 2 because \n  \n    \n      \n        f\n        (\n        α\n        x\n        ,\n        α\n        y\n        )\n        =\n        \n          α\n          \n            2\n          \n        \n        f\n        (\n        x\n        ,\n        y\n        )\n      \n    \n    {\\displaystyle f(\\alpha x,\\alpha y)=\\alpha ^{2}f(x,y)}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
