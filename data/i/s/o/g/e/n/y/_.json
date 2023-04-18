@@ -1,0 +1,41 @@
+{
+  "word": "isogeny",
+  "etymologies": [
+    {
+      "description": [
+        "iso- +‎ -geny."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "isogeny (countable and uncountable, plural isogenies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The condition of being isogenous.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebraic geometry, category theory) An epimorphism of group schemes that is surjective and has a finite kernel.",
+                  "examples": [
+                    "It is clear that if \n  \n    \n      \n        \n          G\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle G_{2}}\n  \n is connected, then two of the defining properties of an isogeny imply the third."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
