@@ -1,0 +1,41 @@
+{
+  "word": "gigabyte",
+  "etymologies": [
+    {
+      "description": [
+        "giga- +‎ byte"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "gigabyte (plural gigabytes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(SI) 109, one billion (1,000,000,000) bytes. SI symbol: GB",
+                  "examples": [
+                    "The IBM 3380 Direct Access Storage is a disk storage device with a storage capacity of 2.5 gigabytes (billion bytes) per unit, an increase of almost four times the capacity of the IBM 3350 Direct Access Storage."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A gibibyte or 10243 (1,073,741,824) bytes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
