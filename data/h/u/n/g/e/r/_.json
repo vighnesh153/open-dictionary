@@ -1,0 +1,86 @@
+{
+  "word": "hunger",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hunger, from Old English hungor (“hunger, desire; famine”), from Proto-Germanic *hungruz, *hunhruz (“hunger”), from Proto-Indo-European *kenk- (“to burn, smart, desire, hunger, thirst”). Cognate with West Frisian honger, hûnger (“hunger”), Dutch honger (“hunger”), German Low German Hunger (“hunger”), German Hunger (“hunger”), Swedish hunger (“hunger”), Icelandic hungur (“hunger”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hunger (countable and uncountable, plural hungers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A need or compelling desire for food.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) Any strong desire.",
+                  "examples": [
+                    "I have a hunger to win."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English hungren, from Old English hyngran, hyngrian, ġehyngrian (“to be hungry”), from Proto-Germanic *hungrijaną."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hunger (third-person singular simple present hungers, present participle hungering, simple past and past participle hungered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be in need of food.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively, intransitive, usually with 'for' or 'after') To have a desire (for); to long; to yearn.",
+                  "examples": [
+                    "I hungered for your love."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, transitive) To make hungry; to famish.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
