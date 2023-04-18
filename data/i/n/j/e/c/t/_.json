@@ -1,0 +1,96 @@
+{
+  "word": "inject",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin iniectus, injectus, participle of iniciō, injiciō (“I throw in”), from in- + iaciō (“I throw”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "inject (third-person singular simple present injects, present participle injecting, simple past and past participle injected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To push or pump (something, especially fluids) into a cavity or passage.",
+                  "examples": [
+                    "The nurse injected a painkilling drug into the veins of my forearm."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To introduce (something) suddenly or violently.",
+                  "examples": [
+                    "Punk injected a much-needed sense of urgency into the British music scene."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To administer an injection to (someone or something), especially of medicine or drugs.",
+                  "examples": [
+                    "Now lie back while we inject you with the anesthetic.",
+                    "to inject the blood vessels"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To take or be administered something by means of injection, especially medicine or drugs.",
+                  "examples": [
+                    "It's been a week since I stopped injecting, and I'm still in withdrawal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To introduce (code) into an existing program or its memory space, often without tight integration and sometimes through a security vulnerability.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To cast or throw; used with on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To introduce or add (something that is different or foreign).",
+                  "examples": [
+                    "inject something into orbit",
+                    "inject some spice into my life."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
