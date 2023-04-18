@@ -1,0 +1,87 @@
+{
+  "word": "invasive",
+  "etymologies": [
+    {
+      "description": [
+        "The adjective is derived from Middle English invasif (“of a weapon: offensive”), from Middle French invasif, Old French invasif (“invasive”) (modern French invasif), from Medieval Latin invāsīvus, from Latin invāsus (“entered; invaded”) + -īvus (suffix forming adjectives). Invāsus is the perfect passive participle of invādō (“to enter; to invade”), from in- (prefix meaning ‘in, inside’) + vādō (“to go; to rush; to walk”) (ultimately from Proto-Indo-European *weh₂dʰ- (“to go, proceed; to pass, traverse”)).",
+        "The noun is derived from the adjective."
+      ],
+      "adjectives": [
+        {
+          "description": "invasive (comparative more invasive, superlative most invasive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to invasion; offensive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, also figuratively) That invades a foreign country using military force; also, militarily aggressive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(by extension)",
+              "entries": [
+                {
+                  "meaning": "Intrusive on one's privacy, rights, sphere of activity, etc.",
+                  "examples": [
+                    "Antonym: uninvasive"
+                  ]
+                },
+                {
+                  "meaning": "Originating externally.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(biology) Of an animal or plant: that grows (especially uncontrollably) in environments which do not harbour natural enemies, often to the detriment of native species or of food or garden flora and fauna.",
+                  "examples": [
+                    "Antonyms: noninvasive, non-invasive",
+                    "an invasive species"
+                  ]
+                },
+                {
+                  "meaning": "(medicine, surgery) Of a procedure: involving the entry of an instrument into part of the body.",
+                  "examples": [
+                    "Antonyms: noninvasive, non-invasive"
+                  ]
+                },
+                {
+                  "meaning": "(pathology) Of a carcinoma or other abnormal growth: that invades healthy tissue, especially rapidly.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "invasive (plural invasives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) An invasive organism, such as an animal or plant.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
