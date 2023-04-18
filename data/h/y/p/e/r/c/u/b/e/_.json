@@ -1,0 +1,57 @@
+{
+  "word": "hypercube",
+  "etymologies": [
+    {
+      "description": [
+        "From hyper- +‎ cube."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hypercube (plural hypercubes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A geometric figure in four or more dimensions, which is analogous to a cube in three dimensions. Specifically, the n-dimensional equivalent of a cube for any non-negative integer n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Such a figure in four dimensions; a tesseract.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A data cube with more than three dimensions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A computer architecture in which each processor is connected to n others, by analogy with a hypercube of n dimensions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
