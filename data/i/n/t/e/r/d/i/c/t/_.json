@@ -1,0 +1,85 @@
+{
+  "word": "interdict",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English entrediten, from Old French entredire (“forbid”), from Latin interdīcō (“prohibit, forbid”), from inter- (“between”) + dīcō (“say”), from Proto-Indo-European *deyḱ-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "interdict (plural interdicts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A papal decree prohibiting the administration of the sacraments from a political entity under the power of a single person (e.g., a king or an oligarchy with similar powers). Extreme unction/Anointing of the Sick is excepted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland, law) An injunction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "interdict (third-person singular simple present interdicts, present participle interdicting, simple past and past participle interdicted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Roman Catholicism) To exclude (someone or somewhere) from participation in church services; to place under a religious interdict. [from 13th c.]",
+                  "examples": [
+                    "An archbishop [may not only] excommunicate and interdict his suffragans, but his Vicar-General may also do the same."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To forbid (an action or thing) by formal or legal sanction. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To forbid (someone) from doing something. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, US, military) To impede (an enemy); to interrupt or destroy (enemy communications, supply lines etc). [from 20th c.]",
+                  "examples": [
+                    "Grant did not cease his efforts to interdict Lee's supply lines and break through the defenses."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
