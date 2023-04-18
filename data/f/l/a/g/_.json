@@ -1,0 +1,499 @@
+{
+  "word": "flag",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English flag, flagge (“flag”), further etymology uncertain. Perhaps from or related to early Middle English flage (name for a baby's garment) and Old English flagg, flacg (“cataplasm, poultice, plaster”).  Or, perhaps ultimately imitative, or otherwise drawn from Proto-Germanic *flaką (“something flat”), from Proto-Indo-European *pleh₂- (“flat, broad, plain”), referring to the shape.",
+        "Germanic cognates include Saterland Frisian Flaage (“flag”), West Frisian flagge (“flag”), Dutch vlag (“flag”), German Flagge (“flag”), Swedish flagg (“flag”), Danish flag (“flag, ship's flag”). Compare also Middle English flacken (“to flutter, palpitate”), Swedish dialectal flage (“to flutter in the wind”), Old Norse flögra (“to flap about”). Akin to Old High German flogarōn (“to flutter”), Old High German flogezen (“to flutter, flicker”), Middle English flakeren (“to move quickly to and fro”), Old English flacor (“fluttering, flying”). More at flack, flacker."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flag (countable and uncountable, plural flags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of cloth, often decorated with an emblem, used as a visual signal or symbol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An exact representation of a flag (for example: a digital one used in websites).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A flag flown by a ship to show the presence on board of the admiral; the admiral himself, or his flagship.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical, often used attributively) A signal flag.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The use of a flag, especially to indicate the start of a race or other event.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) A variable or memory location that stores a true-or-false, yes-or-no value, typically either recording the fact that a certain event has occurred or requesting that a certain optional action take place.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) In a command line interface, a command parameter requesting optional behavior or otherwise modifying the action of the command being invoked.",
+                  "examples": [
+                    "This will be used as a help message if the user passes in the --help flag, like so:  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) A mechanical indicator that pops up to draw the pilot's attention to a problem or malfunction.",
+                  "examples": [
+                    "I was shooting an IFR approach down the San Francisco slot, when all of a sudden the ILS flag popped up."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, uncountable) The game of capture the flag.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A sequence of faces of a given polytope, one of each dimension up to that of the polytope (formally, though in practice not always explicitly, including the null face and the polytope itself), such that each face in the sequence is part of the next-higher dimension face.",
+                  "examples": [
+                    "We call P (combinatorially) regular if its automorphism group Γ(P) is transitive on its flags."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra) A sequence of subspaces of a vector space, beginning with the null space and ending with the vector space itself, such that each member of the sequence (until the last) is a proper subspace of the next.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(television) A dark piece of material that can be mounted on a stand to block or shape the light.",
+                  "examples": [
+                    "At the other extreme, with limitless budgets all they have to do is dream up amazing lighting rigs to be constructed and operated by the huge team of gaffers and sparks, with their generators, discharge lights, flags, gobos and brutes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, archaic, slang) An apron.",
+                  "examples": [
+                    "Suppose you try a different tack, / And on the square you flash your flag?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet slang, ACG) A plot or words of a character in an animation, etc., that would usually lead to a specific outcome or event, not logically or causally, but as a pattern of the animation, etc.",
+                  "examples": [
+                    "death flag",
+                    "raise the heroine's flags (in a galge)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "flag (third-person singular simple present flags, present participle flagging, simple past and past participle flagged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To furnish or deck out with flags.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To mark with a flag, especially to indicate the importance of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(often with down) To signal to, especially to stop a passing vehicle etc.",
+                  "examples": [
+                    "Please flag down a taxi for me."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To convey (a message) by means of flag signals.",
+                  "examples": [
+                    "to flag an order to troops or vessels at a distance"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(often with up) To note, mark or point out for attention.",
+                  "examples": [
+                    "I've flagged up the need for further investigation into this.",
+                    "Users of the Internet forum can flag others' posts as inappropriate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To signal (an event).",
+                  "examples": [
+                    "The compiler flagged three errors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To set a program variable to true.",
+                  "examples": [
+                    "Flag the debug option before running the program."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To decoy (game) by waving a flag, handkerchief, etc. to arouse the animal's curiosity.",
+                  "examples": [
+                    "This method of hunting, however, is not so much practised now as formerly, as the antelope are getting continually shyer and more difficult to flag."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) To penalize for an infraction.",
+                  "examples": [
+                    "The defender was flagged for unsportsmanlike conduct."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess, intransitive) To lose on time, especially in a blitz game; when using a traditional analog chess clock, a flag would fall when time expired.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess, transitive) To defeat (an opponent) on time, especially in a blitz game.",
+                  "examples": [
+                    "White was winning positionally, but Black managed to flag him and win."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(firearms) To point the muzzle of a firearm at a person or object one does not intend to fire on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fail, such as a class or an exam.",
+                  "examples": [
+                    "After he flagged Algebra, Mike was ineligible for the football team."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Perhaps from a variant of flack (“to hang loose”), from Middle English flacken; or perhaps from Old Norse. Compare Middle Dutch flaggheren, vlaggheren (“to droop, flag”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "flag (third-person singular simple present flags, present participle flagging, simple past and past participle flagged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To weaken, become feeble.",
+                  "examples": [
+                    "His strength flagged toward the end of the race."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To hang loose without stiffness; to bend down, as flexible bodies; to be loose, yielding, limp.",
+                  "examples": [
+                    "as loose it [the sail] flagged around the mast"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To let droop; to suffer to fall, or let fall, into feebleness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To enervate; to exhaust the vigour or elasticity of.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Of uncertain origin, perhaps from North Germanic; compare Danish flæg (“yellow iris”).  Or, possibly from sense 1, referring to its motion in the wind. Compare also Dutch vlag."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flag (plural flags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of various plants with sword-shaped leaves, especially irises; specifically, Iris pseudacorus.",
+                  "examples": [
+                    "And laden barges float",
+                    "By banks of myosote;",
+                    "And scented flag and golden flower-de-lys",
+                    "Delay the loitering boat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Probably of Scandinavian/North Germanic origin; compare Icelandic flag."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flag (plural flags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete except in dialects) A slice of turf; a sod.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A slab of stone; a flagstone, a flat piece of stone used for paving.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) Any hard, evenly stratified sandstone, which splits into layers suitable for flagstones.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "flag (third-person singular simple present flags, present participle flagging, simple past and past participle flagged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pave with flagstones.",
+                  "examples": [
+                    "Fred is planning to flag his patio this weekend."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "flag (plural flags)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of feathers on the lower part of the legs of certain hawks, owls, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of elongated wing feathers in certain hawks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The bushy tail of a dog such as a setter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A hook attached to the stem of a written note that assigns its rhythmic value",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
