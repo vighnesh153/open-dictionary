@@ -1,0 +1,482 @@
+{
+  "word": "load",
+  "etymologies": [
+    {
+      "description": [
+        "The sense of “burden” first arose in the 13th century as a secondary meaning of Middle English lode, loade, which had the main significance of “way, course, journey”, from Old English lād (“course, journey; way, street, waterway; leading, carrying; maintenance, support”) (ultimately from Proto-Germanic *laidō (“leading, way”), Proto-Indo-European *leyt- (“to go, go forth, die”).",
+        "Cognate with Middle Low German leide (“entourage, escort”), German Leite (“line, course, load”), Swedish led (“way, trail, line”), Icelandic leið (“way, course, route”)). As such, load is a doublet of lode, which has preserved the older meaning.",
+        "Most likely, the semantic extension of the Middle English substantive arose by conflation with the (etymologically unrelated) verb lade; however, Middle English lode occurs only as a substantive; the transitive verb load (“to charge with a load”) is recorded only in the 16th century (frequently in Shakespeare),\nand (except for the participle laden) has largely supplanted lade in modern English."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "load (plural loads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A burden; a weight to be carried.",
+                  "examples": [
+                    "I struggled up the hill with the heavy load in my rucksack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A worry or concern to be endured, especially in the phrase a load off one's mind.",
+                  "examples": [
+                    "I came here with a load and it feels so much lighter, now I’ve met you."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A certain number of articles or quantity of material that can be transported or processed at one time.",
+                  "examples": [
+                    "The truck overturned while carrying a full load of oil.",
+                    "She put another load of clothes in the washing machine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A quantity of washing put into a washing machine for a wash cycle.",
+                  "examples": [
+                    "I put a load on before we left."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in combination) Used to form nouns that indicate a large quantity, often corresponding to the capacity of a vehicle",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(often in the plural, colloquial) A large number or amount.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:lot",
+                    "I got loads of presents for my birthday!",
+                    "I got a load of emails about that."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The volume of work required to be performed.",
+                  "examples": [
+                    "Will our web servers be able to cope with that load?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) The force exerted on a structural component such as a beam, girder, cable etc.",
+                  "examples": [
+                    "Each of the cross-members must withstand a tensile load of 1,000 newtons."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical engineering) The electrical current or power delivered by a device.",
+                  "examples": [
+                    "I'm worried that the load on that transformer will be too high."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) A resistive force encountered by a prime mover when performing work.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical engineering) Any component that draws current or power from an electrical circuit.",
+                  "examples": [
+                    "Connect a second 24-ohm load across the power supply's output terminals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unit of measure for various quantities.",
+                  "examples": [
+                    "If this load equals its modern representative, it contains 18 cwt. of dry, 19 of new hay."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The viral load",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A very small explosive inserted as a gag into a cigarette or cigar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The charge of powder for a firearm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Weight or violence of blows.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(vulgar, slang) The contents (e.g. semen) of an ejaculation.",
+                  "examples": [
+                    "Already, Robbie had dumped a load into his dad, and now, before my very eyes, was Alan's own cock lube seeping out"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(euphemistic) Nonsense; rubbish.",
+                  "examples": [
+                    "What a load!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process of loading something, i.e. transferring it into memory or over a network, etc.",
+                  "examples": [
+                    "All of those uncompressed images are going to slow down the page load."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Philippines) prepaid phone credit",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "load (third-person singular simple present loads, present participle loading, simple past loaded, past participle loaded or (archaic) loaden)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put a load on or in (a means of conveyance or a place of storage).",
+                  "examples": [
+                    "The dock workers refused to load the ship."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place in or on a conveyance or a place of storage.",
+                  "examples": [
+                    "The longshoremen loaded the cargo quickly.",
+                    "He loaded his stuff into his storage locker."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To put a load on something.",
+                  "examples": [
+                    "The truck was supposed to leave at dawn, but in fact we spent all morning loading."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To receive a load.",
+                  "examples": [
+                    "The truck is designed to load easily."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be placed into storage or conveyance.",
+                  "examples": [
+                    "The containers load quickly and easily."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fill (a firearm or artillery) with munition.",
+                  "examples": [
+                    "I pulled the trigger, but nothing happened. I had forgotten to load the gun."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To insert (an item or items) into an apparatus so as to ready it for operation, such as a reel of film into a camera, sheets of paper into a printer etc.",
+                  "examples": [
+                    "Now that you've loaded the film [into the camera], you're ready to start shooting.",
+                    "Now that you've loaded the camera [with film], you're ready to start shooting."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fill (an apparatus) with raw material.",
+                  "examples": [
+                    "The workers loaded the blast furnace with coke and ore."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be put into use in an apparatus.",
+                  "examples": [
+                    "The cartridge was designed to load easily."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To read (data or a program) from a storage medium into computer memory.",
+                  "examples": [
+                    "Click OK to load the selected data."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To transfer from a storage medium into computer memory.",
+                  "examples": [
+                    "This program takes an age to load."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, baseball) To put runners on first, second and third bases",
+                  "examples": [
+                    "He walks to load the bases."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To tamper with so as to produce a biased outcome.",
+                  "examples": [
+                    "You can load the dice in your favour by researching the company before your interview.",
+                    "The wording of the ballot paper loaded the vote in favour of the Conservative candidate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To ask or adapt a question so that it will be more likely to be answered in a certain way.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To encumber with something negative, to place as an encumbrance.",
+                  "examples": [
+                    "The new owners had loaded the company with debt.",
+                    "The new owners loaded debt on the company."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To provide in abundance.",
+                  "examples": [
+                    "He loaded his system with carbs before the marathon.",
+                    "He loaded carbs into his system before the marathon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To weight (a cane, whip, etc.) with lead or similar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic, slang) To adulterate or drug.",
+                  "examples": [
+                    "to load wine"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To magnetize.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Philippines) to top up or purchase phone credits",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Acronym of living online all day."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "load (plural loads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet slang, obsolete) A person that spends all day online. The term was originally used in the late 1980s to describe users on free Q-Link (later America Online) accounts who never signed off the system at great expense to the company.",
+                  "examples": [
+                    "She never logs off; she is a real LOAD!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
