@@ -1,0 +1,30 @@
+{
+  "word": "memoryless",
+  "etymologies": [
+    {
+      "description": [
+        "memory +‎ -less"
+      ],
+      "adjectives": [
+        {
+          "description": "memoryless (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(probability theory) Of a probability distribution, such that any derived probability from a set of random samples is distinct and has no information (i.e. \"memory\") of earlier samples.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
