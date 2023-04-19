@@ -1,0 +1,118 @@
+{
+  "word": "marquee",
+  "etymologies": [
+    {
+      "description": [
+        "From marquise, from French marquise. Ultimately from same root as march (“border country”), margin (“edge”)."
+      ],
+      "adjectives": [
+        {
+          "description": "marquee (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Most famous; preeminent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "marquee (plural marquees)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, Australia, New Zealand) A large tent with open sides, used for outdoors entertainment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A projecting canopy over an entrance, especially one with a sign that displays the name of the establishment or other information of it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, by generalization) Lights that turn on and off in sequence, or scrolling text, as these are common elements on a marquee.",
+                  "examples": [
+                    "Synonyms: chase lights, chaser lights"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A banner on a web page displaying text that scrolls horizontally.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) In graphical editing software, a special selection tool, used to highlight a portion of an image.",
+                  "examples": [
+                    "Synonym: marching ants",
+                    "Rectangular Marquee Tool"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "marquee (third-person singular simple present marquees, present participle marqueeing, simple past and past participle marqueed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) To select (an object or region) with the marquee selection tool.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To display text prominently at the top, as in a video. i.e. The text was marqueed at the end of the presentation. Marquee it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
