@@ -1,0 +1,41 @@
+{
+  "word": "lookahead",
+  "etymologies": [
+    {
+      "description": [
+        "look +‎ ahead"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lookahead (countable and uncountable, plural lookaheads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, software compilation) The analysis in advance of subsequent decisions that would be made if a particular branch of an algorithm was followed.",
+                  "examples": [
+                    "Our computer chess program uses lookahead to avoid difficult endgames."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(regular expressions) The analysis of the subsequent characters before the regular expression is matched.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
