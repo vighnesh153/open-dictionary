@@ -1,0 +1,74 @@
+{
+  "word": "navigate",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English navigate, from Latin nāvigō, from nāvis (“ship”) + agō (“do”), from Proto-Indo-European *néh₂us (“boat”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "navigate (third-person singular simple present navigates, present participle navigating, simple past and past participle navigated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To plan, control and record the position and course of a vehicle, ship, aircraft, etc., on a journey; to follow a planned course.",
+                  "examples": [
+                    "He navigated the bomber to the Ruhr."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To give directions, as from a map, to someone driving a vehicle.",
+                  "examples": [
+                    "You drive. I'll navigate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To travel over water in a ship; to sail.",
+                  "examples": [
+                    "We navigated to France in the dinghy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To move between web pages, menus, etc. by means of hyperlinks, mouse clicks, or any other mechanism.",
+                  "examples": [
+                    "It was difficult to navigate back to the home page."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figurative) To find a way through a difficult situation or process.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

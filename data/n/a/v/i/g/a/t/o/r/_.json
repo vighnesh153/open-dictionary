@@ -1,0 +1,68 @@
+{
+  "word": "navigator",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin nāvigātor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "navigator (plural navigators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who navigates, especially an officer with that responsibility on a ship or an aircrew member with that responsibility on an aircraft.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sea explorer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device that navigates an aircraft, automobile or missile.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A user interface that allows navigating through a structure of any kind.",
+                  "examples": [
+                    "Although the window looks like a view of files and folders on disk, the “folders” that appear here are called groups; they don't exist on disk. They appear in the navigator because it's convenient to group related files together  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A labourer on an engineering project such as a canal; a navvy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
