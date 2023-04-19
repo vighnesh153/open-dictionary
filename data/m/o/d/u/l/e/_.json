@@ -1,0 +1,119 @@
+{
+  "word": "module",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French module, from Latin modulus (“a small measure, a measure, mode, meter”), diminutive of modus (“measure”) (whence mode). Doublet of mold."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "module (plural modules)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A self-contained component of a system, often interchangeable, which has a well-defined interface to the other components.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A standard unit of measure used for determining the proportions of a building.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A section of a program; a subroutine or group of subroutines.",
+                  "examples": [
+                    "Class modules are similar to form modules except they do not have a visible interface (GUI)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unit of education covering a single topic.",
+                  "examples": [
+                    "Which modules are you studying next year?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pre-prepared adventure scenario with related materials for a role-playing game.",
+                  "examples": [
+                    "Dragonborn  […]  first appeared in the Dragons of Despair module (1984) for Advanced Dungeons & Dragons as “dragonmen.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, ring theory) An abelian group equipped with the operation of multiplication by an element of a ring (or another of certain algebraic objects), representing a generalisation of the concept of vector space with scalar multiplication.",
+                  "examples": [
+                    "Meronym: element"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fractal geometry, mathematics) A fractal element.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A file containing a music sequence that can be played in a tracker (called also mod or music module).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hydraulics) A contrivance for regulating the supply of water from an irrigation channel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronautics) An independent self-contained unit of a spacecraft.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
