@@ -1,0 +1,49 @@
+{
+  "word": "miswrite",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English miswriten, from Old English miswrītan, misƿrītan (“to write incorrectly; make a mistake in writing; miswrite”), equivalent to mis- +‎ write."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "miswrite (plural miswrites)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A failed write operation.",
+                  "examples": [
+                    "Line fluctuations can cause misreads and miswrites."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "miswrite (third-person singular simple present miswrites, present participle miswriting, simple past miswrote, past participle miswritten)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To write incorrectly.",
+                  "examples": [
+                    "[…]  but we lose ever and anon a word, or a verse, and substitute something of our own, and thus miswrite the poem."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
