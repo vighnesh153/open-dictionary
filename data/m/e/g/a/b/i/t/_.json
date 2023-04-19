@@ -1,0 +1,54 @@
+{
+  "word": "megabit",
+  "etymologies": [
+    {
+      "description": [
+        "From mega- +‎ bit."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "megabit (plural megabits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) 106 = 1,000,000 bits or 125,000 bytes (125 kilobytes)",
+                  "examples": [
+                    "When reading clock pulses only, the signal frequency is 625 kHz. The bit rate, however, is twice the signal frequency, or 1.25 megabits/sec."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) 220 = 1,048,576 bits; a mebibit",
+                  "examples": [
+                    "Synonym: Mib"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, informal) one megabit per second",
+                  "examples": [
+                    "Synonym: Mbps"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
