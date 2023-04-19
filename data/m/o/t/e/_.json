@@ -1,0 +1,151 @@
+{
+  "word": "mote",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English mot, from Old English mot (“grain of sand; mote; atom”), but of uncertain ultimate origin. Sometimes linked to Spanish mota (“speck”) and English mud.",
+        "Compare West Frisian mot (“peat dust”), Dutch mot (“dust from turf; sawdust; grit”), Norwegian mutt (“speck; mote; splinter; chip”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mote (plural motes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small particle; a speck.",
+                  "examples": [
+                    "What shall a Mote up to a Monarch rise?",
+                    "An Emmet match an Emperor in might?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English moten, from Old English mōtan (“to be allowed, be able to, have the opportunity to, be compelled to, may, must”), from Proto-Germanic *mōtaną (“to be able to, have to, be delegated”), from Proto-Indo-European *med- (“to acquire, possess, be in charge of”). Cognate with Dutch moeten (“to have to, must”), German müssen (“to have to, must”), Ancient Greek μέδω (médō, “to prevail, dominate, rule over”). Related to empty."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mote (third-person singular simple present mote, no present participle, simple past and past participle must)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) May or might. [from 9th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Must. [9th–17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Forming subjunctive expressions of wish: may. [from 9th c.]",
+                  "examples": [
+                    "‘I shall not take Vengeance into my own Hands. The Goddess will do what She will.’ ‘So mote it be,’ said the Grandmaster."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "See moot (“a meeting”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mote (plural motes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A meeting for discussion.",
+                  "examples": [
+                    "a wardmote in the city of London"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A body of persons who meet for discussion, especially about the management of affairs.",
+                  "examples": [
+                    "a folk mote"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A place of meeting for discussion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From remote, with allusion to the other sense of mote (“a speck of dust”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mote (plural motes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tiny computer for remote sensing; a component element of smartdust.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
