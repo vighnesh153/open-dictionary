@@ -1,0 +1,144 @@
+{
+  "word": "modal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French modal, from Medieval Latin modālis (“pertaining to a mode”), from Latin modus (“mode”); equivalent to mode +‎ -al. Compare to French, Spanish, and Portuguese modal and Italian modale."
+      ],
+      "adjectives": [
+        {
+          "description": "modal (comparative more modal, superlative most modal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of, or relating to a mode or modus.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Of, relating to, or describing the mood of a clause.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Of, relating to, or composed in the musical modi by which an octave is divided, associated with emotional moods in Ancient — and in medieval ecclesiastical — music.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Of, or relating to the modality between propositions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Relating to the statistical mode.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Having separate modes in which user input has different effects.",
+                  "examples": [
+                    "Antonym: modeless"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) Requiring immediate user interaction and thus presented so that it cannot be closed or interacted behind until a decision is made.",
+                  "examples": [
+                    "a modal dialog; a modal window",
+                    "Antonym: modeless"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(metaphysics) Relating to the form of a thing rather to any of its attributes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "modal (plural modals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A modal proposition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A modal form, notably a modal auxiliary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A modal verb.",
+                  "examples": [
+                    "Using the same type of distributional criterion, we could argue that only a Verb (in its base form) can occur in the position marked — in (23) below to complete the sentence:(23)     They/it can —[...]Conversely, the only type of word which could be used to begin a three-word sentence such as (25) below:(25)     — I be frank?is a Modal: cf. [...]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) A modal window, one that cannot be closed until a decision is made.",
+                  "examples": [
+                    "Modal screen elements are subtrees which, when activated, disable all elements external to them. Examples of modals are yes-no message boxes and the application itself."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
