@@ -1,0 +1,113 @@
+{
+  "word": "liquid",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English liquide, from Old French liquide, from Latin liquidus (“fluid, liquid, moist”), from liqueō (“to be liquid, be fluid”), ultimately from Proto-Indo-European *wleykʷ- (“to flow, run”). Doublet of liquidus. As a term for a consonant, it comes from Latin liquida (cōnsōnāns), a calque of Ancient Greek ὑγρὸν (σύμφωνον) (hugròn (súmphōnon), “liquid consonant”)."
+      ],
+      "adjectives": [
+        {
+          "description": "liquid (comparative more liquid, superlative most liquid)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Flowing freely like water; fluid; not solid and not gaseous; composed of particles that move freely among each other on the slightest pressure.",
+                  "examples": [
+                    "liquid nitrogen"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, of an asset) Easily sold or disposed of without losing value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, of a market) Having sufficient trading activity to make buying or selling easy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Flowing or sounding smoothly or without abrupt transitions or harsh tones.",
+                  "examples": [
+                    "a liquid melody"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonology) Belonging to a class of consonants comprised of the laterals and the rhotics, which in many languages behave similarly.",
+                  "examples": [
+                    "/l/ and /r/ are liquid consonants."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Fluid and transparent.",
+                  "examples": [
+                    "the liquid air"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "liquid (countable and uncountable, plural liquids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A substance that is flowing, and keeping no shape, such as water; a substance of which the molecules, while not tending to separate from one another like those of a gas, readily change their relative position, and which therefore retains no definite shape, except that determined by the containing receptacle; an inelastic fluid.",
+                  "examples": [
+                    "Coordinate terms: solid, gas",
+                    "Hyponyms: ideal liquid, non-ideal liquid"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) Any of a class of consonant sounds that includes l and r.",
+                  "examples": [
+                    "Hypernyms: approximant, consonant",
+                    "Coordinate term: glide"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
