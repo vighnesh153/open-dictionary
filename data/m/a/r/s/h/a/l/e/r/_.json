@@ -1,0 +1,41 @@
+{
+  "word": "marshaler",
+  "etymologies": [
+    {
+      "description": [
+        "marshal +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "marshaler (plural marshalers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A mechanism for marshalling data.",
+                  "examples": [
+                    "The CLR includes a marshaler that knows how to convert parameters and return values between .NET types and unmanaged types. In this example, the int parameters translate directly to 4-byte integers that the function expects  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who directs the movement of an aircraft between the runway and its parking stand at an airport.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
