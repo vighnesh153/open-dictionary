@@ -1,0 +1,57 @@
+{
+  "word": "modulate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin modulatus, past participle of modulari (“to measure, regulate, modulate”), from modulus (“measure”); see modulus. Compare module. Surface etymology: module +‎ -ate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "modulate (third-person singular simple present modulates, present participle modulating, simple past and past participle modulated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To regulate, adjust or adapt",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To change the pitch, intensity or tone of one's voice or of a musical instrument",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, electronics) to vary the amplitude, frequency or phase of a carrier wave in proportion to the amplitude etc of a source wave (such as speech or music)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, music) to move from one key or tonality to another, especially by using a chord progression",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
