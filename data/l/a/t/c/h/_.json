@@ -1,0 +1,143 @@
+{
+  "word": "latch",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English lacchen (“to seize, catch, grasp”, verb), from Old English læċċan (“to grasp, take hold of, catch, seize”), from Proto-Germanic *lakjaną, *lakwijaną, *lakkijaną (“to seize”), from Proto-Indo-European *(s)leh₂g-, *(s)leh₂gʷ- (“to take, seize”). Cognate with Middle Dutch lakken (“to grasp, catch”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "latch (third-person singular simple present latches, present participle latching, simple past and past participle latched or (obsolete) laught)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To close or lock as if with a latch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To catch; lay hold of.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English latche, lacche (“a latch; a trap”), from lacchen (“to seize, catch, grasp”), from Old English læċċan (“to grasp, take hold of, catch, seize”). See above for more."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "latch (plural latches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A fastening for a door that has a bar that fits into a notch or slot, and is lifted by a lever or string from either side.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) An electronic circuit that is like a flip-flop, except that it is level triggered instead of edge triggered.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A latching.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A crossbow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That which fastens or holds; a lace; a snare.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A breastfeeding baby's connection to the breast.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A lightweight lock to protect internal structures from being modified by multiple concurrent accesses.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Compare French lécher (“to lick”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "latch (third-person singular simple present latches, present participle latching, simple past and past participle latched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To smear; to anoint.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
