@@ -1,0 +1,30 @@
+{
+  "word": "loopback",
+  "etymologies": [
+    {
+      "description": [
+        "loop +‎ back"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "loopback (countable and uncountable, plural loopbacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The routing of a signal, data stream, etc. from its origin back to the origin, primarily as a means of testing the transmission or transportation infrastructure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
