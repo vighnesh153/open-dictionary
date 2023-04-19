@@ -1,0 +1,41 @@
+{
+  "word": "metatype",
+  "etymologies": [
+    {
+      "description": [
+        "meta- +‎ type"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "metatype (plural metatypes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) A topotype of a species which is confirmed as belonging to that species by the author who originally described it",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The type of a type.",
+                  "examples": [
+                    "Coordinate term: metaclass"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
