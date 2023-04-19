@@ -1,0 +1,202 @@
+{
+  "word": "narrow",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English narow, narowe, narewe, narwe, naru, from Old English nearu (“narrow, strait, confined, constricted, not spacious, limited, petty; limited, poor, restricted; oppressive, causing anxiety (of that which restricts free action of body or mind), causing or accompanied by difficulty, hardship, oppressive; oppressed, not having free action; strict, severe”), from Proto-Germanic *narwaz (“constricted, narrow”), from Proto-Indo-European *(s)ner- (“to turn, bend, twist, constrict”). Cognate with Scots naro, narow, narrow (“narrow”), North Frisian naar, noar, noor (“narrow”), Saterland Frisian noar (“bleak, dismal, meager, ghastly, unwell”), Saterland Frisian Naarwe (“scar”), West Frisian near (“narrow”),  Dutch naar (“dismal, bleak, ill, sick”), Low German naar (“dismal, ghastly”), German Nehrung (“spit, narrow peninsula”), Norwegian norve (“a clip, staple”), Icelandic njörva- (“narrow-”, in compounds)."
+      ],
+      "adjectives": [
+        {
+          "description": "narrow (comparative narrower, superlative narrowest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having a small width; not wide; having opposite edges or sides that are close, especially by comparison to length or depth.",
+                  "examples": [
+                    "a narrow hallway"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of little extent; very limited; circumscribed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Restrictive; without flexibility or latitude.",
+                  "examples": [
+                    "a narrow interpretation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Contracted; of limited scope; bigoted",
+                  "examples": [
+                    "a narrow mind",
+                    "narrow views"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having a small margin or degree.",
+                  "examples": [
+                    "a narrow escape",
+                    "The Republicans won by a narrow majority."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Limited as to means; straitened",
+                  "examples": [
+                    "narrow circumstances"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Parsimonious; niggardly; covetous; selfish.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Scrutinizing in detail; close; accurate; exact.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) Formed (as a vowel) by a close position of some part of the tongue in relation to the palate; or (according to Bell) by a tense condition of the pharynx; distinguished from wide.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "narrow (plural narrows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly in the plural) A narrow passage, especially a contracted part of a stream, lake, or sea; a strait connecting two bodies of water.",
+                  "examples": [
+                    "the narrows of New York harbor"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English narwen (“to narrow”); see there for more details, but ultimately derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "narrow (third-person singular simple present narrows, present participle narrowing, simple past and past participle narrowed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reduce in width or extent; to contract.",
+                  "examples": [
+                    "We need to narrow the search."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To get narrower.",
+                  "examples": [
+                    "The road narrows."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a person or eyes) To partially lower one's eyelids in a way usually taken to suggest a defensive, aggressive or penetrating look.",
+                  "examples": [
+                    "He stepped in front of me, narrowing his eyes to slits.",
+                    "She wagged her finger in his face, and her eyes narrowed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(knitting) To contract the size of, as a stocking, by taking two stitches into one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To convert to a data type that cannot hold as many distinct values.",
+                  "examples": [
+                    "Antonym: widen",
+                    "to narrow an int variable to a short variable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
