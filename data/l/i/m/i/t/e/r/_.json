@@ -1,0 +1,50 @@
+{
+  "word": "limiter",
+  "etymologies": [
+    {
+      "description": [
+        "limit +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "limiter (plural limiters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which limits or confines.",
+                  "examples": [
+                    "The limiter automatically put on the brakes to keep the machine from going too fast."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A circuit that allows signals below a specified input threshold to pass unaffected while attenuating the peaks of stronger signals.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A friar who had a license to beg within certain bounds.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
