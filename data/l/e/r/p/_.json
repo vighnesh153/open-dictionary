@@ -1,0 +1,77 @@
+{
+  "word": "lerp",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lerp (countable and uncountable, plural lerps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A sweet secretion, produced by the larvae of the family Psyllidae, that forms scales on eucalyptus leaves.",
+                  "examples": [
+                    "These insects sit on the veins of tree leaves, sucking their sap and excreting a sugary solution known as lerp."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of the lice whose larvae produce this secretion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lerp (plural lerps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) Abbreviation of linear interpolation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "lerp (third-person singular simple present lerps, present participle lerping, simple past and past participle lerped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) To interpolate linearly.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
