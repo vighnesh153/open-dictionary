@@ -1,0 +1,69 @@
+{
+  "word": "matching",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "matching (comparative better matching, superlative best matching)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The same as another; sharing the same design.",
+                  "examples": [
+                    "We bought a new sofa and matching armchairs."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "matching (plural matchings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process by which things are matched together or paired up.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A set of independent edges in a given graph, i.e. a set of edges which do not intersect, such that pairs of vertices are \"matched\" to each other one to one.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "matching",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of match",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
