@@ -1,19 +1,32 @@
-# open-dictionary
+<h1 style="text-align: center">🐶 Open Dictionary 🦄</h1>
 
-An initiative to create an **English** dictionary which is open to all and maintained by all
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vighnesh153/open-dictionary">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/vighnesh153/open-dictionary">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vighnesh153/open-dictionary">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/vighnesh153/open-dictionary">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vighnesh153/open-dictionary">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/vighnesh153/open-dictionary">
+  <img alt="License" src="https://img.shields.io/github/license/vighnesh153/open-dictionary" />
+</div>
 
-> This dictionary is only for the English language. Please don't create issues requesting to add other languages
+## Introduction
+
+A free simple-to-use **English** dictionary for everyone.
 
 ## How to use?
 
-### GitHub server (**RECOMMENDED**)
+### GitHub URL (**RECOMMENDED**)
 
 * Break your word into single letters and create a `/`-separated path
 * Prefix the path with `https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/`
 * Suffix the path with `/_.json`
 
+#### Example
+
+For fetching the definition of `apple`
+
 ```txt
-// Example: For getting the definition of "apple"
 https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/a/p/p/l/e/_.json
 ```
 
@@ -21,8 +34,8 @@ https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/a/p/p/l/
 
 Pass your word to this url as a search parameter: `https://open-dictionary.vighnesh153.workers.dev/?word=<your-word>`
 
+#### Examples
 ```txt
-# Examples
 https://open-dictionary.vighnesh153.workers.dev/?word=apple
 https://open-dictionary.vighnesh153.workers.dev/?word=banana
 ```
@@ -30,16 +43,21 @@ https://open-dictionary.vighnesh153.workers.dev/?word=banana
 > Note: This approach is not recommended because this worker has a free limit of 100K requests per day. If a lot of
 > people are using this, then your application might hit a downtime if the threshold is breached
 
-## Why?
+## Why does this exist?
 
-- No other free API
-- No other reliable source as an API
-- No other easy-to-use API
-- GitHub's servers are more reliable than a custom host managed by a small group of people without any funding
+- No other free API for getting English definitions of a word
+- No other reliable (trusted) source as an API
+- No reliable server
+
+## How does this solve the above-mentioned problems?
+
+- This is a free repository
+- This repository is more reliable because everyone can see the definitions as code. This offers transparency and trust for developers.
+- GitHub's servers are more reliable than a custom server managed by a small group of people without any funding
 
 ## Missing word?
 
-If a word is missing, you can either
+Found a word which is not available in this repository?
 
 * Create an issue specifying which word is missing
 * It would be more awesome if you could also raise a PR for the issue
@@ -51,6 +69,7 @@ Checkout the [Contributions](#contributions) section.
 A simple search on wiktionary. For example:
 
 - Apple: https://en.wiktionary.org/wiki/apple
+- Banana: https://en.wiktionary.org/wiki/running
 - Running: https://en.wiktionary.org/wiki/running
 
 ## Type Definition (API Contract)
@@ -102,4 +121,3 @@ https://dictionaryapi.dev/ is an excellent tool for getting the word definitions
   [undocumented Google API](https://github.com/meetDeveloper/freeDictionaryAPI/blob/239fd2ec930eb2a9c947bf1dda84292290797003/modules/dictionary.js#L138-L142)
   to fetch the definition and the Google API looks very fragile. If Google decides to change the output, the Author's
   API will break or return malformed response.
-- Author parses the free text in a type unsafe manner which is dangerous and difficult to debug
