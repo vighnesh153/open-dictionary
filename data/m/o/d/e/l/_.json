@@ -1,0 +1,230 @@
+{
+  "word": "model",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French modelle, from Old Italian modello, from Vulgar Latin *modellus, diminutive form of modulus (“measure, standard”), diminutive of modus (“measure”); see mode, and compare module, modulus, mould, mold."
+      ],
+      "adjectives": [
+        {
+          "description": "model (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Worthy of being a model; exemplary.",
+                  "examples": [
+                    "[...] from the land of your origin, because you demand the claims of those who believe it more model than yours, [...]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "model (plural models)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing.",
+                  "examples": [
+                    "The beautiful model had her face on the cover of almost every fashion magazine imaginable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person, usually an attractive male or female that is hired to show items or goods to the public, such as items that are given away as prizes on a TV game show.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A representation of a physical object, usually in miniature.",
+                  "examples": [
+                    "The boy played with a model of a World War II fighter plane."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A simplified representation used to explain the workings of a real world system or event.",
+                  "examples": [
+                    "The computer weather model did not correctly predict the path of the hurricane."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A style, type, or design.",
+                  "examples": [
+                    "He decided to buy the turbo engine model of the sports car.",
+                    "This year's model features four doors instead of two."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The structural design of a complex system.",
+                  "examples": [
+                    "The team developed a sound business model."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A successful example to be copied, with or without modifications.",
+                  "examples": [
+                    "He was a model of eloquence and virtue.",
+                    "British parliamentary democracy was seen as a model for other countries to follow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An interpretation function which assigns a truth value to each atomic proposition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An interpretation which makes a set of sentences true, in which case that interpretation is called a model of that set.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) An animal that is used to study a human disease or pathology.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any copy, or resemblance, more or less exact.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software architecture) In software applications using the model-view-controller design pattern, the part or parts of the application that manage the data.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "model (third-person singular simple present models, present participle (UK) modelling or (US) modeling, simple past and past participle (UK) modelled or (US) modeled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to display for others to see, especially in regard to wearing clothing while performing the role of a fashion model",
+                  "examples": [
+                    "She modelled the shoes for her friends to see."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to use as an object in the creation of a forecast or model",
+                  "examples": [
+                    "They modelled the data with a computer to analyze the experiment’s results."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to make a miniature model of",
+                  "examples": [
+                    "He takes great pride in his skill at modeling airplanes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to create from a substance such as clay",
+                  "examples": [
+                    "The sculptor modelled the clay into the form of a dolphin."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) to make a model or models",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) to work as a model in art or fashion",
+                  "examples": [
+                    "The actress used to model before being discovered by Hollywood."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

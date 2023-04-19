@@ -1,0 +1,39 @@
+{
+  "word": "modeless",
+  "etymologies": [
+    {
+      "description": [
+        "mode +‎ -less"
+      ],
+      "adjectives": [
+        {
+          "description": "modeless (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Not modal; not having separate modes in which user input has different effects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) Not modal; not requiring immediate user interaction and thus allowing interaction with other widgets.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
