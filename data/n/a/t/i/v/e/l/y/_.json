@@ -1,0 +1,43 @@
+{
+  "word": "natively",
+  "etymologies": [
+    {
+      "description": [
+        "native +‎ -ly"
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "natively (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In the manner of a native, especially a native speaker",
+                  "examples": [
+                    "He spoke French natively, having been born there, and English almost as well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of software) Pertaining to the computer or architecture in question; without the use of emulation, etc.",
+                  "examples": [
+                    "This is a Microsoft Windows application, so you can't run it natively on an Apple Mac."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
