@@ -1,0 +1,30 @@
+{
+  "word": "metacircularity",
+  "etymologies": [
+    {
+      "description": [
+        "meta- +‎ circularity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "metacircularity (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) The property of an interpreter that is written in the same programming language that it interprets, and that exploits homoiconicity to reuse the existing facilities of the parent interpreter rather than reimplementing them.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
