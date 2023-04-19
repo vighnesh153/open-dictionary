@@ -1,0 +1,41 @@
+{
+  "word": "mediant",
+  "etymologies": [
+    {
+      "description": [
+        "From Italian mediante, from Latin mediānt- (“being in the middle”), present active participle of mediō (“I am in the middle”), from medius (“middle”), from Proto-Italic *meðios, from Proto-Indo-European *medʰyo- (“between”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mediant (plural mediants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The third degree of the diatonic scale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A rational number whose numerator is the sum of the numerators of two other given rational numbers and whose denominator is the sum of the denominators of those same two other rational numbers.",
+                  "examples": [
+                    "For any tangent pair of Ford circles corresponding to rational numbers r and s, the Ford circle tangent to both of them corresponds to the rational number which is the mediant of r and s."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "word": "median",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French median, from Latin mediānus (“of or pertaining to the middle”, adjective), from medius (“middle”) (see medium), from Proto-Indo-European *médʰyos (“middle”). Doublet of mean and mizzen. Cognate with Old English midde, middel (“middle”). More at middle."
+      ],
+      "adjectives": [
+        {
+          "description": "median (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) Situated in a middle, central, or intermediate part, section, or range of (something). [from 16th c.]",
+                  "examples": [
+                    "Coordinate terms: medial, mesial"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy, botany) In the middle of an organ, structure etc.; towards the median plane of an organ or limb. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Having the median as its value. [from 19th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "median (plural medians)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy, now rare) A central vein or nerve, especially the median vein or median nerve running through the forearm and arm. [from 15th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A line segment joining the vertex of triangle to the midpoint of the opposing side.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A number separating the higher half from the lower half of a data sample, population, or probability distribution. The median of a finite list of numbers can be found by arranging all the observations from lowest value to highest value and picking the middle one (e.g., the median of {3, 3, 5, 9, 11} is 5). If there is an even number of observations, then there is no single middle value; the median is then usually defined to be the mean of the two middle values. [from 19th c.]",
+                  "examples": [
+                    "Coordinate terms: medial, mean, average"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) The area separating two lanes of opposite-direction traffic; the median strip. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
