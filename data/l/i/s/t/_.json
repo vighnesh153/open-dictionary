@@ -1,0 +1,413 @@
+{
+  "word": "list",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English lī̆st, lī̆ste (“band, stripe; hem, selvage; border, edge, rim; list, specification; barriers enclosing area for jousting, etc.”), from Old English līste (“hem, edge, strip”), or Old French liste, listre (“border; band; strip of paper; list”), or Medieval Latin lista, all from Proto-West Germanic *līstā, from Proto-Germanic *līstǭ (“band, strip; hem, selvage; border, edge”), possibly from Proto-Indo-European *leys- (“to trace, track”). The word is cognate with Saterland Frisian Lieste (“margin, strip, list”), Dutch lijst (“picture frame, list”), German Low German Liest (“edging, border”), German Leiste (“strip, rail, ledge; (heraldry) bar”), Swedish lista (“list”), Icelandic lista, listi (“list”),  Italian lista (“list; strip”), Portuguese lista (“list”), Spanish lista (“list, roll; stripe”), Galician lista (“band, strip; list”), Finnish lista (“(informal) list; batten”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "list (plural lists)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A strip of fabric, especially from the edge of a piece of cloth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Material used for cloth selvage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A register or roll of paper consisting of a compilation or enumeration of a set of possible items; the compilation or enumeration itself. [from 1600]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in the plural, historical) The barriers or palisades used to fence off a space for jousting or tilting tournaments.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in the plural, military, historical) The scene of a military contest; the ground or field of combat; an enclosed space that serves as a battlefield; the site of a pitched battle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A codified representation of a list used to store data or in processing; especially, in the Lisp programming language, a data structure consisting of a sequence of zero or more items.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A little square moulding; a fillet or listel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(carpentry) A narrow strip of wood, especially sapwood, cut from the edge of a board or plank.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ropemaking) A piece of woollen cloth with which the yarns are grasped by a worker.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(tin-plate manufacture) The first thin coating of tin; a wire-like rim of tin left on an edge of the plate after it is coated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A stripe.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A boundary or limit; a border.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "list (third-person singular simple present lists, present participle listing, simple past and past participle listed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To create or recite a list.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place in listings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To sew together, as strips of cloth, so as to make a show of colours, or to form a border.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover with list, or with strips of cloth; to put list on; to stripe as if with list.",
+                  "examples": [
+                    "to list a door"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, agriculture) To plough and plant with a lister.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, agriculture, chiefly Southern US) To prepare (land) for a cotton crop by making alternating beds and alleys with a hoe.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, carpentry) To cut away a narrow strip, as of sapwood, from the edge of.",
+                  "examples": [
+                    "to list a board"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military) To enclose (a field, etc.) for combat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To engage a soldier, etc.; to enlist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To engage in public service by enrolling one's name; to enlist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To give a building of architectural or historical interest listed status; see also the adjective listed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English list, liste (“ability, cleverness, cunning, skill; adroitness, dexterity; strategem, trick; device, design, token”), from Old English list (“art, craft; cleverness, cunning, experience, skill”), from Proto-West Germanic *listi, from Proto-Germanic *listiz (“art, craft”), from Proto-Indo-European *leys-, *leyǝs- (“furrow, trace, track, trail”). The word is cognate with Dutch list (“artifice, guile, sleight; ruse, strategem”), German List (“cunning, guile; ploy, ruse, trick”), Low German list (“artifice, cunning; prudence, wisdom”), Icelandic list (“art”), Saterland Frisian list (“cunning, knowledge”), Scots list (“art, craft, skill; cunning”), Swedish list (“art; cunning, guile, wile; ruse, trick; stealth”), and possibly Spanish listo (“clever”). It is also related to learn, lore."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "list (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Art; craft; cunning; skill.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English listen, from Old English hlystan (“to listen”), from hlyst (“hearing”), from Proto-West Germanic *hlusti, from Proto-Germanic *hlustiz (“hearing”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "list (third-person singular simple present lists, present participle listing, simple past and past participle list)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, poetic) To listen.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, poetic) To listen to.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English listen, list, liste, leste, lesten (“to choose, desire, wish (to do something)”), from Old English lystan, from Proto-West Germanic *lustijan, from Proto-Germanic *lustijaną, from Proto-Germanic *lustuz (“pleasure”). The word is cognate with Saterland Frisian läste (“to wish for, desire, crave”), West Frisian lêste (“to like, desire”), Dutch lusten (“to appreciate, like; to lust”), German lüsten, gelüsten (“to desire, want, crave”), Danish lyste (“to desire, feel like, want”), Faroese lysta (“to desire”).",
+        "The noun sense is from the verb, or from Middle English list, liste, lest, leste (“desire, wish; craving, longing; enjoyment, joy, pleasure”), which is derived from Middle English listen, list (verb)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "list",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Desire, inclination.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "list (third-person singular simple present lists, present participle listing, simple past and past participle listed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To be pleasing to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To desire, like, or wish (to do something).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Uncertain; possibly from tilting on lists in jousts, or from Etymology 4 in the sense of inclining towards what one desires."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "list (plural lists)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A tilt to a building.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A careening or tilting to one side, usually not intentionally or under a vessel's own power. [from early 17th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "list (third-person singular simple present lists, present participle listing, simple past and past participle listed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, nautical) To cause (something) to tilt to one side. [from early 17th c.]",
+                  "examples": [
+                    "the steady wind listed the ship"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, nautical) To tilt to one side. [from early 17th c.]",
+                  "examples": [
+                    "the ship listed to port"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
