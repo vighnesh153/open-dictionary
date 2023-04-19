@@ -1,0 +1,45 @@
+{
+  "word": "lex",
+  "etymologies": [
+    {
+      "description": [
+        "From lexical analysis, from lexical."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lex (plural lexes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A specific inflected form of a word; compare lexeme.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "lex (third-person singular simple present lexes, present participle lexing, simple past and past participle lexed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To perform lexical analysis; to convert a character stream to a token stream as a preliminary to parsing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

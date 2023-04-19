@@ -1,0 +1,51 @@
+{
+  "word": "lexeme",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin lexis, from Ancient Greek λέξις (léxis, “word”)  +‎ -eme, a suffix indicating a fundamental unit in some aspect of linguistic structure. Extracted from phoneme, from Ancient Greek φώνημα (phṓnēma, “sound”), from φωνέω (phōnéō, “to sound”), from φωνή (phōnḗ, “sound”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lexeme (plural lexemes)",
+          "definitionGroups": [
+            {
+              "group": "(linguistics) A lexical item corresponding to the set of all words (or of all multi-word expressions) that are semantically related through inflection of a particular shared basic form.",
+              "entries": [
+                {
+                  "meaning": "(strictly) The abstract minimum unit of language or meaning that underlies such a set.",
+                  "examples": [
+                    "Synonyms: lexical item, semanteme"
+                  ]
+                },
+                {
+                  "meaning": "(loosely) The set itself; a lexemic family.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(loosely) The word-form chosen to represent such a set or family.",
+                  "examples": [
+                    "Synonyms: base form, basic form, canonical form, citation form, dictionary form, headword, lemma"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An individual instance of a continuous character sequence without spaces, used in lexical analysis (see token).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
