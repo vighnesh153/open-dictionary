@@ -1,0 +1,56 @@
+{
+  "word": "moniker",
+  "etymologies": [
+    {
+      "description": [
+        "Unknown, first attested 1849. Suggested derivations are:",
+        "Online Etymological Dictionary's entry cites in 1857, the Saturday Review (London newspaper) noted, \"the word has a certain Coptic or Egyptian twang\"."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "moniker (plural monikers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A personal name or nickname; an informal label, often drawing attention to a particular attribute.",
+                  "examples": [
+                    "Synonyms: byname, nickname, pseudonym, sobriquet, street name, to-name; see also Thesaurus:name",
+                    "The rookie was upset at being called Lemon Drop until she realized that everyone on the team had a silly moniker."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person's signature.",
+                  "examples": [
+                    "Synonym: tag"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An object (structured item of data) used to associate the name of an object with its location.",
+                  "examples": [
+                    "Monikers are often composed from other monikers to allow object hierarchies to be navigated based on a textual description of a path."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
