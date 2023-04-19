@@ -1,0 +1,110 @@
+{
+  "word": "marshal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English marschal, from Anglo-Norman mareschal (“farrier; military commander”), from  Medieval Latin mariscalcus (“groom, army commander, court dignitary”), either from Frankish *marhaskalk, or Old High German marah-scalc (“horse-servant”), from Proto-Germanic *marhaz + *skalkaz (whence Old Saxon maraskalk, marahscalc). Compare English mare + shalk."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "marshal (plural marshals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A high-ranking officer in the household of a medieval prince or lord, who was originally in charge of the cavalry and later the military forces in general.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A military officer of the highest rank in several countries, including France and the former Soviet Union; equivalent to a general of the army in the United States. See also field marshal.",
+                  "examples": [
+                    "Where stands Marshal Chiang Kai-shek in this conflict of opinion concerning the tactics which China should adopt towards the aggressor? Chiang Kai-shek, according to officials who know his mind with whom I have talked, is all for resistance- as soon as he thinks he can win!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person in charge of the ceremonial arrangement and management of a gathering.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A federal lawman.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "marshal (third-person singular simple present marshals, present participle marshalling or marshaling, simple past and past participle marshalled or marshaled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To arrange (troops, etc.) in line for inspection or a parade.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) To arrange (facts, etc.) in some methodical order.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To ceremoniously guide, conduct or usher.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To gather data for transmission.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To serialize an object into a marshalled state represented by a sequence of bytes that can later be converted back into an object with equivalent properties.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
