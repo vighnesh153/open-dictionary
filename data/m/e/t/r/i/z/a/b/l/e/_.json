@@ -1,0 +1,39 @@
+{
+  "word": "metrizable",
+  "etymologies": [
+    {
+      "description": [
+        "metrize +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "metrizable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "measurable, quantifiable",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) Of a topological space: for which a metric exists that will induce the original topology.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
