@@ -1,0 +1,126 @@
+{
+  "word": "lathe",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English lathen, from Old English laþian (“to invite, summon, call upon, ask”), from Proto-West Germanic *laþōn, from Proto-Germanic *laþōną (“to invite”), from Proto-Indo-European *lēy- (“to want, desire”). Cognate with German laden (“to invite”), Icelandic laða (“to attract”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "lathe (third-person singular simple present lathes, present participle lathing, simple past and past participle lathed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, UK dialectal) To invite; bid; ask.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English *lath, from Old English lǣþ (“a division of a county containing several hundreds, a district, lathe”), from Proto-West Germanic *lāþ."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lathe (plural lathes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) An administrative division of the county of Kent, in England, from the Anglo-Saxon period until it fell entirely out of use in the early twentieth century.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English lath (“turning-lathe; stand”), from Old Norse hlað (“pile, heap”)—compare dialectal Danish lad (“stand, support frame”) (as in drejelad (“turning-lathe”), savelad (“saw bench”)), dialectal Norwegian la, lad (“pile, small wall”), dialectal Swedish lad (“folding table, lay of a loom”)—from hlaða (“to load”). More at lade."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lathe (plural lathes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(tools, metalworking, woodworking) A machine tool used to shape a piece of material, or workpiece, by rotating the workpiece against a cutting tool.",
+                  "examples": [
+                    "Hypernym: machine tool",
+                    "Coordinate term: see types of machine tools",
+                    "He shaped the bedpost by turning it on a lathe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(weaving) The movable swing frame of a loom, carrying the reed for separating the warp threads and beating up the weft; a lay, or batten.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A granary; a barn.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "lathe (third-person singular simple present lathes, present participle lathing, simple past and past participle lathed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To shape with a lathe.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) To produce a three-dimensional model by rotating a set of points around a fixed axis.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
