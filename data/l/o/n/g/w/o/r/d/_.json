@@ -1,0 +1,30 @@
+{
+  "word": "longword",
+  "etymologies": [
+    {
+      "description": [
+        "long +‎ word"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "longword (plural longwords)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A type of unsigned integer variable that is longer than a word (specific number of bits depends upon architecture)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
