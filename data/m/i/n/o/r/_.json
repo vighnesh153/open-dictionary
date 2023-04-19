@@ -1,0 +1,308 @@
+{
+  "word": "minor",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English minor, menor, menour, etc., from Latin minor (“lesser; young; young person”) both directly and via Norman and Middle French menor, menour, etc. Doublet of minus but not mini-. Cognate with minister, minify, Minorca, Menshevik, and possibly minnow. Compare Latin minimum and minuō, Old High German minniro, Cornish minow."
+      ],
+      "adjectives": [
+        {
+          "description": "minor (comparative more minor, superlative most minor)",
+          "definitionGroups": [
+            {
+              "group": "Lesser, smaller in importance, size, degree, seriousness, or significance compared to another option, particularly:",
+              "entries": [
+                {
+                  "meaning": "(law) Underage, not having reached legal majority.",
+                  "examples": [
+                    "The defendant resides at 123 Fake Street with his partner and two minor children."
+                  ]
+                },
+                {
+                  "meaning": "(medicine, sometimes figurative) Not serious, not involving risk of death, permanent injury, dangerous surgery, or extended hospitalization.",
+                  "examples": [
+                    "We now know on authority of Dr. Briggs that every case of vaccination is \"a minor case of smallpox,\" and that every such case of smallpox \"should be carefully watched until all danger is passed\"."
+                  ]
+                },
+                {
+                  "meaning": "(music) Smaller by a diatonic semitone than the equivalent major interval.",
+                  "examples": [
+                    "...a certaine Fraction, which may be the difference betwixt a Tone major and a Tone minor, which we nominate a Schism..."
+                  ]
+                },
+                {
+                  "meaning": "(music) Incorporating a minor third interval above the (in scales) tonic or (in chords) root note, (also figurative) tending to produce a dark, discordant, sad, or pensive effect.",
+                  "examples": [
+                    "The minor mode of D is tender."
+                  ]
+                },
+                {
+                  "meaning": "(Canada, US, education) Of or related to a minor, a secondary area of undergraduate study.",
+                  "examples": [
+                    "The minor requirements only involve about 20 hours of classes."
+                  ]
+                },
+                {
+                  "meaning": "(mathematics) Of or related to a minor, a determinate obtained by deleting one or more rows and columns from a matrix.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(logic) Acting as the subject of the second premise of a categorical syllogism, which then also acts as the subject of its conclusion.",
+                  "examples": [
+                    "The minor term of John Stuart Mill's famous syllogism—usually mistakenly credited to Aristotle—is Socrates; the major term is mortal."
+                  ]
+                },
+                {
+                  "meaning": "(UK, dated) The younger of two pupils with the same surname.",
+                  "examples": [
+                    "He whipt her with a foxes taile, Barnes minor,And he whipt her with a foxes taile, Barnes maior."
+                  ]
+                },
+                {
+                  "meaning": "(music, historical) Of or related to the relationship between the longa and the breve in a score.",
+                  "examples": [
+                    "The minor perfect mode was marked by one single line which crossed three spaces, and the longue was equal to three breves... The minor imperfect mode was marked by a line which crossed two spaces only, and its longue was equal only to two breves."
+                  ]
+                },
+                {
+                  "meaning": "(music, historical) Having semibreves twice as long as a minim.",
+                  "examples": [
+                    "Josquin works in minor prolation—that is, works in which the signature indicates that a semibreve is equal to two minims, often have a 3 as a medial signature for a few measures, indicating that until the 3 is canceled by the reappearance of a sign for minor prolation, there are to be 3 minims to a semibreve."
+                  ]
+                },
+                {
+                  "meaning": "(politics, obsolete) Of or related to a minority party.",
+                  "examples": [
+                    "...that the Minor part of the Lords might joyn with the Major part of the House of Commons..."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "minor (plural minors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A child, a person who has not reached the age of majority, consent, etc. and is legally subject to fewer responsibilities and less accountability and entitled to fewer legal rights and privileges.",
+                  "examples": [
+                    "King Richard the second... for the first tenne yeares of his raigne, was a Minor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A lesser person or thing, a person, group, or thing of minor rank or in the minor leagues.",
+                  "examples": [
+                    "Mr Gloss'em, who is a shining character in the theatrical world, at least among the minors of the metropolis."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Ellipsis of minor interval, scale, mode, key, chord, triad, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, US, education) A formally recognized secondary area of undergraduate study, requiring fewer course credits than the equivalent major.",
+                  "examples": [
+                    "I got a minor in English Lit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, US, education, uncommon) A person who is completing or has completed such a course of study.",
+                  "examples": [
+                    "I became an English minor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A determinant of a square matrix obtained by deleting one or more rows and columns.",
+                  "examples": [
+                    "...the whole of a system of rth minors being zero..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Catholicism) Alternative letter-case form of Minor: a Franciscan friar, a Clarist nun.",
+                  "examples": [
+                    "He... to þe menours ordre went"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Ellipsis of minor term or minor premise.",
+                  "examples": [
+                    "And so musten oure clerkis argue whan þai aleggen for her lordeschip þe lyuynge of her patrons & sayntis, & sayen þus: \"Seynt thomas & seynt hwe & seynt Swiþune wer þus lordis, & in þis þai suyd cristis lyuynge & his lore; þerfor we may lefulli be þus lordis.\" And I wote wel þat gabriel schal blow his horne or þai han preuyd þe mynor; þat is, þat þes seyntes or patrons in þis suyden þe lore or þe life of ihesu criste."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball) Ellipsis of minor league: the lower level of teams.",
+                  "examples": [
+                    "It is certain that the major leagues must depend upon the minors for their recruits."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ice hockey) Ellipsis of minor penalty: a penalty requiring a player to leave the ice for 2 minutes unless the opposing team scores.",
+                  "examples": [
+                    "Penalties... First Period... all minors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australian football) Synonym of behind: a one-point kick.",
+                  "examples": [
+                    "Brown from a mark on the magazine wing put up the first minor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rugby, historical) Ellipsis of minor point: a lesser score formerly gained by certain actions.",
+                  "examples": [
+                    "At half-time the score was—one goal, three tries, and four minors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bridge) Ellipsis of minor suit; a card of a minor suit.",
+                  "examples": [
+                    "Many find it easier to remember 20 for Minors, 30 for Majors and 35 for No Trump."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(entomology) Any of various noctuid moths in Europe and Asia, chiefly in the Oligia and Mesoligia genera.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(entomology) A leaf-cutter worker ant intermediate in size between a minim and a media.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(campanology) Changes rung on six bells.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland law, obsolete) An adolescent, a person above the legal age of puberty but below the age of majority.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, rare, obsolete) Synonym of subtrahend, the amount subtracted from a number.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, rare, obsolete) The younger brother of a pupil.",
+                  "examples": [
+                    "Let my minor pass, you fellows!... Here, Chudleigh, just make room there."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "minor (third-person singular simple present minors, present participle minoring, simple past and past participle minored) (intransitive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Used in a phrasal verb: minor in.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
