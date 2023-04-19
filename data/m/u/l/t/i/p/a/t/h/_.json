@@ -1,0 +1,45 @@
+{
+  "word": "multipath",
+  "etymologies": [
+    {
+      "description": [
+        "multi- +‎ path"
+      ],
+      "adjectives": [
+        {
+          "description": "multipath (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Involving or pertaining to more than one path (route), as between nodes on a network or components in a computer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multipath (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) A wireless propagation phenomenon that results in a signal reaching the receiving antenna by two or more paths.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
