@@ -1,0 +1,39 @@
+{
+  "word": "multitask",
+  "etymologies": [
+    {
+      "description": [
+        "multi- +‎ task"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "multitask (third-person singular simple present multitasks, present participle multitasking, simple past and past participle multitasked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To schedule and execute multiple tasks (program) simultaneously; control being passed from one to the other using interrupts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively, of a person) To handle multiple tasks at once.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
