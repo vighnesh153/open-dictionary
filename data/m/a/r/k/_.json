@@ -1,0 +1,576 @@
+{
+  "word": "mark",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English mark, merk, merke, from Old English mearc (“mark, sign, line of division; standard; boundary, limit, term, border; defined area, district, province”), from Proto-West Germanic *marku, from Proto-Germanic *markō (“boundary; boundary marker”), from Proto-Indo-European *marǵ- (“edge, boundary, border”).",
+        "Cognate with Dutch mark, merk (“mark, brand”), German Mark (“mark; borderland”), Swedish mark (“mark, land, territory”), Icelandic mark (“mark, sign”), Latin margo (“edge, margin”), Persian مرز‎ (marz, “limit, boundary”), Sanskrit मर्या (maryā, “limit, mark, boundary”) and मार्ग (mārga, “mark, section”). Compare march."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mark (plural marks)",
+          "definitionGroups": [
+            {
+              "group": "(heading) Boundary, land within a boundary.",
+              "entries": [
+                {
+                  "meaning": "(obsolete) A boundary; a border or frontier. [9th–19th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) A boundary-post or fence. [13th–18th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "A stone or post used to indicate position and guide travellers. [from 14th c.]",
+                  "examples": [
+                    "I do remember a great thron in Yatton field near Bristow-way, against which Sir William Waller's men made a great fire and killed it. I think the stump remains, and was a mark for travellers."
+                  ]
+                },
+                {
+                  "meaning": "(archaic) A type of small region or principality. [from 18th c.]",
+                  "examples": [
+                    "There dwells Théoden son of Thengel, King of the Mark of Rohan."
+                  ]
+                },
+                {
+                  "meaning": "(historical) A common, or area of common land, especially among early Germanic peoples. [from 19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(heading) Characteristic, sign, visible impression.",
+              "entries": [
+                {
+                  "meaning": "An omen; a symptomatic indicator of something. [from 8th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "A characteristic feature. [from 16th c.]",
+                  "examples": [
+                    "A good sense of manners is the mark of a true gentleman."
+                  ]
+                },
+                {
+                  "meaning": "A visible impression or sign; a blemish, scratch, or stain, whether accidental or intentional. [from 9th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "A sign or brand on a person. [from 10th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "A written character or sign. [from 10th c.]",
+                  "examples": [
+                    "The font wasn't able to render all the diacritical marks properly."
+                  ]
+                },
+                {
+                  "meaning": "A stamp or other indication of provenance, quality etc. [from 11th c.]",
+                  "examples": [
+                    "With eggs, you need to check for the quality mark before you buy."
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) Resemblance, likeness, image. [14th–16th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "A particular design or make of an item (now usually with following numeral). [from 15th c.]",
+                  "examples": [
+                    "I am proud to present my patented travelator, mark two."
+                  ]
+                },
+                {
+                  "meaning": "A score for finding the correct answer, or other academic achievement; the sum of such points gained as out of a possible total. [from 19th c.]",
+                  "examples": [
+                    "What mark did you get in your history test?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(heading) Indicator of position, objective etc.",
+              "entries": [
+                {
+                  "meaning": "A target for shooting at with a projectile. [from 13th c.]",
+                  "examples": [
+                    "A skilfull archer ought first to know the marke he aimeth at, and then apply his hand, his bow, his string, his arrow and his motion accordingly."
+                  ]
+                },
+                {
+                  "meaning": "An indication or sign used for reference or measurement. [from 14th c.]",
+                  "examples": [
+                    "I filled the bottle up to the 500ml mark."
+                  ]
+                },
+                {
+                  "meaning": "The target or intended victim of a swindle, fixed game or con game. [from 18th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) The female genitals. [16th–18th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Rugby football, Australian rules football) A catch of the ball directly from a kick of 10 metres or more without having been touched in transit, resulting in a free kick. [from 19th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(sports) The line indicating an athlete's starting-point. [from 19th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "A score for a sporting achievement. [from 20th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "An official note that is added to a record kept about someone's behavior or performance.",
+                  "examples": [
+                    "A mark for tardiness or for absence is considered by most pupils a disgrace, and strenuous efforts are made to avoid such a mark."
+                  ]
+                },
+                {
+                  "meaning": "(cooking) A specified level on a scale denoting gas-powered oven temperatures. [from 20th c.]",
+                  "examples": [
+                    "Now put the pastry in at 450 degrees, or mark 8."
+                  ]
+                },
+                {
+                  "meaning": "(product design/engineering) The model number of a device; a device model.",
+                  "examples": [
+                    "The Mark I system had poor radar, and the Mark II was too expensive; regardless, most antiaircraft direction remained the responsibility of the Mark I Eyeball (as the jocular phrase calls it): that is, the operator's eye."
+                  ]
+                },
+                {
+                  "meaning": "Limit or standard of action or fact.",
+                  "examples": [
+                    "to be within the mark",
+                    "to come up to the mark"
+                  ]
+                },
+                {
+                  "meaning": "Badge or sign of honour, rank, or official station.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(archaic) Preeminence; high position.",
+                  "examples": [
+                    "patricians of mark",
+                    "a fellow of no mark"
+                  ]
+                },
+                {
+                  "meaning": "(logic) A characteristic or essential attribute; a differential.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(nautical) One of the bits of leather or coloured bunting placed upon a sounding line at intervals of from two to five fathoms. (The unmarked fathoms are called \"deeps\".)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(heading) Attention.",
+              "entries": [
+                {
+                  "meaning": "(archaic) Attention, notice. [from 15th c.]",
+                  "examples": [
+                    "His last comment is particularly worthy of mark."
+                  ]
+                },
+                {
+                  "meaning": "Importance, noteworthiness. (Generally in postmodifier “of mark”.) [from 16th c.]",
+                  "examples": [
+                    "in the short story of western flavor he was a pioneer of mark, the founder of a genre: probably no other writer is so significant in his field."
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) Regard; respect.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mark (third-person singular simple present marks, present participle marking, simple past and past participle marked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To put a mark on (something); to make (something) recognizable by a mark; to label or write on (something).",
+                  "examples": [
+                    "to mark a box or bale of merchandise",
+                    "to mark clothing with one's name"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To leave a mark (often an undesirable or unwanted one) on (something).",
+                  "examples": [
+                    "Synonyms: blemish, scar, scratch, stain",
+                    "See where this pencil has marked the paper.",
+                    "The floor was marked with wine and blood."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) To have a long-lasting negative impact on (someone or something).",
+                  "examples": [
+                    "The death of his wife, followed by months of being alone, had marked him with guilt and shame and had left an unbreaking loneliness on him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To create an indication of (a location).",
+                  "examples": [
+                    "She folded over the corner of the page to mark where she left off reading.",
+                    "Some animals mark their territory by urinating."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be an indication of (something); to show where (something) is located.",
+                  "examples": [
+                    "This monument marks the spot where Wolfe died.",
+                    "A bell marked the end of visiting hours.",
+                    "Synonyms: demonstrate, indicate, manifest, reveal, show, signal"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To indicate (something) in writing or by other symbols.",
+                  "examples": [
+                    "Prices are marked on individual items.",
+                    "In her Bible, the words of Christ were marked in red.",
+                    "Synonyms: display, show, write"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To create (a mark) on a surface.",
+                  "examples": [
+                    "Synonyms: draw, trace"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To celebrate or acknowledge (an event) through an action of some kind.",
+                  "examples": [
+                    "The national holiday is marked by fireworks.",
+                    "Synonyms: commemorate, solemnize"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of things) To identify (someone as a particular type of person or as having a particular role).",
+                  "examples": [
+                    "His courage and energy marked him as a leader."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of people) To assign (someone) to a particular category or class.",
+                  "examples": [
+                    "Synonyms: classify, mark out"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of people) To choose or intend (someone) for a particular end or purpose.",
+                  "examples": [
+                    "Synonyms: destine, mark out, target"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be a point in time or space at which something takes place; to accompany or be accompanied by (an event, action, etc.); to coincide with.",
+                  "examples": [
+                    "The creek marks the boundary between the two farms.",
+                    "That summer marked the beginning of her obsession with cycling.",
+                    "Synonyms: represent, see"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be typical or characteristic of (something).",
+                  "examples": [
+                    "Synonyms: characterize, typify"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To distinguish (one person or thing from another).",
+                  "examples": [
+                    "Despite their obvious differences these poets had a common view of life which marks them from their predecessors  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated except in the phrase \"mark my words\") To focus one's attention on (something or someone); to pay attention to, to take note of.",
+                  "examples": [
+                    "Synonyms: heed, listen to, look at, observe, watch",
+                    "Mark my words: that boy’s up to no good."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) To become aware of (something) through the physical senses.",
+                  "examples": [
+                    "Synonyms: hear, note, notice, observe, perceive, see"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To hold (someone) in one's line of sight.",
+                  "examples": [
+                    "I marked my man, standing on the catwalk, and waited to throw [my javelin] till he started to climb inboard before they rammed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To indicate the correctness of and give a score to (a school assignment, exam answers, etc.).",
+                  "examples": [
+                    "The teacher had to spend her weekend marking all the tests.",
+                    "Synonyms: grade, score"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To record that (someone) has a particular status.",
+                  "examples": [
+                    "to mark a student absent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To keep account of; to enumerate and register; to keep score.",
+                  "examples": [
+                    "to mark the points in a game of billiards or a card game"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) To follow a player not in possession of the ball when defending, to prevent them receiving a pass easily.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australian rules football) To catch the ball directly from a kick of 15 metres or more without having been touched in transit, resulting in a free kick.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(golf) To put a marker in the place of one's ball.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(singing) To sing softly, sometimes an octave lower than usual, in order to protect one's voice during a rehearsal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English mark, from Old English marc (“a denomination of weight (usu. half a pound), mark (money of account)”), from Proto-Germanic *marką (“mark, sign”), from Proto-Indo-European *marǵ- (“edge, boundary, border”). As a former German currency, a calque of German Mark. Cognate with Dutch mark (“mark”), Swedish mark (“a stamped coin”), Icelandic mörk (“a weight, usu. a pound, of silver or gold”). Doublet of markka."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mark (plural marks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A half pound, a traditional unit of mass equivalent to 226.8 g.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) Similar half-pound units in other measurement systems, chiefly used for gold and silver.",
+                  "examples": [
+                    "As a reward for his poetry, Athelstan gave Egil two more gold rings weighing a mark each, along with an expensive cloak that the king himself had worn."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A half pound, a former English and Scottish currency equivalent to 13 shillings and fourpence and notionally equivalent to a mark of sterling silver.",
+                  "examples": [
+                    "George, on receiving it, instantly rose from the side of one of them, and said, in the hearing of them all, ‘I will bet a hundred merks that is Drummond.’"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A former currency of Germany and West Germany.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) Other similar currencies notionally equal to a mark of silver or gold.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "An alternate form supposedly easier to pronounce while giving commands."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mark",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(imperative, marching) Alternative form of march.",
+                  "examples": [
+                    "Mark time, mark!",
+                    "Forward, mark!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
