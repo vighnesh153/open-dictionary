@@ -1,0 +1,32 @@
+{
+  "word": "minuend",
+  "etymologies": [
+    {
+      "description": [
+        "Latin minuendus (“something to be diminished”), gerundive of minuō (“decrease, diminish”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "minuend (plural minuends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) A number or quantity from which another is to be subtracted.",
+                  "examples": [
+                    "In the subtraction 10 − 4, 10 is the minuend and 4 is the subtrahend."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
