@@ -1,0 +1,81 @@
+{
+  "word": "metaphor",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French métaphore, from Latin metaphora, from Ancient Greek μεταφορά (metaphorá), from μεταφέρω (metaphérō, “I transfer, apply”), from μετά (metá, “with, across, after”) + φέρω (phérō, “I bear, carry”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "metaphor (countable and uncountable, plural metaphors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, rhetoric) The use of a word or phrase to refer to something other than its literal meaning, invoking an implicit similarity between the thing described and what is denoted by the word or phrase.",
+                  "examples": [
+                    "Coordinate term: simile (when the similarity is made explicit by the words like or as)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, rhetoric) A word or phrase used in such implied comparison.",
+                  "examples": [
+                    "A Metaphor may be changed into a Simile, and also into plain language, containing neither metaphor nor simile. Thus:",
+                    "Metaphor. — Idleness is the rust of the soul.",
+                    "Simile. — As rust is to iron, so is idleness to the soul, taking away its strength and power of resistance.",
+                    "Plain. — Idleness takes away from the soul its strength and power of resistance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, graphical user interface) The use of an everyday object or concept to represent an underlying facet of the computer and thus aid users in performing tasks.",
+                  "examples": [
+                    "desktop metaphor; wastebasket metaphor"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "metaphor (third-person singular simple present metaphors, present participle metaphoring, simple past and past participle metaphored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To use a metaphor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To describe by means of a metaphor.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
