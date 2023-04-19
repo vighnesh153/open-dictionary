@@ -1,0 +1,356 @@
+{
+  "word": "level",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English level, from Old French livel, liveau m, later nivel, niveau, from Latin libella f (“a balance, a level”), diminutive of libra f (“a balance, a level”); see libra, librate.",
+        "The verb is from Middle English levelen, from the noun."
+      ],
+      "adjectives": [
+        {
+          "description": "level (comparative leveler or leveller, superlative levelest or levellest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The same height at all places; parallel to a flat ground.",
+                  "examples": [
+                    "This table isn't quite level; see how this marble rolls off it?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "At the same height as some reference; constructed as level with.",
+                  "examples": [
+                    "We tried to hang the pictures so that the bottom of the frames were level with the dark line in the wallpaper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unvaried in frequency.",
+                  "examples": [
+                    "His pulse has been level for 12 hours."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unvaried in volume.",
+                  "examples": [
+                    "His voice has been unchanged. It has been level for 12 hours."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Calm.",
+                  "examples": [
+                    "He kept a level head under stress.",
+                    "He kept a level gaze."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In the same position or rank.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Straightforward; direct; clear.",
+                  "examples": [
+                    "a very plain and level account"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Well balanced; even; just; steady; impartial.",
+                  "examples": [
+                    "a level head; a level understanding"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) Of even tone; without rising or falling inflection; monotonic.",
+                  "examples": [
+                    "Intonation or tone is either level, rising, or falling, marked respectively"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Perpendicular to a gravitational force.",
+                  "examples": [
+                    "The earth's oceans remain level in relation to the pull of gravity."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "level (countable and uncountable, plural levels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tool for finding whether a surface is level, or for creating a horizontal or vertical line of reference.",
+                  "examples": [
+                    "Hand me the level so I can tell if this is correctly installed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A distance relative to a given reference elevation.",
+                  "examples": [
+                    "By the end of the day, we'd dug down to the level of the old basement floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Degree or amount.",
+                  "examples": [
+                    "The sound level is much too high; this hurts my ears.   We've reached a new level of success."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Achievement or qualification.",
+                  "examples": [
+                    "She achieved a high level of distinction."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) Distance from the root node of a tree structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) One of several discrete segments of a game, generally increasing in difficulty and representing different locations in the game world.",
+                  "examples": [
+                    "It took me weeks to get to level seven.   Watch out for the next level; the bad guys there are really overpowered.",
+                    "Synonyms: stage, zone, world"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(role-playing games, video games) A numeric value that quantifies a character, ability, or item's experience and power.",
+                  "examples": [
+                    "My half-orc barbarian reached fifth level before he was squashed by a troll."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A floor of a multi-storey building.",
+                  "examples": [
+                    "Take the elevator and get off at the promenade level."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain) An area of almost perfectly flat land.",
+                  "examples": [
+                    "The troops grow mutinous—the revenue fails—There’s something rotten in us—for the levelOf the State slopes, its very bases topple,The boldest turn their backs upon themselves!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Singapore, education) A school grade or year.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) One of the specific values which may be taken by a categorical variable.",
+                  "examples": [
+                    "The most common level of the colour variable is red. The other levels are blue and green."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "level (third-person singular simple present levels, present participle (US) leveling or levelling, simple past and past participle (US) leveled or levelled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To adjust so as to make as flat or perpendicular to the ground as possible.",
+                  "examples": [
+                    "You can level the table by turning the pads that screw into the feet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To destroy by reducing to ground level; to raze.",
+                  "examples": [
+                    "The hurricane leveled the forest."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(role-playing games, video games) To progress to the next level.",
+                  "examples": [
+                    "I levelled after defeating the dragon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To aim or direct (a weapon, a stare, an accusation, etc).",
+                  "examples": [
+                    "He levelled an accusation of fraud at the directors.  The hunter levels the gun before taking a shot."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To direct or impose (a penalty, fine, etc) at or upon (someone).",
+                  "examples": [
+                    "If the right of killing salmon belong exclusively to the King, and consequently to his donatories, why has not the Legislature secured the right by levelling penalties against such as should encroach upon it [...] ?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) To make the score of a game equal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) To bring to a common level or plane, in respect of rank, condition, character, privilege, etc.",
+                  "examples": [
+                    "to level all the ranks and conditions of men"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To adjust or adapt to a certain level.",
+                  "examples": [
+                    "to level remarks to the capacity of children"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually with \"with\") To speak honestly and openly with.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
