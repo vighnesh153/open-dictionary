@@ -1,0 +1,65 @@
+{
+  "word": "memo",
+  "etymologies": [
+    {
+      "description": [
+        "Clipping of memorandum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "memo (plural memos)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A short note; a memorandum.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A record of partial results that can be reused later without recomputation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "memo (third-person singular simple present memos, present participle memoing, simple past and past participle memoed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) To record something; to make a note of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) To send someone a note about something, for the record.",
+                  "examples": [
+                    "I made sure to memo him about the client's complaints."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
