@@ -1,0 +1,77 @@
+{
+  "word": "multigraph",
+  "etymologies": [
+    {
+      "description": [
+        "From multi- +‎ graph. Compare multiset."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multigraph (plural multigraphs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A set V (whose elements are called vertices or nodes), taken together with a multiset E, each of whose elements (called an edge or line) is a cardinality-two multisubset of V.",
+                  "examples": [
+                    "Synonym: pseudograph"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory, less commonly) A set V (as before), taken together with a multiset E, each of whose elements is a cardinality-two subset of V.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical, printing) A combined rotary typesetting and printing machine for office use. The type is transferred semi-automatically by means of keys from a type-supply drum to a printing drum. The printing may be done by means of an inked ribbon to print \"typewritten\" letters, or directly from inked type or a stereotype plate, as in a printing press.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A specific sequence of letters treated as a (phonemic) unit.",
+                  "examples": [
+                    "Synonym: pleongraph",
+                    "Hyponyms: digraph, trigraph, tetragraph"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "multigraph (third-person singular simple present multigraphs, present participle multigraphing, simple past and past participle multigraphed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical, transitive) To print using a multigraph machine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
