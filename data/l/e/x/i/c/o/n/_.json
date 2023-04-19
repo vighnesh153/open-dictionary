@@ -1,0 +1,93 @@
+{
+  "word": "lexicon",
+  "etymologies": [
+    {
+      "description": [
+        "Through Middle French or directly from New Latin lexicon, from Byzantine Greek λεξικόν (lexikón, “a lexicon, a dictionary”), ellipsis from Ancient Greek λεξικὸν βιβλίον (lexikòn biblíon, literally “a book of words”), from λεξικός (lexikós, “of words”), from λέξις (léxis, “a saying, speech, word”), from λέγω (légō, “to speak”), ultimately from Proto-Indo-European *leǵ- (“to gather, collect”).",
+        "Attested at least since 1583 (in William Fulke's A Defense of the Sincere and True Translations of the Holy Scriptures into the English tongue) in the sense 'a dictionary of a classical language'."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lexicon (plural lexica or lexicons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The vocabulary of a language.",
+                  "examples": [
+                    "Synonyms: word-hoard, word-stock"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(lexicography, linguistics) A dictionary that includes or focuses on lexemes.",
+                  "examples": [
+                    "Synonym: wordbook"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dictionary of Classical Greek, Hebrew, Latin, or Aramaic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The lexicology of a programming language. (Usually called lexical structure.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) Any dictionary.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The vocabulary used by or known to an individual. (Also called lexical knowledge.)",
+                  "examples": [
+                    "Coordinate term: idiolect"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A set of vocabulary specific to a certain subject.",
+              "entries": [
+                {
+                  "meaning": "A list thereof.",
+                  "examples": [
+                    "a baseball lexicon"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
