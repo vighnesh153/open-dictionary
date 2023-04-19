@@ -1,0 +1,45 @@
+{
+  "word": "ligand",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin ligandus, gerundive of ligo (“bind”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ligand (plural ligands)",
+          "definitionGroups": [
+            {
+              "group": "(chemistry) A molecule or moiety (ion, functional group, or radical) that binds to another chemical entity to form a larger complex; as, especially:",
+              "entries": [
+                {
+                  "meaning": "(coordination chemistry) Such an entity that binds to a central metal atom to form a coordination complex.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(biochemistry, physiology, pharmacology, medicine) Such an entity that forms a complex with a biomolecule to serve a biological purpose.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) A letter that orthography requires or allows to be ligated with one or more other letters to form a ligature, such as a in æ or o in œ.",
+                  "examples": [
+                    "Holonym: ligature"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
