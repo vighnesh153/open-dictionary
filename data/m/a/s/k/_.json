@@ -1,0 +1,400 @@
+{
+  "word": "mask",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French masque (“a covering to hide or protect the face”), from Italian maschera (“mask, disguise”), from (a byform of, see it for more) Medieval Latin masca, mascha, a borrowing of Proto-West Germanic *maskā from which English mesh is regularly inherited.",
+        "Replaced Old English grīma (“mask”), whence grime, and displaced non-native Middle English viser (“visor, mask”) borrowed from Old French viser, visier."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mask (plural masks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cover, or partial cover, for the face, used for disguise or protection.",
+                  "examples": [
+                    "a dancer's mask; a fencer's mask; a ball player's mask"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which disguises; a pretext or subterfuge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A festive entertainment of dancing or other diversions, where all wear masks; a masquerade.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person wearing a mask.",
+                  "examples": [
+                    "the mask that has the arm of the Indian queen"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A dramatic performance in which the actors wore masks and represented mythical or allegorical characters.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A grotesque head or face, used to adorn keystones and other prominent parts, to spout water in fountains, and the like.",
+                  "examples": [
+                    "Synonym: mascaron"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fortification) In a permanent fortification, a redoubt which protects the caponiere.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fortification) A screen for a battery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) The lower lip of the larva of a dragonfly, modified so as to form a prehensile organ.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(publishing, film) A flat covering used to block off an unwanted portion of a scene or image.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A pattern of bits used in bitwise operations; bitmask.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A two-color (black and white) bitmap generated from an image, used to create transparency in the image.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) The head of a fox, shown face-on and cut off immediately behind the ears.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) A social phenomenon where autistic people learn, practice, and perform certain behaviors and suppress others in order to appear more neurotypical.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mask (third-person singular simple present masks, present participle masking, simple past and past participle masked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover (the face or something else), in order to conceal the identity or protect against injury; to cover with a mask or visor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To disguise as something else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To conceal from view or knowledge; to cover; to hide.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military) To conceal; also, to intervene in the line of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military) To cover or keep in check.",
+                  "examples": [
+                    "to mask a body of troops or a fortess by a superior force, while some hostile evolution is being carried out"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To take part as a masker in a masquerade.",
+                  "examples": [
+                    "noble Gentilmen / who daunced & masked wt thes fayer ladyes & gentillwomen"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To wear a mask.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To disguise oneself, to be disguised in any way.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To conceal or disguise one's autism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to cover or shield a part of a design or picture in order to prevent reproduction or to safeguard the surface from the colors used when working with an air brush or painting",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To set or unset (certain bits, or binary digits, within a value) by means of a bitmask.",
+                  "examples": [
+                    "That is, the lower nibble (the 4 bits 1010 = A) has been masked to zero. This is because ANDing anything with a zero produces a zero, while ANDing any bit with a 1 leaves the bit unchanged […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To disable (an interrupt, etc.) by setting or unsetting the associated bit.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English maske, from Old English max, masċ (“net”), from Proto-West Germanic *maskā (“mesh, netting, mask”). Doublet of mesh and mask above."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mask (plural masks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "mesh",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK dialectal, Scotland) The mesh of a net; a net; net-bag.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English *mask, masch, from Old English māx, māsc (“mash”). Doublet of mash."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mask (plural masks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK dialectal) Mash.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mask (third-person singular simple present masks, present participle masking, simple past and past participle masked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, UK dialectal) To mash.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, UK dialectal) (brewing) To mix malt with hot water to yield wort.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Scotland dialectal) To be infused or steeped.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK dialectal, Scotland) To prepare tea in a teapot; alternative to brew.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English masken, short for *maskeren, malskren (“to bewilder; be confused, wander”). More at masker."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mask (third-person singular simple present masks, present participle masking, simple past and past participle masked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, UK dialectal) To bewilder; confuse.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
