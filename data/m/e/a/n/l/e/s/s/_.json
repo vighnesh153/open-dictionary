@@ -1,0 +1,41 @@
+{
+  "word": "meanless",
+  "etymologies": [
+    {
+      "description": [
+        "From mean +‎ -less."
+      ],
+      "adjectives": [
+        {
+          "description": "meanless (comparative more meanless, superlative most meanless)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Meaningless, lacking meaning.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable, mathematics) Having no (mathematical) mean, or having a mean of zero.",
+                  "examples": [
+                    "[…]  is stopped (\n  \n    \n      \n        \n          n\n          \n            k\n          \n        \n        =\n        0\n      \n    \n    {\\displaystyle n_{k}=0}\n  \n) if either the estimation error is within a \"dead zone\" (\n  \n    \n      \n        \n          |\n          \n            c\n            \n              k\n            \n          \n          |\n        \n        ≤\n        \n          |\n          \n            δ\n            \n              k\n              p\n            \n          \n          |\n        \n      \n    \n    {\\displaystyle \\left|c_{k}\\right|\\leq \\left|\\delta _{kp}\\right|}\n  \n), or the arrival data are meanless (\n  \n    \n      \n        \n          γ\n          \n            k\n          \n        \n        =\n        0\n      \n    \n    {\\displaystyle \\gamma _{k}=0}\n  \n)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
