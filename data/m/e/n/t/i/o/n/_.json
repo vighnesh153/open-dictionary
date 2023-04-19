@@ -1,0 +1,65 @@
+{
+  "word": "mention",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English mencioun, mention, from Old French mention, from Latin mentiōnem, accusative of mentiō (“a mention, calling to mind”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mention (plural mentions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A speaking or notice of anything, usually in a brief or cursory manner. Used especially in the phrase make mention of.",
+                  "examples": [
+                    "I will make mention of thy righteousness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, plural only) A social media feed, a list of replies or posts mentioning a person.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mention (third-person singular simple present mentions, present participle mentioning, simple past and past participle mentioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a short reference to something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy, linguistics) To utter a word or expression in order to refer to the expression itself, as opposed to its usual referent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
