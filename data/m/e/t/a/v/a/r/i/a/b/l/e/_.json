@@ -1,0 +1,32 @@
+{
+  "word": "metavariable",
+  "etymologies": [
+    {
+      "description": [
+        "meta- +‎ variable"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "metavariable (plural metavariables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A symbol or string of symbols belonging to a metalanguage and standing for elements of some object language.",
+                  "examples": [
+                    "If it is a programming language, it will almost always have its own notion of variables, and hence the distinction between object-language variables and metavariables is useful."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
