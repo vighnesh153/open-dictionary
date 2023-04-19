@@ -1,0 +1,47 @@
+{
+  "word": "multicast",
+  "etymologies": [
+    {
+      "description": [
+        "multiple broadcast"
+      ],
+      "adjectives": [
+        {
+          "description": "multicast (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a delegate) Having multiple targets, such that a call to the delegate triggers a call to each target.",
+                  "examples": [
+                    "The result is a new multicast delegate that invokes both of the original implementing methods."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multicast (plural multicasts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, networking) The simultaneous transmission of data to several destinations on a network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
