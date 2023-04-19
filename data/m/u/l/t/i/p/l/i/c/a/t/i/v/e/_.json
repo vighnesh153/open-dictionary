@@ -1,0 +1,65 @@
+{
+  "word": "multiplicative",
+  "etymologies": [
+    {
+      "description": [
+        "From 6th-century Latin multiplicativus, from Classical Latin multiplicāre (“to multiply”)."
+      ],
+      "adjectives": [
+        {
+          "description": "multiplicative (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to multiplication.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a function, etc.) Distributive over multiplication.",
+                  "examples": [
+                    "Matrix determinants are multiplicative; if \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n and \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n are square matrices of the same size, then \n  \n    \n      \n        \n          \n            det\n          \n        \n        (\n        A\n        B\n        )\n        =\n        \n          \n            det\n          \n        \n        (\n        A\n        )\n        \n        \n          \n            det\n          \n        \n        (\n        B\n        )\n      \n    \n    {\\displaystyle {\\mbox{det}}(AB)={\\mbox{det}}(A)\\,{\\mbox{det}}(B)}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) Having multiplication as an operator.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multiplicative (countable and uncountable, plural multiplicatives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A grammatical adverbial case in Finnish.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

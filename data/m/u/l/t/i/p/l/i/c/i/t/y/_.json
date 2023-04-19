@@ -1,0 +1,75 @@
+{
+  "word": "multiplicity",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin multiplicitas."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multiplicity (plural multiplicities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being made of multiple diverse elements.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The number of values for which a given condition holds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large indeterminate number.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering, UML) The number of instances that can occur on a given end of a relationship, including 0..1, 1, 0..* or *, and 1..*.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistical mechanics) The number of microstates associated with a given macrostate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) The condition of a single body/person displaying multiple distinct personas.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
