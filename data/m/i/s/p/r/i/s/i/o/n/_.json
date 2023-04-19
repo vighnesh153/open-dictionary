@@ -1,0 +1,87 @@
+{
+  "word": "misprision",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Middle English misprision, mesprision (“criminal offence or illegal action, especially one committed by a public official”) [and other forms], from Anglo-Norman misprision, mesprision, mesprison (“criminal offence or illegal action; error, mistake, specifically an error by a court”) [and other forms] (whence Late Latin mesprisio, misprisio), and Old French mesprison, from mespris (“contempt, disdain”) (modern French mépris) + -ion (suffix indicating a condition or state). Mespris is the past participle of mesprendre (“to misunderstand”), from mes- (prefix meaning ‘badly; wrongly’) + prendre (“to take”) (from Latin prēndere, the present active infinitive of prēndō, a variant of prehendō (“to seize, take”), ultimately from Proto-Indo-European *gʰed- (“to find; to seize, take; to hold”))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "misprision (countable and uncountable, plural misprisions)",
+          "definitionGroups": [
+            {
+              "group": "(law, chiefly historical)",
+              "entries": [
+                {
+                  "meaning": "(uncountable) Criminal neglect or wrongful execution of duty, especially by a public official; (countable) a specific instance of this.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(uncountable) In full misprision of felony or misprision of treason: originally, a less serious form of felony or treason; later, the crime of (intentionally) failing to give information about a felony or treason that one knows about; (countable) an instance of this.",
+                  "examples": [
+                    "misprision of heresy(literally, “the crime of failing to disclose heresy that one is aware of”)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(by extension)",
+              "entries": [
+                {
+                  "meaning": "(uncountable) Misinterpretation or misunderstanding; (countable) an instance of this; a mistake.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(uncountable) Incorrect or unfair suspicion; (countable) an instance of this.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From misprize (“to despise or hold in contempt; to undervalue”) +‎ -ion (suffix indicating a condition or state), probably influenced by misprision (etymology 1). Misprize is derived from Middle English mesprise, mespryse, from Anglo-Norman mespriser, Middle French mespriser, and Old French mesprisier, mesproisier (“to disdain, scorn; to despise, hate”) (modern French mépriser), from mes- (prefix meaning ‘badly; wrongly’) + priser, prisier (“to appraise, value”) (from Late Latin pretiāre, the present active infinitive of pretiō (“to consider valuable, esteem, prize, value”), Medieval Latin pretiō (“to appraise, assess, value”), from Latin pretium (“cost, price; value, worth”) (ultimately from Proto-Indo-European *per- (“before; in front; first”)) + -ō (suffix forming regular first-conjugation verbs))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "misprision (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Despising or holding in contempt; disdain, scorn.",
+                  "examples": [
+                    "Synonyms: (archaic) misprisal, (obsolete, rare) misprizement, (archaic) misprizing"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not seeing the value in something; undervaluing.",
+                  "examples": [
+                    "Synonym: (archaic) misprizing"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
