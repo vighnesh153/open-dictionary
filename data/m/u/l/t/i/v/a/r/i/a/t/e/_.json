@@ -1,0 +1,43 @@
+{
+  "word": "multivariate",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "multivariate (comparative more multivariate, superlative most multivariate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having or involving multiple variables.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multivariate (plural multivariates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A vector, each of whose elements is a variate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
