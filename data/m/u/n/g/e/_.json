@@ -1,0 +1,54 @@
+{
+  "word": "munge",
+  "etymologies": [
+    {
+      "description": [
+        "Variant of mung."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "munge (third-person singular simple present munges, present participle munging, simple past and past participle munged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, informal) To transform data in an undefined or unexplained manner, as for example when data wrangling requires nonsystemic or nonsystematic edits.",
+                  "examples": [
+                    "As a part of the code review with the development team, notify them that you want to have these options as a part of the installation script, rather than you munging the installation scripts during deployment."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, informal) To add a spamblock to (an email address).",
+                  "examples": [
+                    "Munging is effective — it prevents unwanted email from reaching you by keeping your real email address out of the clutches of the address-harvesting programs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, genealogy, informal) To corrupt a record about an individual by erroneously merging in information about another individual.",
+                  "examples": [
+                    "It looks like this record is munged—it has this person's birth date, but his father's death date"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
