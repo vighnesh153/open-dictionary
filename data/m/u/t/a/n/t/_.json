@@ -1,0 +1,78 @@
+{
+  "word": "mutant",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin mūtāns, present participle of mūtō."
+      ],
+      "adjectives": [
+        {
+          "description": "mutant (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) Of, relating to, undergoing (i.e. mutating), or resulting from change or mutation; that has undergone mutation.",
+                  "examples": [
+                    "mutant DNA"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Strange, abnormal, or bizarre.",
+                  "examples": [
+                    "Your mutant brother just growled at me again!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mutant (plural mutants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) That has mutated, with one or more new characteristics from a mutation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Someone or something that seems strange, abnormal, or bizarre.",
+                  "examples": [
+                    "Your neighbor seems to be a mutant; he’s so cringy!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Synonym of mutex",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
