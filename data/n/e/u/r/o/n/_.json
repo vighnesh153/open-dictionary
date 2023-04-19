@@ -1,0 +1,48 @@
+{
+  "word": "neuron",
+  "etymologies": [
+    {
+      "description": [
+        "From New Latin, from Ancient Greek νεῦρον (neûron, “nerve”). Doublet of nerve and sinew."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "neuron (plural neurons or neura)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cytology) A cell of the nervous system, which conducts nerve impulses; consisting of an axon and several dendrites. Neurons are connected by synapses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) A nervure of an insect's wing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(artificial intelligence) an artificial neuron (mathematical function serving as an essential unit of an artificial neural network)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
