@@ -1,0 +1,163 @@
+{
+  "word": "manifold",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English manifold, from Old English maniġfeald (“manifold, various, varied, complicated, numerous, abundant, plural”), from Proto-Germanic *managafalþaz, equivalent to many +‎ -fold. Cognate with Middle High German manecvalt (“manifold”), Icelandic margfaldr (“multiple”). Compare also German mannigfaltig (“various”), Dutch menigvoudig (“various”), Danish mangefold (“multiple”), Swedish mångfald (“diversity”)."
+      ],
+      "adjectives": [
+        {
+          "description": "manifold (comparative more manifold, superlative most manifold)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Various in kind or quality; diverse.",
+                  "examples": [
+                    "The manifold meanings of the simple English word set are infamous among dictionary makers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Many in number, numerous; multiple, multiplied.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Complicated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Exhibited at diverse times or in various ways.",
+                  "examples": [
+                    "[…]  the manyfold grace of God."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "manifold (comparative more manifold, superlative most manifold)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Many times; repeatedly.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "manifold (plural manifolds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A copy made by the manifold writing process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanics) A pipe fitting or similar device that connects multiple inputs or outputs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, dialectal, chiefly in the plural) The third stomach of a ruminant animal, an omasum.",
+                  "examples": [
+                    "My conjecture being right he will find the third stomach, or manifolds, the seat of difficulty."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A topological space that looks locally like the \"ordinary\" Euclidean space \n  \n    \n      \n        \n          \n            R\n          \n          \n            n\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {R} ^{n}}\n  \n and is Hausdorff.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A polygon mesh representing the continuous, closed surface of a solid object",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English manifolden, from Old English maniġfealdan (“to multiply, abound, increase, extend, reward”), equivalent to many +‎ -fold. Cognate with Middle High German manecvalten, Icelandic margfalda (“to multiply”), Swedish mångfaldiga (“to manifold, reproduce”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "manifold (third-person singular simple present manifolds, present participle manifolding, simple past and past participle manifolded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make manifold; multiply.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, printing) To multiply or reproduce impressions of by a single operation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
