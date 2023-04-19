@@ -1,0 +1,48 @@
+{
+  "word": "monomorphism",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monomorphism (plural monomorphisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) an injective homomorphism",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) the absence of sexual dimorphism",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A morphism n such that for any other morphisms f and g, if \n  \n    \n      \n        n\n        ∘\n        f\n        =\n        n\n        ∘\n        g\n      \n    \n    {\\displaystyle n\\circ f=n\\circ g}\n  \n then f = g.",
+                  "examples": [
+                    "Hyponyms: equalizer, bimorphism, isomorphism, split monomorphism, global element"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

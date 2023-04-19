@@ -1,0 +1,48 @@
+{
+  "word": "monomorphic",
+  "etymologies": [
+    {
+      "description": [
+        "mono- (“one”) +‎ -morphic (“of a form”)"
+      ],
+      "adjectives": [
+        {
+          "description": "monomorphic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "having or existing in a single shape or form",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics, of a gene) invariant across a species",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a function) taking only a single data type",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
