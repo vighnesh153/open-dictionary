@@ -1,0 +1,126 @@
+{
+  "word": "literal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English literal, from Old French literal, from Late Latin litteralis, also literalis (“of or pertaining to letters or to writing”), from Latin littera, litera (“a letter”); see letter."
+      ],
+      "adjectives": [
+        {
+          "description": "literal (comparative more literal, superlative most literal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Exactly as stated; read or understood without additional interpretation; according to the letter or verbal expression; real; not figurative or metaphorical, and etymonic rather than idiomatic.",
+                  "examples": [
+                    "The literal translation is \"hands full of bananas\" but it means \"empty-handed\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Following the letter or exact words; not free; not taking liberties",
+                  "examples": [
+                    "A literal reading of the law would prohibit it, but that is clearly not the intent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theology) (broadly) That which generally assumes that the plainest reading of a given scripture is correct but which allows for metaphor where context indicates it; (specifically) following the historical-grammatical method of biblical interpretation",
+                  "examples": [
+                    "It is most important to distinguish literalistic from literal interpretation. The former generates an unlettered, ultimately illiterate reading—one that is incapable of recognizing less obvious uses of language such as metaphor, satire, and so forth. ... Interpreters err either when they allegorize discourse that is intended to be taken literally or when they \"literalize\" discourse that is intended to be taken figuratively."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncommon) Consisting of, or expressed by, letters (of an alphabet)",
+                  "examples": [
+                    "a literal equation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a person) Unimaginative; matter-of-fact",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(proscribed) Used non-literally as an intensifier; see literally for usage notes.",
+                  "examples": [
+                    "Telemarketers are the literal worst."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "literal (plural literals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(epigraphy, typography) A misprint (or occasionally a scribal error) that affects a letter.",
+                  "examples": [
+                    "Synonym: typo"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A value, as opposed to an identifier, written into the source code of a computer program.",
+                  "examples": [
+                    "Synonym: literal constant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A propositional variable or the negation of a propositional variable. Wp",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
