@@ -1,0 +1,45 @@
+{
+  "word": "minimax",
+  "etymologies": [
+    {
+      "description": [
+        "Blend of minimum +‎ maximum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "minimax (plural minimaxes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In decision theory, game theory, etc. a decision rule used for minimizing the maximum possible loss, or maximizing the minimum gain.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "minimax (third-person singular simple present minimaxes, present participle minimaxing, simple past and past participle minimaxed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To find the optimum play, or decision, to achieve minimizing the maximum loss.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
