@@ -1,0 +1,45 @@
+{
+  "word": "maximin",
+  "etymologies": [
+    {
+      "description": [
+        "Blend of maximum +‎ minimum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "maximin (plural maximins)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In decision theory and game theory etc, a rule to identify the worst outcome of each possible option to find one's best (maximum payoff) play.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "maximin (third-person singular simple present maximins, present participle maximinning or maximining, simple past and past participle maximinned or maximined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To employ a maximin algorithm.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
