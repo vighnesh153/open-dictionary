@@ -1,0 +1,41 @@
+{
+  "word": "mollifier",
+  "etymologies": [
+    {
+      "description": [
+        "mollify +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mollifier (plural mollifiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who mollifies.",
+                  "examples": [
+                    "[…]  the Lord Treasurer, who ever secretly feigned himself to be a Moderator and Mollifier of the Catholicks Afflictions  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An \"approximation to the identity\", a smooth function with special properties, used in distribution theory to create sequences of smooth functions approximating nonsmooth (generalized) functions, via convolution.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
