@@ -1,0 +1,70 @@
+{
+  "word": "mortgage",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English morgage and Middle French mortgage, from Anglo-Norman morgage, from Old French mort gage (“dead pledge”), after a translation of judicial Medieval Latin mortuum wadium, from mortuum + wadium, from Frankish *wadi (“wager, pledge”). Compare gage and also wage. So called because rents and profits from the land were owed to the lender for as long as the gage existed (comparable to interest on a loan today), as opposed to the living gage, in which rents and profits automatically reduced the debt (paying it off automatically over time)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mortgage (countable and uncountable, plural mortgages)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A special form of secured loan where the purpose of the loan must be specified to the lender, to purchase assets that must be fixed (not movable) property, such as a house or piece of farm land. The assets are registered as the legal property of the borrower but the lender can seize them and dispose of them if they are not satisfied with the manner in which the repayment of the loan is conducted by the borrower. Once the loan is fully repaid, the lender loses this right of seizure and the assets are then deemed to be unencumbered.",
+                  "examples": [
+                    "We're renting a property in the city centre because we can't afford to get a mortgage yet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) State of being pledged.",
+                  "examples": [
+                    "lands given in mortgage"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mortgage (third-person singular simple present mortgages, present participle mortgaging, simple past and past participle mortgaged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To borrow against a property, to obtain a loan for another purpose by giving away the right of seizure to the lender over a fixed property such as a house or piece of land; to pledge a property in order to get a loan.",
+                  "examples": [
+                    "to mortgage a property, an estate, or a shop",
+                    "We mortgaged our house in order to start a company."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figurative) To pledge and make liable; to make subject to obligation; to achieve an immediate result by paying for it in the long term.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
