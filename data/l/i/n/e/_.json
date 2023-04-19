@@ -1,0 +1,692 @@
+{
+  "word": "line",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English line, lyne, from Old English līne (“line, cable, rope, hawser, series, row, rule, direction”), from Proto-West Germanic *līnā, from Proto-Germanic *līnǭ (“line, rope, flaxen cord, thread”), from Proto-Germanic *līną (“flax, linen”), from Proto-Indo-European *līno- (“flax”).",
+        "Influenced in Middle English by Middle French ligne (“line”), from Latin linea. More at linen.",
+        "The oldest sense of the word is \"rope, cord, thread\"; from this the senses \"path\", \"continuous mark\" were derived."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "line (plural lines)",
+          "definitionGroups": [
+            {
+              "group": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+              "entries": [
+                {
+                  "meaning": "(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.",
+                  "examples": [
+                    "Synonym: straight line"
+                  ]
+                },
+                {
+                  "meaning": "(geometry, informal) A line segment; a continuous finite segment of such a figure.",
+                  "examples": [
+                    "Synonym: line segment"
+                  ]
+                },
+                {
+                  "meaning": "(graph theory) An edge of a graph.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(geography) A circle of latitude or of longitude, as represented on a map.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(geography, 'the line' or 'equinoctial line') The equator.",
+                  "examples": [
+                    "Benin  […]  is situated nearly under the line, and extends along the coast about 170 miles  […] ."
+                  ]
+                },
+                {
+                  "meaning": "(music) One of the straight horizontal and parallel prolonged strokes on and between which the notes are placed.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(cricket) The horizontal path of a ball towards the batsman (see also length).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(soccer) The goal line.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(motoring) A particular path taken by a vehicle when driving a bend or corner in the road.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rope, cord, string, or thread, of any thickness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hose or pipe, of any size.",
+                  "examples": [
+                    "a brake line",
+                    "the main water line to the house"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Direction, path.",
+                  "examples": [
+                    "the line of sight",
+                    "the line of vision"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The wire connecting one telegraphic station with another, a telephone or internet cable between two points: a telephone or network connection.",
+                  "examples": [
+                    "I tried to make a call, but the line was dead.",
+                    "a dedicated line;  a shared line",
+                    "Please speak up, the line is very faint."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A clothesline.",
+                  "examples": [
+                    "We need to take the clothes off the line. The news reported a front is coming in from the east, and we can expect heavy rain and maybe hail."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A letter, a written form of communication.",
+                  "examples": [
+                    "Synonyms: epistle, letter, note",
+                    "Drop me a line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A connected series of public conveyances, as a roadbed or railway track; and hence, an established arrangement for forwarding merchandise, etc.",
+                  "examples": [
+                    "a line of stages",
+                    "an express line"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A trench or rampart, or the non-physical demarcation of the extent of the territory occupied by specified forces.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The exterior limit of a figure or territory: a boundary, contour, or outline; a demarcation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A long tape or ribbon marked with units for measuring; a tape measure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A measuring line or cord.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which was measured by a line, such as a field or any piece of land set apart; hence, allotted place of abode.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A threadlike crease or wrinkle marking the face, hand, or body; hence, a characteristic mark.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lineament; feature; figure (of one's body).",
+                  "examples": [
+                    "By subtly altering classical ballet steps, she extended the line of the dancer's body and introduced a new kind of athleticism and verve to ballet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation. [from mid-16th c.]",
+              "entries": [
+                {
+                  "meaning": "(military, nautical) Ellipsis of line of battle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) The regular infantry of an army, as distinguished from militia, guards, volunteer corps, cavalry, artillery, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A series of notes forming a certain part (such as the bass or melody) of a greater work.",
+                  "examples": [
+                    "Students and the instructor sing the harmony line while the instructor plays the melody line on the piano."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series or succession of ancestors or descendants of a given person; a family or race; compare lineage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A small amount of text. Specifically:",
+              "entries": [
+                {
+                  "meaning": "A written or printed row of letters, words, numbers, or other text, especially a row of words extending across a page or column, or a blank in place of such text.",
+                  "examples": [
+                    "Synonym: row",
+                    "The answer to the comprehension question can be found in the third line of the accompanying text."
+                  ]
+                },
+                {
+                  "meaning": "A verse (in poetry).",
+                  "examples": []
+                },
+                {
+                  "meaning": "A sentence of dialogue, especially [from late 19th c.] in a play, movie, or the like.",
+                  "examples": [
+                    "He was perfecting his pickup lines for use at the bar.",
+                    "\"It is what it is\" was one of his more annoying lines."
+                  ]
+                },
+                {
+                  "meaning": "A lie or exaggeration, especially one told to gain another's approval or prevent losing it.",
+                  "examples": [
+                    "Don't feed me a line!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Course of conduct, thought, occupation, or policy; method of argument; department of industry, trade, or intellectual activity. [from earlier 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The official, stated position (or set of positions) of an individual or group, particularly a political or religious faction. [from later 19th c.]",
+                  "examples": [
+                    "Remember, your answers must match the party line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) Information about or understanding of something. (Mostly restricted to the expressions get a line on, have a line on, and give a line on.)",
+                  "examples": [
+                    "Judy gave me a line on a lawyer who's supposed to be the best in the business."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A set of products or services sold by a business, or by extension, the business itself. [from early 19th c.]",
+                  "examples": [
+                    "line of business, product line",
+                    "How many buses does the line have?",
+                    "The airline is in danger of bankruptcy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(stock exchange) A number of shares taken by a jobber.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Any of an ill-defined set of units of length, varying according to the country, discipline, industry, and date of application, commonly with no indication of the intended magnitude:",
+              "entries": [
+                {
+                  "meaning": "(historical) A tsarist-era Russian unit of measure, approximately equal to one tenth of an English inch, used especially when measuring the calibre of firearms.",
+                  "examples": []
+                },
+                {
+                  "meaning": "One twelfth of an inch.",
+                  "examples": []
+                },
+                {
+                  "meaning": "One sixteenth of an inch.",
+                  "examples": []
+                },
+                {
+                  "meaning": "One fortieth of an inch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(advertising) Short for agate line.",
+                  "examples": [
+                    "Advertising rates, line contract, less than 500 agate lines, 12 cents per line; 1,000 to 2,000 lines, 7 cents; 5,000 to 10,000 lines, 5 cents."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A maxwell, a unit of magnetic flux.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball, slang, 1800s, with \"the\") The batter's box.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fencing) The position in which the fencers hold their swords.",
+                  "examples": [
+                    "Synonym: line of engagement"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) Proper relative position or adjustment (of parts, not as to design or proportion, but with reference to smooth working).",
+                  "examples": [
+                    "the engine is in line / out of line"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small path-shaped portion or serving of a powdery illegal drug, especially cocaine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Instruction; doctrine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) A population of cells derived from a single cell and containing the same genetic makeup.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(perfusion line) a set composed of a spike, a drip chamber, a clamp, a Y-injection site, a three-way stopcock and a catheter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ice hockey) A group of forwards that play together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australian rules football) A set of positions in a team which play in a similar position on the field; in a traditional team, consisting of three players and acting as one of six such sets in the team.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, colloquial) A vascular catheter.",
+                  "examples": [
+                    "patient had a line inserted",
+                    "line sepsis"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(South Korean idol fandom) A group of people born in a certain year (liners).",
+                  "examples": [
+                    "maknae line; hyung line; 97 line"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place (objects) into a line (usually used with \"up\"); to form into a line; to align.",
+                  "examples": [
+                    "to line troops",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place persons or things along the side of for security or defense; to strengthen by adding; to fortify.",
+                  "examples": [
+                    "to line works with soldiers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To form a line along.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To mark with a line or lines; to cover with lines.",
+                  "examples": [
+                    "to line a copy book"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) To align (one or more switches) to direct a train onto a particular track.",
+                  "examples": [
+                    "The dispatcher lined the switches at Pickle interlocking for the freight turnout to clear the train into the passing track before the express arrived."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To represent by lines; to delineate; to portray.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To read or repeat line by line.",
+                  "examples": [
+                    "to line out a hymn"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, baseball) To hit a line drive; to hit a line drive which is caught for an out. Compare fly and ground.",
+                  "examples": [
+                    "Jones lined to left in his last at-bat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To track (wild bees) to their nest by following their line of flight.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To measure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Old English līn (“flax, linen, cloth”). For more information, see the entry linen."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "line (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Flax; linen, particularly the longer fiber of flax.",
+                  "examples": [
+                    "To spin 2 lb. of line."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover the inner surface of (something), originally especially with linen.",
+                  "examples": [
+                    "The bird lines its nest with soft grass.",
+                    "to line a cloak with silk or fur",
+                    "to line a box with paper or tin",
+                    "paintings lined the walls of the cavernous dining room"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To reinforce (the back of a book) with glue and glued scrap material such as fabric or paper.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fill or supply (something), as a purse with money.",
+                  "examples": [
+                    "to line the shelves"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Borrowed from Middle French ligner."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, now rare, of a dog) To copulate with, to impregnate.",
+                  "examples": [
+                    "Bedlamite was a black dog, and although it may be safely asserted that he lined upwards of 100 bitches of all colours, red, white, and blue, all his produce were black."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
