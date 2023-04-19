@@ -1,0 +1,65 @@
+{
+  "word": "monic",
+  "etymologies": [
+    {
+      "description": [
+        "mono- +‎ -ic"
+      ],
+      "adjectives": [
+        {
+          "description": "monic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a polynomial whose leading coefficient is one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Monomorphic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) Of a morphism: that it is a monomorphism.",
+                  "examples": [
+                    "It is often convenient to view a monic arrow \n  \n    \n      \n        i\n        :\n        A\n        ↣\n        C\n      \n    \n    {\\displaystyle i:A\\rightarrowtail C}\n  \n, defined in Chapter 1, as showing that A is a copy of a part of C, and that i maps the copy on to that part. For example, in Set, the monic arrows are the one-to-one functions and, clearly, if i is one-to-one then A is a copy of a subset of C, namely of the image of i."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monic (plural monics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A monic polynomial.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
