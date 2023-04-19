@@ -1,0 +1,91 @@
+{
+  "word": "minimum",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin minimum, neuter form of minimus (“least, smallest”)."
+      ],
+      "adjectives": [
+        {
+          "description": "minimum (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To the lowest degree.",
+                  "examples": [
+                    "Synonym: minimal"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "minimum (plural minima or minimums)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The lowest limit.",
+                  "examples": [
+                    "We prefer candidates with a minimum of 4 years experience in the field.",
+                    "We need a minimum of three staff members on duty at all time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The smallest amount.",
+                  "examples": [
+                    "He always tries to get away with doing the minimum.",
+                    "Please keep noise to a minimum after 11 o'clock"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) A period of minimum brightness or energy intensity (of a star).",
+                  "examples": [
+                    "The Maunder minimum of the Sun reportedly corresponded to a period of great cold on Earth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis) A lower bound of a set which is also an element of that set.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) The smallest member of a batch or sample or the lower bound of a probability distribution.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
