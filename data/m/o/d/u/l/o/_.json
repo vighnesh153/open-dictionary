@@ -1,0 +1,75 @@
+{
+  "word": "modulo",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin modulō, ablative of modulus (“a measure”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "modulo (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The operation or function that returns the remainder of one number divided by another.",
+                  "examples": [
+                    "Synonym: modulus"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [
+        {
+          "description": "modulo",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Given a specified modulus of.",
+                  "examples": [
+                    "21 and 84 are congruent to each other modulo 9, since both numbers leave the same remainder, 3, when divided by 9.",
+                    "Thus 21 modulo 9 is 3, because when 21 is divided by 9, the remainder is 3."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(technical) Except for differences accounted for by.",
+                  "examples": [
+                    "Synonym: up to",
+                    "\"A is the same as B modulo C\" means A is the same as B except for differences accounted for by C."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(extended use) With due allowance for (a specified exception or particular detail).",
+                  "examples": [
+                    "Synonyms: barring, except for, save for; see also Thesaurus:except",
+                    "In the Lisp programming language, the \"tail recursion modulo cons\" technique allows functions that would be tail recursive but for a cons call to be transformed into a tail recursive form.",
+                    "All mammals, modulo the monotremes, give birth to live young."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": []
+    }
+  ]
+}
