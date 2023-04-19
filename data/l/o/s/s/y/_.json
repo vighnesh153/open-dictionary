@@ -1,0 +1,50 @@
+{
+  "word": "lossy",
+  "etymologies": [
+    {
+      "description": [
+        "loss +‎ -y"
+      ],
+      "adjectives": [
+        {
+          "description": "lossy (comparative lossier, superlative lossiest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) Of a communication channel, subject to loss of signal strength.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(power systems) Of an electricity transmission line, subject to various forms of power loss.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of an algorithm for converting or compressing data) Reducing the amount of information in data.",
+                  "examples": [
+                    "JPEG is a lossy image compression format."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

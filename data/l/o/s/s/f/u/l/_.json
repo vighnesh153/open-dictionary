@@ -1,0 +1,41 @@
+{
+  "word": "lossful",
+  "etymologies": [
+    {
+      "description": [
+        "loss +‎ -ful"
+      ],
+      "adjectives": [
+        {
+          "description": "lossful (comparative more lossful, superlative most lossful)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Causing loss or damage; harmful.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications, computing) Lossy; involving loss of information.",
+                  "examples": [
+                    "Thresholding and neighborhood definition are further lossful transformations which make details of the original application data virtually unrecoverable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
