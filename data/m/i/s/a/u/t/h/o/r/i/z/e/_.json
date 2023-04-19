@@ -1,0 +1,32 @@
+{
+  "word": "misauthorize",
+  "etymologies": [
+    {
+      "description": [
+        "mis- +‎ authorize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "misauthorize (third-person singular simple present misauthorizes, present participle misauthorizing, simple past and past participle misauthorized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, rare) To authorize erroneously.",
+                  "examples": [
+                    "This would not only allow paths sharing nodes with this tag's path to be wrongfully unauthorized, but would eventually misauthorize the repeatedly scanning tag as well."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
