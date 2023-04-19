@@ -1,0 +1,84 @@
+{
+  "word": "missing",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "missing (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not able to be located; gone, misplaced.",
+                  "examples": [
+                    "Synonyms: absent, lost",
+                    "my missing socks"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not present when it (they) should be.",
+                  "examples": [
+                    "missing data point",
+                    "Joe went missing last year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of an internal combustion engine: running roughly due to an occasional lack of a spark or other irregular fault.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "missing (plural missings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A value that is missing.",
+                  "examples": [
+                    "The treatment of missings is a problem in statistical software."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "missing",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of miss",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
