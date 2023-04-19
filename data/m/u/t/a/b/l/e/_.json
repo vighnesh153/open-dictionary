@@ -1,0 +1,69 @@
+{
+  "word": "mutable",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English mutable, from Old French mutable, from Latin mutabilis (“liable to change”); mutate +‎ -able."
+      ],
+      "adjectives": [
+        {
+          "description": "mutable (comparative more mutable, superlative most mutable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Changeable, dynamic, evolutive; inclined to change, evolve, mutate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a variable) Having a value that is changeable during program execution.",
+                  "examples": [
+                    "A value of a mutable type can change. Objects and arrays are mutable: a JavaScript program can change the values of object properties and array elements. Numbers, booleans, null, and undefined are immutable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astrology) Being one of the signs Gemini, Virgo, Sagittarius and Pisces, associated with adaptability, flexibility and sympathy.",
+                  "examples": [
+                    "Synonym: bicorporeal"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mutable (plural mutables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something mutable; a variable or value that can change.",
+                  "examples": [
+                    "Hypothesis 6.14: Entropy levels within the social group may vary but must be maintained below maximum entropy on certain relevant variables (e.g., on the six globals and five mutables)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
