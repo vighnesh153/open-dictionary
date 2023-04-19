@@ -1,0 +1,101 @@
+{
+  "word": "meter",
+  "etymologies": [
+    {
+      "description": [
+        "Senses 1.1, 2, and 3 were borrowed from French mètre and Latin metrum; see metre for more.",
+        "Sense 1.2 is a noun derived from mete, from Old English metan (“to measure, mark off”), possibly influencing the other meanings."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "meter (plural meters)",
+          "definitionGroups": [
+            {
+              "group": "A device that measures things.",
+              "entries": [
+                {
+                  "meaning": "A parking meter or similar device for collecting payment.",
+                  "examples": [
+                    "gas meter"
+                  ]
+                },
+                {
+                  "meaning": "(dated) One who metes or measures.",
+                  "examples": [
+                    "a labouring coal-meter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(American spelling) The base unit of length in the International System of Units (SI), conceived as 1/10,000,000 of the distance from the North Pole to the Equator, and now defined as the distance light will travel in a vacuum in 1/299,792,458 seconds.",
+                  "examples": [
+                    "Synonym: metre"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(American spelling) The overall rhythm of a song or poem; particularly, the number of beats in a measure or syllables in a line.",
+              "entries": [
+                {
+                  "meaning": "(obsolete) A poem.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(American spelling) A line above or below a hanging net, to which the net is attached in order to strengthen it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "meter (third-person singular simple present meters, present participle metering, simple past and past participle metered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To measure with a metering device.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To imprint a postage mark with a postage meter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To regulate the flow of or to deliver in regulated amounts (usually of fluids but sometimes of other things such as anticipation or breath).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
