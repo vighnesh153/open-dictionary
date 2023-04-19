@@ -1,0 +1,112 @@
+{
+  "word": "message",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English message, from Old French message, from Late Latin missaticum, from Latin mittere, missum (“to send”), ultimately from Proto-Indo-European *meyth₂- (“to exchange”). Displaced native Old English ærende which is survived in English errand."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "message (plural messages)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A communication, or what is communicated; any concept or information conveyed.",
+                  "examples": [
+                    "I have a message from God unto thee."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An underlying theme or conclusion to be drawn from something.",
+                  "examples": [
+                    "The main message of the novel is that time heals all wounds."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, Ireland, chiefly in the plural) An errand.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Ireland, Scotland, Northern England) See messages (“groceries, shopping”).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "message (third-person singular simple present messages, present participle messaging, simple past and past participle messaged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To send a message to; to transmit a message to, e.g. as text via a cell phone.",
+                  "examples": [
+                    "Just message me for directions.",
+                    "I messaged her about the concert."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To send (something) as a message; usually refers to electronic messaging.",
+                  "examples": [
+                    "She messaged me the information yesterday.",
+                    "Please message the final report by fax."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To send a message or messages; to be capable of sending messages.",
+                  "examples": [
+                    "We've implemented a new messaging service.",
+                    "The runaway computer program was messaging non-stop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To bear as a message.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
