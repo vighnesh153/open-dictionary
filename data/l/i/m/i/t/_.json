@@ -1,0 +1,206 @@
+{
+  "word": "limit",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English limit, from Old French limit, from Latin līmes (“a cross-path or balk between fields, hence a boundary, boundary line or wall, any path or road, border, limit”). Displaced native Old English ġemǣre."
+      ],
+      "adjectives": [
+        {
+          "description": "limit (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) Being a fixed limit game.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "limit (plural limits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A restriction; a bound beyond which one may not go.",
+                  "examples": [
+                    "There are several existing limits to executive power.",
+                    "Two drinks is my limit tonight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A value to which a sequence converges. Equivalently, the common value of the upper limit and the lower limit of a sequence: if the upper and lower limits are different, then the sequence has no limit (i.e., does not converge).",
+                  "examples": [
+                    "The sequence of reciprocals has zero as its limit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Any of several abstractions of this concept of limit.",
+                  "examples": [
+                    "Category theory defines a very general concept of limit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) The cone of a diagram through which any other cone of that same diagram can factor uniquely.",
+                  "examples": [
+                    "Synonyms: inverse limit, projective limit",
+                    "Hyponyms: terminal object, categorical product, pullback, equalizer, identity morphism"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) Fixed limit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The final, utmost, or furthest point; the border or edge.",
+                  "examples": [
+                    "the limit of a walk, of a town, or of a country"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The space or thing defined by limits.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That which terminates a period of time; hence, the period itself; the full time or extent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A restriction; a check or curb; a hindrance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, metaphysics) A determining feature; a distinguishing characteristic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cycling) The first group of riders to depart in a handicap race.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, as \"the limit\") A person who is exasperating, intolerable, astounding, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English limiten, from Old French limiter, from Latin līmitō (“to bound, limit, fix, determine”), from līmes; see noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "limit (third-person singular simple present limits, present participle limiting, simple past and past participle limited)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To restrict; not to allow to go beyond a certain bound, to set boundaries.",
+                  "examples": [
+                    "We need to limit the power of the executive.",
+                    "I'm limiting myself to two drinks tonight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, intransitive) To have a limit in a particular set.",
+                  "examples": [
+                    "The sequence limits on the point a."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To beg, or to exercise functions, within a certain limited region.",
+                  "examples": [
+                    "a limiting friar"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
