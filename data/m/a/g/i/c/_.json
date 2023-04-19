@@ -1,0 +1,173 @@
+{
+  "word": "magic",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English magik, magyk, from Old French magique (noun and adjective), from Latin magicus (adjective), magica (noun use of feminine form of magicus), from Ancient Greek μαγικός (magikós, “magical”), from μάγος (mágos, “magus”). Ultimately from Old Iranian, probably derived from Proto-Indo-European *meh₂gʰ- (“to be able to, to help; power, sorcerer”). Displaced native Old English ġealdor."
+      ],
+      "adjectives": [
+        {
+          "description": "magic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having supernatural talents, properties or qualities attributed to magic. [from 14th c.]",
+                  "examples": [
+                    "Synonym: magical",
+                    "a magic wand",
+                    "a magic dragon"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Producing extraordinary results, as though through the use of magic. [from 17th c.]",
+                  "examples": [
+                    "Synonyms: wonderful, amazing",
+                    "a magic moment"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to conjuring tricks or illusions performed for entertainment etc. [from 19th c.]",
+                  "examples": [
+                    "Synonym: magical",
+                    "a magic show",
+                    "a magic trick"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) Great; excellent. [from 20th c.]",
+                  "examples": [
+                    "I cleaned up the flat while you were out. —Really? Magic!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Describing the number of nucleons in a particularly stable isotopic nucleus; 2, 8, 20, 28, 50, 82, 126, and 184. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Being a literal number or string value with no meaning or context, not defined as a constant or variable [from 20th c.]",
+                  "examples": [
+                    "The code is full of magic numbers and we can't figure out what they mean."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "magic (usually uncountable, plural magics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them. [from 14th c.]",
+                  "examples": [
+                    "And whan he shall be arrayed as I telle you / lete hym thenne doo his incantacyons & his magyke as he wyll […]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A specific ritual or procedure associated with such magic; a spell. [from 14th c.]",
+                  "examples": [
+                    "And she can turn people into stone and do all kinds of horrible things. And she has made a magic so that it is always winter in Narnia—always winter, but it never gets to Christmas."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The supernatural forces which are drawn on in such a ritual.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Something producing successful and remarkable results, especially when not fully understood; an enchanting quality; exceptional skill. [from 17th c.]",
+              "entries": [
+                {
+                  "meaning": "(computing, slang) Complicated or esoteric code that is not expected to be generally understood.",
+                  "examples": [
+                    "The stringstream class hides a lot of string parsing magic from us at this point."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A conjuring trick or illusion performed to give the appearance of supernatural phenomena or powers. [from 19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The art or practice of performing conjuring tricks and illusions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "magic (third-person singular simple present magics, present participle magicking, simple past and past participle magicked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To produce, transform (something), (as if) by magic. [from 20th c.]",
+                  "examples": [
+                    "Synonyms: conjure up, magic up"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
