@@ -1,0 +1,41 @@
+{
+  "word": "morphism",
+  "etymologies": [
+    {
+      "description": [
+        "Generalised from isomorphism, etc."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "morphism (plural morphisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, category theory) (formally) An arrow in a category; (less formally) an abstraction that generalises a map from one mathematical object to another and is structure-preserving in a way that depends on the branch of mathematics from which it arises.",
+                  "examples": [
+                    "1° The composition of two morphisms is defined if and only if the final object of the first morphism is the initial object of the second. This composition is also a morphism, whose initial object is the initial object of the first morphism and whose final object is the final object of the second."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Being or having distinct variants of a plant or animal species in the same locale; polymorphism.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
