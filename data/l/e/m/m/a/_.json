@@ -1,0 +1,82 @@
+{
+  "word": "lemma",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek λῆμμα (lêmma, “premise, assumption”), from λαμβάνω (lambánō, “I take”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lemma (plural lemmas or lemmata)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A proposition proved or accepted for immediate use in the proof of some other proposition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, lexicography) The canonical form of an inflected word; i.e., the form usually found as the headword in a dictionary, such as the nominative singular of a noun, the bare infinitive of a verb, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psycholinguistics) The theoretical abstract conceptual form of a word, representing a specific meaning, before the creation of a specific phonological form as the sounds of a lexeme, which may find representation in a specific written form as a dictionary or lexicographic word.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From the Ancient Greek λέμμα (lémma), from λέπω (lépō, “I peel”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lemma (plural lemmas or lemmata)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) The outer shell of a fruit or similar body.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) One of the specialized bracts around the floret in grasses.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
