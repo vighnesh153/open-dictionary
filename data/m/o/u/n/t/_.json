@@ -1,0 +1,330 @@
+{
+  "word": "mount",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English mount, munt, from Old English munt, from Latin mons (“a hill, mountain”), from a root seen also in ēmineō (“I project, I protrude”) (English eminent). Doublet of mons."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mount (plural mounts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hill or mountain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(palmistry) Any of seven fleshy prominences in the palm of the hand, taken to represent the influences of various heavenly bodies.",
+                  "examples": [
+                    "the mount of Jupiter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A bulwark for offence or defence; a mound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A bank; a fund.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) A green hillock in the base of a shield.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English mounten, from Anglo-Norman munter, from Vulgar Latin *montāre (“climb”), from Latin montem (“mountain”). Compare modern French monter."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mount (plural mounts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An animal, usually a horse, used to ride on (unlike a draught horse).",
+                  "examples": [
+                    "The rider climbed onto his mount."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now only figurative) A car, bicycle, or motorcycle used for racing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mounting; an object on which another object is mounted.",
+                  "examples": [
+                    "The post is the mount on which the mailbox is installed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A rider in a cavalry unit or division.",
+                  "examples": [
+                    "The General said he has 2,000 mounts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A step or block to assist in mounting a horse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A signal for mounting a horse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(martial arts) A dominant ground grappling position, where one combatant sits on the other combatants torso with the face pointing towards the opponent's head.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mount (third-person singular simple present mounts, present participle mounting, simple past and past participle mounted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To get upon; to ascend; to climb.",
+                  "examples": [
+                    "to mount stairs"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place oneself on (a horse, a bicycle, etc.); to bestride.",
+                  "examples": [
+                    "The rider mounted his horse."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to mount; to put on horseback; to furnish with animals for riding.",
+                  "examples": [
+                    "to mount the Trojan troop"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To cause (something) to rise or ascend; to drive up; to raise; to elevate; to lift up.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, martial arts) To sit on a combatants torso with the face pointing towards the opponent's head; to assume the mount position in ground grappling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To rise on high; to go up; to be upraised or uplifted; to tower aloft; to ascend; often with up.",
+                  "examples": [
+                    "The fire of trees and houses mounts on high."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To attach (an object) to a support, backing, framework etc.",
+                  "examples": [
+                    "to mount a mailbox on a post",
+                    "to mount a specimen on a small plate of glass for viewing by a microscope",
+                    "to mount a photograph on cardboard",
+                    "to mount an engine in a car"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To attach (a drive or device) to the file system in order to make it available to the operating system.",
+                  "examples": [
+                    "Burn the contents of the staging area onto a writable CD-ROM, carry it over to the Web server, and mount it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, sometimes with up) To increase in quantity or intensity.",
+                  "examples": [
+                    "The bills mounted up and the business failed.  There is mounting tension in Crimea."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To attain in value; to amount (to).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To get on top of (another) for the purpose of copulation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To have sexual intercourse with someone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To begin (a campaign, military assault, etc.); to launch.",
+                  "examples": [
+                    "The General gave the order to mount the attack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To deploy (cannon) for use.",
+                  "examples": [
+                    "to mount a cannon"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To prepare and arrange the scenery, furniture, etc. for use in (a play or production).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cooking) To incorporate fat, especially butter, into (a dish, especially a sauce to finish it).",
+                  "examples": [
+                    "Mount the sauce with one tablespoon of butter."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
