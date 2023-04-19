@@ -1,0 +1,117 @@
+{
+  "word": "metric",
+  "etymologies": [
+    {
+      "description": [
+        "From French métrique (1864), from New Latin metricus (“pertaining to the system based on the meter”), from metrum (“a meter”); see meter."
+      ],
+      "adjectives": [
+        {
+          "description": "metric (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to the metric system of measurement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Of or relating to the meter of a piece of music.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, physics) Of or relating to distance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "metric (plural metrics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A measure for something; a means of deriving a quantitative measurement or approximation for otherwise qualitative phenomena (especially used in engineering).",
+                  "examples": [
+                    "What metric should be used for performance evaluation?",
+                    "What are the most important metrics to track for your business?",
+                    "It's the most important single metric that quantifies the predictive performance.",
+                    "How to measure marketing? Use these key metrics for measuring marketing effectiveness.",
+                    "There is a lack of standard metrics."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function for the measurement of the \"distance\" between two points in some metric space: it is a real-valued function d(x,y) between points x and y satisfying the following properties: (1) \"non-negativity\": \n  \n    \n      \n        d\n        (\n        x\n        ,\n        y\n        )\n        ≥\n        0\n      \n    \n    {\\displaystyle d(x,y)\\geq 0}\n  \n, (2) \"identity of indiscernibles\": \n  \n    \n      \n        d\n        (\n        x\n        ,\n        y\n        )\n        =\n        0\n        \n          \n             iff \n          \n        \n        x\n        =\n        y\n      \n    \n    {\\displaystyle d(x,y)=0{\\mbox{ iff }}x=y}\n  \n, (3) \"symmetry\": \n  \n    \n      \n        d\n        (\n        x\n        ,\n        y\n        )\n        =\n        d\n        (\n        y\n        ,\n        x\n        )\n      \n    \n    {\\displaystyle d(x,y)=d(y,x)}\n  \n, and (4) \"triangle inequality\": \n  \n    \n      \n        d\n        (\n        x\n        ,\n        y\n        )\n        ≤\n        d\n        (\n        x\n        ,\n        z\n        )\n        +\n        d\n        (\n        z\n        ,\n        y\n        )\n      \n    \n    {\\displaystyle d(x,y)\\leq d(x,z)+d(z,y)}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A metric tensor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of metric system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "metric (third-person singular simple present metrics, present participle metricking, simple past and past participle metricked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, aerospace, systems engineering) To measure or analyse statistical data concerning the quality or effectiveness of a process.",
+                  "examples": [
+                    "We need to metric the status of software documentation.",
+                    "We need to metric the verification of requirements.",
+                    "We need to metric the system failures.",
+                    "The project manager is metricking the closure of the action items.",
+                    "Customer satisfaction was metricked by the marketing department."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
