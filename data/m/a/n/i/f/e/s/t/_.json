@@ -1,0 +1,127 @@
+{
+  "word": "manifest",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English manifest, manifeste, from Latin manifestus, manufestus (“palpable, manifest”), from manus (“hand”) + *infestus, participle of *infendō (“strike”) (from the root of dēfendō, offendō, etc.), or from Proto-Indo-European *dʰers-. Doublet of manifesto."
+      ],
+      "adjectives": [
+        {
+          "description": "manifest (comparative more manifest, superlative most manifest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Evident to the senses, especially to the sight; apparent; distinctly perceived.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obvious to the understanding; apparent to the mind; easily apprehensible; plain; not obscure or hidden.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare, used with \"of\") Detected; convicted.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "manifest (plural manifests)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A list or invoice of the passengers or goods being carried by a commercial vehicle or ship.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A file containing metadata describing other files.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A public declaration; an open statement; a manifesto.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "manifest (third-person singular simple present manifests, present participle manifesting, simple past and past participle manifested)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To show plainly; to make to appear distinctly, usually to the mind; to put beyond question or doubt; to display; to exhibit.",
+                  "examples": [
+                    "His courage manifested itself through the look on his face."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become manifest; to be revealed.",
+                  "examples": [
+                    "His osteoporosis first manifested as pain in his hips."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, initially occult, now slang) To will something to exist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To exhibit the manifests or prepared invoices of; to declare at the customhouse.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
