@@ -1,0 +1,142 @@
+{
+  "word": "mock",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English mokken, from Old French mocquer, moquier (“to deride, jeer”), from Middle Dutch mocken (“to mumble”) or Middle Low German mucken (“to grumble, talk with the mouth half-opened”), both from Proto-West Germanic *mokkijan, *mukkijan (“to low, bellow; mumble”), from Proto-Germanic *mukkijaną, *mūhaną (“to low, bellow, shout”), from Proto-Indo-European *mūg-, *mūk- (“to low, mumble”).",
+        "Cognate with Dutch mokken (“to sulk; pout; mope; grumble”), Old High German firmucken (“to be stupid”), Modern German mucksen (“to utter a word; mumble; grumble”), West Frisian mokke (“to mope; sulk; grumble”), Swedish mucka (“to murmur”), dialectal Dutch mokkel (“kiss”)."
+      ],
+      "adjectives": [
+        {
+          "description": "mock (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Imitation, not genuine; fake.",
+                  "examples": [
+                    "mock leather",
+                    "mock trial",
+                    "mock turtle-soup"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mock (plural mocks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An imitation, usually of lesser quality.",
+                  "examples": [
+                    "Is tortured thirst itself too sweet a cup? Gall, and more bitter mocks, shall make it up."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Mockery; the act of mocking.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A practice exam set by an educating institution to prepare students for an important exam.",
+                  "examples": [
+                    "He got a B in his History mock, but improved to an A in the exam."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) A mockup or prototype; particularly, ellipsis of mock object., as used in unit testing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mock (third-person singular simple present mocks, present participle mocking, simple past and past participle mocked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To mimic, to simulate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) To create an artistic representation of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make fun of, especially by mimicking; to taunt.",
+                  "examples": [
+                    "Let not ambition mock their useful toil."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To tantalise, and disappoint the hopes of.",
+                  "examples": [
+                    "‘Mock’ certainly never signifies to loath. Its common signification is, to disappoint."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering, transitive) To create a mockup or prototype of.",
+                  "examples": [
+                    "They can also mock other integration points such as backend, database, or any other external resource."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

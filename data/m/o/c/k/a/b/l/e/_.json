@@ -1,0 +1,43 @@
+{
+  "word": "mockable",
+  "etymologies": [
+    {
+      "description": [
+        "mock +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "mockable (comparative more mockable, superlative most mockable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be mocked or ridiculed.",
+                  "examples": [
+                    "Mocking the men who hurt us, as mockable as they are, starts to feel like acquiescing to the most condescending of catcalls: “You look better when you smile.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) Of which a mockup or prototype may be made.",
+                  "examples": [
+                    "To run tests on a mockable version of android.jar, you would need to introduce product flavors, which we covered in Chapter 4."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
