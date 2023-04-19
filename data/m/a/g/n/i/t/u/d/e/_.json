@@ -1,0 +1,79 @@
+{
+  "word": "magnitude",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin magnitūdō (“greatness, size”), magnus +‎ -tūdō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "magnitude (countable and uncountable, plural magnitudes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, countable) The absolute or relative size, extent or importance of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An order of magnitude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A number, assigned to something, such that it may be compared to others numerically",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a vector, the norm, most commonly, the two-norm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(astronomy) A logarithmic scale of brightness defined so that a difference of 5 magnitudes is a factor of 100.",
+              "entries": [
+                {
+                  "meaning": "(uncountable) The apparent brightness of a star, with lower magnitudes being brighter; apparent magnitude",
+                  "examples": []
+                },
+                {
+                  "meaning": "(countable) A ratio of intensity expressed as a logarithm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(seismology) A measure of the energy released by an earthquake (e.g. on the Richter scale).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
