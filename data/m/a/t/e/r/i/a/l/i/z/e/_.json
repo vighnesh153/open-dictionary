@@ -1,0 +1,59 @@
+{
+  "word": "materialize",
+  "etymologies": [
+    {
+      "description": [
+        "material +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "materialize (third-person singular simple present materializes, present participle materializing, simple past and past participle materialized) (American spelling, Oxford British English)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to take physical form, or to cause an object to appear.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To take physical form, to appear seemingly from nowhere.",
+                  "examples": [
+                    "a spirit form, temporarily materialized, and undistinguishable from a human being in the flesh, has come forth in the light […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To regard as matter; to consider or explain by the laws or principles which are appropriate to matter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, databases) To perform materialization; to save the results of a database query as a temporary table or materialized view.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
