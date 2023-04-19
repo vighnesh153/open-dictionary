@@ -1,0 +1,111 @@
+{
+  "word": "nibble",
+  "etymologies": [
+    {
+      "description": [
+        "Probably of Dutch or Low German origin, perhaps from Middle Low German nibbelen (“to gnaw”), akin to modern Low German nibbeln (“to gnaw”) and Dutch nibbelen (“to nibble”), equivalent to nip +‎ -le (frequentative suffix). Compare Saterland Frisian nibje (“to nibble”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nibble (plural nibbles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small, quick bite taken with the front teeth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in the plural, nibbles) Small snacks such as crisps/potato chips or nuts, often eaten to accompany drinks.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "nibble (third-person singular simple present nibbles, present participle nibbling, simple past and past participle nibbled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To eat with small, quick bites.",
+                  "examples": [
+                    "The rabbit nibbled the lettuce.",
+                    "The rabbit nibbled at the lettuce."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bite lightly.",
+                  "examples": [
+                    "He nibbled at my neck and made me shiver."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) To consume gradually.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To find fault; to cavil.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From nibble, punning on the homophony of byte and bite."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nibble (plural nibbles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A unit of memory equal to half a byte, or four bits.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

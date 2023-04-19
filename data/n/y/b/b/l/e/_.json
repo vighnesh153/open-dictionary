@@ -1,0 +1,30 @@
+{
+  "word": "nybble",
+  "etymologies": [
+    {
+      "description": [
+        "Punningly from nibble (“a small bite”), with the i changed to y by analogy with byte, as if that word had been formed in the same way from bite."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nybble (plural nybbles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Half of a byte; i.e., four bits.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
