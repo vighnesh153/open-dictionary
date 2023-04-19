@@ -1,0 +1,103 @@
+{
+  "word": "mezzanine",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is borrowed from French mezzanine, and from its etymon Italian mezzanino, from mezzano (“(adjective) middle; (noun) go-between”) + -ino (diminutive suffix). Mezzano is derived from Latin mediānus (“central, middle”, adjective), from medius (“mid, middle”) (ultimately from Proto-Indo-European *médʰyos (“middle”)) + -ānus (suffix meaning ‘of or pertaining to’).",
+        "The adjective and verb are derived from the noun."
+      ],
+      "adjectives": [
+        {
+          "description": "mezzanine (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(banking, business) Characteristic of or relating to high-interest loans which have no collateral, and are regarded as intermediate in nature, ranking above equity but below secured loans.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) Fulfilling an intermediate or secondary function.",
+                  "examples": [
+                    "To make interconnections easier, we added a mezzanine PCB."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mezzanine (plural mezzanines)",
+          "definitionGroups": [
+            {
+              "group": "(architecture)",
+              "entries": [
+                {
+                  "meaning": "An intermediate floor or storey in between the main floors of a building; specifically, one that is directly above the ground floor which does not extend over the whole floorspace of the building, and so resembles a large balcony overlooking the ground floor; an entresol.",
+                  "examples": [
+                    "On our way to the top floor, we stopped at the mezzanine."
+                  ]
+                },
+                {
+                  "meaning": "(by extension) An apartment, room, etc., on such an intermediate floor.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Canada, US) The lowest balcony in an auditorium, cinema, theatre, etc.; the dress circle.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete)",
+                  "examples": []
+                },
+                {
+                  "meaning": "Additional flooring laid over a floor to bring it up to some height or level.",
+                  "examples": []
+                },
+                {
+                  "meaning": "In full mezzanine window: a small window at the height of a mezzanine floor (sense 1.1) or an attic, used to light these floors.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater, obsolete) A floor under the stage, from which contrivances such as traps are worked.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mezzanine (third-person singular simple present mezzanines, present participle mezzanining, simple past and past participle mezzanined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fit (a building or other place) with a mezzanine floor.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
