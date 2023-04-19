@@ -1,0 +1,57 @@
+{
+  "word": "mutating",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "mutating (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Causing or tending to cause mutation.",
+                  "examples": [
+                    "The mutating process that cells undergo can lead to cancer.",
+                    "std::sort is a mutating algorithm."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of an object) Having the ability to make changes to data other than its makeup.",
+                  "examples": [
+                    "The begin() member of std::string returns a mutating iterator."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mutating",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of mutate",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
