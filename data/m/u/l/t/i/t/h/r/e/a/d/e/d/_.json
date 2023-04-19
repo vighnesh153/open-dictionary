@@ -1,0 +1,39 @@
+{
+  "word": "multithreaded",
+  "etymologies": [
+    {
+      "description": [
+        "multi- +‎ threaded"
+      ],
+      "adjectives": [
+        {
+          "description": "multithreaded (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of an application program, having more than one thread of execution; thus taking advantage of multi-tasking operating systems and hardware.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of a programming language, able to produce such programs",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
