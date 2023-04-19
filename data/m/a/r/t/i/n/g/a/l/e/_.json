@@ -1,0 +1,83 @@
+{
+  "word": "martingale",
+  "etymologies": [
+    {
+      "description": [
+        "Middle French martingale, from Occitan martegalo, feminine form of martegal, an inhabitant of Martigues, which is from Latin maritima. Alternatively from Spanish almártaga."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "martingale (plural martingales)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of harness used on a horse to keep it from raising its head above a desired point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A spar, or piece of rigging that strengthens the bowsprit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A stochastic process for which the conditional expectation of future values given the sequence of all prior values is equal to the current value.",
+                  "examples": [
+                    "If a gambler plays a fair game repeatedly, his payoff over time is a martingale."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A gambling strategy in which one doubles the stake after each loss.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fencing) A strap attached to the sword handle, preventing a sword being dropped if disarmed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "martingale (third-person singular simple present martingales, present participle martingaling, simple past and past participle martingaled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To employ the martingale strategy in gambling.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
