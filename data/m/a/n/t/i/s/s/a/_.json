@@ -1,0 +1,50 @@
+{
+  "word": "mantissa",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin mantissa, mantīsa, of unknown origin (said by Festus to be a loanword from Etruscan, but it may actually be from Celtic, possibly through Etruscan mediation)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mantissa (plural mantissas or mantissae)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A minor addition to a text.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The part of a common logarithm after the decimal point, the fractional part of a logarithm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) The significand; that part of a floating-point number or number in scientific notation that contains its significant digits.",
+                  "examples": [
+                    "Synonym: significand"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
