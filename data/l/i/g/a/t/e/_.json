@@ -1,0 +1,48 @@
+{
+  "word": "ligate",
+  "etymologies": [
+    {
+      "description": [
+        "Latin ligātus, perfect passive participle of ligō (“I bind”). Doublet of legato. Compare league."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ligate (third-person singular simple present ligates, present participle ligating, simple past and past participle ligated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bind with a ligature or bandage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, typography) To connect text characters with a ligature.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, chemistry) To join by ligation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
