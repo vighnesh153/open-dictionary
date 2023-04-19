@@ -1,0 +1,64 @@
+{
+  "word": "negate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin negātus, past participle of negāre (“to deny, refuse, decline”), reduced from *nec-aiare (or a similar form), from nec (“not, nor”) + aiere (“to say”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "negate (third-person singular simple present negates, present participle negating, simple past and past participle negated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To deny the existence, evidence, or truth of; to contradict.",
+                  "examples": [
+                    "The investigation tending to negate any supernatural influences."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To nullify or cause to be ineffective.",
+                  "examples": [
+                    "Progress on the study has been negated by the lack of funds.",
+                    "Persecution can be negated through exposure."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be negative; bring or cause negative results.",
+                  "examples": [
+                    "a pessimism that always negates"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To perform the NOT operation on.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
