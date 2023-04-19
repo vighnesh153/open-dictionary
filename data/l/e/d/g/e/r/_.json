@@ -1,0 +1,111 @@
+{
+  "word": "ledger",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English liggere, ligger, leger (“large breviary; beam, plank; dweller, inhabitant”), from liggen, leggen, variants of līen (“to lie down; to bow, kneel, prostrate; to die; to be located (somewhere); to remain in place, stay”), from Old English liċġan (“to lie down; to be situated”), ultimately from Proto-Indo-European *legʰ- (“to lie down”). The word is cognate with Dutch legger (“daybook; layer”) (from leggen (“to lay”), liggen (“to lie down”)), and is related to English ledge, lie (“to be prostrate”).",
+        "The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ledger (plural ledgers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A book for keeping notes; a record book, a register.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A book or other scheme for keeping accounting records.",
+              "entries": [
+                {
+                  "meaning": "(cryptocurrencies) A distributed ledger, a public financial transaction database, typically using a blockchain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(accounting) A collection of accounting entries consisting of credits and debits.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large, flat stone, especially one laid over a tomb.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(construction) A board attached to a wall to provide support for attaching other structural elements (such as deck joists or roof rafters) to a building.",
+                  "examples": [
+                    "Synonym: ligger"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fishing) Short for ledger bait (“fishing bait attached to a floating line fastened to the bank of a pond, stream, etc.”) or ledger line (“fishing line used with ledger bait for bottom fishing; ligger”).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ledger (third-person singular simple present ledgers, present participle ledgering, simple past and past participle ledgered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To record (something) in, or as if in, a ledger.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, fishing) To use (a certain type of bait) in bottom fishing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, fishing) To engage in bottom fishing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
