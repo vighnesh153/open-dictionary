@@ -1,0 +1,97 @@
+{
+  "word": "neglect",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin neglēctus, perfect passive participle of neglegō (“make light of, disregard, not to pick up”), a variant of neclegō, itself from nec (“not”) + legō (“pick up, select”). Recorded since 1529, as noun since 1588."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "neglect (countable and uncountable, plural neglects)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of neglecting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being neglected.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Habitual lack of care.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "neglect (third-person singular simple present neglects, present participle neglecting, simple past and past participle neglected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fail to care for or attend to something.",
+                  "examples": [
+                    "to neglect duty or business;  to neglect to pay debts"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To omit to notice; to forbear to treat with attention or respect; to slight.",
+                  "examples": [
+                    "to neglect strangers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fail to do or carry out something due to oversight or carelessness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To ignore for the sake of simplifying calculations without significantly affecting accuracy.",
+                  "examples": [
+                    "We can neglect this term, as it approaches zero in the limit anyway.",
+                    "This problem says to neglect air resistance."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
