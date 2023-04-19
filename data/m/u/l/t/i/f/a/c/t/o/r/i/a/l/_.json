@@ -1,0 +1,54 @@
+{
+  "word": "multifactorial",
+  "etymologies": [
+    {
+      "description": [
+        "multi- +‎ factorial"
+      ],
+      "adjectives": [
+        {
+          "description": "multifactorial (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Involving, or controlled by multiple factors.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics, of a trait) Involving multiple genetic and/or environmental factors",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multifactorial (plural multifactorials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A generalisation of a factorial in which each element to be multiplied differs from the next by an integer (e.g. n(n-3)(n-6)(n-9)...)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
