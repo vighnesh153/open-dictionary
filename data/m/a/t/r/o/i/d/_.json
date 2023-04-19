@@ -1,0 +1,32 @@
+{
+  "word": "matroid",
+  "etymologies": [
+    {
+      "description": [
+        "From matrix +‎ -oid. They were so named by Hassler Whitney in 1935 in an article titled “On the abstract properties of linear dependence”."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "matroid (plural matroids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(combinatorics) A structure that captures the essence of a notion of \"independence\" that generalizes linear independence in vector spaces and acyclicality in graphs.",
+                  "examples": [
+                    "A matroid can be defined in terms of bases. A matroid consists of a ground set as well as a set of bases which is a nonempty subset of the power set of the ground set."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
