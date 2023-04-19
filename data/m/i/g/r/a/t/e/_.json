@@ -1,0 +1,88 @@
+{
+  "word": "migrate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin migratus, past participle of migrō (“migrate, change, transport”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "migrate (third-person singular simple present migrates, present participle migrating, simple past and past participle migrated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To relocate periodically from one region to another, usually according to the seasons.",
+                  "examples": [
+                    "Twice a year the geese migrate — from Florida to Canada and back again.",
+                    "Twice a year the Minnesotans migrate from their state to the Gulf of Mexico."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To change one's geographic pattern of habitation.",
+                  "examples": [
+                    "Many groups had migrated to western Europe from the plains of eastern Europe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To change habitations across a border; to move from one country or political region to another.",
+                  "examples": [
+                    "To escape persecution, they migrated to a neutral country."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move slowly towards, usually in groups.",
+                  "examples": [
+                    "Once the hosts started bickering in the kitchens, the guests began to migrate towards the living room."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing): To move computer code or files from one computer or network to another.",
+                  "examples": [
+                    "They had finished migrating all of the affected code to the production server by 2:00am, three hours later than expected."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, marketing) To induce customers to shift purchases from one set of a company's related products to another.",
+                  "examples": [
+                    "We were hoping to migrate the customers of the \"C\" series to the \"E\" series and the \"E\" customers to the \"S\" series."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
