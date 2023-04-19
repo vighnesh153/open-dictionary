@@ -1,0 +1,32 @@
+{
+  "word": "logarithm",
+  "etymologies": [
+    {
+      "description": [
+        "From New Latin logarithmus, term coined by Scot mathematician John Napier from Ancient Greek λόγος (lógos, “word, reason”) and ἀριθμός (arithmós, “number”); compare rational number, from analogous Latin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "logarithm (plural logarithms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) For a number \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n, the power to which a given base number must be raised in order to obtain \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n. Written \n  \n    \n      \n        \n          log\n          \n            b\n          \n        \n        ⁡\n        x\n      \n    \n    {\\displaystyle \\log _{b}x}\n  \n. For example, \n  \n    \n      \n        \n          log\n          \n            10\n          \n        \n        ⁡\n        1000\n        =\n        3\n      \n    \n    {\\displaystyle \\log _{10}1000=3}\n  \n because \n  \n    \n      \n        \n          10\n          \n            3\n          \n        \n        =\n        1000\n      \n    \n    {\\displaystyle 10^{3}=1000}\n  \n and \n  \n    \n      \n        \n          log\n          \n            2\n          \n        \n        ⁡\n        16\n        =\n        4\n      \n    \n    {\\displaystyle \\log _{2}16=4}\n  \n because \n  \n    \n      \n        \n          2\n          \n            4\n          \n        \n        =\n        16\n      \n    \n    {\\displaystyle 2^{4}=16}\n  \n.",
+                  "examples": [
+                    "For a currency which uses denominations of 1, 2, 5, 10, 20, 50, 100, 200, 500, 1000, etc., each jump in the base-10 logarithm from one denomination to the next higher is either 0.3010 or 0.3979."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
