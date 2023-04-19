@@ -1,0 +1,32 @@
+{
+  "word": "meromorphic",
+  "etymologies": [
+    {
+      "description": [
+        "mero- +‎ -morphic"
+      ],
+      "adjectives": [
+        {
+          "description": "meromorphic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(complex analysis, of a function) That is the ratio of two holomorphic functions (and so possibly infinite at a discrete set of points).",
+                  "examples": [
+                    "Normal families of meromorphic functions are most naturally studied using the spherical metric (§1.2), an approach initiated by Ostrowski [1926]. Some results for meromorphic functions, such as the FNT, are immediate extensions from the analytic case, whereas others, such as Landau's or Julia's theorem are set in a much broader context than their analytic counterparts. Normality criteria pertinent to families of meromorphic functions, such as Marty's theorem, have not yet been encountered."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
