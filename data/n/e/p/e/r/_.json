@@ -1,0 +1,32 @@
+{
+  "word": "neper",
+  "etymologies": [
+    {
+      "description": [
+        "From Joannes Neper, the Latinized name of John Napier, a Scottish mathematician."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "neper (plural nepers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A non-SI unit of the attenuation (or sometimes gain) of field and power quantities such as electronic signals; the natural logarithm of a ratio, with 1 Np (a ratio of 2.718:1) being equivalent to 8.686 dB.",
+                  "examples": [
+                    "Values of b, the amplitude attenuation constant, are given for various materials in Table 1.1. Having dimensions of [length]-1, it is usually measured in nepers per centimetre (Np cm-1)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
