@@ -1,0 +1,32 @@
+{
+  "word": "mispatch",
+  "etymologies": [
+    {
+      "description": [
+        "mis- +‎ patch"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mispatch (third-person singular simple present mispatches, present participle mispatching, simple past and past participle mispatched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To patch wrongly.",
+                  "examples": [
+                    "Make sure you have a good boot disk in case anything goes wrong, as your computer probably won't boot with a mispatched COMMAND.COM."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
