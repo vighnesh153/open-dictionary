@@ -1,0 +1,30 @@
+{
+  "word": "lvalue",
+  "etymologies": [
+    {
+      "description": [
+        "L +‎ value, where L stands for left-hand side (of an assignment). In the context of the C programming language it is sometimes re-explained as locator value."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lvalue (plural lvalues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A value that can be treated as an address or storage location.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
