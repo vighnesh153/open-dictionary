@@ -1,0 +1,55 @@
+{
+  "word": "minify",
+  "etymologies": [
+    {
+      "description": [
+        "mini- +‎ -fy"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "minify (third-person singular simple present minifies, present participle minifying, simple past and past participle minified)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make smaller.",
+                  "examples": [
+                    "Schneckenburger strives to make it appear that Baur unduly minifies the Christian element in Manichæism."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To reduce in apparent size, as for example objects viewed through a lens or mirror shaped so as to increase the field of view, such as a convex or aspheric mirror or a Fresnel lens.",
+                  "examples": [
+                    "But, mused Parker, this theory of one's perplexities being diminished by the vastly superior height of these Gothic arches cannot have any foundation in fact, for the same inverted telescope that minifies my burdens also minifies my capacity to carry them, leaving me exactly of the same stature as before."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To remove white space and unnecessary characters from a web page's source code in order to reduce its size and improve download time.",
+                  "examples": [
+                    "Synonym: uglify",
+                    "Antonyms: pretty-print, prettify"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

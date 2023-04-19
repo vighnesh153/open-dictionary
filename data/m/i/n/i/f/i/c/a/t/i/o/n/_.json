@@ -1,0 +1,41 @@
+{
+  "word": "minification",
+  "etymologies": [
+    {
+      "description": [
+        "mini- +‎ -ification"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "minification (countable and uncountable, plural minifications)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The reduction in apparent size of objects viewed through a lens or mirror shaped so as to increase the field of view, such as a convex or aspheric mirror or a Fresnel lens.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The removal of white space and unnecessary characters from a web page's source code in order to reduce its size and improve download time.",
+                  "examples": [
+                    "Minification is the process of eliminating white space, comments, and other non-essential parts of the JavaScript code to decrease the size of the JavaScript files that need to be transferred from the server to the browser."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
