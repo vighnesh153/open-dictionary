@@ -1,0 +1,48 @@
+{
+  "word": "monotonic",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek μονότονος (monótonos, “monotone”) +‎ -ικός (-ikós, “-ic”)."
+      ],
+      "adjectives": [
+        {
+          "description": "monotonic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "of or using the Greek system of diacritics which discards the breathings and employs a single accent to indicate stress. It replaced polytonic system in 1982.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) said of a function that either never decreases or never increases as its independent variable increases.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Uttered in a monotone; monotonous.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

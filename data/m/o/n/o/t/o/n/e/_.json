@@ -1,0 +1,84 @@
+{
+  "word": "monotone",
+  "etymologies": [
+    {
+      "description": [
+        "From the post-Classical Latin monotonus (“unvarying in tone”) or its etymon the Ancient Greek μονότονος (monótonos, “steady”, “unwavering”); compare cognate adjectives, namely the French monotone, the German monoton, the Italian monotono, and the Spanish monótono, as well as the slightly earlier English noun monotony and adjective monotonical."
+      ],
+      "adjectives": [
+        {
+          "description": "monotone (comparative more monotone, superlative most monotone)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of speech or a sound) Having a single unvaried pitch.",
+                  "examples": [
+                    "The prominence of the syllables is more monotone than in English, the intonation of the latter having a larger variation of stressed and unstressed syllables."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Being, or having the salient properties of, a monotone function.",
+                  "examples": [
+                    "The function \n  \n    \n      \n        f\n        (\n        x\n        )\n        :=\n        \n          x\n          \n            3\n          \n        \n      \n    \n    {\\displaystyle f(x):=x^{3}}\n  \n is monotone on \n  \n    \n      \n        \n          R\n        \n      \n    \n    {\\displaystyle \\mathbb {R} }\n  \n, while \n  \n    \n      \n        g\n        (\n        x\n        )\n        :=\n        \n          x\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle g(x):=x^{2}}\n  \n is not."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monotone (countable and uncountable, plural monotones)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A single unvaried tone of speech or a sound.",
+                  "examples": [
+                    "When Tima felt like her parents were treating her like a servant, she would speak in monotone and act as though she were a robot."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of writing in one strain throughout.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "monotone (third-person singular simple present monotones, present participle monotoning, simple past and past participle monotoned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To speak in a monotone.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

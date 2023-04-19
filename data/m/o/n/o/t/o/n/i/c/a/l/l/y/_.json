@@ -1,0 +1,39 @@
+{
+  "word": "monotonically",
+  "etymologies": [
+    {
+      "description": [
+        "monotonic +‎ -ally"
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "monotonically (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a monotonic manner, pertaining to the Greek system of diacritics which discards the breathings and employs a single accent to indicate stress",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) In a monotonic manner, of a function that either never decreases or never increases as its independent variable increases",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

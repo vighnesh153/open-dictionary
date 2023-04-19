@@ -1,0 +1,39 @@
+{
+  "word": "monotonicity",
+  "etymologies": [
+    {
+      "description": [
+        "monotonic +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monotonicity (countable and uncountable, plural monotonicities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, physics) The state of being monotonic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis) Said of a positive measure: the property of a positive measure of a measure space, that given two measurable sets where the first set is contained in the second one, then the measure of the first set must be less than or equal to the measure of the second set.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
