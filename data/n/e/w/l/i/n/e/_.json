@@ -1,0 +1,34 @@
+{
+  "word": "newline",
+  "etymologies": [
+    {
+      "description": [
+        "From new +‎ line, Coined by  Bell Laboratories during development of the C programming language and the UNIX operating system."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "newline (plural newlines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The character or character sequence that indicates the end of a line of text and transition to the next line; or, a control code or escape sequence used in a programming language to denote this character.",
+                  "examples": [
+                    "Synonyms: line break, carriage return, end-of-line",
+                    "Hyponyms: hard return, soft return",
+                    "Microsoft Windows uses CRLF for newline."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
