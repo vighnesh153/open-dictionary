@@ -1,0 +1,32 @@
+{
+  "word": "multibyte",
+  "etymologies": [
+    {
+      "description": [
+        "multi- +‎ byte"
+      ],
+      "adjectives": [
+        {
+          "description": "multibyte (also multi-byte)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Contained in more than one byte.",
+                  "examples": [
+                    "The computer stored the number in a multibyte location: it took 32 bits or four entire bytes to store so large a value."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
