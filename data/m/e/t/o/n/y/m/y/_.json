@@ -1,0 +1,43 @@
+{
+  "word": "metonymy",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin metonymia, from Ancient Greek μετωνυμίᾱ (metōnumíā, “change of name”), from μετά (metá, “other”) + ὄνομα (ónoma, “name”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "metonymy (countable and uncountable, plural metonymies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) The use of a single characteristic or part of an object, concept or phenomenon to identify the entire object, concept, phenomenon or a related object.",
+                  "examples": [
+                    "Coordinate term: metaphor",
+                    "Hypernyms: trope, figure of speech",
+                    "Hyponyms: synecdoche, synecdochy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A metonym.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
