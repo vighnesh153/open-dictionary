@@ -1,0 +1,45 @@
+{
+  "word": "microcode",
+  "etymologies": [
+    {
+      "description": [
+        "micro- +‎ code"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "microcode (usually uncountable, plural microcodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The collective microprograms in a CPU, used to run machine instructions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "microcode (third-person singular simple present microcodes, present participle microcoding, simple past and past participle microcoded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To write or rewrite (program instructions) in microcode, typically to optimize performance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
