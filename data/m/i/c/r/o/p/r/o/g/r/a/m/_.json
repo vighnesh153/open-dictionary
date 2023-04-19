@@ -1,0 +1,45 @@
+{
+  "word": "microprogram",
+  "etymologies": [
+    {
+      "description": [
+        "micro- +‎ program"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "microprogram (plural microprograms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) a set of microinstructions in a CPU, used to implement machine instructions",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "microprogram (third-person singular simple present microprograms, present participle microprogramming, simple past and past participle microprogrammed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) to manually write a microprogram",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "word": "microprocessor",
+  "etymologies": [
+    {
+      "description": [
+        "micro- +‎ processor"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "microprocessor (plural microprocessors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer hardware) the entire CPU of a computer on a single integrated circuit (chip).",
+                  "examples": [
+                    "When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and pushes the current contents of the PC ($00 0128) onto the stack."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
