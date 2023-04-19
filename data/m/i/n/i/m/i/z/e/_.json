@@ -1,0 +1,64 @@
+{
+  "word": "minimize",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "minimize (third-person singular simple present minimizes, present participle minimizing, simple past and past participle minimized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make (something) smaller or as small as possible; shrink; reduce.",
+                  "examples": [
+                    "We have to minimize the budget.",
+                    "Try to minimize your biases."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To relegate or assign (something) to a less insignificant status; diminish.",
+                  "examples": [
+                    "The insurance adjuster tried to minimize the extent of the damage to lessen the company's exposure to liability."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, graphical user interface) To remove (a window) from the main display area, collapsing it to an icon or caption.",
+                  "examples": [
+                    "I didn't close anything, but I minimized all the windows so I could see the desktop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To treat (someone) in a slighting manner.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
