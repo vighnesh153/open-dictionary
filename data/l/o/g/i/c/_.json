@@ -1,0 +1,139 @@
+{
+  "word": "logic",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English logike, from Old French and Latin logicus, from Ancient Greek λογῐκός (logikós)."
+      ],
+      "adjectives": [
+        {
+          "description": "logic",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "logical",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English logik, from Old French logike, from Latin logica, from Ancient Greek λογική (logikḗ, “logic”), from feminine of λογικός (logikós, “of or pertaining to speech or reason or reasoning, rational, reasonable”), from λόγος (lógos, “speech, reason”). Displaced native Old English flitcræft (literally “art of arguing”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "logic (countable and uncountable, plural logics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A method of human thought that involves thinking in a linear, step-by-step manner about how a problem can be solved. Logic is the basis of many principles including the scientific method.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy, logic) The study of the principles and criteria of valid inference and demonstration.",
+                  "examples": [
+                    "Hyponyms: see Thesaurus:logic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, mathematics) The mathematical study of relationships between rigorously defined concepts and of mathematical proof of statements.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) A formal or informal language together with a deductive system or a model-theoretic semantics.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Any system of thought, whether rigorous and productive or not, especially one associated with a particular person.",
+                  "examples": [
+                    "It's hard to work out his system of logic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The part of a system (usually electronic) that performs the boolean logic operations, short for logic gates or logic circuit.",
+                  "examples": [
+                    "Fred is designing the logic for the new controller."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "logic (third-person singular simple present logics, present participle logicking, simple past and past participle logicked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, derogatory) To engage in excessive or inappropriate application of logic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To apply logical reasoning to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To overcome by logical argument.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

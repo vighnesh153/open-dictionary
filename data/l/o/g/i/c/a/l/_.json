@@ -1,0 +1,61 @@
+{
+  "word": "logical",
+  "etymologies": [
+    {
+      "description": [
+        "logic +‎ -al"
+      ],
+      "adjectives": [
+        {
+          "description": "logical (comparative more logical, superlative most logical)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable) In agreement with the principles of logic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Reasonable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable) Of or pertaining to logic.",
+                  "examples": [
+                    "It's not logical, it's God!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Relating to the conceptual model of a system rather than its physical expression",
+                  "examples": [
+                    "Logical memory appears contiguous to an application program, but may well be stored on several physical devices, including in RAM and on hard-disks, as determined by the operating system."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
