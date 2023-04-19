@@ -1,0 +1,154 @@
+{
+  "word": "monitor",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin monitor (“warner”), from perfect passive participle monitus (“warning”), from verb monere (“to warn, admonish, remind”).  Warship sense is from USS Monitor, the first ship of this type."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monitor (plural monitors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who watches over something; a person in charge of something or someone.",
+                  "examples": [
+                    "The camp monitors look after the children during the night, when the teachers are asleep."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device that detects and informs on the presence, quantity, etc., of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A device similar to a television set used as to give a graphical display of the output from a computer.",
+                  "examples": [
+                    "The information flashed up on the monitor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A studio monitor or loudspeaker.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program for viewing and editing.",
+                  "examples": [
+                    "a machine code monitor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Hong Kong, archaic in Britain) A student leader in a class.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) One of a class of relatively small armored warships with only one or two turrets (but often carrying unusually large guns for a warship of its size), usually designed for shore bombardment or riverine warfare rather than open-ocean combat.  [from 1862]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) An ironclad.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A monitor lizard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) One who admonishes; one who warns of faults, informs of duty, or gives advice and instruction by way of reproof or caution.",
+                  "examples": [
+                    "You need not be a monitor to your gracious master the king."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) A tool holder, as for a lathe, shaped like a low turret, and capable of being revolved on a vertical pivot so as to bring the several tools successively into position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A monitor nozzle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "monitor (third-person singular simple present monitors, present participle monitoring, simple past and past participle monitored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To watch over; to guard.",
+                  "examples": [
+                    "A wide-area distributed system such as a Grid requires that a broad range of data be monitored and collected for a variety of tasks such as fault detection and performance monitoring, analysis, prediction and tuning."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
