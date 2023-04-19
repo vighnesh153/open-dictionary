@@ -1,0 +1,371 @@
+{
+  "word": "master",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English maister, mayster, meister (noun) and maistren (verb), from Old English mǣster, mæġster, mæġester, mæġister, magister (“master”), from Latin magister (“chief, teacher, leader”), from Old Latin magester, from Proto-Indo-European *méǵh₂s, (as in magnus (“great”)) + -ester/-ister (compare minister (“servant”)). Reinforced by Old French maistre, mestre (noun) and maistriier, maister (verb) from the same Latin source. Compare also Saterland Frisian Mäster (“master”), West Frisian master (“master”), Dutch meester (“master”), German Meister (“master”). Doublet of maestro and magister."
+      ],
+      "adjectives": [
+        {
+          "description": "master (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Masterful.",
+                  "examples": [
+                    "a master performance"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Main, principal or predominant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Highly skilled.",
+                  "examples": [
+                    "master batsman"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Original.",
+                  "examples": [
+                    "master copy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "master (plural masters, feminine mistress)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who has control over something or someone.",
+                  "examples": [
+                    "We are masters of the sea."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The owner of an animal or slave.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The captain of a merchant ship; a master mariner.",
+                  "examples": [
+                    "Synonyms: skipper, captain"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) The head of a household.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who employs others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An expert at something.",
+                  "examples": [
+                    "Mark Twain was a master of fiction.",
+                    "Synonyms: see Thesaurus:skilled person"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tradesman who is qualified to teach apprentices.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A schoolmaster.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A skilled artist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A man or a boy; mister. See Master.",
+                  "examples": [
+                    "Where there are little Maſters and Miſſes in a Houſe, they are uſually great Impediments to the Diverſions of the Servants;"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A master's degree; a type of postgraduate degree, usually undertaken after a bachelor degree.",
+                  "examples": [
+                    "She has a master in psychology.",
+                    "Synonyms: masters, master's, (Quebec) magistrate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person holding such a degree.",
+                  "examples": [
+                    "He is a master of marine biology."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The original of a document or of a recording.",
+                  "examples": [
+                    "The band couldn't find the master, so they re-recorded their tracks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(film) The primary wide shot of a scene, into which the closeups will be edited later.",
+                  "examples": [
+                    "Synonyms: establishing shot, long shot"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A parajudicial officer (such as a referee, an auditor, an examiner, or an assessor) specially appointed to help a court with its proceedings.",
+                  "examples": [
+                    "The case was tried by a master, who concluded that the plaintiffs were the equitable owners of the property. […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, computing) A device that is controlling other devices or is an authoritative source.",
+                  "examples": [
+                    "a master wheel",
+                    "a master database",
+                    "Synonym: primary",
+                    "Antonyms: secondary, slave"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Freemasonry) A person holding an office of authority, especially the presiding officer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A person holding a similar office in other civic societies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Short for master key.",
+                  "examples": [
+                    "The use of masters and submasters will enable suites of rooms to be controlled by one key."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(BDSM) A male dominant.",
+                  "examples": [
+                    "Coordinate term: mistress"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "master (third-person singular simple present masters, present participle mastering, simple past and past participle mastered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be a master.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To become the master of; to subject to one's will, control, or authority; to conquer; to overpower; to subdue.",
+                  "examples": [
+                    "Obstinacy and willful neglects must be mastered, even though it cost blows."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To learn to a high degree of proficiency.",
+                  "examples": [
+                    "It took her years to master the art of needlecraft."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To own; to possess.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, especially of a musical performance) To make a master copy of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, usually with in) To earn a Master's degree.",
+                  "examples": [
+                    "He mastered in English at the state college."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "mast +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "master (plural masters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical, in combination) A vessel having a specified number of masts.",
+                  "examples": [
+                    "a two-master"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
