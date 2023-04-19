@@ -1,0 +1,47 @@
+{
+  "word": "mailbox",
+  "etymologies": [
+    {
+      "description": [
+        "mail +‎ box"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mailbox (plural mailboxes)",
+          "definitionGroups": [
+            {
+              "group": "(chiefly US) A box into which mail is put.",
+              "entries": [
+                {
+                  "meaning": "A collection point for mail intended for onward delivery, a secure box or receptacle for this purpose.",
+                  "examples": [
+                    "Synonym: (UK) letterbox"
+                  ]
+                },
+                {
+                  "meaning": "A delivery point for mail, a box, compartment or slot for this purpose.",
+                  "examples": [
+                    "Synonym: (UK) letterbox"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A folder or account for the storage of email; an electronic inbox or mailstore.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
