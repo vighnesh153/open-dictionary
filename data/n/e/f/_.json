@@ -1,0 +1,55 @@
+{
+  "word": "nef",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French nef. Doublet of nave and nau."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nef (plural nefs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An extravagant table ornament and container used in the Middle Ages and Renaissance, made in the shape of a ship.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Short for numerically effective; introduced by Miles Reid."
+      ],
+      "adjectives": [
+        {
+          "description": "nef (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebraic geometry) Of a line bundle on a complete algebraic variety over a field: such that the degree of its restriction to every algebraic curve in the variety is non-negative.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
