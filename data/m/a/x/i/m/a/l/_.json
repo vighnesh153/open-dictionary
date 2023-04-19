@@ -1,0 +1,63 @@
+{
+  "word": "maximal",
+  "etymologies": [
+    {
+      "description": [
+        "maximum +‎ -al"
+      ],
+      "adjectives": [
+        {
+          "description": "maximal",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Largest, greatest (in magnitude), highest, most.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "maximal (plural maximals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The element of a set with the greatest magnitude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Said of an ideal of a ring or a filter of a lattice: that it is as large as it can be without being trivial (improper).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Said of a set of well-formed formulas: that it is as large as it can be without being inconsistent; i.e. that for any well-formed formula φ, the set contains either φ or ~φ.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
