@@ -1,0 +1,51 @@
+{
+  "word": "membrane",
+  "etymologies": [
+    {
+      "description": [
+        "Late Middle English, borrowed from Latin membrāna (“skin or membrane that covers parts of the body”), from membrum (“a limb or member of the body”) +‎ -āna. Doublet of membrana."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "membrane (plural membranes)",
+          "definitionGroups": [
+            {
+              "group": "(anatomy, zootomy) A flexible enclosing or separating tissue forming a plane or film and separating two environments.",
+              "entries": [
+                {
+                  "meaning": "A mechanical, thin, flat flexible part that can deform or vibrate when excited by an external force.",
+                  "examples": [
+                    "Hyponym: single-ply membrane"
+                  ]
+                },
+                {
+                  "meaning": "A flexible or semiflexible covering or waterproofing whose primary function is to exclude water.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(biology) A microscopic double layer of lipids and proteins forming the boundary of cells or organelles.",
+                  "examples": [
+                    "Hyponyms: cell membrane, haptogenic membrane, ion-selective membrane, nuclear membrane, plasma membrane"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of parchment forming part of a roll.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
