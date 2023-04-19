@@ -1,0 +1,50 @@
+{
+  "word": "locale",
+  "etymologies": [
+    {
+      "description": [
+        "From French local (adj), nominal use of the adjective."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "locale (plural locales)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The place where something happens.",
+                  "examples": [
+                    "Being near running water and good shade, the explorers decided it was a good locale for setting up camp."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The set of settings related to the language and region in which a computer program executes. Examples are language, currency and time formats, character encoding etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A partially ordered set with the following additional axiomatic properties: any finite subset of it has a meet, any arbitrary subset of it has a join, and distributivity, which states that a binary meet distributes with respect to an arbitrary join. (Note: locales are just like frames except that the category of locales is opposite to the category of frames.)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

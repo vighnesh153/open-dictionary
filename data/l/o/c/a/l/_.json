@@ -1,0 +1,210 @@
+{
+  "word": "local",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English local, from Late Latin locālis (“belonging to a place”), possibly also via Old French local; ultimately from Latin locus (“a place”)."
+      ],
+      "adjectives": [
+        {
+          "description": "local (comparative more local, superlative most local)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "From or in a nearby location.",
+                  "examples": [
+                    "We prefer local produce."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a resource) Connected directly to a particular computer, processor, etc.; able to be accessed offline.",
+                  "examples": [
+                    "local disk drive",
+                    "local file",
+                    "The panel shows both local and remote sites.",
+                    "Antonym: remote"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a variable or identifier) Having limited scope (either lexical or dynamic); only being accessible within a certain portion of a program.",
+                  "examples": [
+                    "Antonym: global"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, not comparable, of a condition or state) Applying to each point in a space rather than the space as a whole.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Of or pertaining to a restricted part of an organism.",
+                  "examples": [
+                    "local lesion",
+                    "The patient didn't want to be sedated, so we applied only local anesthesia.",
+                    "Synonym: topical"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Descended from an indigenous population.",
+                  "examples": [
+                    "Hawaiian Pidgin is spoken by the local population."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "local (comparative more local, superlative most local)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In the local area; within a city, state, country, etc.",
+                  "examples": [
+                    "It's never been more important to buy local."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "local (plural locals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who lives near a given place.",
+                  "examples": [
+                    "It's easy to tell the locals from the tourists."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A branch of a nationwide organization such as a trade union.",
+                  "examples": [
+                    "I'm in the TWU, too. Local 6."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) Clipping of local train.",
+                  "examples": [
+                    "The expresses skipped my station, so I had to take a local.",
+                    "Synonym: stopper",
+                    "Antonyms: fast, express"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain) One's nearest or regularly frequented public house or bar.",
+                  "examples": [
+                    "I got barred from my local, so I've started going all the way into town for a drink."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A locally scoped identifier.",
+                  "examples": [
+                    "Functional programming languages usually don't allow changing the immediate value of locals once they've been initialized, unless they're explicitly marked as being mutable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang, journalism) An item of news relating to the place where the newspaper is published.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, medicine) Clipping of local anesthetic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) An independent trader who acts for themselves rather than on behalf of investors.",
+                  "examples": [
+                    "Synonym: floor trader"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fandom slang, derogatory) A Twitter user who is not a part of Stan Twitter.",
+                  "examples": [
+                    "Her camera roll is filled with pictures and videos of her idol, she doesn't let any of her friends see her account because \"no locals allowed\",  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
