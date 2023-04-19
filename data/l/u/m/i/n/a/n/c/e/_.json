@@ -1,0 +1,46 @@
+{
+  "word": "luminance",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "luminance (countable and uncountable, plural luminances)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality of being luminous.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The amount of light that passes through, is emitted, or is reflected from a particular area, and falls within a given solid angle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The luminous flux emitted in a given direction divided by the product of the projected area of the source element perpendicular to the direction and the solid angle containing that direction (i.e. luminous intensity divided by unit area), measured in stilbs or apostilbs.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
