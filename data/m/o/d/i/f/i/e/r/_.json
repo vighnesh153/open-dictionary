@@ -1,0 +1,59 @@
+{
+  "word": "modifier",
+  "etymologies": [
+    {
+      "description": [
+        "modify +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "modifier (plural modifiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, modifies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word, phrase, or clause that limits or qualifies the sense of another word or phrase.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A keyword that qualifies the meaning of other code.",
+                  "examples": [
+                    "The protected modifier makes a class member visible to subclasses, but not to external code."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Short for modifier key.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
