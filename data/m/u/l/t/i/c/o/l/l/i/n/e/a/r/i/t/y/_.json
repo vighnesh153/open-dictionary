@@ -1,0 +1,30 @@
+{
+  "word": "multicollinearity",
+  "etymologies": [
+    {
+      "description": [
+        "multicollinear +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multicollinearity (countable and uncountable, plural multicollinearities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A phenomenon in which two or more predictor variables in a multiple regression model are highly correlated, so that the coefficient estimates may change erratically in response to small changes in the model or data.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
