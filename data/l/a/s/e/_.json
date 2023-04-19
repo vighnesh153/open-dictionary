@@ -1,0 +1,55 @@
+{
+  "word": "lase",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from laser, as if removing -er. Compare mase."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "lase (third-person singular simple present lases, present participle lasing, simple past and past participle lased)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use a laser beam on, as for cutting.",
+                  "examples": [
+                    "The surgeon lased the elongated soft palate, cutting off the excess tissue and stopping the blood flow in one swipe.",
+                    "The physical chemist lased the atoms as they passed between the electrodes to study their motion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use a laser beam on, as for targeting or rangefinding.",
+                  "examples": [
+                    "The commander lased the target across the valley."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To operate as a laser; to release coherent light due to stimulation.",
+                  "examples": [
+                    "Once enough of the gas particles are in a higher energy state, they will begin to lase and give off a coherent beam."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
