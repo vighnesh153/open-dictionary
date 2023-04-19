@@ -1,0 +1,149 @@
+{
+  "word": "lane",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English lane, lone, from Old English lane, lanu (“a lane, alley, avenue”), from Proto-West Germanic *lanu, from Proto-Germanic *lanō (“lane, passageway”).",
+        "Cognate with Scots lone (“cattle-track, by-road”), West Frisian leane, loane (“a walkway, avenue”), Dutch laan (“alley, avenue”), German Low German Lane, Laan (“lane”), Swedish lån (“covered walkway encircling a house”), Icelandic lön (“a row of houses”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lane (plural lanes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(used in street names) A road, street, or similar thoroughfare.",
+                  "examples": [
+                    "Penny Lane"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A narrow passageway between fences, walls, hedges or trees.",
+                  "examples": [
+                    "There's a shortcut to the shops through this leafy lane."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A narrow road, as in the country.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A lengthwise division of roadway intended for a single line of vehicles.",
+                  "examples": [
+                    "Drivers should overtake in the outside lane",
+                    "We were held up by a truck in the middle lane of the freeway.",
+                    "the exit lane"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A similar division of a racetrack to keep runners apart.",
+                  "examples": [
+                    "There are eight lanes on an Olympic running track."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of a number of parallel tracks or passages.",
+                  "examples": [
+                    "the checkout lanes in a supermarket",
+                    "a swimming lane"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A course designated for ships or aircrafts.",
+                  "examples": [
+                    "shipping lane"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bowling) An elongated wooden strip of floor along which a bowling ball is rolled.",
+                  "examples": [
+                    "We booked a couple of lanes at the bowling alley."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) An empty space in the tableau, formed by the removal of an entire row of cards.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Any of the parallel slots in which values can be stored in a SIMD architecture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) In MOBA (multiplayer online battle arena) games, a particular path on the map that may be traversed by enemy characters.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(horse racing) The home stretch.",
+                  "examples": [
+                    "And it's Uncle Mo in front by two as they come to the top of the lane."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
