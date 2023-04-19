@@ -1,0 +1,115 @@
+{
+  "word": "mesh",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English mesche, from Old English masc (“net”) (perhaps influenced in form by related Old English mæscre (“mesh, spot”)) both from Proto-Germanic *maskrǭ, *maskwǭ, from Proto-Indo-European *mezg- (“to knit, twist, plait”).",
+        "Akin to Old High German māsca (“mesh”), Old Saxon maska (“net”), Old Norse mǫskvi, mǫskun (“mesh”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mesh (plural meshes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A structure made of connected strands of metal, fiber, or other flexible/ductile material, with evenly spaced openings between them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The opening or space enclosed by the threads of a net between knot and knot, or the threads enclosing such a space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The engagement of the teeth of wheels, or of a wheel and rack.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A measure of fineness (particle size) of ground material. A powder that passes through a sieve having 300 openings per linear inch but does not pass 400 openings per linear inch is said to be -300 +400 mesh.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A polygon mesh.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) In mesh analysis: a loop in a electric circuit (to which Kirchhoff's voltage law can be applied).",
+                  "examples": [
+                    "Hyponyms: essential mesh, supermesh"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mesh (third-person singular simple present meshes, present participle meshing, simple past and past participle meshed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To connect together by interlocking, as gears do.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figurative, by extension) To fit in; to come together harmoniously.",
+                  "examples": [
+                    "The music meshed well with the visuals in that film."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To catch in a mesh.",
+                  "examples": [
+                    "I know how loue doth rage vpon a yelding minde:How smal a net may take and meash a hart of gentle kinde"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
