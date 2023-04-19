@@ -1,0 +1,47 @@
+{
+  "word": "monomial",
+  "etymologies": [
+    {
+      "description": [
+        "From mononomial, with -nono- simplified to -no- by haplology."
+      ],
+      "adjectives": [
+        {
+          "description": "monomial (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being or relating to a polynomial consisting of one term.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monomial (plural monomials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A single term consisting of a product of numbers and variables with positive integer exponents.",
+                  "examples": [
+                    "5x²y is a monomial"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
