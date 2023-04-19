@@ -1,0 +1,52 @@
+{
+  "word": "longitude",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English, borrowed from Old French longitude, from Latin longitūdō (“length, a measured length”), from longus (“long”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "longitude (countable and uncountable, plural longitudes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geography) Angular distance measured west or east of the prime meridian.",
+                  "examples": [
+                    "Coordinate term: latitude"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geography, astronomy) Any imaginary line perpendicular to the equator and part of a great circle passing through the North Pole and South Pole.",
+                  "examples": [
+                    "Synonym: meridian"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Length.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
