@@ -1,0 +1,103 @@
+{
+  "word": "macro",
+  "etymologies": [
+    {
+      "description": [
+        "1933, from macro-, from French, from Latin, from Ancient Greek μακρός (makrós, “long”)."
+      ],
+      "adjectives": [
+        {
+          "description": "macro (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Very large in scope or scale.",
+                  "examples": [
+                    "Antonym: micro"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cooking, colloquial) Clipping of macrobiotic.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "macro (countable and uncountable, plural macros)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, nutrition, countable, chiefly in the plural) Clipping of macronutrient.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, economics, uncountable) Clipping of macroeconomics.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, photography, countable) Short for macro lens.",
+                  "examples": [
+                    "Most macros are made by camera manufacturers to fit their cameras"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "1959, shortened form of macroinstruction."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "macro (plural macros)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A comparatively human-friendly abbreviation of complex input to a computer program.",
+                  "examples": [
+                    "The preprocessor expands any embedded macros into source code before it is compiled."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
