@@ -1,0 +1,199 @@
+{
+  "word": "leak",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English leken (“to let water in or out”), from Old English *lecan (“to leak”), Middle Dutch leken (“to leak, drip”) or Old Norse leka (“to leak, drip”); all from Proto-Germanic *lekaną (“to leak, drain”), from Proto-Indo-European *leg-, *leǵ- (“to leak”).",
+        "Cognate with Dutch lekken (“to leak”), German lechen, lecken (“to leak”), Swedish läcka (“to leak”), Icelandic leka (“to leak”). Related also to Old English leċċan (“to water, wet”), Albanian lag, lak (“I damp, make wet”). See also leach, lake."
+      ],
+      "adjectives": [
+        {
+          "description": "leak (comparative more leak, superlative most leak)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Leaky.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "leak (plural leaks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A crack, crevice, fissure, or hole which admits water or other fluid, or lets it escape.",
+                  "examples": [
+                    "a leak in a roof",
+                    "a leak in a boat",
+                    "a leak in a gas pipe"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The entrance or escape of a fluid through a crack, fissure, or other aperture.",
+                  "examples": [
+                    "The leak gained on the ship's pumps.",
+                    "The babies' diapers had big leaks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A divulgation, or disclosure, of information previously held secret.",
+                  "examples": [
+                    "The leaks by Chelsea Manning showed the secrets of the US military."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The person through whom such divulgation, or disclosure, occurs.",
+                  "examples": [
+                    "The press must have learned about the plan through a leak."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A loss of electricity through imperfect insulation, or the point where it occurs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The gradual loss of a system resource caused by failure to deallocate previously reserved portions.",
+                  "examples": [
+                    "resource leak",
+                    "memory leak"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mildly vulgar, slang, especially with the verb \"take\") An act of urination.",
+                  "examples": [
+                    "I have to take a leak."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "leak (third-person singular simple present leaks, present participle leaking, simple past and past participle leaked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To allow fluid or gas to pass through an opening that should be sealed.",
+                  "examples": [
+                    "The wells are believed to have been leaking oil for decades, long after the operating company ceased to exist.",
+                    "The faucet has been leaking since last month."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) (of a fluid or gas) To pass through an opening that should be sealed.",
+                  "examples": [
+                    "No one realized that propane gas was leaking from a rusty tank in the concession area, slowly filling the unventilated room."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To disclose secret information surreptitiously or anonymously.",
+                  "examples": [
+                    "Someone must have leaked it to our competitors that the new product will be out soon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, figurative, by extension) To pass through when it would normally or preferably be blocked.",
+                  "examples": [
+                    "A target that is not detected would not be intercepted and thus would leak through the single defensive layer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figurative, by extension) To allow anything through that would normally or preferably be blocked.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, sometimes euphemistic) To urinate.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:urinate",
+                    "I had to leak in the woods since there were no toilets around."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, US) To bleed.",
+                  "examples": [
+                    "He shanked him, now he's leaking."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
