@@ -1,0 +1,72 @@
+{
+  "word": "merge",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin mergō (“to dip; dip in; plunge; sink down into; immerse; overwhelm”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "merge (plural merges)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The joining together of multiple sources.",
+                  "examples": [
+                    "There are often accidents at that traffic merge.",
+                    "The merge of the two documents failed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "merge (third-person singular simple present merges, present participle merging, simple past and past participle merged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To combine into a whole.",
+                  "examples": [
+                    "Headquarters merged the operations of the three divisions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To combine into a whole.",
+                  "examples": [
+                    "The two companies merged."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To blend gradually into something else.",
+                  "examples": [
+                    "The lanes of traffic merged."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
