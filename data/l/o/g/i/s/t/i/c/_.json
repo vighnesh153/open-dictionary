@@ -1,0 +1,135 @@
+{
+  "word": "logistic",
+  "etymologies": [
+    {
+      "description": [
+        "From French logistique, from Ancient Greek λογιστικός (logistikós, “practiced in arithmetic; rational”), from λογίζομαι (logízomai, “I reason, I calculate”), from λόγος (lógos, “reason, computation”), whence English logos, logic, logarithm, etc.; modern mathematical use influenced by related logarithmic.",
+        "Sense of “logistic function” by Pierre François Verhulst (1845) in French, then borrowed into English. Verhulst does not explain his choice of naming, but he contrasts it with the logarithmic curve (also from λόγος (lógos)), and it is presumably by analogy with arithmetic and geometric (other divisions of mathematics), as his discussion of arithmetic growth and geometric growth precede his discussion of logistic growth.",
+        "The term logistic and logistical also found occasional mathematical use in English prior to 1800, from the same Greek origin."
+      ],
+      "adjectives": [
+        {
+          "description": "logistic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Relating to symbolic logic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Relating to the logistic function.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, obsolete) Using sexagesimal fractions, especially in arithmetic or logarithms.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, obsolete) Relating to basic arithmetic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, obsolete) Skilled in calculating.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, obsolete) Proportional.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "logistic (countable and uncountable, plural logistics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) A logistic function or graph of a logistic curve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, mathematics, obsolete) The art of calculation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, mathematics, obsolete) Sexagesimal arithmetic.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From French logistique, from loger (“to lodge”) or logis (“lodging place”)."
+      ],
+      "adjectives": [
+        {
+          "description": "logistic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(operations) Relating to logistics.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
