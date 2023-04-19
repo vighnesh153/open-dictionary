@@ -1,0 +1,98 @@
+{
+  "word": "mnemonic",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Late Latin mnemonicus or its etymon Ancient Greek μνημονῐκός (mnēmonikós, “pertaining to memory or remembrance, memorial”) + English -ic (suffix meaning ‘of or pertaining to’ forming adjectives). Mνημονῐκός (Mnēmonikós) is derived from μνήμων (mnḗmōn, “mindful, remembering”) + -ῐκός (-ikós, suffix meaning ‘of or pertaining to’ forming adjectives); while mνήμων (mnḗmōn) is from μνάομαι (mnáomai, “to be mindful, remember”) (from Proto-Indo-European *men- (“to mind; to think”)) + -μων (-mōn, suffix forming adjectives and agent nouns)."
+      ],
+      "adjectives": [
+        {
+          "description": "mnemonic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Especially of a series of ideas, letters, words, etc.: intended to help in remembering.",
+                  "examples": [
+                    "Synonyms: anamnestic, (archaic) memorial, (archaic) mnemonical",
+                    "Antonym: antimnemonic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to memory.",
+                  "examples": [
+                    "Synonym: mnestic"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Noun sense 1 (“something used to help in remembering a thing”) is borrowed from Latin mnēmonicum (“something used to help in remembering a thing”), from Ancient Greek μνημονικόν (mnēmonikón, “something used to help in remembering a thing”), a noun use of the neuter form of μνημονῐκός (mnēmonikós, adjective): see etymology 1. Noun sense 3 (“synonym of mnemonics”) is borrowed from Late Latin mnemonica, a noun use of the feminine form of mnemonicus: see etymology 1."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mnemonic (plural mnemonics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.",
+                  "examples": [
+                    "Synonyms: aide-mémoire, (rare) mnemonicon"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The human-readable, textual form of an assembly language instruction, not including operands.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
