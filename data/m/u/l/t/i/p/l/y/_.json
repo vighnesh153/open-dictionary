@@ -1,0 +1,124 @@
+{
+  "word": "multiply",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French multiplier, from Latin multiplicō, from multi (“many”) + plicō (“I fold”).",
+        "The noun presumably derives from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multiply (plural multiplies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) An act or instance of multiplying.",
+                  "examples": [
+                    "The extended instruction set may double the speed again if a lot of multiplies and divides are done."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "multiply (third-person singular simple present multiplies, present participle multiplying, simple past and past participle multiplied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To increase the amount, degree or number of (something).",
+                  "examples": [
+                    "The motives to refuse obedience to government are many and strong ; impunity will multiply and enforce them"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, arithmetic, with by) To perform multiplication on (a number).",
+                  "examples": [
+                    "when you multiply 3 by 7, you get 21;  he multiplied several numbers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To grow in number.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To breed or propagate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, arithmetic) To perform multiplication.",
+                  "examples": [
+                    "He had been multiplying, but it occurred to him he needed to resolve the exponents, first."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, rare) To be a factor in a multiplication with (another factor).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "multiple +‎ -ly."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "multiply (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In many or multiple ways.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
