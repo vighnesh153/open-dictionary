@@ -1,0 +1,30 @@
+{
+  "word": "monoalphabetic",
+  "etymologies": [
+    {
+      "description": [
+        "mono- +‎ alphabetic"
+      ],
+      "adjectives": [
+        {
+          "description": "monoalphabetic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) Of a substitution cipher, using the same fixed mappings from plaintext to cipher letters across the entire text.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
