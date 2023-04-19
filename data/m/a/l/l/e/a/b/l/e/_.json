@@ -1,0 +1,50 @@
+{
+  "word": "malleable",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French malléable, borrowed from Late Latin malleābilis, derived from Latin malleāre (“to hammer”), from malleus (“hammer”), from Proto-Indo-European *mal-ni- (“crushing”), an extended variant of *melh₂- (“crush, grind”)."
+      ],
+      "adjectives": [
+        {
+          "description": "malleable (comparative more malleable, superlative most malleable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be hammered into thin sheets; capable of being extended or shaped by beating with a hammer, or by the pressure of rollers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Flexible, liable to change.",
+                  "examples": [
+                    "My opinion on the subject is malleable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography, of an algorithm) in which an adversary can alter a ciphertext such that it decrypts to a related plaintext",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

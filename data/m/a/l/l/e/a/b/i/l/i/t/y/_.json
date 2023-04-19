@@ -1,0 +1,46 @@
+{
+  "word": "malleability",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "malleability (countable and uncountable, plural malleabilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality or state of being malleable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The property by virtue of which a material can be extended in all directions without rupture by the application of load; a material's ability to be bent, formed, or shaped without cracking or breaking.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) a property of a cryptographic algorithms in which an adversary can alter a ciphertext such that it decrypts to a related plaintext",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
