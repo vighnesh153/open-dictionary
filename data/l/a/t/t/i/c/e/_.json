@@ -1,0 +1,112 @@
+{
+  "word": "lattice",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English latis, from Middle French lattis (“lathing”), from Old French lattis, from latte (“a lath”), from Frankish *latta (“a lath”), from Proto-Germanic *lattǭ, *lattō, *laþþō (“board; plank; ledge”), from Proto-Indo-European *(s)latn-, *(s)lat- (“beam; log”). Cognate with Old High German latta (“lath”), (German Latte), Old English lætt (“lath”), Middle Low German lāde (“plank, counter, sales counter”), German Laden (“shop”). More at lath."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lattice (plural lattices)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flat panel constructed with widely-spaced crossed thin strips of wood or other material, commonly used as a garden trellis.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) A bearing with vertical and horizontal bands that cross each other.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(crystallography) A regular spacing or arrangement of geometric points, often decorated with a motif.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(group theory) A discrete subgroup of Rn which is isomorphic to Zn (considered as an additive group) and spans the real vector space Rn.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A model of the tuning relationships of a just intonation system, comprising an array of points in a periodic multidimensional pattern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology, Lie theory) A discrete subgroup L of a given locally compact group G whose quotient space G/L has finite invariant measure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, order theory) A partially ordered set in which every pair of elements has a unique supremum and a unique infimum.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "lattice (third-person singular simple present lattices, present participle latticing, simple past and past participle latticed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a lattice of.",
+                  "examples": [
+                    "to lattice timbers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To close, as an opening, with latticework; to furnish with a lattice.",
+                  "examples": [
+                    "to lattice a window"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
