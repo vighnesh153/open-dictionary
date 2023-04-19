@@ -1,0 +1,108 @@
+{
+  "word": "mirror",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English mirour, from Old French mireor (“mirror”, literally “looker, watcher”), from mirer (“look at”), from Latin mīror (“wonder at”), from mīrus (“wonderful”), from Proto-Indo-European *smey- (“to laugh, to be glad”). Displaced native Old English sċēawere (literally “watcher”), which was also the word for \"spy.\""
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "mirror (plural mirrors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.",
+                  "examples": [
+                    "I had a look in the mirror to see if the blood had come off my face.",
+                    "We could see the lorry in the mirror, so decided to change lanes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) An object, person, or event that reflects or gives a picture of another.",
+                  "examples": [
+                    "His story is a mirror into the life of orphans growing up."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Internet) A disk, website or other resource that contains replicated data.",
+                  "examples": [
+                    "Although the content had been deleted from his blog, it was still found on some mirrors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mirror carp.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A kind of political self-help book, advising kings, princes, etc. on how to behave.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "mirror (third-person singular simple present mirrors, present participle mirroring, simple past and past participle mirrored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) Of an event, activity, behaviour, etc, to be identical to; to be a copy of.",
+                  "examples": [
+                    "He tried to mirror Elvis's life. He copied his fashion and his mannerisms, and he even went to live in Graceland."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To create something identical to (a web site, etc.).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reflect, as in a mirror.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
