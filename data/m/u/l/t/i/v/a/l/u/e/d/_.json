@@ -1,0 +1,32 @@
+{
+  "word": "multivalued",
+  "etymologies": [
+    {
+      "description": [
+        "multi- +‎ valued"
+      ],
+      "adjectives": [
+        {
+          "description": "multivalued (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a function, associating one or more values of its range with each value of its domain.",
+                  "examples": [
+                    "The inverse sine function is multivalued unless it is restricted to a suitable range."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
