@@ -1,0 +1,413 @@
+{
+  "word": "live",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English lyven, libben, from Old English lifian, libban (“to live; be alive”), from Proto-West Germanic *libbjan, from Proto-Germanic *libjaną, from Proto-Indo-European *leyp- (“leave, cling, linger”).",
+        "Cognate with Saterland Frisian líeuwje (“to live”), West Frisian libje (“to live”), Dutch leven (“to live”), German Low German leven, lęven (“to live”), German leben (“to live”), Swedish leva (“to live”), Icelandic lifa (“to live”), Gothic 𐌻𐌹𐌱𐌰𐌽 (liban, “to live”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "live (third-person singular simple present lives, present participle living, simple past and past participle lived)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be alive; to have life.",
+                  "examples": [
+                    "He's not expected to live for more than a few months."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(intransitive) To have permanent residence somewhere, to inhabit, to reside.",
+              "entries": [
+                {
+                  "meaning": "(intransitive, informal) (of an object) to have its proper place; to normally be stored.",
+                  "examples": [
+                    "I washed your gravy boat. Where does it live?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To survive; to persevere; to continue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To endure in memory; to escape oblivion.",
+                  "examples": [
+                    "Her memory lives in that song."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, hyperbolic) To cope.",
+                  "examples": [
+                    "You'll just have to live with it!  I can't live in a world without you."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To pass life in a specified manner.",
+                  "examples": [
+                    "It is difficult to live in poverty.   And they lived happily ever after."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To spend, as one's life; to pass; to maintain; to continue in, constantly or habitually.",
+                  "examples": [
+                    "To live an idle or a useful life."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To act habitually in conformity with; to practice; to exemplify in one's way of life.",
+                  "examples": [
+                    "to live the Gospel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To live as; to live being.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To outlast danger; to float (said of a ship, boat, etc).",
+                  "examples": [
+                    "No ship could live in such a storm."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, followed by on, upon, or by) To maintain or support one's existence; to provide for oneself; to feed; to subsist.",
+                  "examples": [
+                    "It is hard to live on the minimum wage.   They lived on stale bread.   Man shall not live by bread alone."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, informal) To make the most of life; to experience a full, rich life.",
+                  "examples": [
+                    "I'm sick of spending every day studying at home: I want to go out there and live!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "An aphetic form of alive."
+      ],
+      "adjectives": [
+        {
+          "description": "live (comparative more live, superlative most live)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(only used attributively) Having life; that is alive.",
+                  "examples": [
+                    "The post office will not ship live animals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being in existence; actual.",
+                  "examples": [
+                    "He is a live example of the consequences of excessive drinking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having active properties; being energized.",
+                  "examples": [
+                    "Because the vaccinia virus is live, it is important to follow care instructions for the vaccination site."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Operational; in actual use rather than in testing etc.",
+              "entries": [
+                {
+                  "meaning": "(programming) Of an object or value: that may potentially be used in the future execution of a program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Taken from a living animal.",
+                  "examples": [
+                    "live feathers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) Imparting power; having motion.",
+                  "examples": [
+                    "the live spindle of a lathe",
+                    "a live, or driving, axle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) Still in active play.",
+                  "examples": [
+                    "a live ball"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) Of a card: not yet dealt or played.",
+                  "examples": [
+                    "As a beginner, when you are in a hand, you should practice counting your outs, or those live cards left in the deck that can improve your hand."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) Being broadcast (\"on the air\"), as it happens.",
+                  "examples": [
+                    "The station presented a live news program every evening.",
+                    "Are we live?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a performance or speech) In person.",
+                  "examples": [
+                    "This nightclub has a live band on weekends."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(entertainment, performing) Recorded from a performance in front of an audience.",
+                  "examples": [
+                    "a live album"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of firearms or explosives, capable of causing harm.",
+                  "examples": [
+                    "The air force practices dropping live bombs on the uninhabited island."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of an environment where sound is recorded: having noticeable reverberation.",
+                  "examples": [
+                    "A good experiment is to have a friend stand in a fixed position in a moderately live room and talk in a clear voice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(circuitry) Electrically charged or energized, usually indicating that the item may cause electrocution if touched.",
+                  "examples": [
+                    "Use caution when working near live wires."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) Being a bet which can be raised by the bettor, usually in reference to a blind or straddle.",
+                  "examples": [
+                    "Tommy's blind was live, so he was given the option to raise."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(film) Featuring humans; not animated, in the phrases “live actors” or “live action”.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being in a state of ignition; burning.",
+                  "examples": [
+                    "a live coal; live embers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Vivid; bright.",
+                  "examples": [
+                    "the live carnation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(slang)",
+              "entries": [
+                {
+                  "meaning": "(dated) Energetic, attentive, active.",
+                  "examples": [
+                    "a live man, or orator"
+                  ]
+                },
+                {
+                  "meaning": "Outstanding, top-notch, exhilarating.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "live (comparative more live, superlative most live)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of an event, as it happens; in real time; direct.",
+                  "examples": [
+                    "The concert was broadcast live by radio."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of making a performance or speech, in person.",
+                  "examples": [
+                    "He'll be appearing live at the auditorium."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
