@@ -1,0 +1,300 @@
+{
+  "word": "link",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English linke, lenke, from a merger of Old English hlenċe, hlenċa (“ring; chainlink”) and Old Norse *hlenkr, hlekkr (“ring; chain”); both from Proto-Germanic *hlankiz (“ring; bond; fettle; fetter”). Used in English since the 14th century. Related to lank."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "link (plural links)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A connection between places, people, events, things, or ideas.",
+                  "examples": [
+                    "The mayor’s assistant serves as the link to the media."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One element of a chain or other connected series.",
+                  "examples": [
+                    "The third link of the silver chain needs to be resoldered.",
+                    "The weakest link."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of hyperlink.",
+                  "examples": [
+                    "The link on the page points to the sports scores."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The connection between buses or systems.",
+                  "examples": [
+                    "A by-N-link is composed of N lanes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A space comprising one or more disjoint knots.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Sussex) a thin wild bank of land splitting two cultivated patches and often linking two hills.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) an individual person or element in a system",
+                  "examples": [
+                    "But know that God is the strongest link."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything doubled and closed like a link of a chain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sausage that is not a patty.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(kinematics) Any one of the several elementary pieces of a mechanism, such as the fixed frame, or a rod, wheel, mass of confined liquid, etc., by which relative motion of other parts is produced and constrained.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) Any intermediate rod or piece for transmitting force or motion, especially a short connecting rod with a bearing at each end; specifically (in steam engines) the slotted bar, or connecting piece, to the opposite ends of which the eccentric rods are jointed, and by means of which the movement of the valve is varied, in a link motion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) The length of one joint of Gunter's chain, being the hundredth part of it, or 7.92 inches, the chain being 66 feet in length.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A bond of affinity, or a unit of valence between atoms; applied to a unit of chemical force or attraction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in the plural) The windings of a river; the land along a winding stream.",
+                  "examples": [
+                    "'Dame Foljambe,' said the old man, 'the march of thy tale is like the course of the Wye, seventeen miles of links and windings down a fair valley five miles long.  […] '"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) An introductory cue.",
+                  "examples": [
+                    "Too much talk on a music-based station can cause listeners who tune in for the music to go elsewhere.  […]  'Some people will say “your link has to be 45 seconds long” but I don't do that,' explains the programme controller of Trent FM, Dick Stone."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "link (third-person singular simple present links, present participle linking, simple past and past participle linked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To connect two or more things.",
+                  "examples": [
+                    "All the tribes and nations that composed it [the Roman Empire] were linked together, not only by the same laws and the same government, but by all the facilities of commodious intercourse, and of frequent communication."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a Web page) To contain a hyperlink to another page.",
+                  "examples": [
+                    "My homepage links to my wife's."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Internet) To supply (somebody) with a hyperlink; to direct by means of a link.",
+                  "examples": [
+                    "Haven't you seen his Web site? I'll link you to it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Internet) To post a hyperlink to.",
+                  "examples": [
+                    "Stop linking those unfunny comics all the time!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To demonstrate a correlation between two things.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software compilation) To combine objects generated by a compiler into a single executable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To meet with someone.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Plausibly a modification of Medieval Latin linchinus (“candle”), an alteration of Latin lynchinus, itself from Ancient Greek λύχνος (lúkhnos, “lamp”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "link (plural links)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A torch, used to light dark streets.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Unknown."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "link (third-person singular simple present links, present participle linking, simple past and past participle linked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland, intransitive) To skip or trip along smartly; to go quickly.",
+                  "examples": [
+                    "On a sudden he was aware of a man linking along at his side. He cried a fine night, and the man replied."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
