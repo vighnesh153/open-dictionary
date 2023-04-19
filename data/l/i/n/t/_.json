@@ -1,0 +1,86 @@
+{
+  "word": "lint",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English lynet, linet, from Old French linette (“grain of flax”), diminutive of lin (“flax”); or, from Medieval Latin linteum, from Latin līnum (“flax”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "lint (usually uncountable, plural lints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Clinging fuzzy fluff that clings to fabric or accumulates in one's pockets or navel etc.",
+                  "examples": [
+                    "Clean the lint out of the vacuum cleaner's filter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A fine material made by scraping cotton or linen cloth; used for dressing wounds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The fibrous coat of thick hairs covering the seeds of the cotton plant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Raw cotton ready for baling.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From the lint Unix utility, written in 1979, which analyses programs written in the C language, itself named after the undesirable bits of fiber and fluff found in sheep's wool (see etymology 1)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "lint (third-person singular simple present lints, present participle linting, simple past and past participle linted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To perform a static check on (source code) to detect stylistic or programmatic errors.",
+                  "examples": [
+                    "You should lint your JavaScript code before committing it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
