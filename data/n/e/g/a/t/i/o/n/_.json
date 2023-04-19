@@ -1,0 +1,61 @@
+{
+  "word": "negation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English negacioun, from Old French negacion, from Latin negātiō (“a denial; negative word”).\nMorphologically negate +‎ -ion"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "negation (countable and uncountable, plural negations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The act of negating something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A denial or contradiction.",
+                  "examples": [
+                    "But it pleased her to play on my passion / And whet me to pleadings / That won from her mirthful negations / And scornings undue."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, countable) A proposition which is the contradictory of another proposition and which can be obtained from that other proposition by the appropriately placed addition/insertion of the word \"not\". (Or, in symbolic logic, by prepending that proposition with the symbol for the logical operator \"not\".)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The logical operation which obtains such (negated) propositions.",
+                  "examples": [
+                    "Although some of the logicians working in term logic have very complicated treatments of negation, we can see the origin of the modern conception in the extensional tradition as well. In Boole and most of his followers, the negation of a term is understood as the set theoretic complement of the class represented by that term. For this reason, the negation of classical propositional logic is often called ‘Boolean negation’."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
