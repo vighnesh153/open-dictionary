@@ -1,0 +1,41 @@
+{
+  "word": "logion",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek λόγιον (lógion, “oracle”), from λόγος (lógos, “word; the word or wisdom of God”) (from λέγω (légō, “I say”), from Proto-Indo-European *leǵ- (“to gather”)) + -ιον (-ion, suffix forming diminutive nouns)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "logion (plural logia)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theology) A traditional saying of a religious leader.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(specifically, Christianity) A saying that is attributed to Jesus in ancient or reconstructed texts that was (originally) handed down without narrative context.",
+                  "examples": [
+                    "The Q materials are often thought to have almost exclusively consisted of logia."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

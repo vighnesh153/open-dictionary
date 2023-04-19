@@ -1,0 +1,58 @@
+{
+  "word": "login",
+  "etymologies": [
+    {
+      "description": [
+        "From the verb log in."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "login (plural logins)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A combination of a user's identification and password used to enter a computer, program, network, etc.",
+                  "examples": [
+                    "I've forgotten my login again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process of logging in.",
+                  "examples": [
+                    "Your login failed because you weren't connected to the office network."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "login",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Misspelling of log in.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
