@@ -1,0 +1,76 @@
+{
+  "word": "monolithic",
+  "etymologies": [
+    {
+      "description": [
+        "From French monolithique; by surface analysis, monolith +‎ -ic."
+      ],
+      "adjectives": [
+        {
+          "description": "monolithic (comparative more monolithic, superlative most monolithic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or resembling a monolith.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Consisting of a single chunk of hard material rather than an assembly of discrete parts.",
+                  "examples": [
+                    "A monolithic chunk of titanium with facets for cutting, wrenching, and prying."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Having a massive, unchanging structure that does not permit individual variation.",
+                  "examples": [
+                    "Synonym: homogeneous",
+                    "Mainstream culture is hardly the monolithic bloc that its caricaturization often implies."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Of a single structure, a singular component; instead of an assembly.",
+                  "examples": [
+                    "Monolithic space stations only have a single station module."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) Consisting of a single program or codebase.",
+                  "examples": [
+                    "Antonym: modular",
+                    "Monolithic kernels perform all operating system duties in kernel space."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

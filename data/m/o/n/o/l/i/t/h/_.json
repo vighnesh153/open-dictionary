@@ -1,0 +1,81 @@
+{
+  "word": "monolith",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is borrowed from French monolithe (“object made from a single block of stone”), from Middle French monolythe (“made from a single block of stone”) (rare), and from their etymon Latin monolithus (“made from a single block of stone”), from Ancient Greek μονόλιθος (monólithos, “made from a single block of stone”), from μονο- (mono-, prefix meaning ‘alone; single’) (from μόνος (mónos, “alone; only, unique”), ultimately from Proto-Indo-European *mey- (“little, small”)) + λίθος (líthos, “a stone; stone as a substance”); analysable as mono- +‎ -lith. The English word is cognate with German monolith (“made from a single block of stone”).",
+        "The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monolith (plural monoliths)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(also attributively) A large, single block of stone which is a natural feature; or a block of stone or other similar material used in architecture and sculpture, especially one carved into a monument in ancient times.",
+                  "examples": [
+                    "Antonym: polylith"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(also attributively and figurative) Anything massive, uniform, and unmovable, especially a towering and impersonal cultural, political, or social organization or structure.",
+                  "examples": [
+                    "Antonym: chimera"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A substrate having many tiny channels that is cast as a single piece, which is used as a stationary phase for chromatography, as a catalytic surface, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, horticulture) A dead tree whose height and size have been reduced by breaking off or cutting its branches.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "monolith (third-person singular simple present monoliths, present participle monolithing, simple past and past participle monolithed)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To create (something) as, or convert (one or more things) into, a monolith.",
+              "entries": [
+                {
+                  "meaning": "(construction) To cast (one or more concrete components) in a single piece with no joints.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Britain, horticulture) To reduce the height and size of (a dead tree) by breaking off or cutting its branches.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
