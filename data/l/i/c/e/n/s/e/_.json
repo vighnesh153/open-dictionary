@@ -1,0 +1,122 @@
+{
+  "word": "license",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English licence, licens, lisence, lissens, licance (noun) and licencen, licensen, lisensen, licent (verb), from Old French licence, from Latin licentia (“license”), from licens, present participle of licere (“to be allowed, be allowable”); compare linquere, Ancient Greek λείπω (leípō, “leave”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "license (countable and uncountable, plural licenses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A legal document giving official permission to do something; a permit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The legal terms under which a person is allowed to use a product, especially software.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Freedom to deviate deliberately from normally applicable rules or practices (especially in behaviour or speech).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Excessive freedom; lack of due restraint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Short for driver's license.",
+                  "examples": [
+                    "In order to enter the building, I need to show my license."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "license (third-person singular simple present licenses, present participle licensing, simple past and past participle licensed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To authorize officially.",
+                  "examples": [
+                    "I am licensed to practice law in this state."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive) (applied to a piece of intellectual property)",
+              "entries": [
+                {
+                  "meaning": "To give formal authorization to use.",
+                  "examples": [
+                    "It was decided to license Wikipedia under the GFDL."
+                  ]
+                },
+                {
+                  "meaning": "To acquire authorization to use, usually in exchange for compensation.",
+                  "examples": [
+                    "The filmmakers licensed several iconic 80's songs for the soundtrack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give permission or freedom to; accept.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, transitive) To permit (as grammatically correct).",
+                  "examples": [
+                    "No English adverbs have mandatory complements, and most don't even license optional ones."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
