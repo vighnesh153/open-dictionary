@@ -1,0 +1,169 @@
+{
+  "word": "map",
+  "etymologies": [
+    {
+      "description": [
+        "Shortening of Middle English mappemounde, mapemounde (“world map”), from Old French mapamonde, from Medieval Latin mappa mundī, compound of Latin mappa (“napkin, cloth”) and mundus (“world”). See mop for the first component."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "map (plural maps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A visual representation of an area, whether real or imaginary, showing the relative positions of places and other features.",
+                  "examples": [
+                    "Synonyms: plan, chart",
+                    "a map of Australia, a map of Lilliput"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A graphical or logical representation of any structure or system, showing the positions of or relationships between its components.",
+                  "examples": [
+                    "Synonyms: plan, chart",
+                    "a map of the Earth's magnetic field"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function.",
+                  "examples": [
+                    "Synonyms: mapping, function",
+                    "Let \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n be a map from \n  \n    \n      \n        \n          R\n        \n      \n    \n    {\\displaystyle \\mathbb {R} }\n  \n to \n  \n    \n      \n        \n          R\n        \n      \n    \n    {\\displaystyle \\mathbb {R} }"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(entomology) Any of various nymphalid butterflies of the genera Araschnia (especially, Araschnia levana) and Cyrestis, having map-like markings on the wings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dated) The face.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(board games, video games) An imaginary or fictional area, often predefined and confined, where a game or a session thereof takes place.",
+                  "examples": [
+                    "Synonyms: level, stage",
+                    "I don't want to play this map again!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Synonym of associative array.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "map (third-person singular simple present maps, present participle mapping, simple past and past participle mapped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To represent by means of a map.",
+                  "examples": [
+                    "This large atlas maps the whole world in very great detail.",
+                    "Figure 3 maps the pressure distribution within the human circulatory system."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To create a map of; to examine or survey in order to gather information for a map.",
+                  "examples": [
+                    "The team is mapping the route of the new railway line.",
+                    "The space probe is mapping the Earth's gravitational field.",
+                    "This equipment is designed to map the neurons of the human brain in three dimensions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, followed by a \"to\" phrase) To have a direct relationship; to correspond.",
+                  "examples": [
+                    "This doesn't map to my understanding of how things should work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, followed by a \"to\" phrase) To create a direct relationship to; to create a correspondence with.",
+                  "examples": [
+                    "Map \"volume down\" to the F2 key. (computing)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, transitive, followed by a \"to\" phrase) To act as a function on something, taking it to something else.",
+                  "examples": [
+                    "f\n      \n    \n    {\\displaystyle f}\n  \n maps \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n to \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n, mapping every \n  \n    \n      \n        a\n        ∈\n        A\n      \n    \n    {\\displaystyle a\\in A}\n  \n to \n  \n    \n      \n        f\n        (\n        a\n        )\n        ∈\n        B\n      \n    \n    {\\displaystyle f(a)\\in B}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To assign a drive letter to a shared folder.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
