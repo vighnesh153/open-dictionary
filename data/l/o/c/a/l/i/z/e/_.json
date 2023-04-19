@@ -1,0 +1,59 @@
+{
+  "word": "localize",
+  "etymologies": [
+    {
+      "description": [
+        "From local +‎ -ize. Compare French localiser."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "localize (third-person singular simple present localizes, present participle localizing, simple past and past participle localized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make local; to fix in, or assign to, a definite place.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering, marketing) To adapt a product for use in a particular country or region, typically by translating text into the language of that country and modifying currencies, date formats, etc.",
+                  "examples": [
+                    "We need to localize our software for the Japanese market."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(translation studies, chiefly software, marketing) To adapt translated text to fit a local culture; to domesticate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To determine where something takes place or is to be found.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

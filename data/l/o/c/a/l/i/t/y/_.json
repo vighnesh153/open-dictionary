@@ -1,0 +1,95 @@
+{
+  "word": "locality",
+  "etymologies": [
+    {
+      "description": [
+        "From French localité, from Late Latin localitas, equivalent to local +‎ -ity."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "locality (countable and uncountable, plural localities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The fact or quality of having a position in space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The features or surroundings of a particular place.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, mathematics, computing) The condition of being local.",
+                  "examples": [
+                    "This shows temporal locality of reference in action because the CPU accesses i at three points in a short time period. This program also exhibits spatial locality of reference."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The situation or position of an object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An area or district considered as the site of certain activities; a neighbourhood.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Limitation to a county, district, or place.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geography) A built-up area, i.e. a city, town or village",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated, phrenology) The perceptive faculty concerned with the ability to remember the relative positions of places.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

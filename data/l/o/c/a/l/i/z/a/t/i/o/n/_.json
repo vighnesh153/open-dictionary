@@ -1,0 +1,77 @@
+{
+  "word": "localization",
+  "etymologies": [
+    {
+      "description": [
+        "From localize +‎ -ation; compare French localisation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "localization (countable and uncountable, plural localizations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of localizing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) The act, process, or result of making a product suitable for use in a particular country or region.",
+                  "examples": [
+                    "Coordinate terms: internationalization, i18n"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(translation studies, chiefly software, marketing) The act, process, or result of adapting translated text to fit a local culture; domestication.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being localized.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A systematic method of adding multiplicative inverses to a ring.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A ring of fractions of a given ring, such that the complement of the set of allowed denominators is an ideal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
