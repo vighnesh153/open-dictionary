@@ -1,0 +1,39 @@
+{
+  "word": "liveness",
+  "etymologies": [
+    {
+      "description": [
+        "live +‎ -ness"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "liveness (usually uncountable, plural livenesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The property of being alive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A set of properties of a concurrent system that require the system to make progress despite the fact that its concurrently executing processes may have to take turns in critical sections.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
