@@ -1,0 +1,86 @@
+{
+  "word": "latent",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English latent, latente, from Old French latent, from Latin latens, latentis, present participle of lateo (“lie hidden”)."
+      ],
+      "adjectives": [
+        {
+          "description": "latent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Existing or present but concealed or inactive.",
+                  "examples": [
+                    "Synonyms: hidden, invisible",
+                    "Antonyms: apparent, patent, visible"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(pathology, of a virus) Remaining in an inactive or hidden phase; dormant.",
+                  "examples": [
+                    "Synonyms: dormant; see also Thesaurus:inactive"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Lying dormant or hidden until circumstances are suitable for development or manifestation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "latent (plural latents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(forensics) The residue left by a person's finger that can be made visible by a process such as powder dusting; a latent fingerprint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) An underlying cause that can be inferred from statistical correlations; factor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything that is latent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
