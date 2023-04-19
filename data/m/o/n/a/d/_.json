@@ -1,0 +1,68 @@
+{
+  "word": "monad",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin monas (“unit”) (from Ancient Greek μονάς (monás), from μόνος (mónos), from Proto-Indo-European *mey-)  +‎ -ad."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monad (plural monads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) An ultimate atom, or simple, unextended point; something ultimate and indivisible.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) A single individual (such as a pollen grain) that is free from others, not united in a group.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, dated) A single-celled organism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A monoid object in the category of endofunctors of a fixed category.",
+                  "examples": [
+                    "Coordinate term: comonad"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(functional programming) A data type which represents a specific form of computation, along with the operations \"return\" and \"bind\".",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
