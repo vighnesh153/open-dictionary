@@ -1,0 +1,45 @@
+{
+  "word": "multidrop",
+  "etymologies": [
+    {
+      "description": [
+        "multi- +‎ drop"
+      ],
+      "adjectives": [
+        {
+          "description": "multidrop (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a computer bus) Having all components connected to the same set of electrical wires, each component listening for its own data and negotiating with the others in order to send.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "multidrop (plural multidrops)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A computer bus having all components connected in this manner.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
