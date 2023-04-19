@@ -1,0 +1,83 @@
+{
+  "word": "negotiate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin negotiatus, past participle of negotiari (“to carry on business”), from negotium (“business”) (Eng. usg. 1599), from nec (“not”) + otium (“leisure, ease, inactivity”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "negotiate (third-person singular simple present negotiates, present participle negotiating, simple past and past participle negotiated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To confer with others in order to come to terms or reach an agreement.",
+                  "examples": [
+                    "\"You are quite right in calling for negotiation. Indeed, this is the very purpose of direct action. Nonviolent direct action seeks to create such a crisis and foster such a tension that a community which has constantly refused to negotiate is forced to confront the issue.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange or settle something by mutual agreement.",
+                  "examples": [
+                    "We negotiated the contract to everyone's satisfaction.",
+                    "The client and server computers must first negotiate a network protocol to be used."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To succeed in coping with, or getting over something.",
+                  "examples": [
+                    "We negotiated the mountain track with difficulty.",
+                    "Although the car was quite rickety, he could negotiate the curves very well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To transfer to another person with all the rights of the original holder; to pass, as a bill.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To transact business; to carry on trade.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To intrigue; to scheme.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
