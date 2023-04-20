@@ -1,0 +1,241 @@
+{
+  "word": "parallel",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French parallèle, borrowed from Latin parallelus."
+      ],
+      "adjectives": [
+        {
+          "description": "parallel (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Equally distant from one another at all points.",
+                  "examples": [
+                    "The horizontal lines on my notebook paper are parallel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having the same overall direction; the comparison is indicated with \"to\".",
+                  "examples": [
+                    "The two railway lines are parallel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hyperbolic geometry, said of a pair of lines) Either not intersecting, or coinciding.",
+                  "examples": [
+                    "Antonyms: perpendicular, skew"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Involving the processing of multiple tasks at the same time.",
+                  "examples": [
+                    "Antonyms: serial, sequential",
+                    "Coordinate term: concurrent",
+                    "a parallel algorithm"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "parallel (comparative more parallel, superlative most parallel)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "With a parallel relationship.",
+                  "examples": [
+                    "The road runs parallel to the canal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "parallel (plural parallels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of a set of parallel lines.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Direction conformable to that of another line.",
+                  "examples": [
+                    "lines that from their parallel decline"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A line of latitude.",
+                  "examples": [
+                    "The 31st parallel passes through the center of my town."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An arrangement of electrical components such that a current flows along two or more paths; see in parallel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something identical or similar in essential respects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A comparison made; elaborate tracing of similarity.",
+                  "examples": [
+                    "Johnson's parallel between Dryden and Pope"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) One of a series of long trenches constructed before a besieged fortress, by the besieging force, as a cover for troops supporting the attacking batteries. They are roughly parallel to the line of outer defenses of the fortress.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) A character consisting of two parallel vertical lines, used in the text to direct attention to a similarly marked note in the margin or at the foot of a page.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "parallel (third-person singular simple present parallels, present participle (US) paralleling or (UK) parallelling, simple past and past participle (US) paralleled or (UK) parallelled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To construct or place something parallel to something else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a path etc: To be parallel to something else.",
+                  "examples": [
+                    "Archaic covered bridges lingered fearsomely out of the past in pockets of the hills, and the half-abandoned railway track paralleling the river seemed to exhale a nebulously visible air of desolation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a process etc: To be analogous to something else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To compare or liken something to something else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make to conform to something else in character, motive, aim, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To equal; to match; to correspond to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To produce or adduce as a parallel.",
+                  "examples": [
+                    "Who cannot parallel these stories out of his experience?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

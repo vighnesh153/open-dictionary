@@ -1,0 +1,65 @@
+{
+  "word": "parallax",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French parallaxe, from Ancient Greek παράλλαξις (parállaxis, “alteration”) from παραλλάσσω (parallássō, “to cause to alternate”) from ἀλλάσσω (allássō, “to alter”) from ἄλλος (állos, “other”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "parallax (countable and uncountable, plural parallaxes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An apparent shift in the position of two stationary objects relative to each other as viewed by an observer, due to a change in observer position.",
+                  "examples": [
+                    "[…]  Heliocentrick places, to which the Parallaxes being applied, give the Geocentrick."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) The angle of seeing of the astronomical unit.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "parallax (third-person singular simple present parallaxes, present participle parallaxing, simple past and past participle parallaxed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To measure (a distance) based on parallax observations.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(animation) To produce an illusion of levels of distance by shifting layers at different rates.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

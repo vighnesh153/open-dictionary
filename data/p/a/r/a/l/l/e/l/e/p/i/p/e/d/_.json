@@ -1,0 +1,32 @@
+{
+  "word": "parallelepiped",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek παραλληλεπίπεδος (parallēlepípedos, “with parallel surfaces”), from παράλληλος (parállēlos, “parallel”) + ἐπίπεδος (epípedos, “plane”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "parallelepiped (plural parallelepipeds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A solid figure, having six faces, all parallelograms, all opposite faces being similar and parallel.",
+                  "examples": [
+                    "A cuboid is a rectangular parallelepiped."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
