@@ -1,0 +1,135 @@
+{
+  "word": "packet",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English pacquet; either from Middle French pacquet, or formed independently from pak and -et."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "packet (plural packets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small pack or package; a little bundle or parcel",
+                  "examples": [
+                    "Don't throw the crisp packet on the floor!",
+                    "a packet of letters",
+                    "a packet of biscuits",
+                    "(archaic) a travel bag containing clothing, nightwear and other accessories."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) Originally, a vessel employed by government to convey dispatches or mails; hence, a vessel employed in conveying dispatches, mails, passengers, and goods, and having fixed days of sailing; a mail boat. Packet boat, ship, vessel (Wikipedia).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) A specimen envelope containing small, dried plants or containing parts of plants when attached to a larger sheet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) A small fragment of data as transmitted on some types of network, notably Ethernet networks (Wikipedia).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(South Africa) A plastic bag.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) Synonym of package (“male genitalia”)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A large amount of money.",
+                  "examples": [
+                    "It'll cost a packet to fix this."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "packet (third-person singular simple present packets, present participle packeting, simple past and past participle packeted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make up into a packet or bundle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send in a packet or dispatch vessel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To ply with a packet or dispatch boat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Internet) To subject to a denial-of-service attack in which a large number of data packets are sent.",
+                  "examples": [
+                    "Typically, one hacker will annoy another; the offended party replies by launching a denial-of-service attack against the offender. These attacks—known as packeting—tend to be of limited duration  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
