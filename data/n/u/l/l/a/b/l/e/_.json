@@ -1,0 +1,58 @@
+{
+  "word": "nullable",
+  "etymologies": [
+    {
+      "description": [
+        "null +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "nullable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That may be nullified; nullifiable.",
+                  "examples": [
+                    "Then you regard as nullable and voidable the laws of Titius and Apuleius, because they are unjust."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a variable or object) That is allowed to have a null value.",
+                  "examples": [
+                    "You want to perform an aggregation on a column, but the column is nullable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nullable (plural nullables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A variable, etc. that is allowed to have a null value.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

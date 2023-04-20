@@ -1,0 +1,39 @@
+{
+  "word": "nullary",
+  "etymologies": [
+    {
+      "description": [
+        "null +‎ -ary"
+      ],
+      "adjectives": [
+        {
+          "description": "nullary (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a function) Taking no entries; having trivial domain; having the arity of zero.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a function, procedure, command, etc.) Taking no arguments.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
