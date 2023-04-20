@@ -1,0 +1,50 @@
+{
+  "word": "oscillator",
+  "etymologies": [
+    {
+      "description": [
+        "oscillate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "oscillator (plural oscillators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tuned electronic circuit used to generate a continuous output waveform.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instrument for measuring rigidity by the torsional oscillations of a weighted wire.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cellular automata) A pattern that returns to its original state, in the same orientation and position, after a finite number of generations.",
+                  "examples": [
+                    "Synthesis of spaceship flotillas is even more complicated than synthesis of oscillators, since spaceships are like oscillators that move […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

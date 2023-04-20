@@ -1,0 +1,57 @@
+{
+  "word": "oscillation",
+  "etymologies": [
+    {
+      "description": [
+        "From French oscillation, from Latin oscillatio, from Latin oscillo."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "oscillation (countable and uncountable, plural oscillations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "the act of oscillating or the state of being oscillated",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "a regular periodic fluctuation in value about some mean",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "a single such cycle",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) (of a function) defined for each point \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n in the domain of the function by \n  \n    \n      \n        inf\n        \n          {\n          \n            \n              d\n              i\n              a\n              m\n            \n            (\n            f\n            (\n            U\n            )\n            )\n            ∣\n            U\n            \n               \n              i\n              s\n               \n              a\n               \n              n\n              e\n              i\n              g\n              h\n              b\n              o\n              r\n              h\n              o\n              o\n              d\n               \n              o\n              f\n               \n            \n            x\n          \n          }\n        \n      \n    \n    {\\displaystyle \\inf \\left\\{\\mathrm {diam} (f(U))\\mid U\\mathrm {\\ is\\ a\\ neighborhood\\ of\\ } x\\right\\}}\n  \n, and describes the difference (possibly ∞) between the limit superior and limit inferior of the function near that point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
