@@ -1,0 +1,82 @@
+{
+  "word": "ordinate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin ordino, ordinatus. Doublet of ordain."
+      ],
+      "adjectives": [
+        {
+          "description": "ordinate (comparative more ordinate, superlative most ordinate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "arranged regularly in rows; orderly; disposed or arranged in an orderly or regular fashion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ordinate (plural ordinates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The second of the two terms by which a point is referred to, in a system of fixed rectilinear coordinate (Cartesian coordinate) axes.",
+                  "examples": [
+                    "The point \n  \n    \n      \n        (\n        3\n        ,\n        2\n        )\n      \n    \n    {\\displaystyle (3,2)}\n  \n has 3 as its abscissa and 2 as its ordinate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The vertical line representing an axis of a Cartesian coordinate system, on which the ordinate (sense above) is shown.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ordinate (third-person singular simple present ordinates, present participle ordinating, simple past and past participle ordinated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, uncommon) to ordain a priest, or consecrate a bishop",
+                  "examples": [
+                    "Synonym: (much more common) ordain"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to align a series of objects",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
