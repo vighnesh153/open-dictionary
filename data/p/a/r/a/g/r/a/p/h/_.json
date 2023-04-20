@@ -1,0 +1,81 @@
+{
+  "word": "paragraph",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French paragraphe from Latin paragraphus (“sign for start of a new section of discourse”), from Ancient Greek παράγραφος (parágraphos), from παρά (pará, “beside”) and γράφω (gráphō, “I write”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "paragraph (plural paragraphs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A passage in text that starts on a new line, the first line sometimes being indented, and usually marks a change of topic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(originally) A mark or note set in the margin to call attention to something in the text, such as a change of subject.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A brief article, notice, or announcement, as in a newspaper.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An offset of 16 bytes in Intel memory architectures.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "paragraph (third-person singular simple present paragraphs, present participle paragraphing, simple past and past participle paragraphed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To sort text into paragraphs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To publish a brief article, notice, or announcement, as in a newspaper.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
