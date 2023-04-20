@@ -1,0 +1,99 @@
+{
+  "word": "offline",
+  "etymologies": [
+    {
+      "description": [
+        "off- +‎ line"
+      ],
+      "adjectives": [
+        {
+          "description": "offline (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a system, currently not connected (generally electrically) to a larger network. For example, a power plant which is not connected to the grid, or a computer which is not connected to the Internet or to any other communications service.",
+                  "examples": [
+                    "Antonym: online",
+                    "I saved the web pages so I could read them later offline."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) Happening in the physical world (the real world) as opposed to on the internet.",
+                  "examples": [
+                    "Synonym: IRL",
+                    "Antonym: online"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "offline (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "While offline; with an offline system.",
+                  "examples": [
+                    "Antonym: online"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business slang) Outside the current meeting, in a more private setting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "From (\"off\") the Internet",
+                  "examples": [
+                    "I stole the images offline"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "offline (third-person singular simple present offlines, present participle offlining, simple past and past participle offlined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To take (a system, etc.) offline; to demote from an active or online state.",
+                  "examples": [
+                    "Offlining a memory processor can be accomplished by using the flexible interleaving capability described earlier to interleave segments across subsets of the memory processors, avoiding the faulty one(s)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

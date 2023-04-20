@@ -1,0 +1,94 @@
+{
+  "word": "offload",
+  "etymologies": [
+    {
+      "description": [
+        "From off- +‎ load."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "offload (countable and uncountable, plural offloads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of offloading something, or diverting it elsewhere.",
+                  "examples": [
+                    "For environments that do not allow FTP traffic out to the Internet, the DS8870 also supports offload of data by using SSL security."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rugby) The act of passing the ball to a team mate when tackled.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "offload (third-person singular simple present offloads, present participle offloading, simple past and past participle offloaded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to unload.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to get rid of things, work, or problems by passing them on to someone or something else.",
+                  "examples": [
+                    "He offloaded the defective car onto an unsuspecting buyer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, rugby) to pass the ball.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, aviation, travel) to deny a person on a standby list due to lack of space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, aviation, travel) to change a passengers' ticket status from \"checked in\" to \"open\", allowing further changes. (This applies regardless of whether the passenger has boarded the aircraft or not).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
