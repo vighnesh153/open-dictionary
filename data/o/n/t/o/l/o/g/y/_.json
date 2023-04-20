@@ -1,0 +1,70 @@
+{
+  "word": "ontology",
+  "etymologies": [
+    {
+      "description": [
+        "Originally Latin ontologia (1606, Ogdoas Scholastica, by Jacob Lorhard (Lorhardus)), from Ancient Greek ὤν, ὄντος (ṓn, óntos, “being”), present participle of εἰμί (eimí, “being, existing, essence”) + λόγος (lógos, “account”).",
+        "First known English use 1663: Archelogia philosophica nova; or, New principles of Philosophy. Containing Philosophy in general, Metaphysicks or Ontology, Dynamilogy or a Discourse of Power, Religio Philosophi or Natural Theology, Physicks or Natural philosophy, by Gideon Harvey (1636–1702), London, Thomson, 1663.",
+        "Popularized as a philosophical term by German philosopher Christian Wolff (1679–1754)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ontology (countable and uncountable, plural ontologies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, philosophy) The branch of metaphysics that addresses the nature or essential characteristics of being and of things that exist; the study of being qua being.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, philosophy) In a subject view, or a world view, the set of conceptual or material things or classes of things that are recognised as existing, or are assumed to exist in context, and their interrelations; in a body of theory, the ontology comprises the domain of discourse, the things that are defined as existing, together with whatever emerges from their mutual implications.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, philosophy) The theory of a particular philosopher or school of thought concerning the fundamental types of entity in the universe.",
+                  "examples": [
+                    "The answer to the controversial question of whether Aristotle's ontology includes non-substantial particulars, then, is that it does."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A logical system involving theory of classes, developed by Stanislaw Lesniewski (1886-1939).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, computer science, information science) A structure of concepts or entities within a domain, organized by relationships; a system model.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
