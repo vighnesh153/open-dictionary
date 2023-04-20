@@ -1,0 +1,41 @@
+{
+  "word": "noninherited",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ inherited"
+      ],
+      "adjectives": [
+        {
+          "description": "noninherited (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) Not inherited; not passed from parent to offspring.",
+                  "examples": [
+                    "a noninherited maternal antigen"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) Not derived from a superclass through inheritance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
