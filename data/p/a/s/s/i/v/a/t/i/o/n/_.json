@@ -1,0 +1,48 @@
+{
+  "word": "passivation",
+  "etymologies": [
+    {
+      "description": [
+        "passive +‎ -ation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "passivation (countable and uncountable, plural passivations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, materials science) The process of making a material passive (non-reactive) in relation to another material prior to using the materials together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The spontaneous formation of a hard non-reactive surface film (usually an oxide or nitride) that inhibits further corrosion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(control theory) Conversion of a non-passive dynamical system into a passive one.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
