@@ -1,0 +1,124 @@
+{
+  "word": "nonce",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English nonse, nones, a rebracketing of Middle English to þen anes, for þen anes (to/for the once (i.e. the one occasion or instance)), from the dative singular neuter of þe. The cryptography sense is commonly said to be a contraction of number used once, although this is probably incorrect."
+      ],
+      "adjectives": [
+        {
+          "description": "nonce (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One-off; produced or created for a single occasion or use. Denoting something occurring once.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nonce (plural nonces)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The one or single occasion; the present reason or purpose (now only in for the nonce).",
+                  "examples": [
+                    "That will do for the nonce, but we'll need a better answer for the long term."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(lexicography) A nonce word.",
+                  "examples": [
+                    "I had thought that the term was a nonce, but it seems as if it's been picked up by other authors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) A value constructed so as to be unique to a particular message in a stream, in order to prevent replay attacks.",
+                  "examples": [
+                    "The information gained by the eavesdropper would permit a replay attack, but only with a request for the same document, and even that may be limited by the server's choice of nonce."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "1975.\nUnknown, derived from British criminal slang. Several origins have been proposed; possibly derived from dialectal nonce, nonse (“stupid, worthless individual”) (but this cannot be shown to predate nonce \"child-molester\" and is likely a toned-down usage of the same insult), or Nance, nance (“effeminate man, homosexual”), from nancy or nancyboy. The rhyme with ponce has also been noted.",
+        "As prison slang also said to be an acronym for \"Not On Normal Communal Exercise\" (Stevens 2012), but this is likely a backronym."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nonce (plural nonces)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, derogatory) A sex offender, especially one who is guilty of sexual offences against children. [1975]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A pedophile.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, prison slang, derogatory) A police informer, one who betrays a criminal enterprise [2000]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, slang, derogatory) A stupid or worthless person. [2002]",
+                  "examples": [
+                    "Shut it, ya nonce!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
