@@ -1,0 +1,30 @@
+{
+  "word": "orthant",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "orthant (plural orthants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A n-dimensional generalization of the quadrant (in two-dimensional Cartesian space) and octant (in three-dimensional space).",
+                  "examples": [
+                    "Consider preferences defined over the nonnegative orthant by \n  \n    \n      \n        (\n        \n          x\n          \n            1\n          \n        \n        ,\n        \n          x\n          \n            2\n          \n        \n        )\n        ≻\n        (\n        \n          y\n          \n            1\n          \n        \n        ,\n        \n          y\n          \n            2\n          \n        \n        )\n      \n    \n    {\\displaystyle (x_{1},x_{2})\\succ (y_{1},y_{2})}\n  \n if \n  \n    \n      \n        \n          x\n          \n            1\n          \n        \n        +\n        \n          x\n          \n            2\n          \n        \n        <\n        \n          y\n          \n            1\n          \n        \n        +\n        \n          y\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle x_{1}+x_{2}<y_{1}+y_{2}}\n  \n […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
