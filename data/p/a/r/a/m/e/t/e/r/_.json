@@ -1,0 +1,107 @@
+{
+  "word": "parameter",
+  "etymologies": [
+    {
+      "description": [
+        "From French paramètre, from New Latin parametrum (“parameter”), from Ancient Greek παρα- (para-, “beside”) + μέτρον (métron, “measure”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "parameter (plural parameters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A value kept constant during an experiment, equation, calculation, or similar, but varied over other versions of the experiment, equation, calculation, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(sciences) A variable that describes some system (material, object, event, etc.) or some aspect thereof.",
+              "entries": [
+                {
+                  "meaning": "(statistics) Any measured quantity of a statistical population that summarises or describes an aspect of the population.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(machine learning) A variable of a model that is trained by a machine learning algorithm.",
+                  "examples": [
+                    "Coordinate term: feature"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An input variable of a function definition, that gets an actual value (argument) at execution time.",
+                  "examples": [
+                    "Synonym: formal parameter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, loosely) An actual value given to such a formal parameter.",
+                  "examples": [
+                    "Synonyms: argument, actual parameter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A characteristic or feature that distinguishes something from others.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:characteristic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) In the ellipse and hyperbola, a third proportional to any diameter and its conjugate, or in the parabola, to any abscissa and the corresponding ordinate.",
+                  "examples": [
+                    "The parameter of the principal axis of a conic section is called the latus rectum."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(crystallography) The ratio of the three crystallographic axes which determines the position of any plane.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(crystallography) The fundamental axial ratio for a given species.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
