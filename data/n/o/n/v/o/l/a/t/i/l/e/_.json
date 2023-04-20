@@ -1,0 +1,35 @@
+{
+  "word": "nonvolatile",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ volatile"
+      ],
+      "adjectives": [
+        {
+          "description": "nonvolatile (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not volatile (in any sense).",
+                  "examples": [
+                    "The chemical is nonvolatile so it will not evaporate.",
+                    "His nonvolatile demeanor was tested by the constant pestering.",
+                    "The hard drive is nonvolatile, but the RAM is volatile.",
+                    "A nonvolatile variable may misbehave if accessed from multiple threads at once."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
