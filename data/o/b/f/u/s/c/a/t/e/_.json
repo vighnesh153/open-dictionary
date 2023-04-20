@@ -1,0 +1,69 @@
+{
+  "word": "obfuscate",
+  "etymologies": [
+    {
+      "description": [
+        "From the participle stem of Late Latin obfuscāre, from Latin ob- + fuscāre, present active infinitive of fuscō (“I darken”)."
+      ],
+      "adjectives": [
+        {
+          "description": "obfuscate (comparative more obfuscate, superlative most obfuscate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Obfuscated; darkened; obscured.",
+                  "examples": [
+                    "Also the vertues beynge in a cruell persone be nat only obfuscate or hyd : But also lyke wyse as norysshynge meates and drynkes in an sycke body"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "obfuscate (third-person singular simple present obfuscates, present participle obfuscating, simple past and past participle obfuscated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make dark; to overshadow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To deliberately make more confusing in order to conceal the truth.",
+                  "examples": [
+                    "obfuscate facts"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To alter code while preserving its behavior but concealing its structure and intent.",
+                  "examples": [
+                    "We need to obfuscate these classes before we ship the final release."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
