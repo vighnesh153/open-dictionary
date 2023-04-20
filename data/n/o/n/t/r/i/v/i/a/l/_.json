@@ -1,0 +1,40 @@
+{
+  "word": "nontrivial",
+  "etymologies": [
+    {
+      "description": [
+        "From non- +‎ trivial."
+      ],
+      "adjectives": [
+        {
+          "description": "nontrivial (comparative more nontrivial, superlative most nontrivial)",
+          "definitionGroups": [
+            {
+              "group": "Not trivial.",
+              "entries": [
+                {
+                  "meaning": "(mathematics) Not obvious or easy to prove; not self-evident.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(mathematics) Not being of the simplest kind; not being empty or a singleton.",
+                  "examples": [
+                    "nontrivial subgroup ― a subgroup with more than one element"
+                  ]
+                },
+                {
+                  "meaning": "(computing) Needing significant computing power to solve; intractable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
