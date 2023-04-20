@@ -1,0 +1,57 @@
+{
+  "word": "perturb",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English perturben, from Old French perturber, from Latin perturbare (“throw into confusion, confuse, disorder, disturb”), from per (“through”) + turbare (“to confuse, disturb”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "perturb (third-person singular simple present perturbs, present participle perturbing, simple past and past participle perturbed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To disturb; to bother or unsettle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) To slightly modify the motion of an object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) To modify the motion of a body by exerting a gravitational force.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) To modify slightly, such as an equation or value.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
