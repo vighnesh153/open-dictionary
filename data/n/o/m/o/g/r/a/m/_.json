@@ -1,0 +1,45 @@
+{
+  "word": "nomogram",
+  "etymologies": [
+    {
+      "description": [
+        "Formed as nom- +‎ -o- +‎ -gram, by analogy with French nomogramme."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nomogram (plural nomograms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A diagram in which the relationship between three variables is represented by a straight line or curve for each variable; the value of the third variable corresponding to particular values of the first two is obtained by drawing a straight line through the points on the first two curves that represent particular values of the first two variables and noting the point at which the line intersects the third line or curve.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "nomogram (third-person singular simple present nomograms, present participle nomogramming, simple past and past participle nomogrammed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To represent as a nomogram.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
