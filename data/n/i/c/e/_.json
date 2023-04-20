@@ -1,0 +1,203 @@
+{
+  "word": "nice",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English nyce, nice, nys, from Old French nice, niche, nisce (“simple, foolish, ignorant”), from Latin nescius (“ignorant, not knowing”); compare nesciō (“to know not, be ignorant of”), from ne (“not”) + sciō (“to know”)."
+      ],
+      "adjectives": [
+        {
+          "description": "nice (comparative nicer, superlative nicest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly informal) Pleasant, satisfactory. [from 18th c.]",
+                  "examples": [
+                    "When the party was nice, the party was jumpin' (Hey, Yippie, Yi, Yo)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly informal) Of a person: friendly, attractive. [from 18th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Respectable; virtuous. [from 18th c.]",
+                  "examples": [
+                    "What is a nice person like you doing in a place like this?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(with and, chiefly informal) Shows that the given adjective is desirable, or acts as a mild intensifier; pleasantly, quite. [from 18th c.]",
+                  "examples": [
+                    "The soup is nice and hot."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly informal) Showing refinement or delicacy, proper, seemly",
+                  "examples": [
+                    "a nice way of putting it"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Silly, ignorant; foolish. [14th–17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) Particular in one's conduct; scrupulous, painstaking; choosy. [from 14th c.]",
+                  "examples": [
+                    "But if I dispense with the dreams of neurotics, my main material, I cannot be too nice [translating wählerisch] in my dealings with the remainder."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Having particular tastes; fussy, fastidious. [from 14th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Particular as regards rules or qualities; strict. [16th–19th c.]",
+                  "examples": [
+                    "\"Good company requires only birth, education and manners, and with regard to education is not very nice. Birth and good manners are essential.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Showing or requiring great precision or sensitive discernment; subtle. [from 16th c.]",
+                  "examples": [
+                    "\"It's her own funeral, you know,\" said Sir Lulworth; \"it's a nice point in etiquette how far one ought to show respect to one's own mortal remains.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Easily injured; delicate; dainty.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Doubtful, as to the outcome; risky. [16th–19th c.]",
+                  "examples": [
+                    "It has been a damned nice thing - the nearest run thing you ever saw in your life."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "nice (comparative nicer, superlative nicest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) Nicely.",
+                  "examples": [
+                    "Children, play nice.",
+                    "He dresses real nice."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "nice (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "niceness.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Name of a Unix program used to invoke a script or program with a specified priority, with the implication that running at a lower priority is \"nice\" (kind, etc.) because it leaves more resources for others."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "nice (third-person singular simple present nices, present participle nicing, simple past and past participle niced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, Unix) To run a process with a specified (usually lower) priority.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
