@@ -1,0 +1,103 @@
+{
+  "word": "orthogonal",
+  "etymologies": [
+    {
+      "description": [
+        "By surface analysis, ortho- +‎ -gon +‎ -al. From French orthogonal, from Medieval Latin orthogōnālis, from Latin orthogōnius (“right-angled”)."
+      ],
+      "adjectives": [
+        {
+          "description": "orthogonal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Of two objects, at right angles; perpendicular to each other.",
+                  "examples": [
+                    "A chord and the radius that bisects it are orthogonal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(mathematics)",
+              "entries": [
+                {
+                  "meaning": "Of a pair of vectors: having a zero inner product; perpendicular.",
+                  "examples": [
+                    "The normal vector and tangent vector at a given point are orthogonal."
+                  ]
+                },
+                {
+                  "meaning": "Of a square matrix: such that its transpose is equal to its inverse.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Of a linear transformation: preserving its angles.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Of grid graphs, board games and polyominoes: vertical or horizontal but not diagonal.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Of a pair of elements in an ortholattice: each less than or equal to the orthocomplement of the other.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Statistically independent, with reference to variates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) Of two or more aspects of a problem, able to be treated separately; of a design, exhibiting consistency and composability.",
+                  "examples": [
+                    "The content of the message should be orthogonal to the means of its delivery."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of two or more problems or subjects, independent of or irrelevant to each other.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "orthogonal (plural orthogonals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An orthogonal line",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
