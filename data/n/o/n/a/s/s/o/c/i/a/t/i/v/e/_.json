@@ -1,0 +1,41 @@
+{
+  "word": "nonassociative",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ associative"
+      ],
+      "adjectives": [
+        {
+          "description": "nonassociative (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not associative.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of an algebraic structure) Whose multiplication operation is not assumed to be associative for all elements.",
+                  "examples": [
+                    "This book has been written about associative algebras. However, there is an analogous “PI-theory” that can be carried out for nonassociative rings, which is outlined here."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
