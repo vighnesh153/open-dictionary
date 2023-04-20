@@ -1,0 +1,64 @@
+{
+  "word": "phasor",
+  "etymologies": [
+    {
+      "description": [
+        "Blend of phase +‎ vector"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "phasor (plural phasors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A representation of a complex number in terms of a complex exponential.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences, engineering) A plotted line whose length and angle represent the amplitude and phase, respectively, of a sinusoidally varying quantity such as an alternating current.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "phase +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "phasor (plural phasors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A phase modulator",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
