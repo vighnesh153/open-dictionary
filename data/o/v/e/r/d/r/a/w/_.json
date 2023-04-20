@@ -1,0 +1,72 @@
+{
+  "word": "overdraw",
+  "etymologies": [
+    {
+      "description": [
+        "From over- +‎ draw."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "overdraw (countable and uncountable, plural overdraws)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) The process by which, during the rendering of a three-dimensional scene, a pixel is replaced by one that is closer to the viewpoint, as determined by their Z coordinates.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "overdraw (third-person singular simple present overdraws, present participle overdrawing, simple past overdrew, past participle overdrawn)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To withdraw more money from an account than there is credit; to make an overdraft",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archery) To use a device for shooting arrows shorter than the draw of the bow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) To exaggerate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) To draw over the top of existing content.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
