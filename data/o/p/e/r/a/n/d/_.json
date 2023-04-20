@@ -1,0 +1,32 @@
+{
+  "word": "operand",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin operandum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "operand (plural operands)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) A quantity to which an operator is applied (in \n  \n    \n      \n        3\n        −\n        x\n      \n    \n    {\\displaystyle 3-x}\n  \n, the operands of the subtraction operator are 3 and \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n).",
+                  "examples": [
+                    "When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and pushes the current contents of the PC ($00 0128) onto the stack."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
