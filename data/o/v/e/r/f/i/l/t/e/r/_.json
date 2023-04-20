@@ -1,0 +1,47 @@
+{
+  "word": "overfilter",
+  "etymologies": [
+    {
+      "description": [
+        "over- +‎ filter"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "overfilter (plural overfilters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing)  A morphological filter (idempotent operator) whose image is a superset of the domain.",
+                  "examples": [
+                    "It is clear that overfilters and underfilters are dual in the sense of the duality principle."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "overfilter (third-person singular simple present overfilters, present participle overfiltering, simple past and past participle overfiltered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To subject to overfiltration.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
