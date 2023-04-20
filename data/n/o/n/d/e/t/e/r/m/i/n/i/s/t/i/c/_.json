@@ -1,0 +1,32 @@
+{
+  "word": "nondeterministic",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ deterministic"
+      ],
+      "adjectives": [
+        {
+          "description": "nondeterministic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) Exhibiting nondeterminism; involving choices between indistinguishable possibilities.",
+                  "examples": [
+                    "Nondeterministic bottom-up tree automaton recognize the class of regular tree languages."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

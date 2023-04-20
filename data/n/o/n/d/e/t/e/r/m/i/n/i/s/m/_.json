@@ -1,0 +1,52 @@
+{
+  "word": "nondeterminism",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ determinism"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nondeterminism (countable and uncountable, plural nondeterminisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) The opposite of determinism: the doctrine that there are factors other than the state and immutable laws of the universe involved in the unfolding of events, such as free will.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Dependence on factors other than initial state and input.",
+                  "examples": [
+                    "Moving from a single-processor to a multi-processor system often exposes hidden nondeterminism due to invalid assumptions about scheduling."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) The property of being nondeterministic, involving arbitrary choices; necessitating the choice between various indistinguishable possibilities.",
+                  "examples": [
+                    "Projection of an automaton almost always results in nondeterminism."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
