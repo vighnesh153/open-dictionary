@@ -1,0 +1,58 @@
+{
+  "word": "optional",
+  "etymologies": [
+    {
+      "description": [
+        "option +‎ -al"
+      ],
+      "adjectives": [
+        {
+          "description": "optional (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not compulsory; left to personal choice; elective.",
+                  "examples": [
+                    "Synonyms: facultative; see also Thesaurus:optional",
+                    "Antonyms: compulsory, mandatory, obligatory; see also Thesaurus:compulsory",
+                    "On that beach clothing is entirely optional."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "optional (plural optionals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that is not compulsory, especially part of an academic course.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, sometimes capitalized) In various programming languages, a kind of variable that is assigned a specific data type but may or may not hold an actual value.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
