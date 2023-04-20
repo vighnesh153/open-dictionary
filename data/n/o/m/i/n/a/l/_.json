@@ -1,0 +1,223 @@
+{
+  "word": "nominal",
+  "etymologies": [
+    {
+      "description": [
+        "From the Middle English nominalle (“of nouns”), borrowed from Latin nōminālis (“of names”), from nōmen (“name”)."
+      ],
+      "adjectives": [
+        {
+          "description": "nominal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of, resembling, relating to, or consisting of a name or names.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Assigned to or bearing a person's name.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Existing in name only.",
+                  "examples": [
+                    "a nominal difference"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) Of or relating to nominalism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Insignificantly small.",
+                  "examples": [
+                    "Synonym: trifling",
+                    "He gave me only a nominal sum for my services."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to the presumed or approximate value, rather than the actual value.",
+                  "examples": [
+                    "The nominal voltage is 1.5 V, but the actual figure is usually higher.",
+                    "the nominal yield of a nuclear weapon",
+                    "Antonym: effective"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) Of, relating to, or being the amount or face value of a sum of money or a stock certificate, for example, and not the purchasing power or market value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) Of, relating to, or being the rate of interest or return without adjustment for compounding or inflation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Of or relating to a noun or word group that functions as a noun.",
+                  "examples": [
+                    "This sentence contains a nominal phrase."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) According to plan or design.",
+                  "examples": [
+                    "Synonym: normal",
+                    "We'll just do a nominal flight check.",
+                    "Apart from the slightly high temperature, all the readings from the spacecraft are nominal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(economics) Without adjustment to remove the effects of inflation.",
+                  "examples": [
+                    "Antonym: real",
+                    "My employer does not understand how low my nominal wage is.",
+                    "The nominal GNP of this country is pretty low."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, of a variable) Having values whose order is insignificant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) Of a species, the species name without consideration of whether it is a junior synonym or in reality consists of more than one biological species.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nominal (plural nominals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A noun or word group that functions as part of a noun phrase.",
+                  "examples": [
+                    "This sentence contains two nominals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A part of speech that shares features with nouns and adjectives. (Depending on the language, it may comprise nouns, adjectives, possibly numerals, pronouns, and participles.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A number (usually natural) used like a name; a numeric code or identifier. (See nominal number on Wikipedia.)",
+                  "examples": [
+                    "Numeric codes of characters used in programming are nominals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, police jargon) A person listed in the Police National Computer database as having been convicted, cautioned or recently arrested.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
