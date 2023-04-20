@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/a/p/p/l/
 Pass your word to this url as a search parameter: `https://open-dictionary.vighnesh153.workers.dev/?word=<your-word>`
 
 #### Examples
+
 ```txt
 https://open-dictionary.vighnesh153.workers.dev/?word=apple
 https://open-dictionary.vighnesh153.workers.dev/?word=banana
@@ -46,13 +47,15 @@ https://open-dictionary.vighnesh153.workers.dev/?word=banana
 ## Why does this exist?
 
 - No other free API for getting English definitions of a word
-- No other reliable (trusted) source as an API
-- No reliable server
+- No other trusted source for fetching definitions as an API
+- No reliable (in terms of uptime and rate limiting) server
 
 ## How does this solve the above-mentioned problems?
 
-- This is a free repository
-- This repository is more reliable because everyone can see the definitions as code. This offers transparency and trust for developers.
+- This is a free repository. You don't need to pay a single penny for using this. Although you are welcome to sponsor
+  this project if you are interested 🙌
+- This repository is trustworthy because everyone can see the word definitions as code. This offers transparency and
+  trust for developers.
 - GitHub's servers are more reliable than a custom server managed by a small group of people without any funding
 
 ## Missing word?
