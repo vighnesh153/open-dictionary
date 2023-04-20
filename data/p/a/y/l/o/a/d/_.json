@@ -1,0 +1,68 @@
+{
+  "word": "payload",
+  "etymologies": [
+    {
+      "description": [
+        "From pay +‎ load. From the early 20th century."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "payload (plural payloads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That part of a cargo that produces revenue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The total weight of passengers, crew, equipment, and cargo carried by an aircraft or spacecraft.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That part of a rocket, missile, propelled stinger, or torpedo that is not concerned with propulsion or guidance, such as a warhead or satellite.",
+                  "examples": [
+                    "I spread disease like a dog / Discharge my payload a mile high / Rotten egg air of death wrestles your nostrils"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The functional part of a computer virus or another type of malware program, rather than the part that spreads it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) The actual data in a data stream.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
