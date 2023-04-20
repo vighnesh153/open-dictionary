@@ -1,0 +1,39 @@
+{
+  "word": "optimization",
+  "etymologies": [
+    {
+      "description": [
+        "optimize +‎ -ation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "optimization (countable and uncountable, plural optimizations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The design and operation of a system or process to make it as good as possible in some defined sense.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The reduction of a program or algorithm to its most efficient form, as during compilation, by removing unused portions of code and improving the speed or resource usage of others.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

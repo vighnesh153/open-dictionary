@@ -1,0 +1,47 @@
+{
+  "word": "optimistic",
+  "etymologies": [
+    {
+      "description": [
+        "optimist +‎ -ic"
+      ],
+      "adjectives": [
+        {
+          "description": "optimistic (comparative more optimistic, superlative most optimistic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Expecting the best in all possible ways.",
+                  "examples": [
+                    "Antonym: pessimistic",
+                    "in an optimistic mood",
+                    "optimistic plans",
+                    "took an optimistic view"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Allowing other processes to perform transactions on the same data at the same time, and checking for conflicts only when changes need to be written back.",
+                  "examples": [
+                    "optimistic concurrency",
+                    "optimistic locking"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
