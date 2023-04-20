@@ -1,0 +1,105 @@
+{
+  "word": "pipeline",
+  "etymologies": [
+    {
+      "description": [
+        "From pipe +‎ line."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pipeline (plural pipelines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A conduit made of pipes used to convey water, gas or petroleum etc.",
+                  "examples": [
+                    "An oil pipeline has been opened from the Caspian Sea."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A channel (either physical or logical) by which information is transmitted sequentially (that is, the first information in is the first information out).",
+                  "examples": [
+                    "3D images are rendered using the graphics pipeline."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A system or process through which something is conducted.",
+                  "examples": [
+                    "A new version of the software is in the pipeline, but has not been rolled out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surfing) The inside of a wave that a surfer is riding, when the wave has started closing over it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pipeline (third-person singular simple present pipelines, present participle pipelining, simple past and past participle pipelined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To design (a microchip etc.) so that processing takes place in efficient stages, the output of each stage being fed as input to the next.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convey something by a system of pipes",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To lay a system of pipes through something",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare, slang, transitive) To connect a tube from ones mouth to ones anus (or the anus of another), in order to force someone to eat feces.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
