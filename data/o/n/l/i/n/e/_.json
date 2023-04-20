@@ -1,0 +1,125 @@
+{
+  "word": "online",
+  "etymologies": [
+    {
+      "description": [
+        "1950, from on +‎ line."
+      ],
+      "adjectives": [
+        {
+          "description": "online (comparative more online, superlative most online)",
+          "definitionGroups": [
+            {
+              "group": "Of a system: connected (generally electrically) to a larger network.",
+              "entries": [
+                {
+                  "meaning": "Of a generator or power plant: connected to the grid.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Of a computer: actively connected to the Internet or to some other communications service.",
+                  "examples": [
+                    "Is this modem online?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Available over, or delivered from, the Internet.",
+                  "examples": [
+                    "I prefer to read online newspapers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Connected to the Internet.",
+                  "examples": [
+                    "I'll be online tonight, so I'll be able to reply to your email."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Available on a computer system, even if not networked.",
+                  "examples": [
+                    "Press the F1 key to access the online help.",
+                    "The program comes with an online manual, supplied on compact disc."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a system: active, particularly building facilities (such as power) or a factory or power plant.",
+                  "examples": [
+                    "The power is online.",
+                    "Once this factory comes online, it will double car production in our country!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) Immersed in Internet culture. (Usually modified by an intensifier such as extremely or terminally)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "online (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "While online; while in a running or active state, or connected to the Internet.",
+                  "examples": [
+                    "He works online."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "online (third-person singular simple present onlines, present participle onlining, simple past and past participle onlined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To bring (a system, etc.) online; to promote to an active or running state.",
+                  "examples": [
+                    "The output in Listing 8-2 shows your disk group status prior to onlining the disks, the commands to online your disks, and the status after onlining."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
