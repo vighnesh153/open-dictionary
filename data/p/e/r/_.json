@@ -1,0 +1,97 @@
+{
+  "word": "per",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin per (“through, during”), from Proto-Indo-European *per. Doublet of par."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [
+        {
+          "description": "per",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "For each.",
+                  "examples": [
+                    "Admission is £10 per person.",
+                    "miles per gallon",
+                    "beats per minute",
+                    "$2.50 per dozen"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To each, in each (used in expressing ratios of units).",
+                  "examples": [
+                    "12 inches per foot",
+                    "100 centimeters per meter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) By the, by means of the, via the, through the.",
+                  "examples": [
+                    "Introduce the endoscope per nasum.",
+                    "The medication is to be administered per os."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In accordance with, as per",
+                  "examples": [
+                    "I parked my car at the curb per your request.",
+                    "Implement a program that computes the approximate grade level needed to comprehend some text, per the below.",
+                    "Note that while the walkthrough illustrates that words may be separated by more than one space, you may assume, per the specifications above, that no sentences will contain more than one space in a row."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": []
+    },
+    {
+      "description": [
+        "shortening of person, coined by Marge Piercy in Woman on the Edge of Time (1979)"
+      ],
+      "adjectives": [
+        {
+          "description": "per (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare, nonstandard) Belonging to per, their (singular). Gender-neutral third-person singular possessive adjective, coordinate with gendered his and her.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
