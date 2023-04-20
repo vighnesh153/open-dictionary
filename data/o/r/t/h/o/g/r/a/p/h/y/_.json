@@ -1,0 +1,81 @@
+{
+  "word": "orthography",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is derived from Late Middle English ortografie, ortographie (“spelling”) [and other forms], and then either:",
+        "The English word is analysable as ortho- (prefix meaning ‘proper, right; straight’) +‎ -graphy (suffix denoting something written or otherwise represented in a specified manner, or about a specified subject).",
+        "The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "orthography (countable and uncountable, plural orthographies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, architecture) A form of projection used to represent three-dimensional objects in two dimensions, in which all the projection lines are orthogonal or perpendicular to the projection plane; an orthographic projection, especially when used to draw an elevation, vertical projection, etc., of a building; also (obsolete) a drawing made in this way.",
+                  "examples": [
+                    "Antonym: oblique projection"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(linguistics)",
+              "entries": [
+                {
+                  "meaning": "(countable) A method of representing a language or the sounds of language by written symbols; spelling.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(countable, more broadly) A set of conventions for writing a language, including norms of spelling, capitalization, emphasis, hyphenation, punctuation, and word breaks.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(uncountable) The aspect of language study concerned with letters and their sequences in words; the study of spelling.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(uncountable) Correct spelling according to established usage; also (obsolete) pronunciation according to the spelling of a word.",
+                  "examples": [
+                    "Antonym: cacography"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, obsolete) Synonym of orthographer (“someone knowledgeable in spelling rules”)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "orthography (third-person singular simple present orthographies, present participle orthographying, simple past and past participle orthographied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, rare, archaic) To spell (words) or write (text) according to established usage.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
