@@ -1,0 +1,41 @@
+{
+  "word": "permute",
+  "etymologies": [
+    {
+      "description": [
+        "from Latin permuto"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "permute (third-person singular simple present permutes, present participle permuting, simple past and past participle permuted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) change the order of",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) make a permutation of",
+                  "examples": [
+                    "Synonym: (less common) permutate"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
