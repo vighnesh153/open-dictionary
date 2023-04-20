@@ -1,0 +1,47 @@
+{
+  "word": "nonliteral",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ literal"
+      ],
+      "adjectives": [
+        {
+          "description": "nonliteral (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not literal.",
+                  "examples": [
+                    "Synonym: figurative"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nonliteral (plural nonliterals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, logic) That which is not a literal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
