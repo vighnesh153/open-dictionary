@@ -1,0 +1,595 @@
+{
+  "word": "open",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English open, from Old English open (“open”), from Proto-West Germanic *opan, from Proto-Germanic *upanaz (“open”), from Proto-Indo-European *upo (“up from under, over”). Cognate with Scots apen (“open”), Saterland Frisian eepen (“open”), West Frisian iepen (“open”), Dutch open (“open”), Low German open, apen (“open”), German offen (“open”), Danish åben (“open”), Swedish öppen (“open”), Norwegian Bokmål åpen (“open”), Norwegian Nynorsk open (“open”), Icelandic opinn (“open”). Compare also Latin supinus (“on one's back, supine”), Albanian hap (“to open”). Related to up."
+      ],
+      "adjectives": [
+        {
+          "description": "open (comparative more open, superlative most open)",
+          "definitionGroups": [
+            {
+              "group": "(usually not comparable) Not closed.",
+              "entries": [
+                {
+                  "meaning": "Able to be accessed (physically).",
+                  "examples": []
+                },
+                {
+                  "meaning": "Able to have something pass through or along it.",
+                  "examples": [
+                    "Turn left after the second open door."
+                  ]
+                },
+                {
+                  "meaning": "(of a body part) not covered, showing what is inside",
+                  "examples": [
+                    "It was as if his body had gone to sleep standing up and with his eyes open."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not physically drawn together, closed, folded or contracted; extended.",
+                  "examples": [
+                    "an open hand; an open flower"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable) Actively conducting or prepared to conduct business.",
+                  "examples": [
+                    "Banks are not open on bank holidays."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(comparable) Receptive.",
+                  "examples": [
+                    "I am open to new ideas."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable) Public",
+                  "examples": [
+                    "He published an open letter to the governor on a full page of the New York Times."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable) With open access, of open science, or both.",
+                  "examples": [
+                    "hopes for all aspects of the project being open rather than paywalled"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable) Candid, ingenuous, not subtle in character.",
+                  "examples": [
+                    "The man is an open book."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now regional) Mild (of the weather); free from frost or snow.",
+                  "examples": [
+                    "He desires me to tell you that the present open weather induces him to accept Mr Vernon's invitation to prolong his stay in Sussex that they may have some hunting together."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, logic, of a formula) Having a free variable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, topology, of a set) Which is part of a predefined collection of subsets of \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n, that defines a topological space on \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory, of a walk) Whose first and last vertices are different.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, not comparable, of a file, document, etc.) In current use; mapped to part of memory.",
+                  "examples": [
+                    "I couldn't save my changes because another user had the same file open."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, gas and liquid flow, of valve or damper) To be in a position allowing fluid to flow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity, of a switch or circuit breaker) To be in a position preventing electricity from flowing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business) Not fulfilled.",
+                  "examples": [
+                    "I've got open orders for as many containers of red durum as you can get me."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not settled or adjusted; not decided or determined; not closed or withdrawn from consideration.",
+                  "examples": [
+                    "an open question",
+                    "to keep an offer or opportunity open",
+                    "your account will remain open until we receive final settlement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, stringed instruments) Of a note, played without pressing the string against the fingerboard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Of a note, played without closing any finger-hole, key or valve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not of a quality to prevent communication, as by closing waterways, blocking roads, etc.; hence, not frosty or inclement; mild; used of the weather or the climate.",
+                  "examples": [
+                    "an open winter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law, of correspondence) Written or sent with the intention that it may made public or referred to at any trial, rather than by way of confidential private negotiation for a settlement.",
+                  "examples": [
+                    "You will observe that this is an open letter and we reserve the right to mention it to the judge should the matter come to trial."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) Uttered with a relatively wide opening of the articulating organs; said of vowels.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) Uttered, as a consonant, with the oral passage simply narrowed without closure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics, of a syllable) That ends in a vowel; not having a coda.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, education) Made public, usable with a free licence and without proprietary components.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Resulting from an incision, puncture or any other process by which the skin no longer protects an internal part of the body.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, used before \"code\") Source code of a computer program that is not within the text of a macro being generated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a multi-word compound) Having component words separated by spaces, as opposed to being joined together or hyphenated; for example, time slot as opposed to timeslot or time-slot.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English openen, from Old English openian (“to open”), from Proto-Germanic *upanōną (“to raise; lift; open”), from Proto-Germanic *upanaz (“open”, adjective). Cognate with Saterland Frisian eepenje (“to open”), West Frisian iepenje (“to open”), Dutch openen (“to open”), German öffnen (“to open”), Danish åbne (“to open”), Swedish öppna (“to open”), Norwegian Bokmål åpne (“to open”), Norwegian Nynorsk and Icelandic opna (“to open”). Related to English up."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "open (third-person singular simple present opens, present participle opening, simple past and past participle opened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make something accessible or allow for passage by moving from a shut position.",
+                  "examples": [
+                    "Turn the doorknob to open the door."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make (an open space, etc.) by clearing away an obstacle or obstacles, in order to allow for passage, access, or visibility.",
+                  "examples": [
+                    "He opened a path through the undergrowth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, engineering, gas and liquid flow, of valve or damper) To move to a position allowing fluid to flow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, electricity, of a switch, fuse or circuit breaker) To move to a position preventing electricity from flowing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Manglish, Philippines) To turn on; to switch on.",
+                  "examples": [
+                    "Open your webcam. ― Turn on your webcam.",
+                    "Open the fan please. ― Please switch on the fan.",
+                    "Open the lights please. ― Please turn on the lights."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring up, broach.",
+                  "examples": [
+                    "I don't want to open that subject."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enter upon, begin.",
+                  "examples": [
+                    "to open a discussion",
+                    "to open fire upon an enemy",
+                    "to open trade, or correspondence",
+                    "to open a case in court, or a meeting"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To spread; to expand into an open or loose position.",
+                  "examples": [
+                    "to open a closed fist",
+                    "to open matted cotton by separating the fibres",
+                    "to open a map, book, or scroll"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make accessible to customers or clients.",
+                  "examples": [
+                    "I will open the shop an hour early tomorrow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To start (a campaign).",
+                  "examples": [
+                    "Vermont will open elk hunting season next week."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become open.",
+                  "examples": [
+                    "The door opened all by itself."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To begin conducting business.",
+                  "examples": [
+                    "The shop opens at 9:00."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, cricket) To begin a side's innings as one of the first two batsmen.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, poker) To bet before any other player has in a particular betting round in a game of poker.",
+                  "examples": [
+                    "After the first two players fold, Julie opens for $5."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, poker) To reveal one's hand.",
+                  "examples": [
+                    "Jeff opens his hand revealing a straight flush."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive, of a file, document, etc.) To load into memory for viewing or editing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, nursing) To make (a bed) ready for a patient by folding back the bedcovers.",
+                  "examples": [
+                    "Follow agency policy, or open the bed by folding the top linens back."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To disclose; to reveal; to interpret; to explain.",
+                  "examples": [
+                    "The king opened himself to some of his council, that he was sorry for the earl's death."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English open (“an aperture or opening”), from the verb (see Etymology 2 above). In the sports sense, however, a shortening of “open competition”."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "open (plural opens)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(with the) Open or unobstructed space; an exposed location.",
+                  "examples": [
+                    "I can't believe you left the lawnmower out in the open when you knew it was going to rain this afternoon!",
+                    "Wary of hunters, the fleeing deer kept well out of the open, dodging instead from thicket to thicket."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(with the) Public knowledge or scrutiny; full view.",
+                  "examples": [
+                    "We have got to bring this company's corrupt business practices into the open."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A defect in an electrical circuit preventing current from flowing.",
+                  "examples": [
+                    "The electrician found the open in the circuit after a few minutes of testing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sports event in which anybody can compete.",
+                  "examples": [
+                    "the Australian Open"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of something being opened, such as an e-mail message.",
+                  "examples": [
+                    "The total number of opens from original, or unique, subscribers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
