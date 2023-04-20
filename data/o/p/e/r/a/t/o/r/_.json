@@ -1,0 +1,110 @@
+{
+  "word": "operator",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin operatōr, from operor (“work, labour”). Equivalent to operate +‎ -or."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "operator (countable and uncountable, plural operators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who operates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A telecommunications facilitator whose job is to establish temporary network connections.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function or other mapping that carries variables defined on a domain into another variable or set of variables in a defined range.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The game of Chinese whispers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A person who is adept at making deals or getting results, especially one who uses questionable methods.",
+                  "examples": [
+                    "Francis Urquhart: I think Lord Billsborough is starting to lose touch a bit.Tim Stamper: Shame. Used to be a hell of an operator in his day."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A member of a military special operations unit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The administrator of a channel or network on IRC.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A symbol that represents a construct in a programming language and differs from a normal function in its syntax.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A kind of expression that enters into an a-bar movement dependency and is said to bind a variable.",
+                  "examples": [
+                    "In the sentence \"What did Bill say he wants to buy?\", \"what\" is an operator, binding a phonetically empty variable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
