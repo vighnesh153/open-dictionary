@@ -1,0 +1,228 @@
+{
+  "word": "offset",
+  "etymologies": [
+    {
+      "description": [
+        "From off- +‎ set, used to construct the noun form of the verb to set off. Compare Middle English ofsetten (“to encumber, harass, beset, besiege”), from Old English ofsettan (“to press, oppress, overwhelm, crush”)."
+      ],
+      "adjectives": [
+        {
+          "description": "offset (comparative more offset, superlative most offset)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Away from or off from the set of a movie, film, video, or play.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "offset (comparative more offset, superlative most offset)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Away from or off from the set of a movie, film, video, or play.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "offset (plural offsets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything that acts as counterbalance; a compensating equivalent.",
+                  "examples": [
+                    "Today's victory was an offset to yesterday's defeat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(international trade) A form of countertrade arrangement, in which the seller agrees to purchase within a set time frame products of a certain value from the buying country. This kind of agreement may be used in large international public sector contracts such as arms sales.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(c. 1555) A time at which something begins; outset.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing, often attributive) The offset printing process, in which ink is carried from a metal plate to a rubber blanket and from there to the printing surface.",
+                  "examples": [
+                    "offset lithographs",
+                    "offset process"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The difference between a target memory address and a base address.",
+                  "examples": [
+                    "An array of bytes uses its index as the offset, of words a multiple thereof."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal analysis) The displacement between the base level of a measurement and the signal's real base level.",
+                  "examples": [
+                    "The raw signal data was subjected to a baseline correction process to subtract the sensor's offset and drift variations."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The distance by which one thing is out of alignment with another.",
+                  "examples": [
+                    "There is a small offset between the switch and the indicator which some users found confusing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) A short distance measured at right angles from a line actually run to some point in an irregular boundary, or to some object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An abrupt bend in an object, such as a rod, by which one part is turned aside out of line, but nearly parallel, with the rest; the part thus bent aside.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) A short prostrate shoot that takes root and produces a tuft of leaves, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A spur from a range of hills or mountains.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A horizontal ledge on the face of a wall, formed by a diminution of its thickness, or by the weathering or upper surface of a part built out from it; a set-off.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A terrace on a hillside.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "away from or off from the general locations and area where a movie’s, a film‘s, or  a video’s scenery is arranged to be filmed or from those places for actors, assorted crew, director, producers which are typically not filmed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "offset (third-person singular simple present offsets, present participle offsetting, simple past and past participle offset or (rare) offsetted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To counteract or compensate for, by applying a change in the opposite direction.",
+                  "examples": [
+                    "I'll offset the time difference locally.",
+                    "to offset one charge against another"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place out of line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To form an offset in (a wall, rod, pipe, etc.).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
