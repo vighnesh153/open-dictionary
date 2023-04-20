@@ -1,0 +1,32 @@
+{
+  "word": "overfit",
+  "etymologies": [
+    {
+      "description": [
+        "over- +‎ fit"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "overfit (third-person singular simple present overfits, present participle overfitting, simple past and past participle overfitted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) To use a statistical model that has too many parameters relative to the size of the sample leading to a good fit with the sample data but a poor fit with new data.",
+                  "examples": [
+                    "Antonym: underfit"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
