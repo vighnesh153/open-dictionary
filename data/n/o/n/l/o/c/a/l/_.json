@@ -1,0 +1,56 @@
+{
+  "word": "nonlocal",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ local"
+      ],
+      "adjectives": [
+        {
+          "description": "nonlocal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not local; not specific to a location",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nonlocal (plural nonlocals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who is not a local; a stranger or foreigner.",
+                  "examples": [
+                    "Touristic discourse is inherently unlocal: a construction of images and representations that delocalize a tourist destination, repackaging it into terms and images easily circulated and consumed by nonlocals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An identifier that is not locally scoped.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
