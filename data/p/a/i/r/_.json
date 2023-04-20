@@ -1,0 +1,274 @@
+{
+  "word": "pair",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English paire, from Old French paire, from Latin paria (“equals”), neuter plural of par (“pair”). Related to pār (“equal”, adj). Compare Saterland Frisian Poor (“pair”), West Frisian pear (“pair”), Dutch paar (“pair”), German Paar (“pair”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pair (plural pairs or (archaic or dialectal) pair)",
+          "definitionGroups": [
+            {
+              "group": "Two similar or identical things taken together; often followed by of.",
+              "entries": [
+                {
+                  "meaning": "One of the constituent items that make up a pair.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Two people in a relationship, partnership or friendship.",
+                  "examples": [
+                    "Spouses should make a great pair."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Used with binary nouns (often in the plural to indicate multiple instances, since such nouns are plural only, except in some technical contexts)",
+                  "examples": [
+                    "a pair of scissors; two pairs of spectacles; several pairs of jeans"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A couple of working animals attached to work together, as by a yoke.",
+                  "examples": [
+                    "A pair is harder to drive than two mounts with separate riders."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) A poker hand that contains two cards of identical rank, which cannot also count as a better hand.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) A score of zero runs (a duck) in both innings of a two-innings match.",
+                  "examples": [
+                    "Synonyms: pair of spectacles, spectacles"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball, informal) A double play, two outs recorded in one play.",
+                  "examples": [
+                    "They turned a pair to end the fifth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball, informal) A doubleheader, two games played on the same day between the same teams",
+                  "examples": [
+                    "The Pirates took a pair from the Phillies."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rowing) A boat for two sweep rowers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A pair of breasts",
+                  "examples": [
+                    "She's got a gorgeous pair."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A pair of testicles",
+                  "examples": [
+                    "Grow a pair, mate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, politics) The exclusion of one member of a parliamentary party from a vote, if a member of the other party is absent for important personal reasons.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Two members of opposite parties or opinion, as in a parliamentary body, who mutually agree not to vote on a given question, or on issues of a party nature during a specified time.",
+                  "examples": [
+                    "There were two pairs on the final vote."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A number of things resembling one another, or belonging together; a set.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(kinematics) In a mechanism, two elements, or bodies, which are so applied to each other as to mutually constrain relative motion; named in accordance with the motion it permits, as in turning pair, sliding pair, twisting pair.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pair (third-person singular simple present pairs, present participle pairing, simple past and past participle paired)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To group into one or more sets of two.",
+                  "examples": [
+                    "The wedding guests were paired boy/girl and groom's party/bride's party."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) to link two electronic devices wirelessly together, especially through a protocol such as Bluetooth",
+                  "examples": [
+                    "It was not possible to pair my smartphone with an incompatible smartwatch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring two (animals, notably dogs) together for mating.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To come together for mating.",
+                  "examples": [
+                    "The raven, in short, when he pairs, which he does at the earliest moment permitted by the laws of ravendom, pairs for life  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(politics, slang) To engage (oneself) with another of opposite opinions not to vote on a particular question or class of questions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To suit; to fit, as a counterpart.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English pairen, peiren, shortened form of apeiren, empeiren, from Old French empeirier, empoirier, from Late Latin peiōrō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pair (third-person singular simple present pairs, present participle pairing, simple past and past participle paired)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To impair, to make worse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To become worse, to deteriorate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
