@@ -1,0 +1,103 @@
+{
+  "word": "phrase",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin phrasis (“diction”), from Ancient Greek φράσις (phrásis, “manner of expression”), from φράζω (phrázō, “I tell, express”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "phrase (plural phrases)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A short written or spoken expression.",
+                  "examples": [
+                    "Hypernym: syntagma"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word or, more commonly, a group of words that functions as a single unit in the syntax of a sentence, usually consisting of a head, or central word, and elaborating words.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A small section of music in a larger piece.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A mode or form of speech; diction; expression.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dance) A short individual motion forming part of a choreographed dance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "phrase (third-person singular simple present phrases, present participle phrasing, simple past and past participle phrased)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To express (an action, thought or idea) by means of particular words.",
+                  "examples": [
+                    "I wasn't sure how to phrase my condolences without sounding patronising."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, music) To perform a passage with the correct phrasing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, music) To divide into melodic phrases.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
