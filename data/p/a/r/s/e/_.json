@@ -1,0 +1,98 @@
+{
+  "word": "parse",
+  "etymologies": [
+    {
+      "description": [
+        "Possibly from Middle English pars (“parts, shares; parts of speech, grammar”), from Old French pars (plural of part (“part, portion, share”)), from Latin pars (“part, piece, share”), possibly from Proto-Indo-European *per- (“to carry forth; to sell”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "parse (plural parses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, linguistics) An act of parsing; a parsing.",
+                  "examples": [
+                    "The parse will fail if the program contains an unrecognised keyword."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, linguistics) The result of such an act; a parsing.",
+                  "examples": [
+                    "This parse is incorrect and indicates a fault in the parser."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "parse (third-person singular simple present parses, present participle parsing, simple past and past participle parsed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, transitive, intransitive) To resolve (a sentence, etc.) into its elements, pointing out the several parts of speech, and their relation to each other by agreement or government; to analyze and describe grammatically. [from mid 16th c.]",
+                  "examples": [
+                    "Synonym: construe"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To examine closely; to scrutinize.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To split (a file or other input) into pieces of data that can be easily manipulated or stored.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To resolve (a string of code or text) into its elements to determine if it conforms to a particular grammar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, linguistics, intransitive) Of a string of code or text, sentence, etc.: to conform to rules of grammar, to be syntactically valid.",
+                  "examples": [
+                    "This sentence doesn't parse."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
