@@ -1,0 +1,170 @@
+{
+  "word": "panic",
+  "etymologies": [
+    {
+      "description": [
+        "The adjective is borrowed from Middle French panique, a word itself borrowed from Ancient Greek πανικός (panikós, “pertaining to Pan”); Pan, the Greek god of fields and woods, was believed to be the source of mysterious sounds that caused contagious, groundless fear in herds and crowds, or in people in lonely spots.",
+        "Adjective sense 3 (“pertaining to or resulting from overpowering fear or fright”) is partly an attributive use of the noun.",
+        "The noun is derived from the adjective, while the verb is derived from the noun. Verb sense 1.3 (“to highly amuse, entertain, or impress (an audience watching a performance or show”) is derived from noun sense 4 (“a highly amusing or entertaining performer, performance, or show”)."
+      ],
+      "adjectives": [
+        {
+          "description": "panic (comparative more panic, superlative most panic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Greek mythology, archaic) Alternative letter-case form of Panic (“pertaining to the Greek god Pan”)",
+                  "examples": [
+                    "Synonyms: Pandean, (obsolete) panical"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(by extension (see the etymology))",
+              "entries": [
+                {
+                  "meaning": "Of fear, fright, etc: overwhelming or sudden.",
+                  "examples": [
+                    "Synonym: (obsolete) panical"
+                  ]
+                },
+                {
+                  "meaning": "Pertaining to or resulting from overwhelming fear or fright.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "panic (countable and uncountable, plural panics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Overwhelming fear or fright, often affecting groups of people or animals; (countable) an instance of this; a fright, a scare.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, computing) Short for kernel panic (“on Unix-derived operating systems: an action taken by the operating system when it cannot recover from a fatal error”); (by extension) any computer system crash.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, economics, finance) A rapid reduction in asset prices due to broad efforts to raise cash in anticipation of such prices continuing to decline.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, US, originally theater, colloquial) A highly amusing or entertaining performer, performance, or show; a riot, a scream.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "panic (third-person singular simple present panics, present participle panicking, simple past and past participle panicked)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To cause (someone) to feel panic (“overwhelming fear or fright”); also, to frighten (someone) into acting hastily.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing) To cause (a computer system) to crash.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(US, colloquial) To highly amuse, entertain, or impress (an audience watching a performance or show).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To feel panic, or overwhelming fear or fright; to freak out, to lose one's head.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing) Of a computer system: to crash.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Late Middle English panik, panyk (“plant of the genus Panicum”), borrowed from Latin pānicum, pānīcum (“foxtail millet or Italian millet (Setaria italica); plant of the genus Panicum, panicgrass”); further etymology uncertain, probably either from pānis (“bread; loaf”) (possibly ultimately from Proto-Indo-European *peh₂- (“to graze; to protect; to shepherd”)) or pānus (“ear of millet; thread wound on a bobbin”) (ultimately from Proto-Indo-European *(s)penh₁- (“to twist; to weave”)) + -cum (suffix forming neuter nouns)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "panic (countable and uncountable, plural panics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(originally) Foxtail millet or Italian millet (Setaria italica), the second-most widely grown species of millet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A plant of the genus Panicum, or of similar plants of other genera (especially Echinochloa and Setaria) formerly included within Panicum; panicgrass or panic grass.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The edible grain obtained from one of the above plants.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
