@@ -1,0 +1,41 @@
+{
+  "word": "persymmetric",
+  "etymologies": [
+    {
+      "description": [
+        "per- +‎ symmetric"
+      ],
+      "adjectives": [
+        {
+          "description": "persymmetric (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a square matrix) Such that the values on each line perpendicular to the main diagonal are the same for a given line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a square matrix, now more commonly) Symmetrical about the anti-diagonal.",
+                  "examples": [
+                    "Synonym: Hankel"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
