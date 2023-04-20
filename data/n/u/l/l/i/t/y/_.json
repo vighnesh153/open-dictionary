@@ -1,0 +1,50 @@
+{
+  "word": "nullity",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French nullité, from Medieval Latin nullitalis, from Latin nullus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nullity (countable and uncountable, plural nullities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being null, or void, or invalid.",
+                  "examples": [
+                    "nullity of marriage"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A void act; a defective proceeding or one expressly declared by statute to be a nullity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The difference between the rank of a matrix and the number of columns it has; the dimension of the nullspace of a matrix.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
