@@ -1,0 +1,109 @@
+{
+  "word": "parity",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French parité, from Late Latin paritas, from Latin pār (“equal”). Equivalent to pari- +‎ -ty."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "parity (countable and uncountable, plural parities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Equality; comparability of strength or intensity.",
+                  "examples": [
+                    "Altogether, Microsoft claims a 99% feature parity between 32-bit and 64-bit editions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Senses related to classification into two sets.",
+              "entries": [
+                {
+                  "meaning": "(mathematics, countable) A set with the property of having all of its elements belonging to one of two disjoint subsets, especially a set of integers split in subsets of even and odd elements.",
+                  "examples": [
+                    "Parity is always preserved in such operations."
+                  ]
+                },
+                {
+                  "meaning": "(mathematics, countable) The classification of an element of a set with parity into one of the two sets.",
+                  "examples": [
+                    "The particles' parities can switch at random."
+                  ]
+                },
+                {
+                  "meaning": "(computing) The count of one bits in a value, reduced to even or odd or zero or one.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(physics, countable) Symmetry of interactions under spatial inversion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(games, countable) In reversi, the last move within a given sector of the board.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Resemblance; analogy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Latin paritas, from pariō (“give birth”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "parity (plural parities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, countable) The number of delivered pregnancies reaching viable gestational age, usually between 20-28 weeks",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(agriculture, countable) The number of times a sow has farrowed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
