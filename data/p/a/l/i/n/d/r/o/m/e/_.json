@@ -1,0 +1,57 @@
+{
+  "word": "palindrome",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek παλίνδρομος (palíndromos, “running back again”), from πάλιν (pálin, “back, again, back again”) + δρόμος (drómos, “running, race, racecourse”); surface analysis, palin- +‎  drome (compare also velodrome and syndrome)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "palindrome (plural palindromes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A word, phrase, number or any other sequence of units which has the property of reading the same forwards as it does backwards, character for character, sometimes disregarding punctuation, capitalization and diacritics.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A poetic form in which the sequence of words reads the same in either direction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A sequence of items that follows the same pattern both forwards and backwards.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) A stretch of DNA in which the sequence of nucleotides on one strand are in the reverse order to that of the complementary strand",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
