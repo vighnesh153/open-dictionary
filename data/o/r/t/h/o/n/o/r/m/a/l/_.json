@@ -1,0 +1,39 @@
+{
+  "word": "orthonormal",
+  "etymologies": [
+    {
+      "description": [
+        "Blend of orthogonal +‎ normal."
+      ],
+      "adjectives": [
+        {
+          "description": "orthonormal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a set of vectors, both orthogonal and normalized.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a linear transformation that preserves both angles and lengths.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
