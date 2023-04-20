@@ -1,0 +1,41 @@
+{
+  "word": "nontemporal",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ temporal"
+      ],
+      "adjectives": [
+        {
+          "description": "nontemporal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not temporal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Without temporal locality, describing data not expected to be accessed again in the near future",
+                  "examples": [
+                    "nontemporal load, nontemporal store"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
