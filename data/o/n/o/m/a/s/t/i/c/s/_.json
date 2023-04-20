@@ -1,0 +1,34 @@
+{
+  "word": "onomastics",
+  "etymologies": [
+    {
+      "description": [
+        "1936, from the adjective onomastic (“of or belonging to naming”) (1716) with a suffix -s, from French onomastique, from Ancient Greek ὀνομαστικός (onomastikós), from ὀνομαστός (onomastós, “named”), form of ὀνομάζω (onomázō, “I name”), from ὄνομα (ónoma, “name”), from Proto-Indo-European *h₁nómn̥ (“name”) (whence English name)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "onomastics pl (plural only)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The branch of lexicology devoted to the study of names and naming, especially the origins of names.",
+                  "examples": [
+                    "Synonym: onomatology",
+                    "Hypernyms: lexicology, (in sense of “origins”) etymology",
+                    "Hyponyms: anthroponymy, toponymy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
