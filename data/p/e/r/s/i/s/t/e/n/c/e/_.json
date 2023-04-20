@@ -1,0 +1,63 @@
+{
+  "word": "persistence",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French persistance."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "persistence (countable and uncountable, plural persistences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The property of being persistent.",
+                  "examples": [
+                    "You've got to admire her persistence. She's asked him out every day for a month even though she keeps turning him down."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) Of data, the property of continuing to exist after the termination of the program.",
+                  "examples": [
+                    "Once written to a disk file, the data has persistence: it will still be there tomorrow when we run the next program."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) Continuation of the previous day's weather (particularly temperature and precipitation statistics).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The number of times an operation can be iteratively applied to a number before it reaches a permanently constant state.",
+                  "examples": [
+                    "The persistence of the number 39 under the operation of multiplying the digits of the number is three, because 3x9 = 27, 2x7 = 14, and 1x4 = 4, and no further iterations will change the number again."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

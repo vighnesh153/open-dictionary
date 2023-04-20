@@ -1,0 +1,68 @@
+{
+  "word": "persist",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French persister (Modern French persister), from Latin persistere, from per- + sistere (“to stand”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "persist (third-person singular simple present persists, present participle persisting, simple past and past participle persisted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To go on stubbornly or resolutely.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To repeat an utterance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To continue to exist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, copulative, obsolete) To continue to be; to remain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To cause to persist; make permanent.",
+                  "examples": [
+                    "This would not be saved after his session terminates because we don't have an actual user identity to allow us to persist the settings."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
