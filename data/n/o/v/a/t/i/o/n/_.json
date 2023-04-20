@@ -1,0 +1,43 @@
+{
+  "word": "novation",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin novātiō (“a renewing, rennovation”), from novō, from novus (“new”). Compare novel, novelty."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "novation (countable and uncountable, plural novations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) Replacement of a contract with one or more new contracts, in particular in financial markets the replacement of a contract between a particular buyer and seller with contracts between the clearing house and each party.",
+                  "examples": [
+                    "Netting by novation will occur immediately upon registration of the transaction in the SCM's name."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A new contract between the original contracting parties whereby the first obligation is extinguished and a new obligation is substituted.",
+                  "examples": [
+                    "An example of a novation is where an original debt which was payable in two instalments is novated to become payable in five installments."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
