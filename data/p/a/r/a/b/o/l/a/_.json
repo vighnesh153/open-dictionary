@@ -1,0 +1,41 @@
+{
+  "word": "parabola",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from New Latin parabola, from Ancient Greek παραβολή (parabolḗ), from παραβάλλω (parabállō, “I set side by side”), from παρά (pará, “beside”) + βάλλω (bállō, “I throw”). Doublet of parable, parole, and palaver."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "parabola (plural parabolas or parabolae or parabolæ)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The conic section formed by the intersection of a cone with a plane parallel to a tangent plane to the cone; the locus of points equidistant from a fixed point (the focus) and line (the directrix).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) The explicit drawing of a parallel between two essentially dissimilar things, especially with a moral or didactic purpose. A parable.",
+                  "examples": [
+                    "Synonym: parable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
