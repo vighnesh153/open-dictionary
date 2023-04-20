@@ -1,0 +1,93 @@
+{
+  "word": "permanent",
+  "etymologies": [
+    {
+      "description": [
+        "Used in English since 15th century, from Middle French permanent, from Latin permanens, from permanēo (“I stay through”)."
+      ],
+      "adjectives": [
+        {
+          "description": "permanent (comparative more permanent, superlative most permanent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without end, eternal.",
+                  "examples": [
+                    "Nothing in this world is truly permanent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lasting for an indefinitely long time.",
+                  "examples": [
+                    "The countries are now locked in a permanent state of conflict."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "permanent (plural permanents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A chemical hair treatment imparting or removing curliness, whose effects typically last for a period of weeks; a perm.",
+                  "examples": [
+                    "She had pewter-coloured hair set in a ruthless permanent, a hard beak and large moist eyes with the sympathetic expression of wet stones."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra, combinatorics) Given an \n  \n    \n      \n        n\n        ×\n        n\n      \n    \n    {\\displaystyle n\\times n}\n  \n matrix \n  \n    \n      \n        \n          a\n          \n            i\n            j\n          \n        \n        \n      \n    \n    {\\displaystyle a_{ij}\\,}\n  \n, the sum over all permutations \n  \n    \n      \n        π\n        \n      \n    \n    {\\displaystyle \\pi \\,}\n  \n of \n  \n    \n      \n        \n          ∏\n          \n            i\n            =\n            1\n          \n          \n            n\n          \n        \n        \n          \n            a\n            \n              i\n              π\n              (\n              i\n              )\n            \n          \n        \n      \n    \n    {\\displaystyle \\prod _{i=1}^{n}{a_{i\\pi (i)}}}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(collectible card games) A card whose effects persist beyond the turn on which it is played.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "permanent (third-person singular simple present permanents, present participle permanenting, simple past and past participle permanented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, dated) To perm (the hair).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
