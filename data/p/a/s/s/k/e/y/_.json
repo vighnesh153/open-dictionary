@@ -1,0 +1,54 @@
+{
+  "word": "passkey",
+  "etymologies": [
+    {
+      "description": [
+        "From pass +‎ key."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "passkey (plural passkeys)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A key, especially in a hotel, that allows someone in authority to open any door.",
+                  "examples": [
+                    "Synonyms: master key, (obsolete) passe-partout"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A key for entering a house or other building.",
+                  "examples": [
+                    "Now, Balmy, here's the passkey to that house. The windows are wired, but the front door isn't. Get inside that door as quietly as you can, and find out as much as you can."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A password.",
+                  "examples": [
+                    "The router then generates a random numeric passkey and delivers it to the user  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
