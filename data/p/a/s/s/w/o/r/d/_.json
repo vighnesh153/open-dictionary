@@ -1,0 +1,66 @@
+{
+  "word": "password",
+  "etymologies": [
+    {
+      "description": [
+        "pass +‎ word; the sentry-passing sense predates the cryptographic sense and was its inspiration."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "password (plural passwords)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, security) A word relayed to a person to gain admittance to a place or to gain access to information.",
+                  "examples": [
+                    "Only if a would-be visitor knew the password du jour could he pass; the guards allowed no exceptions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, cryptography) A string of characters used to log in to a computer or network, to access a level in a video game, and so on; archetypally a word but nowadays often an alphanumeric string or a phrase.",
+                  "examples": [
+                    "A strong password has a mixture of lowercase and uppercase letters, numbers, and punctuation marks."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "password (third-person singular simple present passwords, present participle passwording, simple past and past participle passworded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To protect with a password.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
