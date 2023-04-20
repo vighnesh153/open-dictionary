@@ -1,0 +1,131 @@
+{
+  "word": "override",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English overriden, from Old English oferrīdan, equivalent to over- +‎ ride. Cognate with Dutch overrijden, German überreiten, Danish override."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "override (plural overrides)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mechanism, device or procedure used to counteract an automatic control.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A royalty.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device for prioritizing audio signals, such that certain signals receive priority over others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) A method with the same name and signature as a method in a superclass, which runs instead of that method, when an object of the subclass is involved.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "override (third-person singular simple present overrides, present participle overriding, simple past overrode, past participle overridden)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To ride across or beyond something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To ride over the top of something, usually forcibly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To ride a horse too hard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To counteract the normal operation of something; to countermand with orders of higher priority.",
+                  "examples": [
+                    "Congress promptly overrode the president's veto, passing the bill into law."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To give commands of a higher priority to an automated system; to take manual control of an automated system",
+                  "examples": [
+                    "Manual controls allow the user to override the camera's default settings."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) To define a new behaviour of a method by creating the same method of the superclass with the same name and signature.",
+                  "examples": [
+                    "How the cat runs is defined in the method run() of the class Cat, which overrides the same method with the same signature of superclass called Mammal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
