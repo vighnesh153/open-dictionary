@@ -1,0 +1,94 @@
+{
+  "word": "nightly",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English nyȝtly, nihtlich, nihtlic, from Old English nihtlīċ, nihtelīċ (“nocturnal, nightly, of the night, at night”), equivalent to night +‎ -ly. Cognate with Scots nichtlie (“nightly”), West Frisian nachtlik (“nightly, nocturnal”), Dutch nachtelijk (“nightly, nocturnal”), German nächtlich (“nocturnal, nightly”), Danish natlig (“nightly”), Swedish nattlig (“nightly, nocturnal”)."
+      ],
+      "adjectives": [
+        {
+          "description": "nightly (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Happening or appearing in the night; night-time; nocturnal.",
+                  "examples": [
+                    "nightly dews"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Performing, occurring, or taking place every night.",
+                  "examples": [
+                    "The dog demanded to go out for his nightly walk."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Used in the night.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English nyghtly, neghtly, from Old English *nihtlīċe (“nightly”), equivalent to night +‎ -ly."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "nightly (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Every night.",
+                  "examples": [
+                    "He checks his email nightly."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "nightly (plural nightlies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A build of a software program with the latest changes, released every night.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
