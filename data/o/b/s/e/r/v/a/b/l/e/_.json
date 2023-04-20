@@ -1,0 +1,59 @@
+{
+  "word": "observable",
+  "etymologies": [
+    {
+      "description": [
+        "observe +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "observable (comparative more observable, superlative most observable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be observed.",
+                  "examples": [
+                    "The strange new star was at the edge of the observable universe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Deserving to be observed; worth regarding; remarkable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "observable (plural observables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Any physical property that can be observed and measured directly and not derived from other properties",
+                  "examples": [
+                    "Temperature is an observable but entropy is derived.",
+                    "In quantum mechanics, observables correspond to Hermitian operators. Also, they act a lot like random variables. Taking their expected value one may recover something resembling a classical observable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
