@@ -1,0 +1,54 @@
+{
+  "word": "parallelize",
+  "etymologies": [
+    {
+      "description": [
+        "parallel +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "parallelize (third-person singular simple present parallelizes, present participle parallelizing, simple past and past participle parallelized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make parallel (to each other).",
+                  "examples": [
+                    "Care must be taken lest the machine parallelize the fibers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To make to execute in parallel.",
+                  "examples": [
+                    "The programmers had to learn how to parallelize their algorithms."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To treat as if parallel; to draw parallels between.",
+                  "examples": [
+                    "They erroneously parallelized the symptoms of the two diseases."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
