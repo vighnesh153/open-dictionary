@@ -1,0 +1,67 @@
+{
+  "word": "permission",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English permision, permission, permissioun, permyssion, from Middle French permission, from Latin permissiō. Mostly replaced native English leave, from Old English lēaf (“permission”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "permission (countable and uncountable, plural permissions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "authorisation; consent (especially formal consent from someone in authority)",
+                  "examples": [
+                    "Sire, do I have your permission to execute this traitor?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of permitting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Flags or access control lists pertaining to a file that dictate who can access it, and how.",
+                  "examples": [
+                    "I used the \"chmod\" command to change the file's permission."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "permission (third-person singular simple present permissions, present participle permissioning, simple past and past participle permissioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To grant or obtain authorization for.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
