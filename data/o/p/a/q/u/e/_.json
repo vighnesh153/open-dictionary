@@ -1,0 +1,107 @@
+{
+  "word": "opaque",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English opake, from Latin opacus (“shaded, shady, dark”) (of unknown origin), later reinforced from Middle French opaque. Doublet of ubac."
+      ],
+      "adjectives": [
+        {
+          "description": "opaque (comparative more opaque or opaquer, superlative most opaque or opaquest) (see usage notes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Neither reflecting nor emitting light.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Allowing little light to pass through, not translucent or transparent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Unclear, unintelligible, hard to get or explain the meaning of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Obtuse, stupid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Describes a type for which higher-level callers have no knowledge of data values or their representations; all operations are carried out by the type's defined abstract operators.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "opaque (plural opaques)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, poetic) An area of darkness; a place or region with no light.",
+                  "examples": [
+                    "Through this opaque of Nature and of Soul, / This double night, transmit one pitying ray, / To lighten, and to cheer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something which is opaque rather than translucent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "opaque (third-person singular simple present opaques, present participle opaquing, simple past and past participle opaqued)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make, render (more) opaque.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
