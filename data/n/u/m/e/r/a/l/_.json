@@ -1,0 +1,76 @@
+{
+  "word": "numeral",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French numeral, from Latin numerālis (“pertaining to a number”), from numerus (“a number”)."
+      ],
+      "adjectives": [
+        {
+          "description": "numeral (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to numbers; numerical.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "numeral (plural numerals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A symbol that is not a word and represents a number, such as the Arabic numerals 1, 2, 3 and the Roman numerals I, V, X, L.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A representation of a number composed of such symbols.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A number word, a simple or compound word for a number often having particular grammatical attributes depending on the language.",
+                  "examples": [
+                    "Hyponyms: cardinal numeral, ordinal numeral, distributive numeral, multiplicative numeral, multiplier, collective numeral"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) A card whose rank is a number (usually including the ace as 1).",
+                  "examples": [
+                    "Jacks, queens, and kings are not numerals."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
