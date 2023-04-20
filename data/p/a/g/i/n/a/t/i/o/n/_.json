@@ -1,0 +1,48 @@
+{
+  "word": "pagination",
+  "etymologies": [
+    {
+      "description": [
+        "from French pagination"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pagination (countable and uncountable, plural paginations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of creating pages for a document, book, etc., or determining when to truncate text on the pages.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of numbering pages for a document, book, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The separation of data into batches, so that it can be retrieved with a number of smaller requests.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
