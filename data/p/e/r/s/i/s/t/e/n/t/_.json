@@ -1,0 +1,94 @@
+{
+  "word": "persistent",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin persistentem, present participle of persistō (“continue steadfastly”). Synchronically analyzable as persist +‎ -ent."
+      ],
+      "adjectives": [
+        {
+          "description": "persistent (comparative more persistent, superlative most persistent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obstinately refusing to give up or let go.",
+                  "examples": [
+                    "She has had a persistent cough for weeks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Insistently repetitive.",
+                  "examples": [
+                    "There was a persistent knocking on the door."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Indefinitely continuous.",
+                  "examples": [
+                    "There have been persistent rumours for years."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) Lasting past maturity without falling off.",
+                  "examples": [
+                    "Pine cones have persistent scales."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of data or a data structure: not transient or temporary, but remaining in existence after the termination of the program that creates it.",
+                  "examples": [
+                    "Once written to a disk file, the data becomes persistent: it will still be there tomorrow when we run the next program."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Describing a fractal process that has a positive Brown function",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, stochastic processes, of a state) non-transient.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
