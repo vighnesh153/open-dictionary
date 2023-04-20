@@ -1,0 +1,65 @@
+{
+  "word": "oversend",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English oversenden (“to send over, transmit”), from Old English ofersendan (“to transmit”), from Proto-Germanic *uber (“over”) + *sandijaną (“to send”), corresponding to over- +‎ send. Cognate with Middle Dutch oversenden (“to send over”), German übersenden (“to send, transmit”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "oversend (plural oversends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A transmission that is larger than it should be.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "oversend (third-person singular simple present oversends, present participle oversending, simple past and past participle oversent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To send an amount greater than what is required; to oversupply.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To send (a message, etc.) to too many people.",
+                  "examples": [
+                    "Don't oversend. That means don't send an e-mail announcement to everyone who may have once sent you an e-mail; it also means don't overburden those who are willingly on your e-mail list because they want relevant information. Oversending e-mails is the surest way to be ignored or find your way to the junk mail file."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To send over, transmit.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
