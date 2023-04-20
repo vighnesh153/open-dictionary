@@ -1,0 +1,163 @@
+{
+  "word": "path",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English path, peth, from Old English pæþ (“path, track”), from Proto-West Germanic *paþ, from Proto-Germanic *paþaz (“path”) (compare West Frisian paad, Dutch pad, German Pfad), Ancient Greek πατέω (patéō) / πάτος (pátos), from Iranian (compare Avestan 𐬞𐬀𐬥𐬙𐬀‎ (panta, “way”), 𐬞𐬀𐬚𐬀‎ (paθa, genitive), Old Persian [script needed] (pathi-)), from Proto-Iranian *pántaHh, from Proto-Indo-Iranian *pántaHs (compare Sanskrit पन्था (pánthā-)), from Proto-Indo-European *póntoh₁s, from *pent- (“path”) (compare English find). Doublet of panth."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "path (plural paths)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A trail for the use of, or worn by, pedestrians.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A course taken.",
+                  "examples": [
+                    "the path of a meteor, of a caravan, or of a storm"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(paganism) A Pagan tradition, for example witchcraft, Wicca, druidism, Heathenry.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A metaphorical course or route; progress.",
+                  "examples": [
+                    "As I explored the possibility of a library science path, having previously been employed in libraries during my school career and afterwards, I decided that I needed to actually experience work in a library setting full time again  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A method or direction of proceeding.",
+                  "examples": [
+                    "The paths of glory lead but to the grave."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A human-readable specification for a location within a hierarchical or tree-like structure, such as a file system or as part of a URL.",
+                  "examples": [
+                    "Use the network path \\\\Marketing\\Files to find the documents you need."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A sequence of vertices from one vertex to another using the arcs (edges). A path does not visit the same vertex more than once (unless it is a closed path, where only the first and the last vertex are the same).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A continuous map \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n from the unit interval \n  \n    \n      \n        I\n        =\n        [\n        0\n        ,\n        1\n        ]\n      \n    \n    {\\displaystyle I=[0,1]}\n  \n to a topological space \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) A slot available for allocation to a railway train over a given route in between other trains.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "path (third-person singular simple present paths, present participle pathing, simple past and past participle pathed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make a path in, or on (something), or for (someone).",
+                  "examples": [
+                    "pathing young Henry's unadvised ways"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, intransitive) To navigate through a file system directory tree (to a desired file or folder).",
+                  "examples": [
+                    "Next, you need to path to the location of the executable and run it from there."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Shortening."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "path (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, abbreviation) Pathology.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
