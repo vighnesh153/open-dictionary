@@ -1,0 +1,39 @@
+{
+  "word": "paginate",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin paginare, from Latin pagina."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "paginate (third-person singular simple present paginates, present participle paginating, simple past and past participle paginated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To number the pages of (a book or other document); to foliate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To separate (data) into batches, so that it can be retrieved with a number of smaller requests.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
