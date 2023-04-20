@@ -1,0 +1,58 @@
+{
+  "word": "overloading",
+  "etymologies": [
+    {
+      "description": [
+        "From over +‎ loading."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "overloading (countable and uncountable, plural overloadings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) A type of polymorphism, where different functions, operators or variables with the same name are invoked based on the data types of the parameters passed.",
+                  "examples": [
+                    "I guess we need to adapt to even more overloadings, since symbolophobia is part of Ada culture."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The loading of a vehicle etc. with too heavy a weight.",
+                  "examples": [
+                    "Operators can be fined for overloading of vehicles."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "overloading",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of overload",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
