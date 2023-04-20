@@ -1,0 +1,47 @@
+{
+  "word": "nilpotent",
+  "etymologies": [
+    {
+      "description": [
+        "From nil (“not any”) +‎ potent (“having power”) with literal meaning “having zero power” - bearing Latin roots nil and potens.\nCoined in 1870, along with idempotent, by American mathematician Benjamin Peirce to describe elements of associative algebras."
+      ],
+      "adjectives": [
+        {
+          "description": "nilpotent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, ring theory, of an element x of a semigroup or ring) Such that, for some positive integer n, xn = 0.",
+                  "examples": [
+                    "The rest of this book is devoted to determining the conjugacy classes and centralizers of nilpotent elements in L(G) and unipotent elements in G, where G is an exceptional algebraic group of type E8,E7, E6, F4 or G2 over an algebraically closed field K of characteristic p. This chapter contains statements of the main results for nilpotent elements."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nilpotent (plural nilpotents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A nilpotent element.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
