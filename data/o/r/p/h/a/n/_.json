@@ -1,0 +1,135 @@
+{
+  "word": "orphan",
+  "etymologies": [
+    {
+      "description": [
+        "Late Middle English, from Late Latin orphanus, from Ancient Greek ὀρφανός (orphanós, “without parents, fatherless”), from Proto-Indo-European *h₃órbʰos.",
+        "Cognate with Sanskrit अर्भ (árbha), Latin orbus (“orphaned”), Old High German erbi, arbi (German Erbe (“heir”)), Old English ierfa (“heir”). More at erf."
+      ],
+      "adjectives": [
+        {
+          "description": "orphan (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Deprived of parents (also orphaned).",
+                  "examples": [
+                    "She is an orphan child."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, figuratively) Remaining after the removal of some form of support.",
+                  "examples": [
+                    "With its government funding curtailed, the gun registry became an orphan program."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "orphan (plural orphans)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person, especially a minor, both or (rarely) one of whose parents have died.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person, especially a minor, whose parents have permanently abandoned them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A young animal with no mother.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Anything that is unsupported, as by its source, provider or caretaker, by reason of the supporter's demise or decision to abandon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) A single line of type, beginning a paragraph, at the bottom of a column or page.",
+                  "examples": [
+                    "Antonym: widow"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Any unreferenced object.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "orphan (third-person singular simple present orphans, present participle orphaning, simple past and past participle orphaned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To deprive of parents (used almost exclusively in the passive)",
+                  "examples": [
+                    "What do you do when you come across two orphaned polar bear cubs?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To make unavailable, as by removing the last remaining pointer or reference to.",
+                  "examples": [
+                    "When you removed that image tag, you orphaned the resized icon.",
+                    "Removing categories orphans pages from the main category tree."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
