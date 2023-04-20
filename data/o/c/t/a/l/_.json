@@ -1,0 +1,52 @@
+{
+  "word": "octal",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "octal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic, computing) Concerning numbers expressed in octal or mathematical calculations performed using octal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "octal (countable and uncountable, plural octals) (abbreviated oct)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic, computing, uncountable) The number system that uses the eight digits 0, 1, 2, 3, 4, 5, 6, 7.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic, computing, countable) A digit or value in the octal number system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
