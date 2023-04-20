@@ -1,0 +1,204 @@
+{
+  "word": "ping",
+  "etymologies": [
+    {
+      "description": [
+        "Partly onomatopoeic, and partly continuing Middle English pingen (“to push, shove, pierce, stab, prod, goad, urge, feel remorse, incite”), from Old English pyngan (“to prick”). Compare English pang."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ping (plural pings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A high-pitched, short and somewhat sharp sound.",
+                  "examples": [
+                    "Coordinate terms: beep, peep",
+                    "My car used to make an odd ping, but after the last oil change it went away."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(submarine navigation) A pulse of high-pitched or ultrasonic sound whose echoes provide information about nearby objects and vessels.",
+                  "examples": [
+                    "The submarine sent out a ping and got an echo from a battleship."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) A packet which a remote host is expected to echo, thus indicating its presence.",
+                  "examples": [
+                    "Coordinate terms: heartbeat, ACK",
+                    "The network is overloaded from all the pings going out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(text messaging, Internet) An email or other message sent requesting acknowledgement.",
+                  "examples": [
+                    "I sent a ping to the insurance company to see if they received our claim."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) Latency.",
+                  "examples": [
+                    "\"You low ping c**t, you only win cos of your ping!\"",
+                    "> > And other such insights into why I was winning."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) A means of highlighting a feature on the game map so that allied players can see it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Wikimedia jargon) A notification.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ping (third-person singular simple present pings, present participle pinging, simple past pinged or (nonstandard) pang, past participle pinged or (nonstandard) pung)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a high-pitched, short and somewhat sharp sound.",
+                  "examples": [
+                    "My car was pinging until my last oil change."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(submarine navigation) To emit a signal and then listen for its echo in order to detect objects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) To send a packet in order to determine whether a host is present, particularly by use of the ping utility.",
+                  "examples": [
+                    "Coordinate term: poll"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) To send an email or other message to someone in hopes of eliciting a response.",
+                  "examples": [
+                    "Coordinate term: buzz"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) To flick.",
+                  "examples": [
+                    "I pinged the crumb off the table with my finger."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, sports, intransitive) To bounce.",
+                  "examples": [
+                    "The ball pinged off the wall and came hurtling back."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, sports, transitive) To cause something to bounce.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, sports) To call out audibly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) To penalize.",
+                  "examples": [
+                    "Gary Ablett was pinged for holding the ball and gave away a free kick."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
