@@ -1,0 +1,155 @@
+{
+  "word": "node",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English node, borrowed from Latin nōdus. Doublet of knot, knout, and nodus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "node (plural nodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A knot, knob, protuberance or swelling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) The point where the orbit of a planet, as viewed from the Sun, intersects the ecliptic. The ascending and descending nodes refer respectively to the points where the planet moves from South to North and N to S; their respective symbols are ☊ and ☋.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) A leaf node.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) A computer or other device attached to a network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) The point at which the lines of a funicular machine meet from different angular directions; — called also knot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The point at which a curve crosses itself, being a double point of the curve. See crunode and acnode.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A similar point on a surface, where there is more than one tangent-plane.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A vertex or a leaf in a graph of a network, or other element in a data structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A hard concretion or incrustation which forms upon bones attacked with rheumatism, gout, or syphilis; sometimes also, a swelling in the neighborhood of a joint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A point along a standing wave where the wave has minimal amplitude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) The knot, intrigue, or plot of a dramatic work.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(technical) A hole in the gnomon of a sundial, through which passes the ray of light which marks the hour of the day, the parallels of the Sun's declination, his place in the ecliptic, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computational linguistics) The word of interest in a KWIC, surrounded by left and right cotexts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A region of an electric circuit connected only by (ideal) wires (i.e the voltage between any two points on the same node must be zero).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
