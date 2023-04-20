@@ -1,0 +1,63 @@
+{
+  "word": "permutation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English permutacioun, permutacyoun, from Old French permutacïon, promutatïon and Medieval Latin permūtātiōnem, accusative of permūtātiō.\nMorphologically permute +‎ -ation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "permutation (countable and uncountable, plural permutations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of the ways something exists, or the ways a set of objects can be ordered.",
+                  "examples": [
+                    "Which permutation for completing our agenda items makes the most sense?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A one-to-one mapping from a finite set to itself.",
+                  "examples": [
+                    "This permutation takes each element to the one following it, with the last mapped back to the first."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, combinatorics) An ordering of a finite set of distinct elements.",
+                  "examples": [
+                    "There are six permutations of three elements, e.g. {abc, acb, bac, bca, cab, cba}."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A transformation of a set's prime form, by applying one or more of certain operations, specifically, transposition, inversion, and retrograde.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
