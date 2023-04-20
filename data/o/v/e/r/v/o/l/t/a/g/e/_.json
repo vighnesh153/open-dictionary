@@ -1,0 +1,39 @@
+{
+  "word": "overvoltage",
+  "etymologies": [
+    {
+      "description": [
+        "over- +‎ voltage"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "overvoltage (countable and uncountable, plural overvoltages)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The difference between the electric potential of an electrode or cell under the passage of a current and the thermodynamic value of the electrode or cell potential in the absence of electrolysis; overpotential.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The hazardous condition that occurs when the voltage in a circuit is raised above that for which it was designed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
