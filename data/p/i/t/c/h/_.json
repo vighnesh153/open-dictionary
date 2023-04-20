@@ -1,0 +1,644 @@
+{
+  "word": "pitch",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English picche, piche, pich, from Old English piċ, from Proto-West Germanic *pik, from Latin pix. Cognate with Ancient Greek πίσσα (píssa, “pitch, tar”), Latin pīnus (“pine”). More at pine. Cognate with Saterland Frisian Pik (“pitch, tar”), Dutch pek (“pitch, tar”), German Low German Pick (“pitch, tar”), German Pech (“pitch, tar”), Catalan pega (“pitch”) and Spanish pegar (“to stick, glue”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pitch (countable and uncountable, plural pitches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sticky, gummy substance secreted by trees; sap.",
+                  "examples": [
+                    "It is hard to get this pitch off my hand."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dark, extremely viscous material remaining in still after distilling crude oil and tar.",
+                  "examples": [
+                    "They put pitch on the mast to protect it.",
+                    "The barrel was sealed with pitch.",
+                    "It was pitch black because there was no moon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) Pitchstone.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pitch (third-person singular simple present pitches, present participle pitching, simple past and past participle pitched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cover or smear with pitch.",
+                  "examples": [
+                    "“Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To darken; to blacken; to obscure.",
+                  "examples": [
+                    "Soon he found / The welkin pitch'd with sullen clouds."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English picchen, pycchen (“to thrust in, fasten, settle”), from Old English *piċċan, from Proto-West Germanic *pikkijan, a variant of Proto-West Germanic *pikkōn (“to pick, peck”), whence Middle English pikken, picken (“to pick, pierce”), modern English pick."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pitch (plural pitches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A throw; a toss; a cast, as of something from the hand.",
+                  "examples": [
+                    "a good pitch in quoits"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball) The act of pitching a baseball.",
+                  "examples": [
+                    "The pitch was low and inside."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, UK, Australia, New Zealand) The field on which cricket, soccer, rugby, gridiron or field hockey is played. (In cricket, the pitch is in the centre of the field; see cricket pitch.) (Not often used in the US or Canada, where \"field\" is the preferred word.)",
+                  "examples": [
+                    "The teams met on the pitch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) The field of battle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An effort to sell or promote something.",
+                  "examples": [
+                    "He gave me a sales pitch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The distance between evenly spaced objects, e.g. the teeth of a saw or gear, the turns of a screw thread, the centres of holes, or letters in a monospace font.",
+                  "examples": [
+                    "The pitch of pixels on the point scale is 72 pixels per inch.",
+                    "The pitch of this saw is perfect for that type of wood.",
+                    "A helical scan with a pitch of zero is equivalent to constant z-axis scanning."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The angle at which an object sits.",
+                  "examples": [
+                    "the pitch of the roof or haystack"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "The rotation angle about the transverse axis.",
+              "entries": [
+                {
+                  "meaning": "(nautical, aviation) The degree to which a vehicle, especially a ship or aircraft, rotates on such an axis, tilting its bow or nose up or down. Compare with roll, yaw, and heave.",
+                  "examples": [
+                    "the pitch of an aircraft"
+                  ]
+                },
+                {
+                  "meaning": "(aviation) A measure of the angle of attack of a propeller.",
+                  "examples": [
+                    "The propeller blades' pitch went to 90° as the engine was feathered."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An area in a market (or similar) allocated to a particular trader.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) The place where a busker performs, a prostitute solicits clients, or an illegal gambling game etc. is set up before the public.",
+                  "examples": [
+                    "Another reason is that the prostitute who makes her pitch at Marble Arch stands a chance of being picked up by an out-of-town business man stopping at one of the hotels in the vicinity, and of being treated to a steak dinner  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An area on a campsite intended for occupation by a single tent, caravan or similar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A level or degree, or (by extension), a peak or highest degree.",
+                  "examples": [
+                    "He lived at a time when learning was at its highest pitch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A point or peak; the extreme point of elevation or depression.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The most thrust-out point of a headland or cape.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, uncountable) Collectively, the outermost points of some part of the body, especially the shoulders or hips.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The height a bird reaches in flight, especially a bird of prey preparing to swoop down on its prey.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now Britain, regional) A person's or animal's height.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Prominence; importance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(climbing) A section of a climb or rock face; specifically, the climbing distance between belays or stances.",
+                  "examples": [
+                    "You lead \"through\" instead — your companion leads a pitch, then you join him. But instead of swapping over at the ice axe belay, you carry on in the lead, cutting or kicking steps until you are about twenty feet above."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(caving) A vertical cave passage, only negotiable by using rope or ladders.",
+                  "examples": [
+                    "The entrance pitch requires 30 metres of rope."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) That point of the ground on which the ball pitches or lights when bowled.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A descent; a fall; a thrusting down.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The point where a declivity begins; hence, the declivity itself; a descending slope; the degree or rate of descent or slope; slant.",
+                  "examples": [
+                    "a steep pitch in the road",
+                    "the pitch of a roof"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) The limit of ground set to a miner who receives a share of the ore taken out.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pitch (third-person singular simple present pitches, present participle pitching, simple past and past participle pitched or (obsolete) pight)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To throw.",
+                  "examples": [
+                    "He pitched the horseshoe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive or intransitive, baseball) To throw (the ball) toward a batter at home plate.",
+                  "examples": [
+                    "The hurler pitched a curveball.",
+                    "He pitched high and inside."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, baseball) To play baseball in the position of pitcher.",
+                  "examples": [
+                    "Bob pitches today."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To throw away; discard.",
+                  "examples": [
+                    "He pitched the candy wrapper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To promote, advertise, or attempt to sell.",
+                  "examples": [
+                    "He pitched the idea for months with no takers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To deliver in a certain tone or style, or with a certain audience in mind.",
+                  "examples": [
+                    "At which level should I pitch my presentation?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To assemble or erect (a tent).",
+                  "examples": [
+                    "Pitch the tent over there."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To fix or place a tent or temporary habitation; to encamp.",
+                  "examples": [
+                    "Laban with his brethren pitched in the Mount of Gilead."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, aviation or nautical) To move so that the front of an aircraft or boat goes alternatively up and down.",
+                  "examples": [
+                    "The typhoon pitched the deck of the ship.",
+                    "The airplane pitched."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, golf) To play a short, high, lofty shot that lands with backspin.",
+                  "examples": [
+                    "The only way to get on the green from here is to pitch the ball over the bunker."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, cricket) To bounce on the playing surface.",
+                  "examples": [
+                    "The ball pitched well short of the batsman."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, Bristol, of snow) To settle and build up, without melting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, archaic) To alight; to settle; to come to rest from flight.",
+                  "examples": [
+                    "the tree whereon they [the bees] pitch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(with on or upon) To fix one's choice.",
+                  "examples": [
+                    "Pitch upon the best course of life, and custom will render it the more easy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To plunge or fall; especially, to fall forward; to decline or slope.",
+                  "examples": [
+                    "to pitch from a precipice",
+                    "The field pitches toward the east."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of an embankment, roadway) To set, face, or pave with rubble or undressed stones.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of a price, value) To set or fix.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, card games, slang, of a card) To discard for some gain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To attack, or position or assemble for attack.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Unknown. Perhaps related to the above sense of level or degree, or influenced by it."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pitch (plural pitches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, phonetics) The perceived frequency of a sound or note.",
+                  "examples": [
+                    "The pitch of middle \"C\" is familiar to many musicians."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The standard to which a group of musical instruments are tuned or in which a piece is performed, usually by reference to the frequency to which the musical note A above middle C is tuned.",
+                  "examples": [
+                    "Are we in baroque pitch for this one?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) In an a cappella group, the singer responsible for singing a note for the other members to tune themselves by.",
+                  "examples": [
+                    "Bob, our pitch, let out a clear middle \"C\" and our conductor gave the signal to start."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pitch (third-person singular simple present pitches, present participle pitching, simple past and past participle pitched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To produce a note of a given pitch.",
+                  "examples": [
+                    "[…]  now the orchestra is playing yellow cocktail music and the opera of voices pitches a key higher."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fix or set the tone of.",
+                  "examples": [
+                    "His \"hello\" was enough to recognize his voice by. I pitched mine low so he wouldn't know it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
