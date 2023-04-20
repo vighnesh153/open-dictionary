@@ -1,0 +1,262 @@
+{
+  "word": "note",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English note, from Old English not, nōt (“note, mark, sign”) and Old French note (“letter, note”), both from Latin nota (“mark, sign, remark, note”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "note (countable and uncountable, plural notes)",
+          "definitionGroups": [
+            {
+              "group": "A symbol or annotation.",
+              "entries": [
+                {
+                  "meaning": "A mark or token by which a thing may be known; a visible sign; a character; a distinctive mark or feature; a characteristic quality.",
+                  "examples": [
+                    "She [the Anglican church] has the Note of possession, the Note of freedom from party-titles ; the Note of life, a tough life and a vigorous ; she has ancient descent, unbroken continuance, agreement in doctrine with the ancient Church."
+                  ]
+                },
+                {
+                  "meaning": "A mark, or sign, made to call attention, to point out something to notice, or the like; a sign, or token, proving or giving evidence.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A brief remark; a marginal comment or explanation; hence, an annotation on a text or author; a comment; a critical, explanatory, or illustrative observation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A written or printed communication or commitment.",
+              "entries": [
+                {
+                  "meaning": "A brief piece of writing intended to assist the memory; a memorandum; a minute.",
+                  "examples": [
+                    "I left him a note to remind him to take out the trash."
+                  ]
+                },
+                {
+                  "meaning": "A short informal letter; a billet.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(academic) An academic treatise (often without regard to length); a treatment; a discussion paper; (loosely) any contribution to an academic discourse.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A diplomatic missive or written communication.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(finance) A written or printed paper acknowledging a debt, and promising payment",
+                  "examples": [
+                    "a promissory note",
+                    "a note of hand",
+                    "a negotiable note"
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) A list of items or of charges; an account.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A piece of paper money; a banknote.",
+                  "examples": [
+                    "I didn't have any coins to pay with, so I used a note.",
+                    "Synonym: bill"
+                  ]
+                },
+                {
+                  "meaning": "(extension) A small size of paper used for writing letters or notes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(music) A sound.",
+              "entries": [
+                {
+                  "meaning": "A character, variously formed, to indicate the length of a tone, and variously placed upon the staff to indicate its pitch.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A musical sound; a tone; an utterance; a tune.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(by extension) A key of the piano or organ.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(by extension) A call or song of a bird.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Observation; notice; heed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Reputation; distinction.",
+                  "examples": [
+                    "a poet of note"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A critical comment.",
+                  "examples": [
+                    "Your performance was fantastic! I have just one note: you were a little flat in bars 35 and 36."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Notification; information; intelligence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Mark of disgrace.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "note (third-person singular simple present notes, present participle noting, simple past and past participle noted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To notice with care; to observe; to remark; to heed.",
+                  "examples": [
+                    "If you look to the left, you can note the old cathedral."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To record in writing; to make a memorandum of.",
+                  "examples": [
+                    "We noted his speech."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To denote; to designate.",
+                  "examples": [
+                    "The modular multiplicative inverse of x may be noted x-1."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To annotate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set down in musical characters.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To record on the back of (a bill, draft, etc.) a refusal of acceptance, as the ground of a protest, which is done officially by a notary.",
+                  "examples": [
+                    "By noting the protest, notaries could date certificates when they were received, making it easier to comply with time restrictions associated with protesting."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English note (“use, usefulness, profit”), from Old English notu (“use, enjoyment, advantage, profit, utility”), from Proto-West Germanic *notu, from Proto-Germanic *nutō (“enjoyment, utilisation”), from Proto-Indo-European *newd- (“to acquire, make use of”). Cognate with West Frisian not (“yield, produce, crop”), Dutch genot (“enjoyment, pleasure”), Dutch nut (“usefulness, utility, behoof”), German Nutzen (“benefit, usefulness, utility”), Icelandic not (“use”, noun). Related also to Old English notian (“to enjoy, make use of, employ”), Old English nēotan (“to use, enjoy”), Old High German niozan (“to use, enjoy”), Modern German benutzen (“to use”). Related to nait."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "note (usually uncountable, plural notes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, UK dialectal, Northern England, Ireland, Scotland) That which is needed or necessary; business; duty; work.",
+                  "examples": [
+                    "Tha'll keep me at this noit all day... Om always at this noit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK dialectal, Northern England, Ireland, Scotland) The giving of milk by a cow or sow; the period following calving or farrowing during which a cow or sow is at her most useful (i.e. gives milk); the milk given by a cow or sow during such a period.",
+                  "examples": [
+                    "The supply of horned cattle at this fair was great, but the business done was confined to fleshy barreners of feeding qualities and superior new-calved heifers, and those at early note, with appearance of being useful; [...]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

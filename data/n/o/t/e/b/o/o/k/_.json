@@ -1,0 +1,54 @@
+{
+  "word": "notebook",
+  "etymologies": [
+    {
+      "description": [
+        "From note +‎ book."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "notebook (plural notebooks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A book in which notes or memoranda are written.",
+                  "examples": [
+                    "Synonyms: note pad, by-book, rough book, writing pad"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, sometimes attributive) A kind of user interface in literate programming, allowing calculations to be interspersed with human-readable comments, diagrams, etc.",
+                  "examples": [
+                    "We have found the use of Jupyter notebooks to be a convenient way of sharing work and code in a compact and reproducible manner. Jupyter notebooks are easy to update and adapt over time compared to a static CD-ROM."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, dated) Ellipsis of notebook computer.",
+                  "examples": [
+                    "Over time, the difference in size between laptops and notebooks became a matter of no more than an inch or two in length and width, and a fraction of an inch in thickness."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
