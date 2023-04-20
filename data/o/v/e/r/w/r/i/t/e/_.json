@@ -1,0 +1,78 @@
+{
+  "word": "overwrite",
+  "etymologies": [
+    {
+      "description": [
+        "From over- +‎ write."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "overwrite (plural overwrites)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The operation of destroying older data by recording new data over it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "overwrite (third-person singular simple present overwrites, present participle overwriting, simple past overwrote, past participle overwritten)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To destroy (older) data by recording new data over it.",
+                  "examples": [
+                    "I accidentally saved my unwanted changes and overwrote the version of the document I wanted to keep."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover in writing; to write over the top of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To write too much.",
+                  "examples": [
+                    "Many trainees consider that by increasing the length of the piece they will construct a good feature. This is often not the case and overwriting can lead to vague and muddled features that confuse the reader and ultimately lose their interest."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To write in an unnecessarily complicated or florid way; to produce purple prose.",
+                  "examples": [
+                    "That said, the passage just looked at anticipates rather than participates in greatness. It is too adjectival, a stylistic flaw which suggests an insistence more apparent in the ensuing lines (182-91), where one is torn between thinking that  Shelley is overwriting and that he is staying close to a feverish intensity."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
