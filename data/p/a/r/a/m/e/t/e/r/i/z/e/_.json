@@ -1,0 +1,39 @@
+{
+  "word": "parameterize",
+  "etymologies": [
+    {
+      "description": [
+        "parameter +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "parameterize (third-person singular simple present parameterizes, present participle parameterizing, simple past and past participle parameterized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To describe in terms of parameters.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases, programming, transitive) To rewrite (a database query, etc.) as a template into which parameters can be inserted.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
