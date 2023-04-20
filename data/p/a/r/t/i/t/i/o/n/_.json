@@ -1,0 +1,176 @@
+{
+  "word": "partition",
+  "etymologies": [
+    {
+      "description": [
+        "Recorded c.1430, \"division into shares, distinction,\" from Middle English particioun, from Old French particion (modern partition), from Latin partitio, partitionem (“division, portion”), from partitus, the past participle of partire (“to split (up), part(ition)”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "partition (countable and uncountable, plural partitions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An action which divides a thing into parts, or separates one thing from another.",
+                  "examples": [
+                    "the partitions of Poland"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A part of something that has been divided.",
+                  "examples": [
+                    "the Russian Partition"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An approach to division in which one asks what the size of each part is, rather than (as in quotition) how many parts there are.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The division of a territory into two or more autonomous ones.",
+                  "examples": [
+                    "Monarchies where partition isn't prohibited risk weakening through parcellation and civil wars between the heirs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A vertical structure that divides a room.",
+                  "examples": [
+                    "a brick partition; lath and plaster partitions"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which divides or separates; that by which different things, or distinct parts of the same thing, are separated; boundary; dividing line or space.",
+                  "examples": [
+                    "No sight could pass / Betwixt the nice partitions of the grass."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A part divided off by walls; an apartment; a compartment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The severance of common or undivided interests, particularly in real estate. It may be effected by consent of parties, or by compulsion of law.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A section of a hard disk separately formatted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A division of a database or one of its constituting elements such as tables into separate independent parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) A collection of non-empty, disjoint subsets of a set whose union is the set itself (i.e. all elements of the set are contained in exactly one of the subsets).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A musical score.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "partition (third-person singular simple present partitions, present participle partitioning, simple past and past participle partitioned)\n(transitive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To divide something into parts, sections or shares.",
+                  "examples": [
+                    "to partition a hard drive"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To divide a region or country into two or more territories with separate political status.",
+                  "examples": [
+                    "Poland was progressively partitioned by Russia, Austria, and Prussia in the late 18th century."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To separate or divide a room by a partition (ex. a wall), often use with off.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
