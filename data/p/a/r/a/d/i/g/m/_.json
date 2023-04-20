@@ -1,0 +1,55 @@
+{
+  "word": "paradigm",
+  "etymologies": [
+    {
+      "description": [
+        "Established 1475-85 from Late Latin paradīgma, from Ancient Greek παράδειγμα (parádeigma, “pattern”), from παραδείκνυμι (paradeíknumi, “I show [beside] or compare”) + -μα (-ma, “forming nouns concerning the results of actions”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "paradigm (plural paradigms or paradigmata)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pattern, a way of doing something, especially (now often derogatory) a pattern of thought, a system of beliefs, a conceptual framework.",
+                  "examples": [
+                    "Synonyms: style, model, worldview",
+                    "Thomas Kuhn's landmark “The Structure of Scientific Revolutions” got people talking about paradigm shifts, to the point the word itself now suggests an incomplete or biased perspective."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An example serving as the model for such a pattern.",
+                  "examples": [
+                    "Synonyms: template, exemplar, posterboy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A set of all forms which contain a common element, especially the set of all inflectional forms of a word or a particular grammatical category.",
+                  "examples": [
+                    "The paradigm of \"to sing\" is \"sing, sang, sung\". The verb \"to ring\" follows the same paradigm."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
