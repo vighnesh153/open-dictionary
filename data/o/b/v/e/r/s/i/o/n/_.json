@@ -1,0 +1,41 @@
+{
+  "word": "obversion",
+  "etymologies": [
+    {
+      "description": [
+        "Latin obversio (“a turning towards”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "obversion (countable and uncountable, plural obversions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of turning toward or downward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An immediate inference that denies the opposite of something previously affirmed.",
+                  "examples": [
+                    "All men are mortal, so, by obversion, no men are immortal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
