@@ -1,0 +1,74 @@
+{
+  "word": "output",
+  "etymologies": [
+    {
+      "description": [
+        "out +‎ put."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "output (countable and uncountable, plural outputs)",
+          "definitionGroups": [
+            {
+              "group": "That which is produced by something, especially that which is produced within a particular time period or from a particular effort.",
+              "entries": [
+                {
+                  "meaning": "(economics) Production; quantity produced, created, or completed.",
+                  "examples": [
+                    "The factory increased its output this year."
+                  ]
+                },
+                {
+                  "meaning": "(computing) Data sent out of the computer, as to output device such as a monitor or printer, or data sent from one program on the computer to another.",
+                  "examples": [
+                    "a six-page output; six pages of output"
+                  ]
+                },
+                {
+                  "meaning": "(medicine) The flow rate of body liquids such as blood and urine.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(electrical engineering) The amount of power produced by a particular system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "output (third-person singular simple present outputs, present participle outputting, simple past and past participle output or outputted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(economics) To produce, create, or complete.",
+                  "examples": [
+                    "We output 1400 units last year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To send data out of a computer, as to an output device such as a monitor or printer, or to send data from one program on the computer to another.",
+                  "examples": [
+                    "When I hit enter, it outputs a bunch of numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
