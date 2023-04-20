@@ -1,0 +1,82 @@
+{
+  "word": "pamphlet",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is derived from Late Middle English pamflet, pamphilet (“short written text; small book; tract”) [and other forms], from Middle French Pamphilet (compare Late Latin (Anglo-Latin) pamfletus, panfletus, paunflettus (“short written text”), Old French Panfilès), a popular shorthand for the 12th-century Latin love poem Pamphilus, seu de amore (Pamphilus, or On Love), which was so widely circulated in pamphlets as to give its name to the whole phenomenon. Pamphilet is derived from Latin Pamphilus, the name of a protagonist of the poem + Middle French -et (suffix forming diminutive masculine nouns); while Pamphilus is from Ancient Greek Πάμφιλος (Pámphilos, literally “beloved by all”), from παν- (pan-, prefix meaning ‘all; every’) (ultimately from Proto-Indo-European *peh₂- (“to protect; to shepherd”)) + φῐ́λος (phílos, “beloved, dear”) (ultimately from Proto-Indo-European *bʰil- (“decent; friendly; good; harmonious”)).",
+        "For the Middle French and Old French use of the suffix -et to form shorthands for the titles of works, compare Middle French Avionet (“the fables of Avianus”) from Avianus; Middle French Catonet, Old French Chatonnet, Chatonez (“the Distichs of Cato”) from Caton (they were formerly believed to be by Cato); and Old French Esopet, Isopet (“Aesop’s Fables”) from Ésope (Aesop).",
+        "The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pamphlet (plural pamphlets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small, brief printed work, consisting either of a folded sheet of paper, or several sheets bound together into a booklet with only a paper cover, formerly containing literary compositions, newsletters, and newspapers, but now chiefly informational matter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(specifically) Such a work containing political material or discussing matters of controversy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A brief handwritten work.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pamphlet (third-person singular simple present pamphlets, present participle pamphleting or (nonstandard) pamphletting, simple past and past participle pamphleted or (nonstandard) pamphletted)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To distribute pamphlets (to someone or some place).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(archaic) To write about (someone or something) in a pamphlet; to issue (some material) in the form of a pamphlet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "To distribute pamphlets.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete, rare) To write or produce pamphlets.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
