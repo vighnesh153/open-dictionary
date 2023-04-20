@@ -1,0 +1,77 @@
+{
+  "word": "overbound",
+  "etymologies": [
+    {
+      "description": [
+        "over- +‎ bound"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "overbound (plural overbounds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics, signal processing) A Gaussian model of the (non-Gaussian) error distribution on a signal, which is conservative enough that the resulting confidence interval is guaranteed to be at least as wide as the actual confidence interval.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "overbound",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of overbind",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "overbound (third-person singular simple present overbounds, present participle overbounding, simple past and past participle overbounded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To leap over.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) To provide an upper bound to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To specify or use boundaries that are too large; to have boundaries that encompass more than the entirety of an entity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
