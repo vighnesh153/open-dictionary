@@ -1,0 +1,32 @@
+{
+  "word": "phoneme",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek φώνημα (phṓnēma, “sound”), from φωνέω (phōnéō, “to sound”), from φωνή (phōnḗ, “sound”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "phoneme (plural phonemes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An indivisible unit of sound in a given language. A phoneme is an abstraction of the physical speech sounds (phones) and may encompass several different phones.",
+                  "examples": [
+                    "Hypernym: syntagma"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
