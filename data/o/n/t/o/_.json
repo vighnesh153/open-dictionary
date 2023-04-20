@@ -1,0 +1,71 @@
+{
+  "word": "onto",
+  "etymologies": [
+    {
+      "description": [
+        "From on +‎ to, after into. Compare Saterland Frisian antou (“up to”)."
+      ],
+      "adjectives": [
+        {
+          "description": "onto (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a function) Assuming each of the values in its codomain; having its range equal to its codomain.",
+                  "examples": [
+                    "Considered as a function on the real numbers, the exponential function is not onto."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [
+        {
+          "description": "onto",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Arriving upon or on top of (speaking of a physical or metaphorical movement).",
+                  "examples": [
+                    "My cat just jumped onto the keyboard."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Aware of.",
+                  "examples": [
+                    "The thought-police were onto my plans of world domination."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Being an onto function with a codomain of (see below).",
+                  "examples": [
+                    "The exponential function maps the set of real numbers onto the set of positive real numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": []
+    }
+  ]
+}
