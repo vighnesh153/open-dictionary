@@ -1,0 +1,64 @@
+{
+  "word": "pitfall",
+  "etymologies": [
+    {
+      "description": [
+        "First recorded use in the 14th century from pit +‎ fall in the sense of \"pit trap, pit snare\", from Old English fealle (“trap, snare”), from Proto-Germanic *fallą, *fallaz (“a fall, trap”), from Proto-Indo-European *(s)pōl-. Cognate with German Falle (“trap, snare”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pitfall (plural pitfalls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A potential, unsuspected, hidden problem, hazard, or danger that is easily encountered but not immediately obvious.",
+                  "examples": [
+                    "Synonym: trap",
+                    "It's usually a simple task, but you should know the pitfalls before you attempt it yourself."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literally) A type of trap consisting of a concealed pit in the ground, which the victim is supposed to fall into and not be able to get out from.",
+                  "examples": [
+                    "Synonym: trapping pit"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An antipattern.",
+                  "examples": [
+                    "Synonyms: antipattern, dark pattern"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) Subsidence below ground in a mine, which can cause the ground level above to drop.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
