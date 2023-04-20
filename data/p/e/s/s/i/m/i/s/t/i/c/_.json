@@ -1,0 +1,54 @@
+{
+  "word": "pessimistic",
+  "etymologies": [
+    {
+      "description": [
+        "pessimist +‎ -ic"
+      ],
+      "adjectives": [
+        {
+          "description": "pessimistic (comparative more pessimistic, superlative most pessimistic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Marked by pessimism and little hopefulness; expecting the worst.",
+                  "examples": [
+                    "a pessimistic view of the future"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to the worst-case scenario.",
+                  "examples": [
+                    "a pessimistic estimate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Taking out exclusive locks on data to prevent conflicts with other processes that might modify it.",
+                  "examples": [
+                    "pessimistic concurrency; pessimistic locking"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
