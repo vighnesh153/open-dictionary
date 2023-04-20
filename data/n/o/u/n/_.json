@@ -1,0 +1,65 @@
+{
+  "word": "noun",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English noun, from Anglo-Norman noun, non, nom, from Latin nōmen (“name; noun”). The grammatical sense in Latin was a semantic loan from Koine Greek ὄνομα (ónoma). Doublet of name and nomen."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "noun (plural nouns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, narrow sense) A word that functions as the name of a specific object or set of objects, such as person, animal, place, thing, phenomenon, substance, quality, or idea; one of the basic parts of speech in many languages, including English.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, now rare, broad sense) Either a word that can be used to refer to a person, animal, place, thing, phenomenon, substance, quality or idea, or a word that modifies or describes a previous word or its referent; a substantive or adjective, sometimes also including other parts of speech such as numeral or pronoun.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An object within a user interface to which a certain action or transformation (i.e., verb) is applied.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "noun (third-person singular simple present nouns, present participle nouning, simple past and past participle nouned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convert a word to a noun.",
+                  "examples": [
+                    "What is not clear is how the nouning of verbs supports Simon's assumed correspondence between mechanical designing and intentional human responses. Is it the very nouning of verbs which indicates that the above correspondence exists?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
