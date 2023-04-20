@@ -1,0 +1,186 @@
+{
+  "word": "pattern",
+  "etymologies": [
+    {
+      "description": [
+        "From earlier patten, paterne, from Middle English patron (“patron; example”), from Old French patron, from Medieval Latin patrōnus (“patron”). Doublet of patron."
+      ],
+      "adjectives": [
+        {
+          "description": "pattern (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or in accordance with a usual pattern, or type; model; ideal.",
+                  "examples": [
+                    "The parish duty was better attended to, and perhaps domestic duties also. At such period he was a pattern parson and a pattern husband, atoning to his own conscience for past shortcomings by present zeal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pattern (plural patterns)",
+          "definitionGroups": [
+            {
+              "group": "Model, example.",
+              "entries": [
+                {
+                  "meaning": "Something from which a copy is made; a model or outline. [from 14th c.]",
+                  "examples": [
+                    "Synonyms: original, stencil, template"
+                  ]
+                },
+                {
+                  "meaning": "Someone or something seen as an example to be imitated; an exemplar. [from 15th c.]",
+                  "examples": [
+                    "Well! the King of France died pardoning & pitying all those who had tortured his Soul & Body, a great Pattern for us all."
+                  ]
+                },
+                {
+                  "meaning": "(now rare) A copy. [from 15th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(now only numismatics) A sample; of coins, an example which was struck but never minted. [from 16th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "A representative example. [from 16th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(US) The material needed to make a piece of clothing. [from 17th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(textiles) The paper or cardboard template from which the parts of a garment are traced onto fabric prior to cutting out and assembling.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(metalworking, dated) A full-sized model around which a mould of sand is made, to receive the melted metal. It is usually made of wood and in several parts, so as to be removed from the mould without damage.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing) A text string containing wildcards, used for matching.",
+                  "examples": [
+                    "There were no files matching the pattern *.txt."
+                  ]
+                },
+                {
+                  "meaning": "(software engineering, in compounds) A design pattern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Coherent or decorative arrangement.",
+              "entries": [
+                {
+                  "meaning": "A design, motif or decoration, especially formed from regular repeated elements. [from 16th c.]",
+                  "examples": [
+                    "Synonym: (when formed from regular repeated elements) tessellation"
+                  ]
+                },
+                {
+                  "meaning": "A naturally-occurring or random arrangement of shapes, colours etc. which have a regular or decorative effect. [from 19th c.]",
+                  "examples": [
+                    "He lifted the entire joint or fowl up into the air, speared on a carving fork, and sliced pieces off it so that they fell on the plate below in perfectly organised patterns."
+                  ]
+                },
+                {
+                  "meaning": "The given spread, range etc. of shot fired from a gun. [from 19th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "A particular sequence of events, facts etc. which can be understood, used to predict the future, or seen to have a mathematical, geometric, statistical etc. relationship. [from 19th c.]",
+                  "examples": [
+                    "The three killings pointed to an ugly new shift in the enduring pattern of violence in Northern Ireland: the mostly Protestant Ulster police, or those suspected of affiliation with them, have become more prominent targets for the I.R.A. than the British troops."
+                  ]
+                },
+                {
+                  "meaning": "(linguistics) An intelligible arrangement in a given area of language.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing, music) A sequence of notes, percussion etc. in a tracker module, usable once or many times within the song.",
+                  "examples": [
+                    "Pattern 10 is open in figure 3.9, showing the 64 notes in the pattern (each pattern in this song has 64 beats)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pattern (third-person singular simple present patterns, present participle patterning, simple past and past participle patterned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To apply a pattern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make or design (anything) by, from, or after, something that serves as a pattern; to copy; to model; to imitate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To follow an example.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fit into a pattern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To serve as an example for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hunting, transitive) To observe an animal closely over time in order to discern its habitual movements and behaviours.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
