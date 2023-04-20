@@ -1,0 +1,41 @@
+{
+  "word": "omelette",
+  "etymologies": [
+    {
+      "description": [
+        "From French omelette, from alemette, from alemelle (“knife blade”), probably derived from la lemelle, from Latin lamella (“thin plate”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "omelette (plural omelettes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dish made with beaten eggs cooked in a frying pan without stirring, flipped over to cook on both sides, and sometimes filled or topped with cheese, chives or other foodstuffs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A form of shellcode that searches the address space for multiple small blocks of data (\"eggs\") and recombines them into a larger block to be executed.",
+                  "examples": [
+                    "This approach would be altered for an optimal omelette based exploit. One would spray the heap with the omelette code solely, then load a single copy of the additional shellcode eggs into memory outside the target region for the spray."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
