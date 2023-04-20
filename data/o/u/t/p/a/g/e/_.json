@@ -1,0 +1,32 @@
+{
+  "word": "outpage",
+  "etymologies": [
+    {
+      "description": [
+        "out- +‎ page"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "outpage (third-person singular simple present outpages, present participle outpaging, simple past and past participle outpaged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) Synonym of page out",
+                  "examples": [
+                    "To reduce this contention, which reduces inpaging and outpaging of the data, copy bits are provided for each page in the cache. This bit, when on, indicates that the data could reside in each storage controller's cache."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
