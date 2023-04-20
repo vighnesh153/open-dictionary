@@ -1,0 +1,32 @@
+{
+  "word": "noncomputation",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ computation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "noncomputation (countable and uncountable, plural noncomputations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Absence of computation; failure to compute something.",
+                  "examples": [
+                    "By a noncomputation of Turing machine M on input w we mean any string (over the alphabet used to represent computations) that does not represent a valid  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
