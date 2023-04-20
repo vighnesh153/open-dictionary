@@ -1,0 +1,165 @@
+{
+  "word": "partial",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English partiall, parcial, from Old French parcial (“biased or particular”), from Late Latin partiālis (“of or pertaining to a part”), from Latin pars (“part”)."
+      ],
+      "adjectives": [
+        {
+          "description": "partial (comparative more partial, superlative most partial)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "existing as a part or portion; incomplete",
+                  "examples": [
+                    "So far, I have only pieced together a partial account of the incident."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) describing a property that holds only when an algorithm terminates",
+                  "examples": [
+                    "It's easy to prove partial correctness, but it's not obvious that it is also totally correct."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "biased in favor of a person, side, or point of view, especially when dealing with a competition or dispute",
+                  "examples": [
+                    "Synonym: nonimpartial",
+                    "Antonym: impartial",
+                    "The referee is blatantly partial!",
+                    "God is not partial; he does not play favorites."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(followed by the preposition to) having a predilection for something",
+                  "examples": [
+                    "Synonym: fond of"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) of or relating to a partial derivative or partial differential",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) subordinate",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "partial (plural partials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A partial derivative: a derivative with respect to one independent variable of a function in multiple variables while holding the other variables constant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Any of the sine waves which make up a complex tone; often an overtone or harmonic of the fundamental.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dentistry) dentures that replace only some of the natural teeth",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(forensics) An incomplete fingerprint",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, Internet) A fragment of a template containing markup.",
+                  "examples": [
+                    "In fact, as seen in Chapters 5 and 6, the resulting document is usually the product of rendering a layout, which yields the rendering of the template at hand, which in turn can invoke the rendering of other templates and/or one or more partials."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bodybuilding) The condition of not exhausting the amplitude during the repetition of an exercise.",
+                  "examples": [
+                    "Synonym: half rep"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "partial (third-person singular simple present partials, present participle partialing or partialling, simple past and past participle partialed or partialled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, transitive) To take the partial regression coefficient.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
