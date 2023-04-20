@@ -1,0 +1,211 @@
+{
+  "word": "nick",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is derived from Late Middle English nik (“notch, tally; nock of an arrow”). Its further etymology is unknown; a connection with nock (“notch in a bow to hold the bowstring; notch at the rear of an arrow that fits the bowstring; cleft in the buttocks”) has not been clearly established.",
+        "The verb appears to be derived from the noun, though the available evidence shows that some of the verb senses predate the noun senses. No connection with words in Germanic languages such as Danish nikke (“to nod”), Middle Dutch nicken (“to bend; to bow”) (modern Dutch knikken (“to nod”)), Middle Low German nicken (“to bend over; to sink”), Middle High German nicken (“to bend; to depress”) (modern German nicken (“to nod”)), Middle Low German knicken (“to bend; to snap”) (modern German knicken (“to bend; to break”), Old Frisian hnekka (“to nod”), and Swedish nicka (“to nod”), has been clearly established."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nick (plural nicks)",
+          "definitionGroups": [
+            {
+              "group": "A small cut in a surface.",
+              "entries": [
+                {
+                  "meaning": "(now rare) A particular place or point considered as marked by a nick; the exact point or critical moment.",
+                  "examples": [
+                    "in the nick of time"
+                  ]
+                },
+                {
+                  "meaning": "(printing, dated) A notch cut crosswise in the shank of a type, to assist a compositor in placing it properly in the stick, and in distribution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Senses connoting something small.",
+              "entries": [
+                {
+                  "meaning": "(cricket) A small deflection of the ball off the edge of the bat, often going to the wicket-keeper for a catch.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(genetics) One of the single-stranded DNA segments produced during nick translation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(real tennis, squash, racquetball) The point where the wall of the court meets the floor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, New Zealand, colloquial) Often in the expressions in bad nick and in good nick: condition, state.",
+                  "examples": [
+                    "The car I bought was cheap and in good nick."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, law enforcement, slang) A police station or prison.",
+                  "examples": [
+                    "He was arrested and taken down to Sun Hill nick [police station] to be charged.",
+                    "He’s just been released from Shadwell nick [prison] after doing ten years for attempted murder."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "nick (third-person singular simple present nicks, present participle nicking, simple past and past participle nicked)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To make a nick or notch in; to cut or scratch in a minor way.",
+              "entries": [
+                {
+                  "meaning": "(transitive) To make ragged or uneven, as by cutting nicks or notches in; to deface, to mar.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, rare) To make a crosscut or cuts on the underside of (the tail of a horse, in order to make the animal carry it higher).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(transitive, obsolete) To fit into or suit, as by a correspondence of nicks; to tally with.",
+              "entries": [
+                {
+                  "meaning": "(transitive, sometimes figurative) To hit at, or in, the nick; to touch rightly; to strike at the precise point or time.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, cricket) To hit the ball with the edge of the bat and produce a fine deflection.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, gaming) To throw or turn up (a number when playing dice); to hit upon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mining) To make a cut at the side of the face.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Britain, Australia, New Zealand, slang) To steal.",
+                  "examples": [
+                    "Someone’s nicked my bike!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Britain, law enforcement, slang) To arrest.",
+                  "examples": [
+                    "The police nicked him climbing over the fence of the house he’d broken into."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From nick(name)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nick (plural nicks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) Clipping of nickname.",
+                  "examples": [
+                    "a user’s reserved nick on an IRC network"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "nick (third-person singular simple present nicks, present participle nicking, simple past and past participle nicked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To give or call (someone) by a nickname; to style.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "A variant of nix or nixie."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nick (plural nicks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A nix or nixie (“water spirit”).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
