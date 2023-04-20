@@ -1,0 +1,39 @@
+{
+  "word": "obfuscator",
+  "etymologies": [
+    {
+      "description": [
+        "obfuscate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "obfuscator (plural obfuscators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Agent noun of obfuscate; one who obfuscates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A software program that modifies another program to make it harder to decompile or reverse-engineer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

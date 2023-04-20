@@ -1,0 +1,52 @@
+{
+  "word": "obfuscation",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin obfuscatio (15th century), from obfuscāre (“to darken”), from ob (“over”) + fuscāre (“to make dark”), from fuscus (“dark”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "obfuscation (countable and uncountable, plural obfuscations)",
+          "definitionGroups": [
+            {
+              "group": "(uncountable) The act or process of obfuscating, or obscuring the perception of something; the concept of concealing the meaning of a communication by making it more confusing and harder to interpret.",
+              "entries": [
+                {
+                  "meaning": "(computing, uncountable) The alteration of computer code to preserve its behavior while concealing its structure and intent.",
+                  "examples": [
+                    "You need to turn on obfuscation for these classes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Confusion, bewilderment, or a baffled state resulting from something obfuscated, or made more opaque and muddled with the intent to obscure information.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A single instance of intentionally obscuring the meaning of something to make it more difficult to grasp.",
+                  "examples": [
+                    "During the debate, the candidate sighed at his opponent's obfuscations."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
