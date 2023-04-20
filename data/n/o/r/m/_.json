@@ -1,0 +1,107 @@
+{
+  "word": "norm",
+  "etymologies": [
+    {
+      "description": [
+        "From French norme, from Old French, from Latin norma (“a carpenter's square, a rule, a pattern, a precept”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "norm (plural norms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is normal or typical.",
+                  "examples": [
+                    "Unemployment is the norm in this part of the country."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rule that is imposed by regulations and/or socially enforced by members of a community.",
+                  "examples": [
+                    "Not eating your children is just one of those societal norms."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy, computer science) A sentence with non-descriptive meaning, such as a command, permission, or prohibition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "(mathematics) A function, generally denoted \n  \n    \n      \n        v\n        ↦\n        \n          |\n          v\n          |\n        \n      \n    \n    {\\displaystyle v\\mapsto \\left|v\\right|}\n  \n or \n  \n    \n      \n        v\n        ↦\n        \n          ‖\n          v\n          ‖\n        \n      \n    \n    {\\displaystyle v\\mapsto \\left\\|v\\right\\|}\n  \n, that maps vectors to non-negative scalars and has the following properties:",
+              "entries": [
+                {
+                  "meaning": "if \n  \n    \n      \n        v\n        ≠\n        0\n      \n    \n    {\\displaystyle v\\neq 0}\n  \n then \n  \n    \n      \n        \n          ‖\n          v\n          ‖\n        \n        ≠\n        0\n      \n    \n    {\\displaystyle \\left\\|v\\right\\|\\neq 0}\n  \n;",
+                  "examples": []
+                },
+                {
+                  "meaning": "given a scalar \n  \n    \n      \n        k\n      \n    \n    {\\displaystyle k}\n  \n, \n  \n    \n      \n        \n          ‖\n          \n            k\n            v\n          \n          ‖\n        \n        =\n        \n          |\n          k\n          |\n        \n        ⋅\n        \n          ‖\n          v\n          ‖\n        \n      \n    \n    {\\displaystyle \\left\\|kv\\right\\|=\\left|k\\right|\\cdot \\left\\|v\\right\\|}\n  \n, where \n  \n    \n      \n        \n          |\n          k\n          |\n        \n      \n    \n    {\\displaystyle \\left|k\\right|}\n  \n is the absolute value of \n  \n    \n      \n        k\n      \n    \n    {\\displaystyle k}\n  \n;",
+                  "examples": []
+                },
+                {
+                  "meaning": "given two vectors \n  \n    \n      \n        v\n        ,\n        w\n      \n    \n    {\\displaystyle v,w}\n  \n, \n  \n    \n      \n        \n          ‖\n          \n            v\n            +\n            w\n          \n          ‖\n        \n        ≤\n        \n          ‖\n          v\n          ‖\n        \n        +\n        \n          ‖\n          w\n          ‖\n        \n      \n    \n    {\\displaystyle \\left\\|v+w\\right\\|\\leq \\left\\|v\\right\\|+\\left\\|w\\right\\|}\n  \n (the triangle inequality).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess) A high level of performance in a chess tournament, several of which are required for a player to receive a title.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Back-formation from normed."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "norm (third-person singular simple present norms, present participle norming, simple past and past participle normed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis) To endow (a vector space, etc.) with a norm.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

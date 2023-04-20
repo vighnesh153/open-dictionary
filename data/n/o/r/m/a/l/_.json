@@ -1,0 +1,202 @@
+{
+  "word": "normal",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin normālis (“made according to a carpenter's square; later: according to a rule”), from nōrma (“carpenter's square”), of uncertain origin. The earliest use of the word in English was to mean \"perpendicular; forming a right angle\" like something normālis (“made according to a carpenter's square”), but by Late Latin normālis had also come to mean \"according to a rule\", from which modern English senses of the word derive: in the 1800s, as people began to quantitatively study things like height and weight and blood pressure, the usual or most common values came to be referred to as \"normal\", and by extension values regarded as healthy or desirable came to be called \"normal\" regardless of their usuality."
+      ],
+      "adjectives": [
+        {
+          "description": "normal (comparative normaler or more normal, superlative normalest or most normal)",
+          "definitionGroups": [
+            {
+              "group": "According to norms or rules or to a regular pattern.",
+              "entries": [
+                {
+                  "meaning": "(mathematics) Adhering to or being what is considered natural or regular in a particular field or context:",
+                  "examples": [
+                    "A number whose individual digits in a given base representation follow a uniform distribution is said to be simply normal.",
+                    "A number that is normal for every base b ≥ 2 is said to be absolutely normal."
+                  ]
+                },
+                {
+                  "meaning": "(number theory, of a real number) In whose representation in a given base b ≥ 2, for every positive integer n, the bn possible strings of n digits follow a uniform distribution.",
+                  "examples": [
+                    "A number whose individual digits in a given base representation follow a uniform distribution is said to be simply normal.",
+                    "A number that is normal for every base b ≥ 2 is said to be absolutely normal."
+                  ]
+                },
+                {
+                  "meaning": "(algebra, of a subgroup) With cosets which form a group.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(algebra, of a field extension of a field K) Which is the splitting field of a family of polynomials in K.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(probability theory, statistics, of a distribution) Which has a very specific bell curve shape; that is or has the qualities of a normal distribution.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(probability theory, statistics, of a random variable, etc.) Which has a normal distribution; which is associated with a random variable that has a normal distribution.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(complex analysis, of a family of continuous functions) Which is pre-compact.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(set theory, of a function from the ordinals to the ordinals) Which is strictly monotonically increasing and continuous with respect to the order topology.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(linear algebra, of a matrix) Which commutes with its conjugate transpose.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(functional analysis, of a Hilbert space operator) Which commutes with its adjoint.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(category theory) Being (as a morphism) or containing (as a category) only normal epimorphism(s) or monomorphism(s), that is, those which are the kernel or cokernel of some morphism, respectively.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(topology, of a topology) In which disjoint closed sets can be separated by disjoint neighborhoods.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Usual, healthy; not sick or ill or unlike oneself.",
+                  "examples": [
+                    "John is feeling normal again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(education, of a school) teaching teachers how to teach (to certain norms)",
+                  "examples": [
+                    "My grandmother attended Mankato State Normal School."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) Of, relating to, or being a solution containing one equivalent weight of solute per litre of solution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(organic chemistry) Describing a straight chain isomer of an aliphatic hydrocarbon, or an aliphatic compound in which a substituent is in the 1- position of such a hydrocarbon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, of a mode in an oscillating system) In which all parts of an object vibrate at the same frequency (see normal mode).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport, of points) In the default position, set for the most frequently used route.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Perpendicular to a tangent of a curve or derivative of a surface.",
+                  "examples": [
+                    "The interior normal vector of an ideal perfect sphere will always point toward the center, and the exterior normal vector directly away, and both will always be co-linear with the ray whose' tip ends at the point of intersection, which is the intersection of all three sets of points."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "normal (countable and uncountable, plural normals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A line or vector that is perpendicular to another line, surface, or plane.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, countable) A person who is healthy, normal, as opposed to one who is morbid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, countable) A person who is normal, who fits into mainstream society, as opposed to those who live alternative lifestyles.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) The usual state.",
+                  "examples": [
+                    "His workload is now back to normal.",
+                    "Heavy workload is the new normal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
