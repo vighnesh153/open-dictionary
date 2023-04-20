@@ -1,0 +1,43 @@
+{
+  "word": "parentless",
+  "etymologies": [
+    {
+      "description": [
+        "parent +‎ -less"
+      ],
+      "adjectives": [
+        {
+          "description": "parentless (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having no (living) parent.",
+                  "examples": [
+                    "Two consequences of parentless elements complicate the rules."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Having no parent in a data structure.",
+                  "examples": [
+                    "The top-level window is parentless and forms the root of the hierarchy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
