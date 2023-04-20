@@ -1,0 +1,116 @@
+{
+  "word": "pebble",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English pibel (also in pibleston), from Old English papolstān (“pebble-stone”), from Old English *papol, *pyppel, *pæbbel of unknown origin + Old English stān. Compare Albanian popël."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pebble (countable and uncountable, plural pebbles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small stone, especially one rounded by the action of water.",
+                  "examples": [
+                    "Then let the pebbles on the hungry beach Fillip the stars;"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A particle from 4 to 64 mm in diameter, following the Wentworth scale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(curling) A small droplet of water intentionally sprayed on the ice that cause irregularities on the surface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Transparent and colourless rock crystal.",
+                  "examples": [
+                    "Brazilian pebble"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A form of slow-burning gunpowder in large cubical grains.",
+                  "examples": [
+                    "Synonyms: cube powder, prismatic powder"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pebble (third-person singular simple present pebbles, present participle pebbling, simple past and past participle pebbled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pave with pebbles.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, curling) To deposit water droplets on the ice.",
+                  "examples": [
+                    "to pebble the ice between games"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give (leather) a rough appearance with small rounded prominences.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, graph theory) To place a pebble at (a vertex of a graph) according to certain rules; see pebble game.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
