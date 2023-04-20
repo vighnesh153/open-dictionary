@@ -1,0 +1,50 @@
+{
+  "word": "overlearn",
+  "etymologies": [
+    {
+      "description": [
+        "From over- +‎ learn."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "overlearn (third-person singular simple present overlearns, present participle overlearning, simple past and past participle overlearned or overlearnt)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To learn (something) more than is necessary; to study excessively, to take (something) too much to heart.",
+                  "examples": [
+                    "Why the rigmarole of a military survey before enacting a measure most Americans already favoured? Maybe he over-learned the lesson of the clobbering Bill Clinton got when he barged into this area right at the start of his presidency."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology, education) To learn (something) to the point where responses become instinctive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(modeling) Mostly when talking about neural networks, to learn a task to the point where responses actually start to degrade. Compare with overfit, in model tuning contexts.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
