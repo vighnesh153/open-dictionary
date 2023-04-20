@@ -1,0 +1,41 @@
+{
+  "word": "normalizer",
+  "etymologies": [
+    {
+      "description": [
+        "normalize +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "normalizer (plural normalizers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "one who normalizes, fits to a norm or standard etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) The subset of elements of some group which leave some given subset invariant when conjugating it.",
+                  "examples": [
+                    "In symbols, the normalizer of some subset \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n of group \n  \n    \n      \n        G\n      \n    \n    {\\displaystyle G}\n  \n is the subset \n  \n    \n      \n        N\n        (\n        S\n        )\n        =\n        {\n        g\n        ∈\n        G\n        \n          |\n        \n        \n          g\n          \n            −\n            1\n          \n        \n        S\n        g\n        =\n        S\n        }\n      \n    \n    {\\displaystyle N(S)=\\{g\\in G|g^{-1}Sg=S\\}}\n  \n, so that \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n would be a normal subgroup if \n  \n    \n      \n        N\n        (\n        S\n        )\n      \n    \n    {\\displaystyle N(S)}\n  \n were the whole group."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

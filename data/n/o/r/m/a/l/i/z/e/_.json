@@ -1,0 +1,105 @@
+{
+  "word": "normalize",
+  "etymologies": [
+    {
+      "description": [
+        "normal +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "normalize (third-person singular simple present normalizes, present participle normalizing, simple past and past participle normalized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make normal, to make standard.",
+                  "examples": [
+                    "There is little hope that the two countries will normalize relations; their governments seem to hate each other and would just as soon stay on bad terms."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To format in a standardized manner, to make consistent.",
+                  "examples": [
+                    "We'll need to normalize these statements before we can compare them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, transitive) To reduce the variations by excluding irrelevant aspects.",
+                  "examples": [
+                    "After we properly normalize the measurements with respect to age, gender, geography and economic considerations, there remains little evidence of a difference between the two groups."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport, transitive) To return a set of points (switches) to the normal position.",
+                  "examples": [
+                    "Antonym: reverse"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport, intransitive, of points) To return to the normal position from the reverse position.",
+                  "examples": [
+                    "Antonym: reverse"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases, transitive) To subject to normalization; to eliminate redundancy in (a model for storing data).",
+                  "examples": [
+                    "Hyponym: canonicalize"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(metallurgy, transitive) To anneal (steel) for the purpose of decreasing brittleness and increasing ductility.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, transitive) To divide a vector by its magnitude to produce a unit vector.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
