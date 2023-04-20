@@ -1,0 +1,53 @@
+{
+  "word": "odds",
+  "etymologies": [
+    {
+      "description": [
+        "From odd (“uneven, strange”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "odds pl (plural only) odds",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ratio of the probability of an event happening to that of it not happening.",
+                  "examples": [
+                    "I'd say the odds are strongly in favor of the sun rising tomorrow morning."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ratio of winnings to stake in betting situations.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess) An advantage given to a weaker opponent in order to equalize the game when playing casually, usually by removing one of the stronger player's pieces or by giving the weaker player more time.",
+                  "examples": [
+                    "She beat me with knight odds but lost with rook odds.",
+                    "The grandmaster gave his opponents significant time odds, of one minute versus ten minutes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
