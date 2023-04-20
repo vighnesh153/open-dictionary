@@ -1,0 +1,59 @@
+{
+  "word": "pickler",
+  "etymologies": [
+    {
+      "description": [
+        "pickle +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pickler (plural picklers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who pickles food products.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cucumber grown for pickling.",
+                  "examples": [
+                    "The slicing cucumbers' production systems are geared to be first on the market, whereas for the picklers this urgency is not so great."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A machine that pickles metal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) (in the Python programming language) A program or algorithm that performs serialization.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
