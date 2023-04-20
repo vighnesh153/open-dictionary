@@ -1,0 +1,97 @@
+{
+  "word": "patient",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English pacient, from Middle French patient, from Old French pacient, from Latin patiens, present participle of patior (“to suffer, endure”), from Proto-Indo-European *peh₁- (“to hate, hurt”)."
+      ],
+      "adjectives": [
+        {
+          "description": "patient (comparative patienter or more patient, superlative patientest or most patient)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a person) Willing to wait if necessary; not losing one's temper while waiting.",
+                  "examples": [
+                    "Be patient: your friends will arrive in a few hours."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Constant in pursuit or exertion; persevering; calmly diligent.",
+                  "examples": [
+                    "patient endeavour",
+                    "a patient wait",
+                    "patient analysis"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Physically able to suffer or bear.",
+                  "examples": [
+                    "To this outward structure was joined that strength of constitution, patient of severest toil and hardship; insomuch that for the most part of his life, in the fiercest extremity of cold, he took no other advantage of a fire, than at the greatest distance that he could, to look upon it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "patient (plural patients)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or animal who receives treatment from a doctor or other medically educated person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, grammar) The noun or noun phrase that is semantically on the receiving end of a verb's action.",
+                  "examples": [
+                    "The subject of a passive verb is usually a patient."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, is passively affected; a passive recipient.",
+                  "examples": [
+                    "Malice is a passion so impetuous and precipitate, that it often involves the agent and the patient."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
