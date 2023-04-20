@@ -1,0 +1,118 @@
+{
+  "word": "overflow",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English overflowen, from Old English oferflōwan, equivalent to over- +‎ flow."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "overflow (countable and uncountable, plural overflows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The spillage resultant from overflow; excess.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Outlet for escape of excess material.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The situation where a value exceeds the available numeric range.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "overflow (third-person singular simple present overflows, present participle overflowing, simple past overflowed, past participle overflowed or (US, proscribed) overflown)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To flow over the brim of (a container).",
+                  "examples": [
+                    "The river overflowed the levee."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover with a liquid, literally or figuratively.",
+                  "examples": [
+                    "The flash flood overflowed most of the parkland and some homes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause an overflow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To flow over the edge of a container.",
+                  "examples": [
+                    "The waters overflowed into the Ninth Ward."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(intransitive) To exceed limits or capacity.",
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To (cause to) exceed the available numeric range.",
+                  "examples": [
+                    "Calculating 255+1 will overflow an eight-bit byte."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be superabundant; to abound.",
+                  "examples": [
+                    "I see and feel that I want the first requisite — a heart overflowing with Divine love towards sinners"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
