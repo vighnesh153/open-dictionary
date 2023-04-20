@@ -1,0 +1,41 @@
+{
+  "word": "nonconcurrency",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ concurrency or nonconcurrent +‎ -cy"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "nonconcurrency (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The property or an instance of being nonconcurrent; something that doesn't happen at the same time with something else.",
+                  "examples": [
+                    "A copy of any concurrency or nonconcurrency statements shall be made a part of the administrative record and referenced in the final guidance memorandum."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science, by extension) A property of systems where several processes execute sequentially, not at the same time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
