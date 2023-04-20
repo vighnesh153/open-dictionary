@@ -1,0 +1,67 @@
+{
+  "word": "parsing",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "parsing (countable and uncountable, plural parsings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The act or process in which an agent (person or computer) parses something (a text, a program).",
+                  "examples": [
+                    "Parsing can be difficult."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An instance of that act or process; a parse.",
+                  "examples": [
+                    "A parsing of a sentence about a horse can yield several possible results."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Any result of such an instance; a parse; an acceptation.",
+                  "examples": [
+                    "Upon review, for the word horse, the parsing \"animal\" was rejected in favor of the parsing \"piece of gymnastic equipment\"."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "parsing",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of parse",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
