@@ -1,0 +1,149 @@
+{
+  "word": "object",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French object, from Medieval Latin obiectum (“object”, literally “thrown against”), from obiectus, perfect passive participle of obiciō (“I throw against”), from ob- (“against”) +‎ iaciō (“I throw”), as a calque of Ancient Greek ἀντικείμενον (antikeímenon). Doublet of objet."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "object (plural objects)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A thing that has physical existence but is not alive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Objective; goal, end or purpose of something.",
+                  "examples": [
+                    "Money is an Object to you?",
+                    "Money is an Object to me.",
+                    "And yet you have taken no Steps to recover your Property from Mr. Dry?",
+                    "No, I have no Occasion for it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) The noun phrase which is an internal complement of a verb phrase or a prepositional phrase. In a verb phrase with a transitive action verb, it is typically the receiver of the action.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or thing toward which an emotion is directed.",
+                  "examples": [
+                    "Mary Jane had been the object of Peter's affection for years.",
+                    "The convertible, once the object of his desire, was now the object of his hatred.",
+                    "Where's your object of ridicule now?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) An instantiation of a class or structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) An instance of one of the two kinds of entities that form a category, the other kind being the arrows (also called morphisms).",
+                  "examples": [
+                    "Similarly, there is a category whose objects are groups and whose arrows are the homomorphisms from one group to another."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Sight; show; appearance; aspect.",
+                  "examples": [
+                    "He, advancing close / Up to the lake, past all the rest, arose / In glorious object."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "object (third-person singular simple present objects, present participle objecting, simple past and past participle objected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To disagree with or oppose something or someone; (especially in a Court of Law) to raise an objection.",
+                  "examples": [
+                    "I object to the proposal to build a new airport terminal.",
+                    "We strongly object to sending her to jail for ten years."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To offer in opposition as a criminal charge or by way of accusation or reproach; to adduce as an objection or adverse reason.",
+                  "examples": [
+                    "There are others who will object the poverty of the nation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To set before or against; to bring into opposition; to oppose.",
+                  "examples": [
+                    "Of less account some knight thereto object, / Whose loss so great and harmful can not prove."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
