@@ -1,0 +1,48 @@
+{
+  "word": "oversubscription",
+  "etymologies": [
+    {
+      "description": [
+        "over- +‎ subscription"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "oversubscription (countable and uncountable, plural oversubscriptions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A subscription for more than is available.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A multithreading technique involving an extra thread that runs tasks when all other threads are blocked.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) The practice of connecting multiple devices to the same switch port in a storage area network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

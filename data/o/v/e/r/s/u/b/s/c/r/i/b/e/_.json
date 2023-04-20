@@ -1,0 +1,48 @@
+{
+  "word": "oversubscribe",
+  "etymologies": [
+    {
+      "description": [
+        "From over- +‎ subscribe."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "oversubscribe (third-person singular simple present oversubscribes, present participle oversubscribing, simple past and past participle oversubscribed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To subscribe to an extent that is greater than the availability.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To use the oversubscription technique in multithreading.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) To use the oversubscription technique in a computer network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
