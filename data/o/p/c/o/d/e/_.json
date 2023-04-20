@@ -1,0 +1,32 @@
+{
+  "word": "opcode",
+  "etymologies": [
+    {
+      "description": [
+        "op +‎ code (in sense of operation)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "opcode (plural opcodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A mnemonic used to refer to a microprocessor instruction in assembly language.",
+                  "examples": [
+                    "When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and pushes the current contents of the PC ($00 0128) onto the stack."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
