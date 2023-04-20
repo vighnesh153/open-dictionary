@@ -1,0 +1,71 @@
+{
+  "word": "obsolete",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin obsolētus (“worn out, gone out of use”), past participle of obsolēscere (“to wear out, fall into disuse, grow old, decay”); see obsolesce."
+      ],
+      "adjectives": [
+        {
+          "description": "obsolete (comparative more obsolete, superlative most obsolete)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of words, equipment, etc.) No longer in use; gone into disuse; disused or neglected (often in favour of something newer).",
+                  "examples": [
+                    "Synonyms: antiquated, deprecated, disused; see also Thesaurus:obsolete"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Imperfectly developed; not very distinct.",
+                  "examples": [
+                    "Synonyms: abortive, obscure, rudimental"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Latin obsolētō (“degrade, soil, sully, stain, defile”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "obsolete (third-person singular simple present obsoletes, present participle obsoleting, simple past and past participle obsoleted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chiefly US) To cause to become obsolete.",
+                  "examples": [
+                    "This software component has been obsoleted.",
+                    "We are in the process of obsoleting this product."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
