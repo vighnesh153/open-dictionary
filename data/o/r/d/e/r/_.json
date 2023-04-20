@@ -1,0 +1,349 @@
+{
+  "word": "order",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English ordre, from Old French ordre, ordne, ordene (“order, rank”), from Latin ōrdinem, accusative of ōrdō (“row, rank, regular arrangement”, literally “row of threads in a loom”), from Proto-Italic *ordō (“to arrange”), probably ultimately from Proto-Indo-European *h₂or-d-, from *h₂er-.",
+        "Related to Latin ōrdior (“begin”, literally “begin to weave”). In sense “request for purchase”, compare bespoke. Doublet of ordo."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "order (countable and uncountable, plural orders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Arrangement, disposition, or sequence.",
+                  "examples": [
+                    "put the children in age order",
+                    "It's arranged in order of frequency"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A position in an arrangement, disposition, or sequence.",
+                  "examples": [
+                    "His attempt I shall also give in its order."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The state of being well arranged.",
+                  "examples": [
+                    "The house is in order; the machinery is out of order."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Conformity with law or decorum; freedom from disturbance; general tranquillity; public quiet.",
+                  "examples": [
+                    "to preserve order in a community or an assembly",
+                    "Order in the court!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A command.",
+                  "examples": [
+                    "give an order",
+                    "his inability to follow orders"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A request for some product or service; a commission to purchase, sell, or supply goods.",
+                  "examples": [
+                    "make an order",
+                    "receive an online order for the new range of sunglasses"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A group of religious adherents, especially monks or nuns, set apart within their religion by adherence to a particular rule or set of principles.",
+                  "examples": [
+                    "St. Ignatius Loyola founded the Jesuit order in 1537."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An association of knights.",
+                  "examples": [
+                    "the Order of the Garter, the Order of the Bath."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any group of people with common interests.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A decoration, awarded by a government, a dynastic house, or a religious body to an individual, usually for distinguished service to a nation or to humanity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, biology, taxonomy) A category in the classification of organisms, ranking below class and above family; a taxon at that rank.",
+                  "examples": [
+                    "The magnolia and nutmeg families belong to the order Magnoliales."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A number of things or persons arranged in a fixed or suitable place, or relative position; a rank; a row; a grade; especially, a rank or class in society; a distinct character, kind, or sort.",
+                  "examples": [
+                    "the higher or lower orders of society",
+                    "talent of a high order"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Christianity) An ecclesiastical rank or position, usually for the sake of ministry, (especially, when plural) holy orders.",
+                  "examples": [
+                    "There have been many major and minor orders in the history of Christianity: the order of virgins, of deacons, priests, lectors, acolytes, porters, catechists, widows, etc.",
+                    "to take orders or holy orders means to be ordained a deacon or priest"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The disposition of a column and its component parts, and of the entablature resting upon it, in classical architecture; hence (since the column and entablature are the characteristic features of classical architecture) a style or manner of architectural design.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) The sequence in which a side’s batsmen bat; the batting order.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A power of polynomial function in an electronic circuit’s block, such as a filter, an amplifier, etc.",
+                  "examples": [
+                    "a 3-stage cascade of a 2nd-order bandpass Butterworth filter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The overall power of the rate law of a chemical reaction, expressed as a polynomial function of concentrations of reactants and products.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) The cardinality, or number of elements in a set, group, or other structure regardable as a set.",
+                  "examples": [
+                    "In this case, the conjugate set contains n(n − 1)/x(x − 1) distinct sub-groups of order m, and H is therefore self-conjugate in a group K of order x(x − l)m."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(group theory, of an element of a group) For given group G and element g ∈ G, the smallest positive natural number n, if it exists, such that (using multiplicative notation), gn = e, where e is the identity element of G; if no such number exists, the element is said to be of infinite order (or sometimes zero order).",
+                  "examples": [
+                    "The object of this note is to observe that it is possible to calculate the order of an element \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n of \n  \n    \n      \n        G\n        =\n        \n          \n            G\n            L\n          \n        \n        (\n        d\n        ,\n        q\n        )\n      \n    \n    {\\displaystyle G={\\mathit {GL}}(d,q)}\n  \n on average using \n  \n    \n      \n        O\n        (\n        \n          d\n          \n            3\n          \n        \n        \n          \n            l\n            o\n            g\n          \n        \n         \n        q\n        )\n      \n    \n    {\\displaystyle O(d^{3}{\\mathsf {log}}\\ q)}\n  \n field operations, assuming that \n  \n    \n      \n        \n          q\n          \n            i\n          \n        \n        −\n        1\n      \n    \n    {\\displaystyle q^{i}-1}\n  \n has been factorised for \n  \n    \n      \n        i\n        ≤\n        d\n      \n    \n    {\\displaystyle i\\leq d}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) The number of vertices in a graph.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(order theory) A partially ordered set.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(order theory) The relation on a partially ordered set that determines that it is, in fact, a partially ordered set.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) The sum of the exponents on the variables in a monomial, or the highest such among all monomials in a polynomial.",
+                  "examples": [
+                    "A quadratic polynomial, \n  \n    \n      \n        a\n        \n          x\n          \n            2\n          \n        \n        +\n        b\n        x\n        +\n        c\n        ,\n      \n    \n    {\\displaystyle ax^{2}+bx+c,}\n  \n is said to be of order (or degree) 2."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A written direction to furnish someone with money or property; compare money order, postal order.",
+                  "examples": [
+                    "I then walked to Cochrane's & got an order on Sir Charles Asgill for my money."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "order (third-person singular simple present orders, present participle ordering, simple past and past participle ordered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set in some sort of order.",
+                  "examples": [
+                    "We need to order them alphabetically."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange, set in proper order.",
+                  "examples": [
+                    "The books in the shelf need ordering."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To issue a command to.",
+                  "examples": [
+                    "to order troops to advance",
+                    "He ordered me to leave.",
+                    "I hate being ordered around by my co-workers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To request some product or service; to secure by placing an order.",
+                  "examples": [
+                    "You can now order most products to be delivered to your home.",
+                    "to order groceries",
+                    "to order food from a restaurant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To admit to holy orders; to ordain; to receive into the ranks of the ministry.",
+                  "examples": [
+                    "persons presented to be ordered deacons"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
