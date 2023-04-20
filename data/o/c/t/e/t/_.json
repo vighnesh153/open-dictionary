@@ -1,0 +1,72 @@
+{
+  "word": "octet",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin octo (“eight”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "octet (plural octets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group or set of eight of something.",
+                  "examples": [
+                    "Synonyms: octad, octonary, (chiefly Greek and Egyptian contexts) ogdoad, (particularly babies) octuplet, (8-day week) nundine"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A group of eight musicians performing together.",
+                  "examples": [
+                    "An octet of waiters sang her \"Happy Birthday\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A composition for such a group of musicians.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A byte of eight bits. Abbreviation: o",
+                  "examples": [
+                    "Synonym: byte"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, rare) A group of three bits, representing any of eight possible values.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
