@@ -1,0 +1,66 @@
+{
+  "word": "occur",
+  "etymologies": [
+    {
+      "description": [
+        "Originally \"meet, meet in argument\", borrowed from Middle French occurrer, from Latin occurrō (“run to meet, run against, befall, present itself”) from prefix ob- (“against”) + verb currō (“run, hurry, move”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "occur (third-person singular simple present occurs, present participle occurring, simple past and past participle occurred)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To happen or take place.",
+                  "examples": [
+                    "The liftoff will occur in exactly twelve seconds."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To present or offer itself.",
+                  "examples": [
+                    "I will write if the opportunity occurs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(impersonal) To come or be presented to the mind; to suggest itself.",
+                  "examples": [
+                    "One little incident of my school days occurs to me as amusing.",
+                    "It occurred to him to tell me of the problem."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, sciences) To be present or found.",
+                  "examples": [
+                    "The chemical monofluoroacetate occurs in all parts of Dichapetalum cymosum, and is responsible for its toxic effects."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
