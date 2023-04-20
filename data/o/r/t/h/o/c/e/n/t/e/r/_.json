@@ -1,0 +1,30 @@
+{
+  "word": "orthocenter",
+  "etymologies": [
+    {
+      "description": [
+        "ortho- +‎ center"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "orthocenter (plural orthocenters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The intersection of the three lines that can be drawn flowing from the three corners of a triangle to a point along the opposite side where each line intersects that side at a 90 degree angle; in an acute triangle, it is inside the triangle; in an obtuse triangle, it is outside the triangle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
