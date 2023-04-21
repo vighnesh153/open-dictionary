@@ -1,0 +1,94 @@
+{
+  "word": "umlaut",
+  "etymologies": [
+    {
+      "description": [
+        "From German Umlaut in the 19th century, from um- or um (“around, re-, trans-”) + Laut (“sound”), from Old High German hlūt. More at umb, loud."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "umlaut (plural umlauts or umlaute)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) An assimilatory process whereby a vowel is pronounced more like a following vocoid that is separated by one or more consonants.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The umlaut process (as above) that occurred historically in Germanic languages whereby back vowels became front vowels when followed by syllable containing a front vocoid (e.g. Germanic lūsiz > Old English lȳs(i) > Modern English lice).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A vowel so assimilated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(orthography) The diacritical mark ( ¨ ) placed over a vowel when it indicates a (rounded) front vowel",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, orthography) A diaeresis.",
+                  "examples": [
+                    "Naïve takes an umlaut as it's pronounced as two syllables."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "umlaut (third-person singular simple present umlauts, present participle umlauting, simple past and past participle umlauted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place an umlaut over (a vowel).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, transitive) To modify (a word) so that an umlaut is required in it.",
+                  "examples": [
+                    "an umlauting vowel"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
