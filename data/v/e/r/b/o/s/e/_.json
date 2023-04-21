@@ -1,0 +1,42 @@
+{
+  "word": "verbose",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin verbōsus (“prolix, wordy, verbose”) + English -ose (suffix meaning ‘full of; like’). Verbōsus is derived from verbum (“word”) (ultimately from Proto-Indo-European *werh₁- (“to say, speak”)) + -ōsus (suffix meaning ‘full of, overly, prone to’ forming adjectives from nouns).. Equivalent to verb + -ose."
+      ],
+      "adjectives": [
+        {
+          "description": "verbose (comparative more verbose, superlative most verbose)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Containing or using more words than necessary; long-winded, wordy. [from 17th c.]",
+                  "examples": [
+                    "Synonyms: see Thesaurus:verbose",
+                    "Antonyms: see Thesaurus:concise"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Producing detailed output for diagnostic purposes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
