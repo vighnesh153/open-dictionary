@@ -1,0 +1,136 @@
+{
+  "word": "stain",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English steinen, steynen (“to stain, colour, paint”), of North Germanic origin, from Old Norse steina (“to stain, colour, paint”), from steinn (“stone, mineral blue, colour, stain”), from Proto-Norse ᛊᛏᚨᛁᚾᚨᛉ (stainaʀ), from Proto-Germanic *stainaz (“stone”), from Proto-Indo-European *steyh₂- (“to stiffen”). Cognate with Old English stān (“stone”). More at stone.",
+        "Replaced native Middle English wem (“spot, blemish, stain”) from Old English wem (“spot, stain”).",
+        "In some senses, influenced by unrelated Middle English disteynen (“to discolor, remove the colour from\"; literally, \"de-colour”), from Anglo-Norman desteindre (“to remove the colour from, bleach”), from Old French destaindre (“to remove the color from, bleach”), from des- (“dis-, de-, un-”) + teindre (“to dye”), from Latin tingo."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stain (plural stains)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A discolored spot or area caused by spillage or other contact with certain fluids or substances.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A blemish on one's character or reputation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A substance used to soak into a surface and colour it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reagent or dye used to stain microscope specimens so as to make some structures visible.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) Any of a number of non-standard tinctures used in modern heraldry.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stain (third-person singular simple present stains, present participle staining, simple past and past participle stained)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To discolor, as by spilling or other contact with a fluid or substance.",
+                  "examples": [
+                    "to stain the hand with dye",
+                    "armour stained with blood"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To taint or tarnish someone's character or reputation",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To coat a surface with a stain",
+                  "examples": [
+                    "to stain wood with acids, coloured washes, paint rubbed in, etc.",
+                    "the stained glass used for church windows"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become stained; to take a stain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, cytology, histology) To treat (a microscopic specimen) with a dye, especially one that dyes specific features",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cause to seem inferior or soiled by comparison.",
+                  "examples": [
+                    "that did all other beasts in beauty stain"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
