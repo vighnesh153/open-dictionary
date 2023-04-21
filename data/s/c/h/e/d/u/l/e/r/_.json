@@ -1,0 +1,39 @@
+{
+  "word": "scheduler",
+  "etymologies": [
+    {
+      "description": [
+        "schedule +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scheduler (plural schedulers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or device that determines a schedule, that determines the order that tasks are to be done.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) An operating system component responsible for allocating several resources, most commonly the use of processors by different concurrent processes or threads. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

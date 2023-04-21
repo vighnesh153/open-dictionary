@@ -1,0 +1,136 @@
+{
+  "word": "schedule",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French cedule (whence French cédule), from Late Latin schedula (“papyrus strip”), diminutive of Latin scheda, from Ancient Greek σχέδη (skhédē, “papyrus leaf”), from Proto-Hellenic *skʰíďďō, from Proto-Indo-European *skid-yé-ti, from *skeyd- (“to divide, split”). Doublet of cedula and cedule.",
+        "This word was historically pronounced /ˈsɛdjuːl/, /ˈsɛdʒuːl/; the pronunciations with /ʃ/ and /sk/ are due to the spelling (the latter may have been reinforced by learned influence); compare schism."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "schedule (plural schedules)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A slip of paper; a short note. [14th–17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(law) A written or printed table of information, often forming an annex or appendix to a statute or other regulatory instrument, or to a legal contract. [from 15th c.]",
+              "entries": [
+                {
+                  "meaning": "(US, law, often capitalized) One of the five divisions into which controlled substances are classified, or the restrictions denoted by such classification. [from 20th c.]",
+                  "examples": [
+                    "a Schedule I drug with a high potential for abuse"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A serial record of items, systematically arranged.",
+                  "examples": [
+                    "Synonyms: catalog, list, listing, register, registry, table"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A procedural plan, usually but not necessarily tabular in nature, indicating a sequence of operations and the planned times at which those operations are to occur. [from 19th c.]",
+                  "examples": [
+                    "Synonyms: timeline, timetable",
+                    "stick to the schedule",
+                    "we're running behind schedule",
+                    "things are happening ahead of schedule"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) An allocation or ordering of a set of tasks on one or several resources. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "schedule (third-person singular simple present schedules, present participle scheduling, simple past and past participle scheduled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To create a time-schedule.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To plan an activity at a specific date or time in the future.",
+                  "examples": [
+                    "I'll schedule you for three-o'clock then.",
+                    "The next elections are scheduled on the twentieth of November."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To add a name to the list of people who are participating in something.",
+                  "examples": [
+                    "I am scheduled for classes next month.",
+                    "Synonyms: sign up, register, reserve, enroll, book"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, medicine) To admit (a person) to hospital as an involuntary patient under a schedule of the applicable mental health law.",
+                  "examples": [
+                    "whether or not to schedule a patient",
+                    "Synonym: (UK) section"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) To classify as a controlled substance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
