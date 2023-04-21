@@ -1,0 +1,54 @@
+{
+  "word": "tickless",
+  "etymologies": [
+    {
+      "description": [
+        "tick +‎ -less"
+      ],
+      "adjectives": [
+        {
+          "description": "tickless (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lacking ticks (the insect).",
+                  "examples": [
+                    "Our suddenly tickless dog, now quite ticked-off, doesn't know who to kill first but by the time he rolls over, jaws snapping, the surgeons are practicing in the next county."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without a ticking sound.",
+                  "examples": [
+                    "Maybe with the new technology, they might have tickless bombs. They've had tickless clocks for years. And they even have seedless watermelons. So a tickless bomb should be routine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Having interrupts occur only when required, rather than at regular intervals.",
+                  "examples": [
+                    "a tickless kernel; a tickless scheduler"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
