@@ -1,0 +1,41 @@
+{
+  "word": "semidefinite",
+  "etymologies": [
+    {
+      "description": [
+        "semi- +‎ definite"
+      ],
+      "adjectives": [
+        {
+          "description": "semidefinite (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not entirely definite; somewhat vague or undefined.",
+                  "examples": [
+                    "Coral rock has only a semidefinite shape."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Describing a bilinear form, over a vector space, that is either always positive or always negative.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
