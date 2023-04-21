@@ -1,0 +1,139 @@
+{
+  "word": "terminate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin terminātus, past participle of terminō (“I set bounds to, bound, limit, end, close, terminate”), from terminus (“a bound, limit, end”); see term, terminus. Doublet of termine."
+      ],
+      "adjectives": [
+        {
+          "description": "terminate (comparative more terminate, superlative most terminate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Terminated; limited; bounded; ended.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having a definite and clear limit or boundary; having a determinate size, shape or magnitude.",
+                  "examples": [
+                    "Mountains on the Moon cast shadows that are very dark, terminate and more distinct than those cast by mountains on the Earth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Expressible in a finite number of terms; (of a decimal) not recurring or infinite.",
+                  "examples": [
+                    "One third is a recurring decimal, but one half is a terminate decimal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "terminate (third-person singular simple present terminates, present participle terminating, simple past and past participle terminated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To end something, especially when left in an incomplete state.",
+                  "examples": [
+                    "to terminate a process before its completion",
+                    "to terminate an effort, or a controversy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To conclude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set or be a limit or boundary to.",
+                  "examples": [
+                    "to terminate a surface by a line"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, euphemistic) To kill someone or something.",
+                  "examples": [
+                    "The enemy must be terminated by any means possible."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, euphemistic) To end the employment contract of an employee; to fire, lay off.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To end, conclude, or cease; to come to an end.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Of a mode of transport, to end its journey; or, of a railway line, to reach its terminus.",
+                  "examples": [
+                    "This train terminates at the next station."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To issue or result.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

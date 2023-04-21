@@ -1,0 +1,202 @@
+{
+  "word": "terminal",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Late Latin terminalis (“pertaining to a boundary or to the end, terminal, final”), from Latin terminus (“a bound, boundary, limit, end”). See term, terminus."
+      ],
+      "adjectives": [
+        {
+          "description": "terminal (comparative more terminal, superlative most terminal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Fatal; resulting in death.",
+                  "examples": [
+                    "terminal cancer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Appearing at the end; top or apex of a physical object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Occurring at the end of a word, sentence, or period of time, and serves to terminate it",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Occurring every term; termly.",
+                  "examples": [
+                    "a student's terminal fees"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "terminal (plural terminals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A building in an airport where passengers transfer from ground transportation to the facilities that allow them to board airplanes.",
+                  "examples": [
+                    "Terminal 1 is for domestic flights, whereas Terminal 2 is for international flights.",
+                    "A shuttle service runs free of charge between the three terminals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A harbour facility where ferries embark and disembark passengers and load and unload vehicles.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rail station where service begins and ends; the end of the line. For example: Grand Central Terminal in New York City.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rate charged on all freight, regardless of distance, and supposed to cover the expenses of station service, as distinct from mileage rate, generally proportionate to the distance and intended to cover movement expenses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A town lying at the end of a railroad, in which the terminal is located; more properly called a terminus.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A storage tank for bulk liquids (such as oil or chemicals) prior to further distribution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) the end of a line where signals are either transmitted or received, or a point along the length of a line where the signals are made available to apparatus.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An electric contact on a battery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) The apparatus to send and/or receive signals on a line, such as a telephone or network device.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A device for entering data into a computer or a communications system and/or displaying data received, especially a device equipped with a keyboard and some sort of textual display.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A computer program that emulates a physical terminal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A terminal symbol in a formal grammar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The end ramification (of an axon, etc.) or one of the extremities of a polypeptide.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "terminal (third-person singular simple present terminals, present participle terminaling or terminalling, simple past and past participle terminaled or terminalled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To store bulk liquids (such as oil or chemicals) in storage tanks prior to further distribution.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
