@@ -1,0 +1,214 @@
+{
+  "word": "swear",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English sweren, swerien, from Old English swerian (“to swear, take an oath of office”), from Proto-West Germanic *swarjan, from Proto-Germanic *swarjaną (“to speak, swear”), from Proto-Indo-European *swer- (“to swear”).",
+        "Cognate with West Frisian swarre (“to swear”), Saterland Frisian swera (“to swear”), Dutch zweren (“to swear, vow”), Low German swören (“to swear”), sweren, German schwören (“to swear”), Danish sværge, Swedish svära (“to swear”), Icelandic sverja (“to swear”), Russian свара (svara, “quarrel”). Also cognate to Albanian var (“to hang, consider, to depend from”) through Proto-Indo-European.",
+        "The original sense in all Germanic languages is “to take an oath”. The sense “to use bad language” developed in Middle English and is based on the Christian prohibition against swearing in general (cf. Matthew 5:33-37) and invoking God’s name in particular (i.e. frequent swearing was considered similar to the use of obscene words)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "swear (third-person singular simple present swears, present participle swearing, simple past swore or (archaic) sware, past participle sworn or (nonstandard) swore)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To take an oath, to promise intensely, solemnly, and/or with legally binding effect.",
+                  "examples": [
+                    "Synonyms: pledge, vow",
+                    "The knight swore not to return to the palace until he had found the treasure."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take an oath that an assertion is true.",
+                  "examples": [
+                    "Synonyms: depose, affirm, testify",
+                    "The witness swore that the person she had seen running out of the bank was a foot shorter than the accused."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To promise intensely that something is true; to strongly assert.",
+                  "examples": [
+                    "I swear I don't know what you're talking about.",
+                    "My little brother is such a pest, I swear."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To administer an oath to (a person).",
+                  "examples": [
+                    "Let the witness be sworn."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To use offensive, profane, or obscene language.",
+                  "examples": [
+                    "Synonyms: curse, execrate, turn the air blue; see also Thesaurus:swear"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From the above verb, or from Middle English sware, from Old English swaru, from Proto-Germanic *swarō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "swear (plural swears)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A swear word.",
+                  "examples": [
+                    "Synonyms: curse, expletive, four-letter word; see also Thesaurus:swear word"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English swere, swer, swar, from Old English swǣr, swār (“heavy, heavy as a burden, of great weight, oppressive, grievous, painful, unpleasant, sad, feeling or expressing grief, grave, slow, dull, sluggish, slothful, indolent, inactive from weakness, enfeebled, weak”), from Proto-West Germanic *swār, from Proto-Germanic *swēraz (“heavy”), from Proto-Indo-European *swer- (“heavy”).",
+        "Cognate with West Frisian swier (“heavy”), Dutch zwaar (“heavy, hard, difficult”), German schwer (“heavy, hard, difficult”), Swedish svår (“heavy, hard, severe”), Latin sērius (“earnest, grave, solemn, serious”) and Albanian varrë (“wound, plague”)."
+      ],
+      "adjectives": [
+        {
+          "description": "swear (comparative swearer or more swear, superlative swearest or most swear)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northern England, Scotland) Heavy.",
+                  "examples": [
+                    "Synonyms: massive, massy, weighty"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northern England, Scotland) Top-heavy; too high.",
+                  "examples": [
+                    "Synonym: overbalanced"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northern England, Scotland) Dull; lazy; slow.",
+                  "examples": [
+                    "Synonyms: idle, work-shy; see also Thesaurus:lazy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northern England, Scotland) Reluctant; unwilling.",
+                  "examples": [
+                    "Synonyms: disinclined, loath"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northern England, Scotland) Niggardly.",
+                  "examples": [
+                    "Synonyms: miserly, penurious; see also Thesaurus:stingy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "swear (plural swears)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northern England, Scotland) A lazy time; a short rest during working hours (especially field labour); a siesta.",
+                  "examples": [
+                    "Synonyms: nap, undermeal"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "swear (third-person singular simple present swears, present participle swearing, simple past and past participle sweared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Northern England, Scotland) To be lazy; rest for a short while during working hours.",
+                  "examples": [
+                    "Synonyms: laze about, loaf, take it easy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
