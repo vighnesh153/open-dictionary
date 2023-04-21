@@ -1,0 +1,98 @@
+{
+  "word": "torch",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English torche, from Old French torche, from Vulgar Latin *torca, from torqua, from Latin torquēs, torquīs (“wreath”), from torqueō (“twist”, verb)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "torch (plural torches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A stick with a flame on one end, used chiefly as a light source; a similarly shaped implement with a replaceable supply of flammable material.",
+                  "examples": [
+                    "The mob of angry villagers carried torches and pitchforks to the vampire's castle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Commonwealth) A portable light source powered by electricity; a flashlight.",
+                  "examples": [
+                    "Ernst slipped and dropped his torch on the flagstones, shattering the bulb and plunging us into darkness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) An arsonist.",
+                  "examples": [
+                    "The torch, after setting up the device, drove to a town many miles from his home and then dialed his home number, successfully starting a fire in his own home."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A blowtorch or oxy-gas torch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(science fiction) A torch drive (\"a spacecraft engine which produces thrust by nuclear fusion\").",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "torch (third-person singular simple present torches, present participle torching, simple past and past participle torched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To set fire to, especially by use of a torch (flaming stick).",
+                  "examples": [
+                    "Some hoodlums had torched a derelict automobile, which emitted a ghastly pall of thick, black smoke that filled the street."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(science fiction) To travel in a spacecraft propelled by a torch drive (\"a spacecraft engine which produces thrust by nuclear fusion\").",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
