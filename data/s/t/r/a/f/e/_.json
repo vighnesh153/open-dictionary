@@ -1,0 +1,74 @@
+{
+  "word": "strafe",
+  "etymologies": [
+    {
+      "description": [
+        "From German strafe (“punish”) (a conjugated form of strafen), from phrases like \"Gott strafe England\" (\"God punish England\") which the British saw during the First World War."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "strafe (plural strafes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An attack of machine-gun or cannon fire from a low-flying aircraft.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) A sideways movement without turning.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "strafe (third-person singular simple present strafes, present participle strafing, simple past and past participle strafed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military, aviation) To attack (ground targets) with automatic gunfire from a low-flying aircraft.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military, by extension) To rake (a target) with rapid or automatic gunfire.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, video games) To sidestep; to move sideways without turning (a core mechanic of most first-person shooters).",
+                  "examples": [
+                    "Strafe — Press the Alt key and the left or right Arrow key to slide side to side instead of turning left or right."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
