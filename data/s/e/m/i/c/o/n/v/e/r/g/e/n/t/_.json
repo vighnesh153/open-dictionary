@@ -1,0 +1,47 @@
+{
+  "word": "semiconvergent",
+  "etymologies": [
+    {
+      "description": [
+        "semi- +‎ convergent"
+      ],
+      "adjectives": [
+        {
+          "description": "semiconvergent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a matrix) For which the limit \n  \n    \n      \n        \n          lim\n          \n            k\n            →\n            ∞\n          \n        \n        \n          \n            \n              T\n            \n          \n          \n            k\n          \n        \n      \n    \n    {\\displaystyle \\lim _{k\\to \\infty }{\\mathbf {T}}^{k}}\n  \n exists.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "semiconvergent (plural semiconvergents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A kind of fraction. If \n  \n    \n      \n        \n          \n            \n              h\n              \n                n\n                −\n                1\n              \n            \n            \n              k\n              \n                n\n                −\n                1\n              \n            \n          \n        \n      \n    \n    {\\displaystyle {\\frac {h_{n-1}}{k_{n-1}}}}\n  \n, \n  \n    \n      \n        \n          \n            \n              h\n              \n                n\n              \n            \n            \n              k\n              \n                n\n              \n            \n          \n        \n      \n    \n    {\\displaystyle {\\frac {h_{n}}{k_{n}}}}\n  \n are successive convergents, then any fraction of the form \n  \n    \n      \n        \n          \n            \n              \n                h\n                \n                  n\n                  −\n                  1\n                \n              \n              +\n              a\n              \n                h\n                \n                  n\n                \n              \n            \n            \n              \n                k\n                \n                  n\n                  −\n                  1\n                \n              \n              +\n              a\n              \n                k\n                \n                  n\n                \n              \n            \n          \n        \n      \n    \n    {\\displaystyle {\\frac {h_{n-1}+ah_{n}}{k_{n-1}+ak_{n}}}}\n  \n, where a is a nonnegative integer and the numerators and denominators are between the n and n+1 terms inclusive, is a semiconvergent.",
+                  "examples": [
+                    "The semiconvergents to the continued fraction expansion of a real number include all the rational approximations which are better than any approximation with a smaller denominator."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
