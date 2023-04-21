@@ -1,0 +1,30 @@
+{
+  "word": "tacnode",
+  "etymologies": [
+    {
+      "description": [
+        "Latin tactus + English node"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tacnode (plural tacnodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A point of a curve where two or more osculating circles to the curve at that point are tangent, so that two branches of the curve have ordinary tangency at the double point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
