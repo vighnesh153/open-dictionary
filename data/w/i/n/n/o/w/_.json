@@ -1,0 +1,87 @@
+{
+  "word": "winnow",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English winewen, windewen, windwen, from Old English windwian (“to winnow, fan, ventilate”), from Proto-Germanic *windwōną, *winþijaną (“to throw about, winnow”), from Proto-Indo-European *wē- (“to winnow, thresh”). Cognate with Middle High German winden (“to winnow”), Icelandic vinsa (“to pick out, weed”), Latin vannus (“a winnowing basket”). See fan, van."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "winnow (plural winnows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which winnows or which is used in winnowing; a contrivance for fanning or winnowing grain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of winnowing",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "winnow (third-person singular simple present winnows, present participle winnowing, simple past and past participle winnowed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, agriculture) To subject (granular material, especially food grain) to a current of air separating heavier and lighter components, as grain from chaff.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figuratively) To separate, sift, analyse, or test by separating items having different values.",
+                  "examples": [
+                    "They winnowed the field to twelve.",
+                    "They winnowed the winners from the losers.",
+                    "They winnowed the losers from the winners."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, literary) To blow upon or toss about by blowing; to set in motion as with a fan or wings.",
+                  "examples": [
+                    "Gulls average much larger than terns, with stouter build; the feet are larger and more ambulatorial, the wings are shorter and not so thin; the birds winnow the air in a steady course unlike the buoyant dashing flight of their relatives."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, literary, dated) To move about with a flapping motion, as of wings; to flutter.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
