@@ -1,0 +1,398 @@
+{
+  "word": "stop",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stoppen, stoppien, from Old English stoppian (“to stop, close”), from Proto-West Germanic *stoppōn, from Proto-Germanic *stuppōną (“to stop, close”), *stuppijaną (“to push, pierce, prick”), from Proto-Indo-European *(s)tewp-, *(s)tewb- (“to push; stick”), from *(s)tew- (“to bump; impact; butt; push; beat; strike; hit”). Cognate with Saterland Frisian stopje (“to stop, block”), West Frisian stopje (“to stop”), Dutch stoppen (“to stop”), Low German stoppen (“to stop”), German stopfen (“to be filling, stuff”), German stoppen (“to stop”), Danish stoppe (“to stop”), Swedish stoppa (“to stop”), Icelandic stoppa (“to stop”), Middle High German stupfen, stüpfen (“to pierce”). More at stuff, stump.",
+        "Alternate etymology derives Proto-West Germanic *stoppōn from an assumed Vulgar Latin *stūpāre, *stuppāre (“to stop up with tow”), from stūpa, stīpa, stuppa (“tow, flax, oakum”), from Ancient Greek στύπη (stúpē), στύππη (stúppē, “tow, flax, oakum”). This derivation, however, is doubtful, as the earliest instances of the Germanic verb do not carry the meaning of \"stuff, stop with tow\". Rather, these senses developed later in response to influence from similar sounding words in Latin and Romance."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stop (plural stops)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
+                  "examples": [
+                    "Related terms: halt, station.",
+                    "They agreed to meet at the bus stop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An action of stopping; interruption of travel.",
+                  "examples": [
+                    "That stop was not planned."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which stops, impedes, or obstructs; an obstacle; an impediment.",
+                  "examples": [
+                    "So melancholy a prospect should inspire us with zeal to oppose some stop to the rising torrent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A device intended to block the path of a moving object",
+              "entries": [
+                {
+                  "meaning": "(engineering) A device, or piece, as a pin, block, pawl, etc., for arresting or limiting motion, or for determining the position to which another part shall be brought.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(architecture) A member, plain or moulded, formed of a separate piece and fixed to a jamb, against which a door or window shuts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A consonant sound in which the passage of air through the mouth is temporarily blocked by the lips, tongue, or glottis.",
+                  "examples": [
+                    "Synonyms: plosive, occlusive"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A symbol used for purposes of punctuation and representing a pause or separating clauses, particularly a full stop, comma, colon or semicolon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A knob or pin used to regulate the flow of air in an organ.",
+                  "examples": [
+                    "The organ is loudest when all the stops are pulled."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) One of the vent-holes in a wind instrument, or the place on the wire of a stringed instrument, by the stopping or pressing of which certain notes are produced.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(tennis) A very short shot which touches the ground close behind the net and is intended to bounce as little as possible.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(soccer) A save; preventing the opposition from scoring a goal",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) The depression in a dog’s face between the skull and the nasal bones.",
+                  "examples": [
+                    "The stop in a bulldog's face is very marked."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(photography) A part of a photographic system that reduces the amount of light.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(photography) A unit of exposure corresponding to a doubling of the brightness of an image.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(photography) An f-stop.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The diaphragm used in optical instruments to cut off the marginal portions of a beam of light passing through lenses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fencing) A coup d'arret, or stop thrust.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stop (third-person singular simple present stops, present participle stopping, simple past and past participle stopped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To cease moving.",
+                  "examples": [
+                    "I stopped at the traffic lights."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Not to continue.",
+                  "examples": [
+                    "The riots stopped when police moved in.",
+                    "Soon the rain will stop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause (something) to cease moving or progressing.",
+                  "examples": [
+                    "The sight of the armed men stopped him in his tracks.",
+                    "This guy is a fraudster. I need to stop the cheque I wrote him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cease; to no longer continue (doing something).",
+                  "examples": [
+                    "One of the wrestlers suddenly stopped fighting.",
+                    "Please stop telling me those terrible jokes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause (something) to come to an end.",
+                  "examples": [
+                    "The referees stopped the fight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(causative, transitive, chiefly UK) To end someone else's activity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To close or block an opening.",
+                  "examples": [
+                    "He stopped the wound with gauze."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, photography, often with \"up\" or \"down\") To adjust the aperture of a camera lens.",
+                  "examples": [
+                    "To achieve maximum depth of field, he stopped down to an f-stop of 22."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To stay; to spend a short time; to reside or tarry temporarily.",
+                  "examples": [
+                    "to stop with a friend",
+                    "He stopped for two weeks at the inn.",
+                    "He stopped at his friend's house before continuing with his drive."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To regulate the sounds of (musical strings, etc.) by pressing them against the fingerboard with the finger, or otherwise shortening the vibrating part.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To punctuate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To make fast; to stopper.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics, transitive) To pronounce (a phoneme) as a stop.",
+                  "examples": [
+                    "th-stopping"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, transitive) To delay the purchase or sale of (a stock) while agreeing the price for later.",
+                  "examples": [
+                    "It will be noted that the specialist would have refused to stop the stock for broker X if he (the specialist) had only one order to sell at 85."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English stoppe, from Old English stoppa (“bucket, pail, a stop”), from Proto-Germanic *stuppô (“vat, vessel”), from Proto-Indo-European *(s)teub- (“to push, hit; stick, stump”). See stoup."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stop (plural stops)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK dialectal) A small well-bucket; a milk-pail.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "s- +‎ top"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stop (plural stops)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The squark that is the superpartner of a top quark.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
