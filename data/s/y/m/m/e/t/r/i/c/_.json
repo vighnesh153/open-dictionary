@@ -1,0 +1,50 @@
+{
+  "word": "symmetric",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin symmetria from Ancient Greek συμμετρία (summetría)."
+      ],
+      "adjectives": [
+        {
+          "description": "symmetric (comparative more symmetric, superlative most symmetric)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Symmetrical.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) Of a relation R on a set S, such that xRy if and only if yRx for all members x and y of S (that is, if the relation holds between any element and a second, it also holds between the second and the first).",
+                  "examples": [
+                    "\"Is a sibling of\" is a symmetric relation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) Using the same key (or keys that are trivially related) for both encryption and decryption.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
