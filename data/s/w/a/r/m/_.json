@@ -1,0 +1,115 @@
+{
+  "word": "swarm",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English swarm, from Old English swearm (“swarm, multitude”), from Proto-West Germanic *swarm, from Proto-Germanic *swarmaz (“swarm, dizziness”), from Proto-Indo-European *swer- (“to buzz, hum”). Cognate with Saterland Frisian Swoorm (“swarm”), Dutch zwerm, German Schwarm, Danish sværm, Swedish svärm, Icelandic svarmur (“tumult, swarm”), Latin susurrus (“whispering, humming”), Lithuanian surma (“a pipe”), Russian свире́ль (svirélʹ, “a pipe, reed”).",
+        "The verb is from Middle English swarmen, swermen, from Old English swierman (“to swarm”), from Proto-West Germanic *swarmijan, from Proto-Germanic *swarmijaną (“to swarm”), from the noun. Cognate with Scots swairm, swerm (“to swarm”), Dutch zwermen, German schwärmen, Danish sværme, Swedish svärma."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "swarm (plural swarms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large number of insects, especially when in motion or (for bees) migrating to a new colony.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mass of people, animals or things in motion or turmoil.",
+                  "examples": [
+                    "a swarm of meteorites"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A group of nodes sharing the same torrent in a BitTorrent network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "swarm (third-person singular simple present swarms, present participle swarming, simple past and past participle swarmed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move as a swarm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To teem, or be overrun with insects, people, etc.",
+                  "examples": [
+                    "Every place swarming with soldiers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fill a place as a swarm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To overwhelm as by an opposing army.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To climb by gripping with arms and legs alternately.",
+                  "examples": [
+                    "At the top was placed a piece of money, as a prize for those who could swarm up and seize it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To breed multitudes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
