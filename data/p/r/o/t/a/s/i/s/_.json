@@ -1,0 +1,41 @@
+{
+  "word": "protasis",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin protasis, from Ancient Greek πρότασις (prótasis), from προτείνω (proteínō, “put forward, tender, propose”), from πρό (pró) + τείνω (teínō, “stretch”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "protasis (plural protases)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The first part of a play, in which the setting and characters are introduced",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, grammar) A clause that expresses a contingent element in a conditional sentence",
+                  "examples": [
+                    "In \"I will be coming if this weather holds up\", \"if this weather holds up\" is the protasis, and \"I will be coming\" is the apodosis."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
