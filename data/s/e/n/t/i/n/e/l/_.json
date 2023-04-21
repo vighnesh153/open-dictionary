@@ -1,0 +1,111 @@
+{
+  "word": "sentinel",
+  "etymologies": [
+    {
+      "description": [
+        "1570s, from Middle French sentinelle, from Old Italian sentinella (perhaps via a notion of \"perceive, watch\", compare Italian sentire (“to feel, hear, smell”)), from Latin sentiō (“feel, perceive by the senses”). See sense, sentient."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sentinel (plural sentinels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sentry, watch, or guard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A private soldier.",
+                  "examples": [
+                    "“I will not permit the poorest centinel to be treated with injustice.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) A unique string of characters recognised by a computer program for processing in a special way; a keyword.",
+                  "examples": [
+                    "The <xmp> tag is a sentinel that suspends web-page processing and displays the subsequent text literally"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sentinel crab.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive, medicine, epidemiology) A sign of a health risk (e.g. a disease, an adverse effect).",
+                  "examples": [
+                    "sentinel animals can be used to explore endemic diseases."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sentinel (third-person singular simple present sentinels, present participle (US) sentineling or (UK) sentinelling, simple past and past participle (US) sentineled or (UK) sentinelled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To watch over as a guard.",
+                  "examples": [
+                    "He sentineled the north wall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To post as guard.",
+                  "examples": [
+                    "He sentineled him on the north wall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To post a guard for.",
+                  "examples": [
+                    "He sentineled the north wall with just one man."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
