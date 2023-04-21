@@ -1,0 +1,371 @@
+{
+  "word": "term",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English terme, borrowed from Old French terme, from Latin terminus (“a bound, boundary, limit, end; in Medieval Latin, also a time, period, word, covenant, etc.”).",
+        "Doublet of terminus and termon. Old English had termen, from the same source."
+      ],
+      "adjectives": [
+        {
+          "description": "term (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, colloquial) Born or delivered at term.",
+                  "examples": [
+                    "term neonate"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "term (plural terms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which limits the extent of anything; limit, extremity, bound, boundary, terminus.",
+                  "examples": [
+                    "\"Alright, look...we can spend the holidays with your parents, but this time it will be on my terms.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A chronological limitation or restriction, a limited timespan.",
+                  "examples": [
+                    "The term of a lease agreement is the period of time during which the lease is effective, and may be fixed, periodic, or of indefinite duration."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of the binding conditions or promises in a legal contract.",
+                  "examples": [
+                    "Be sure to read the terms and conditions before signing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Specifically, the conditions in a legal contract that specify the price and also how and when payment must be made.",
+                  "examples": [
+                    "Q: What are your company's terms? A: Net thirty, cash or check. [This answer means that the net total must be paid within 30 days; see Net D.]",
+                    "The latest models are available now, on the lowest terms you'll find anywhere, guaranteed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, archaic) A point, line, or superficies that limits.",
+                  "examples": [
+                    "A line is the term of a superficies, and a superficies is the term of a solid."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A word or phrase (e.g., noun phrase, verb phrase, open compound), especially one from a specialised area of knowledge; a name for a concept.",
+                  "examples": [
+                    "\"Algorithm\" is a term used in computer science.",
+                    "The noun phrase \"red blood cell\", the acronym \"RBC\", and the word \"erythrocyte\" are synonymous terms."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relations among people.",
+                  "examples": [
+                    "We are on friendly terms with each other."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Part of a year, especially one of the divisions of an academic year.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "Duration of officeholding, or its limit; period in office of fixed length.",
+              "entries": [
+                {
+                  "meaning": "The time during which legal courts are open.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Certain days on which rent is paid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "With respect to a pregnancy, the period during which birth usually happens (approximately 40 weeks from conception).",
+                  "examples": [
+                    "at term, preterm, postterm"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a patent) The maximum period during which the patent can be maintained into force.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A menstrual period.",
+                  "examples": [
+                    "My wife, after the absence of her terms for seven weeks, gave me hopes of her being with child, but on the last day of the year she hath them again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Any value (variable or constant) or expression separated from another term by a space or an appropriate character, in an overall expression or table.",
+                  "examples": [
+                    "All the terms of this sum cancel out.",
+                    "One only term is odd in (&thinsp;12; 3; 4&thinsp;)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The subject or the predicate of a proposition; one of the three component parts of a syllogism, each one of which is used twice.",
+                  "examples": [
+                    "The subject and predicate of a proposition are, after Aristotle, together called its terms or extremes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astrology) An essential dignity in which unequal segments of every astrological sign have internal rulerships which affect the power and integrity of each planet in a natal chart.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(art) A statue of the upper body, sometimes without the arms, ending in a pillar or pedestal. [from 17th c.]",
+                  "examples": [
+                    "You have been already informed, I have no doubt, of the subject which we have chosen: the adorning a Term of Hymen with festoons of flowers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A piece of carved work placed under each end of the taffrail.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "term (third-person singular simple present terms, present participle terming, simple past and past participle termed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To phrase a certain way; to name or call.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Clipping of terminal."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "term (plural terms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, informal) A computer program that emulates a physical terminal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Short for terminate, termination, terminated employee, etc."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "term (plural terms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One whose employment has been terminated",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "term (third-person singular simple present terms, present participle terming, simple past and past participle termed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To terminate one's employment",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
