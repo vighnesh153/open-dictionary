@@ -1,0 +1,67 @@
+{
+  "word": "resend",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ send. Attested since the 1550s."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "resend (plural resends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The act of sending again.",
+                  "examples": [
+                    "If the BS reaches its maximum number of resends, it initiates another full authentication or drops the SS."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "resend (third-person singular simple present resends, present participle resending, simple past and past participle resent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send again.",
+                  "examples": [
+                    "I didn't get your email. You'll have to resend it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send back.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To forward (something received), especially a message.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
