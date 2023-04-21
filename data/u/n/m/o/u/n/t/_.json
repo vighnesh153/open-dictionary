@@ -1,0 +1,30 @@
+{
+  "word": "unmount",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ mount"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unmount (third-person singular simple present unmounts, present participle unmounting, simple past and past participle unmounted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To reverse a mount operation; to instruct the operating system that the file system should be disassociated from its mount point, making it no longer accessible.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
