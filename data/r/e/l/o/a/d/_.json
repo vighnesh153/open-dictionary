@@ -1,0 +1,60 @@
+{
+  "word": "reload",
+  "etymologies": [
+    {
+      "description": [
+        "From re- +‎ load."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reload (plural reloads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process by which something is reloaded.",
+                  "examples": [
+                    "Each reload of the weapon took about 30 seconds."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(firearms) An ammunition cartridge prepared from previously fired ammunition.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reload (third-person singular simple present reloads, present participle reloading, simple past and past participle reloaded)",
+          "definitionGroups": [
+            {
+              "group": "To load (something) again.",
+              "entries": [
+                {
+                  "meaning": "(computing) To refresh a copy of a program etc. in memory or of a web page etc. on screen",
+                  "examples": []
+                },
+                {
+                  "meaning": "(firearms) To load a gun again; or recharge a used cartridge.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
