@@ -1,0 +1,90 @@
+{
+  "word": "vend",
+  "etymologies": [
+    {
+      "description": [
+        "From French vendre, from Old French vendre, from Latin vendere, from vēnum (“(something for) sale”) + dare (“to give”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vend (plural vends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of vending or selling; a sale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, Australia, dated) The total sales of coal from a colliery.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "vend (third-person singular simple present vends, present participle vending, simple past and past participle vended)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Synonym of sell, now especially to sell through a vending machine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive, uncommon) To provide or export functionality, especially from an API.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Compare wynn."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vend (plural vends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The letter Ꝩ/ꝩ, used in Old Norse, related to the rune wynn (ᚹ, whence also Latin-script Ƿ/ƿ) but with the bowl open at the top, like a y.",
+                  "examples": [
+                    "[...] a gramm. term, implying the use of the old letter 'vend' in spelling v-rungu, v-rangr, v-reiðr, see introduction to letter R; ..."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
