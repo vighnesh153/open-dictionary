@@ -1,0 +1,70 @@
+{
+  "word": "recipe",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French récipé, from Latin recipe, second person singular imperative of Latin recipiō (“receive”). Compare receipt."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "recipe (plural recipes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, archaic) A formula for preparing or using a medicine; a prescription; also, a medicine prepared from such instructions. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any set of instructions for preparing a mixture of ingredients. [from 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "By extension, a plan or procedure to obtain a given end result; a prescription. [from 17th c.]",
+                  "examples": [
+                    "His new approach is definitely a recipe for success."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Now especially, a set of instructions for making or preparing food dishes. [from 18th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A set of conditions and parameters of an industrial process to obtain a given result.",
+                  "examples": [
+                    "Stepper recipes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
