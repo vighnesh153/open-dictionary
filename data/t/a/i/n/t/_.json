@@ -1,0 +1,236 @@
+{
+  "word": "taint",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French teint, from Old French teint (past participle of teindre (“to dye, to tinge”)), from Latin tinctum (past participle of tingere); compare tint."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "taint (plural taints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A contamination, decay or putrefaction, especially in food.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tinge, trace or touch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mark of disgrace, especially on one's character; blemish.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Tincture; hue; colour.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Infection; corruption; deprivation.",
+                  "examples": [
+                    "He had inherited from his ancestors a scrofulous taint, which it was beyond the power of medicine to remove."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A marker indicating that a variable is unsafe and should be subjected to additional security checks.",
+                  "examples": [
+                    "Using Apache version 1.3.29 and Perl version 5.8.2, we tracked the following sequence of taints  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "taint (third-person singular simple present taints, present participle tainting, simple past and past participle tainted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To contaminate or corrupt (something) with an external agent, either physically or morally.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To spoil (food) by contamination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be infected or corrupted; to be touched by something corrupting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be affected with incipient putrefaction.",
+                  "examples": [
+                    "Meat soon taints in warm weather."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, programming) To mark (a variable) as unsafe, so that operations involving it are subject to additional security checks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Australia, finance) To invalidate (a share capital account) by transferring profits into it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English taynt, aphetic form of attaynt, atteynt, from Old French atteinte (“a blow, stroke”). Compare with attaint."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "taint (plural taints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A thrust with a lance, which fails of its intended effect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An injury done to a lance in an encounter, without its being broken; also, a breaking of a lance in an encounter in a dishonorable or unscientific manner.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "taint (third-person singular simple present taints, present participle tainting, simple past and past participle tainted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To damage, as a lance, without breaking it; also, to break, as a lance, but usually in an unknightly or unscientific manner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To thrust ineffectually with a lance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Reportedly from the phrase “'tain't your balls and 'tain't your ass”. Ascribed to E.E. Landy's Underground Dict. (1972) is the following explanation: ‘'taint their ass and 'taint their pussy.’"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "taint (plural taints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang) The perineum.",
+                  "examples": [
+                    "Sorry you feel that way. But since your mother sucks cocks in hell if I go there I won't be rotting.....I'll be on line right behind you hoping to get another good head job from your Mom or Sister....if you can remember which is which.......(Moms the one with the beard on her taint)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Contraction of it ain't."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
