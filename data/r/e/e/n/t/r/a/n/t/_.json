@@ -1,0 +1,112 @@
+{
+  "word": "reentrant",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ entrant"
+      ],
+      "adjectives": [
+        {
+          "description": "reentrant (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Reentering; pointing inward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a mutual exclusion mechanism) Such that the corresponding lock can be reacquired by the locking thread.",
+                  "examples": [
+                    "The global interpreter lock of the embedded scripting engine is not reentrant."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) That may be executed more than once at a time either by different threads, or because of recursion.",
+                  "examples": [
+                    "Global variables must not be altered by reentrant code."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transport, of a part of a rocket) Designed to return to the Earth's atmosphere.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physiology) Of or pertaining to reentry (in the heart)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, of a ukulele or similar instrument) Having the strings not ordered according to pitch (having a re-entry)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reentrant (plural reentrants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An angle or part that reenters itself.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who enters (the labour market, etc.) again.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geography) A valley between a pair of parallel ridges",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
