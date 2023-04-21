@@ -1,0 +1,55 @@
+{
+  "word": "writable",
+  "etymologies": [
+    {
+      "description": [
+        "write +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "writable (comparative more writable, superlative most writable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being written.",
+                  "examples": [
+                    "Are sign languages writable?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a file, storage device, etc.) Capable of being written to.",
+                  "examples": [
+                    "The file is writable only for users in the admin group.",
+                    "I burned my family's vacation photos onto a writable CD."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) mutable",
+                  "examples": [
+                    "In general, writable variables must have unique instances per processor executing a shader and therefore cannot be shared."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

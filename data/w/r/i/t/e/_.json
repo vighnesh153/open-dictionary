@@ -1,0 +1,177 @@
+{
+  "word": "write",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English writen, from Old English wrītan, from Proto-West Germanic *wrītan, from Proto-Germanic *wrītaną (“to carve, write”), from Proto-Indo-European *wrey- (“to rip, tear”). Cognate with West Frisian write (“to wear by rubbing, rip, tear”), Dutch wrijten (“to argue, quarrel”), Middle Low German wrîten (“to scratch, draw, write”) (> Low German wrieten, rieten (“to tear, split”)), German reißen (“to tear, rip”), Norwegian rita (“to rough-sketch, carve, write”), Swedish rita (“to draw, design, delineate, model”), Icelandic rita (“to cut, scratch, write”), German ritzen (“to carve, scratch”), Proto-Slavic *ryti (“to carve, engrave, dig”), Polish ryć (“to engrave, dig”), Czech rýt (“to engrave, dig”). See also rit and rat."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "write (plural writes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or style of writing.",
+                  "examples": [
+                    "The pen also gives a better write than the ordinary counter pen. The ink stand cannot be stolen, for it is fastened to the counter or desk."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The operation of storing data, as in memory or onto disk.",
+                  "examples": [
+                    "How many writes per second can this hard disk handle?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "write (third-person singular simple present writes, present participle writing, simple past wrote or (archaic) writ, past participle written or (archaic) writ or (obsolete) ywriten)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To form letters, words or symbols on a surface in order to communicate.",
+                  "examples": [
+                    "The pupil wrote his name on the paper.",
+                    "Your son has been writing on the wall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To be the author of (a book, article, poem, etc.).",
+                  "examples": [
+                    "My uncle writes newspaper articles for The Herald."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send written information to.",
+                  "examples": [
+                    "(UK) Please write to me when you get there.",
+                    "(US) Please write me when you get there."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To show (information, etc) in written form.",
+                  "examples": [
+                    "The due day of the homework is written in the syllabus."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ditransitive with relative clause) To convey a fact to someone via writing.",
+                  "examples": [
+                    "Jimmy wrote me that he needs more money."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be an author.",
+                  "examples": [
+                    "I said that I did not believe anyone could write any way except the very best he could write without destroying his talent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, intransitive, with to) To record data mechanically or electronically.",
+                  "examples": [
+                    "The computer writes to the disk faster than it reads from it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, South Africa, Canada, of an exam, a document, etc.) To fill in, to complete using words.",
+                  "examples": [
+                    "I was very anxious to know my score after I wrote the test."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To impress durably; to imprint; to engrave.",
+                  "examples": [
+                    "truth written on the heart"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make known by writing; to record; to prove by one's own written testimony; often used reflexively.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) To sell (an option or other derivative).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Eastern Orthodoxy) To paint a religious icon.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
