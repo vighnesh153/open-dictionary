@@ -1,0 +1,113 @@
+{
+  "word": "relative",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French relatif, from Late Latin relātīvus, from Latin relātus, perfect passive participle of referō (“to carry back, to ascribe”), from re- (“again”) + ferō (“to bear or carry”)."
+      ],
+      "adjectives": [
+        {
+          "description": "relative (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Connected to or depending on something else; comparative.",
+                  "examples": [
+                    "For Liverpool, their season will now be regarded as a relative disappointment after failure to add the FA Cup to the Carling Cup and not mounting a challenge to reach the Champions League places."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a URL, URI, path, or similar) Expressed in relation to another item, rather than in complete form.",
+                  "examples": [
+                    "The relative URL /images/pic.jpg, when evaluated in the context of http://example.com/docs/pic.html, corresponds to the absolute URL http://example.com/images/pic.jpg."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Depending on an antecedent; comparative.",
+                  "examples": [
+                    "The words “big” and “small” are relative."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Having the same key but differing in being major or minor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relevant; pertinent; related.",
+                  "examples": [
+                    "relative to your earlier point about taxes, ..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable to be changed by other beings or circumstance; conditional.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "relative (plural relatives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone in the same family; someone connected by blood, marriage, or adoption.",
+                  "examples": [
+                    "Why do my relatives always talk about sex?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A type of adjective that inflects like a relative clause, rather than a true adjective, in certain Bantu languages.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
