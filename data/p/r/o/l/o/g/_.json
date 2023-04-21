@@ -1,0 +1,39 @@
+{
+  "word": "prolog",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French, from Latin prologus, from Ancient Greek πρόλογος (prólogos)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prolog (plural prologs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A speech or section used as an introduction, especially to a play or novel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A component of a computer program that prepares the computer to execute a routine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
