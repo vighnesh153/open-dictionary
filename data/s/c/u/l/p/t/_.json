@@ -1,0 +1,69 @@
+{
+  "word": "sculpt",
+  "etymologies": [
+    {
+      "description": [
+        "From French sculpter, from Latin sculpō (“to cut out, carve in stone”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sculpt (plural sculpts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A modification that can be applied to an object, like a texture, but changes the object's shape rather than its appearance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sculpt (third-person singular simple present sculpts, present participle sculpting, simple past and past participle sculpted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To form by sculpture.",
+                  "examples": [
+                    "They sculpted a statue out of clay."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To work as a sculptor.",
+                  "examples": [
+                    "What do you do?-I used to box, but now I sculpt."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To carve out gradually.",
+                  "examples": [
+                    "Landforms sculpted by the wind."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
