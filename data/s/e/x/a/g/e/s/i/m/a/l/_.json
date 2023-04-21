@@ -1,0 +1,61 @@
+{
+  "word": "sexagesimal",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin sexagesimalis, from sexāgēsimus (“sixtieth”) + -ālis (“-al”), from sexāgintā (“sixty”). Cognate with sexagenary and sexagenarian. Cf. sextal."
+      ],
+      "adjectives": [
+        {
+          "description": "sexagesimal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of, related to, or based on the number sixty.",
+                  "examples": [
+                    "Coordinate terms: decimal, quadragesimal",
+                    "The common English divisions of time, longitude, and latitude are all computed using sexagesimal arithmetic."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sexagesimal (plural sexagesimals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A fraction involving division by 60; a sixtieth part of something.",
+                  "examples": [
+                    "Decimals are actually less convenient than sexagesimals for working with most common fractions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A base-60 number.",
+                  "examples": [
+                    "Babylonian mathematics was computed in sexagesimals."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
