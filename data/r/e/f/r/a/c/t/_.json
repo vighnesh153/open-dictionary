@@ -1,0 +1,41 @@
+{
+  "word": "refract",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin refrāctum, neuter form of refrāctus, the past participle of refringō, itself from re- (“again”) + frangō (“I break”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "refract (third-person singular simple present refracts, present participle refracting, simple past and past participle refracted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of light) To change direction as a result of entering a different medium",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, optics) To cause (light) to change direction as a result of entering a different medium.",
+                  "examples": [
+                    "A prism can refract light."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
