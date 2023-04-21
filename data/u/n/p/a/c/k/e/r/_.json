@@ -1,0 +1,43 @@
+{
+  "word": "unpacker",
+  "etymologies": [
+    {
+      "description": [
+        "unpack +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unpacker (plural unpackers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, unpacks.",
+                  "examples": [
+                    "One great advantage of professional unpacking is that the unpackers take away all the wrapping and cartons  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A software program that decompresses code or data.",
+                  "examples": [
+                    "All packed malware consists of the unpacker code and packed data, which typically look like random data. The benefit of packed malware, from a malicious author's point of view, is that it cannot be analyzed until it is properly unpacked."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
