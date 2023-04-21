@@ -1,0 +1,43 @@
+{
+  "word": "trichotomous",
+  "etymologies": [
+    {
+      "description": [
+        "trichotomy +‎ -ous. Modelled on dichotomous."
+      ],
+      "adjectives": [
+        {
+          "description": "trichotomous (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Divided into three parts, or into threes; forking three ways.",
+                  "examples": [
+                    "a trichotomous stem"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) Such that, for all x and y in X, and for a binary relation R, exactly one of xRy, yRx or x=y holds.",
+                  "examples": [
+                    "> is a trichotomous relation, while the relation \"divides\" over the natural numbers is not."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
