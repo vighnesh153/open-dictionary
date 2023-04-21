@@ -1,0 +1,56 @@
+{
+  "word": "superclass",
+  "etymologies": [
+    {
+      "description": [
+        "super- +‎ class"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "superclass (plural superclasses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, object-oriented programming) A high-level class that passes attributes and methods down the hierarchy to subclasses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) A taxon ranking below a phylum and above a class.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "superclass (third-person singular simple present superclasses, present participle superclassing, simple past and past participle superclassed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, object-oriented programming) To create a superclass of.",
+                  "examples": [
+                    "Applications incorporating superclassing \"clean up\" by calling UnregisterClass on all superclassed classes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
