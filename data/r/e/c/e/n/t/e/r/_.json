@@ -1,0 +1,32 @@
+{
+  "word": "recenter",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ center"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "recenter (third-person singular simple present recenters, present participle recentering, simple past and past participle recentered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To center (something) again.",
+                  "examples": [
+                    "C-l (recenter-top-bottom) is a basic scrolling command. It recenters the selected window, scrolling it so that the current screen line is exactly in the center of the window, or as close to the center as possible."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
