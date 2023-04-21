@@ -1,0 +1,50 @@
+{
+  "word": "repopulate",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ populate"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "repopulate (third-person singular simple present repopulates, present participle repopulating, simple past and past participle repopulated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To populate again; to breed among a group in order to keep the population up.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reintroduce a species into (an area).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To fill with data again; to refresh.",
+                  "examples": [
+                    "to repopulate a grid"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
