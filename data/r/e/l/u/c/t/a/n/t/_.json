@@ -1,0 +1,53 @@
+{
+  "word": "reluctant",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin reluctāns, present participle of reluctor (“to struggle against, oppose, resist”), from re- (“back”) + luctor (“to struggle”)."
+      ],
+      "adjectives": [
+        {
+          "description": "reluctant (comparative more reluctant, superlative most reluctant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) Opposing; offering resistance (to).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not wanting to take some action; unwilling.",
+                  "examples": [
+                    "She was reluctant to lend him the money",
+                    "Surprisingly, our new dog is a reluctant ball-retriever."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(regular expressions) Tending to match as little text as possible.",
+                  "examples": [
+                    "Antonym: greedy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
