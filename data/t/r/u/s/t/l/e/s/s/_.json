@@ -1,0 +1,50 @@
+{
+  "word": "trustless",
+  "etymologies": [
+    {
+      "description": [
+        "From trust +‎ -less."
+      ],
+      "adjectives": [
+        {
+          "description": "trustless (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lacking trust; untrusting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, cryptocurrencies) Which does not need any trust, or a trusted third party.",
+                  "examples": [
+                    "A trustless network can run even if none of its nodes trusts another."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Untrustworthy; not deserving to be trusted.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
