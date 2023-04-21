@@ -1,0 +1,30 @@
+{
+  "word": "subfactorial",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ factorial"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subfactorial (plural subfactorials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, combinatorics) The result of deranging a number. In equations, it is usually symbolised by an exclamation mark (!) before the number being deranged (as opposed to factorials, where the exclamation mark occurs after the number).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
