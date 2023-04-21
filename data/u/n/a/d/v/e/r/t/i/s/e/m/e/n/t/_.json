@@ -1,0 +1,41 @@
+{
+  "word": "unadvertisement",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unadvertisement (countable and uncountable, plural unadvertisements)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A public notice that warns of the risks associated with a product, rather than promoting it like an advertisement.",
+                  "examples": [
+                    "We created some “unadvertisements.” This one, for example, says, “Mrs. R is doing fine without vasodilators,” and it goes on to explain some of the physiology of her condition,  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, countable, uncountable) The withdrawal of an earlier notification.",
+                  "examples": [
+                    "When a publisher disconnects from Broker 1, Broker 1 sends an unadvertisement message for any advertisements it has received from the publisher. Note that these unadvertisements may induce unsubscriptions to be propagated in the reverse direction of the unadvertisement propagation  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
