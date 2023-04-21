@@ -1,0 +1,251 @@
+{
+  "word": "skew",
+  "etymologies": [
+    {
+      "description": [
+        "The verb is derived from Middle English skeuen, skewe, skewen (“to run at an angle or obliquely; to escape”), from Old Northern French escuer [and other forms], variants of Old French eschuer, eschever, eschiver (“to escape, flee; to avoid”) (modern French esquiver (“to dodge (a blow), duck; to elude, evade; to slip away; to sidestep”)), from Frankish *skiuhan (“to dread; to avoid, shun”), from Proto-Germanic *skiuhijaną (“to frighten”). The English word is cognate with Catalan esquiu (“evasive, shy”), Danish skæv (“crooked, slanting; skew, wry”) (> Norwegian Bokmål skjev), Dutch scheef (“crooked, slanting”), Norwegian skeiv (“crooked, lopsided; oblique, slanting; distorted”), Saterland Frisian skeeuw (“aslant, slanting; oblique; awry”), and is a doublet of eschew.",
+        "The adjective and adverb are probably derived from the verb and/or from askew, and the noun is derived from either the adjective or the verb."
+      ],
+      "adjectives": [
+        {
+          "description": "skew (not generally comparable, comparative skewer or more skew, superlative skewest or most skew)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable) Neither parallel nor perpendicular to a certain line; askew.",
+                  "examples": [
+                    "a skew arch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable, geometry) Of two lines in three-dimensional space: neither intersecting nor parallel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(comparable, statistics) Of a distribution: asymmetrical about its mean.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "skew (comparative more skew, superlative most skew)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) Askew, obliquely; awry.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "skew (plural skews)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that has an oblique or slanted position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An oblique or sideways movement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A squint or sidelong glance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A kind of wooden vane or cowl in a chimney which revolves according to the direction of the wind and prevents smoking.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of rock lying in a slanting position and tapering upwards which overhangs a working-place in a mine and is liable to fall.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bias or distortion in a particular direction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A phenomenon in synchronous digital circuit systems (such as computers) in which the same sourced clock signal arrives at different components at different times.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A state of asymmetry in a distribution; skewness.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "skew (third-person singular simple present skews, present participle skewing, simple past and past participle skewed)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To form or shape in an oblique way; to cause to take an oblique position.",
+              "entries": [
+                {
+                  "meaning": "(statistics) To cause (a distribution) to be asymmetrical.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bias or distort in a particular direction.",
+                  "examples": [
+                    "A disproportionate number of female subjects in the study group skewed the results."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Northumbria, Yorkshire) To hurl or throw.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:throw"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move obliquely; to move sideways, to sidle; to lie obliquely.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To jump back or sideways in fear or surprise; to shy, as a horse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To look at obliquely; to squint; hence, to look slightingly or suspiciously.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English skeu, skew (“stone with a sloping surface forming the slope of a gable, offset of a buttress, etc.”) [and other forms], from Anglo-Norman eschu, escuwe, eskeu, or Old Northern French eschieu, eskieu, eskiu, from Old French escu, escut, eschif (“a shield”) (modern French écu), from Latin scūtum (“a shield”), from Proto-Indo-European *skewH- (“to cover, protect”) or *skey- (“to cut, split”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "skew (plural skews)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A stone at the foot of the slope of a gable, the offset of a buttress, etc., cut with a sloping surface and with a check to receive the coping stones and retain them in place; a skew-corbel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Scotland, architecture) The coping of a gable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture, obsolete) One of the stones placed over the end of a gable, or forming the coping of a gable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
