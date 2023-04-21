@@ -1,0 +1,248 @@
+{
+  "word": "trace",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English trace, traas, from Old French trace (“an outline, track, trace”), from the verb (see below)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trace (plural traces)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of tracing.",
+                  "examples": [
+                    "Your cell phone company can put a trace on your line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An enquiry sent out for a missing article, such as a letter or an express package.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mark left as a sign of passage of a person or animal.",
+                  "examples": [
+                    "Synonyms: track, trail"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A residue of some substance or material.",
+                  "examples": [
+                    "There are traces of chocolate around your lips."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A very small amount.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:modicum"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A current-carrying conductive pathway on a printed circuit board.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An informal road or prominent path in an arid area.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of two straps, chains, or ropes of a harness, extending from the collar or breastplate to a whippletree attached to a vehicle or thing to be drawn; a tug.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) A connecting bar or rod, pivoted at each end to the end of another piece, for transmitting motion, especially from one plane to another; specifically, such a piece in an organ stop action to transmit motion from the trundle to the lever actuating the stop slider.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fortification) The ground plan of a work or works.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The intersection of a plane of projection, or an original plane, with a coordinate plane.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The sum of the diagonal elements of a square matrix.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) An empty category occupying a position in the syntactic structure from which something has been moved, used to explain constructions such as wh-movement and the passive.",
+                  "examples": [
+                    "[S]upposing the NP has raised in (18), the potential bindees are the clitic and the trace of the focalized NP, neither of which qualifies as a syntactic variable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English tracen, from Old French tracer, trasser (“to delineate, score, trace\", also, \"to follow, pursue”), probably a conflation of Vulgar Latin *tractiō (“to delineate, score, trace”), from Latin trahere (“to draw”); and Old French traquer (“to chase, hunt, pursue”), from trac (“a track, trace”), from Middle Dutch treck, treke (“a drawing, draft, delineation, feature, expedition”). More at track."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "trace (third-person singular simple present traces, present participle tracing, simple past and past participle traced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To follow the trail of.",
+                  "examples": [
+                    "Happy the mortal, who has traced effects To their first cause"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To follow the history of.",
+                  "examples": [
+                    "You may trace the deluge quite round the globe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw or sketch lightly or with care.",
+                  "examples": [
+                    "He carefully traced the outlines of the old building before him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To copy onto a sheet of paper superimposed over the original, by drawing over its lines.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To copy; to imitate.",
+                  "examples": [
+                    "That servile path thou nobly dost decline, / Of tracing word by word, and line by line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To walk; to go; to travel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To walk over; to pass through; to traverse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To follow the execution of the program by making it to stop after every instruction, or by making it print a message after every step.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
