@@ -1,0 +1,50 @@
+{
+  "word": "reverser",
+  "etymologies": [
+    {
+      "description": [
+        "reverse +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reverser (plural reversers)",
+          "definitionGroups": [
+            {
+              "group": "Something which reverses a particular action or condition.",
+              "entries": [
+                {
+                  "meaning": "(aviation) A thrust reverser.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland, law) A mortgager of land.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, computing) A reverse-engineer.",
+                  "examples": [
+                    "Antidebugger techniques are particularly effective when combined with code encryption because encrypting the program forces reversers to run it inside a debugger in order to allow the program to decrypt itself."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

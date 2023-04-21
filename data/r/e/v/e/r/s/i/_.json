@@ -1,0 +1,39 @@
+{
+  "word": "reversi",
+  "etymologies": [
+    {
+      "description": [
+        "(board game): So named because the playing pieces have two differently colored sides, which are reversed when captured to indicate that they are now the capturer's."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reversi (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A strategy game for two players, areas of the board being captured by surrounding rows of the opponent's pieces with one's own.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The card game reversis.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
