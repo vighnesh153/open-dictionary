@@ -1,0 +1,70 @@
+{
+  "word": "sensitivity",
+  "etymologies": [
+    {
+      "description": [
+        "sensitive +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sensitivity (countable and uncountable, plural sensitivities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality or state of being sensitive; sensitiveness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(biology) The ability of an organism or organ to respond to external stimuli.",
+              "entries": [
+                {
+                  "meaning": "(biology, medicine, of a pathogen) Vulnerability to medical treatment: Synonym of susceptibility.",
+                  "examples": [
+                    "Derived terms: sensitivity testing"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) The probability, in a binary classification test, of a true positive being correctly identified.",
+                  "examples": [
+                    "Coordinate term: specificity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) The degree of response of an instrument to a change in an input signal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(photography) The degree of response of a film etc. to light of a specified wavelength.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
