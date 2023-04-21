@@ -1,0 +1,146 @@
+{
+  "word": "sketch",
+  "etymologies": [
+    {
+      "description": [
+        "From Dutch schets or German Skizze, from Italian schizzo, from Latin schedium, from Ancient Greek σχέδιος (skhédios, “made suddenly, off-hand”), from σχεδόν (skhedón, “near, nearby”), from ἔχω (ékhō, “I hold”). Compare scheme."
+      ],
+      "adjectives": [
+        {
+          "description": "sketch (comparative more sketch, superlative most sketch)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, US, informal) Sketchy, shady, questionable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sketch (plural sketches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rapidly executed freehand drawing that is not intended as a finished work, often consisting of a multitude of overlapping lines.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rough design, plan, or draft, as a rough draft of a book.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A brief description of a person or account of an incident; a general presentation or outline.",
+                  "examples": [
+                    "I have to write a character sketch for a novel study."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A brief, light, or unfinished dramatic, musical, or literary work or idea; especially a short, often humorous or satirical scene or play, frequently as part of a revue or variety show.",
+              "entries": [
+                {
+                  "meaning": "A brief musical composition or theme, especially for the piano.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A brief, light, or informal literary composition, such as an essay or short story.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) An amusing person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, Ireland) A lookout; vigilant watch for something.",
+                  "examples": [
+                    "to keep sketch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) A humorous newspaper article summarizing political events, making heavy use of metaphor, paraphrase and caricature.",
+                  "examples": [
+                    "A very capable journalist, he wrote the Parliamentary sketch for the Pall Mall and the Westminster Gazette for several years."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A formal specification of a mathematical structure or a data type described in terms of a graph and diagrams (and cones (and cocones)) on it. It can be implemented by means of “models”, which are functors which are graph homomorphisms from the formal specification to categories such that the diagrams become commutative, the cones become limiting (i.e., products), the cocones become colimiting (i.e., sums).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sketch (third-person singular simple present sketches, present participle sketching, simple past and past participle sketched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To make a brief, basic drawing.",
+                  "examples": [
+                    "I usually sketch with a pen rather than a pencil."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To describe briefly and with very few details.",
+                  "examples": [
+                    "He sketched the accident, sticking to the facts as they had happened."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
