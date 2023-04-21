@@ -1,0 +1,92 @@
+{
+  "word": "quadrature",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin quadrātūra."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quadrature (countable and uncountable, plural quadratures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process of making something square; squaring.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The act or process of constructing a square that has the same area as a given plane figure, or of computing that area.",
+                  "examples": [
+                    "Craige was then on the point of publishing a short tract wherein he expounded a systematic (if far from general) 'Method of determining the quadrature of figures comprehended by straight lines and curves',[editor's translation] there gathering a variety of techniques of rational algebraic quadrature and arc-rectification […] ."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, numerical analysis) The calculation of a definite integral by numerical means.",
+                  "examples": [
+                    "Three types of SINC quadratures are surveyed for the evaluation of Cauchy principal value integrals \n  \n    \n      \n        \n          \n            ∫\n            \n              Γ\n            \n          \n          F\n          (\n          t\n          )\n          d\n          t\n          \n            /\n          \n          (\n          t\n          −\n          x\n          )\n        \n      \n    \n    {\\displaystyle \\textstyle \\int _{\\Gamma }F(t)dt/(t-x)}\n  \n, \n  \n    \n      \n        \n          x\n          ∈\n          Γ\n        \n      \n    \n    {\\displaystyle \\textstyle x\\in \\Gamma }\n  \n, where \n  \n    \n      \n        \n          Γ\n        \n      \n    \n    {\\displaystyle \\textstyle \\Gamma }\n  \n is an arc in the complex plane. Under suitable assumptions on F, the quadrature errors are of order \n  \n    \n      \n        \n          O\n          (\n          \n            e\n            \n              −\n              c\n              \n                \n                  N\n                \n              \n            \n          \n          )\n        \n      \n    \n    {\\displaystyle \\textstyle O(e^{-c{\\sqrt {N}}})}\n  \n, where N is the number of quadrature nodes and c is a constant independent of N."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, mathematical analysis) The act or process of solving an indefinite integral by symbolic means.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) A situation in which the directions of two celestial bodies (or a celestial body and the Sun) form a right-angle from the perspective of the observer.",
+                  "examples": [
+                    "When the Moon is in quadrature, it appears in the sky as a half-moon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The condition in which the phase angle between two alternating quantities is 90°.",
+                  "examples": [
+                    "If νIN has 50% duty-cycle, then the outputs are in quadrature."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(art) A painting painted on a wooden panel.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
