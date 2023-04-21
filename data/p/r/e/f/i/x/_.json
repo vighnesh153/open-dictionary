@@ -1,0 +1,75 @@
+{
+  "word": "prefix",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French prefixer (verb) resp. Late Latin praefixum (noun), both from Latin praefixus, past participle of praefīgō (“I (fix, fasten, set up) in front”, “I fix on the (end, extremity)”) (from prae- (“before”) + fīgō (“I fix”, “I fasten”, “I affix”))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prefix (plural prefixes)",
+          "definitionGroups": [
+            {
+              "group": "Something placed before another",
+              "entries": [
+                {
+                  "meaning": "(grammar, linguistic morphology) A morpheme added to the beginning of a word to modify its meaning, for example as, pre- in prefix, con- in conjure, re- in reheat, etc.",
+                  "examples": [
+                    "Synonyms: (rare) foresyllable, (archaic) prefixum",
+                    "Antonym: suffix",
+                    "Hypernyms: (broad sense) affix, morpheme"
+                  ]
+                },
+                {
+                  "meaning": "(telecommunications) A set of digits placed before a telephone number, to indicate where the number is based, what type of phone number it is (landline, mobile, toll-free, premium rate etc.)",
+                  "examples": [
+                    "in the UK, a number with an 0800 prefix is a toll-free number.",
+                    "Add the prefix +34 to dial a Spanish number from abroad"
+                  ]
+                },
+                {
+                  "meaning": "A title added to a person's name, such as Mr. or Dr.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing) An initial segment of a string of characters.",
+                  "examples": [
+                    "The string \"abra\" is both a prefix and a suffix of the string \"abracadabra\"."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "prefix (third-person singular simple present prefixes, present participle prefixing, simple past and past participle prefixed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To determine beforehand; to set in advance. [from 15thc.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put or fix before, or at the beginning of something; to place at the start. [from 16thc.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
