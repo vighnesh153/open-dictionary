@@ -1,0 +1,129 @@
+{
+  "word": "zombie",
+  "etymologies": [
+    {
+      "description": [
+        "First attested in  1871.\nFrom a Bantu language. Compare Kongo nzambi (“god”), zumbi (“fetish”), and Kimbundu nzumbi (“ghost”) (see Portuguese zumbi), and Caribbean folklore's jumbee (“a spirit or demon”). \nOrigin from  Spanish sombra (“shadow, phantom”) has also been suggested.\nMay have come through Louisiana Creole [Term?]. See also French zombi (1832)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "zombie (plural zombies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(voodoo, fiction) A person, usually undead, animated by unnatural forces (such as magic), with no soul or will of his/her own.",
+                  "examples": [
+                    "Synonyms: ghoul, living dead, walker, walking dead, (slang) zed"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) An apathetic or slow-witted person. [1936]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A human being in a state of extreme mental exhaustion.",
+                  "examples": [
+                    "After working for 18 hours on the computer, I was a zombie."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An information worker who has signed a nondisclosure agreement.",
+                  "examples": [
+                    "Synonym: intellectual prostitute"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A process or task which has terminated but has not been removed from the list of processes, typically because it has an unresponsive parent process.",
+                  "examples": [
+                    "9. The process executed the exit system call and is in the zombie state.  The process no longer exists, but it leaves a record containing an exit code and some timing statistics for its parent process to collect.  The zombie state is the final state of a process."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A computer affected by malware which causes it to do whatever the attacker wants it to do without the user's knowledge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cocktail of rum and fruit juices.",
+                  "examples": [
+                    "The maitre d’ introduced us and I had a zombie with him. Those zombies are wicked.",
+                    "[…]",
+                    "I watched Mario and drank zombies out of a thermos."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, historical, derogatory) A conscripted member of the Canadian military during World War II who was assigned to home defence rather than to combat in Europe.",
+                  "examples": [
+                    "Had the time come to order Canada's home defense draftees—some 70,000 zombies idling at home—to battle overseas?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, slang) Marijuana, or similar drugs.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:marijuana"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) A hypothetical being that is indistinguishable from a normal human being except in that it lacks conscious experience, qualia, or sentience.",
+                  "examples": [
+                    "Synonyms: p-zombie, philosophical zombie"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
