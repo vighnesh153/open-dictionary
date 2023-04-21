@@ -1,0 +1,220 @@
+{
+  "word": "proof",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English proof, from Old French prove, from Late Latin proba (“a proof”), from Latin probare (“to prove”); see prove; compare also the doublet probe."
+      ],
+      "adjectives": [
+        {
+          "description": "proof (comparative more proof, superlative most proof)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Used in proving or testing.",
+                  "examples": [
+                    "a proof load; a proof charge"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Firm or successful in resisting.",
+                  "examples": [
+                    "proof against harm",
+                    "waterproof; bombproof"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of alcoholic liquors) Being of a certain standard as to alcohol content.",
+                  "examples": [
+                    "60% proof liquor"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "proof (countable and uncountable, plural proofs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An effort, process, or operation designed to establish or discover a fact or truth; an act of testing; a test; a trial.",
+                  "examples": [
+                    "But the false Fox most kindly played his part,",
+                    "For whatsoever mother-wit or art",
+                    "Could work he put in proof. No practice sly,",
+                    "No counterpoint of cunning policy,",
+                    "No reach, no breach, that might him profit bring.",
+                    "But he the same did to his purpose wring."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The degree of evidence which convinces the mind of any truth or fact, and produces belief; a test by facts or arguments which induce, or tend to induce, certainty of the judgment; conclusive evidence; demonstration.",
+                  "examples": [
+                    "It was a grand sentence of Emanuel Swedenborg, which would alone indicate the greatness of that man's perception, — \"It is no proof of a man's understanding to be able to confirm whatever he pleases; but to be able to discern that what is true is true, and that what is false is false, this is the mark and character of intelligence.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality or state of having been proved or tried; firmness or hardness which resists impression, or does not yield to force; impenetrability of physical bodies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Experience of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, obsolete) Firmness of mind; stability not to be shaken.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, printing) A proof sheet; a trial impression, as from type, taken for correction or examination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(numismatics) A limited-run high-quality strike of a particular coin, originally as a test run, although nowadays mostly for collectors' sets.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, logic, mathematics) A sequence of statements consisting of axioms, assumptions, statements already demonstrated in another proof, and statements that logically follow from previous statements in the sequence, and which concludes with a statement that is the object of the proof.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) A process for testing the accuracy of an operation performed. Compare prove, transitive verb, 5.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Armour of excellent or tried quality, and deemed impenetrable; properly, armour of proof.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A measure of the alcohol content of liquor. Originally, in Britain, 100 proof was defined as 57.1% by volume (no longer used). In the US, 100 proof means that the alcohol content is 50% of the total volume of the liquid; thus, absolute alcohol would be 200 proof.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "proof (third-person singular simple present proofs, present participle proofing, simple past and past participle proofed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, colloquial) To proofread.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make resistant, especially to water.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, firearms) To test-fire with a load considerably more powerful than the firearm in question's rated maximum chamber pressure, in order to establish the firearm's ability to withstand pressures well in excess of those expected in service without bursting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, cooking) To allow yeast-containing dough to rise.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, cooking) To test the activeness of yeast.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
