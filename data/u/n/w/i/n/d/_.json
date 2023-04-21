@@ -1,0 +1,111 @@
+{
+  "word": "unwind",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English unwinden, from Old English unwindan (“to unwind; unwrap”), from Proto-Germanic *andawindaną (“to unwind”); equivalent to un- +‎ wind (“to coil”). Cognate with Dutch ontwinden (“to unwind”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unwind (plural unwinds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any mechanism or operation that unwinds something.",
+                  "examples": [
+                    "The NEWPC argument specifies the address to which control should be returned after the unwind is complete. If it is omitted, its default is for control to return to the PC saved in the call frame next outermost to the unwound ones."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unwind (third-person singular simple present unwinds, present participle unwinding, simple past and past participle unwound)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To separate (something that is wound up)",
+                  "examples": [
+                    "to unwind a ball of yarn",
+                    "Could you unwind about a foot of ribbon so I can finish the package?",
+                    "Synonyms: untwist, untwine"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To disentangle",
+                  "examples": [
+                    "[…] but being not so skilful as in every point to unwind themselves where the snares of glossing speech do lie to entangle them, […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, colloquial) To relax; to chill out; to rest and become relieved of stress",
+                  "examples": [
+                    "After work, I like to unwind by smoking a pipe while reading the paper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be or become unwound; to be capable of being unwound or untwisted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, finance) To close out a position, especially a complicated position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, finance) To undo something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To analyse (a call stack) so as to generate a stack trace etc.",
+                  "examples": [
+                    "If the expression is a throw, we unwind the stack seeking a handler expression."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
