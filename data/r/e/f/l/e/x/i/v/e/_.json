@@ -1,0 +1,96 @@
+{
+  "word": "reflexive",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin reflexīvus, from Latin reflexus."
+      ],
+      "adjectives": [
+        {
+          "description": "reflexive (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Referring back to the subject, or having an object equal to the subject.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a relation R on a set S, such that xRx for all members x of S (that is, the relation holds between any element of the set and itself).",
+                  "examples": [
+                    "\"Equals\" is a reflexive relation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or resulting from a reflex.",
+                  "examples": [
+                    "The electric shock elicited an automatic and reflexive response from him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Producing immediate response, spontaneous.",
+                  "examples": [
+                    "a reflexive dislike"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Synonym of reflective",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reflexive (plural reflexives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A reflexive pronoun.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A reflexive verb.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
