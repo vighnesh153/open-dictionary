@@ -1,0 +1,32 @@
+{
+  "word": "unaddress",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ address"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unaddress (third-person singular simple present unaddresses, present participle unaddressing, simple past and past participle unaddressed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To delete or forget the address of some entity.",
+                  "examples": [
+                    "The computer unaddresses the DVM as a listener, and remains a talker."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
