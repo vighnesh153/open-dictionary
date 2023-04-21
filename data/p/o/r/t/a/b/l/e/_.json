@@ -1,0 +1,100 @@
+{
+  "word": "portable",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French portable, or from Latin portabilis."
+      ],
+      "adjectives": [
+        {
+          "description": "portable (comparative more portable, superlative most portable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be carried or easily moved.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be transferred from one organization to another.",
+                  "examples": [
+                    "a portable pension plan"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of software: able to be run on multiple hardware or operating systems.",
+                  "examples": [
+                    "How do Java and C# create cross-platform, portable programs, and why can't C++ do the same?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of a program: able to be copied directly from one machine to another without the use of an installer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "portable (plural portables)",
+          "definitionGroups": [
+            {
+              "group": "A portable building used for temporary purposes, particularly:",
+              "entries": [
+                {
+                  "meaning": "Clipping of portable toilet.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A trailer or other movable structure used for classes at a school.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Clipping of portable computer.",
+                  "examples": [
+                    "A few portables, particularly the small laphelds, go one step further and come with software built into the computer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) A hand-held video gaming device.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
