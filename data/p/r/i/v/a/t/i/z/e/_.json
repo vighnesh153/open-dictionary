@@ -1,0 +1,50 @@
+{
+  "word": "privatize",
+  "etymologies": [
+    {
+      "description": [
+        "private +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "privatize (third-person singular simple present privatizes, present participle privatizing, simple past and past participle privatized) (American spelling, Oxford British English)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(economics) To release government control (of a business or industry) to private industry.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To render (a variable, etc.) private in scope.",
+                  "examples": [
+                    "If the compiler allocates a privatized variable to a register, it must examine whether the variable is live after the termination of the while-loop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, uncommon) To render a thought or an idea, private in scope.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
