@@ -1,0 +1,60 @@
+{
+  "word": "viewport",
+  "etymologies": [
+    {
+      "description": [
+        "view +‎ port"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "viewport (plural viewports)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A viewing window.",
+                  "examples": [
+                    "acrylic plastic viewports in pressure vessels for human occupancy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A typically rectangular region representing the range or area currently visible (within a window, screen, etc.).",
+                  "examples": [
+                    "Dragging the scroll-bar changes which part of the picture is visible within the viewport."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "viewport (third-person singular simple present viewports, present participle viewporting, simple past and past participle viewported)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer graphics) To clip (an image or region) so that it fits in a viewport.",
+                  "examples": [
+                    "Some general ideas on clipping, viewporting, and windowing can be found in Rogers and Adams."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
