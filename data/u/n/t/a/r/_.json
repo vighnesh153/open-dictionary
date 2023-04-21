@@ -1,0 +1,32 @@
+{
+  "word": "untar",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ tar"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "untar (third-person singular simple present untars, present participle untaring or untarring, simple past and past participle untared or untarred)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To extract from a tar archive.",
+                  "examples": [
+                    "I untarred (and ungzipped) that file using the following command:  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
