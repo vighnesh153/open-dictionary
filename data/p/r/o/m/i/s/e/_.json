@@ -1,0 +1,104 @@
+{
+  "word": "promise",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English promis, promisse, borrowed from Old French promesse, from Medieval Latin prōmissa, Latin prōmissum (“a promise”), feminine and neuter of promissus, past participle of prōmittō (“I send or put forth, let go forward, say beforehand, promise”), from pro (“forth”) + mittere (“to send”); see mission. Compare admit, commit, permit, etc. Displaced native Old English ġehātan (“to promise”) and ġehāt (“a promise”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "promise (countable and uncountable, plural promises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) an oath or affirmation; a vow",
+                  "examples": [
+                    "if I make a promise, I always stick to it;  he broke his promise"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A transaction between two persons whereby the first person undertakes in the future to render some service or gift to the second person or devotes something valuable now and here to his use.",
+                  "examples": [
+                    "He purſued Andrew Houſtoun upon his promiſe, to give him the like Sallary for the next year, and in abſence obtained him to be holden as confeſt and Decerned."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Reason to expect improvement or success; potential.",
+                  "examples": [
+                    "My native country was full of youthful promise."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, computing, programming) A placeholder object representing the eventual result of an asynchronous operation.",
+                  "examples": [
+                    "Synonyms: delay, deferred, (imprecise) future"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, obsolete) bestowal or fulfillment of what is promised",
+                  "examples": [
+                    "He  […]  commanded them that they should not depart from Jerusalem, but wait for the promise of the Father."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "promise (third-person singular simple present promises, present participle promising, simple past and past participle promised)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To commit to (some action or outcome), or to assure (a person) of such commitment; to make an oath or vow.",
+                  "examples": [
+                    "\"You think that I'll take anything.\"\"I know you will, sweet.\" [...]\"There wasn't going to be any of that. You promised there wouldn't be.\"\"Well, there is now,\" she said sweetly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To give grounds for expectation, especially of something good.",
+                  "examples": [
+                    "The clouds promise rain."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
