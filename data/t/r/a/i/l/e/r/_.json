@@ -1,0 +1,139 @@
+{
+  "word": "trailer",
+  "etymologies": [
+    {
+      "description": [
+        "From trail +‎ -er. The film sense derives from the fact that previews were formerly shown after the main feature, rather than before as is usual today."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trailer (plural trailers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who or something that trails.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Part of an object which extends some distance beyond the main body of the object.",
+                  "examples": [
+                    "Synonyms: appendage, attachment, appendix, extension, extrusion",
+                    "the trailer of a plant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An unpowered wheeled vehicle, not a caravan or camper, that is towed behind another, and used to carry equipment, etc, that cannot be carried in the leading vehicle.",
+                  "examples": [
+                    "At the end of the day, we put the snowmobiles back on the trailer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A furnished vehicle towed behind another, and used as a dwelling when stationary; a caravan; a camper.",
+                  "examples": [
+                    "We drove our trailer to Yellowstone Park.",
+                    "Synonyms: (US) camper, camper van, (UK) caravan, motor home"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A prefabricated home that could be towed to a new destination but is typically permanently left in an area designated for such homes.",
+                  "examples": [
+                    "The young couple′s first home was in a trailer.",
+                    "Synonym: mobile home"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly US, media) A preview of a film, video game or TV show.",
+                  "examples": [
+                    "The trailer for that movie makes it seem like it would be fun.",
+                    "Synonyms: preview, teaser"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A short blank segment of film at the end of a reel, for convenient insertion of the film in a projector.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The final record of a list of data items, often identified by a key field with an otherwise invalid value that sorts last alphabetically (e.g., “ZZZZZ”) or numerically (“99999”); especially common in the context of punched cards, where the final card is called a trailer card.",
+                  "examples": [
+                    "The linked list terminates with a trailer record.",
+                    "Synonym: sentinel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) The last part of a packet, often containing a check sequence.",
+                  "examples": [
+                    "The encapsulation layer adds an eight-byte header and a two-byte trailer to each packet.",
+                    "Antonym: header"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "trailer (third-person singular simple present trailers, present participle trailering, simple past and past participle trailered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To load on a trailer or to transport by trailer.",
+                  "examples": [
+                    "The engine wouldn't run any more so we had to trailer my old car to the wrecking yard."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
