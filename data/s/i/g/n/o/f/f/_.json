@@ -1,0 +1,50 @@
+{
+  "word": "signoff",
+  "etymologies": [
+    {
+      "description": [
+        "sign +‎ off, from the phrasal verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "signoff (plural signoffs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or process of signing off (approving with a signature).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process of exiting a computer system; logoff.",
+                  "examples": [
+                    "Another problem stems from the fact that many different things can cause a user signoff. ln most cases, it is the issuance of the $SIGNOFF command, but there are other circumstances after which the system will force a user off  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bridge) A bid indicating that one's partner should pass.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
