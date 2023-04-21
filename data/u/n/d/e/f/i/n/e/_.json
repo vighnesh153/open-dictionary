@@ -1,0 +1,39 @@
+{
+  "word": "undefine",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ define"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "undefine (third-person singular simple present undefines, present participle undefining, simple past and past participle undefined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make indefinite; to obliterate or confuse the definition or limitations of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To remove the definition of; to return to an undefined state.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

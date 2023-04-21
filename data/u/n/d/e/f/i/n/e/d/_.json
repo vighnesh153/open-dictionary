@@ -1,0 +1,41 @@
+{
+  "word": "undefined",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ defined"
+      ],
+      "adjectives": [
+        {
+          "description": "undefined (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lacking a definition or value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) That does not have a meaning and is thus not assigned an interpretation.",
+                  "examples": [
+                    "The result of division by zero is undefined."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
