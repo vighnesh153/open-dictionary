@@ -1,0 +1,156 @@
+{
+  "word": "thread",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English thred, þred, threed, from Old English þrǣd, from Proto-Germanic *þrēduz, from Proto-Indo-European *treh₁-tu-s, from *terh₁- (“rub, twist”). Cognate with Saterland Frisian Träid (“thread, wire”), West Frisian tried, Dutch draad, German Draht, Norwegian, Danish and Swedish tråd, and Icelandic þráður. Non-Germanic cognates include Albanian dredh (“twist, turn”). More at throw."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "thread (plural threads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A long, thin and flexible form of material, generally with a round cross-section, used in sewing, weaving or in the construction of string.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A continued theme or idea.",
+                  "examples": [
+                    "Synonym: topic",
+                    "All of these essays have a common thread.",
+                    "I’ve lost the thread of what you’re saying."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) A screw thread.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sequence of connections.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The line midway between the banks of a stream.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A unit of execution, lighter in weight than a process, usually sharing memory and other resources with other threads executing concurrently.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A series of messages, generally grouped by subject, in which all messages except the first are replies to previous messages in the thread.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A filament, as of a flower, or of any fibrous substance, as of bark.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Composition; quality; fineness.",
+                  "examples": [
+                    "A neat courtier, / Of a most elegant thread."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "thread (third-person singular simple present threads, present participle threading, simple past threaded or (archaic) thrid, past participle threaded or (archaic) thridden)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put thread through.",
+                  "examples": [
+                    "thread a needle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pass (through a narrow constriction or around a series of obstacles).",
+                  "examples": [
+                    "I think I can thread my way through here, but it’s going to be tight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To screw on; to fit the threads of a nut on a bolt.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove the hair using a thread.",
+                  "examples": [
+                    "How to thread your eyebrows and trim them"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
