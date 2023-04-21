@@ -1,0 +1,47 @@
+{
+  "word": "retrain",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ train"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "retrain (plural retrains)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of training again.",
+                  "examples": [
+                    "This adds a bit of complexity as it means that our solution should not retrain for every request coming in but be able to determine whether a retrain is worth it for a given request or whether the model is already up to date."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "retrain (third-person singular simple present retrains, present participle retraining, simple past and past participle retrained)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To train again; especially, to train or study in a new subject or job",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
