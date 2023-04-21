@@ -1,0 +1,354 @@
+{
+  "word": "token",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English token, taken, from Old English tācn (“sign”), from Proto-West Germanic *taikn, from Proto-Germanic *taikną, from Proto-Indo-European *deyḱ- (“to show, instruct, teach”) with Germanic *k rather than *h by Kluge's law.",
+        "The verb is from Middle English toknen, from Old English tācnian. Cognate with German Zeichen."
+      ],
+      "adjectives": [
+        {
+          "description": "token (comparative more token, superlative most token)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Done as an indication or a pledge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Perfunctory or merely symbolic; done or existing for appearance's sake, or to minimally comply with a requirement.",
+                  "examples": [
+                    "a token gesture",
+                    "He made a token tap on the brake pedal at the stop sign."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of people) Included in minimal numbers in order to create an impression or illusion of diversity, especially ethnic or gender diversity.",
+                  "examples": [
+                    "He was hired as the company's token black person.",
+                    "The television show was primarily directed toward a black audience, but it did have a few token white people as performers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "token (plural tokens)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something serving as an expression of something else.",
+                  "examples": [
+                    "Synonyms: sign, symbol",
+                    "According to the Bible, the rainbow is a token of God's covenant with Noah."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A keepsake.",
+                  "examples": [
+                    "Synonyms: memento, souvenir",
+                    "Please accept this bustier as a token of our time together."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of stamped metal or plastic, etc., used as a substitute for money; a voucher that can be exchanged for goods or services.",
+                  "examples": [
+                    "Subway tokens are being replaced by magnetic cards.",
+                    "A book token is the easiest option for a Christmas gift."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small physical object, often designed to give the appearance of a common thing, used to represent a person or character in a board game or other situation.",
+                  "examples": [
+                    "Everyone pick a token (hat, wheelbarrow, thimble, etc.) and place it on the Start square."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A minor attempt for appearance's sake, or to minimally comply with a requirement.",
+              "entries": [
+                {
+                  "meaning": "A member of a group of people that is included within a larger group to comply with a legal or social requirement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, sometimes figurative) Evidence, proof; a confirming detail; physical trace, mark, footprint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Support for a belief; grounds for an opinion.",
+                  "examples": [
+                    "Synonyms: reason, reasoning"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An extraordinary event serving as evidence of supernatural power.",
+                  "examples": [
+                    "Synonym: miracle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object or disclosure to attest or authenticate the bearer or an instruction.",
+                  "examples": [
+                    "Synonym: password"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A seal guaranteeing the quality of an item.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something given or shown as a symbol or guarantee of authority or right; a sign of authenticity, of power, good faith.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tally.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) A particular thing to which a concept applies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An atomic piece of data, such as a word, for which a meaning may be inferred during parsing.",
+                  "examples": [
+                    "Synonym: symbol",
+                    "Coordinate term: placeholder"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A conceptual object that can be possessed by a computer, process, etc. in order to regulate a turn-taking system such as a token ring network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A meaningless placeholder used as a substitute for sensitive data.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A lexeme; a basic, grammatically indivisible unit of a language such as a keyword, operator or identifier.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(corpus linguistics) A single example of a certain word in a text or corpus.",
+                  "examples": [
+                    "However, note the token ontology, ranked the 15th most frequent token in our ontology corpus, occurs 1940 times out of 336,311 tokens, but ontology only occurs 52 times in the BNC – the ratio of two relative frequencies is 10895."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A characteristic sign of a disease or of a bodily disorder, a symptom; a sign of a bodily condition, recovery, or health.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, obsolete) A livid spot upon the body, indicating, or supposed to indicate, the approach of death.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) Ten and a half quires, or, commonly, 250 sheets, of paper printed on both sides; also, in some cases, the same number of sheets printed on one side, or half the number printed on both sides.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) A bit of leather having a peculiar mark designating a particular miner. Each hewer sent one of these with each corf or tub he had hewn.",
+                  "examples": [
+                    "But the coal-owner refuses to pay for a corf or tub simply on the ground that it contains too little weight, or that it contains “softs” instead of all “hards,”—a refusal technically known by its symbol as “hanging the motties,\" or by a bolder metaphor as “hanging the hutches,”—the “motties,” or tokens peculliar to the collier who sends up the corf. being hung up, if satisfactory, on the proper “motty-board peg,” if not so, on the “death-board peg;” and it is asserted that “at some collieries as many as 60 or 70 each day, worth to the collier from 6d. to 8. each, are taken from them in this manner.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) A thin bed of coal indicating the existence of a thicker seam at no great distance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) A physical object used for exchange between drivers and signalmen on single track lines.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(weaving) In a loom, a colored signal to show the weaver which shuttle to use.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Church of Scotland) A piece of metal given beforehand to each person in the congregation who is permitted to partake of the Lord's Supper.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "token (third-person singular simple present tokens, present participle tokening, simple past and past participle tokened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To betoken, indicate, portend, designate, denote",
+                  "examples": [
+                    "dorrẹ̅, dōrī adj. & n.  […]  Golden or reddish-yellow  […]  (a. 1398) *Trev. Barth. 59b/a: ʒelouʒ colour [of urine]  […]  tokeneþ febleness of hete  […]  dorrey & citrine & liʒt red tokeneþ mene."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To betroth",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) To symbolize, instantiate",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
