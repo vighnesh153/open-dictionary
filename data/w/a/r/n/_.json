@@ -1,0 +1,85 @@
+{
+  "word": "warn",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English warnen, warnien (“to warn; admonish”), from Old English warnian (“to take heed; warn”), from Proto-Germanic *warnōną (“to warn; take heed”), from Proto-Indo-European *wer- (“to be aware; give heed”). Cognate with Dutch waarnen (obsolete), German Low German warnen, German warnen, Swedish varna, Icelandic varna."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "warn (third-person singular simple present warns, present participle warning, simple past and past participle warned)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To make (someone) aware of (something impending); especially:",
+              "entries": [
+                {
+                  "meaning": "(transitive) To make (someone) aware of impending danger, evil, etc. [from 11th c.]",
+                  "examples": [
+                    "We waved a flag to warn the oncoming traffic about the accident.",
+                    "I phoned to warn him of the road closure."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To notify or inform (someone, about something). [from at least the 13th c.]",
+                  "examples": [
+                    "I warned him he'd be getting a huge box of birthday presents from me."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To summon (someone) to or inform of a formal meeting or duty.",
+                  "examples": [
+                    "The sheriff warned her to appear in court."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, intransitive, of a clock, possibly obsolete) To make a sound (e.g. clicking or whirring) indicating that it is about to strike or chime (an hour).",
+                  "examples": [
+                    "Hark! the clock is warning ten;"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To caution or admonish (someone) against unwise or unacceptable behaviour. [from 11th c.]",
+                  "examples": [
+                    "He was warned against crossing the railway tracks at night.",
+                    "Don't let me catch you running in the corridor again, I warn you."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly with \"off\", \"away\", and similar words) To advise or order to go or stay away.",
+                  "examples": [
+                    "A sign warns trespassers off/away from the site."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To give warning.",
+                  "examples": [
+                    "She is his deepest innocence in spaces of bough and hay before wishes were given a different name to warn that they might not come true [...]."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
