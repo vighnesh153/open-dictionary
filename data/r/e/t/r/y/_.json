@@ -1,0 +1,59 @@
+{
+  "word": "retry",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ try"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "retry (plural retries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Another attempt.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "retry (third-person singular simple present retries, present participle retrying, simple past and past participle retried)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To try or attempt again.",
+                  "examples": [
+                    "to retry connecting to the Internet after an error"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To try judicially a second time.",
+                  "examples": [
+                    "to retry a case",
+                    "to retry an accused person"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
