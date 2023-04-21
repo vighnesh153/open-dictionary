@@ -1,0 +1,50 @@
+{
+  "word": "unbind",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English unbinden, from Old English unbindan, onbindan (“to unbind; untie”), from Proto-West Germanic *andabindan, from Proto-Germanic *andabindaną, equivalent to un- +‎ bind. Cognate with Dutch ontbinden, German entbinden, Gothic 𐌰𐌽𐌳𐌱𐌹𐌽𐌳𐌰𐌽 (andbindan)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unbind (third-person singular simple present unbinds, present participle unbinding, simple past unbound, past participle unbound or (rare) unbounden)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take bindings off.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figuratively) To set free from a debt, contract or promise.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To disable some kind of connection in software, such as a key binding.",
+                  "examples": [
+                    "Unbinds the specified key from a command"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
