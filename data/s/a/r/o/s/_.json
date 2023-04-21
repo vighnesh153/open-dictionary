@@ -1,0 +1,42 @@
+{
+  "word": "saros",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek σάρος (sáros), from Akkadian 𒊹 (šar2 /šār/, “3600, total, many, a great quantity or measure”).",
+        "The modern astronomical usage is attributed to Edmond Halley, who based it on the word σάρος, defined in the Suda as \"a measure and a number among Chaldeans. For 120 saroi make 2222 years according to the Chaldeans' reckoning, if indeed the saros makes 222 lunar months, which are 18 years and 6 months.\""
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "saros (plural saroses or saroi)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(history, Babylon) A quantity of 3600, such as a period of 3600 years.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) A period of 223 synodic months (approximately 18 years 11 days 8 hours), after which the relative positions of the earth, sun and moon recur, used to predict eclipses.",
+                  "examples": [
+                    "Suidas’ system (the lunar system) is as follows: reckoning a round 30 days per lunar month, 1 saros ... = 222 lunar months ... rather than 3600 years, as in the solar system, the neros ... being one sixth of that ... instead of 600 years, as in the solar system, and the sossos ... one tenth of a neros ... instead of 60 years"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
