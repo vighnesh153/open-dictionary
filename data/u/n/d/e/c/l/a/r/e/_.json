@@ -1,0 +1,39 @@
+{
+  "word": "undeclare",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ declare"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "undeclare (third-person singular simple present undeclares, present participle undeclaring, simple past and past participle undeclared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reverse the process of declaring; to unsay.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To revoke the declaration of (a variable, namespace, etc.) so that it is no longer available.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
