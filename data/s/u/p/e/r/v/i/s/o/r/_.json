@@ -1,0 +1,59 @@
+{
+  "word": "supervisor",
+  "etymologies": [
+    {
+      "description": [
+        "Attested since the 15th century C.E.; from Middle English supervisor, supervisour, supervysor, supervysour, from Latin supervīsor, from supervideō, in turn from super + videō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "supervisor (plural supervisors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(management) A person with the official task of overseeing the work of a person or group, or of other operations and activities.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who monitors someone to make sure they comply with rules or other requirements set for them.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) In certain states, an elected member of the governing body for a county which is called the board of supervisors.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A process responsible for managing other processes.",
+                  "examples": [
+                    "The clock burst which enables the supervisor to housekeep the console input and output and to change program status is currently set to 200 ms."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
