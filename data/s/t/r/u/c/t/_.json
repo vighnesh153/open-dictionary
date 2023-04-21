@@ -1,0 +1,30 @@
+{
+  "word": "struct",
+  "etymologies": [
+    {
+      "description": [
+        "Abbreviation of structure, used as a keyword in the C programming language and its descendants."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "struct (plural structs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A data structure, especially one that serves to group a number of fields (in contrast to an object-oriented class with methods)  or one that is passed by value rather than by reference.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
