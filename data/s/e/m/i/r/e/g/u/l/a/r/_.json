@@ -1,0 +1,52 @@
+{
+  "word": "semiregular",
+  "etymologies": [
+    {
+      "description": [
+        "semi- +‎ regular"
+      ],
+      "adjectives": [
+        {
+          "description": "semiregular (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Somewhat regular; occasional.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology, of a topological space) Whose regular open sets form a base.",
+                  "examples": [
+                    "A space is semiregular iff the regularly open sets (3D) form a base for the topology. […] Every space X can be embedded in a semiregular space."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, of a polyhedron or tessellation of the plane) Uniform (isogonal and isotoxal) with regular faces of two or more types, such that each vertex is surrounded by the same polygons in the same order.",
+                  "examples": [
+                    "It will be seen below that this semiregular polyhedron is of importance in its relationship to periodic minimal surfaces serving as a conceptual reference."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
