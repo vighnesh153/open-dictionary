@@ -1,0 +1,117 @@
+{
+  "word": "premise",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English premise, premisse, from Old French premisse, from Medieval Latin premissa (“set before”) (premissa propositio (“the proposition set before”)), feminine past participle of Latin praemittere (“to send or put before”), from prae- (“before”) + mittere (“to send”).",
+        "The sense \"a piece of real estate\" arose from the misinterpretation of the word by property owners while reading title deeds where the word was used with the legal sense."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "premise (plural premises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A proposition antecedently supposed or proved; something previously stated or assumed as the basis of further argument; a condition; a supposition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Any of the first propositions of a syllogism, from which the conclusion is deduced.",
+                  "examples": [
+                    "While the premises stand firm, 'tis impossible to shake the conclusion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually in the plural, law) Matters previously stated or set forth; especially, that part in the beginning of a deed, the office of which is to express the grantor and grantee, and the land or thing granted or conveyed, and all that precedes the habendum; the thing demised or granted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually in the plural) A piece of real estate; a building and its adjuncts.",
+                  "examples": [
+                    "trespass on another’s premises"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(authorship) The fundamental concept that drives the plot of a film or other story.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "premise (third-person singular simple present premises, present participle premising, simple past and past participle premised)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To state or assume something as a proposition to an argument.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a premise.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To set forth beforehand, or as introductory to the main subject; to offer previously, as something to explain or aid in understanding what follows.",
+                  "examples": [
+                    "I premise these particulars that the reader may know that I enter upon it as a very ungrateful task."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To send before the time, or beforehand; hence, to cause to be before something else; to employ previously.",
+                  "examples": [
+                    "if venesection can be previously performed, even to but few ounces, the effect of the opium is much more certain; and still more so, if there be time to premise a brisk cathartic, or even an emetic"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
