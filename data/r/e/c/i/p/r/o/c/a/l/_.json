@@ -1,0 +1,100 @@
+{
+  "word": "reciprocal",
+  "etymologies": [
+    {
+      "description": [
+        "Latin reciprocus, possibly from a phrase such as reque proque (“back and forth, to and fro”), from re- (“back”), prō (“forwards”) and -que (“and”)."
+      ],
+      "adjectives": [
+        {
+          "description": "reciprocal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a feeling, action or such: mutual, uniformly felt or done by each party towards the other or others; two-way.",
+                  "examples": [
+                    "reciprocal love; reciprocal duties"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Mutually interchangeable.",
+                  "examples": [
+                    "These two rules will render a definition reciprocal with the thing defined."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Expressing mutual action, applied to pronouns and verbs; also in a broad sense: reflexive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Used to denote different kinds of mutual relation; often with reference to the substitution of reciprocals for given quantities.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Done, given, felt, or owed in return",
+                  "examples": [
+                    "a reciprocal invitation to lunch"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reciprocal (plural reciprocals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) The number obtained by dividing 1 by another given number; the result of exchanging the numerator and the denominator of a fraction.",
+                  "examples": [
+                    "0.5 is the reciprocal of 2."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A construction expressing mutual action.",
+                  "examples": [
+                    "Depending on where reciprocalization applies (syntax vs. lexicon), the relevant reciprocal verbs are claimed to exhibit specific properties, in particular: (i) syntactic reciprocals are fully productive whereas lexical reciprocals have only limited productivity;  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
