@@ -1,0 +1,74 @@
+{
+  "word": "satisfy",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English satisfyen, satisfien, from Old French satisfiier, satisfier (also Old French satisfaire), from Latin satisfacere, present active infinitive of satisfaciō, from satis (“enough, sufficient”) + faciō (“I make, I do”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "satisfy (third-person singular simple present satisfies, present participle satisfying, simple past and past participle satisfied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To do enough for; to meet the needs of; to fulfill the wishes or requirements of.",
+                  "examples": [
+                    "I’m not satisfied with the quality of the food here."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause (a sentence) to be true when the sentence is interpreted in one's universe.",
+                  "examples": [
+                    "The complex numbers satisfy \n  \n    \n      \n        ∃\n        x\n        :\n        \n          x\n          \n            2\n          \n        \n        +\n        1\n        =\n        0\n      \n    \n    {\\displaystyle \\exists x:x^{2}+1=0}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated, literary, transitive) To convince by ascertaining; to free from doubt.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pay to the extent of what is claimed or due.",
+                  "examples": [
+                    "to satisfy a creditor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To answer or discharge (a claim, debt, legal demand, etc.); to give compensation for.",
+                  "examples": [
+                    "to satisfy a claim or an execution"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
