@@ -1,0 +1,43 @@
+{
+  "word": "unbrick",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ brick"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unbrick (third-person singular simple present unbricks, present participle unbricking, simple past and past participle unbricked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reopen something bricked up.",
+                  "examples": [
+                    "The skylight, although it had been bricked up by someone’s hysterical order, at that time in the past when a man had penetrated the attic-floor of the club to visit a girl, was not beyond being unbricked by the firemen. It was all a question of time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang, computing) To repair a device that was bricked (rendered inoperative).",
+                  "examples": [
+                    "Using JTAG to Unbrick Your Router"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
