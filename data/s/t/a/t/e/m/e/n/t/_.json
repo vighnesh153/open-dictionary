@@ -1,0 +1,90 @@
+{
+  "word": "statement",
+  "etymologies": [
+    {
+      "description": [
+        "From state +‎ -ment."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "statement (plural statements)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A declaration or remark.",
+                  "examples": [
+                    "make a statement",
+                    "publish a statement",
+                    "utter a statement"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A presentation of opinion or position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A document that summarizes financial activity.",
+                  "examples": [
+                    "a bank statement"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An instruction in a computer program, especially one that returns no value, as opposed to a function call.",
+                  "examples": [
+                    "However, it is the responsibility of the programmer to ensure that the control ultimately reaches the last statement of the range."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Back-formation from statementing or back-formation from statemented."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "statement (third-person singular simple present statements, present participle statementing, simple past and past participle statemented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To provide an official document of a proposition, especially in the UK a Statement of Special Educational Needs.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
