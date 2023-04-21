@@ -1,0 +1,67 @@
+{
+  "word": "recuse",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Middle English recusen, from Old French recuser (modern French récuser (“to challenge; to impugn; (formal) to make an objection; (law) to recuse”), and from its etymon Latin recūsāre, the present active infinitive of recūsō (“to decline, refuse, reject; (law) to object to, protest”), from re- (prefix meaning ‘again’, denoting opposition or reversal) + causa (“cause, reason; (law) case, claim; etc.”) + -ō (suffix forming regular first-conjugation verbs). Doublet of rouse and possibly ruse."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "recuse (third-person singular simple present recuses, present participle recusing, simple past and past participle recused)",
+          "definitionGroups": [
+            {
+              "group": "(transitive, often reflexive)",
+              "entries": [
+                {
+                  "meaning": "To reject or repudiate (an authority, a person, a court judgment, etc.).",
+                  "examples": [
+                    "The judge recused herself from that case, citing a possible conflict of interest as one of the parties was a personal friend."
+                  ]
+                },
+                {
+                  "meaning": "(reflexive, law) Of a judge, juror, or prosecutor: to declare (oneself) unable to participate in a court case due to an actual or potential conflict of interest or lack of impartiality.",
+                  "examples": [
+                    "The judge recused herself from that case, citing a possible conflict of interest as one of the parties was a personal friend."
+                  ]
+                },
+                {
+                  "meaning": "(chiefly Canada, US, law) To object to (a judge, juror, or prosecutor) participating in a court case due to an actual or potential conflict of interest or lack of impartiality.",
+                  "examples": [
+                    "Synonym: (Philippines) inhibit"
+                  ]
+                },
+                {
+                  "meaning": "(obsolete)",
+                  "examples": []
+                },
+                {
+                  "meaning": "To refuse (to do something).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(rare) To dismiss (an appeal).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, law) Of a judge, juror, or prosecutor: to declare oneself disqualified from trying a court case due to an actual or potential conflict of interest or lack of impartiality.",
+                  "examples": [
+                    "The district attorney recused from the case because he used to work for the company which was the defendant."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
