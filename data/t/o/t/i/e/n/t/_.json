@@ -1,0 +1,30 @@
+{
+  "word": "totient",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin totiēns (“so many times, so often”). Coined by English mathematician James Joseph Sylvester in 1879."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "totient (plural totients)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The number of positive integers not greater than a specified integer that are relatively prime to it.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
