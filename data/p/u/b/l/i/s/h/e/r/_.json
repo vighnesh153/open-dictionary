@@ -1,0 +1,41 @@
+{
+  "word": "publisher",
+  "etymologies": [
+    {
+      "description": [
+        "publish +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "publisher (plural publishers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who publishes, especially books.",
+                  "examples": [
+                    "All a publisher has to do is write cheques at intervals, while a lot of deserving and industrious chappies rally round and do the real work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A system or component that allows other components (subscribers) to receive notifications of something, such as an event.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

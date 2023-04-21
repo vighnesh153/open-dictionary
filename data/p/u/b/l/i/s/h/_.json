@@ -1,0 +1,109 @@
+{
+  "word": "publish",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English publicen (by analogy with banish, finish), from Old French publier, from Latin publicare (“to make public, show or tell to the people, make known, declare, also (and earlier) confiscate for public use”), from publicus (“pertaining to the people, public”); see public."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "publish (third-person singular simple present publishes, present participle publishing, simple past and past participle published)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To issue (something, such as printed work) for distribution and/or sale.",
+                  "examples": [
+                    "The Times published the investigative piece about the governor both in print and online.",
+                    "Most of the sketches Faulkner published in 1925 appeared in the Sunday magazine section of the New Orleans Times-Picayune.",
+                    "The State combined public information strategies and published billboards, pamphlets, and newsletter articles under the campaign theme, Give 'Em the Boot."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To announce to the public.",
+                  "examples": [
+                    "The Secretary of Health and Human Services published a press release on May 22, 2013.",
+                    "The Bolshevik government published an announcement of the tsar's death.",
+                    "No newspaper published the victim's name."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To issue the work of (an author).",
+                  "examples": [
+                    "Grove Press published many avant-garde authors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, transitive) To disseminate (a message) publicly via a newsgroup, forum, blog, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To issue a medium (e.g. publication).",
+                  "examples": [
+                    "Major city papers still publish daily."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To have one's work accepted for a publication.",
+                  "examples": [
+                    "She needs to publish in order to get tenure."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of content) To be made available in a printed publication or other medium.",
+                  "examples": [
+                    "The article first published online, then in print the next day."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To make (information such as an event) available to components that wish to be notified (subscribers).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
