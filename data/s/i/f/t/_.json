@@ -1,0 +1,63 @@
+{
+  "word": "sift",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English syften, from Old English siftan, from Proto-West Germanic *siftijan."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sift (third-person singular simple present sifts, present participle sifting, simple past and past participle sifted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To sieve or strain (something).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To separate or scatter (things) as if by sieving.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To examine (something) carefully.",
+              "entries": [
+                {
+                  "meaning": "[+object] (archaic or old-fashioned) To scrutinise (someone or something) carefully so as to find the truth.",
+                  "examples": [
+                    "It immediately occurred to him to sift her on the subject of Isabella and Theodore."
+                  ]
+                },
+                {
+                  "meaning": "[+ through (object)] To carefully go through a set of objects, or a collection of information, in order to find something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, dated) To move data records up in memory to make space to insert further records.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
