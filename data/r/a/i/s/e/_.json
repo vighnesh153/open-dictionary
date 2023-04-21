@@ -1,0 +1,260 @@
+{
+  "word": "raise",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English reysen, raisen, reisen, from Old Norse reisa (“to raise”), from Proto-Germanic *raisijaną, *raizijaną (“to raise”), causative form of Proto-Germanic *rīsaną (“to rise”), from Proto-Indo-European *h₁rey- (“to rise, arise”).",
+        "Cognate with Old English rāsian (“to explore, examine, research”), Old English rīsan (“to seize, carry off”), Old English rǣran (“to raise”). Doublet of rear."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "raise (plural raises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) Ellipsis of pay raise.: an increase in wages or salary.",
+                  "examples": [
+                    "The boss gave me a raise."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(weightlifting) A shoulder exercise in which the arms are elevated against resistance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(curling) A shot in which the delivered stone bumps another stone forward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) A bet that increases the previous bet.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "raise (third-person singular simple present raises, present participle raising, simple past and past participle raised)",
+          "definitionGroups": [
+            {
+              "group": "(physical) To cause to rise; to lift or elevate.",
+              "entries": [
+                {
+                  "meaning": "To form by the accumulation of materials or constituent parts; to build up; to erect.",
+                  "examples": [
+                    "to raise a wall, or a heap of stones"
+                  ]
+                },
+                {
+                  "meaning": "To cause something to come to the surface of water.",
+                  "examples": [
+                    "The ship was raised ten years after it had sunk."
+                  ]
+                },
+                {
+                  "meaning": "(nautical) To cause (the land or any other object) to seem higher by drawing nearer to it.",
+                  "examples": [
+                    "to raise Sandy Hook light"
+                  ]
+                },
+                {
+                  "meaning": "To make (bread, etc.) light, as by yeast or leaven.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figurative) To cause (a dead person) to live again; to resurrect.",
+                  "examples": [
+                    "The magic spell raised the dead from their graves!"
+                  ]
+                },
+                {
+                  "meaning": "(military) To remove or break up (a blockade), either by withdrawing the ships or forces employed in enforcing it, or by driving them away or dispersing them.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(military, transitive) To relinquish (a siege), or cause this to be done.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(transitive) To create, increase or develop.",
+              "entries": [
+                {
+                  "meaning": "To collect or amass.",
+                  "examples": [
+                    "to raise a lot of money for charity; to raise troops"
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) To call up the forces of, to raise the troops from.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To bring up; to grow.",
+                  "examples": [
+                    "We visited a farm where they raise chickens.",
+                    "Chew with your mouth shut — were you raised in a barn?"
+                  ]
+                },
+                {
+                  "meaning": "To promote.",
+                  "examples": [
+                    "to raise somebody to office"
+                  ]
+                },
+                {
+                  "meaning": "To mention (a question, issue) for discussion.",
+                  "examples": [
+                    "A few important questions were raised after the attack."
+                  ]
+                },
+                {
+                  "meaning": "(law) To create; to constitute (a use, or a beneficial interest in property).",
+                  "examples": [
+                    "There should be some consideration (i.e., payment or exchange) to raise a use."
+                  ]
+                },
+                {
+                  "meaning": "To bring into being; to produce; to cause to arise, come forth, or appear.",
+                  "examples": [
+                    "Starting in January we will raise (introduce) taxes on all tobacco substitutes and vaping accessories."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To establish contact with (e.g., by telephone or radio).",
+                  "examples": [
+                    "Despite all the call congestion, she was eventually able to raise the police."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker, intransitive) To respond to a bet by increasing the amount required to continue in the hand.",
+                  "examples": [
+                    "John bet, and Julie raised, requiring John to put in more money."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) To exponentiate, to involute.",
+                  "examples": [
+                    "Two raised to the fifth power equals 32."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, transitive, of a verb) To extract (a subject or other verb argument) out of an inner clause.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, transitive, of a vowel) To produce a vowel with the tongue positioned closer to the roof of the mouth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To increase the nominal value of (a cheque, money order, etc.) by fraudulently changing the writing or printing in which the sum payable is specified.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To instantiate and transmit (an exception, by throwing it, or an event).",
+                  "examples": [
+                    "A division by zero will raise an exception."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(India, transitive) To open, initiate.",
+                  "examples": [
+                    "I will raise a trouble-ticket in order to correct this reporting issue."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Borrowed from Old Norse hreysi; the spelling came about under the influence of the folk etymology that derived it from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "raise (plural raises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cairn or pile of stones.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
