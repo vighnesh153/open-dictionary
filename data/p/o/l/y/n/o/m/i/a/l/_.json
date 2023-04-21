@@ -1,0 +1,63 @@
+{
+  "word": "polynomial",
+  "etymologies": [
+    {
+      "description": [
+        "poly- +‎ -nomial, from νομός (nomós, “portion, part”), by analogy with binomial."
+      ],
+      "adjectives": [
+        {
+          "description": "polynomial (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) Able to be described or limited by a polynomial.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) of a polynomial name or entity",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "polynomial (plural polynomials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, strict sense) An expression consisting of a sum of a finite number of terms, each term being the product of a constant coefficient and one or more variables raised to a non-negative integer power, such as \n  \n    \n      \n        \n          a\n          \n            n\n          \n        \n        \n          x\n          \n            n\n          \n        \n        +\n        \n          a\n          \n            n\n            −\n            1\n          \n        \n        \n          x\n          \n            n\n            −\n            1\n          \n        \n        +\n        .\n        .\n        .\n        +\n        \n          a\n          \n            0\n          \n        \n        \n          x\n          \n            0\n          \n        \n      \n    \n    {\\displaystyle a_{n}x^{n}+a_{n-1}x^{n-1}+...+a_{0}x^{0}}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) A taxonomic designation (such as of a subspecies) consisting of more than two terms.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
