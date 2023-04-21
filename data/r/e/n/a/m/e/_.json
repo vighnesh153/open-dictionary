@@ -1,0 +1,49 @@
+{
+  "word": "rename",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ name"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rename (plural renames)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of renaming.",
+                  "examples": [
+                    "warning: detected divergent renames of foo to:",
+                    "bar",
+                    "quux"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "rename (third-person singular simple present renames, present participle renaming, simple past and past participle renamed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give a new name to.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
