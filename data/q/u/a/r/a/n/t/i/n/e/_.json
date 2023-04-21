@@ -1,0 +1,170 @@
+{
+  "word": "quarantine",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin quarentena and quarentīna (“40-day period, Lent”) via Middle English quarentine, Norman quarenteine, French quarenteine, and Italian quarantina, via proposed Late Latin *quaranta + -ēna (“forming distributive adjectives”), from Latin quadrāgintā (“four tens, 40”). Doublet of carene and quadragene.",
+        "In reference to French politics, a calque of French quarantaine after edicts of Louis IX and  quarantaine du Roi after a 1704 edict by Louis XIV. In reference to a severance of political relations, originally and chiefly an American euphemism for \"blockade\" necessary to keep the action from becoming an act of war under international law, chiefly popularized by the Roosevelt administration's 1937 approach to the Axis powers and the Kennedy administration's 1962 approach to Cuba during the missile crisis there."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quarantine (plural quarantines)",
+          "definitionGroups": [
+            {
+              "group": "A period of 40 days, particularly",
+              "entries": [
+                {
+                  "meaning": "(historical law) The 40-day period during which a widow is entitled to remain in her deceased husband's home while any dower is collected and returned.",
+                  "examples": [
+                    "Querentyne is where a man dyeth seisyd of a maner place and other landis where of the wyfe ought to be indowed, than the woman shall hold the maner place by .xl. days within which tyme her dower shalbe to her assyned."
+                  ]
+                },
+                {
+                  "meaning": "(historical) The 40-day period of isolation required after 1448 at Venice's lazaret to avoid renewed outbreaks of the bubonic plague and identical policies in other locations.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(historical) A 40-day period formerly imposed by the French king upon warring nobles during which they were forbidden from exacting revenge or continuing to fight.",
+                  "examples": [
+                    "Quarantain of the King, is a Truce of forty Days appointed by S. Louis; during which it was expressly forbid to take any Revenge of the Relation or Friends of People."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A period, instance, or state of isolation from the general public or from native livestock and flora enacted to prevent the spread of any contagious disease.",
+                  "examples": [
+                    "From Toulon... Our Gallyes which were upon the point of finishing their Quarantaine, and entering into this Port, have been hindred from it by th'arrival of three others that were out a roaming."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A similar period, instance, or state of rigidly enforced or self-enforced detention or isolation.",
+                  "examples": [
+                    "Now treating Sandwich seems the fittest choiceFor Spain, there to condole and to rejoyce:He meets the French, but to avoid all harms,Slips into Groine, Embassies bears no Arms.There let him languish a long Quarrentine,And ne're to England come, till he be clean."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A place where such isolation is enforced, a lazaret.",
+                  "examples": [
+                    "They bring wood, millet, rye, barley, and a little wheat to the quarantine to barter with the Cossaks for salt."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(politics, figurative) A blockade of trade, suspension of diplomatic relations, or other action whereby one country seeks to isolate another.",
+                  "examples": [
+                    "When a great power establishes diplomatic quarantine against them it is well not to go too far on a course on which they appear to be embarking with a light heart."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, figurative) An isolation of one program, drive, computer, etc. from the rest of a computer network to limit the damage from a bug, computer virus, etc..",
+                  "examples": [
+                    "Also included is Canary, a ‘quarantine’ program for use as a sample to test for a virus by pairing it with new or suspect programs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, figurative) The program, drive, computer, etc. thus isolated.",
+                  "examples": [
+                    "If they click on the link then they're added to your approved senders list and their message is moved to your inbox; if they don't, the message stays in quarantine."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "quarantine (third-person singular simple present quarantines, present participle quarantining, simple past and past participle quarantined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place into isolation to prevent the spread of any contagious disease.",
+                  "examples": [
+                    "We... sent our boat on board a French man of war lying in the bay, with a letter for our consul; captain Murray not wishing to have any communication with the shore, for fear of being quarantined at the next port he went to."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, transitive) Synonym of isolate more generally.",
+                  "examples": [
+                    "...where I should be detained, Quarantined, smoaked & vinegard..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, transitive) Synonym of restrict.",
+                  "examples": [
+                    "Did any moral taint hang about me that quarantined my entrance into its circle?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To impose a quarantine, to establish quarantine regulations.",
+                  "examples": [
+                    "It has just been announced that Norfolk, Va., and Holly Springs, Miss., have quarantined against Memphis."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To enter or stay in quarantine, particularly to self-quarantine to avoid an epidemic disease.",
+                  "examples": [
+                    "The Mauretania... is expected to ‘quarantine’ at New York at 10 a.m. tomorrow."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
