@@ -1,0 +1,69 @@
+{
+  "word": "submeter",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ meter"
+      ],
+      "adjectives": [
+        {
+          "description": "submeter (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "On a scale based on units smaller than meters.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "submeter (plural submeters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A utility meter, especially for electricity, that allows for the monitoring of usage on a portion of a distribution network, especially not owned by a utility, past a main meter.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "submeter (third-person singular simple present submeters, present participle submetering, simple past and past participle submetered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To install a submeter for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To charge for electricity usage measured by a submeter.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
