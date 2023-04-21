@@ -1,0 +1,52 @@
+{
+  "word": "recursion",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin recursiō (“the act of running back or again, return”), from recurrō (“run back; return”), from re- (“back, again”) + currō (“run”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "recursion (countable and uncountable, plural recursions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of recurring.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The act of defining an object (usually a function) in terms of that object itself.",
+                  "examples": [
+                    "n! = n × (n − 1)! (for n > 0) or 1 (for n = 0) defines the factorial function using recursion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The invocation of a procedure from within itself.",
+                  "examples": [
+                    "This function uses recursion to compute factorials."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

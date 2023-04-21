@@ -1,0 +1,68 @@
+{
+  "word": "recursive",
+  "etymologies": [
+    {
+      "description": [
+        "Taken from the stem of Latin recursus. Equivalent to recurs +‎ -ive"
+      ],
+      "adjectives": [
+        {
+          "description": "recursive (comparative more recursive, superlative most recursive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "drawing upon itself, referring back.",
+                  "examples": [
+                    "The recursive nature of stories which borrow from each other"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, not comparable) of an expression, each term of which is determined by applying a formula to preceding terms",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, not comparable) of a program or function that calls itself",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory, not comparable, of a function) which can be computed by a theoretical model of a computer, in a finite amount of time",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory, not comparable, of a set) whose characteristic function is recursive (4)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
