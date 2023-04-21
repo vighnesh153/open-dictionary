@@ -1,0 +1,108 @@
+{
+  "word": "solidus",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English solidus, from classical Latin solidus (“solid”), see below.",
+        "In numismatic and weight senses, via medieval Latin solidus (“various coins”), from  Late Latin solidus (“a gold coin of the Roman Empire”). In chemical sense, via German Solidus, coined by H.W.B. Roozeboom in his 1899 Zeitschrift für Physikalische Chemie, Stöchiometrie, und Verwandtschaftslehre (XXX, page 387).",
+        "In typography, from the shilling mark originally being an abbreviation (a long s ⟨ſ⟩), of Medieval Latin solidus meaning shilling."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "solidus (plural solidi or soliduses)",
+          "definitionGroups": [
+            {
+              "group": "(historical) Various medieval and early modern coins or units of account, particularly:",
+              "entries": [
+                {
+                  "meaning": "A Roman ~23k gold coin introduced by Diocletian in AD 301 and called by that name, but reissued at a slightly lower weight by Constantine I.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Its successor Byzantine coins, from the eleventh century onward of progressively debased weight and purity.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) Synonym of sol or sou: a Carolingian unit of account equivalent to a solidus of silver.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) Synonym of soldo: the silver coins of various Italian states.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) Synonym of shilling: an English unit of account and, following the Tudor dynasty, silver coin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) The weight of the Roman gold coin, 1/60 of a Roman pound under Diocletian or 1/72 lb. (about 4.5 grams) after Constantine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A medieval French weight, 1/20 of the Carolingian pound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) Synonym of slash ⟨/⟩, originally (UK) in its use as the shilling mark and now its formal designation by the ISO and Unicode.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) The formal name of the oblique strikethrough overlay (as in A̷ and B̸) in Unicode.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) The division line between the numerator and the denominator of a fraction, whether horizontal or oblique.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, physics) The line in a phase diagram marking the temperatures and pressures below which a given substance is a stable solid.",
+                  "examples": [
+                    "Coordinate terms: liquidus, solvus"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
