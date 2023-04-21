@@ -1,0 +1,30 @@
+{
+  "word": "preinitialize",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ initialize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "preinitialize (third-person singular simple present preinitializes, present participle preinitializing, simple past and past participle preinitialized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To preprepare (a data structure, etc.) so that it is ready to be initialized.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
