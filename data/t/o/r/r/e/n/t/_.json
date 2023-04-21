@@ -1,0 +1,103 @@
+{
+  "word": "torrent",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French torrent, from Italian torrente, from Latin torrentem, accusative of torrēns (“burning, seething, roaring”), from Latin torrēre (“to parch, scorch”)."
+      ],
+      "adjectives": [
+        {
+          "description": "torrent (comparative more torrent, superlative most torrent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Rolling or rushing in a rapid stream.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "torrent (plural torrents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A violent flow, as of water, lava, etc.; a stream suddenly raised and running rapidly, as down a precipice.",
+                  "examples": [
+                    "Rain fell on the hills in torrents.",
+                    "A torrent of green and white water broke over the hull of the sail-boat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A large amount or stream of something.",
+                  "examples": [
+                    "They endured a torrent of inquiries."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From BitTorrent and the file extension it uses for metadata (.torrent); ultimately from etymology 1."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "torrent (plural torrents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, file sharing) A set of files obtainable through a peer-to-peer network, especially BitTorrent.",
+                  "examples": [
+                    "I got a torrent of the complete works of Shakespeare the other day; I'm not sure why."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "torrent (third-person singular simple present torrents, present participle torrenting, simple past and past participle torrented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet slang, transitive) To download in a torrent.",
+                  "examples": [
+                    "The video rental place didn't have the film I was after, but I managed to torrent it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
