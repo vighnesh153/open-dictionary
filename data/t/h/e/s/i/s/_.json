@@ -1,0 +1,63 @@
+{
+  "word": "thesis",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Middle English thesis (“lowering of the voice”) and also borrowed directly from its etymon Latin thesis (“proposition, thesis; lowering of the voice”), from Ancient Greek θέσῐς (thésis, “arrangement, placement, setting; conclusion, position, thesis; lowering of the voice”), from τῐ́θημῐ (títhēmi, “to place, put, set; to put down in writing; to consider as, regard”) (ultimately from Proto-Indo-European *dʰeh₁- (“to do; to place, put”)) + -σῐς (-sis, suffix forming abstract nouns or nouns of action, process, or result). The English word is a doublet of deed.",
+        "Sense 1.1 (“proposition or statement supported by arguments”) is adopted from antithesis. Sense 1.4 (“initial stage of reasoning”) was first used by the German philosopher Johann Gottlieb Fichte (1762–1814), and later applied to the dialectical method of his countryman, the philosopher Georg Wilhelm Friedrich Hegel (1770–1831).",
+        "The plural form theses is borrowed from Latin thesēs, from Ancient Greek θέσεις (théseis)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "thesis (plural theses)",
+          "definitionGroups": [
+            {
+              "group": "Senses relating to logic, rhetoric, etc.",
+              "entries": [
+                {
+                  "meaning": "(rhetoric) A proposition or statement supported by arguments.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(by extension) A lengthy essay written to establish the validity of a thesis (sense 1.1), especially one submitted in order to complete the requirements for a non-doctoral degree in the US and a doctoral degree in the UK; a dissertation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(mathematics, computer science) A conjecture, especially one too vague to be formally stated or verified but useful as a working convention.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(logic) An affirmation, or distinction from a supposition or hypothesis.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(philosophy) In the dialectical method of Georg Wilhelm Friedrich Hegel: the initial stage of reasoning where a formal statement of a point is developed; this is followed by antithesis and synthesis.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Senses relating to music and prosody.",
+              "entries": [
+                {
+                  "meaning": "(music, prosody, originally) The action of lowering the hand or bringing down the foot when indicating a rhythm; hence, an accented part of a measure of music or verse indicated by this action; an ictus, a stress.",
+                  "examples": [
+                    "Antonym: arsis"
+                  ]
+                },
+                {
+                  "meaning": "(music, prosody, with a reversal of meaning) A depression of the voice when pronouncing a syllables of a word; hence, the unstressed part of the metrical foot of a verse upon which such a depression falls, or an unaccented musical note.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
