@@ -1,0 +1,32 @@
+{
+  "word": "unshuffle",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ shuffle"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unshuffle (third-person singular simple present unshuffles, present participle unshuffling, simple past and past participle unshuffled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To restore to order from a shuffled state.",
+                  "examples": [
+                    "In encryption, theoretically only the user or program authorized to retrieve the data knows how to unshuffle the ciphertext and compile the data in its original sequence."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
