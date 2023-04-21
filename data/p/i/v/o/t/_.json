@@ -1,0 +1,159 @@
+{
+  "word": "pivot",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French pivot, from Old French pivot (“hinge pin, pivot, penis”) (12 c.), of unknown origin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pivot (plural pivots)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A thing on which something turns; specifically a metal pointed pin or short shaft in machinery, such as the end of an axle or spindle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively, by extension) Something or someone having a paramount significance in a certain situation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Act of turning on one foot.",
+                  "examples": [
+                    "Sandy Weill was the man who stitched Citigroup together in the 1990s and in the process helped bury the Glass-Steagall act, a Depression-era law separating retail and investment banking. Last month he performed a perfect pivot: he now wants regulators to undo his previous work."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) The officer or soldier who simply turns in his place while the company or line moves around him in wheeling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(roller derby) A player with responsibility for co-ordinating their team in a particular jam.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An element of a set to be sorted that is chosen as a midpoint, so as to divide the other elements into two groups to be dealt with recursively.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A pivot table.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) Any of a row of captioned elements used to navigate to subpages, rather like tabs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An element of a matrix that is used as a focus for row operations, such as dividing the row by the pivot, or adding multiples of the row to other rows making all other values in the pivot column 0.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canadian football) A quarterback.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(handball) A circle runner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, politics) A shift during a general election in a political candidate's messaging to reflect plans and values more moderate than those advocated during the primary.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pivot (third-person singular simple present pivots, present participle pivoting, simple past and past participle pivoted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To turn on an exact spot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To make a sudden or swift change in strategy, policy, etc.",
+              "entries": [
+                {
+                  "meaning": "(business slang) To change the direction of a business, usually in response to changes in the market.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(US, politics) To shift a political candidate's messaging during a general election to reflect plans and values more moderate than those advocated during the primary.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
