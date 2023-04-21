@@ -1,0 +1,44 @@
+{
+  "word": "trait",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French trait (“line, feature”), from Latin tractus (“drawing, pulling”), from Latin trahō, ultimately from Proto-Indo-European *tregʰ- (“to drag, pull?”), perhaps a variation of *dʰregʰ- (“to pull, draw, drag”). Doublet of tract."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trait (plural traits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, psychology) An identifying characteristic, habit or trend.",
+                  "examples": [
+                    "Synonym: characteristic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) An uninstantiable collection of methods that provides functionality to a class by using the class’s own interface.",
+                  "examples": [
+                    "Coordinate terms: mixin, interface, class",
+                    "Traits are somewhat between an interface and a mixin."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
