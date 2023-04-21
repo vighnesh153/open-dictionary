@@ -1,0 +1,43 @@
+{
+  "word": "stellify",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stellifien (“to make into a star; glorify, deify”), from Middle French stellifier, from Medieval Latin stellificāre, itself from Latin stella (“star”) + faciō (“make, do”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stellify (third-person singular simple present stellifies, present participle stellifying, simple past and past participle stellified)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mythology) To transform from an earthly body into a celestial body; to place in the sky as such",
+                  "examples": [
+                    "In Classical mythology, being stellified was about the greatest posthumous honor for a mortal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, astronomy) To turn into a star.",
+                  "examples": [
+                    "An alternative way to stellify the planet may be to not collapse Jupiter, but instead to introduce a collapsed object into its core."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
