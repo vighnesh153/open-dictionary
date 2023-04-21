@@ -1,0 +1,190 @@
+{
+  "word": "scope",
+  "etymologies": [
+    {
+      "description": [
+        "From Italian scopo (“purpose”), from Latin scopus (“target”), from Ancient Greek σκοπός (skopós), from σκέπτομαι (sképtomai), from Proto-Indo-European *speḱ-. Etymologically related to skeptic and spectrum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scope (countable and uncountable, plural scopes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The breadth, depth or reach of a subject; a domain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(weaponry) A device used in aiming a projectile, through which the person aiming looks at the intended target.",
+                  "examples": [
+                    "Synonym: telescopic sight"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Opportunity; broad range; degree of freedom.",
+                  "examples": [
+                    "It is also true that the vast majority of teachers are highly skilled and experienced professionals who are already doing an excellent job in the classroom, thus leaving relatively little scope for improvement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The region of program source code in which a given identifier is meaningful, or a given object can be accessed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The shortest sub-wff of which a given instance of a logical connective is a part.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The region of an utterance to which some modifying element applies.",
+                  "examples": [
+                    "the scope of an adverb"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A periscope, telescope, microscope or oscilloscope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, colloquial) Any medical procedure that ends in the suffix -scopy, such as endoscopy, colonoscopy, bronchoscopy, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "scope (third-person singular simple present scopes, present participle scoping, simple past and past participle scoped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, transitive) To perform a cursory investigation of; scope out.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, colloquial) To perform any medical procedure that ends in the suffix -scopy, such as endoscopy, colonoscopy, bronchoscopy, etc.",
+                  "examples": [
+                    "The surgeon will scope the football player's knee to repair damage to a ligament."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To define the scope of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To limit (an object or variable) to a certain region of program source code.",
+                  "examples": [
+                    "If we locally scope the user's login name, it won't be accessible from outside this function."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) To examine under a microscope.",
+                  "examples": [
+                    "The entomologist explained that he could not tell what species of springtail we were looking at without scoping it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(birdwatching, informal) To observe a bird using a spotting scope.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Latin scopa"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scope (plural scopes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A bundle, as of twigs.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
