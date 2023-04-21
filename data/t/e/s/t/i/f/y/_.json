@@ -1,0 +1,43 @@
+{
+  "word": "testify",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English testifien, borrowed from Old French testifier, from Latin testificārī, present active infinitive of testificor (“I bear witness”), from testis (“a witness”) + facere (“to make”). See -fy."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "testify (third-person singular simple present testifies, present participle testifying, simple past and past participle testified) (transitive, intransitive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a declaration, or give evidence, under oath.",
+                  "examples": [
+                    "It was only after a decade away from Skipton that I was finally able to garner the courage to return and testify against my abuser."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a statement based on personal knowledge or faith.",
+                  "examples": [
+                    "We speak that we do know, and testify that we have seen; and ye receive not our witness."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
