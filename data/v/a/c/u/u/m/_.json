@@ -1,0 +1,119 @@
+{
+  "word": "vacuum",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin vacuum (“an empty space, void”), noun use of neuter of vacuus (“empty”), related to vacare (“be empty”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vacuum (plural vacuums or (rare, formal) vacua)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A region of space that contains no matter.",
+                  "examples": [
+                    "Synonyms: vacancy, void",
+                    "Antonym: plenum"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial, only pluralized as \"vacuums\") A vacuum cleaner.",
+                  "examples": [
+                    "Synonym: (British) hoover"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The condition of rarefaction, or reduction of pressure below that of the atmosphere, in a vessel, such as the condenser of a steam engine, which is nearly exhausted of air or steam, etc.",
+                  "examples": [
+                    "a vacuum of 26 inches of mercury, or 13 pounds per square inch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A spacetime having tensors of zero magnitude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An emptiness in life created by a loss of a person who was close, or of an occupation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An exercise in which one draws their abdomen towards the spine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "vacuum (third-person singular simple present vacuums, present participle vacuuming, simple past and past participle vacuumed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To clean (something) with a vacuum cleaner.",
+                  "examples": [
+                    "Synonym: (British) hoover"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To use a vacuum cleaner.",
+                  "examples": [
+                    "Synonyms: (British) to do the hoovering, (British) to hoover"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, databases) To optimise a database or database table by physically removing deleted tuples.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
