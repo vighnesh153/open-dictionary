@@ -1,0 +1,75 @@
+{
+  "word": "widen",
+  "etymologies": [
+    {
+      "description": [
+        "From wide +‎ -en (verbal suffix)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "widen (third-person singular simple present widens, present participle widening, simple past and past participle widened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become wide or wider.",
+                  "examples": [
+                    "His eyes widened as her negligee fell to the floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make wide or wider.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To let out clothes to a larger size.",
+                  "examples": [
+                    "She widened his trousers for him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To broaden or extend in scope or range.",
+                  "examples": [
+                    "The police widened their enquiries."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To convert to a data type that can hold a larger number of distinct values.",
+                  "examples": [
+                    "Antonym: narrow",
+                    "to widen a short variable to an int variable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
