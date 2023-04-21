@@ -1,0 +1,230 @@
+{
+  "word": "sugar",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English sugre, sucre, from Middle French sucre, from Old French çucre (circa 13th century), from Old Italian zúccharo or more likely Old Catalan sucre, either way from Arabic سُكَّر‎ (sukkar), from Persian شکر‎ (šakar), from Middle Persian [script needed] (škl), 𐫢𐫞𐫡‎ (šqr /šakar/), from Sanskrit शर्करा (śárkarā, “ground or candied sugar\", originally \"grit, gravel”).  Akin to Ancient Greek κρόκη (krókē, “pebble”). Doublet of jaggery and sucro-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sugar (countable and uncountable, plural sugars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Sucrose in the form of small crystals, obtained from sugar cane or sugar beet and used to sweeten food and drink.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A specific variety of sugar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, chemistry) Any of various small carbohydrates that are used by organisms to store energy.",
+                  "examples": [
+                    "Hypernyms: see Thesaurus:carbohydrate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A small serving of this substance (typically about one teaspoon), used to sweeten a drink.",
+                  "examples": [
+                    "He usually has his coffee white with one sugar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A term of endearment.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:sweetheart",
+                    "I'll be with you in a moment, sugar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, slang) Affection shown by kisses or kissing.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:buss"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly southern US, slang, uncountable) Effeminacy in a male, often implying homosexuality.",
+                  "examples": [
+                    "I think John has a little bit of sugar in him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, informal) Diabetes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Anything resembling sugar in taste or appearance, especially in chemistry.",
+                  "examples": [
+                    "Sugar of lead (lead acetate) is a poisonous white crystalline substance with a sweet taste."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Compliment or flattery used to disguise or render acceptable something obnoxious; honeyed or soothing words.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang, uncountable) Heroin.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:heroin"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang, uncountable, dated) Money.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Syntactic sugar.",
+                  "examples": [
+                    "However, this bookkeeping is much less local syntax and sugar."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sugar (third-person singular simple present sugars, present participle sugaring, simple past and past participle sugared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To add sugar to; to sweeten with sugar.",
+                  "examples": [
+                    "John heavily sugars his coffee."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make (something unpleasant) seem less so.",
+                  "examples": [
+                    "She has a gift for sugaring what would otherwise be harsh words."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, Canada, regional) In making maple sugar, to complete the process of boiling down the syrup till it is thick enough to crystallize; to approach or reach the state of granulation; with the preposition off.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(entomology) To apply sugar to trees or plants in order to catch moths.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To rewrite (source code) using syntactic sugar.",
+                  "examples": [
+                    "You can sugar the syntax of constants thus:  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To compliment (a person).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To remove hair using a paste of sugar, water, and lemon juice.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
