@@ -1,0 +1,50 @@
+{
+  "word": "starlike",
+  "etymologies": [
+    {
+      "description": [
+        "star +‎ -like"
+      ],
+      "adjectives": [
+        {
+          "description": "starlike (comparative more starlike, superlative most starlike)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Resembling a star, especially in shape.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Resembling or characteristic of a celebrity or leading actor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Convex; having the property that any line segment joining any mapped point to a specified point in the domain lies entirely in the domain.",
+                  "examples": [
+                    "the growth theorem for holomorphic starlike mappings"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
