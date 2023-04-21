@@ -1,0 +1,68 @@
+{
+  "word": "tensor",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from New Latin tensor (“that which stretches”), equivalent to tense +‎ -or. Anatomical sense from 1704.\nIntroduced in the 1840s by William Rowan Hamilton as an algebraic quantity unrelated to the modern notion of tensor.\nThe contemporary mathematical meaning was introduced (as German Tensor) by Woldemar Voigt (1898) and adopted in English from 1915 (in the context of general relativity), obscuring the earlier Hamiltonian sense. The mathematical object is so named because an early application of tensors was the study of materials stretching under tension. (See, for example,  Cauchy stress tensor on  Wikipedia.Wikipedia )"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tensor (plural tensors or (muscle) tensores)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) A muscle that tightens or stretches a part, or renders it tense. [from 17th c.]",
+                  "examples": [
+                    "Hyponyms: tensor fasciae latae, tensor tympani, tensor veli palatini"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra, physics) A mathematical object that describes linear relations on scalars, vectors, matrices and other algebraic objects, and is represented as a multidimensional array. [from 18th c.]",
+                  "examples": [
+                    "Hypernym: function",
+                    "Hyponyms: duotensor, eigentensor, Faraday tensor, hypertensor, metric tensor, pseudotensor, subtensor, supertensor, vector, Weyl tensor, zero tensor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, obsolete) A norm operation on the quaternion algebra.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tensor (third-person singular simple present tensors, present participle tensoring, simple past and past participle tensored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To compute the tensor product of two tensors.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
