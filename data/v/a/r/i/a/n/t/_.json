@@ -1,0 +1,102 @@
+{
+  "word": "variant",
+  "etymologies": [
+    {
+      "description": [
+        "Recorded since c.1380, from Old French variant, from Latin variāns, the present active participle of variō (“to change”)."
+      ],
+      "adjectives": [
+        {
+          "description": "variant (comparative more variant, superlative most variant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Showing variety, diverse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Showing deviation or disagreement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Variable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Covariant and/or contravariant.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "variant (plural variants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that is slightly different from a type or norm.",
+                  "examples": [
+                    "All breeds of dog are variants of the species “Canis lupus familiaris”.",
+                    "The word \"kerosine\" is a variant of “kerosene”."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) A different sequence of a gene (locus).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A variable that can hold any of various unrelated data types.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, lexicography) One of a set of words or other linguistic forms that conveys the same meaning or serves the same function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
