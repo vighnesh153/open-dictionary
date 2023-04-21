@@ -1,0 +1,61 @@
+{
+  "word": "redundant",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin redundans, present participle of redundare (“to overflow, redound”), from red- (“again, back”) + undo (“I surge, flood”), from unda (“a wave”)."
+      ],
+      "adjectives": [
+        {
+          "description": "redundant (comparative more redundant, superlative most redundant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Superfluous; exceeding what is necessary, no longer needed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of words, writing, etc) Repetitive or needlessly wordy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Britain, New Zealand, Australia) Dismissed from employment because no longer needed.",
+                  "examples": [
+                    "Four employees were made redundant."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Duplicating or able to duplicate the function of another component of a system, providing backup in the event the other component fails.",
+                  "examples": [
+                    "The two lines are mainly used for redundant and therefore fault-tolerant message transmission, but they can also transmit different messages."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
