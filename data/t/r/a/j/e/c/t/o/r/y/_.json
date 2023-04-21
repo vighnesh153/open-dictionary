@@ -1,0 +1,59 @@
+{
+  "word": "trajectory",
+  "etymologies": [
+    {
+      "description": [
+        "From New Latin trāiectōrium, from trāiectōrius (“of or pertaining to throwing across”), from Latin trāiectus (“thrown over or across”), past participle of trāiciō, from trans- (“across, beyond”) (see trans-) + iaciō (“to throw”) (from Proto-Indo-European *(H)yeh₁- (“to throw, impel”)). Middle French and Middle English had trajectorie (“end of a funnel”), from Latin trāiectōrium."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trajectory (plural trajectories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The path an object takes as it moves.",
+                  "examples": [
+                    "The USA were dominant but, to England’s immense credit, they repeatedly rallied, refusing to fold. Indeed they could conceivably have gone in level at the interval had Naeher not made an acrobatic, stretching, fingertip save to divert Walsh’s 25-yard thunderbolt as it whizzed unerringly on its apparently inexorable trajectory towards the top corner."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy, space science) The path of a body as it travels through space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cybernetics) The ordered set of intermediate states assumed by a dynamical system as a result of time evolution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A course of development, such as that of a war or career.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
