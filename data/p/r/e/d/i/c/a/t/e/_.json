@@ -1,0 +1,151 @@
+{
+  "word": "predicate",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French predicat (French prédicat), from post-classical Late Latin praedicātum (“thing said of a subject”), a noun use of the neuter past participle of praedicō (“I proclaim”), as Etymology 2, below."
+      ],
+      "adjectives": [
+        {
+          "description": "predicate (comparative more predicate, superlative most predicate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Of or related to the predicate of a sentence or clause.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Predicated, stated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) Relating to or being any of a series of criminal acts upon which prosecution for racketeering may be predicated.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "predicate (plural predicates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) The part of the sentence (or clause) which states a property that a subject has or is characterized by.",
+                  "examples": [
+                    "Coordinate terms: adjunct, attribute"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A term of a statement, where the statement may be true or false depending on whether the thing referred to by the values of the statement's variables has the property signified by that (predicative) term.",
+                  "examples": [
+                    "A propositional variable may be treated as a nullary predicate.",
+                    "A predicate is either valid, satisfiable, or unsatisfiable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An operator or function that returns either true or false.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Latin praedicātus, perfect passive participle of praedicō (“publish, declare, proclaim”), from prae + dicō (“proclaim, dedicate”), related to dīcō (“say, tell”). Doublet of preach."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "predicate (third-person singular simple present predicates, present participle predicating, simple past and past participle predicated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To announce, assert, or proclaim publicly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To assume or suppose; to infer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, originally US) to base (on); to assert on the grounds of.",
+                  "examples": [
+                    "The law is what constitutes both desire and the lack on which it is predicated."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, grammar) To make a term (or expression) the predicate of a statement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, logic) To assert or state as an attribute or quality of something.",
+                  "examples": [
+                    "This quality becomes real as a mental concept when it is predicated of all the objects possessing it (“quod de pluribus natum est praedicari”)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
