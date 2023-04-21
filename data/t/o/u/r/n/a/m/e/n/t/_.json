@@ -1,0 +1,48 @@
+{
+  "word": "tournament",
+  "etymologies": [
+    {
+      "description": [
+        "Old French tornoiement (Modern French tournoiement) from the verb tornoier."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tournament (plural tournaments)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) During the Middle Ages, a series of battles and other contests designed to prepare knights for war.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of games; either the same game played many times, or a succession of games related by a single theme; played competitively to determine a single winning team or individual.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A digraph obtained by assigning a direction to each edge in an undirected complete graph.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
