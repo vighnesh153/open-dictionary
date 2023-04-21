@@ -1,0 +1,41 @@
+{
+  "word": "untrace",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ trace"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "untrace (third-person singular simple present untraces, present participle untracing, simple past and past participle untraced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove from the traces; to unharness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, transitive) To remove a trace from.",
+                  "examples": [
+                    "It is important to untrace a function before modifying its definition, since some tools may not be smart enough to realize that the version of reScale on the session frame is only for debugging!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
