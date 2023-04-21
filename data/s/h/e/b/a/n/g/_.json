@@ -1,0 +1,91 @@
+{
+  "word": "shebang",
+  "etymologies": [
+    {
+      "description": [
+        "Unknown. First attested in  1862 with the meaning “temporary shelter”. The modern sense of “matter of concern” is from 1869; “vehicle” is from 1871–2.",
+        "In the sense of “temporary shelter”, it was perhaps brought by US Civil War Confederate enlistees from Louisiana, from French chabane (“hut, cabin”), a dialectal form of French cabane (“a covered hut, lodge, cabin”) (see cabin, cabana). Alternatively, that sense may be from or have been influenced by shebeen (“cabin where unlicensed liquor is sold and drunk”), attested pre-1800, chiefly in Ireland and Scotland, from Irish síbín (“illicit whiskey”), a diminutive of síob (“a drift”).",
+        "The vehicle sense is perhaps from the unrelated French char-à-banc (“bus-like wagon with many seats”). The sense of “matter of concern” is hypothetically from either, or onomatopoeia.",
+        "(The term was not, as is sometimes claimed, commonly used by prisoners at Andersonville in reference to their shelters. According to the US National Park Service, \"While shebang was a term sometimes used to describe prisoner shelters at Andersonville, its usage was probably quite limited. In some 1,200 pages of postwar testimony by prisoners held at Andersonville, the word appears four times, and is virtually absent from most prisoner diaries and contemporary memoirs.\" The terms burrow, dugout, hut, lean-to, shanty, shelter and tent are far more common.)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "shebang (plural shebangs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, US, archaic) A lean-to or temporary shelter.",
+                  "examples": [
+                    "Their shebang enclosures of bushes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, US, archaic) A place or building; a store, saloon, or brothel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Any matter of present concern; thing; or business; most commonly in the phrase \"the whole shebang\".",
+                  "examples": [
+                    "Synonym: jimbang"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, obsolete) A vehicle.",
+                  "examples": [
+                    "[…]  So they got into the empty omnibus and sat down. Colonel Jack says: “...What is the name of this.” Colonel Jim told him it was a barouche. After a while he poked his head out in front and said to the driver, “I say, Johnny, this suits me. We want this shebang all day. Let the horses go.”"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "hash +‎ bang or sharp +‎ bang, after Etymology 1."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "shebang (plural shebangs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The character string \"#!\" used at the beginning of a computer file to indicate which interpreter can process the commands in the file, chiefly used in Unix and related operating systems.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
