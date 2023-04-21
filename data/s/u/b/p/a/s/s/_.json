@@ -1,0 +1,32 @@
+{
+  "word": "subpass",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ pass"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subpass (plural subpasses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Part of a pass or iteration.",
+                  "examples": [
+                    "On the GPU, each subpass requires a SetRenderTarget() call, which incurs a small cost."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
