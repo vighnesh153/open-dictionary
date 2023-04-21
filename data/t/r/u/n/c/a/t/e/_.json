@@ -1,0 +1,72 @@
+{
+  "word": "truncate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin truncātus, perfect passive participle of truncō (“maim, reduce to a trunk”); see trunk as a verb."
+      ],
+      "adjectives": [
+        {
+          "description": "truncate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Truncated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany, anatomy) Having an abrupt termination.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "truncate (third-person singular simple present truncates, present participle truncating, simple past and past participle truncated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To shorten (something) by, or as if by, cutting part of it off.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, transitive) To shorten (a decimal number) by removing trailing (or leading) digits.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) To replace a corner by a plane (or to make a similar change to a crystal).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
