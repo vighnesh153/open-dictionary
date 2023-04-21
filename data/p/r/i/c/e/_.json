@@ -1,0 +1,94 @@
+{
+  "word": "price",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English price (“price, prize, value, excellence”), borrowed from Old French pris, preis, from Latin pretium (“worth, price, money spent, wages, reward”); compare praise, precious, appraise, appreciate, depreciate, etc."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "price (plural prices)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The cost required to gain possession of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The cost of an action or deed.",
+                  "examples": [
+                    "I paid a high price for my folly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Value; estimation; excellence; worth.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "price (third-person singular simple present prices, present participle pricing, simple past and past participle priced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To determine the monetary value of (an item); to put a price on.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To pay the price of; to make reparation for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To set a price on; to value; to prize.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, colloquial, dated) To ask the price of.",
+                  "examples": [
+                    "to price eggs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
