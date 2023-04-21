@@ -1,0 +1,54 @@
+{
+  "word": "unlink",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ link"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unlink (plural unlinks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, knot theory) A link that is equivalent (under ambient isotopy) to finitely many disjoint circles in the plane.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unlink (third-person singular simple present unlinks, present participle unlinking, simple past and past participle unlinked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To decouple; to remove a link from, or separate the links of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, Unix) To delete (a file).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
