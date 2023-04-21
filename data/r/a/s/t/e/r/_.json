@@ -1,0 +1,57 @@
+{
+  "word": "raster",
+  "etymologies": [
+    {
+      "description": [
+        "From German Raster, from Latin rāster, from rāstrum (“rake”, noun), from rādere (“to scrape”, verb)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "raster (plural rasters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A scanning pattern of parallel lines that form the display of an image projected on a cathode-ray tube of a television set or display screen.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A bitmap image, consisting of a grid of pixels, stored as a sequence of lines.",
+                  "examples": [
+                    "Synonyms: bitmap, pixmap",
+                    "Coordinate term: vector"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "raster (third-person singular simple present rasters, present participle rastering, simple past and past participle rastered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To scan in parallel lines.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
