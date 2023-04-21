@@ -1,0 +1,167 @@
+{
+  "word": "trunk",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English tronke, trunke, borrowed from Old French tronc (“alms box, tree trunk, headless body”), from Latin truncus (“a stock, lopped tree trunk”), from truncus (“cut off, maimed, mutilated”). For the verb, compare French tronquer, and see truncate. Doublet of truncus and tronk."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trunk (plural trunks)",
+          "definitionGroups": [
+            {
+              "group": "(heading, biological) Part of a body.",
+              "entries": [
+                {
+                  "meaning": "The usually single, more or less upright part of a tree, between the roots and the branches.",
+                  "examples": [
+                    "Synonym: tree trunk"
+                  ]
+                },
+                {
+                  "meaning": "The torso.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The conspicuously extended, mobile, nose-like organ of an animal such as a sengi, a tapir or especially an elephant. The trunks of various kinds of animals might be adapted to probing and sniffing, as in the sengis, or be partly prehensile, as in the tapir, or be a versatile prehensile organ for manipulation, feeding, drinking and fighting as in the elephant.",
+                  "examples": [
+                    "Synonym: proboscis"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(heading) A container.",
+              "entries": [
+                {
+                  "meaning": "A large suitcase, chest, or similar receptacle for carrying or storing personal possessions, usually with a hinged, often domed lid, and handles at each end, so that generally it takes two persons to carry a full trunk.",
+                  "examples": [
+                    "Hyponym: footlocker"
+                  ]
+                },
+                {
+                  "meaning": "A box or chest usually covered with leather, metal, or cloth, or sometimes made of leather, hide, or metal, for holding or transporting clothes or other goods.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Canada, US, automotive) The luggage storage compartment of a sedan/saloon-style car.",
+                  "examples": [
+                    "Synonyms: (UK, Australia) boot, (India) dicky"
+                  ]
+                },
+                {
+                  "meaning": "(automotive) A storage compartment fitted behind the seat of a motorcycle.",
+                  "examples": [
+                    "Synonyms: topbox, topcase"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(heading) A channel for flow of some kind.",
+              "entries": [
+                {
+                  "meaning": "(US, telecommunications) A circuit between telephone switchboards or other switching equipment.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A chute or conduit, or a watertight shaft connecting two or more decks.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A long, large box, pipe, or conductor, made of plank or metal plates, for various uses, as for conveying air to a mine or to a furnace, water to a mill, grain to an elevator, etc.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(archaic) A long tube through which pellets of clay, peas, etc., are driven by the force of the breath. A peashooter",
+                  "examples": []
+                },
+                {
+                  "meaning": "(mining) A flume or sluice in which ores are separated from the slimes in which they are contained.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) In software projects under source control: the most current source tree, from which the latest unstable builds (so-called \"trunk builds\") are compiled.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "The main line or body of anything.",
+              "entries": [
+                {
+                  "meaning": "(transport) A main line in a river, canal, railroad, or highway system.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(architecture) The part of a pilaster between the base and capital, corresponding to the shaft of a column.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large pipe forming the piston rod of a steam engine, of sufficient diameter to allow one end of the connecting rod to be attached to the crank, and the other end to pass within the pipe directly to the piston, thus making the engine more compact.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in the plural) Short for swimming trunks.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "trunk (third-person singular simple present trunks, present participle trunking, simple past and past participle trunked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To lop off; to curtail; to truncate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mining) To extract (ores) from the slimes in which they are contained, by means of a trunk.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) To provide simultaneous network access to multiple clients by sharing a set of circuits, carriers, channels, or frequencies.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
