@@ -1,0 +1,56 @@
+{
+  "word": "reraise",
+  "etymologies": [
+    {
+      "description": [
+        "From re- +‎ raise."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reraise (plural reraises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) A raise of a bet which itself constituted a raise of a previous bet.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reraise (third-person singular simple present reraises, present participle reraising, simple past and past participle reraised)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To raise again or anew.",
+                  "examples": [
+                    "If any kind of exception is raised, a rollback() operation is performed and the exception is reraised."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) To raise another raise.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
