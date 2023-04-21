@@ -1,0 +1,39 @@
+{
+  "word": "puppetize",
+  "etymologies": [
+    {
+      "description": [
+        "puppet +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "puppetize (third-person singular simple present puppetizes, present participle puppetizing, simple past and past participle puppetized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reduce (a person) to a puppet or mouthpiece for oneself.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To configure (a system) using the Puppet software configuration management tool.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
