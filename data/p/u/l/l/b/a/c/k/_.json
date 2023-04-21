@@ -1,0 +1,114 @@
+{
+  "word": "pullback",
+  "etymologies": [
+    {
+      "description": [
+        "pull +‎ back"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pullback (plural pullbacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or result of pulling back; a withdrawal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(film) The act of drawing a camera back to broaden the visible scene.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which holds back, or causes to recede; a drawback; a hindrance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The iron hook fixed to a casement to pull it shut, or to hold it partly open at a fixed point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A reduction in the price of a financial instrument after reaching a peak",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) An attacking pass from the wing into a position further from the attacking goal line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A device for making a woman's gown hang close and straight in front.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(differential geometry) The map between cotangent bundles of manifolds corresponding to a smooth map between smooth manifolds, which at each point is the dual map to the corresponding pushforward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) The limit of a cospan: a Cartesian square or “pullback square”.",
+                  "examples": [
+                    "Synonyms: fiber product, fibre product, Cartesian square, pullback square",
+                    "Hyponyms: equalizer, equaliser"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) Within a Cartesian square (which has a pair of divergent morphisms and a pair of convergent morphisms) the divergent morphism which is directly opposite to a given one of the convergent morphisms, said to be “along” the convergent morphism which is between that pair of opposite morphisms. (The pullback is said to be “of” the given morphism.)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
