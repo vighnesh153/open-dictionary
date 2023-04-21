@@ -1,0 +1,67 @@
+{
+  "word": "sparse",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin sparsus."
+      ],
+      "adjectives": [
+        {
+          "description": "sparse (comparative sparser, superlative sparsest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having widely spaced intervals.",
+                  "examples": [
+                    "a sparse array, index, or matrix"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not dense; meager; scanty",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Having few nonzero elements",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sparse (third-person singular simple present sparses, present participle sparsing, simple past and past participle sparsed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To disperse, to scatter.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:disperse"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
