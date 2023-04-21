@@ -1,0 +1,50 @@
+{
+  "word": "worker",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English werkere, worcher, wercher, equivalent to work +‎ -er. Displaced the older term wright, from Old English wyrhta."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "worker (plural workers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who performs labor for a living, especially manual labor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A nonreproductive social insect, such as ant, bee, termite, or wasp.",
+              "entries": [
+                {
+                  "meaning": "(rare) A female ant, bee, termite or wasp.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A thread performing one instance of a particular task within a program.",
+                  "examples": [
+                    "This FTP client spawns a separate worker for each file to be uploaded."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
