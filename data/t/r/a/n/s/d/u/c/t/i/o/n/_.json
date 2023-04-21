@@ -1,0 +1,91 @@
+{
+  "word": "transduction",
+  "etymologies": [
+    {
+      "description": [
+        "1650s, Latin transductionem, form of Latin trānsdūcō (“lead across”). Surface analysis transduce +‎ -tion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transduction (countable and uncountable, plural transductions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The transfer of genetic material from one cell to another typically between bacterial cells, and typically via a bacteriophage or pilus.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process whereby a transducer converts energy from one form to another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physiology) The conversion of a stimulus from one form to another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The conversion of energy (especially light energy) into another form, especially in a biological process such as photosynthesis or in a transducer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Particularly in the discipline of artificial intelligence, a form of inference, according to which the response appropriate to a particular known case, also is appropriate to another particular case diagnosed to be functionally identical. This contrasts with induction, in which general rules derived from past observations are applied to future cases as a class (compare also analogy).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Blend of transformation +‎ reduction."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transduction (countable and uncountable, plural transductions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic design) The improvement of an electronic logic network by reduction of redundant components in an initial version, using an established pruning procedure, then applying permissible functions for transformation of the network into a workable form. Thereafter the transformation and reduction may be repeated till no worthwhile further improvement results.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
