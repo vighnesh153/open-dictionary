@@ -1,0 +1,43 @@
+{
+  "word": "vulnerable",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin vulnerābilis (“injurious, wounding”), from Latin vulnerō (“I wound”)."
+      ],
+      "adjectives": [
+        {
+          "description": "vulnerable (comparative more vulnerable, superlative most vulnerable)",
+          "definitionGroups": [
+            {
+              "group": "More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally.",
+              "entries": [
+                {
+                  "meaning": "Open to disclosing one's inner thoughts and feelings, acting in spite of one's instinct to self-preservation.",
+                  "examples": [
+                    "It's okay to get vulnerable every now and again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) More likely to be exposed to malicious programs or viruses.",
+                  "examples": [
+                    "a vulnerable PC with no antivirus software"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "vulnerability",
+  "etymologies": [
+    {
+      "description": [
+        "From vulnerable +‎ -ability."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vulnerability (countable and uncountable, plural vulnerabilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The state of being vulnerable; susceptibility to attack or injury, either physical or emotional; the state or condition of being weak or poorly defended.",
+                  "examples": [
+                    "The country recognized their defence vulnerability after an airplane landed in front of the central square without any consequences."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A specific weakness in the protections or defences surrounding someone or something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A weakness which allows an attacker to reduce a system's security.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
