@@ -1,0 +1,110 @@
+{
+  "word": "restore",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English restoren, from Old French restorer, from Latin rēstaurāre, equivalent to re- +‎ store."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "restore (plural restores)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The act of recovering data or a system from a backup.",
+                  "examples": [
+                    "We backed up the data successfully, but the restore failed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "restore (third-person singular simple present restores, present participle restoring, simple past and past participle restored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reestablish, or bring back into existence.",
+                  "examples": [
+                    "to restore harmony among those who are at variance",
+                    "He restored my lost faith in him by doing a good deed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring back to good condition from a state of decay or ruin.",
+                  "examples": [
+                    "our fortune restored after the severest afflictions"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give or bring back (that which has been lost or taken); to bring back to the owner; to replace.",
+                  "examples": [
+                    "The father banish;d virtue shall restore."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give in place of, or as restitution for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To recover (data, etc.) from a backup.",
+                  "examples": [
+                    "There was a crash last night, and we're still restoring the file system."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, music) To bring (a note) back to its original signification.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To make good; to make amends for.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
