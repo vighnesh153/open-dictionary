@@ -1,0 +1,175 @@
+{
+  "word": "trigger",
+  "etymologies": [
+    {
+      "description": [
+        "Originally tricker, from Dutch trekker (“pull”, noun, as in drawer-pull, bell-pull), from Dutch trekken (“to drag, draw, pull”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trigger (plural triggers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(firearms) A finger-operated lever used to fire a gun.",
+                  "examples": [
+                    "Just pull the trigger."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A similar device used to activate any mechanism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An event that initiates others, or incites a response.",
+                  "examples": [
+                    "Sleeping in an unfamiliar room can be a trigger for sleepwalking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A concept or image that upsets somebody by sparking a negative emotional response.",
+                  "examples": [
+                    "I can't watch that violent film. Blood is one of my triggers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) An event, experience or other stimulus that initiates a traumatic memory or a strong reaction in a person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) An electronic transducer allowing a drum, cymbal, etc. to control an electronic drum unit or similar device.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A device that manually lengthens (or sometimes shortens) the slide or tubing of a brass instrument, allowing the pitch range to be altered while playing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A pulse in an electronic circuit that initiates some component.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) An SQL procedure that may be initiated when a record is inserted, updated or deleted; typically used to maintain referential integrity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(online gaming) A text string that, when received by a player, will cause the player to execute a certain command.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A catch to hold the wheel of a carriage on a declivity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "trigger (third-person singular simple present triggers, present participle triggering, simple past and past participle triggered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fire a weapon.",
+                  "examples": [
+                    "Synonyms: activate, detonate, fire"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To initiate something.",
+                  "examples": [
+                    "Synonyms: activate, initiate",
+                    "The controversial article triggered a deluge of angry letters from readers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive, figurative) To spark a response, especially a negative emotional response, in (someone).",
+              "entries": [
+                {
+                  "meaning": "(transitive, figurative, by extension of above, Internet slang) To intentionally offend someone, especially by expressing radical or edgy opinions.",
+                  "examples": [
+                    "I encountered a forum user who didn't agree with me, so I wrote some comments with my political slogans to trigger that clueless kiddo."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, especially electronics) To activate; to become active.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
