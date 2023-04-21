@@ -1,0 +1,72 @@
+{
+  "word": "untie",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English untien, unteyen, untyȝen, untiȝen, from Old English untīġan (“to untie”), equivalent to un- +‎ tie."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "untie (third-person singular simple present unties, present participle untying, simple past and past participle untied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To loosen, as something interlaced or knotted; to disengage the parts of.",
+                  "examples": [
+                    "to untie a knot"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To free from fastening or from restraint; to let loose; to unbind.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To resolve; to unfold; to clear.",
+                  "examples": [
+                    "They quicken sloth, perplexities untie."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become untied or loosed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) In the Perl programming language, to undo the process of tying, so that a variable uses default instead of custom functionality.",
+                  "examples": [
+                    "After you finish with the INI file, all you need to do is untie the hash. Then you really are finished!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
