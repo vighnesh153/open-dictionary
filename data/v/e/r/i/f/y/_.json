@@ -1,0 +1,50 @@
+{
+  "word": "verify",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French verifier (French: vérifier), from Medieval Latin vērificāre, present active infinitive of vērificō (“make true”), from Latin vērus (“true”) + faciō (“do, make”); see -fy."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "verify (third-person singular simple present verifies, present participle verifying, simple past and past participle verified)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To substantiate or prove the truth of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To confirm or test the truth or accuracy of something.",
+                  "examples": [
+                    "In comparison, it takes about a minute to save, rewind and manually verify a similar file on a cassette."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To affirm something formally, under oath.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

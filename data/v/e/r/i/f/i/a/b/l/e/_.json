@@ -1,0 +1,56 @@
+{
+  "word": "verifiable",
+  "etymologies": [
+    {
+      "description": [
+        "verify +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "verifiable (comparative more verifiable, superlative most verifiable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be verified or confirmed.",
+                  "examples": [
+                    "Do you have verifiable evidence to support that claim?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be qualified by a Boolean expression.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "verifiable (plural verifiables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A statement or observation that can be verified.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
