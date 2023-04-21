@@ -1,0 +1,39 @@
+{
+  "word": "unstuff",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ stuff"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unstuff (third-person singular simple present unstuffs, present participle unstuffing, simple past and past participle unstuffed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove the stuffing from.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To decompress (a compressed archive in the StuffIt format).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
