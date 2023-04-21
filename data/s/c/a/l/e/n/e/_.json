@@ -1,0 +1,65 @@
+{
+  "word": "scalene",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Late Latin scalēnus (“of unequal sides”), from Ancient Greek σκᾰληνός (skalēnós, “uneven, unequal”)."
+      ],
+      "adjectives": [
+        {
+          "description": "scalene (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(trigonometry) Having sides all unequal in length.",
+                  "examples": [
+                    "scalene triangle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) Of or pertaining to the scalene muscle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scalene (plural scalenes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) Ellipsis of scalene muscle..",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(trigonometry) Ellipsis of scalene triangle..",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
