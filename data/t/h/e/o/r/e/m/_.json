@@ -1,0 +1,65 @@
+{
+  "word": "theorem",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French théorème, from Late Latin theōrēma, from Ancient Greek θεώρημα (theṓrēma, “speculation, proposition to be proved”) (Euclid), from θεωρέω (theōréō, “I look at, view, consider, examine”), from θεωρός (theōrós, “spectator”), from θέα (théa, “a view”) + ὁράω (horáō, “I see, look”). See also theory, and theater."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "theorem (plural theorems)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A mathematical statement of some importance that has been proven to be true. Minor theorems are often called propositions. Theorems which are not very interesting in themselves but are an essential part of a bigger theorem's proof are called lemmas.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, colloquial, nonstandard) A mathematical statement that is expected to be true",
+                  "examples": [
+                    "Fermat's Last Theorem was known thus long before it was proved in the 1990s."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A syntactically correct expression that is deducible from the given axioms of a deductive system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "theorem (third-person singular simple present theorems, present participle theoreming, simple past and past participle theoremed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To formulate into a theorem.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
