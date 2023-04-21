@@ -1,0 +1,105 @@
+{
+  "word": "propagate",
+  "etymologies": [
+    {
+      "description": [
+        "Latin propagatus"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "propagate (third-person singular simple present propagates, present participle propagating, simple past and past participle propagated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of animals or plants) To cause to continue or multiply by generation, or successive production.",
+                  "examples": [
+                    "A marked bud-variation is of very rare occurrence, but in many cases the tendency of plants raised from seeds to differ from the parents is so great that choice varieties are propagated entirely by buds. It is almost hopeless to attempt to propagate a choice variety of grape or strawberry by seeds, as the individuals raised in this way seldom have the valuable qualities of their parents, and, although they may have new qualities of equal or greater value, the chances are of course greatly against this, since the possibility of undesirable variation is much greater than the chance of a desirable sport."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to spread to extend; to impel or continue forward in space.",
+                  "examples": [
+                    "to propagate sound or light"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To spread from person to person; to extend the knowledge of; to originate and spread; to carry from place to place; to disseminate.",
+                  "examples": [
+                    "There began to appear from the East, cropping up now here, now there, but in general along lines of advance towards the West, individuals or small communities who proposed and propagated a new and, as they called it, a purified form of religion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To multiply; to increase.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To generate; to produce.",
+                  "examples": [
+                    "Motion propagated motion, and life threw off life."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, intransitive) To produce young; to be produced or multiplied by generation, or by new shoots or plants.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To take effect on all relevant devices in a network.",
+                  "examples": [
+                    "It takes 24 hours for password changes to propagate throughout the system."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To cause to take effect on all relevant devices in a network.",
+                  "examples": [
+                    "The server propagates the password file at midnight each day."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
