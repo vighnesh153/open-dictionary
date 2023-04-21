@@ -1,0 +1,58 @@
+{
+  "word": "substring",
+  "etymologies": [
+    {
+      "description": [
+        "From sub- +‎ string."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "substring (plural substrings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A (possibly zero-length) string of characters that is contained in another string.",
+                  "examples": [
+                    "The substrings of \"button\" include \"butt\", \"ton\", and \"on\"."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "substring (third-person singular simple present substrings, present participle substringing, simple past and past participle substringed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To extract a substring from.",
+                  "examples": [
+                    "If an existing character-based column is increased in size and your program does not need the extra characters, the view can be changed to force the smaller size by substringing the existing column."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To take as a substring.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
