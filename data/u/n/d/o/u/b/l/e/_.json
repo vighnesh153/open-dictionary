@@ -1,0 +1,32 @@
+{
+  "word": "undouble",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ double"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "undouble (third-person singular simple present undoubles, present participle undoubling, simple past and past participle undoubled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To undo the doubling of; to unfold, or render single again.",
+                  "examples": [
+                    "So to simulate this, the iterative version needs to repeatedly “undouble” the value, which it will do by calling a function half."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
