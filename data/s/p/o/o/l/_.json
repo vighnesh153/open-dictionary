@@ -1,0 +1,101 @@
+{
+  "word": "spool",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English spole (possibly via Old Northern French spole, espole), from Middle Dutch spoele, from Old Dutch *spōla, *spuola, from Proto-Germanic *spōlǭ (“spool”), from Proto-Indo-European *spel- (“to cleave, split”). Cognate with Saterland Frisian Spoule (“spool”), Dutch spoel (“spool”), German Spule (“spool”), Swedish spole (“spool”), Icelandic spóla (“spool; reel”).  The aviation usage is based on the visual similarity of one of the spools of a turbine engine to a spool used for thread (especially in cross-section)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spool (plural spools)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reel; a device around which thread, wire or cable is wound, especially a cylinder or spindle.",
+                  "examples": [
+                    "If you need to reload film, the cassette can be rewound slightly by turning the hub located on one end of its spool."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) One of the rotating assemblies of a gas turbine engine, composed of one or more turbine stages, a shaft, and one or more compressor or fan stages.",
+                  "examples": [
+                    "The high-pressure spool rotates faster than the intermediate- and low-pressure spools, as the high-pressure turbine is driven by superheated combustion gases straight out of the burners, while the high-pressure compressor has to spin very fast to compress air that has already been compressed and heated by the low- and intermediate-pressure compressors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A temporary storage area for electronic mail, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "spool (third-person singular simple present spools, present participle spooling, simple past and past participle spooled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To wind on a spool or spools.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To send files to a device or a program (a spooler or a daemon that puts them in a queue for processing at a later time).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From blend of spa +‎ pool."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spool (plural spools)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small swimming pool that can be used also as a spa.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

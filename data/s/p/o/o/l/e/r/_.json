@@ -1,0 +1,43 @@
+{
+  "word": "spooler",
+  "etymologies": [
+    {
+      "description": [
+        "spool +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spooler (plural spoolers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(textiles) A device for winding thread onto a spool.",
+                  "examples": [
+                    "In a method for guiding a thread onto an empty reel after a first reel in a continuously operating spooler has become full, utilizing a moving finger on the spooler in cooperation with a gripper rotating with the empty reel  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A program or process that spools (places data in a queue to be accessed later)",
+                  "examples": [
+                    "The print spooler sends each page to the printer when it is ready for it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
