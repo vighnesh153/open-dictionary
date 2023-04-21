@@ -1,0 +1,77 @@
+{
+  "word": "plasma",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin plasma (literally “mold”), from Ancient Greek πλάσμα (plásma, “something formed”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "plasma (countable and uncountable, plural plasmas or plasmata)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A state of matter consisting of partially ionized gas and electrons.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hematology) A clear component of blood or lymph containing fibrin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hematology) Blood plasma, free of suspended cells, used in transfusions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mineralogy) A variety of green quartz, used in ancient times for making engraved ornaments.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, dated) A mixture of starch and glycerin, used as a substitute for ointments.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics, demoscene) A visual effect in which cycles of changing colours are warped in various ways to give the illusion of liquid organic movement.",
+                  "examples": [
+                    "Has anyone here written a plasma demo in C/C++ who would be willing to explain to me exactly how it works?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
