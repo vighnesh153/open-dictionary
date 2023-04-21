@@ -1,0 +1,83 @@
+{
+  "word": "tractable",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English tractable, tractabel, from Latin tractābilis (“that may be touched, handled, or managed”), from tractō (“take in hand, handle, manage”), frequentative of trahō (“draw”)."
+      ],
+      "adjectives": [
+        {
+          "description": "tractable (comparative more tractable, superlative most tractable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of people) Capable of being easily led, taught, or managed.",
+                  "examples": [
+                    "Synonyms: docile, manageable, governable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a problem) Easy to deal with or manage",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being shaped; malleable.",
+                  "examples": [
+                    "I need not point out the advantages of modelling in a material as durable as stone. . . . Mixed up with just enough water to form a stiff paste, it accommodates itself to the touch of the modelling tool. . . . There are two inherent difficulties in using it—one, it is not so tractable as clay. . . ."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Capable of being handled or touched.",
+                  "examples": [
+                    "Synonyms: palpable, practicable, feasible, serviceable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Sufficiently operationalizable or useful to allow a mathematical calculation to proceed toward a solution.",
+                  "examples": [
+                    "This assumption is in the Raiffa and Schlaifer (1961, p. 72) spirit of using ‘a little ingenuity. . . to find a tractable function’ to quantify risk-preferences and probability judgments so as to make the analysis feasible."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science, of a decision problem) Algorithmically solvable fast enough to be practically relevant, typically in polynomial time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
