@@ -1,0 +1,50 @@
+{
+  "word": "profiler",
+  "etymologies": [
+    {
+      "description": [
+        "profile +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "profiler (plural profilers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mechanical device that cuts complex, irregular shapes by tracing a pattern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who creates a profile for something or someone, especially a psychological profile for an unknown criminal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A software program that measures the performance of different portions of another program in order to locate bottlenecks.",
+                  "examples": [
+                    "[…]  a complete and intuitive profiler that supports numerous types of profiling modes and profilable applications."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

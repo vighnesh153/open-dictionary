@@ -1,0 +1,189 @@
+{
+  "word": "profile",
+  "etymologies": [
+    {
+      "description": [
+        "From French profil, from Italian profilo (“a border”), later also proffilo (“a side-face, profile”), from Latin pro (“before”) + filo (“a line, stroke, thread”), from filum (“a thread”); see file. Doublet of purfle."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "profile (countable and uncountable, plural profiles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The outermost shape, view, or edge of an object.",
+                  "examples": [
+                    "Synonym: contour",
+                    "His fingers traced the profile of the handle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The shape, view, or shadow of a person's head from the side; a side view.",
+                  "examples": [
+                    "The brooch showed the profile of a Victorian woman.",
+                    "Driver's licenses have a photograph of the person on them, which is in full face if the person is above legal drinking age, or in profile if not."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A summary or collection of information, especially about a person",
+                  "examples": [
+                    "Law enforcement assembled a profile of the suspect."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, countable) A specific page or field in which users can provide various types of personal information in software or Internet systems.",
+                  "examples": [
+                    "I just updated my Facebook profile to show I got engaged."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, uncountable) Reputation,  prominence; noticeability.",
+                  "examples": [
+                    "Acting is, by nature, profession in which one must keep a high profile."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The amount by which something protrudes.",
+                  "examples": [
+                    "Choose a handle with a low profile so it does not catch on things."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaeology) A smoothed (e.g., troweled or brushed) vertical surface of an excavation showing evidence of at least one feature or diagnostic specimen; the graphic recording of such as by sketching, photographing, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Character; totality of related characteristics; signature; status (especially in scientific, technical, or military uses).",
+                  "examples": [
+                    "What's the thermal profile on that thing?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A section of any member, made at right angles with its main lines, showing the exact shape of mouldings etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(civil engineering) A drawing exhibiting a vertical section of the ground along a surveyed line, or graded work, as of a railway, showing elevations, depressions, grades, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military slang) An exemption from certain types of duties due to injury or disability.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "profile (third-person singular simple present profiles, present participle profiling, simple past and past participle profiled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To create a summary or collection of information about (a person, etc.).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To act based on such a summary, especially one that is a stereotype; to engage in profiling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw in profile or outline.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, engineering) To give a definite form by chiselling, milling, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To measure the performance of various parts of (a program) so as to locate bottlenecks.",
+                  "examples": [
+                    "[…]  a complete and intuitive profiler that supports numerous types of profiling modes and profilable applications."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
