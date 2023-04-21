@@ -1,0 +1,32 @@
+{
+  "word": "subadditive",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ additive"
+      ],
+      "adjectives": [
+        {
+          "description": "subadditive (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a function) Such that the image of a sum is at most the sum of the images of the summands.",
+                  "examples": [
+                    "The square-root function is subadditive under addition because \n  \n    \n      \n        \n          \n            a\n            +\n            b\n          \n        \n        ≤\n        \n          \n            a\n          \n        \n        +\n        \n          \n            b\n          \n        \n      \n    \n    {\\displaystyle {\\sqrt {a+b}}\\leq {\\sqrt {a}}+{\\sqrt {b}}}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
