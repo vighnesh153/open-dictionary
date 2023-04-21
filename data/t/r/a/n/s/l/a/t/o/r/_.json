@@ -1,0 +1,50 @@
+{
+  "word": "translator",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English translatour, from Old French translator, translatour, translateur, from Latin trānslātor, agent noun from perfect passive participle trānslātus, from trānsferō (“carry across”), from trans (“across, beyond”) + ferō (“bear, carry”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "translator (plural translators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who converts speech, text, film, or other material into a different language. (Contrasted with interpreter.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) One that makes a new version of a source material in a different language or format.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A computer program that translates something from one language to another using machine translation.",
+                  "examples": [
+                    "Synonym: machine translator"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
