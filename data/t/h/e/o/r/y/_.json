@@ -1,0 +1,94 @@
+{
+  "word": "theory",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French théorie, from Late Latin theōria, from Ancient Greek θεωρία (theōría, “contemplation, speculation, a looking at, things looked at”), from θεωρέω (theōréō, “I look at, view, consider, examine”), from θεωρός (theōrós, “spectator”), from θέα (théa, “view”) + ὁράω (horáō, “I see, look”) [i. e. θέαν ὁράω (théan horáō, “see, look at a view; survey + genitive”)]."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "theory (countable and uncountable, plural theories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A description of an event or system that is considered to be accurate.",
+                  "examples": [
+                    "As they encrease the hatred of vice in some, so doe they enlarge the theory of wickednesse in all."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences) A coherent statement or set of ideas that explains observed facts or phenomena and correctly predicts new facts or phenomena not previously observed, or which sets out the laws and principles of something known or observed; a hypothesis confirmed by observation, experiment etc. [from 17th c.]",
+                  "examples": [
+                    "In its most proper acceptation, theory means the completed result of philosophical induction from experience."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The underlying principles or methods of a given technical skill, art etc., as opposed to its practice. [from 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A field of study attempting to exhaustively describe a particular class of constructs. [from 18th c.]",
+                  "examples": [
+                    "Knot theory classifies the mappings of a circle into 3-space."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hypothesis or conjecture. [from 18th c.]",
+                  "examples": [
+                    "The theory is that by stripping costs to the bone, they are able to offer ludicrously low fares."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, logic) A set of axioms together with all statements derivable from them; or, a set of statements which are deductively closed. Equivalently, a formal language plus a set of axioms (from which can then be derived theorems). The statements may be required to all be bound (i.e., to have no free variables).",
+                  "examples": [
+                    "A theory is consistent if it has a model."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Mental conception; reflection, consideration. [16th–18th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
