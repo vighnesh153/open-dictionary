@@ -1,0 +1,141 @@
+{
+  "word": "transit",
+  "etymologies": [
+    {
+      "description": [
+        "From French, from Latin transire (“to go across, pass in, pass through”), from trans (“over”) +‎ ire (“to go”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transit (countable and uncountable, plural transits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of passing over, across, or through something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The conveyance of people or goods from one place to another, especially on a public transportation system; the vehicles used for such conveyance.",
+                  "examples": [
+                    "the transit of goods through a country"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) The passage of a celestial body across the observer's meridian, or across the disk of a larger celestial body.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A surveying instrument rather like a theodolite that measures horizontal and vertical angles.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(navigation) An imaginary line between two objects whose positions are known. When the navigator sees one object directly in front of the other, the navigator knows that his position is on the transit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain) A Ford Transit van, see Transit.",
+                  "examples": [
+                    "Beufort road, Birkenhead, about 17.15 June 19 2013, white transit overtakes and swerves left into junction almost taking my front wheel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, US) Public transport system.",
+                  "examples": [
+                    "I always take the transit to work."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "transit (third-person singular simple present transits, present participle transiting, simple past and past participle transited)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To pass over, across or through something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To convey people or goods from one place to another, especially by public transport vehicles.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To revolve an instrument about its horizontal axis so as to reverse its direction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy, intransitive) To make a transit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) To carry communications traffic to and from a customer or another network on a compensation basis as opposed to peerage in which the traffic to and from another network is carried on an equivalency basis or without charge.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
