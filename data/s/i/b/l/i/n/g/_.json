@@ -1,0 +1,50 @@
+{
+  "word": "sibling",
+  "etymologies": [
+    {
+      "description": [
+        "1903, modern revival of Old English sibling (“relative, a relation, kinsman”), equivalent to sib +‎ -ling. Compare Middle English siblynges pl, sib, sibbe (“relative; kinsman”), German Sippe. The term apparently meant merely kin or relative until the 20th century when it was applied in a way that aided the study of genetics, which led to its specialized use. For example, the OED has a 1903 citation in which \"sibling\" must be defined for those who don't know the intended meaning."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sibling (plural siblings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who shares a parent; one's brother or sister who one shares a parent with.",
+                  "examples": [
+                    "None of my siblings are married yet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A node in a data structure that shares its parent with another node.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) The most closely related species, or one of several most closely related species when none can be determined to be more closely related.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
