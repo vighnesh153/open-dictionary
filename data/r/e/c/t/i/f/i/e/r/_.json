@@ -1,0 +1,57 @@
+{
+  "word": "rectifier",
+  "etymologies": [
+    {
+      "description": [
+        "rectify +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rectifier (plural rectifiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that rectifies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device that converts alternating current into direct current; often a diode.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) An instrument used for determining and rectifying the variations of the compass on board ship.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(artificial neural networks) The activation function \n  \n    \n      \n        f\n        (\n        x\n        )\n        =\n        max\n        (\n        0\n        ,\n        x\n        )\n      \n    \n    {\\displaystyle f(x)=\\max(0,x)}\n  \n, where x is the input to a neuron.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
