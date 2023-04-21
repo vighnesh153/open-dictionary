@@ -1,0 +1,68 @@
+{
+  "word": "subset",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ set."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subset (plural subsets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory, of a set S) A set A such that every element of A is also an element of S.",
+                  "examples": [
+                    "The set of integers is a subset of the set of real numbers.",
+                    "The set \n  \n    \n      \n        {\n        a\n        ,\n        b\n        }\n      \n    \n    {\\displaystyle \\lbrace a,b\\rbrace }\n  \n is a both a subset and a proper subset of \n  \n    \n      \n        {\n        a\n        ,\n        b\n        ,\n        c\n        }\n      \n    \n    {\\displaystyle \\lbrace a,b,c\\rbrace }\n  \n while the set \n  \n    \n      \n        {\n        a\n        ,\n        b\n        ,\n        c\n        }\n      \n    \n    {\\displaystyle \\lbrace a,b,c\\rbrace }\n  \n is a subset of \n  \n    \n      \n        {\n        a\n        ,\n        b\n        ,\n        c\n        }\n      \n    \n    {\\displaystyle \\lbrace a,b,c\\rbrace }\n  \n but not a proper subset of \n  \n    \n      \n        {\n        a\n        ,\n        b\n        ,\n        c\n        }\n      \n    \n    {\\displaystyle \\lbrace a,b,c\\rbrace }\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of things or people, all of which are in a specified larger group.",
+                  "examples": [
+                    "We asked a subset of the population of the town for their opinion."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subset (third-person singular simple present subsets, present participle subsetting, simple past and past participle subsetted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take a subset of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, typography) To extract only the portions of (a font) that are needed to display a particular document.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
