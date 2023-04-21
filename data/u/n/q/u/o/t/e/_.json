@@ -1,0 +1,30 @@
+{
+  "word": "unquote",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ quote; possibly an eggcorn of end quote."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unquote (third-person singular simple present unquotes, present participle unquoting, simple past and past participle unquoted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To convert (a quoted expression) back to its original form.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
