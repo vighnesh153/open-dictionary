@@ -1,0 +1,45 @@
+{
+  "word": "rethrow",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ throw"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rethrow (plural rethrows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The act of throwing an exception again.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "rethrow (third-person singular simple present rethrows, present participle rethrowing, simple past rethrew, past participle rethrown)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To throw (an exception) again.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
