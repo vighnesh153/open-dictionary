@@ -1,0 +1,56 @@
+{
+  "word": "tainted",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "tainted (comparative more tainted, superlative most tainted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Corrupted or filled with imperfections.",
+                  "examples": [
+                    "Hey, get that away from me! It was bought with tainted money."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer security, of data) Originating from an untrusted source.",
+                  "examples": [
+                    "Do not use tainted values in SQL queries."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tainted",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of taint",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
