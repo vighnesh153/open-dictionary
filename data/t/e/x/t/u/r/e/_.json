@@ -1,0 +1,98 @@
+{
+  "word": "texture",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French texture, borrowed from Latin textūra (“a weaving, web, texture, structure”), from textus, past participle of texere (“to weave”). See text. Doublet of tessitura."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "texture (countable and uncountable, plural textures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The feel or shape of a surface or substance; the smoothness, roughness, softness, etc. of something.",
+                  "examples": [
+                    "The beans had a grainy, gritty texture in her mouth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(art) The quality given to a work of art by the composition and interaction of its parts.",
+                  "examples": [
+                    "The piece of music had a mainly homophonic texture."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) An image applied to a polygon to create the appearance of a surface.",
+                  "examples": [
+                    "The videocard is responsible for drawing every polygon, texture, and particle effect in every game you play."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The act or art of weaving.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Something woven; a woven fabric; a web.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology, obsolete) A tissue.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "texture (third-person singular simple present textures, present participle texturing, simple past and past participle textured)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To create or apply a texture.",
+                  "examples": [
+                    "Drag the trowel through the plaster to texture the wall."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
