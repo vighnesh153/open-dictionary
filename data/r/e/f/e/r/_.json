@@ -1,0 +1,117 @@
+{
+  "word": "refer",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English referren, from Old French referer, from Latin referre."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "refer (third-person singular simple present refers, present participle referring, simple past and past participle referred)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To direct the attention of (someone toward something)",
+                  "examples": [
+                    "The shop assistant referred me to the help desk on ground floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To submit to (another person or group) for consideration; to send or direct elsewhere.",
+                  "examples": [
+                    "He referred the matter to the principal.",
+                    "to refer a patient to a psychiatrist"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place in or under by a mental or rational process; to assign to, as a class, a cause, source, a motive, reason, or ground of explanation.",
+                  "examples": [
+                    "He referred the phenomena to electrical disturbances."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To mention (something); to direct attention (to something)",
+                  "examples": [
+                    "To explain the problem, the teacher referred to an example in another textbook."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(intransitive, stative) To make reference to; to be about; to relate to; to regard; to allude to.",
+              "entries": [
+                {
+                  "meaning": "(grammar) To be referential to another element in a sentence.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive, programming) To point to either a specific location in computer memory or to a specific object. [+ to (object)]",
+                  "examples": [
+                    "In C, the pointer obtained by &a refers to the variable a."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, education) Required to resit an examination.",
+                  "examples": [
+                    "Smith's marks in the finals were unsatisfactory and he was referred."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Conversion of refer (noun)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "refer (plural refers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(journalism) A blurb on the front page of a newspaper issue or section that refers the reader to the full story inside the issue or section by listing its slug or headline and its page number.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
