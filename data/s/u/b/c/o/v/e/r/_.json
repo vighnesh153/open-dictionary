@@ -1,0 +1,32 @@
+{
+  "word": "subcover",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ cover"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subcover (plural subcovers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) A cover which is a subset of another cover.",
+                  "examples": [
+                    "The open intervals cover the real numbers; the open intervals of the form (x, x+1) are a subcover."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
