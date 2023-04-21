@@ -1,0 +1,120 @@
+{
+  "word": "receive",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English receiven, from Old French receivre, from Latin recipere (“take back, accept, etc.”), from re- (“back”) + capiō (“to take”); see capacious. Compare conceive, deceive, perceive. Displaced native Middle English terms in -fon/-fangen (e.g. afon, anfon, afangen, underfangen, etc. \"to receive\" from Old English -fōn), native Middle English thiggen (“to receive”) (from Old English þiċġan), and non-native Middle English aquilen, enquilen (“to receive”) (from Old French aquillir, encueillir)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "receive (plural receives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) An operation in which data is received.",
+                  "examples": [
+                    "In the sonification of the PDE code, notes are scattered throughout a wide pitch range, and sends and receives are relatively balanced; although in the beginning of the application there are bursts of sends  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "receive (third-person singular simple present receives, present participle receiving, simple past and past participle received)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To take, as something that is offered, given, committed, sent, paid, etc.; to accept; to be given something.",
+                  "examples": [
+                    "She received many presents for her birthday."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) To take goods knowing them to be stolen.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To act as a host for guests; to give admittance to; to permit to enter, as into one's house, presence, company, etc.",
+                  "examples": [
+                    "to receive a lodger, visitor, ambassador, messenger, etc."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To incur (an injury).",
+                  "examples": [
+                    "I received a bloody nose from the collision."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To allow (a custom, tradition, etc.); to give credence or acceptance to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) To detect a signal from a transmitter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(sports) To be in a position to take possession, or hit back the ball.",
+              "entries": [
+                {
+                  "meaning": "(tennis, badminton, squash) To be in a position to hit back a service.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(American football) To be in a position to catch a forward pass.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To accept into the mind; to understand.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
