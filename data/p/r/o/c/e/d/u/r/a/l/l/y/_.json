@@ -1,0 +1,52 @@
+{
+  "word": "procedurally",
+  "etymologies": [
+    {
+      "description": [
+        "procedural +‎ -ly"
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "procedurally (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(manner) According to a procedure; following a procedure.",
+                  "examples": [
+                    "The Supreme Court of Georgia held petitioner's equal protection claim procedurally barred as untimely under Georgia law, and we are now called upon to review the adequacy of the State's procedural rule to bar consideration of the constitutional issue raised. We reverse."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(manner) In a manner that is concerned with procedure.",
+                  "examples": [
+                    "What actually happens is that the CNP programmer uses the tools for dynamic control to achieve, without procedurally specifying any algorithm, a behavior of the standard interpreter that corresponds to the desired heuristic or other more advanced search strategy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(manner, usually with generated) Following a computer algorithm, often in a randomized way.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

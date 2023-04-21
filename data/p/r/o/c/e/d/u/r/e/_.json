@@ -1,0 +1,86 @@
+{
+  "word": "procedure",
+  "etymologies": [
+    {
+      "description": [
+        "From French procédure, from Old French, from Latin procedere (“to go forward, proceed”); see proceed."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "procedure (countable and uncountable, plural procedures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A particular method for performing a task.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of small tasks or steps taken to accomplish an end.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The set of established forms or methods of an organized body for accomplishing a certain task or tasks.",
+                  "examples": [
+                    "Ensure that you follow procedure when accessing customers' personal information."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The steps taken in an action or other legal proceeding.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That which results; issue; product.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A subroutine or function coded to perform a specific task, but does not return a value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A surgical operation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
