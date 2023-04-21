@@ -1,0 +1,54 @@
+{
+  "word": "truthy",
+  "etymologies": [
+    {
+      "description": [
+        "From truth +‎ -y. In colloquial sense, back-formation from truthiness."
+      ],
+      "adjectives": [
+        {
+          "description": "truthy (comparative truthier, superlative truthiest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete or humorous) Faithful; true. [19th c.]",
+                  "examples": [
+                    "Synonyms: faithful, honest"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, colloquial) Only superficially true; that is asserted or felt instinctively to be true, with no recourse to facts. [from 21st c.]",
+                  "examples": [
+                    "Synonyms: truthlike, truthful, truthsome, veridical"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Evaluating to true in a Boolean context.",
+                  "examples": [
+                    "Antonym: falsy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
