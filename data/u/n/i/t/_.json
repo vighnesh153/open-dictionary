@@ -1,0 +1,277 @@
+{
+  "word": "unit",
+  "etymologies": [
+    {
+      "description": [
+        "Formerly unite, a later form of unity; see unity."
+      ],
+      "adjectives": [
+        {
+          "description": "unit (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "For each unit.",
+                  "examples": [
+                    "We have to keep our unit costs down if we want to make a profit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Having a size or magnitude of one.",
+                  "examples": [
+                    "Consider the following time sequence\n\n  \n    \n      \n        \n          Z\n          \n            t\n          \n        \n        =\n        A\n        sin\n        ⁡\n        (\n        ω\n        t\n        +\n        θ\n        )\n      \n    \n    {\\displaystyle Z_{t}=A\\sin(\\omega t+\\theta )}\n  \n,",
+                    "where \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n is a random variable with a zero mean and a unit variance and \n  \n    \n      \n        θ\n      \n    \n    {\\displaystyle \\theta }\n  \n is a random variable with a uniform distribution on the interval \n  \n    \n      \n        [\n        −\n        π\n        ,\n        π\n        ]\n      \n    \n    {\\displaystyle [-\\pi ,\\pi ]}\n  \n independent of \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unit (plural units)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Oneness, singularity, seen as a component of a whole number; a magnitude of one. [from 16th c.]",
+                  "examples": [
+                    "Number, we define, to be, a certayne Mathematicall Sũme, of Vnits. [Note the worde, Vnit, to expresse the Greke Monas, & not Vnitie: as we haue all, commonly, till now, vsed.]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences) A standard measure of a quantity.",
+                  "examples": [
+                    "The centimetre is a unit of length."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The number one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Ellipsis of international unit.",
+                  "examples": [
+                    "This pill provides 500 units of Vitamin E."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An organized group comprising people and/or equipment.",
+                  "examples": [
+                    "He was a member of a special police unit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, informal) A member of a military organization.",
+                  "examples": [
+                    "The fifth tank brigade moved in with 20 units. (i.e., 20 tanks)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(commerce) An item which may be sold singly.",
+                  "examples": [
+                    "We shipped nearly twice as many units this month as last month."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, UK, Australia, New Zealand) any piece of equipment, such as an appliance, power tool, stereo system, computer, tractor, or machinery.",
+                  "examples": [
+                    "This air-conditioner is the most efficient unit we sell."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, Australia, New Zealand) a measure of housing equivalent to the living quarters of one household; an apartment where a group of apartments is contained in one or more multi-storied buildings or a group of dwellings is in one or more single storey buildings, usually arranged around a driveway.",
+                  "examples": [
+                    "The new apartment complex will have 50 units."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, military) Any military element whose structure is prescribed by competent authority, such as a table of organization and equipment; specifically, part of an organization.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, military) An organization title of a subdivision of a group in a task force.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, military) A standard or basic quantity into which an item of supply is divided, issued, or detailed. In this meaning, also called unit of issue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, military) With regard to Reserve Components of the Armed Forces, denotes a Selected Reserve unit organized, equipped, and trained for mobilization to serve on active duty as a unit or to augment or be augmented by another unit. Headquarters and support functions without wartime missions are not considered units.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) The identity element, neutral element.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) An element having an inverse, an invertible element; an associate of the unity.",
+                  "examples": [
+                    "Hypernym: regular element"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) In an adjunction, a natural transformation from the identity functor of the domain of the left adjoint functor to the composition of the right adjoint functor with the left adjoint functor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A volume of rock or ice of identifiable origin and age range that is defined by the distinctive and dominant, easily mapped and recognizable petrographic, lithologic or paleontologic features (facies) that characterize it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) A unit of alcohol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, electricity) One kilowatt-hour (as recorded on an electricity meter).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A gold coin of the reign of James I, worth twenty shillings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A work unit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, Australia, slang) A physically large person.",
+                  "examples": [
+                    "Luca's father, Americo Campanaro, said: \"I feel like my heart has been ripped out.\"Mr Campanaro added: \"He was a big lad, a big unit, that's why he was a goalkeeper, with a big heart to match. A gentle giant.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang, vulgar) A penis, especially a large one.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
