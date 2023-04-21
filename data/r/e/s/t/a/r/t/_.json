@@ -1,0 +1,58 @@
+{
+  "word": "restart",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ start"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "restart (plural restarts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of starting something again.",
+                  "examples": [
+                    "After the restart of my browser, the problem went away."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "restart (third-person singular simple present restarts, present participle restarting, simple past and past participle restarted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To start again.",
+                  "examples": [
+                    "All attempts to restart the engine failed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To reboot.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
