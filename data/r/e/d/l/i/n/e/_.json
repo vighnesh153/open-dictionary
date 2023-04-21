@@ -1,0 +1,83 @@
+{
+  "word": "redline",
+  "etymologies": [
+    {
+      "description": [
+        "red +‎ line, originating with the frequent use of red pen or pencil to mark corrections on drawings and documents (1), and the red markings on a tachometer (2)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "redline (plural redlines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A drawing, document, etc. that has been marked for correction or modification.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The maximum speed, temperature, pressure, etc., at which a device (such as the engine in a car, aircraft, etc.) is designed to operate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "redline (third-person singular simple present redlines, present participle redlining, simple past and past participle redlined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To mark a drawing or document for correction or modification.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "To operate a device at one or more redlines.",
+              "entries": [
+                {
+                  "meaning": "(automotive) To run an internal combustion engine to its maximum or maximum recommended speed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, US, urban studies) To deny or complicate access to services (such as banking, insurance, or healthcare) to residents in specific, often racially determined, areas.",
+                  "examples": [
+                    "Antonym: greenline"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(audio engineering) To achieve audio levels that will cause clipping (indicated by red in an audio meter).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
