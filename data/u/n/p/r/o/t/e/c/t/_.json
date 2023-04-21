@@ -1,0 +1,32 @@
+{
+  "word": "unprotect",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ protect"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unprotect (third-person singular simple present unprotects, present participle unprotecting, simple past and past participle unprotected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To remove protection from.",
+                  "examples": [
+                    "Nobody can edit the accounting spreadsheet until you unprotect it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
