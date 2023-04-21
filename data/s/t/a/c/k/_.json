@@ -1,0 +1,306 @@
+{
+  "word": "stack",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stack, stacke, stakke, stak, from Old Norse stakkr (“a barn; haystack; heap; pile”), from Proto-Germanic *stakkaz (“a barn; rick; haystack”), which per Kroonen (arguing for the controversial Kluge's law) is from *stogʰ-nós, cognate with Ancient Greek στόχος (stokhos), but unclear whether he derives *stogʰ-nós from a Proto-Indo-European *stegʰ- (“pole; rod; stick; stake”). Per Pokorny et al., from PIE *(s)teg- (“stake, pole, rod, stick, beam”) and cognate with Latin tignum (\"tree trunk, beam, log\"), but not cognate with Ancient Greek στόχος.",
+        "Cognate with Icelandic stakkur (“stack”), Swedish stack (“stack”), Danish stak (“stack”), Norwegian stakk (“stack”). Related to stake and sauna."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stack (plural stacks)",
+          "definitionGroups": [
+            {
+              "group": "(heading) A pile.",
+              "entries": [
+                {
+                  "meaning": "A large pile of hay, grain, straw, or the like, larger at the bottom than the top, sometimes covered with thatch.",
+                  "examples": [
+                    "But corn was housed, and beans were in the stack."
+                  ]
+                },
+                {
+                  "meaning": "A pile of similar objects, each directly on top of the last.",
+                  "examples": [
+                    "Please bring me a chair from that stack in the corner."
+                  ]
+                },
+                {
+                  "meaning": "(UK) A pile of poles or wood, indefinite in quantity.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A pile of wood containing 108 cubic feet. (~3 m³)",
+                  "examples": []
+                },
+                {
+                  "meaning": "An extensive collection",
+                  "examples": [
+                    "She performed appallingly on standard neurological tests, which are, as Sacks perceptively notes, specifically designed to deconstruct the whole person into a stack of 'abilities'."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A smokestack.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(heading) In computing.",
+              "entries": [
+                {
+                  "meaning": "(programming) A linear data structure in which items inserted are removed in reverse order (the last item inserted is the first one to be removed).",
+                  "examples": [
+                    "Hyponym: history stack"
+                  ]
+                },
+                {
+                  "meaning": "(computing, often with \"the\") A stack data structure stored in main memory that is manipulated during machine language procedure call related instructions.",
+                  "examples": [
+                    "When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and pushes the current contents of the PC ($00 0128) onto the stack."
+                  ]
+                },
+                {
+                  "meaning": "An implementation of a protocol suite (set of protocols forming a layered architecture).",
+                  "examples": [
+                    "A TCP/IP stack is a library or set of libraries or of OS drivers that take care of networking.",
+                    "Synonym: protocol stack"
+                  ]
+                },
+                {
+                  "meaning": "A combination of interdependent, yet individually replaceable, software components or technologies used together on a system.",
+                  "examples": [
+                    "Synonym: technology stack"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A generalization of schemes in algebraic geometry and of sheaves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A coastal landform, consisting of a large vertical column of rock in the sea.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(library) Compactly spaced bookshelves used to house large collections of books.",
+                  "examples": [
+                    "You took me to your library and kissed me in the stacks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A large amount of an object.",
+                  "examples": [
+                    "They paid him a stack of money to keep quiet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A pile of rifles or muskets in a cone shape.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) The amount of money a player has on the table.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(heading) In architecture.",
+              "entries": [
+                {
+                  "meaning": "A number of flues embodied in one structure, rising above the roof.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A vertical drainpipe.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, slang) A fall or crash, a prang.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bodybuilding) A blend of various dietary supplements or anabolic steroids with supposed synergistic benefits.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) A holding pattern, with aircraft circling one above the other as they wait to land.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) The quantity of a given item which fills up an inventory slot or bag.",
+                  "examples": [
+                    "I've got 107 Golden Branches, but the stack size is 20 so they're taking up 6 spaces in my inventory."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stack (third-person singular simple present stacks, present participle stacking, simple past and past participle stacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange in a stack, or to add to an existing stack.",
+                  "examples": [
+                    "Please stack those chairs in the corner."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, card games) To arrange the cards in a deck in a particular manner.",
+                  "examples": [
+                    "This is the third hand in a row where you've drawn four of a kind. Someone is stacking the deck!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, poker) To take all the money another player currently has on the table.",
+                  "examples": [
+                    "I won Jill's last $100 this hand; I stacked her!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To deliberately distort the composition of (an assembly, committee, etc.).",
+                  "examples": [
+                    "The Government was accused of stacking the parliamentary committee."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, US, Australia, slang) To crash; to fall.",
+                  "examples": [
+                    "Jim couldn′t make it today as he stacked his car on the weekend."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gaming) To operate cumulatively.",
+                  "examples": [
+                    "A magical widget will double your mojo. And yes, they do stack: if you manage to get two magical widgets, your mojo will be quadrupled. With three, it will be octupled, and so forth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation, transitive) To place (aircraft) into a holding pattern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, intransitive) To collect precious metal in the form of various small objects such as coins and bars.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) To have excessive ink transfer.",
+                  "examples": [
+                    "Antonym: skip"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
