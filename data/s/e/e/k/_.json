@@ -1,0 +1,114 @@
+{
+  "word": "seek",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English seken (also sechen, whence dialectal English seech), from Old English sēċan (compare beseech); from Proto-West Germanic *sōkijan, from Proto-Germanic *sōkijaną (“to seek”), from Proto-Indo-European *seh₂g- (“to seek out”).",
+        "Cognate with West Frisian sykje, Dutch zoeken, Low German söken, German suchen, Danish søge, Icelandic sækja, Norwegian Bokmål søke, Norwegian Nynorsk søkja, Swedish söka. The Middle English and later Modern English hard /k/ derives from Old English sēcð, the third person singular; the forms with /k/ were then reinforced by cognate Old Norse sǿkja."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "seek (plural seeks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The operation of navigating through a stream.",
+                  "examples": [
+                    "The number of seeks to retrieve a shot  […]  depends on the location of those frames on physical blocks."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "seek (third-person singular simple present seeks, present participle seeking, simple past and past participle sought)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To try to find; to look for; to search for.",
+                  "examples": [
+                    "I seek wisdom."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To ask for; to solicit; to beseech.",
+                  "examples": [
+                    "I seek forgiveness through repentance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To try to acquire or gain; to strive after; to aim at.",
+                  "examples": [
+                    "I sought my fortune on the goldfields."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To go, move, travel (in a given direction).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To try to reach or come to; to go to; to resort to.",
+                  "examples": [
+                    "When the alarm went off I sought the exit in a panic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, sometimes proscribed) To attempt, endeavour, try",
+                  "examples": [
+                    "Our company does not seek to limit its employees from using the internet or engaging in social networking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To navigate through a stream.",
+                  "examples": [
+                    "Synonym: scrub"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
