@@ -1,0 +1,104 @@
+{
+  "word": "request",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English request, from Old French requeste (French requête), from Vulgar Latin *requaesita, from Latin requīsīta, feminine of requīsītus (“requested, demanded”), past participle of requīrō (“require, ask”), composed of re- + quaerō (“I seek, look for”), of uncertain origin, but possibly from Proto-Italic *kʷaizeō, from Proto-Indo-European *kʷeh₂- (“to acquire”). Compare to French requetér."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "request (plural requests)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Act of requesting (with the adposition at in the presence of possessives, and on in their absence).",
+                  "examples": [
+                    "Synonyms: asking, beseech, prayer, wish"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A formal message requesting something.",
+                  "examples": [
+                    "Synonyms: petition, postulation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Condition of being sought after.",
+                  "examples": [
+                    "Synonym: demand"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) A message sent over a network to a server.",
+                  "examples": [
+                    "The server returned a 404 error to the HTTP request."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That which is asked for or requested.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "request (third-person singular simple present requests, present participle requesting, simple past and past participle requested)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive or with that clause) To ask for (something).",
+                  "examples": [
+                    "The corporal requested reinforcements.",
+                    "I have requested that the furniture be moved back to its original position."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To ask (somebody) to do something.",
+                  "examples": [
+                    "Synonyms: ask, bespeak, call for",
+                    "She called me into her office and requested me to sit down."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

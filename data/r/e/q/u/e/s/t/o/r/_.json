@@ -1,0 +1,32 @@
+{
+  "word": "requestor",
+  "etymologies": [
+    {
+      "description": [
+        "request +‎ -or; compare requester"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "requestor (plural requestors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, makes a request.",
+                  "examples": [
+                    "Consider for example a scenario in which there are ten memory requestors, each with a separate memory account. Eight of these requestors together use only 1/5 of the system memory but the other two requestors each require 2/3 of the system memory."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
