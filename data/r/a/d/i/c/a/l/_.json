@@ -1,0 +1,242 @@
+{
+  "word": "radical",
+  "etymologies": [
+    {
+      "description": [
+        "Inherited from Middle English radical, from Latin rādīcālis (“of or pertaining to the root, having roots, radical”)."
+      ],
+      "adjectives": [
+        {
+          "description": "radical (comparative more radical, superlative most radical)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Favoring fundamental change, or change at the root cause of a matter.",
+                  "examples": [
+                    "His beliefs are radical."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany, not comparable) Pertaining to a root (of a plant).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pertaining to the basic or intrinsic nature of something.",
+                  "examples": [
+                    "Synonym: fundamental",
+                    "Antonyms: ignorable, trivial"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Thoroughgoing; far-reaching.",
+                  "examples": [
+                    "The spread of the cancer required radical surgery, and the entire organ was removed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(lexicography, not comparable) Of or pertaining to the root of a word.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonology, phonetics, not comparable, of a sound) Produced using the root of the tongue.",
+                  "examples": [
+                    "Coordinate terms: coronal, dorsal, labial, laryngeal"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, not comparable) Involving free radicals.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Relating to a radix or mathematical root.",
+                  "examples": [
+                    "a radical quantity; a radical sign"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, 1980s & 1990s) Excellent; awesome.",
+                  "examples": [
+                    "That was a radical jump!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "radical (plural radicals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical, 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical, early 20th-century France) A member of an influential, centrist political party favouring moderate social reform, a republican constitution, and secular politics.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person with radical opinions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) A root (of a number or quantity).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) In logographic writing systems such as the Chinese writing system, the portion of a character (if any) that provides an indication of its meaning, as opposed to phonetic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) In Celtic languages, refers to the basic, underlying form of an initial consonant which can be further mutated under the Celtic initial consonant mutations.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) In Semitic languages, any one of the set of consonants (typically three) that make up a root.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A group of atoms, joined by covalent bonds, that take part in reactions as a single unit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(organic chemistry) A free radical.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, commutative algebra, ring theory, of an ideal) Given an ideal I in a commutative ring R, another ideal, denoted Rad(I) or \n  \n    \n      \n        \n          \n            I\n          \n        \n      \n    \n    {\\displaystyle {\\sqrt {I}}}\n  \n, such that an element x ∈ R is in Rad(I) if, for some positive integer n, xn ∈ I; equivalently, the intersection of all prime ideals containing I.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, ring theory, of a ring) Given a ring R, an ideal containing elements of R that share a property considered, in some sense, \"not good\".",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, ring theory, of a module) The intersection of maximal submodules of a given module.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(number theory) The product of the distinct prime factors of a given positive integer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
