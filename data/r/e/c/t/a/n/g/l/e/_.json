@@ -1,0 +1,46 @@
+{
+  "word": "rectangle",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French, from Old French, from Medieval Latin or Late Latin rectangulum (“right angle”), from Latin rectus (“right”) + angulus (“an angle”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rectangle (plural rectangles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Any quadrilateral having opposing sides parallel and four right angles.",
+                  "examples": [
+                    "Hypernym: polygon",
+                    "Hyponym: square",
+                    "Coordinate terms: circle, ellipse, triangle, trapezoid, rhombus"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nontechnical) Such a quadrilateral that is oblong (longer than it is wide): one that is not regular (equilateral), that is, any except a square.",
+                  "examples": [
+                    "Hypernyms: shape, polygon",
+                    "Coordinate terms: square, circle, oval, ellipse, triangle, trapezoid, rhombus, lozenge, diamond"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
