@@ -1,0 +1,64 @@
+{
+  "word": "simplex",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin simplex (“simple”).",
+        "In the mathematical sense, apparently first used (in German) in 1902, Pieter Hendrik Schoute, Mehrdimensionale Geometrie[1], where Schoute first suggests the term Simplicissimum, but then from the next page decides to use simplex \"for short\". In his pioneering works on algebraic topology, Henri Poincaré had previously introduced the concept, but not the actual term simplex."
+      ],
+      "adjectives": [
+        {
+          "description": "simplex (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Single, simple; not complex.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) Unidirectional.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "simplex (plural simplexes or simplices or simplicia)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, algebraic topology) An analogue in a space of arbitrary dimensionality of the triangle or tetrahedron; the convex hull of n+1 linearly independent points in n-dimensional space; in other words, the triangle, tetrahedron etc., generalized to an arbitrary number of dimensions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A monomorphemic word, one without affixes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
