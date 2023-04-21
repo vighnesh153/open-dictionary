@@ -1,0 +1,32 @@
+{
+  "word": "precopy",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ copy"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "precopy (third-person singular simple present precopies, present participle precopying, simple past and past participle precopied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To copy in advance.",
+                  "examples": [
+                    "However, in a true cloud computing environment, you don't know which other physical server the VM will be moved to, and therefore you don't know where to precopy the data."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
