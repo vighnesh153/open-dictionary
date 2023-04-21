@@ -1,0 +1,63 @@
+{
+  "word": "recapitulate",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin recapitulatus, past participle of recapitulare (“to go over the main points of a thing again”), from Latin re- (“again”) + capitulum (“a head, main part, chapter”); see capitulate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "recapitulate (third-person singular simple present recapitulates, present participle recapitulating, simple past and past participle recapitulated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To summarize or repeat in concise form.",
+                  "examples": [
+                    "The entire symphony was recapitulated in the last four bars."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To summarize or repeat in concise form.",
+                  "examples": [
+                    "We still have five minutes left, so let's recapitulate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reproduce or closely resemble (as in structure or function).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) (biology, of an organism) To mirror or repeat in analogous form, especially in reference to an individual's development passing through stages corresponding to the species' stages of evolutionary development.",
+                  "examples": [
+                    "Similarly this concept of unity provided a powerful impetus for embryological studies and the idea that fetal development recapitulates the steps of phylogenetic development."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
