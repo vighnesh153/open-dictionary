@@ -1,0 +1,48 @@
+{
+  "word": "sigil",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin sigillum (“little sign”). Doublet of seal and sigillum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sigil (plural sigils)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A seal, signature or signet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An occult or magical sign, image or symbol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A nonalphanumeric character (a symbol) affixed to a term (such as a variable) to indicate a property such as type or scope.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
