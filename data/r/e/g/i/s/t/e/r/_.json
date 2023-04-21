@@ -1,0 +1,308 @@
+{
+  "word": "register",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin registrum, from Late Latin regesta (“list, items recorded”), from Latin regerere (“to record, to carry back”), from re- + gerero (“to carry, bear”). Compare Latin registoria (“a treasurer”). Some senses influenced by association with unrelated Latin regere (“to rule”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "register (plural registers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A formal recording of names, events, transactions, etc.",
+                  "examples": [
+                    "The teacher took the register by calling out each child's name."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A book of such entries.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An entry in such a book.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of registering.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A certificate issued by the collector of customs of a port or district to the owner of a vessel, containing the description of a vessel, its name, ownership, and other material facts. It is kept on board the vessel, to be used as evidence of nationality or as a muniment of title.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who registers or records; a registrar; especially, a public officer charged with the duty of recording certain transactions or events.",
+                  "examples": [
+                    "a register of deeds"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A distinct horizontal (or, more rarely, vertical) section of a work of art or inscription that is divided into several such sections.",
+                  "examples": [
+                    "The reverse side is divided into three registers. In the first register is the name of Narmer represented as a fish and a chisel inscribed in the serekh."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device that automatically records a quantity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) The part of a telegraphic apparatus that automatically records the message received.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) A list of received calls in a phone set.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A small unit of very fast memory that is directly accessible to the central processing unit, and is mostly used to store inputs, outputs, or intermediate results of computations.",
+                  "examples": [
+                    "When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and pushes the current contents of the PC ($00 0128) onto the stack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) The exact alignment of lines, margins, and colors.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) The inner part of the mould in which types are cast.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The range of a voice or instrument.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) An organ stop.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A style of a language used in a particular context.",
+                  "examples": [
+                    "My ex-boss used \"let go\", in the euphemistic register, when he sacked me."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A grille at the outflow of a ventilation duct, capable of being opened and closed to direct the air flow.",
+                  "examples": [
+                    "No. 1 chamber, 1 8x12 side wall register for warm air. No. 2 chamber, 1 8x12 side wall register for warm air."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly US) Clipping of cash register.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "register (third-person singular simple present registers, present participle registering, simple past and past participle registered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enter in a register; to enlist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To sign-up, especially to vote.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To record, especially in writing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To buy the full version of trial software by providing one's details and payment.",
+                  "examples": [
+                    "This is a trial version, and will expire in 30 days. Please register!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To express outward signs.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mail) To record officially and handle specially.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, especially printing) To make or adjust so as to be properly or precisely aligned.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To place one's name, or have one's name placed in a register.",
+                  "examples": [
+                    "They registered for school."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make an impression.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be in proper alignment; to align or correspond exactly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) To voluntarily sign over for safe keeping, abandoning complete ownership for partial.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
