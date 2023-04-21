@@ -1,0 +1,32 @@
+{
+  "word": "pseudorandom",
+  "etymologies": [
+    {
+      "description": [
+        "pseudo- +‎ random"
+      ],
+      "adjectives": [
+        {
+          "description": "pseudorandom (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a sequence of numbers, such that it has all the properties of a random sequence following some probability distribution (except true randomness), but is actually generated using a deterministic algorithm.",
+                  "examples": [
+                    "Simple random samples were chosen from an ordered list with the aid of a Pseudo Random Digit Generator affiliated with the Computer Data Corporation Fortran Compiler."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
