@@ -1,0 +1,32 @@
+{
+  "word": "pseudoinstruction",
+  "etymologies": [
+    {
+      "description": [
+        "pseudo- +‎ instruction"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pseudoinstruction (plural pseudoinstructions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A command that resembles, but is not in fact, a machine instruction, such as a special directive or a command that is mapped to a sequence of real instructions.",
+                  "examples": [
+                    "The compiler constructs one or several instructions corresponding to the respective pseudoinstruction and adds them to the object program just being formed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
