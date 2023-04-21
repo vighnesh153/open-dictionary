@@ -1,0 +1,117 @@
+{
+  "word": "virtual",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English vertual, virtual, from Medieval Latin virtuālis, from virtus (“virtue”)."
+      ],
+      "adjectives": [
+        {
+          "description": "virtual (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In effect or essence, if not in fact or reality; imitated, simulated.",
+                  "examples": [
+                    "In fact a defeat on the battlefield, Tet was a virtual victory for the North, owing to its effect on public opinion.",
+                    "Virtual addressing allows applications to believe that there is much more physical memory than actually exists."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having the power of acting or of invisible efficacy without the agency of the material or measurable part; potential.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Nearly, almost. (A relatively recent development in meaning)",
+                  "examples": [
+                    "The angry peasants were a virtual army as they attacked the castle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Simulated in a computer or online.",
+                  "examples": [
+                    "The virtual world of his computer game allowed character interaction."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Operating by computer or in cyberspace; not physically present.",
+                  "examples": [
+                    "a virtual assistant    a virtual personal trainer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, object-oriented programming, of a class member) Capable of being overridden with a different implementation in a subclass.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Pertaining to particles in temporary existence due to the Heisenberg uncertainty principle.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "virtual (plural virtuals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A virtual member function of a class.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gambling) A computer simulation of a real-world sport such as horse racing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
