@@ -1,0 +1,92 @@
+{
+  "word": "reservoir",
+  "etymologies": [
+    {
+      "description": [
+        "From French réservoir (“collection place”) (fig.), réservoir (“storehouse”) (lit.). in turn from French réserver (“to reserve, keep”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reservoir (plural reservoirs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A place where anything is kept in store.",
+                  "examples": [
+                    "Within a printer cartridge, ink is typically stored in an ink reservoir and is deposited onto media through a print head."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A large natural or artificial lake used as a source of water supply.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small intercellular space, often containing resin, essential oil, or some other secreted matter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A supply or source of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A species that acts as host to a zoonosis when it is not causing acute illness in other susceptible species.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A \"black box\" component that receives an input signal to be read out and mapped by another process, as part of reservoir computing.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reservoir (third-person singular simple present reservoirs, present participle reservoiring, simple past and past participle reservoired)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To store or keep (something) in or as in a reservoir.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
