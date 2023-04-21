@@ -1,0 +1,79 @@
+{
+  "word": "slipstream",
+  "etymologies": [
+    {
+      "description": [
+        "slip +‎ stream. Fiction sense coined by cyberpunk author Bruce Sterling in 1989."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "slipstream (countable and uncountable, plural slipstreams)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The low-pressure zone immediately following a rapidly moving object, caused by turbulence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, by extension) A generated advantage which makes forward movement easier.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, fiction) A genre of fantastic or non-realistic fiction that crosses conventional genre boundaries.",
+                  "examples": [
+                    "Coordinate term: New Weird"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "slipstream (third-person singular simple present slipstreams, present participle slipstreaming, simple past and past participle slipstreamed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To take advantage of the suction produced by a slipstream by travelling immediately behind the slipstream generator.",
+                  "examples": [
+                    "Synonym: draft",
+                    "Although dangerous, over-the-road truck drivers sometimes slipstream with each other to save fuel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To incorporate additional software (such as patches) into an existing installer.",
+                  "examples": [
+                    "A better solution is to create a bootable Windows XP installation CD slipstreamed with the current service pack..."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
