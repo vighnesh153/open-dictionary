@@ -1,0 +1,61 @@
+{
+  "word": "unvoiced",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ voiced."
+      ],
+      "adjectives": [
+        {
+          "description": "unvoiced (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not spoken or expressed.",
+                  "examples": [
+                    "I could guess her unvoiced opinon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) Spoken without vibration of the vocal chords.",
+                  "examples": [
+                    "Synonym: voiceless"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing, of a signal) That does not contain voice.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) Of an IRC user: not granted voice privileges.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
