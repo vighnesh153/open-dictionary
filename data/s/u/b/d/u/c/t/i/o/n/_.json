@@ -1,0 +1,70 @@
+{
+  "word": "subduction",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin subductio; see Latin sub, ductio."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subduction (countable and uncountable, plural subductions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The action of being pushed or drawn beneath another object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) The process of one tectonic plate moving beneath another and sinking into the mantle at a convergent plate boundary.",
+                  "examples": [
+                    "Therefore, both a mantle plume and also the subductions of the oceanic plates may have mutually contributed to create the magmatic zone."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of subducting or taking away.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Arithmetical subtraction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, mathematical analysis) A surjection between diffeological spaces such that the target is identified as the pushforward of the source.",
+                  "examples": [
+                    "Accordingly, a diffeological principal S1-bundle over a diffeological space X is a subduction π : P → X and a smooth map τ satisfying the same conditions; see [30] for a thorough discussion."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
