@@ -1,0 +1,183 @@
+{
+  "word": "reference",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French référence, from Medieval Latin referentia, nominative neuter plural of referēns, present participle of referō (“return, reply”, literally “carry back”).",
+        "Morphologically refer +‎ -ence."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reference (countable and uncountable, plural references)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literary or archaic) A relationship or relation (to something).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A measurement one can compare (some other measurement) to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Information about a person, provided by someone (a referee) with whom they are well acquainted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, Ireland) A person who provides this information; a referee.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(often attributive) A reference work.",
+                  "examples": [
+                    "reference grammar ― detailed linguistic description of a particular language's grammar",
+                    "Reference Dictionary of Linguistics"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of referring: a submitting for information or decision.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semantics) A relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(academic writing) A short written identification of a previously published work which is used as a source for a text.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(academic writing) A previously published written work thus indicated; a source.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An object containing information which refers to data stored elsewhere, as opposed to containing the data itself.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, character entity) A special sequence used to represent complex characters in markup languages, such as &trade; for the ™ symbol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Appeal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reference (third-person singular simple present references, present participle referencing, simple past and past participle referenced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To provide a list of references for (a text).",
+                  "examples": [
+                    "You must thoroughly reference your paper before submitting it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To refer to, to use as a reference.",
+                  "examples": [
+                    "Reference the dictionary for word meanings."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To mention, to cite.",
+                  "examples": [
+                    "In his speech, the candidate obliquely referenced the past failures of his opponent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To contain the value that is a memory address of some value stored in memory.",
+                  "examples": [
+                    "The given pointer will reference the actual generated data."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
