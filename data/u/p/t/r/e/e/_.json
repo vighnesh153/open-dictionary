@@ -1,0 +1,49 @@
+{
+  "word": "uptree",
+  "etymologies": [
+    {
+      "description": [
+        "up- +‎ tree"
+      ],
+      "adjectives": [
+        {
+          "description": "uptree (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) Higher in a tree data structure.",
+                  "examples": [
+                    "Antonym: downtree"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "uptree (plural uptrees)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A subtree of a tree data structure that is rooted at a child of the current node (where the root node is considered to be the bottom of a tree).",
+                  "examples": [
+                    "The principal idea of [JAF 82] is that nodes do not start to update their routing table until all nodes in uptrees are notified."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
