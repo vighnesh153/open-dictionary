@@ -1,0 +1,197 @@
+{
+  "word": "space",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English space, from Anglo-Norman space, variant of espace, espas et al., and spaze, variant of espace, from Latin spatium, from Proto-Indo-European *(s)peh₂- (“to stretch, to pull”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "space (countable and uncountable, plural spaces)",
+          "definitionGroups": [
+            {
+              "group": "(heading) Of time.",
+              "entries": [
+                {
+                  "meaning": "(now rare, archaic) Free time; leisure, opportunity. [from 14thc.]",
+                  "examples": [
+                    "Synonyms: leisure time, spare time"
+                  ]
+                },
+                {
+                  "meaning": "A specific (specified) period of time. [from 14thc.]",
+                  "examples": [
+                    "Synonyms: duration, span; see also Thesaurus:period"
+                  ]
+                },
+                {
+                  "meaning": "An undefined period of time (without qualifier, especially a short period); a while. [from 15thc.]",
+                  "examples": [
+                    "Synonyms: spell, while; see also Thesaurus:uncertain period"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(heading) Unlimited or generalized extent, physical or otherwise.",
+              "entries": [
+                {
+                  "meaning": "Distance between things. [from 14thc.]",
+                  "examples": [
+                    "Synonyms: break, gap; see also Thesaurus:interspace"
+                  ]
+                },
+                {
+                  "meaning": "Physical extent across two or three dimensions (sometimes for or to do something). [from 14thc.]",
+                  "examples": [
+                    "Synonyms: area, volume"
+                  ]
+                },
+                {
+                  "meaning": "Physical extent in all directions, seen as an attribute of the universe (now usually considered as a part of space-time), or a mathematical model of this. [from 17thc.]",
+                  "examples": [
+                    "Space is the Phantasme of a Thing existing without the Mind simply."
+                  ]
+                },
+                {
+                  "meaning": "The near-vacuum in which planets, stars and other celestial objects are situated; the universe beyond the earth's atmosphere. [from 17thc.]",
+                  "examples": [
+                    "Synonym: outer space",
+                    "the first man in space"
+                  ]
+                },
+                {
+                  "meaning": "The physical and psychological area one needs within which to live or operate; personal freedom. [from 20thc.]",
+                  "examples": [
+                    "Around the time of my parents' divorce, I learned that reading could also give me space."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(heading) A bounded or specific extent, physical or otherwise.",
+              "entries": [
+                {
+                  "meaning": "A (chiefly empty) area or volume with set limits or boundaries. [from 14thc.]",
+                  "examples": [
+                    "The street door was open, and we entered a narrow space with washing facilities, curtained off from the courtyard."
+                  ]
+                },
+                {
+                  "meaning": "(music) A position on the staff or stave bounded by lines. [from 15thc.]",
+                  "examples": [
+                    "The note next above Sol is La; La, therefore, stands in the 2nd space; Si, on the 3rd line, &c."
+                  ]
+                },
+                {
+                  "meaning": "A gap in text between words, lines etc., or a digital character used to create such a gap. [from 16thc.]",
+                  "examples": [
+                    "Synonyms: blank, gap, (graphic design) whitespace"
+                  ]
+                },
+                {
+                  "meaning": "(letterpress typography) A piece of metal type used to separate words, cast lower than other type so as not to take ink, especially one that is narrower than one en (compare quad). [from 17thc.]",
+                  "examples": [
+                    "Synonyms: quad, quadrat"
+                  ]
+                },
+                {
+                  "meaning": "A gap; an empty place. [from 17thc.]",
+                  "examples": [
+                    "Mainstream Hollywood would not cater to the taste for sexual sensation, which left a space for B-movies, including noir."
+                  ]
+                },
+                {
+                  "meaning": "(geometry) A set of points, each of which is uniquely specified by a number (the dimensionality) of coordinates.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(countable, mathematics) A generalized construct or set whose members have some property in common; typically there will be a geometric metaphor allowing these members to be viewed as \"points\". Often used with a restricting modifier describing the members (e.g. vector space), or indicating the inventor of the construct (e.g. Hilbert space). [from 20thc.]",
+                  "examples": [
+                    "Functional analysis is best approached through a sound knowledge of Hilbert space theory."
+                  ]
+                },
+                {
+                  "meaning": "(countable, figuratively) A field, area, or sphere of activity or endeavour.",
+                  "examples": [
+                    "innovation in the browser space"
+                  ]
+                },
+                {
+                  "meaning": "Anything analogous to a physical space in which one can interact, such as an online chat room.",
+                  "examples": [
+                    "Communication in Internet chat spaces allows participants to communicate so freely in the relative safety of anonymity that they forget their privacy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "space (third-person singular simple present spaces, present participle spacing, simple past and past participle spaced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To roam, walk, wander.",
+                  "examples": [
+                    "But she as Fayes are wont, in priuie place / Did spend her dayes, and lov'd in forests wyld to space."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set some distance apart.",
+                  "examples": [
+                    "Faye had spaced the pots at 8-inch intervals on the windowsill.",
+                    "The cities are evenly spaced."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To insert or utilise spaces in a written text.",
+                  "examples": [
+                    "This paragraph seems badly spaced."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, science fiction) To eject into outer space, usually without a space suit.",
+                  "examples": [
+                    "The captain spaced the traitors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, science fiction) To travel into and through outer space.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
