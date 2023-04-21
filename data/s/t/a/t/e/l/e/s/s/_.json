@@ -1,0 +1,61 @@
+{
+  "word": "stateless",
+  "etymologies": [
+    {
+      "description": [
+        "state +‎ -less"
+      ],
+      "adjectives": [
+        {
+          "description": "stateless (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) Of a system or protocol, such that it does not keep a persistent state between transactions.",
+                  "examples": [
+                    "A stateless server treats each request independently."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Without state or pomp.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) Without a state or nationality; not subject to any state.",
+                  "examples": [
+                    "UN Convention relating to the Status of Stateless Persons"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy, politics) Neither believing in nor supporting the idea of nations.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
