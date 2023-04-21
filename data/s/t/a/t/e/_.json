@@ -1,0 +1,193 @@
+{
+  "word": "state",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stat (as a noun); adopted c. 1200 from both Old French estat and Latin status (“manner of standing, attitude, position, carriage, manner, dress, apparel; and other senses”), from stare (“to stand”). Doublet of estate and status. The sense of \"polity\" develops in the 14th century. Compare French être, Greek στέω (stéo), Italian stare, Portuguese estar, Romanian sta, and Spanish estar."
+      ],
+      "adjectives": [
+        {
+          "description": "state (comparative more state, superlative most state)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Stately.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "state (plural states)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "A condition; a set of circumstances applying at any given time.",
+              "entries": [
+                {
+                  "meaning": "(physics) A complete description of a system, consisting of parameters that determine all properties of the system.",
+                  "examples": [
+                    "States in which the energy has definite values are called stationary states of a system; they are described by wave functions Ψn which are the eigenfunctions of the Hamiltonian operator, i.e. which satisfy the equation ĤΨn = EnΨn, where En are the eigenvalues of the energy."
+                  ]
+                },
+                {
+                  "meaning": "(colloquial, in the singular) A mess; disorder.",
+                  "examples": [
+                    "absolute state",
+                    "in a state"
+                  ]
+                },
+                {
+                  "meaning": "(computing) The stable condition of a processor during a particular clock cycle.",
+                  "examples": [
+                    "In the fetch state, the address of the next instruction is placed on the address bus."
+                  ]
+                },
+                {
+                  "meaning": "(computing) The set of all parameters relevant to a computation.",
+                  "examples": [
+                    "The state here includes a set containing all names seen so far."
+                  ]
+                },
+                {
+                  "meaning": "(computing) The values of all parameters at some point in a computation.",
+                  "examples": [
+                    "A debugger can show the state of a program at any breakpoint."
+                  ]
+                },
+                {
+                  "meaning": "(sciences) The physical property of matter as solid, liquid, gas or plasma.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) Highest and stationary condition, as that of maturity between growth and decline, or as that of crisis between the increase and the abating of a disease; height; acme.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "High social standing or circumstance.",
+              "entries": [
+                {
+                  "meaning": "Pomp, ceremony, or dignity.",
+                  "examples": [
+                    "in state",
+                    "The President's body will lie in state at the Capitol."
+                  ]
+                },
+                {
+                  "meaning": "Rank; condition; quality.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Condition of prosperity or grandeur; wealthy or prosperous circumstances; social importance.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A chair with a canopy above it, often standing on a dais; a seat of dignity; also, the canopy itself.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) A great person, a dignitary; a lord or prince.",
+                  "examples": [
+                    "They who to States and Governours of the Commonwealth direct their Speech, High Court of Parlament, or wanting ſuch acceſſe in a private condition, write that which they foreſee may advance the publick good ; I ſuppoſe them as at the beginning of no meane endeavour, not a little alter’d and mov’d inwardly in their mindes […]"
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) Estate, possession.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "A polity.",
+              "entries": [
+                {
+                  "meaning": "Any sovereign polity; a national or city-state government.",
+                  "examples": [
+                    "Never do anything against conscience even if the state demands it."
+                  ]
+                },
+                {
+                  "meaning": "A political division of a federation retaining a notable degree of autonomy, as in the United States, Mexico, Nigeria, or India.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(obsolete) A form of government other than a monarchy.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(anthropology) A society larger than a tribe. A society large enough to form a state in the sense of a government.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, stochastic processes) An element of the range of the random variables that define a random process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, semantics) The lexical aspect (aktionsart) of verbs or predicates that do not change over time.",
+                  "examples": [
+                    "Antonym: occurrence"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "state (third-person singular simple present states, present participle stating, simple past and past participle stated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To declare to be a fact.",
+                  "examples": [
+                    "He stated that he was willing to help."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make known.",
+                  "examples": [
+                    "State your intentions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

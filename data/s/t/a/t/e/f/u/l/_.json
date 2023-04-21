@@ -1,0 +1,39 @@
+{
+  "word": "stateful",
+  "etymologies": [
+    {
+      "description": [
+        "state +‎ -ful. In the computing sense it is intended as an opposite for stateless."
+      ],
+      "adjectives": [
+        {
+          "description": "stateful (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) That supports different states, reacting to the same input differently depending on the current state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Full of state; stately.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
