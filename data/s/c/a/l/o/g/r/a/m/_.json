@@ -1,0 +1,30 @@
+{
+  "word": "scalogram",
+  "etymologies": [
+    {
+      "description": [
+        "scale +‎ -o- +‎ -gram"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scalogram (plural scalograms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing) A visual representation of a wavelet transform, having axes for time, scale, and coefficient value, analogous to a spectrogram",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
