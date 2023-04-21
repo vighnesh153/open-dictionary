@@ -1,0 +1,134 @@
+{
+  "word": "trope",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin tropus, from Ancient Greek τρόπος (trópos, “a manner, style, turn, way; a trope or figure of speech; a mode in music; a mode or mood in logic”), related to τροπή (tropḗ, “solstice; trope; turn”) and τρέπειν (trépein, “to turn”); compare turn of phrase. The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trope (plural tropes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(art, literature) Something recurring across a genre or type of art or literature, such as the ‘mad scientist’ of horror movies or the use of the phrase ‘once upon a time’ as an introduction to fairy tales; a motif.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medieval Christianity) An addition (of dialogue, song, music, etc.) to a standard element of the liturgy, serving as an embellishment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) A figure of speech in which words or phrases are used with a nonliteral or figurative meaning, such as a metaphor.",
+                  "examples": [
+                    "Since the tories have thus disappointed my hopes,  And will neither regard my figures nor tropes;"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(geometry) Mathematical senses.",
+              "entries": [
+                {
+                  "meaning": "A tangent space meeting a quartic surface in a conic.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(archaic) The reciprocal of a node on a surface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(music) Musical senses.",
+              "entries": [
+                {
+                  "meaning": "A short cadence at the end of the melody in some early music.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A pair of complementary hexachords in twelve-tone technique.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Judaism) A cantillation pattern, or one of the marks that represents it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(philosophy) Philosophical senses.",
+              "entries": [
+                {
+                  "meaning": "(Greek philosophy) Any of the ten arguments used in skepticism to refute dogmatism.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(metaphysics) A particular instance of a property (such as the specific redness of a rose), as contrasted with a universal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "trope (third-person singular simple present tropes, present participle troping, simple past and past participle troped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use, or embellish something with, a trope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(transitive) Senses relating chiefly to art or literature.",
+              "entries": [
+                {
+                  "meaning": "To represent something figuratively or metaphorically, especially as a literary motif.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To turn into, coin, or create a new trope.",
+                  "examples": []
+                },
+                {
+                  "meaning": "To analyse a work in terms of its literary tropes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To think or write in terms of tropes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
