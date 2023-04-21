@@ -1,0 +1,39 @@
+{
+  "word": "superblock",
+  "etymologies": [
+    {
+      "description": [
+        "super- +‎ block"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "superblock (plural superblocks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture, urban planning) A very large block of buildings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A segment of metadata describing the file system on a block device.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
