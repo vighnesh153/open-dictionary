@@ -1,0 +1,672 @@
+{
+  "word": "round",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English round, rounde, from Old Northern French roünt, rund, Old French ront, runt, reont ( > French rond), from both Late Latin retundus and the original Latin rotundus. The noun developed partly from the adjective and partly from the corresponding French noun rond. Compare the doublets rotund and rotunda."
+      ],
+      "adjectives": [
+        {
+          "description": "round (comparative rounder or more round, superlative roundest or most round)",
+          "definitionGroups": [
+            {
+              "group": "(physical) Of shape:",
+              "entries": [
+                {
+                  "meaning": "Circular or cylindrical; having a circular cross-section in one direction.",
+                  "examples": [
+                    "We sat at a round table to make conversation easier."
+                  ]
+                },
+                {
+                  "meaning": "Spherical; shaped like a ball; having a circular cross-section in more than one direction.",
+                  "examples": [
+                    "The ancient Egyptian demonstrated that the Earth is round, not flat."
+                  ]
+                },
+                {
+                  "meaning": "Lacking sharp angles; having gentle curves.",
+                  "examples": [
+                    "Our child's bed has round corners for safety."
+                  ]
+                },
+                {
+                  "meaning": "Plump.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Complete, whole, not lacking.",
+                  "examples": [
+                    "The baker sold us a round dozen."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a number) Convenient for rounding other numbers to; for example, ending in a zero.",
+                  "examples": [
+                    "One hundred is a nice round number."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) Pronounced with the lips drawn together; rounded.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Outspoken; plain and direct; unreserved; not mincing.",
+                  "examples": [
+                    "a round answer; a round oath"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Finished; polished; not defective or abrupt; said of authors or their writing style.",
+                  "examples": [
+                    "In his satires Horace is quick, round, and  […]  pleasant."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Consistent; fair; just; applied to conduct.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Large in magnitude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(authorship, of a fictional character) Well-written and well-characterized; complex and reminiscent of a real person.",
+                  "examples": [
+                    "Antonym: flat"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) Vaulted.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "round (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of around",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "round (plural rounds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A circular or spherical object or part of an object.",
+                  "examples": [
+                    "All at once the sun was through, a round of dulled silver, racing slantwise through the clouds yet always staying in the same place."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A circular or repetitious route.",
+                  "examples": [
+                    "hospital rounds",
+                    "The prison guards have started their nightly rounds."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A general outburst from a group of people at an event.",
+                  "examples": [
+                    "The candidate got a round of applause after every sentence or two."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A song that is sung by groups of people with each subset of people starting at a different time.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A serving of something; a portion of something to each person in a group.",
+                  "examples": [
+                    "They brought us a round of drinks about every thirty minutes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A single individual portion or dose of medicine.",
+                  "examples": [
+                    "Daniel underwent one round of chemotherapy in February but stopped after that single treatment, citing religious beliefs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One sandwich (two full slices of bread with filling).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(art) A long-bristled, circular-headed paintbrush used in oil and acrylic painting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A firearm cartridge, bullet, or any individual ammunition projectile. Originally referring to the spherical projectile ball of a smoothbore firearm. Compare round shot and solid shot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) One of the specified pre-determined segments of the total time of a sport event, such as a boxing or wrestling match, during which contestants compete before being signaled to stop.",
+                  "examples": [
+                    "And though Fightville, an MMA documentary from the directors of the fine Iraq War doc Gunner Palace, presents it more than fairly, the sight of a makeshift ring getting constructed on a Louisiana rodeo ground does little to shake the label. Nor do the shots of ringside assistants with spray bottles and rags, mopping up the blood between rounds"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A stage, level, set of events in a game",
+              "entries": [
+                {
+                  "meaning": "(sports) A stage in a competition.",
+                  "examples": [
+                    "qualifying rounds of the championship"
+                  ]
+                },
+                {
+                  "meaning": "(sports) In some sports, e.g. golf or showjumping: one complete way around the course.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(video games) A stage or level of a game.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(card games) The play after each deal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, drafting, CAD) A rounded relief or cut at an edge, especially an outside edge, added for a finished appearance and to soften sharp edges.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A strip of material with a circular face that covers an edge, gap, or crevice for decorative, sanitary, or security purposes.",
+                  "examples": [
+                    "All furniture in the nursery had rounds on the edges and in the crevices."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(butchery) The hindquarters of a bovine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A rung, as of a ladder.",
+                  "examples": [
+                    "All the rounds like Jacob's ladder rise."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A crosspiece that joins and braces the legs of a chair.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of changes or events ending where it began; a series of like events recurring in continuance; a cycle; a periodical revolution.",
+                  "examples": [
+                    "the round of the seasons    a round of pleasures"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A course of action or conduct performed by a number of persons in turn, or one after another, as if seated in a circle.",
+                  "examples": [
+                    "Women to cards may be compar'd: we play  A round or two; when us'd, we throw away."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of duties or tasks which must be performed in turn, and then repeated.",
+                  "examples": [
+                    "Synonym: routine"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A circular dance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Rotation, as in office; succession.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A general discharge of firearms by a body of troops in which each soldier fires once.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An assembly; a group; a circle.",
+                  "examples": [
+                    "a round of politicians"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A brewer's vessel in which the fermentation is concluded, the yeast escaping through the bunghole.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A vessel filled, as for drinking.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A round-top.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A round of beef.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [
+        {
+          "description": "round",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare in US) Alternative form of around",
+                  "examples": [
+                    "I look round the room quickly to make sure it's neat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": [
+        {
+          "description": "round (third-person singular simple present rounds, present participle rounding, simple past and past participle rounded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To shape something into a curve.",
+                  "examples": [
+                    "The carpenter rounded the edges of the table."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become shaped into a curve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(with \"out\") To finish; to complete; to fill out.",
+                  "examples": [
+                    "She rounded out her education with only a single mathematics class."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To approximate a number, especially a decimal number by the closest whole number.",
+                  "examples": [
+                    "Ninety-five rounds up to one hundred."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To turn past a boundary.",
+                  "examples": [
+                    "Helen watched him until he rounded the corner."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To turn and attack someone or something (used with on).",
+                  "examples": [
+                    "As a group of policemen went past him, one of them rounded on him, grabbing him by the arm."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, baseball) To advance to home plate.",
+                  "examples": [
+                    "And the runners round the bases on the double by Jones."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To go round, pass, go past.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To encircle; to encompass.",
+                  "examples": [
+                    "Synonym: surround"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To grow round or full; hence, to attain to fullness, completeness, or perfection.",
+                  "examples": [
+                    "So rounds he to a separate mind,  From whence clear memory may begin."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, colloquial) To do ward rounds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To go round, as a guard; to make the rounds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To go or turn round; to wheel about.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English rounen, from Old English rūnian (“to whisper, talk low, talk secrets, consipre, talk secretly”), from Proto-Germanic *rūnōną (“to talk secrets, whisper, decide”), *raunijaną (“to investigate, examine, prove”), from Proto-Indo-European *(e)rewə-, *(e)rwō- (“to trace, find out, look out”). Cognate with Scots roun (“to converse with in whispers, speak privately”), Middle Low German rūnen (“to whisper”), Middle Dutch ruinen (“to whisper”), German raunen (“to whisper, murmur”), Old English rūn (“whisper, secret, mystery”), Swedish röna (“to meet with, experience”). More at rune."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "round (third-person singular simple present rounds, present participle rounding, simple past and past participle rounded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, archaic or dialectal, Northern England, Scotland) To speak in a low tone; whisper; speak secretly; take counsel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic or dialectal, Northern England, Scotland) To address or speak to in a whisper, utter in a whisper.",
+                  "examples": [
+                    "The Bishop of Glasgow rounding in his ear, \"Ye are not a wise man,\"  […]  he rounded likewise to the bishop, and said, \"Wherefore brought ye me here?\""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English roun, from Old English rūn (“whisper, secret, mystery”), from Proto-Germanic *rūnō, *raunō (“a whisper, secret, secret sign”), from Proto-Indo-European *(e)rewə-, *(e)rwō- (“to trace, find out, look out”). Cognate with Scots roun, round (“a whisper, secret story”), German raunen (“to whisper, say secretly”), Swedish rön (“findings, observations, experience”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "round (plural rounds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic or dialectal, Northern England, Scotland) A whisper; whispering.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic or dialectal, Northern England, Scotland) Discourse; song.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
