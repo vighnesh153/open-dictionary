@@ -1,0 +1,180 @@
+{
+  "word": "speak",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English speken (“to speak”), from Old English specan (“to speak”). This is usually taken to be an irregular alteration of earlier sprecan (“to speak”), from Proto-West Germanic *sprekan, from Proto-Germanic *sprekaną (“to speak, make a sound”), from Proto-Indo-European *spreg- (“to make a sound, utter, speak”). Finding this proposed loss of r from the stable cluster spr unparalleled, Hill instead sets up a different root, Proto-West Germanic *spekan (“to negotiate”) from Proto-Indo-European *bʰégʾ-e- (“to distribute”) with *s-mobile, which collapsed in meaning with *sprekan (\"to speak\" < \"to crackle, prattle\") and so came to be seen as a free variant thereof."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "speak (countable and uncountable, plural speaks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "language, jargon, or terminology used uniquely in a particular environment or group.",
+                  "examples": [
+                    "Corporate speak; IT speak."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Speech, conversation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "speak (plural speaks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) a low class bar, a speakeasy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "speak (third-person singular simple present speaks, present participle speaking, simple past spoke or (archaic) spake, past participle spoken or (colloquial, nonstandard) spoke)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To communicate with one's voice, to say words out loud.",
+                  "examples": [
+                    "I was so surprised I couldn't speak.",
+                    "You're speaking too fast."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, reciprocal) To have a conversation.",
+                  "examples": [
+                    "It's been ages since we've spoken."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) To communicate or converse by some means other than orally, such as writing or facial expressions.",
+                  "examples": [
+                    "He spoke of it in his diary.",
+                    "Speak to me only with your eyes.",
+                    "Actions speak louder than words."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To deliver a message to a group; to deliver a speech.",
+                  "examples": [
+                    "This evening I shall speak on the topic of correct English usage."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive, stative) To be able to communicate in a language.",
+              "entries": [
+                {
+                  "meaning": "(by extension) To be able to communicate in the manner of specialists in a field.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To utter.",
+                  "examples": [
+                    "I was so surprised that I couldn't speak a word."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To communicate (some fact or feeling); to bespeak, to indicate.",
+                  "examples": [
+                    "Their behaviour to each other speaks the most cordial confidence and happiness."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, transitive, sometimes humorous) To understand (as though it were a language).",
+                  "examples": [
+                    "Sorry, I don't speak idiot.",
+                    "So you can program in C. But do you speak C++?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To produce a sound; to sound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a bird, to be able to vocally reproduce words or phrases from a human language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To address; to accost; to speak to.",
+                  "examples": [
+                    "Spoke the ship Union of Newport, without any anchor. The next day ran down to Acra, where the windlass was again capsized and the pawls broken."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
