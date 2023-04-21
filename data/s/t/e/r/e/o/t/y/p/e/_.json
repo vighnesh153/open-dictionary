@@ -1,0 +1,107 @@
+{
+  "word": "stereotype",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French stéréotype. Printing sense is from 1817, the “conventional, formulaic, and oversimplified conception, opinion, or image” sense is recorded from 1922 in Walter Lippmann's book Public Opinion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stereotype (countable and uncountable, plural stereotypes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A conventional, formulaic, and often oversimplified or exaggerated conception, opinion, or image of (a person or a group of people).",
+                  "examples": [
+                    "Synonyms: cliché, platitude"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) A person who is regarded as embodying or conforming to a set image or type.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) A metal printing plate cast from a matrix moulded from a raised printing surface.",
+                  "examples": [
+                    "Synonym: cliché"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software engineering) An extensibility mechanism of the Unified Modeling Language, allowing a new element to be derived from an existing one with added specializations.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stereotype (third-person singular simple present stereotypes, present participle stereotyping, simple past and past participle stereotyped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make a stereotype of someone or something, or characterize someone by a stereotype.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, printing) To prepare for printing in stereotype; to produce stereotype plates of.",
+                  "examples": [
+                    "to stereotype the Bible"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, printing) To print from a stereotype.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figurative) To make firm or permanent; to fix.",
+                  "examples": [
+                    "Powerful causes tending to stereotype and aggravate the poverty of old conditions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
