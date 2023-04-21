@@ -1,0 +1,150 @@
+{
+  "word": "resort",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English resorten, from Old French resortir (“to fall back, return, resort, have recourse, appeal”), back-formation from sortir (“to go out”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "resort (plural resorts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A place where people go for recreation, especially one with facilities such as lodgings, entertainment, and a relaxing environment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Recourse, refuge (something or someone turned to for safety).",
+                  "examples": [
+                    "to have resort to violence"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A place where one goes habitually; a haunt.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "resort (third-person singular simple present resorts, present participle resorting, simple past and past participle resorted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To have recourse (to), now especially from necessity or frustration.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To fall back; to revert.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make one's way, go (to).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "re- +‎ sort"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "resort (plural resorts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of sorting again.",
+                  "examples": [
+                    "\"If further sorting is required, begin anew with opcode = 0. opcode = -3 may be set to build an index file following an initial sort with opcode set to 0, or a resort with opcode set to -1."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "resort (third-person singular simple present resorts, present participle resorting, simple past and past participle resorted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To repeat a sorting process; sort again.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From French ressort."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "resort (plural resorts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Active power or movement; spring.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
