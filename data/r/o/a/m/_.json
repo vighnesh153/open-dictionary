@@ -1,0 +1,61 @@
+{
+  "word": "roam",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English romen, from Old English rāmian, from Proto-Germanic *raimōną (“to wander”), from *raim- (“to move, raise”), from *h₃reyH- (“to move, lift, flow”). Akin to Old English ārǣman (“to arise, stand up, lift up”), Old High German rāmēn (“to aim”) ( > archaic German rahmen (“to strive”)), Middle Dutch rammen (“to night-wander, to copulate”), rammelen (“to wander about, ramble”). More at ramble."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "roam (third-person singular simple present roams, present participle roaming, simple past and past participle roamed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To wander or travel freely and with no specific destination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing, telecommunications) To use a network or service from different locations or devices.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, telecommunications) To transmit (resources) between different locations or devices, to allow comparable usage from any of them.",
+                  "examples": [
+                    "At first, it seemed counterintuitive to me to roam settings between computers, but my problem at the time was that every example I was considering was a setting that only made sense for a single computer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To range or wander over.",
+                  "examples": [
+                    "Gangs of thugs roamed the streets."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
