@@ -1,0 +1,65 @@
+{
+  "word": "temporary",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin temporarius, from tempus (“time”)."
+      ],
+      "adjectives": [
+        {
+          "description": "temporary (comparative more temporary, superlative most temporary)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not permanent; existing only for a period or periods of time.",
+                  "examples": [
+                    "Sally was put in temporary charge of the department while they searched for a full-time replacement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Existing only for a short time or short times; transient, ephemeral.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "temporary (plural temporaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One serving for a limited time; short-term employee.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A temporary variable.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
