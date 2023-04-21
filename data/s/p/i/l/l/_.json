@@ -1,0 +1,228 @@
+{
+  "word": "spill",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English spillen, from Old English spillan, spildan (“to kill, destroy, waste”), from Proto-West Germanic *spilþijan, from Proto-Germanic *spilþijaną (“to spoil, kill, murder”), from Proto-Indo-European *(s)pel- (“to sunder, split, rend, tear”).",
+        "Cognate with Dutch spillen (“to use needlessly, waste”), French gaspiller (\"to waste, squander\" < Germanic), Bavarian spillen (“to split, cleave, splinter”), Danish spilde (“to spill, waste”), Swedish spilla (“to spill, waste”), Icelandic spilla (“to contaminate, spoil”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spill (plural spills)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A mess of something that has been dropped.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A fall or stumble.",
+                  "examples": [
+                    "The bruise is from a bad spill he had last week."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small stick or piece of paper used to light a candle, cigarette etc by the transfer of a flame from a fire.",
+                  "examples": [
+                    "Kit froze with the pipe between his teeth, the relit spill pressed to the weed within it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A slender piece of anything.",
+              "entries": [
+                {
+                  "meaning": "A peg or pin for plugging a hole, as in a cask; a spile.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A metallic rod or pin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) One of the thick laths or poles driven horizontally ahead of the main timbering in advancing a level in loose ground.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sound recording) The situation where sound is picked up by a microphone from a source other than that which is intended.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A small sum of money.",
+                  "examples": [
+                    "Spill or Sportule for the same from the credulous Laity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australian politics) A declaration that the leadership of a parliamentary party is vacant, and open for re-election. Short form of leadership spill.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "spill (third-person singular simple present spills, present participle spilling, simple past and past participle spilled or spilt)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To drop something so that it spreads out or makes a mess; to accidentally pour.",
+                  "examples": [
+                    "I spilled some sticky juice on the kitchen floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To spread out or fall out, as above.",
+                  "examples": [
+                    "Some sticky juice spilled onto the kitchen floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To drop something that was intended to be caught.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To mar; to damage; to destroy by misuse; to waste.",
+                  "examples": [
+                    "They [the colours] disfigure the stuff and spill the whole workmanship."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To be destroyed, ruined, or wasted; to come to ruin; to perish; to waste.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to flow out and be lost or wasted; to shed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang, obsolete) To cause to be thrown from a mount, a carriage, etc.",
+                  "examples": [
+                    "Then, not thirty feet beyond, a sudden panicky lunge to the side by his horse spilled him from the saddle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cover or decorate with slender pieces of wood, metal, ivory, etc.; to inlay.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To relieve a sail from the pressure of the wind, so that it can be more easily reefed or furled, or to lessen the strain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Australian politics) To open the leadership of a parliamentary party for re-election.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To reveal information to an uninformed party.",
+                  "examples": [
+                    "He spilled his guts out to his new psychologist."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a knot) To come undone.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
