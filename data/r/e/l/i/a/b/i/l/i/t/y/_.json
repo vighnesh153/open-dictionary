@@ -1,0 +1,51 @@
+{
+  "word": "reliability",
+  "etymologies": [
+    {
+      "description": [
+        "reliable +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reliability (usually uncountable, plural reliabilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The quality of being reliable, dependable, or trustworthy.",
+                  "examples": [
+                    "Synonym: dependable",
+                    "Synonym: unreliable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(education) the ability to measure the same thing consistently (of a measurement indicating the degree to which the measure is consistent); that is, repeated measurements would give the same result (See also validity).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) measurable time of work before failure",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

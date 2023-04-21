@@ -1,0 +1,58 @@
+{
+  "word": "reliable",
+  "etymologies": [
+    {
+      "description": [
+        "rely +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "reliable (comparative more reliable, superlative most reliable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Suitable or fit to be relied on; worthy of dependence, reliance or trust; dependable, trustworthy",
+                  "examples": [
+                    "a reliable witness to the truth of the miracles"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing, of a communication protocol) Such that either a sent packet will reach its destination, even if it requires retransmission, or the sender will be told that it didn't",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reliable (plural reliables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something or someone reliable or dependable",
+                  "examples": [
+                    "the old reliables"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
