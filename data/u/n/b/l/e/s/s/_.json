@@ -1,0 +1,39 @@
+{
+  "word": "unbless",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ bless"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unbless (third-person singular simple present unblesses, present participle unblessing, simple past and past participle unblessed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To deprive of blessings; to make wretched.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, programming, Perl) To convert (a previously blessed object) back to a simple reference.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
