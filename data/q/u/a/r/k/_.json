@@ -1,0 +1,92 @@
+{
+  "word": "quark",
+  "etymologies": [
+    {
+      "description": [
+        "Coined by American physicist Murray Gell-Mann in 1963. The literary connection to James Joyce's Finnegans Wake was asserted later; see the Quark Wikipedia article."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quark (plural quarks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) In the Standard Model, an elementary subatomic particle that forms matter. They combine to form hadrons, such as protons and neutrons.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, X Window System) An integer that uniquely identifies a text string.",
+                  "examples": [
+                    "Two functions are provided to convert between strings and quarks: XrmStringToQuark and XrmQuarkToString  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Borrowed from German Quark, from late Middle High German twarc, from a West Slavic language (compare Polish twaróg), from Proto-Slavic *tvarogъ.",
+        "Doublet of tvorog."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quark (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A soft creamy cheese, eaten throughout northern, central, eastern, and southeastern Europe as well as the Low Countries, very similar to cottage cheese except that it is usually not made with rennet.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Onomatopoeic, from the sound of the squawk."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quark (plural quarks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Falkland Islands, informal) The black-crowned night heron, Nycticorax nycticorax.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
