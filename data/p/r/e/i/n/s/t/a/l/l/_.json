@@ -1,0 +1,49 @@
+{
+  "word": "preinstall",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ install"
+      ],
+      "adjectives": [
+        {
+          "description": "preinstall (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Prior to installation.",
+                  "examples": [
+                    "I can't install this software because one of the preinstall checks failed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "preinstall (third-person singular simple present preinstalls, present participle preinstalling, simple past and past participle preinstalled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To install (software, etc.) in advance.",
+                  "examples": [
+                    "My computer came with the operating system preinstalled."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
