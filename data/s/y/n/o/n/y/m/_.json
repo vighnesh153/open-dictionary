@@ -1,0 +1,72 @@
+{
+  "word": "synonym",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English sinonyme, from Latin synōnymum, from Ancient Greek συνώνυμον (sunṓnumon), neuter singular form of συνώνυμος (sunṓnumos, “synonymous”), from σύν (sún, “with”) + ὄνομα (ónoma, “name”); surface analysis, syn- +‎ -onym."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "synonym (plural synonyms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semantics, strictly) A word whose meaning is the same as that of another word.",
+                  "examples": [
+                    "Synonyms: equivalent, poecilonym",
+                    "Antonyms: antonym, opposite"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semantics, loosely) A word or phrase with a meaning that is the same as, or very similar to, another word or phrase.",
+                  "examples": [
+                    "Synonym: metonym",
+                    "“Happy” is a synonym of “glad”."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) Any of the formal names for a taxon, including the valid name (i.e. the senior synonym).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy, botany) Any name for a taxon, usually a validly published, formally accepted one, but often also an unpublished name.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) An alternative (often shorter) name defined for an object in a database.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
