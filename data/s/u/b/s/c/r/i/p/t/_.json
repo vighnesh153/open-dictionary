@@ -1,0 +1,95 @@
+{
+  "word": "subscript",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ script"
+      ],
+      "adjectives": [
+        {
+          "description": "subscript (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Written underneath.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subscript (plural subscripts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) A type of lettering form written lower than the things around it.",
+                  "examples": [
+                    "In chemical formulas the number of atoms in a molecule is written as a subscript, so we write H2O for water which has two atoms of hydrogen for each one of oxygen."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An index into an array or hash.",
+                  "examples": [
+                    "If the container is subscriptable and you remember the position where a particular piece of data was stored, you can use the subscript to efficiently retrieve the data."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subscript (third-person singular simple present subscripts, present participle subscripting, simple past and past participle subscripted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, sciences, typography, transitive, of a variable) To provide with a subscript.",
+                  "examples": [
+                    "As in the chapters on the synchronous model, we use the convention of subscripting a variable by the index of the process at which the variable resides."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, sciences, typography, transitive, of a text) To convert to a subscript form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To access (an array element) by its index.",
+                  "examples": [
+                    "Avoid subscripting arrays or hashes within loops."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

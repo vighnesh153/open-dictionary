@@ -1,0 +1,43 @@
+{
+  "word": "subscriber",
+  "etymologies": [
+    {
+      "description": [
+        "subscribe +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subscriber (plural subscribers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who subscribes to a publication or a service.",
+                  "examples": [
+                    "Our magazine has over ten thousand subscribers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A system or component that subscribes to something, such as an event, made available by a publisher.",
+                  "examples": [
+                    "An event aggregator facilitates a fire-and-forget model of communication. The object triggering the event doesn't care if there are any subscribers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

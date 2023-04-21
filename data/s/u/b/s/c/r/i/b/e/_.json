@@ -1,0 +1,166 @@
+{
+  "word": "subscribe",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English subscriben, subskryben, from Latin subscrībere. Compare its native English equivalent underwrite."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subscribe (third-person singular simple present subscribes, present participle subscribing, simple past and past participle subscribed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ergative) To sign up to have copies of a publication, such as a newspaper or a magazine, delivered for a period of time.",
+                  "examples": [
+                    "Would you like to subscribe or subscribe a friend to our new magazine, Lexicography Illustrated?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To pay for the provision of a service, such as Internet access or a cell phone plan.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To believe or agree with a theory or an idea (used with to).",
+                  "examples": [
+                    "I don’t subscribe to that theory."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To pay money to be a member of an organization.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To contribute or promise to contribute money to a common fund.",
+                  "examples": [
+                    "[…]  under no circumstances could I ever again be nominated for any public office, as no corporation would subscribe to a campaign fund if I was on the ticket, and that they would subscribe most heavily to beat me;"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To promise to give, by writing one's name with the amount.",
+                  "examples": [
+                    "Each man subscribed ten dollars."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business and finance) To agree to buy shares in a company.",
+                  "examples": [
+                    "The capital which had been subscribed to this bank, at two different subscriptions, amounted to one hundred and sixty thousand pounds, of which eighty per cent only was paid up."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To sign; to mark with one's signature as a token of consent or attestation.",
+                  "examples": [
+                    "Parties subscribe a covenant or contract; a man subscribes a bond.",
+                    "Officers subscribe their official acts, and secretaries and clerks subscribe copies or records."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) To write (one’s name) at the bottom of a document; to sign (one's name).",
+                  "examples": [
+                    "[They] subscribed their names under them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To sign away; to yield; to surrender.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To yield; to admit to being inferior or in the wrong.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To declare over one's signature; to publish.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To indicate interest in the communications made by a person or organization.",
+                  "examples": [
+                    "Please like this video, and subscribe to my YouTube channel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, programming) To register for notifications about an event or similar.",
+                  "examples": [
+                    "If you subscribe to the MouseClick event, your application can react to the user clicking the mouse."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
