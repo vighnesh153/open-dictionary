@@ -1,0 +1,65 @@
+{
+  "word": "trellis",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English trelis, from Anglo-Norman treslis, from Old French treille (“arbor”), from Latin trichila (“arbor\", \"summer house”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trellis (plural trellises)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An outdoor garden frame that can be used for partitioning a common area.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An outdoor garden frame that can be used to grow vines or other climbing plants.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory, telecommunications) A kind of graph, used in communication theory and encryption, whose nodes are ordered into vertical slices by time, with each node at each time connected to at least one node at an earlier and at least one node at a later time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "trellis (third-person singular simple present trellises, present participle trellising, simple past and past participle trellised)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To train or arrange (plants) so that they grow against a trellis.",
+                  "examples": [
+                    "to trellis vines"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
