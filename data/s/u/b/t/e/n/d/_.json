@@ -1,0 +1,55 @@
+{
+  "word": "subtend",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin subtendere, from sub (“under”) + tendere (“to stretch, extend”). See tend."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subtend (third-person singular simple present subtends, present participle subtending, simple past and past participle subtended)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To use an angle to delimit (mark off, enclose) part of a straight or curved line, for example an arc or the opposite side of a triangle.",
+                  "examples": [
+                    "A 43° angle subtends an arc of about 0.75 meters on a circle with a radius of 1 meter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, also mathematics) To extend or stretch opposite something; to be part of a straight or curved line that is opposite to and delimits an angle.",
+                  "examples": [
+                    "A hypotenuse subtends the right angle of a right triangle.",
+                    "An arc measuring about 0.75 meters on a circle with a radius of 1 meter subtends an angle of about 43°."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To form the central angle of a circle underneath an arc",
+                  "examples": [
+                    "The points A and B on the circumference form the arc AB, which subtends the central angle θ."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
