@@ -1,0 +1,988 @@
+{
+  "word": "run",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English runnen, rennen (“to run”), alteration (due to the past participle runne, runnen,\nyronne) of Middle English rinnen (“to run”), from Old English rinnan, iernan (“to run”) and Old Norse rinna (“to run”), both from Proto-Germanic *rinnaną (“to run”) (compare also *rannijaną (“to make run”)), from Proto-Indo-European *h₃reyH- (“to boil, churn”).",
+        "Cognate with Scots rin (“to run”), West Frisian rinne (“to walk, march”), Dutch rennen (“to run, race”), Alemannic German ränne (“to run”), German rennen (“to run, race”), rinnen (“to flow”), Rhein, Danish rende (“to run”), Swedish ränna (“to run”), Swedish rinna (“to flow”), Icelandic renna (“to flow”). Non-Germanic cognates include Albanian rend (“to run, run after”). See random."
+      ],
+      "adjectives": [
+        {
+          "description": "run (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a liquid state; melted or molten.",
+                  "examples": [
+                    "Put some run butter on the vegetables."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Cast in a mould.",
+                  "examples": [
+                    "Vast quantities are cast in sand moulds, with that kind of run steel which is so largely used in the production of common table-knives and forks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Exhausted; depleted (especially with \"down\" or \"out\").",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a zoology) Travelled, migrated; having made a migration or a spawning run.",
+                  "examples": [
+                    "The temperature of the water is consequently much higher than in either England or Scotland, and many newly run salmon will be found in early spring in the upper waters of Irish rivers where obstructions exist."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Smuggled.",
+                  "examples": [
+                    "run brandy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "run (plural runs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Act or instance of running, of moving rapidly using the feet.",
+                  "examples": [
+                    "I just got back from my morning run."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Act or instance of hurrying (to or from a place) (not necessarily on foot); dash or errand, trip.",
+                  "examples": [
+                    "[…]  and on the 18th of January this squadron put to sea. The first place of rendezvous was the boy of port St. Julian, upon the coast of Patagonia, and all accidents were provided against with admirable foresight. Their run to port St. Julian was dangerous  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pleasure trip.",
+                  "examples": [
+                    "Let's go for a run in the car."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Flight, instance or period of fleeing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Migration (of fish).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of fish that migrate, or ascend a river for the purpose of spawning.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A literal or figurative path or course for movement relating to:",
+              "entries": [
+                {
+                  "meaning": "A (regular) trip or route.",
+                  "examples": [
+                    "The bus on the Cherry Street run is always crowded."
+                  ]
+                },
+                {
+                  "meaning": "The route taken while running or skiing.",
+                  "examples": [
+                    "Which run did you do today?"
+                  ]
+                },
+                {
+                  "meaning": "(skiing, bobsledding) A single trip down a hill, as in skiing and bobsledding.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The distance sailed by a ship.",
+                  "examples": [
+                    "a good run; a run of fifty miles"
+                  ]
+                },
+                {
+                  "meaning": "A voyage.",
+                  "examples": [
+                    "a run to China"
+                  ]
+                },
+                {
+                  "meaning": "A trial.",
+                  "examples": [
+                    "The data got lost, so I'll have to perform another run of the experiment."
+                  ]
+                },
+                {
+                  "meaning": "(mathematics, computing) The execution of a program or model",
+                  "examples": [
+                    "This morning's run of the SHIPS statistical model gave Hurricane Priscilla a 74% chance of gaining at least 30 knots of intensity in 24 hours, reconfirmed by the HMON and GFS dynamical models."
+                  ]
+                },
+                {
+                  "meaning": "(video games) A playthrough, or attempted playthrough; a session of play.",
+                  "examples": [
+                    "This was my first successful run without losing any health."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unrestricted use. Only used in have the run of.",
+                  "examples": [
+                    "He can have the run of the house."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An enclosure for an animal; a track or path along which something can travel.",
+                  "examples": [
+                    "He set up a rabbit run."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, New Zealand) Rural landholding for farming, usually for running sheep, and operated by a runholder.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "State of being current; currency; popularity.",
+                  "examples": [
+                    "It is impossible for detached papers[...] to have a general run, or long continuance, if they are not diversified[...]."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Continuous or sequential",
+              "entries": [
+                {
+                  "meaning": "A continuous period (of time) marked by a trend; a period marked by a continuing trend.",
+                  "examples": [
+                    "I’m having a run of bad luck.",
+                    "He went to Las Vegas and spent all his money over a three-day run."
+                  ]
+                },
+                {
+                  "meaning": "A series of tries in a game that were successful.",
+                  "examples": [
+                    "If our team can keep up their strong defense, expect them to make a run in this tournament."
+                  ]
+                },
+                {
+                  "meaning": "A production quantity (such as in a factory).",
+                  "examples": [
+                    "Yesterday we did a run of 12,000 units.",
+                    "The book’s initial press run will be 5,000 copies."
+                  ]
+                },
+                {
+                  "meaning": "The period of showing of a play, film, TV series, etc.",
+                  "examples": [
+                    "The run of the show lasted two weeks, and we sold out every night.",
+                    "It is the last week of our French cinema run."
+                  ]
+                },
+                {
+                  "meaning": "(slang) A period of extended (usually daily) drug use.",
+                  "examples": [
+                    "And I'll tell ya, things aren't quite the same / When I'm rushing on my run."
+                  ]
+                },
+                {
+                  "meaning": "(card games) A sequence of cards in a suit in a card game.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(music) A rapid passage in music, especially along a scale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flow of liquid; a leak.",
+                  "examples": [
+                    "The constant run of water from the faucet annoys me.",
+                    "a run of must in wine-making",
+                    "the first run of sap in a maple orchard"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly eastern Midland US, especially Ohio, Pennsylvania, West Virginia) A small creek or part thereof. (Compare Southern US branch and New York and New England brook.)",
+                  "examples": [
+                    "The military campaign near that creek was known as \"The battle of Bull Run\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A quick pace, faster than a walk.",
+              "entries": [
+                {
+                  "meaning": "(of horses) A fast gallop.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(banking) A sudden series of demands on a bank or other financial institution, especially characterised by great withdrawals.",
+                  "examples": [
+                    "Financial insecurity led to a run on the banks, as customers feared for the security of their savings."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any sudden large demand for something.",
+                  "examples": [
+                    "There was a run on Christmas presents."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Various horizontal dimensions or surfaces",
+              "entries": [
+                {
+                  "meaning": "The top of a step on a staircase, also called a tread, as opposed to the rise.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The horizontal length of a set of stairs",
+                  "examples": []
+                },
+                {
+                  "meaning": "(construction) Horizontal dimension of a slope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A standard or unexceptional group or category.",
+                  "examples": [
+                    "He stood out from the usual run of applicants."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "In sports",
+              "entries": [
+                {
+                  "meaning": "(baseball) A score when a runner touches all bases legally; the act of a runner scoring.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(cricket) The act of passing from one wicket to another; the point scored for this.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(American football) A running play.",
+                  "examples": [
+                    "[...] one of the greatest runs of all time."
+                  ]
+                },
+                {
+                  "meaning": "(golf) The movement communicated to a golf ball by running it.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(golf) The distance a ball travels after touching the ground from a stroke.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The distance drilled with a bit, in oil drilling.",
+                  "examples": [
+                    "Well, when you compare the cone type with the cross roller bit, you get a longer run, there is less tendency of the bit to go flat while running in various formations. It cleans itself better."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A line of knit stitches that have unravelled, particularly in a nylon stocking.",
+                  "examples": [
+                    "I have a run in my stocking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The stern of the underwater body of a ship from where it begins to curve upward and inward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) The horizontal distance to which a drift may be carried, either by licence of the proprietor of a mine or by the nature of the formation; also, the direction which a vein of ore or other substance takes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pair or set of millstones.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(speedrunning) Shortening of speedrun.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "run (third-person singular simple present runs, present participle running, simple past ran, past participle run)",
+          "definitionGroups": [
+            {
+              "group": "To move swiftly.",
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move forward quickly upon two feet by alternately making a short jump off either foot. (Compare walk.)",
+                  "examples": [
+                    "Run, Sarah, run!"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To go at a fast pace; to move quickly.",
+                  "examples": [
+                    "The horse ran the length of the track.",
+                    "I have been running all over the building looking for him.",
+                    "Sorry, I've got to run; my house is on fire."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To cause to move quickly or lightly.",
+                  "examples": [
+                    "Every day I run my dog across the field and back.",
+                    "I'll just run the vacuum cleaner over the carpet.",
+                    "Run your fingers through my hair."
+                  ]
+                },
+                {
+                  "meaning": "(transitive or intransitive) To compete in a race.",
+                  "examples": [
+                    "The horse will run the Preakness next year.",
+                    "I'm not ready to run a marathon."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To transport someone or something, notionally at a brisk pace.",
+                  "examples": [
+                    "Could you run me over to the store?",
+                    "Please run this report upstairs to director's office."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, intransitive) Of a means of transportation: to travel (a route).",
+                  "examples": [
+                    "the bus (train, plane, ferry boat, etc) runs between Newport and Riverside"
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To transit a length of a river, as in whitewater rafting.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive) Of fish, to migrate for spawning.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(American football, transitive or intransitive) To carry (a football) down the field, as opposed to passing or kicking.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To achieve or perform by running or as if by running.",
+                  "examples": [
+                    "The horse ran a great race."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To flee from a danger or towards help.",
+                  "examples": [
+                    "Whenever things get tough, she cuts and runs.",
+                    "When he's broke, he runs to me for money."
+                  ]
+                },
+                {
+                  "meaning": "(figurative, transitive) To pass (without stopping), typically a stop signal, stop sign, or duty to yield the right of way.",
+                  "examples": [
+                    "If you have a collision with a vehicle oncoming from the right, after having run priority to the right, you are at fault."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, juggling, colloquial) To juggle a pattern continuously, as opposed to starting and stopping quickly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(fluids) To flow.",
+              "entries": [
+                {
+                  "meaning": "(intransitive) Of a liquid, to flow.",
+                  "examples": [
+                    "The river runs through the forest.",
+                    "There's blood running down your leg."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive, figuratively) To move or spread quickly.",
+                  "examples": [
+                    "There's a strange story running around the neighborhood.",
+                    "The flu is running through my daughter's kindergarten."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) Of an object, to have a liquid flowing from it.",
+                  "examples": [
+                    "Your nose is running.",
+                    "Why is the hose still running?"
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To make a liquid flow; to make liquid flow from or into an object.",
+                  "examples": [
+                    "You'll have to run the water a while before it gets hot.",
+                    "Could you run a bath for me, please?"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To become liquid; to melt.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive) To leak or spread in an undesirable fashion; to bleed (especially used of dye or paint).",
+                  "examples": [
+                    "During washing, the red from the rug ran onto the white sheet, staining it pink."
+                  ]
+                },
+                {
+                  "meaning": "To fuse; to shape; to mould; to cast.",
+                  "examples": [
+                    "to run bullets"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical, of a vessel) To sail before the wind, in distinction from reaching or sailing close-hauled.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To control or manage, be in charge of.",
+                  "examples": [
+                    "My uncle ran a corner store for forty years.",
+                    "She runs the fundraising.",
+                    "My parents think they run my life.",
+                    "He is running the candidate's expensive campaign."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be a candidate in an election.",
+                  "examples": [
+                    "I have decided to run for governor of California.",
+                    "We're trying to find somebody to run against him next year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "To make participate in certain kinds of competitions",
+              "entries": [
+                {
+                  "meaning": "(transitive) To make run in a race.",
+                  "examples": [
+                    "He ran his best horse in the Derby."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To make run in an election.",
+                  "examples": [
+                    "The Green Party is running twenty candidates in this election."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To exert continuous activity; to proceed.",
+                  "examples": [
+                    "to run through life; to run in a circle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be presented in the media.",
+                  "examples": [
+                    "The story will run on the 6-o'clock news.",
+                    "The latest Robin Williams movie is running at the Silver City theatre.",
+                    "Her picture ran on the front page of the newspaper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To print or broadcast in the media.",
+                  "examples": [
+                    "run a story; run an ad"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To smuggle (illegal goods).",
+                  "examples": [
+                    "to run guns; to run rum"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, agriculture) To sort through a large volume of produce in quality control.",
+                  "examples": [
+                    "Looks like we're gonna have to run the tomatoes again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "To extend or persist, statically or dynamically, through space or time.",
+              "entries": [
+                {
+                  "meaning": "(intransitive) To extend in space or through a range (often with a measure phrase).",
+                  "examples": [
+                    "The border runs for 3000 miles.",
+                    "The leash runs along a wire.",
+                    "The grain of the wood runs to the right on this table.",
+                    "It ran in quality from excellent to substandard."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To extend in time, to last, to continue (usually with a measure phrase).",
+                  "examples": [
+                    "The sale will run for ten days.",
+                    "The contract runs through 2008.",
+                    "The meeting ran late.",
+                    "The book runs 655 pages.",
+                    "The speech runs as follows: …"
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To make something extend in space.",
+                  "examples": [
+                    "I need to run this wire along the wall."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) Of a machine, including computer programs, to be operating or working normally.",
+                  "examples": [
+                    "My car stopped running.",
+                    "That computer runs twenty-four hours a day.",
+                    "Buses don't run here on Sunday."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To make a machine operate.",
+                  "examples": [
+                    "It's full. You can run the dishwasher now.",
+                    "Don't run the engine so fast."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To execute or carry out a plan, procedure, or program.",
+                  "examples": [
+                    "They ran twenty blood tests on me and they still don't know what's wrong.",
+                    "Our coach had us running plays for the whole practice.",
+                    "I will run the sample.",
+                    "Don't run that software unless you have permission.",
+                    "My computer is too old to run the new OS."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To pass or go quickly in thought or conversation.",
+                  "examples": [
+                    "to run from one subject to another"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(copulative) To become different in a way mentioned (usually to become worse).",
+                  "examples": [
+                    "Our supplies are running low.",
+                    "They frequently overspent and soon ran into debt."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cost a large amount of money.",
+                  "examples": [
+                    "Buying a new laptop will run you a thousand dollars.",
+                    "Laptops run about a thousand dollars apiece."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Of stitches or stitched clothing, to unravel.",
+                  "examples": [
+                    "My stocking is running."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To pursue in thought; to carry in contemplation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cause to enter; to thrust.",
+                  "examples": [
+                    "to run a sword into or through the body; to run a nail into one's foot"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To drive or force; to cause, or permit, to be driven.",
+                  "examples": [
+                    "They ran the ship aground."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cause to be drawn; to mark out; to indicate; to determine.",
+                  "examples": [
+                    "to run a line"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To encounter or incur (a danger or risk).",
+                  "examples": [
+                    "to run the risk of losing one's life"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To put at hazard; to venture; to risk.",
+                  "examples": [
+                    "He would himself be in the Highlands to receive them, and run his fortune with them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To tease with sarcasms and ridicule.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To sew (a seam) by passing the needle through material in a continuous line, generally taking a series of stitches on the needle at the same time.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To control or have precedence in a card game.",
+                  "examples": [
+                    "Every three or four hands he would run the table."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be in form thus, as a combination of words.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) To be popularly known; to be generally received.",
+                  "examples": [
+                    "Neither was he ignorant what report ran of himselfe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To have growth or development.",
+                  "examples": [
+                    "Boys and girls run up rapidly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To tend, as to an effect or consequence; to incline.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To have a legal course; to be attached; to continue in force, effect, or operation; to follow; to go in company.",
+                  "examples": [
+                    "Certain covenants run with the land."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To encounter or suffer (a particular, usually bad, fate or misfortune).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(golf) To strike (the ball) in such a way as to cause it to run along the ground, as when approaching a hole.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games, rare) To speedrun.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "run",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "past participle of rin",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
