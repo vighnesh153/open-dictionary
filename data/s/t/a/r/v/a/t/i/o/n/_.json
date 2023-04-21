@@ -1,0 +1,50 @@
+{
+  "word": "starvation",
+  "etymologies": [
+    {
+      "description": [
+        "starve +‎ -ation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "starvation (countable and uncountable, plural starvations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A condition of severe suffering due to a lack of nutrition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Severe shortage of resources.",
+                  "examples": [
+                    "However, if the ASE application is paged out because of memory starvation, the entire process is blocked and no useful work can be done until the required pages are brought into memory."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science)  A state where a process is perpetually denied necessary resources to process its work.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
