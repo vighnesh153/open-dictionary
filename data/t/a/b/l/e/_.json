@@ -1,0 +1,201 @@
+{
+  "word": "table",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English table, tabel, tabil, tabul, from Old English tabele, tabul, tablu, tabule, tabula (“board”); also as tæfl, tæfel, an early Germanic borrowing of Latin tabula (“tablet, board, plank, chart”). The sense of “piece of furniture” is from Old French table, of same Latin origin; Old English used bēod or bord instead for this meaning: see board. Doublet of tabula."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "table (plural tables)",
+          "definitionGroups": [
+            {
+              "group": "Furniture with a top surface to accommodate a variety of uses.",
+              "entries": [
+                {
+                  "meaning": "An item of furniture with a flat top surface raised above the ground, usually on one or more legs.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The board or table-like furniture on which a game is played, such as snooker, billiards, or draughts.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A flat tray which can be used as a table.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A supply of food or entertainment.",
+                  "examples": [
+                    "The baron kept a fine table and often held large banquets."
+                  ]
+                },
+                {
+                  "meaning": "A service of Holy Communion.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(backgammon) One half of a backgammon board, which is divided into the inner and outer table.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A group of people at a table, for example for a meal or game.",
+              "entries": [
+                {
+                  "meaning": "(poker, metonymically) The lineup of players at a given table.",
+                  "examples": [
+                    "That's the strongest table I've ever seen at a European Poker Tour event"
+                  ]
+                },
+                {
+                  "meaning": "(role-playing games) A group of players meeting regularly to play a campaign.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A two-dimensional presentation of data.",
+              "entries": [
+                {
+                  "meaning": "A matrix or grid of data arranged in rows and columns.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A collection of arithmetic calculations arranged in a table, such as multiplications in a multiplication table.",
+                  "examples": [
+                    "The children were practising multiplication tables.",
+                    "Don’t you know your tables?",
+                    "Here is a table of natural logarithms."
+                  ]
+                },
+                {
+                  "meaning": "(computing, chiefly databases) A lookup table, most often a set of vectors.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(sports) A visual representation of a classification of teams or individuals based on their success over a predetermined period.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The top of a stringed instrument, particularly a member of the violin family: the side of the instrument against which the strings vibrate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The flat topmost facet of a cut diamond.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "table (third-person singular simple present tables, present participle tabling, simple past and past participle tabled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To tabulate; to put into a table or grid. [from 15th c.]",
+                  "examples": [
+                    "to table fines"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) To supply (a guest, client etc.) with food at a table; to feed. [from 15th c.]",
+                  "examples": [
+                    "At Siena I was tabled in the house of one Alberto Scipioni"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To delineate; to represent, as in a picture; to depict. [17th–19th c.]",
+                  "examples": [
+                    "tabled and pictured in the chambers of meditation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(non-US) To put on the table of a commission or legislative assembly; to propose for formal discussion or consideration, to put on the agenda. [from 17th c.]",
+                  "examples": [
+                    "In a raucous Commons, the Labour leader, Jeremy Corbyn, confirmed he had tabled a formal motion of confidence in the government, backed by other opposition leaders, which MPs would vote on on Wednesday."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly US) To remove from the agenda, to postpone dealing with; to shelve (to indefinitely postpone consideration or discussion of something). [from 19th c.]",
+                  "examples": [
+                    "The legislature tabled the amendment, so they will not be discussing it until later.",
+                    "The motion was tabled, ensuring that it would not be taken up until a later date."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(carpentry, obsolete) To join (pieces of timber) together using coaks. [18th–19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To put on a table. [from 19th c.]",
+                  "examples": [
+                    "[A]fter some clatter offered us a rent of five pounds for the right to shoot here, and even tabled the cash that moment, and would not pocket it again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To make board hems in the skirts and bottoms of (sails) in order to strengthen them in the part attached to the bolt-rope.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
