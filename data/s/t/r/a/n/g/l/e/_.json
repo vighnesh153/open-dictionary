@@ -1,0 +1,78 @@
+{
+  "word": "strangle",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stranglen, from Old French estrangler, from Latin strangulō, strangulāre, from Ancient Greek στραγγαλόομαι (strangalóomai, “to strangle”), from στραγγάλη (strangálē, “a halter”); compare στραγγός (strangós, “twisted”) and string. Displaced Middle English wirien, awurien (“to strangle”) (> English worry)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "strangle (plural strangles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A trading strategy using options, constructed through taking equal positions in a put and a call with different strike prices, such that there is a payoff if the underlying asset's value moves beyond the range of the two strike prices.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "strangle (third-person singular simple present strangles, present participle strangling, simple past and past participle strangled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To kill someone by squeezing the throat so as to cut off the oxygen supply; to choke, suffocate or throttle.",
+                  "examples": [
+                    "He strangled his wife and dissolved the body in acid."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To stifle or suppress.",
+                  "examples": [
+                    "She strangled a scream."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be killed by strangulation, or become strangled.",
+                  "examples": [
+                    "The cat slipped from the branch and strangled on its bell-collar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be stifled, choked, or suffocated in any manner.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
