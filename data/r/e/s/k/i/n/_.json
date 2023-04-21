@@ -1,0 +1,56 @@
+{
+  "word": "reskin",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ skin"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reskin (plural reskins)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that uses the exact same model as something else, but has superficial differences such as textures.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reskin (third-person singular simple present reskins, present participle reskinning, simple past and past participle reskinned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To replace the skin of a motor vehicle, especially so as to market the same car under different brands",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To change the skin, or visual appearance, of an application.",
+                  "examples": [
+                    "The editor can be reskinned. In other words, the color scheme and look and feel of the buttons can be changed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
