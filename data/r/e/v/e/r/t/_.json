@@ -1,0 +1,201 @@
+{
+  "word": "revert",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French revertir, from Vulgar Latin *revertiō, variant of Latin revertō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "revert (plural reverts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, reverts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(religion) One who reverts to that religion which he had adhered to before having converted to another",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Islam, due to the belief that all people are born Muslim) A convert to Islam.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The act of reversion (of e.g. a database transaction or source control repository) to an earlier state.",
+                  "examples": [
+                    "We've found that git reverts are at least an order of magnitude faster than SVN reverse merges."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The skateboard maneuver of rotating the board 180 degrees or more while the wheels remain on the ground.",
+                  "examples": [
+                    "In short tutorials, the player learns the basics of skating: reverts, manuals and the ollie  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "revert (third-person singular simple present reverts, present participle reverting, simple past and past participle reverted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, now rare) To turn back, or turn to the contrary; to reverse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To throw back; to reflect; to reverberate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to return to a former condition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, now rare) To return; to come back.",
+                  "examples": [
+                    "If they attack, we will revert to the bunker."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(intransitive) To return to the possession of.",
+              "entries": [
+                {
+                  "meaning": "(intransitive, law) Of an estate: To return to its former owner, or to his or her heirs, when a grant comes to an end.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause (a property or rights) to return to the previous owner.",
+                  "examples": [
+                    "Sometimes a publisher will automatically revert rights back to an author once a book has gone out of print."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To return to a former practice, condition, belief, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, biology) To return to an earlier or primitive type or state; to take on the traits or characters of an ancestral type.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To change back, as from a soluble to an insoluble state or the reverse.",
+                  "examples": [
+                    "Phosphoric acid in certain fertilizers reverts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To take up again or return to a previous topic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, in Muslim usage, due to the belief that all people are born Muslim) To convert to Islam.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, nonstandard, proscribed, originally India, now also Singapore, Malaysia, Hong Kong) To reply (to correspondence, for example).",
+                  "examples": [
+                    "Please revert before Monday."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To treat (a series, such as y = a + bx + cx2 + ..., where one variable y is expressed in powers of a second variable x), so as to find the second variable x expressed in a series arranged in powers of y.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
