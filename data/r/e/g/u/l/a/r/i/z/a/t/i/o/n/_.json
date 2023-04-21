@@ -1,0 +1,39 @@
+{
+  "word": "regularization",
+  "etymologies": [
+    {
+      "description": [
+        "regular +‎ -ization"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "regularization (countable and uncountable, plural regularizations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of making regular, of regularizing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(machine learning) constraints and penalties imposed on a model to prevent it from overfitting",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
