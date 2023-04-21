@@ -1,0 +1,58 @@
+{
+  "word": "pointy",
+  "etymologies": [
+    {
+      "description": [
+        "point +‎ -y"
+      ],
+      "adjectives": [
+        {
+          "description": "pointy (comparative pointier, superlative pointiest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Pointed in shape; having a point or points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In the Raku programming language: being a block or subroutine that acts as a closure accepting a list of parameters (denoted by the pointed arrow symbol ->).",
+                  "examples": [
+                    "a pointy sub; a pointy block"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pointy (plural pointies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Any pointed object.",
+                  "examples": [
+                    "Even though Skylar has never had a seizure to my knowledge since the incident in school, she still sees the things she likes to call pointies, just not as many as before, since she started taking the valproic acid, but still there's a few."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
