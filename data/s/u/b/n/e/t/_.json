@@ -1,0 +1,54 @@
+{
+  "word": "subnet",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ net"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subnet (plural subnets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) The abstraction of a sequence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) A portion of a network that shares a network address in which each component is identified by a number.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subnet (third-person singular simple present subnets, present participle subnetting, simple past and past participle subnetted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, networking) To break (a network) into subnets.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
