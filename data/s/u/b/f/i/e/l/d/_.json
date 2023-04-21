@@ -1,0 +1,39 @@
+{
+  "word": "subfield",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ field"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subfield (plural subfields)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A smaller, more specialized area of study or occupation within a larger one",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A subring of a field, containing the multiplicative identity and closed under inversion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
