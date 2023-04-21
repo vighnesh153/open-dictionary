@@ -1,0 +1,115 @@
+{
+  "word": "session",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English session, from Old French session, from Latin sessiō (“a sitting”), from sedeō (“sit”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "session (plural sessions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A period devoted to a particular activity, e.g. the annual or semiannual periods of a legislative body (that together comprise the legislative term) whose individual meetings are also called sessions.",
+                  "examples": [
+                    "a training session",
+                    "\"Are we having a recording session?\" / \"Yes. We've even got some session musicians to provide some brass.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A meeting of a council, court, school, or legislative body to conduct its business.",
+                  "examples": [
+                    "This court is now in session."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The sequence of interactions between client and server, or between user and system; the period during which a user is logged in or connected.",
+                  "examples": [
+                    "Logging out or shutting down the computer will end your session."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) Any of the three scheduled two hour playing sessions, from the start of play to lunch, from lunch to tea and from tea to the close of play.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The act of sitting, or the state of being seated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Ellipsis of jam session.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(education) An academic term",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(beer) An extended period of drinking, typically consuming beer with low alcohol content.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "session (third-person singular simple present sessions, present participle sessioning, simple past and past participle sessioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To hold or participate in a jam session with other musicians.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
