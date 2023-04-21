@@ -1,0 +1,116 @@
+{
+  "word": "ravel",
+  "etymologies": [
+    {
+      "description": [
+        "The verb is borrowed from Dutch ravelen, rafelen (“to tangle, become entangled; to fray; to unweave”) [and other forms]; further etymology uncertain. It has been suggested that the verb is originally derived from the noun, but the Oxford English Dictionary regards this as “very uncertain”, and instead regards the noun as having derived from the verb (compare Dutch rafel, raffel (“frayed thread”)).",
+        "Ravel is a contranym having both the senses of tangling (verb senses 1.1, 1.2, 1.4.1, and 2.3; noun sense 1) and untangling (verb senses 1.3, 1.4.2, 1.4.3, 2.1, and 2.2; noun sense 2). It would appear that the tangling senses predate the untangling ones (as in Dutch), but this is uncertain because the first published uses of both senses of the words occur around the same time."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ravel (plural ravels)",
+          "definitionGroups": [
+            {
+              "group": "(chiefly literary or Scotland)",
+              "entries": [
+                {
+                  "meaning": "A tangled mess; an entanglement, a snarl, a tangle.",
+                  "examples": [
+                    "Synonym: ravelment"
+                  ]
+                },
+                {
+                  "meaning": "(figuratively) A confusing, intricate, or perplexing situation; a complication.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(also figuratively) A thread which has unravelled from fabric, etc.; also, a situation of fabric, etc., coming apart; an unravelling.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ravel (third-person singular simple present ravels, present participle ravelling or (US) raveling, simple past and past participle ravelled or (US) raveled)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To entwine or tangle (something) confusedly; to entangle.",
+                  "examples": [
+                    "Antonyms: disentangle, unravel, untangle"
+                  ]
+                },
+                {
+                  "meaning": "(also figuratively) Often followed by up: to form (something) out of discrete elements, like weaving fabric from threads; to knit.",
+                  "examples": [
+                    "Antonym: unravel"
+                  ]
+                },
+                {
+                  "meaning": "To unwind (a reel of thread, a skein of yarn, etc.); to pull apart (cloth, a seam, etc.); to fray, to unpick, to unravel; also, to pull out (a string of yarn, a thread, etc.) from a piece of fabric, or a skein or reel.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(figuratively)",
+                  "examples": [
+                    "Synonym: involve"
+                  ]
+                },
+                {
+                  "meaning": "To confuse or perplex (someone or something).",
+                  "examples": [
+                    "Synonym: involve"
+                  ]
+                },
+                {
+                  "meaning": "(archaic) Often followed by out: to undo the intricacies of (a problem, etc.); to clarify, to disentangle.",
+                  "examples": [
+                    "Synonym: untangle"
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) To destroy or ruin (something), like unravelling fabric.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(programming) In the APL programming language: to reshape (a variable) into a vector.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "Often followed by out: of a reel of thread or skein of yarn; or a thread on a reel or a string of yarn in a skein, etc.: to become untwisted or unwound.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(also figuratively) Often followed by out: of clothing, fabric, etc.: to become unwoven; to fray, to unravel.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(archaic or obsolete) To become entangled or snarled.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
