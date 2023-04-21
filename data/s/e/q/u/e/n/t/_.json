@@ -1,0 +1,101 @@
+{
+  "word": "sequent",
+  "etymologies": [
+    {
+      "description": [
+        "1550s; borrowed from Middle French sequent, from Old French sequent, itself borrowed from Latin sequentem, present participle of sequī (“to follow”)."
+      ],
+      "adjectives": [
+        {
+          "description": "sequent (comparative more sequent, superlative most sequent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That comes after in time or order; subsequent.",
+                  "examples": [
+                    "Why are your songs all wild and bitter sad",
+                    "As funeral dirges with the orphans' cries?",
+                    "Each night since first the world was made hath had",
+                    "A sequent day to laugh it down the skies."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) That follows on as a result, conclusion etc.; consequent to, on, upon.",
+                  "examples": [
+                    "Maisie found herself clutched to her mother's breast and passionately sobbed and shrieked over, made the subject of a demonstration evidently sequent to some sharp passage just enacted."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Recurring in succession or as a series; successive, consecutive.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sequent (plural sequents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that follows in a given sequence.",
+                  "examples": [
+                    "The One is somewhat shadowy. It is sometimes called God, sometimes the Good; it transcends Being, which is the first sequent upon the One."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A disjunctive set of logical formulae which is partitioned into two subsets; the first subset, called the antecedent, consists of formulae which are valuated as false, and the second subset, called the succedent, consists of formulae which are valuated as true. (The set is written without set brackets and the separation between the two subsets is denoted by a turnstile symbol, which may be read \"give(s)\".)",
+                  "examples": [
+                    "A sequent \n  \n    \n      \n        a\n        ,\n        b\n        ⊢\n        c\n        ,\n        d\n      \n    \n    {\\displaystyle a,b\\vdash c,d}\n  \n could be interpreted to correspond to an Existential Graph, whose expression in Existential Graph Interchange Format would be ~[(a) (b) ~[(c)] ~[(d)]], which in ordinary language could be expressed as \"a and b give c or d\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A follower.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A sequential calculus",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

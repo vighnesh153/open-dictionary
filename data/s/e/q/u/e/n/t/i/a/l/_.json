@@ -1,0 +1,39 @@
+{
+  "word": "sequential",
+  "etymologies": [
+    {
+      "description": [
+        "sequence +‎ -al"
+      ],
+      "adjectives": [
+        {
+          "description": "sequential (not comparable)",
+          "definitionGroups": [
+            {
+              "group": "Succeeding or following in order.",
+              "entries": [
+                {
+                  "meaning": "(grammar, of a verb and adjective form in Korean) Expressing succession of events.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Executed as a sequence of instructions, without concurrency or parallelism.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
