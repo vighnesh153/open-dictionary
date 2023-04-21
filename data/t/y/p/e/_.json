@@ -1,0 +1,232 @@
+{
+  "word": "type",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English type (“symbol, figure, emblem”), from Latin typus, from Ancient Greek τύπος (túpos, “mark, impression, type”), from τύπτω (túptō, “I strike, beat”), ultimately from Proto-Indo-European *(s)tewp-. Related to stupid, stupefy and stop."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "type (plural types)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A grouping based on shared characteristics; a class.",
+                  "examples": [
+                    "This type of plane can handle rough weather more easily than that type of plane."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An individual considered typical of its class, one regarded as typifying a certain profession, environment, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An individual that represents the ideal for its class; an embodiment.",
+                  "examples": [
+                    "Altogether he was the type of low ruffianism — as ill-conditioned a looking brute as ever ginned a hare."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "(printing, countable) A letter or character used for printing, historically a cast or engraved block.",
+              "entries": [
+                {
+                  "meaning": "(uncountable) Such types collectively, or a set of type of one font or size.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(chiefly uncountable) Text printed with such type, or imitating its characteristics.",
+                  "examples": [
+                    "The headline was set in bold type."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) Something, often a specimen, selected as an objective anchor to connect a scientific name to a taxon; this need not be representative or typical.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Preferred sort of person; sort of person that one is attracted to.",
+                  "examples": [
+                    "We can't get along: he's just not my type.",
+                    "He was exactly her type."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A blood group.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(corpus linguistics) A word that occurs in a text or corpus irrespective of how many times it occurs, as opposed to a token.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theology) An event or person that prefigures or foreshadows a later event - commonly an Old Testament event linked to Christian times.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A tag attached to variables and values used in determining which kinds of value can be used in which situations; a data type.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fine arts) The original object, or class of objects, scene, face, or conception, which becomes the subject of a copy; especially, the design on the face of a medal or a coin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A simple compound, used as a mode or pattern to which other compounds are conveniently regarded as being related, and from which they may be actually or theoretically derived.",
+                  "examples": [
+                    "The fundamental types used to express the simplest and most essential chemical relations are hydrochloric acid, water, ammonia, and methane."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A part of the partition of the object domain of a logical theory (which due to the existence of such partition, would be called a typed theory). (Note: this corresponds to the notion of \"data type\" in computing theory.)",
+                  "examples": [
+                    "Logics of the second and higher orders may be regarded as type-theoretic systems."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete except in the above special senses) A symbol, emblem, or example of something.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "type (third-person singular simple present types, present participle typing, simple past and past participle typed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To put text on paper using a typewriter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To enter text or commands into a computer using a keyboard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To determine the blood type of.",
+                  "examples": [
+                    "The doctor ordered the lab to type the patient for a blood transfusion."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To represent by a type, model, or symbol beforehand; to prefigure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To furnish an expression or copy of; to represent; to typify.",
+                  "examples": [
+                    "Let us type them now in our own lives."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To categorize into types.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
