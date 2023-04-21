@@ -1,0 +1,49 @@
+{
+  "word": "quaternion",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English quaternioun, from Late Latin quaterniō, from quaternī, ablative form of quater (“four times”) + -iōn. Doublet of kern.",
+        "The mathematics sense was coined by  William Rowan Hamilton in 1843."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quaternion (plural quaternions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group or set of four people or things.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A word of four syllables.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A type of four-dimensional hypercomplex number consisting of a real part and three imaginary parts (real multiples of distinct, independent square roots of −1 denoted by i, j and k); commonly used in vector mathematics and as an alternative to matrix algebra in calculating the rotation of three-dimensional objects.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
