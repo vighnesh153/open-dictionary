@@ -1,0 +1,173 @@
+{
+  "word": "stable",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stable, borrowed from Anglo-Norman stable, singular derived from the plural Latin stab(u)la (“dwellings, stables”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stable (plural stables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A building, wing or dependency set apart and adapted for lodging and feeding (and training) ungulates, especially horses.",
+                  "examples": [
+                    "There were stalls for fourteen horses in the squire's stables."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(metonymically) All the racehorses of a particular stable, i.e. belonging to a given owner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland) A set of advocates; a barristers' chambers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sumo) An organization of sumo wrestlers who live and train together.",
+                  "examples": [
+                    "Synonym: heya"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(professional wrestling) A group of wrestlers who support each other within a wrestling storyline.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of prostitutes managed by one pimp.",
+                  "examples": [
+                    "Synonym: string"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group of people who are looked after, mentored, or trained in one place or for a particular purpose or profession.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stable (third-person singular simple present stables, present participle stabling, simple past and past participle stabled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to put or keep (an animal) in a stable.",
+                  "examples": [
+                    "\"I hope your have been quite comfortable.\" ¶ \"Never better stabled in my life,\" said Bree."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) to dwell in a stable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport, transitive) to park (a rail vehicle).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English stable, from Anglo-Norman stable, stabel, from Latin stabilis (“firm, steadfast”) (itself from stare (“stand”) + -abilis (“able”)). Displaced native Old English staþolfæst."
+      ],
+      "adjectives": [
+        {
+          "description": "stable (comparative stabler or more stable, superlative stablest or most stable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Relatively unchanging, steady, permanent; firmly fixed or established; consistent; not easily moved, altered, or destroyed.",
+                  "examples": [
+                    "He was in a stable relationship.",
+                    "a stable government"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Of software: established to be relatively free of bugs, as opposed to a beta version.",
+                  "examples": [
+                    "You should download the 1.9 version of that video editing software: it is the latest stable version. The newer beta version has some bugs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science, of a sorting algorithm) That maintains the relative order of items that compare as equal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
