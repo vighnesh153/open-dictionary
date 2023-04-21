@@ -1,0 +1,68 @@
+{
+  "word": "workspace",
+  "etymologies": [
+    {
+      "description": [
+        "work +‎ space"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "workspace (plural workspaces)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An area allocated for someone to work in, especially in an office.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A file (or system of files) in which related software and data can be manipulated or developed in isolation from others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, graphical user interface) An empty portion of the screen or window that serves as a container for other windows or objects.",
+                  "examples": [
+                    "Unlike other Microsoft Office applications, Access doesn't automatically display an empty workspace when you start the program."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, graphical user interface) Any of the screens that can be switched between in a virtual desktop.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(robotics) The set of points that can be reached by the end-effector of a robotic manipulator",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
