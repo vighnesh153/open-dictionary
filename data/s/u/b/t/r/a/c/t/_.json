@@ -1,0 +1,32 @@
+{
+  "word": "subtract",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin subtractus, perfect passive participle of subtrahō (“I draw from beneath; withdraw, remove”); from sub (“under”) + trahō (“I draw, pull, drag”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subtract (third-person singular simple present subtracts, present participle subtracting, simple past and past participle subtracted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, arithmetic) To remove or reduce; especially to reduce a quantity or number",
+                  "examples": [
+                    "If you subtract the $100 for gas from the total cost, it was a fairly inexpensive trip."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
