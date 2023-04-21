@@ -1,0 +1,39 @@
+{
+  "word": "totalistic",
+  "etymologies": [
+    {
+      "description": [
+        "totalist +‎ -ic"
+      ],
+      "adjectives": [
+        {
+          "description": "totalistic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or relating to totalism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cellular automata) Having the state of each cell represented by a number, and the value of a cell dependent only on the sum of the values of nearby cells.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
