@@ -1,0 +1,133 @@
+{
+  "word": "translate",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English translaten (“to transport, translate, transform”), from Anglo-Norman translater, from Latin trānslātus, perfect passive participle of trānsferō (“to transport, carry across, translate”).",
+        "In this sense, displaced Old English wendan (“to translate,” also the word for “to turn” and “to change”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "translate (plural translates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis) In Euclidean spaces: a set of points obtained by adding a given fixed vector to each point of a given set.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "translate (third-person singular simple present translates, present participle translating, simple past and past participle translated)",
+          "definitionGroups": [
+            {
+              "group": "Senses relating to the change of information, etc., from one form to another.",
+              "entries": [
+                {
+                  "meaning": "(transitive) To change spoken words or written text (of a book, document, movie, etc.) from one language to another.",
+                  "examples": [
+                    "Hans translated my novel into Welsh."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To provide a translation of spoken words or written text in another language; to be, or be capable of being, rendered in another language.",
+                  "examples": [
+                    "Hans translated for us while we were in Marrakesh.",
+                    "That idiom doesn’t really translate.",
+                    "‘Dog’ translates as ‘chien’ in French."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) To express spoken words or written text in a different (often clearer or simpler) way in the same language; to paraphrase, to rephrase, to restate.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To change (something) from one form or medium to another.",
+                  "examples": [
+                    "The director faithfully translated their experiences to film."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, music) To rearrange (a song or music) in one genre into another.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive) To change, or be capable of being changed, from one form or medium to another.",
+                  "examples": [
+                    "Excellent writing does not necessarily translate well into film.",
+                    "His sales experience translated well into his new job as a fund-raiser."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, genetics) To generate a chain of amino acids based on the sequence of codons in an mRNA molecule.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Senses relating to a change of position.",
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) To move (something) from one place or position to another; to transfer.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To transfer the remains of a deceased person (such as a monarch or other important person) from one place to another; (specifically, Christianity) to transfer a holy relic from one shrine to another.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, Christianity) To transfer a bishop or other cleric from one post to another.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, Christianity) Of a holy person or saint: to be assumed into or to rise to Heaven without bodily death; also (figurative) to die and go to Heaven.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, mathematics) In Euclidean geometry: to transform (a geometric figure or space) by moving every point by the same distance in a given direction.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, mathematics) To map (the axes in a coordinate system) to parallel axes in another coordinate system some distance away.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, medicine, obsolete) To cause (a disease or something giving rise to a disease) to move from one body part to another, or (rare) between persons.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, physics) To subject (a body) to linear motion with no rotation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive, physics) Of a body: to be subjected to linear motion with no rotation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To entrance (“place in a trance”), to cause to lose recollection or sense.",
+                  "examples": [
+                    "William was translated by the blow to the head he received, being unable to speak for the next few minutes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
