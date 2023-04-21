@@ -1,0 +1,41 @@
+{
+  "word": "retrack",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ track"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "retrack (third-person singular simple present retracks, present participle retracking, simple past and past participle retracked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To track again.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To correct the range and elevation measurements in altimetry data by certain mathematical operations on the waveform.",
+                  "examples": [
+                    "These retracking functions cover a much wider range of possible waveform shapes than the Brown model. A few studies concluded that the ICE1 retracker performs with sufficient accuracy over inland waters  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
