@@ -1,0 +1,32 @@
+{
+  "word": "recode",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ code"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "recode (third-person singular simple present recodes, present participle recoding, simple past and past participle recoded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To code again or differently.",
+                  "examples": [
+                    "The program below, taken from Example 8.7, is recoded with several errors that are flaggable by the assembler."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
