@@ -1,0 +1,58 @@
+{
+  "word": "subgroup",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ group."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subgroup (plural subgroups)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A group within a larger group; a group whose members are some, but not all, of the members of a larger group.",
+                  "examples": [
+                    "Based on U.S. Bureau of the Census (1992c), other metropolitan areas that might be suitable for oversampling specific racial/ethnic subgroups include Miami (18% Cuban), New York City (7% Puerto Rican), Los Angeles (26% Mexican), and Honolulu (23% Japanese). Three techniques might be used to increase the yield of rare subgroup members within metropolitan areas where they are concentrated: 1) oversampling of areal segments containing high percentages of the subgroup, […] ."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(group theory) A subset H of a group G that is itself a group and has the same binary operation as G.",
+                  "examples": [
+                    "Much of the information about a group can be gleaned from a study of its subgroups. For these reasons it is important to study the subgroup structure of the almost simple groups, and in particular their maximal subgroups."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subgroup (third-person singular simple present subgroups, present participle subgrouping, simple past and past participle subgrouped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To divide or classify into subgroups",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
