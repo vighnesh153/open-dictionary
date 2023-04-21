@@ -1,0 +1,77 @@
+{
+  "word": "valuation",
+  "etymologies": [
+    {
+      "description": [
+        "Middle French valuation, noun of action from valuer, from Old French valoir."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "valuation (countable and uncountable, plural valuations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An estimation of something's worth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, insurance) The process of estimating the value of a financial asset or liability.",
+                  "examples": [
+                    "The tax assessor put them in fourteen valuation groups ranging from one two-story brick house and two one-and-a-half-story houses to the largest groups of eighteen two-story houses and twenty-four one-story bungalows."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, propositional logic, model theory) An assignment of truth values to propositional variables, with a corresponding assignment of truth values to all propositional formulas with those variables (obtained through the recursive application of truth-valued functions corresponding to the logical connectives making up those formulas).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, first-order logic, model theory) A structure, and the corresponding assignment of a truth value to each sentence in the language for that structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A measure of size or multiplicity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(measure theory, domain theory) A map from the class of open sets of a topological space to the set of positive real numbers including infinity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
