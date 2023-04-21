@@ -1,0 +1,39 @@
+{
+  "word": "steganography",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek στεγανός (steganós, “cover, roof”)  +‎ -graphy."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "steganography (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The practice of hiding messages, so that the presence of the message itself is hidden, often by writing them in places where they may not be found until someone finds the secret message in whatever is being used to hide it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Specifically: the use of small computer files to communicate secret information.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

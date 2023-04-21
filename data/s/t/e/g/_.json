@@ -1,0 +1,57 @@
+{
+  "word": "steg",
+  "etymologies": [
+    {
+      "description": [
+        "Shortening of steganography."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "steg (third-person singular simple present stegs, present participle stegging, simple past and past participle stegged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, informal) To conceal (data) by means of steganography.",
+                  "examples": [
+                    "Stego rasterizes the image, then stegs data into the least significant bit (or LSB) of each of the RGB color values."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English steg, from Old Norse steggr, a word for the male of several animals, from Proto-Germanic *staggijaz. Compare stag."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "steg (plural stegs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A gander.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
