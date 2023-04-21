@@ -1,0 +1,95 @@
+{
+  "word": "sunder",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English sunder, from Old English sundor- (“separate, different”), from Proto-Germanic *sundraz (“isolated, particular, alone”), from Proto-Indo-European *snter-, *seni-, *senu-, *san- (“apart, without, for oneself”). Cognate with Old Saxon sundar (“particular, special”), Dutch zonder (“without”), German sonder- (“special”), German sondern (“separate, set apart”), Old Norse sundr (“separate”), Danish sønder (“apart, asunder”), Latin sine (“without”)."
+      ],
+      "adjectives": [
+        {
+          "description": "sunder (comparative more sunder, superlative most sunder)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dialectal or obsolete) Sundry; separate; different.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English sundren (“to separate, part, divide”), from Old English sundrian (“to separate, split, part, divide”), from Proto-Germanic *sundrōną (“to separate”), from Proto-Indo-European *sen(e)- (“separate, without”). Cognate with Scots sinder, sunder (“to separate, divide, split up”), Dutch zonderen (“to isolate”), German sondern (“to separate”), Swedish söndra (“to divide”). More at sundry."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sunder (plural sunders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "a separation into parts; a division or severance",
+                  "examples": [
+                    "He would not stay for me to stand and gaze.",
+                    "I shook his hand and tore my heart in sunder",
+                    "And went with half my life about my ways."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sunder (third-person singular simple present sunders, present participle sundering, simple past and past participle sundered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To break or separate or to break apart, especially with force.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To part, separate.",
+                  "examples": [
+                    "Two souls, the shores wave-mocked of sundering seas: —",
+                    "Such are we now."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dialect, dated, transitive) To expose to the sun and wind.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
