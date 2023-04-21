@@ -1,0 +1,88 @@
+{
+  "word": "transaction",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French transaction, from Old French transaccion, from Late Latin transactio."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transaction (plural transactions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of conducting or carrying out (business, negotiations, plans).",
+                  "examples": [
+                    "The transaction was made on Friday with the supplier."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A deal or business agreement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An exchange or trade, as of ideas, money, goods, etc.",
+                  "examples": [
+                    "I made the transaction with the vendor as soon as she showed me the pearls."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) The transfer of funds into, out of, or from an account.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An atomic operation; a message, data modification, or other procedure that is guaranteed to perform completely or not at all (e.g. a database transaction).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(especially in plural) A record of the proceedings of a learned society.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transactional analysis) A social interaction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

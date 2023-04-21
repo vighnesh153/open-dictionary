@@ -1,0 +1,32 @@
+{
+  "word": "transactionally",
+  "etymologies": [
+    {
+      "description": [
+        "transactional +‎ -ly"
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "transactionally (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "With regard to, or in terms of, transactions.",
+                  "examples": [
+                    "Static separation prohibits programming idioms where a mutable shared location changes between being accessed transactionally and being accessed directly […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
