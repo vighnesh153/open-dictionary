@@ -1,0 +1,52 @@
+{
+  "word": "plex",
+  "etymologies": [
+    {
+      "description": [
+        "Ultimately from -plex, from Latin plectere"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "plex (plural plexes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada) A building, such as a duplex or triplex, with a number of apartments (typically two to four) that all open directly to the outside.",
+                  "examples": [
+                    "Most new housing has taken the form of single-family dwellings, not plexes, and levels of home ownership have risen steadily."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A designated portion of a disk, usually set up to mirror some of the contents.",
+                  "examples": [
+                    "Striped volumes of mirrored plexes can survive failure of up to half of their disks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Clipping of multiplex.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
