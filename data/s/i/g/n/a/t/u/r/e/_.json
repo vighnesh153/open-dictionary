@@ -1,0 +1,158 @@
+{
+  "word": "signature",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French signature, or from Medieval Latin signātūra, future active periphrastic of verb signāre (“to sign”) from signum (“sign”), + -tūra, feminine of -tūrus, future active periphrastic suffix. Displaced native Old English handseten (literally “hand setting”)."
+      ],
+      "adjectives": [
+        {
+          "description": "signature (not generally comparable, comparative more signature, superlative most signature)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Distinctive, characteristic, indicative of identity.",
+                  "examples": [
+                    "Synonym: iconic",
+                    "Rabbit in mustard sauce is my signature dish.",
+                    "The signature route of the airline is its daily flight between Buenos Aires and Madrid."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "signature (plural signatures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person's name, written by that person, used as identification or to signify approval of accompanying material, such as a legal contract.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of signing one's name; an act of producing a signature.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The part of a doctor’s prescription containing directions for the patient.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Signs on the stave indicating key and tempo, composed of the key signature and the time signature.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) A group of four (or a multiple of four) sheets printed such that, when folded, they become a section of a book.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A pattern used for matching the identity of a virus, the parameter types of a method, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) Data attached to a message that guarantees that the message originated from its claimed source.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A mark or sign of implication.",
+                  "examples": [
+                    "The TACOM Vehicle Signature Reduction program is concerned with reducing the noise signature detectability of military vehicles in combat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dish that is characteristic of a particular chef.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A tuple specifying the sign of coefficients in any diagonal form of a quadratic form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, obsolete) A resemblance between the external character of a disease and those of some physical agent, for instance, that existing between the red skin of scarlet fever and a red cloth; supposed to indicate this agent in the treatment of the disease.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) Text (or images, etc.) appended to a user's emails, newsgroup posts, forum posts, etc. as a way of adding a personal touch or including contact details.",
+                  "examples": [
+                    "Synonyms: sig, siggy",
+                    "Your signature must not exceed three lines of text, or 600 pixels in height.",
+                    "forum signature generator"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
