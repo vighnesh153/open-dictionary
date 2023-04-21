@@ -1,0 +1,39 @@
+{
+  "word": "unshift",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ shift"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unshift (third-person singular simple present unshifts, present participle unshifting, simple past and past participle unshifted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To release the shift key on a computer or typewriter keyboard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To add an item to the beginning of an array.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
