@@ -1,0 +1,110 @@
+{
+  "word": "role",
+  "etymologies": [
+    {
+      "description": [
+        "From French rôle, from Middle French rolle, from Old French role, from Medieval Latin rotulus. Doublet of roll."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "role (plural roles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A character or part played by a performer or actor.",
+                  "examples": [
+                    "My neighbor was the lead role in last year's village play.",
+                    "Her dream was to get a role in a Hollywood movie, no matter how small."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The expected behaviour of an individual in a society.",
+                  "examples": [
+                    "The role of women has changed significantly in the last century."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The function or position of something.",
+                  "examples": [
+                    "Local volunteers played an important role in cleaning the beach after the oil spill.",
+                    "What role does the wax in your earhole fulfill?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Designation that denotes an associated set of responsibilities, knowledge, skills, and attitudes",
+                  "examples": [
+                    "The project manager role is responsible for ensuring that everyone on the team knows and executes his or her assigned tasks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) The function of a word in a phrase.",
+                  "examples": [
+                    "Examining these verbs one by one, what one finds is that Auxiliary Selection does correlate in the expected way with the two kinds of optional transitivity, confirming that with each predicate, one semantic role has a fixed link with initial 1-hood, another with initial 2-hood."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) In the Raku programming language, a code element akin to an interface, used for composition of classes without adding to their inheritance chain.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "role (plural roles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) An ancient unit of quantity, 72 sheets of parchment.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
