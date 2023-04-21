@@ -1,0 +1,56 @@
+{
+  "word": "sharding",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sharding (countable and uncountable, plural shardings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A decomposition of a database into multiple smaller units that can handle requests individually.",
+                  "examples": [
+                    "A storage volume with many different potential shardings is analyzed more rapidly by the reuse of calculations made on neighboring vertices in the directed graph."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A breaking into shards.",
+                  "examples": [
+                    "A universe always shedding, a rain of sheddings and shardings."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sharding",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of shard",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
