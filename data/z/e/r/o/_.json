@@ -1,0 +1,255 @@
+{
+  "word": "zero",
+  "etymologies": [
+    {
+      "description": [
+        "From French zéro, from Italian zero, from Medieval Latin zephirum, from Arabic صِفْر‎ (ṣifr, “nothing, cipher”), itself calqued from Sanskrit शून्य (śūnya, “void, nothingness”). Doublet of cipher and chiffre."
+      ],
+      "adjectives": [
+        {
+          "description": "zero (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) No, not any.",
+                  "examples": [
+                    "She showed zero respect."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) Of a cloud ceiling, limiting vision to 50 feet (15 meters) or less.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) Of horizontal visibility, limited to 165 feet (50.3 meters) or less.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) Present at an abstract level, but not realized in the surface form.",
+                  "examples": [
+                    "The stem of \"kobieta\" with the zero ending is \"kobiet\"."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "zero (countable and uncountable, plural zeros or zeroes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The numeric symbol that represents the cardinal number zero.",
+                  "examples": [
+                    "In unary and k-adic notation in general, zero is the empty string.",
+                    "Write 0.0 to indicate a floating point number rather than the integer zero.",
+                    "The zero sign in American Sign Language is considered rude in some cultures."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The digit 0 in the decimal, binary, and all other base numbering systems.",
+                  "examples": [
+                    "One million has six zeroes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, uncountable) Nothing, or none.",
+                  "examples": [
+                    "The shipment was lost, so they had zero in stock.",
+                    "He knows zero about humour.",
+                    "In the end, all of our hard work amounted to zero."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The value of a magnitude corresponding to the cardinal number zero.",
+                  "examples": [
+                    "The electromagnetic field does not drop all of the way to zero before a reversal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The point on a scale at which numbering or measurement originates.",
+                  "examples": [
+                    "The temperature outside is ten degrees below zero."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A value of the independent variables of a function, for which the function is equal to zero.",
+                  "examples": [
+                    "The zeroes of a polynomial are its roots by the fundamental theorem of algebra.",
+                    "The derivative of a continuous, differentiable function that twice crosses the axis must have a zero.",
+                    "The nontrivial zeros of the Riemann zeta function may all lie on the critical line."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, algebra) The additive identity element of a monoid or greater algebraic structure, particularly a group or ring.",
+                  "examples": [
+                    "Since a commutative zero is the inverse of any additive identity, it must be unique when it exists.",
+                    "The zero (of a ring or field) has the property that the product of the zero with any element yields the zero.",
+                    "The quotient ring over a maximal ideal is a field with a single zero element."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A person of little or no importance.",
+                  "examples": [
+                    "They rudely treated him like a zero."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A Mitsubishi A6M Zero, a long range fighter aircraft operated by the Japanese Navy Air Service from 1940 to 1945.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A setting of calibrated instruments such as a firearm, corresponding to a zero value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A security which has a zero coupon (paying no periodic interest).",
+                  "examples": [
+                    "The takeovers were financed by issuing zeroes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "zero (third-person singular simple present zeroes or zeros, present participle zeroing, simple past and past participle zeroed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set a measuring instrument to zero; to calibrate an instrument scale to valid zero.",
+                  "examples": [
+                    "Zero the fluorometer with the same solvent used in extraction.",
+                    "George parked in space 34, zeroed the trip meter, closed and locked his car, then went back to the guard shack."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To change a memory location or range to values of zero; to set a variable in a computer program to zero.",
+                  "examples": [
+                    "Results were inconsistent because an array wasn’t zeroed during initialization."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause or set some value or amount to be zero.",
+                  "examples": [
+                    "They tried to zero the budget by the end of the quarter.",
+                    "The bill was over $400, but the server zeroed it out as a gesture of gratitude."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To eliminate; to delete; to overwrite with zeros.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To disappear.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
