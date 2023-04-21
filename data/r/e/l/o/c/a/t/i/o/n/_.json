@@ -1,0 +1,50 @@
+{
+  "word": "relocation",
+  "etymologies": [
+    {
+      "description": [
+        "From re- +‎ location."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "relocation (countable and uncountable, plural relocations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of moving from one place to another.",
+                  "examples": [
+                    "Synonyms: move, removal"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Renewal of a lease.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The assigning of addresses to variables either at linkage editing, or at runtime.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
