@@ -1,0 +1,101 @@
+{
+  "word": "template",
+  "etymologies": [
+    {
+      "description": [
+        "Alteration of templet, probably from French templet, diminutive of temple (“a weaver's stretcher”), variant of tempe, from Latin tempora (“temple”). Alteration of second syllable due to analogy with plate. Cognate with Faroese tamba (“to stretch out, relax”), Icelandic þamb (“a stretched, bloated, or extended belly”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "template (plural templates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A physical object whose shape is used as a guide to make other objects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "A generic model or pattern from which other objects are based or derived.",
+              "entries": [
+                {
+                  "meaning": "(computing) document template (file with a basic outline for a work)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(molecular biology) A macromolecule which provides a pattern for the synthesis of another molecule.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) A partially defined class or function, that can be instantiated in a variety of ways depending on the instantiation arguments.",
+                  "examples": [
+                    "A template is a blueprint or formula for creating a generic class or a function.  “C++ Templates”, in tutorialspoint, 2016"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A strip of metal used in boiler-making, pierced with a series of holes, and serving as a guide in marking out a line of rivet-holes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "template (third-person singular simple present templates, present participle templating, simple past and past participle templated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To set up or mark off using a template.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To provide a template or pattern for.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(molecular biology, transitive) To synthesize by means of a template.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
