@@ -1,0 +1,50 @@
+{
+  "word": "syntax",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French syntaxe, from Late Latin syntaxis, from Ancient Greek σύνταξις (súntaxis), from σύν (sún, “together”) + τάξις (táxis, “arrangement”), from τάσσω (tássō, “I arrange”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "syntax (countable and uncountable, plural syntaxes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A set of rules that govern how words are combined to form phrases and sentences.",
+                  "examples": [
+                    "The incorporation of a rule of V MOVEMENT into our description of English Syntax turns out to have fundamental theoretical implications for our overall Theory of Grammar: it means that we are no longer able to posit that the syntactic structure of a sentence can be described in terms of a single Phrase-marker representing its S-structure. For, the postulation of a rule of V-MOVEMENT means that we must recognise at least two different levels of structure in our Theory of Grammar — namely, a level of D-structure (formerly known as ‘Deep Structureʼ) which serves as input to the rule, and a separate level of S-structure which is formed by application of the rule."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, countable) The formal rules of formulating the statements of a computer language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The study of the structure of phrases, sentences, and language.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
