@@ -1,0 +1,81 @@
+{
+  "word": "snooze",
+  "etymologies": [
+    {
+      "description": [
+        "Unknown. Compare Dutch snoezelen (“to snooze”) or snusa (“to snore lighly”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "snooze (plural snoozes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A brief period of sleep; a nap.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:sleep",
+                    "The cat enjoys taking a snooze on a sunny windowsill."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) The snooze button on an alarm clock.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Something boring.",
+                  "examples": [
+                    "The whole movie was a snooze."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "snooze (third-person singular simple present snoozes, present participle snoozing, simple past and past participle snoozed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To sleep, especially briefly; to nap, doze.",
+                  "examples": [
+                    "The boss caught him snoozing at his desk."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pause; to postpone for a short while.",
+                  "examples": [
+                    "It enables you to dismiss the reminder, dismiss all reminders, open the highlighted item in the Reminder dialog, and snooze the reminder. Snoozing a reminder is similar to hitting the snooze button on an alarm clock […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
