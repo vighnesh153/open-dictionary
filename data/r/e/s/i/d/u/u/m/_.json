@@ -1,0 +1,59 @@
+{
+  "word": "residuum",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin residuum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "residuum (plural residuums or residua)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The residue, remainder or rest of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The solid material remaining after the liquid in which it was dissolved has been evaporated; a residue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fuzzy logic) A binary function from [0,1] × [0,1] to [0,1] which is defined in terms of the t-norm as follows: \n  \n    \n      \n        x\n        →\n        y\n        =\n        sup\n        {\n        z\n        \n          |\n        \n        z\n        ∗\n        x\n        ⩽\n        y\n        }\n      \n    \n    {\\displaystyle x\\rightarrow y=\\sup\\{z|z*x\\leqslant y\\}}\n  \n, where \n  \n    \n      \n        ∗\n      \n    \n    {\\displaystyle *}\n  \n denotes the t-norm function and \n  \n    \n      \n        sup\n      \n    \n    {\\displaystyle \\sup }\n  \n denotes the supremum.",
+                  "examples": [
+                    "The residuum of the minimum t-norm is a function \n  \n    \n      \n        →\n      \n    \n    {\\displaystyle \\rightarrow }\n  \n such that \n  \n    \n      \n        x\n        →\n        y\n        =\n        \n          \n            {\n            \n              \n                \n                  y\n                  ,\n                \n                \n                  \n                    if \n                  \n                  x\n                  >\n                  y\n                \n              \n              \n                \n                  1\n                  ,\n                \n                \n                  \n                    if \n                  \n                  x\n                  ⩽\n                  y\n                  .\n                \n              \n            \n            \n          \n        \n      \n    \n    {\\displaystyle x\\rightarrow y={\\begin{cases}y,&{\\text{if }}x>y\\\\1,&{\\text{if }}x\\leqslant y.\\end{cases}}}"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The residue of an estate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

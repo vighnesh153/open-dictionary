@@ -1,0 +1,66 @@
+{
+  "word": "residue",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English residue, from Old French residu, from Latin residuum, neuter of residuus (“remaining”), from resideō (“I remain behind”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "residue (countable and uncountable, plural residues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Whatever remains after something else has been removed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The substance that remains after evaporation, distillation, filtration or any similar process.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) A molecule that is released from a polymer after bonds between neighbouring monomers are broken, such as an amino acid in a polypeptide chain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) Whatever property or effects are left in an estate after payment of all debts, other charges and deduction of what is specifically bequeathed by the testator.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(complex analysis) A form of complex number, proportional to the contour integral of a meromorphic function along a path enclosing one of its singularities.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
