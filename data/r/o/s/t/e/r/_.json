@@ -1,0 +1,87 @@
+{
+  "word": "roster",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Dutch rooster (“gridiron, table, list”), from Middle Dutch roosten (“to roast”). More at roast."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "roster (plural rosters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A list of individuals or groups, usually for an organization of some kind such as military officers and enlisted personnel enrolled in a particular unit; a muster roll; a sports team, with the names of players who are eligible to be placed in the lineup for a particular game; or a list of students officially enrolled in a school or class.",
+                  "examples": [
+                    "I'm number 12 on the roster for tonight's game."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A list of the jobs to be done by members of an organization and often with the date/time that they are expected to do them.",
+                  "examples": [
+                    "The secretary has produced a new cleaning roster for the Church over the remainder of the year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A schedule or timetable setting out shift times and dates for each employee of a business.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A bracketed list that shows the elements of a set.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "roster (third-person singular simple present rosters, present participle rostering, simple past and past participle rostered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place the name of (a person) on a roster.",
+                  "examples": [
+                    "I have rostered you for cleaning duties on the first Monday of each month."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To show the elements of a set by listing them inside brackets.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
