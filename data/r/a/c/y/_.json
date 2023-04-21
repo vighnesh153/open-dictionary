@@ -1,0 +1,65 @@
+{
+  "word": "racy",
+  "etymologies": [
+    {
+      "description": [
+        "race (“having a characteristic taste (of wines, fruits, etc.)”) +‎ -y."
+      ],
+      "adjectives": [
+        {
+          "description": "racy (comparative racier, superlative raciest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Mildly risqué.",
+                  "examples": [
+                    "She wore a racy dress that was just barely appropriate for the occasion.",
+                    "a racy story"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having a strong flavor indicating origin; of distinct characteristic taste; tasting of the soil.",
+                  "examples": [
+                    "Synonyms: fresh, rich",
+                    "a racy wine"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, by extension) Exciting to the mind by a strong or distinctive character of thought or language; peculiar and piquant; fresh and lively.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Involving a data race or a race condition.",
+                  "examples": [
+                    "We evaluate the automatic fence insertion procedure by running our tool on a number of different benchmarks containing racy code."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
