@@ -1,0 +1,45 @@
+{
+  "word": "synchronous",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Late Latin synchronus, from Ancient Greek σύγχρονος (súnkhronos, “contemporaneous”), from σῠν- (sun-, “with, together”) + χρόνος (khrónos, “time”); surface analysis, syn- +‎ chron- +‎ -ous = synchrony +‎ -ous; however, all related words (e.g., synchronic, synchrony, synchronicity, diachronous, diachronic, diachrony, diachronicity) were coined later, either as back-formations from, or otherwise by analogy with the surface analysis of, synchronous."
+      ],
+      "adjectives": [
+        {
+          "description": "synchronous (comparative more synchronous, superlative most synchronous)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "At the same time, at the same frequency.",
+                  "examples": [
+                    "Synonyms: simultaneous, in phase, in synch, in step, synchronised",
+                    "Antonyms: asynchronous, antisynchronous"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of communication) Single-threaded; blocking; occurring in the same thread as other computations, thereby preventing those computations from resuming until the communication is complete.",
+                  "examples": [
+                    "Synonyms: blocking, modal, single-threaded",
+                    "Antonym: asynchronous"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
