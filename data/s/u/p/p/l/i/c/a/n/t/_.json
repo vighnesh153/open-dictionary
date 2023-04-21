@@ -1,0 +1,54 @@
+{
+  "word": "supplicant",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin supplicans (“supplicating, bowing down”), from supplicō (“kneel, bow down, request”), from sub- (“lower”) + plicō (“fold”)."
+      ],
+      "adjectives": [
+        {
+          "description": "supplicant (comparative more supplicant, superlative most supplicant)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "begging, pleading, supplicating",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "supplicant (plural supplicants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "one who comes to humbly ask or petition",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) A device attempting to authenticate itself to an 802.11 network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
