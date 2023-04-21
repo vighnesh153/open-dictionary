@@ -1,0 +1,149 @@
+{
+  "word": "shard",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English shard, scherd, scheard, schord, from Old English sċeard (“a broken piece; shard”), from Proto-West Germanic *skard, from Proto-Germanic *skardą (“notch; nick”), from *skardaz (“damaged; nicked; scarred”), from Proto-Indo-European *(s)ker- (“to cut”). Akin to Scots schaird (“shard”), French écharde (“splinter”), Dutch schaarde (“tear; notch; fragment”), German Scharte (“notch”), Old Norse skarð (“notch, hack”) ( > Danish skår).",
+        "The database sense is perhaps derived from the online gaming sense or from SHARD (System for Highly Available Replicated Data), name of a 1980s database product."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "shard (plural shards)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of broken glass or pottery, especially one found in an archaeological dig.",
+                  "examples": [
+                    "Synonym: potsherd"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A piece of material, especially rock and similar materials, reminding of a broken piece of glass or pottery.",
+                  "examples": [
+                    "Synonym: splinter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tough scale, sheath, or shell; especially an elytron of a beetle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(online gaming) An instance of an MMORPG that is one of several independent and structurally identical virtual worlds, none of which has so many players as to exhaust a system's resources.",
+                  "examples": [
+                    "\"The planet was still bound to the jewel's magic, even as it lay shattered upon the floor of Mondain's castle. For,[sic] within each shattered remnant of the jewel, dwelled a perfect likeness of Sosaria. Thus is the world in which you are born, live, and die. Brittania[sic], that was once Sosaria, now exists as a thousand worlds, each with its own peoples, history and destiny. This Brittania[sic] is but one of many in the multiverse that is... ...ULTIMA ONLINE.\" - Intro cinematic to the game, written by Michael Morlan [3]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A component of a sharded distributed database.",
+                  "examples": [
+                    "Synonym: partition"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, in the singular or in the plural) A piece of crystal methamphetamine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "shard (third-person singular simple present shards, present participle sharding, simple past and past participle sharded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To fall apart into shards, usually as the result of impact or explosion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To break (something) into shards.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(online gaming, transitive) To divide (an MMORPG) into several shards, or to establish a shard of one.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "shard (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The plant chard.",
+                  "examples": [
+                    "Not Heathpout, or the rarer Bird,",
+                    "Which Phasis, or Ionia yields,",
+                    "More pleasing Morsels would afford",
+                    "Than the fat Olives of my Fields;",
+                    "Than Shards or Mallows for the Pot,",
+                    "That keep the loosen’d Body sound,",
+                    "Or than the Lamb that falls by Lot,",
+                    "To the just Guardian of my Ground."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
