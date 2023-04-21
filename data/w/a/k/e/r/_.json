@@ -1,0 +1,75 @@
+{
+  "word": "waker",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English wakyr, from Old English wacor, waccor (“watchful, vigilant”), from Proto-Germanic *wakraz (“awake, watchful”), equivalent to wake +‎ -er. Cognate with Scots wakir (“watchful”), Dutch wakker (“awake”), German wacker (“awake, alert, capable, brave”), Swedish vacker (“wakeful, watchful, fair, comely”)."
+      ],
+      "adjectives": [
+        {
+          "description": "waker (comparative more waker, superlative most waker)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now chiefly UK dialectal) Watchful; vigilant; alert.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English wakere, equivalent to wake +‎ -er. Compare West Frisian wekker (“alarm clock”, literally “waker”), Dutch wekker, German Wecker."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "waker (plural wakers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who wakens or arouses from sleep.",
+                  "examples": [
+                    "an early waker"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who wakes somebody or something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) In the Rust programming language, a handle that \"wakes up\" a task by notifying its executor that it is ready to be run.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
