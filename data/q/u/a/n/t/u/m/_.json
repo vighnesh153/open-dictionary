@@ -1,0 +1,129 @@
+{
+  "word": "quantum",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin quantum, noun use of neuter form of Latin quantus (“how much”)."
+      ],
+      "adjectives": [
+        {
+          "description": "quantum (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a change, sudden or discrete, without intermediate stages.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Of a change, significant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(physics) Involving quanta, quantum mechanics or other aspects of quantum physics.",
+              "entries": [
+                {
+                  "meaning": "(computing theory) Relating to a quantum computer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quantum (countable and uncountable, plural quantums or quanta)",
+          "definitionGroups": [
+            {
+              "group": "(now chiefly South Asia or law) The total amount of something; quantity. [from 17th c.]",
+              "entries": [
+                {
+                  "meaning": "(law) The amount of compensation awarded to a successful party in a lawsuit.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(law) The length or magnitude of the sentence handed down to someone who has been found guilty of a crime.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The amount or quantity observably present, or available. [from 18th c.]",
+                  "examples": [
+                    "Each man has only a quantum of compassion, he argued, and mine is used up for the day."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The smallest possible, and therefore indivisible, unit of a given quantity or quantifiable phenomenon. [from 20th c.]",
+                  "examples": [
+                    "The quantum of light energy was later called a photon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The amount of time allocated for a thread to perform its work in a multithreaded environment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, uncountable) Short for quantum computing.",
+                  "examples": [
+                    "Developing for quantum has never been more accessible."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The minimum dose of a pathogen required to cause an infection.",
+                  "examples": [
+                    "Synonym: infectious dose"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A definite portion of a manifoldness, limited by a mark or by a boundary.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
