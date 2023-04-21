@@ -1,0 +1,65 @@
+{
+  "word": "voiced",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "voiced (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) Sounded with vibration of the vocal cords. For example, the phone [z] is voiced, while [s] is unvoiced.",
+                  "examples": [
+                    "Antonyms: voiceless, unvoiced"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in combination) Having a specified kind of voice.",
+                  "examples": [
+                    "a shrill-voiced little boy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing, of a signal) That contains voice.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "voiced",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of voice",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
