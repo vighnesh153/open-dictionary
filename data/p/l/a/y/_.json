@@ -1,0 +1,402 @@
+{
+  "word": "play",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English pleyen, playen, pleȝen, plæien, also Middle English plaȝen, plawen (compare English plaw), from Old English pleġan, pleoġan, plæġan, and Old English plegian, pleagian, plagian (“to play, exercise, etc.”), from Proto-West Germanic *plehan (“to care about, be concerned with”) and Proto-West Germanic *plegōn (“to engage, move”); both perhaps from Proto-Indo-European *blek- (“to move, move about”), from Proto-Indo-European *bal- (compare Ancient Greek βλύω (blúō), βλύζω (blúzō, “I gush out, spring”), Sanskrit बल्बलीति (balbalīti, “it whirls, twirls”)).",
+        "The noun is from Middle English pleye, from Old English plæġ, plega, plæġa (“play, quick motion, movement, exercise; (athletic) sport, game; festivity, drama; battle; gear for games, an implement for a game; clapping with the hands, applause”), deverbative of plegian (“to play”); see above."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "play (countable and uncountable, plural plays)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, formerly countable) Activity for amusement only, especially among the young.",
+                  "examples": [
+                    "Children learn through play."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Similar activity in young animals, as they explore their environment and learn new skills.",
+                  "examples": [
+                    "This kind of play helps the young lion cubs develop their hunting skills."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The conduct, or course, of a game.",
+                  "examples": [
+                    "Play was very slow in the first half.",
+                    "After the rain break, play resumed at 3 o'clock.",
+                    "The game was abandoned after 20 minutes' play"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) An individual's performance in a sport or game.",
+                  "examples": [
+                    "His play has improved a lot this season."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A short sequence of action within a game.",
+                  "examples": [
+                    "That was a great play by the Mudchester Rovers forward."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, turn-based games) An action carried out when it is one's turn to play.",
+                  "examples": [
+                    "Synonym: move"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A literary composition, intended to be represented by actors impersonating the characters and speaking the dialogue.",
+                  "examples": [
+                    "Synonyms: drama; see also Thesaurus:drama",
+                    "This book contains all of Shakespeare's plays."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A theatrical performance featuring actors.",
+                  "examples": [
+                    "We saw a two-act play in the theatre."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An attempt to move forward, as in a plan or strategy, for example by a business, investor, or political party.",
+                  "examples": [
+                    "ABC Widgets makes a play in the bicycle market with its bid to take over Acme Sprockets.",
+                    "Turpin signals the Metric Party's long-term play for housing reform"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A geological formation that contains an accumulation or prospect of hydrocarbons or other resources.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Movement (of a pattern of light etc.)",
+                  "examples": [
+                    "the play of light and shadow across the boy's face"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The extent to which a part of a mechanism can move freely, as for example lash, backlash, or slack.",
+                  "examples": [
+                    "No wonder the fanbelt is slipping: there’s too much play in it.",
+                    "Too much play in a steering wheel may be dangerous."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, informal) Sexual activity or sexual role-playing.",
+                  "examples": [
+                    "Palm Springs M seeks sane F 4 safe bdsm play"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An instance of watching or listening to digital media.",
+                  "examples": [
+                    "Synonyms: (of visual media) view, (of audio) listen"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A button that, when pressed, causes media to be played.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, now usually in compounds) Activity relating to martial combat or fighting.",
+                  "examples": [
+                    "handplay, swordplay"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "play (third-person singular simple present plays, present participle playing, simple past and past participle played)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To act in a manner such that one has fun; to engage in activities expressly for the purpose of recreation or entertainment.",
+                  "examples": [
+                    "They played long and hard."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive, intransitive) To perform in (a sport); to participate in (a game).",
+              "entries": [
+                {
+                  "meaning": "(transitive) To compete against, in a game.",
+                  "examples": [
+                    "We're playing one of the top teams in the next round."
+                  ]
+                },
+                {
+                  "meaning": "(transitive) (in the scoring of games and sports) To be the opposing score to.",
+                  "examples": [
+                    "Look at the score now ... 23 plays 8!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To take part in amorous activity; to make love.",
+                  "examples": [
+                    "Synonyms: get it on, make out, have sex; see also Thesaurus:copulate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To gamble.",
+                  "examples": [
+                    "“I play, comparatively, very little; I don't drink a fifth part so much as half the people I live with; and I reckon myself, upon the whole, a very orderly, sober fellow.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To act as the indicated role, especially in a performance.",
+                  "examples": [
+                    "He plays the King, and she’s the Queen.",
+                    "No part of the brain plays the role of permanent memory."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(multiple senses, transitive, intransitive) To produce music or theatre.",
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a music) To produce music.",
+                  "examples": [
+                    "Synonyms: cook, jam; see also Thesaurus:play music"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive, especially of a person) To produce music using a musical instrument.",
+                  "examples": [
+                    "I've practiced the piano off and on, but I still can't play very well."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, especially of a person) To produce music (or a specified song or musical style) using (a specified musical instrument).",
+                  "examples": [
+                    "I'll play the piano and you sing.",
+                    "Can you play an instrument?",
+                    "We especially like to play jazz together.",
+                    "Play a song for me.",
+                    "Do you know how to play Für Elise?",
+                    "My son thinks he can play music."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, ergative) To use a device to watch or listen to the indicated recording.",
+                  "examples": [
+                    "You can play the DVD now."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive, of a theatrical performance) To be performed; (or of a film) to be shown.",
+                  "examples": [
+                    "His latest film is playing in the local theatre tomorrow."
+                  ]
+                },
+                {
+                  "meaning": "(transitive, of a theatrical company or band, etc.) To perform in or at; to give performances in or at.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To act or perform (a play).",
+                  "examples": [
+                    "to play a comedy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(multiple senses) To behave in a particular way.",
+              "entries": [
+                {
+                  "meaning": "(copulative) Contrary to fact, to give an appearance of being.",
+                  "examples": [
+                    "Playing hard to get is not the same as slamming the door in someone's face."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To act with levity or thoughtlessness; to trifle; to be careless.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive) To act; to behave; to practice deception.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To bring into sportive or wanton action; to exhibit in action; to execute.",
+                  "examples": [
+                    "to play tricks"
+                  ]
+                },
+                {
+                  "meaning": "(African-American Vernacular, intransitive) To kid; to joke; say something for amusement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To move in any manner; especially, to move regularly with alternate or reciprocating motion; to operate.",
+                  "examples": [
+                    "The fountain plays.",
+                    "He played the torch beam around the room."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move to and fro.",
+                  "examples": [
+                    "The setting sun  Plays on their shining arms and burnished helmets."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put in action or motion.",
+                  "examples": [
+                    "to play cannon upon a fortification",
+                    "to play a trump in a card game"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To keep in play, as a hooked fish in order to land it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, colloquial) To manipulate, deceive, or swindle someone.",
+                  "examples": [
+                    "Synonym: defraud",
+                    "You played me!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
