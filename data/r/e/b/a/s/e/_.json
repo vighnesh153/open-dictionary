@@ -1,0 +1,57 @@
+{
+  "word": "rebase",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ base"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "rebase (third-person singular simple present rebases, present participle rebasing, simple past and past participle rebased)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dentistry) To replace the base of a denture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To modify core data from which other data is derived in such a way that the final meaning is unchanged.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To change the base address of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, source control) To integrate changes by appending them to another commit or branch, rather than pulling or merging in changes from a branch.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
