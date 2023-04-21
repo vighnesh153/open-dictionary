@@ -1,0 +1,89 @@
+{
+  "word": "topology",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin topologia, from Ancient Greek τόπος (tópos, “place, locality”) + -(o)logy (“study of, a branch of knowledge”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "topology (countable and uncountable, plural topologies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, uncountable) The branch of mathematics dealing with those properties of a geometrical object (of arbitrary dimensionality) that are unchanged by continuous deformations (such as stretching, bending, etc., without tearing or gluing).",
+                  "examples": [
+                    "This book is designed to develop the fundamental concepts of general topology which are the basic tools of working mathematicians in a variety of fields."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) Any collection τ of subsets of a given set X that contains both the empty set and X, and which is closed under finitary intersections and arbitrary unions.",
+                  "examples": [
+                    "A set \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n equipped with a topology \n  \n    \n      \n        τ\n      \n    \n    {\\displaystyle \\tau }\n  \n is called a topological space and denoted \n  \n    \n      \n        (\n        X\n        ,\n        τ\n        )\n      \n    \n    {\\displaystyle (X,\\tau )}\n  \n.",
+                    "The subsets of a set \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n which constitute a topology are called the open sets of \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The anatomical structure of part of the body.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The arrangement of nodes in a communications network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(technology) The properties of a particular technological embodiment that are not affected by differences in the physical layout or form of its application.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topography) The topographical study of geographic locations or given places in relation to their history.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) The art of, or method for, assisting the memory by associating the thing or subject to be remembered with some place.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
