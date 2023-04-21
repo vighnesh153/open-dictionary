@@ -1,0 +1,43 @@
+{
+  "word": "predeclare",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ declare"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "predeclare (third-person singular simple present predeclares, present participle predeclaring, simple past and past participle predeclared)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To declare or announce beforehand.",
+                  "examples": [
+                    "their indefeasible power of predeclaring the eternal destiny of every living layman"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To declare some source code element (such as a class) in advance of its full description, so that other preceding parts of the code can refer to it.",
+                  "examples": [
+                    "Synonym: forward-declare"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
