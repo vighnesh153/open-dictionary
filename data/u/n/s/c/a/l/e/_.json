@@ -1,0 +1,43 @@
+{
+  "word": "unscale",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ scale"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unscale (third-person singular simple present unscales, present participle unscaling, simple past and past participle unscaled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove scales from.",
+                  "examples": [
+                    "Synonym: (in some contexts) scale"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To undo a scaling transform upon.",
+                  "examples": [
+                    "Because OpenGL ES does not understand such a format, the vertex shader will then need to apply a matrix to unscale these values, which affects the vertex shading performance."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
