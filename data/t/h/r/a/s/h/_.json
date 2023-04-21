@@ -1,0 +1,103 @@
+{
+  "word": "thrash",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English thrasshen, a dialectal variant of thresshen, threshen (whence the modern English thresh), from Old English þrescan, from Proto-Germanic *þreskaną, whence also Old High German dreskan, Old Norse þreskja."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "thrash (countable and uncountable, plural thrashes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A beat or blow; the sound of beating.",
+                  "examples": [
+                    "As he reeled on wide-braced legs, sobbing for breath, the jungle and the moon swimming bloodily to his sight, the thrash of bat-wings was loud in his ears."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, uncountable) thrash metal",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "thrash (third-person singular simple present thrashes, present participle thrashing, simple past and past participle thrashed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To beat mercilessly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To defeat utterly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To thresh.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To move about wildly or violently; to flail; to labour.",
+                  "examples": [
+                    "I rather would be Maevius, thrash for rhymes, / Like his, the scorn and scandal of the times."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software) To extensively test a software system, giving a program various inputs and observing the behavior and outputs that result.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) In computer architecture, to cause or undergo poor performance of a virtual memory (or paging) system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
