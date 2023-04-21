@@ -1,0 +1,77 @@
+{
+  "word": "rune",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Old Norse rún, which is from Proto-Germanic *rūnō (“letter, literature, secret”), which is borrowed either from Proto-Celtic *rūnā or from the same source as it; compare Dutch rune, German Rune and Swedish runa. Compare roun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rune (plural runes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A letter, or character, used in the written language of various ancient Germanic peoples, especially the Scandinavians and the Anglo-Saxons.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A Finnish or Scandinavian epic poem, or a division of one, especially a division of the Kalevala.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A letter or mark used as a mystical or magic symbol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A verse or song, especially one with mystical or mysterious overtones; a spell or an incantation.",
+                  "examples": [
+                    "the fiddle sang and sang as ceaselessly as the chanting cicada without, and the frogs intoning their sylvan runes by the waterside."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Alternative form of roun (“secret or mystery”).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, in the Go programming language) A Unicode code point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
