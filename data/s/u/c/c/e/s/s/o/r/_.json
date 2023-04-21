@@ -1,0 +1,61 @@
+{
+  "word": "successor",
+  "etymologies": [
+    {
+      "description": [
+        "From Anglo-Norman successour, from Latin successor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "successor (plural successors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or thing that immediately follows another in holding an office or title.",
+                  "examples": [
+                    "George W. Bush was successor to Bill Clinton as President of the US."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The next heir in order or succession.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who inherits a title or office.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic, set theory) The integer, ordinal number or cardinal number immediately following another.",
+                  "examples": [
+                    "A limit ordinal is not the successor of any ordinal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
