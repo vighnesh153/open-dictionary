@@ -1,0 +1,41 @@
+{
+  "word": "unsharpen",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ sharpen"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unsharpen (third-person singular simple present unsharpens, present participle unsharpening, simple past and past participle unsharpened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To render unsharp; to spoil the sharpness of (something).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer graphics) To undo a sharpening operation on (an image).",
+                  "examples": [
+                    "When it sharpens the image, you can't unsharpen it again without losing data."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

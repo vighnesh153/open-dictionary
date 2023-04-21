@@ -1,0 +1,49 @@
+{
+  "word": "unsharp",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ sharp"
+      ],
+      "adjectives": [
+        {
+          "description": "unsharp (comparative more unsharp, superlative most unsharp)",
+          "definitionGroups": [
+            {
+              "group": "Not sharp, as:",
+              "entries": [
+                {
+                  "meaning": "(imaging, graphics) out of focus; blurry.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(tools) dulled or intentionally blunt.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unsharp (third-person singular simple present unsharps, present participle unsharping, simple past and past participle unsharped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, imaging, graphics) To sharpen (an image) by creating a blurred (\"unsharp\") negative as a mask, and then combining that mask with the original.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
