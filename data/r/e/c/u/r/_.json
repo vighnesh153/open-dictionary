@@ -1,0 +1,96 @@
+{
+  "word": "recur",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin recurrō (“run back”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "recur (third-person singular simple present recurs, present participle recurring, simple past and past participle recurred)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To happen again.",
+                  "examples": [
+                    "The theme of the prodigal son recurs later in the third act."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To come to the mind again.",
+                  "examples": [
+                    "[…]  they have so deep a resentment [i.e. impression] of the most affecting objects, whose images therefore recur to the fancy when they are asleep"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) To speak, write or think about something again; to return or go back (to a subject).",
+                  "examples": [
+                    "Again am I recurring to a subject I wish to quit. But since I cannot, I will give my pen its course—Pen, take thy course."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To go back to using or doing something.",
+                  "examples": [
+                    "I contrived for some time to carry on something like a conversation with this woman, but was soon glad to put an end to it by recurring to my bottle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To have recourse (to someone or something) for assistance, support etc.; to turn or appeal to (someone or something).",
+                  "examples": [
+                    "to shew vs by our first Apostle what account we should make of the resolution of the Sea Apostolick, and  […]  in all difficulties recur to her"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To go to a location again; to return (to a place).",
+                  "examples": [
+                    "Cycle of the Sun is the revolution of 28 years, Cycle of the Moon the revolution of 19 years, in which time both of their motions recur to the same point."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To recurse.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
