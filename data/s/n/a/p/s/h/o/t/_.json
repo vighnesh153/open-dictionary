@@ -1,0 +1,100 @@
+{
+  "word": "snapshot",
+  "etymologies": [
+    {
+      "description": [
+        "snap +‎ shot"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "snapshot (plural snapshots)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A photograph, especially one taken quickly or in a sudden moment of opportunity.",
+                  "examples": [
+                    "He carried a snapshot of his daughter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A glimpse of something; a portrayal of something at a moment in time.",
+                  "examples": [
+                    "The article offered a snapshot of life in that region."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A file or set of files captured at a particular time, often capable of being reloaded to restore the earlier state.",
+                  "examples": [
+                    "This game is so hard that I find myself taking a snapshot every few seconds in case I get killed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(soccer) A quick, unplanned or unexpected shot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(firearms) A quick offhand shot, made without deliberately taking aim over the sights.",
+                  "examples": [
+                    "How quick the eye and hand to catch him [the ruffed grouse] when he rises from the underbrush and is out of sight in the wood before the untrained sportsman stops him with what is little more than a snapshot, so instantaneously must all be done!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "snapshot (third-person singular simple present snapshots, present participle snapshotting, simple past and past participle snapshotted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take a photograph of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To capture the state of, in a snapshot.",
+                  "examples": [
+                    "Filer appliances also offer programmatic snapshotting and cloning at the block-level or file system-level."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
