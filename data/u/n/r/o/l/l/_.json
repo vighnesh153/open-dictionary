@@ -1,0 +1,54 @@
+{
+  "word": "unroll",
+  "etymologies": [
+    {
+      "description": [
+        "From un- +‎ roll."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unroll (third-person singular simple present unrolls, present participle unrolling, simple past and past participle unrolled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To straighten something that has been rolled, twisted or curled.",
+                  "examples": [
+                    "Unroll your sleeping bag and spread it on the floor of the tent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To emerge, be revealed or become apparent; to unfold.",
+                  "examples": [
+                    "We will have to see how the events unroll."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming, software compilation) To replace (a loop in a program) with a repetitive sequence of the individual instructions that the loop would carry out, sometimes used as an optimization.",
+                  "examples": [
+                    "Synonym: unwind"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
