@@ -1,0 +1,50 @@
+{
+  "word": "thesaurus",
+  "etymologies": [
+    {
+      "description": [
+        "16th century, from Latin thēsaurus, from Ancient Greek θησαυρός (thēsaurós, “storehouse, treasure”); its current English usage/meaning was established soon after the publication of Peter Roget's Thesaurus of English Words and Phrases in 1852. Doublet of treasure."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "thesaurus (plural thesauri or thesauruses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A publication, traditionally in the form of a book and now often online, that provides synonyms (and sometimes antonyms and other semantic relations) for the words of a given language.",
+                  "examples": [
+                    "\"Roget\" is the leading brand name for a print English thesaurus that lists words under general concepts rather than just close synonyms."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A dictionary or encyclopedia.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(information science) A hierarchy of subject headings — canonic titles of themes and topics, the titles serving as search keys.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
