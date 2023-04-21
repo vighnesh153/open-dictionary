@@ -1,0 +1,31 @@
+{
+  "word": "significand",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "significand (plural significands)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The part of a floating-point number that contains its significant digits.",
+                  "examples": [
+                    "Synonyms: mantissa, coefficient, argument, fraction",
+                    "Coordinate term: exponent"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
