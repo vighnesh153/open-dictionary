@@ -1,0 +1,32 @@
+{
+  "word": "pseudodevice",
+  "etymologies": [
+    {
+      "description": [
+        "pseudo- +‎ device"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pseudodevice (plural pseudodevices)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An entry in a file system that acts like a physical device without having the corresponding hardware.",
+                  "examples": [
+                    "/dev/null is a pseudodevice on Unix-like systems."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
