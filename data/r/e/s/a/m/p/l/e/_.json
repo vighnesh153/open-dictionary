@@ -1,0 +1,41 @@
+{
+  "word": "resample",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ sample"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "resample (third-person singular simple present resamples, present participle resampling, simple past and past participle resampled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To sample again; to repeat sampling",
+                  "examples": [
+                    "The initial results were inconclusive, so we resampled the tap water."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, media) To change the sample rate or dimensions of digital imagery or audio",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
