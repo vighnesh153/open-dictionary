@@ -1,0 +1,124 @@
+{
+  "word": "tenant",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English tenaunt, from Anglo-Norman tenaunt and Old French tenant, present participle of tenir (“to hold”), from Latin tenēre, present active infinitive of teneō (“hold, keep”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tenant (plural tenants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who holds a lease (a tenancy).",
+                  "examples": [
+                    "Synonyms: renter, lessee, (rare) rentee",
+                    "Hyponyms: subtenant, undertenant, sublessee, underlessee"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) One who has possession of any place.",
+                  "examples": [
+                    "Synonyms: dweller, occupant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Any of a number of customers serviced through the same instance of an application.",
+                  "examples": [
+                    "multi-tenant hosting"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly historical) One who holds a feudal tenure in real property.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(property law, by extension) One who owns real estate other than via allodial title.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tenant (third-person singular simple present tenants, present participle tenanting, simple past and past participle tenanted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To hold as, or be, a tenant.",
+                  "examples": [
+                    "Synonym: lodge"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To inhabit.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Possibly just a modification of tenet, but note obsolete tenent (“tenet”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tenant",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Misconstruction of tenet",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
