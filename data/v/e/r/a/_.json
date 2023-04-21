@@ -1,0 +1,57 @@
+{
+  "word": "vera",
+  "etymologies": [
+    {
+      "description": [
+        "From Vera Lynn."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vera (plural veras)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Cockney rhyming slang) A skin (rolling paper for cigarettes).",
+                  "examples": [
+                    "Has anybody got any veras? Lovely!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "As vega, with the \"g\" substituted with a \"r\" to represent risk-free (interest rate)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vera (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A second-order measure of derivative price sensitivity, expressed as the rate of change of vega with respect to changes in the risk-free interest rate, or equivalently the rate of change of rho with respect to changes in the volatility of the underlying asset.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
