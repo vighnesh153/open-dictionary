@@ -1,0 +1,116 @@
+{
+  "word": "requirement",
+  "etymologies": [
+    {
+      "description": [
+        "require +‎ -ment"
+      ],
+      "adjectives": [
+        {
+          "description": "requirement (plural requirements)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A necessity or prerequisite; something required or obligatory. Its adpositions are generally of in relation to who or what has given it, on in relation to whom or what it is given to, and for in relation to what is required.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something asked.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, computing) A statement (in domain specific terms) which specifies a verifiable constraint on an implementation that it shall undeniably meet or (a) be deemed unacceptable, or (b) result in implementation failure, or (c) result in system failure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "requirement (plural requirements)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A necessity or prerequisite; something required or obligatory. Its adpositions are generally of in relation to who or what has given it, on in relation to whom or what it is given to, and for in relation to what is required.",
+                  "examples": [
+                    "There was a requirement of the government on citizens for paying taxes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something asked.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, computing) A statement (in domain specific terms) which specifies a verifiable constraint on an implementation that it shall undeniably meet or (a) be deemed unacceptable, or (b) result in implementation failure, or (c) result in system failure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "requirement (plural requirements)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A necessity or prerequisite; something required or obligatory. Its adpositions are generally of in relation to who or what has given it, on in relation to whom or what it is given to, and for in relation to what is required.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something asked.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering, computing) A statement (in domain specific terms) which specifies a verifiable constraint on an implementation that it shall undeniably meet or (a) be deemed unacceptable, or (b) result in implementation failure, or (c) result in system failure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
