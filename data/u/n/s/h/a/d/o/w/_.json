@@ -1,0 +1,39 @@
+{
+  "word": "unshadow",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ shadow"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unshadow (third-person singular simple present unshadows, present participle unshadowing, simple past and past participle unshadowed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To free from shadow; to allow to become illuminated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To combine (a password file) with its corresponding \"shadow file\" in order to facilitate cracking of the passwords.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
