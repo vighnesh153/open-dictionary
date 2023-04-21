@@ -1,0 +1,36 @@
+{
+  "word": "redefine",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ define"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "redefine (third-person singular simple present redefines, present participle redefining, simple past and past participle redefined)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To define again or differently.",
+              "entries": [
+                {
+                  "meaning": "(transitive) To give a new or different definition to (a word).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, computing) To define a previously defined area of storage etc. in a different manner, e.g. changing it from textual to numeric.",
+                  "examples": [
+                    "Next the \"key redefiner\" software came along. These were special programs that could \"redefine\" the keys on your keyboard , while still permitting you the normal use of the keys."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
