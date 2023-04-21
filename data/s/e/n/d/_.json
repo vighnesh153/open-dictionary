@@ -1,0 +1,167 @@
+{
+  "word": "send",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English senden, from Old English sendan (“to send, cause to go”), from Proto-West Germanic *sandijan, from Proto-Germanic *sandijaną, from Proto-Indo-European *sont-eye- (“to cause to go”), causative of *sent- (“to walk, travel”). The noun is from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "send (plural sends)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) An operation in which data is transmitted.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface; often capitalized, or capitalized and put in quotation marks) An icon (usually on a computer screen and labeled with the word \"Send\") on which one clicks (with a mouse or its equivalent) or taps to transmit an email or other electronic message.",
+                  "examples": [
+                    "Good thing I didn't hit send on that resume; I just noticed a bad typo."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) Alternative form of scend",
+                  "examples": [
+                    "thus we drifted, steadily trending with the send of each giant surge further and deeper into the icy regions of the south-west"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland) A messenger, especially one sent to fetch the bride.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, slang) A callout or diss usually aimed at a specific person, often in the form of a diss track.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(climbing) A successful ascent of a sport climbing route.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "send (third-person singular simple present sends, present participle sending, simple past sent, past participle sent or (nonstandard) sended)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, ditransitive) To make something (such as an object or message) go from one place to another (or to someone).",
+                  "examples": [
+                    "Every day at two o'clock, he sends his secretary out to buy him a coffee.",
+                    "She sends me a letter every month.",
+                    "Some hooligan sent a brick flying through our front window."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To excite, delight, or thrill (someone).",
+                  "examples": [
+                    "The train had an excellent whistle which sent me, just as Sinatra sends the bobby-sockers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring to a certain condition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, usually with for) To dispatch an agent or messenger to convey a message or do an errand.",
+                  "examples": [
+                    "Seeing how ill she was, we sent for a doctor at once."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to be or to happen; to bring, bring about; (archaic) to visit: (Referring to blessing or reward) To bestow; to grant. (Referring to curse or punishment) To inflict. Sometimes followed by a dependent proposition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical, intransitive) To pitch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(climbing, transitive) To make a successful ascent of a sport climbing route.",
+                  "examples": [
+                    "She finally sent the 12a after hours of failed attempts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Nigeria, slang, intransitive) To care.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
