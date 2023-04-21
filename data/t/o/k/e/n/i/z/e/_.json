@@ -1,0 +1,48 @@
+{
+  "word": "tokenize",
+  "etymologies": [
+    {
+      "description": [
+        "token +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tokenize (third-person singular simple present tokenizes, present participle tokenizing, simple past and past participle tokenized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To reduce to a set of tokens by lexical analysis.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To substitute sensitive data with meaningless placeholders.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To treat as a token minority.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
