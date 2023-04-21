@@ -1,0 +1,92 @@
+{
+  "word": "tension",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French tension, from Latin tēnsiō, tēnsiōnem."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tension (countable and uncountable, plural tensions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The condition of being held in a state between two or more forces, which are acting in opposition to each other.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Psychological state of being tense.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A feeling of nervousness, excitement, or fear that is created in a movie, book, etc.; suspense.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, engineering) State of an elastic object which is stretched in a way which increases its length.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, engineering) Force transmitted through a rope, string, cable, or similar object (used with prepositions on, in, or of, e.g., \"The tension in the cable is 1000 N\", to convey that the same magnitude of force applies to objects attached to both ends).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics, engineering) Voltage. Usually only the terms low tension, high tension, and extra-high tension, and the abbreviations LT, HT, and EHT are used. They are not precisely defined; LT is normally a few volts, HT a few hundreds of volts, and EHT thousands of volts.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tension (third-person singular simple present tensions, present participle tensioning, simple past and past participle tensioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To place an object in tension, to pull or place strain on.",
+                  "examples": [
+                    "We tensioned the cable until it snapped."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
