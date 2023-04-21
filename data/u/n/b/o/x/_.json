@@ -1,0 +1,41 @@
+{
+  "word": "unbox",
+  "etymologies": [
+    {
+      "description": [
+        "From un- +‎ box."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unbox (third-person singular simple present unboxes, present participle unboxing, simple past and past participle unboxed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove from a box.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To retrieve (a value of a primitive type) from the object in which it is boxed.",
+                  "examples": [
+                    "When a boxing or unboxing operation occurs in code, whether it was implicit or explicit, the IL generated includes the box or unbox command."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
