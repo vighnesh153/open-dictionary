@@ -1,0 +1,45 @@
+{
+  "word": "timestamp",
+  "etymologies": [
+    {
+      "description": [
+        "time +‎ stamp (noun); the verb sense derives from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "timestamp (plural timestamps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A variable containing the date and time at which an event occurred, often included in a log to track the sequence of events.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "timestamp (third-person singular simple present timestamps, present participle timestamping, simple past and past participle timestamped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To record the date and time of (an event, etc).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

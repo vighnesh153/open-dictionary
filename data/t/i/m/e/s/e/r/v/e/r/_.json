@@ -1,0 +1,59 @@
+{
+  "word": "timeserver",
+  "etymologies": [
+    {
+      "description": [
+        "From time +‎ server."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "timeserver (plural timeservers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Someone who honours their commitments only when it is personally easy to do so. [16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who conforms to current opinions, especially for reasons of personal advantage; an opportunist. [from 16th c.]",
+                  "examples": [
+                    "Another of Lilly's confidants was the time-server, John Gauden, who was distinctly anti-Laudian in outlook, but who nevertheless became Bishop of Worcester at the Restoration."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who performs a job for the required time only, making a minimum of effort. [from 19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A device, node or program that transmits the correct time to clients in a network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
