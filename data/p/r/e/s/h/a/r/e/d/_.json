@@ -1,0 +1,30 @@
+{
+  "word": "preshared",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ shared"
+      ],
+      "adjectives": [
+        {
+          "description": "preshared (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography, of a key or secret) Shared between the communicating parties by some secure channel before it needs to be used.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
