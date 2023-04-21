@@ -1,0 +1,384 @@
+{
+  "word": "split",
+  "etymologies": [
+    {
+      "description": [
+        "Attested since about 1567, from Middle Dutch splitten (“to split”) and/or Middle Low German splitten (“to split”), both ultimately from Proto-West Germanic *splittjan, an intensive form of Proto-West Germanic *splītan (“to split”), from Proto-Germanic *splītaną (whence Danish splitte, Low German splieten, German spleißen), from Proto-Indo-European *(s)pley- (“to split, splice”).",
+        "Compare Old English speld (“splinter”), Old High German spaltan (“to split”), Old Irish sliss (“splinter”), Lithuanian spaliai (“flax sheaves”), Czech půl (“half”), Old Church Slavonic рас-плитати (ras-plitati, “to cleave, split”)."
+      ],
+      "adjectives": [
+        {
+          "description": "split (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Divided.",
+                  "examples": [
+                    "Republicans appear split on the centerpiece of Mr. Obama's economic recovery plan."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of a short exact sequence) Having the middle group equal to the direct product of the others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of coffee) Comprising half decaffeinated and half caffeinated espresso.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(stock exchange, of an order, sale, etc.) Divided so as to be done or executed part at one time or price and part at another time or price.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(stock exchange, historical, of quotations) Given in sixteenths rather than eighths.",
+                  "examples": [
+                    "10+3⁄16 is a split quotation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(London stock exchange) Designating ordinary stock that has been divided into preferred ordinary and deferred ordinary.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "split (plural splits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A crack or longitudinal fissure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A breach or separation, as in a political party; a division.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece that is split off, or made thin, by splitting; a splinter; a fragment.",
+                  "examples": [
+                    "The kernels split in shelling, known as splits, form a fifth grade of shelled Virginia peanuts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(leather manufacture) One of the sections of a skin made by dividing it into two or more thicknesses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gymnastics, cheerleading, dance, usually in the phrase \"to do the splits\") A maneuver of spreading or sliding the feet apart until the legs are flat on the floor 180 degrees apart, either sideways to the body or with one leg in front and one behind, thus lowering the body completely to the floor in an upright position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bodybuilding) A workout routine as seen by its distribution of muscle groups or the extent and manner they are targeted in a microcycle.",
+                  "examples": [
+                    "Hyponym: bro split"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball, slang) A split-finger fastball.",
+                  "examples": [
+                    "He’s got a nasty split."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bowling) A result of a first throw that leaves two or more pins standing with one or more pins between them knocked down.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A split shot or split stroke.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A dessert or confection resembling a banana split.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unit of measure used for champagne or other spirits: 18.75 centiliters or one quarter of a standard 75-centiliter bottle. Commercially comparable to 1⁄20 (US) gallon, which is 1⁄2 of a fifth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bottle of wine containing 37.5 centiliters, half the volume of a standard 75-centiliter bottle; a demi.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(athletics) The elapsed time at specific intermediate points in a race.",
+                  "examples": [
+                    "In the 3000 m race, his 800 m split was 1:45.32"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) The elapsed time at specific intermediate points in a speedrun.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(construction) A tear resulting from tensile stresses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(gambling) A division of a stake happening when two cards of the kind on which the stake is laid are dealt in the same turn.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A recording containing songs by multiple artists.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "split (third-person singular simple present splits, present participle splitting, simple past and past participle split)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, ergative, of something solid) To divide fully or partly along a more or less straight line.",
+                  "examples": [
+                    "Synonym: cleave",
+                    "He has split his lip."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of something solid, particularly wood) To break along the grain fully or partly along a more or less straight line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To share; to divide.",
+                  "examples": [
+                    "We split the money among three people."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, slang) To leave.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:leave",
+                    "Let's split this scene and see if we can find a real party."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of a couple) To separate.",
+                  "examples": [
+                    "Synonyms: break up, split up",
+                    "Did you hear Dick and Jane split? They'll probably get a divorce."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To (cause to) break up; to throw into discord.",
+                  "examples": [
+                    "Accusations of bribery split the party just before the election."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, transitive and intransitive, acts on a polynomial) To factor into linear factors.",
+                  "examples": [
+                    "In the first case \n  \n    \n      \n        \n          X\n          \n            2\n          \n        \n        −\n        2\n      \n    \n    {\\displaystyle X^{2}-2}\n  \n, the minimum polynomial of \n  \n    \n      \n        \n          \n            2\n          \n        \n      \n    \n    {\\displaystyle {\\sqrt {2}}}\n  \n, splits completely over \n  \n    \n      \n        \n          Q\n        \n        (\n        \n          \n            2\n          \n        \n        )\n      \n    \n    {\\displaystyle \\mathbb {Q} ({\\sqrt {2}})}\n  \n; in the second case we see that \n  \n    \n      \n        \n          X\n          \n            3\n          \n        \n        −\n        2\n      \n    \n    {\\displaystyle X^{3}-2}\n  \n, the minimum polynomial of \n  \n    \n      \n        3\n        \n          \n            2\n          \n        \n      \n    \n    {\\displaystyle 3{\\sqrt {2}}}\n  \n, does not split completely over \n  \n    \n      \n        \n          Q\n        \n        (\n        3\n        \n          \n            2\n          \n        \n        )\n      \n    \n    {\\displaystyle \\mathbb {Q} (3{\\sqrt {2}})}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be broken; to be dashed to pieces.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To burst out laughing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, slang, dated) To divulge a secret; to betray confidence; to peach.",
+                  "examples": [
+                    "\" […] I split, and tell all  […] \""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, especially baseball) For both teams involved in a doubleheader to win one game each and lose another.",
+                  "examples": [
+                    "Boston split with Philadelphia in a doubleheader, winning the first game 3-1 before losing 2-0 in the nightcap."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, politics) To vote for candidates of opposite parties.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
