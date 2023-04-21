@@ -1,0 +1,109 @@
+{
+  "word": "surgery",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English surgerie, from Old French surgerie, from Latin chirurgia, from Ancient Greek χειρουργία (kheirourgía), from χείρ (kheír, “hand”) + ἔργον (érgon, “work”). Doublet of chirurgy."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "surgery (countable and uncountable, plural surgeries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A procedure involving major incisions to remove, repair, or replace a part of a body.",
+                  "examples": [
+                    "Surgery is often necessary to prevent cancer from spreading."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The medical specialty related to the performance of surgical procedures.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A room or department where surgery is performed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain) A doctor's office.",
+                  "examples": [
+                    "I dropped in on the surgery as I was passing to show the doctor my hemorrhoids."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain) Any arrangement where people arrive and wait for an interview with certain people, particularly a politician. cf. clinic.",
+                  "examples": [
+                    "Our MP will be holding a surgery in the village hall on Tuesday."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, bankruptcy, slang) A pre-packaged bankruptcy or \"quick bankruptcy\".",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology) The production of a manifold by removing parts of one manifold and replacing them with corresponding parts of others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, figurative) Drastic changes made to anything.",
+                  "examples": [
+                    "The C# compiler evidently performs some major surgery on your code each time you use the await keyword."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
