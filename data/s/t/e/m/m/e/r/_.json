@@ -1,0 +1,30 @@
+{
+  "word": "stemmer",
+  "etymologies": [
+    {
+      "description": [
+        "stem +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stemmer (plural stemmers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, linguistics) Software used to produce the stem from the inflected form of words.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
