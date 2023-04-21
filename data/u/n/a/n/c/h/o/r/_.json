@@ -1,0 +1,59 @@
+{
+  "word": "unanchor",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ anchor"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unanchor (third-person singular simple present unanchors, present participle unanchoring, simple past and past participle unanchored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To raise an anchor or to free a vessel from an anchor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, by extension) To liberate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become loose or physically unattached.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, graphical user interface) To release from a fixed position and allow to be moved.",
+                  "examples": [
+                    "To unanchor the cell cursor so that you can move it into position for selecting another range, press Shift+F8. This puts you in Add to Selection mode, in which you can move to the first cell of the next range without selecting any more cells."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
