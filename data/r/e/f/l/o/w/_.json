@@ -1,0 +1,80 @@
+{
+  "word": "reflow",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ flow"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reflow (plural reflows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flowing back again.",
+                  "examples": [
+                    "the flow and reflow of the tide"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process of recreating the layout of a document when some of its component elements have changed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reflow (third-person singular simple present reflows, present participle reflowing, simple past and past participle reflowed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To flow back again; to flow once more.",
+                  "examples": [
+                    "The sea flows and reflows."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chiefly engineering) To cause to flow again, to remelt.",
+                  "examples": [
+                    "Reflowing solder is a common form of rework in the manufacture of printed circuit boards: you heat up the solder and it flows where it should have flowed the first time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, wordprocessing) To modify the layout of text around other objects in a document.",
+                  "examples": [
+                    "The latter option will reflow text to even out the spacing within each paragraph."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
