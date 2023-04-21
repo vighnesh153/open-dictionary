@@ -1,0 +1,74 @@
+{
+  "word": "subsonic",
+  "etymologies": [
+    {
+      "description": [
+        "From sub- +‎ sonic."
+      ],
+      "adjectives": [
+        {
+          "description": "subsonic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a sound, scientific) having a frequency too low to be audible",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a sound, literary) very quiet, almost inaudible",
+                  "examples": [
+                    "The noise of the ship was all around her. The faint subsonic rumble of the reactor and drive. (Leviathan Wakes, James S. A. Corey)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a speed) (aviation) less than the speed of sound (in the same medium, and at the same temperature and pressure)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fluid mechanics, of a flow) with a Mach number such that 0.3 < Ma < 0.8 (approximately - the exact limits vary between sources)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subsonic (plural subsonics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "an aircraft whose maximum speed is less than the speed of sound",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
