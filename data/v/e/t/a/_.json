@@ -1,0 +1,30 @@
+{
+  "word": "veta",
+  "etymologies": [
+    {
+      "description": [
+        "As vega, with the \"g\" substituted with a \"t\" to represent time."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "veta (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A second-order measure of derivative price sensitivity, expressed as the rate of change of vega with respect to time, or equivalently the rate of change of theta with respect to changes in the volatility of the underlying asset.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
