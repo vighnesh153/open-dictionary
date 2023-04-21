@@ -1,0 +1,82 @@
+{
+  "word": "valid",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French valide (“healthy, sound, in good order”), from Latin validus, from valeō (“I am strong, I am healthy, I am worth”) +‎ -idus, from Proto-Indo-European *h₂welh₁- (“be strong”)."
+      ],
+      "adjectives": [
+        {
+          "description": "valid (comparative more valid, superlative most valid)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Well grounded or justifiable, pertinent.",
+                  "examples": [
+                    "I will believe him as soon as he offers a valid answer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Acceptable, proper or correct; in accordance with the rules.",
+                  "examples": [
+                    "A valid format for the date is DD/MM/YY.",
+                    "Do not drive without a valid license."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Related to the current topic, or presented within context, relevant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Of a formula or system: such that it evaluates to true regardless of the input values.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Of an argument: whose conclusion is always true whenever its premises are true.",
+                  "examples": [
+                    "An argument is valid if and only if the set consisting of both (1) all of its premises and (2) the contradictory of its conclusion is inconsistent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Christianity, theology) Genuine - as distinguished from efficient or regular - sacrament.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

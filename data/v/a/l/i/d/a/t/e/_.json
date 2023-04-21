@@ -1,0 +1,50 @@
+{
+  "word": "validate",
+  "etymologies": [
+    {
+      "description": [
+        "Morphologically valid +‎ -ate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "validate (third-person singular simple present validates, present participle validating, simple past and past participle validated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To render valid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To check or prove the validity of; verify.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ergative) To have its validity successfully proven.",
+                  "examples": [
+                    "The data file cannot be imported because it doesn't validate."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
