@@ -1,0 +1,82 @@
+{
+  "word": "preorder",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ order."
+      ],
+      "adjectives": [
+        {
+          "description": "preorder (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory, of a traversal of a tree) Such that, recursively, the root is visited before the left and right subtrees.",
+                  "examples": [
+                    "Now, the preorder traversal of a tree can be constructed from the preorder traversals of the subtrees rooted at the children of the root of the tree."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "preorder (plural preorders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An order for goods or services placed in advance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory, order theory) A binary relation that is reflexive and transitive.",
+                  "examples": [
+                    "The relation of logical implication over sentences is an example of a preorder."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "preorder (third-person singular simple present preorders, present participle preordering, simple past and past participle preordered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To order (goods or services) in advance, before they are available.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To sort or arrange beforehand.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
