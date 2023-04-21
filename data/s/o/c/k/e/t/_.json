@@ -1,0 +1,105 @@
+{
+  "word": "socket",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English socket, soket, from Anglo-Norman soket (“spearhead”), diminutive of Old French soc (“plowshare”), from Vulgar Latin *soccus, a word borrowed from Gaulish, from Proto-Celtic *sukkos (compare modern Welsh swch (“plowshare”)), literally \"pig's snout\", from Proto-Indo-European *suH-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "socket (plural sockets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanics) An opening into which a plug or other connecting part is designed to fit (e.g. a light bulb socket).",
+                  "examples": [
+                    "Synonym: jack"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) A hollow into a bone which a part fits, such as an eye, or another bone, in the case of a joint.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) One endpoint of a two-way communication link, used for interprocess communication across a network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) One endpoint of a two-way named pipe on Unix and Unix-like systems, used for interprocess communication.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hollow tool for grasping and lifting tools dropped in a well-boring.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The hollow of a candlestick.",
+                  "examples": [
+                    "Chriſt calls his Miniſters, Lux Mundi, the light of the World, Matth. 5. 14. therefore they must be alwayes giving forth their luſtre; their light must not go out till it be in the ſocket or till violent death as an extinguisher put it out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A steel apparatus attached to a saddle to protect the thighs and legs.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "socket (third-person singular simple present sockets, present participle socketing, simple past and past participle socketed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To place or fit in a socket.",
+                  "examples": [
+                    "Her head and trunk were carved out of, or rather into, the bole of a great red cedar. She seemed to be part of the tree itself, as if she had grown there at its heart, and the carver had only chipped away the outer wood so that you could see her. Her arms were spliced and socketed to the trunk, and were flung wide in a circling, compelling movement."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
