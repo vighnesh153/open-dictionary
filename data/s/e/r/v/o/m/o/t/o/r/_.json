@@ -1,0 +1,30 @@
+{
+  "word": "servomotor",
+  "etymologies": [
+    {
+      "description": [
+        "From French servo-moteur, from Latin servus (“slave”) + motor (“mover”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "servomotor (plural servomotors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An electric motor in a servomechanism, especially one which incorporates feedback so it accurately positions the device.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
