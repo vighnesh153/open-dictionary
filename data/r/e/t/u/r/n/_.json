@@ -1,0 +1,366 @@
+{
+  "word": "return",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English returnen, retornen, from Anglo-Norman returner, from Old French retourner, retorner, from Medieval Latin retornare (“to turn back”), from re- + tornare (“to turn”). Compare beturn."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "return (plural returns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of returning.",
+                  "examples": [
+                    "I expect the house to be spotless upon my return."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A return ticket.",
+                  "examples": [
+                    "Do you want a one-way or a return?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An item that is returned, e.g. due to a defect, or the act of returning it.",
+                  "examples": [
+                    "Last year there were 250 returns of this product, an improvement on the 500 returns the year before."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An answer.",
+                  "examples": [
+                    "a return to one's question"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An account, or formal report, of an action performed, of a duty discharged, of facts or statistics, etc.; especially, in the plural, a set of tabulated statistics prepared for general information.",
+                  "examples": [
+                    "election returns; a return of the amount of goods produced or sold"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Gain or loss from an investment.",
+                  "examples": [
+                    "It yielded a return of 5%."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxation, finance) A report of income submitted to a government for purposes of specifying exact tax payment amounts; a tax return.",
+                  "examples": [
+                    "Hand in your return within 90 days of the end of the tax year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A carriage return character.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The act of relinquishing control to the calling procedure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A return value: the data passed back from a called procedure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A return pipe, returning fluid to a boiler or other central plant (compare with flow pipe, which carries liquid away from a central plant).",
+                  "examples": [
+                    "The boiler technician had to cut out the heating return to access the safety valve."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A short perpendicular extension of a desk, usually slightly lower.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(American football) The act of catching a ball after a punt and running it back towards the opposing team.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) A throw from a fielder to the wicket-keeper or to another fielder at the wicket.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The continuation in a different direction, most often at a right angle, of a building, face of a building, or any member, such as a moulding; applied to the shorter in contradistinction to the longer.",
+                  "examples": [
+                    "A facade of sixty feet east and west has a return of twenty feet north and south."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "return (third-person singular simple present returns, present participle returning, simple past and past participle returned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To come or go back (to a place or person).",
+                  "examples": [
+                    "Although the birds fly north for the summer, they return here in winter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To go back in thought, narration, or argument.",
+                  "examples": [
+                    "To return to my story […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To recur; to come again.",
+                  "examples": [
+                    "Winter returns every year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To turn back, retreat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To turn (something) round.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place or put back something where it had been.",
+                  "examples": [
+                    "Please return your hands to your lap."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give something back to its original holder or owner.",
+                  "examples": [
+                    "You should return the library book within one month."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take back something to a vendor for a complete or partial refund.",
+                  "examples": [
+                    "Yeah, it's $600,000 but, if it doesn't work, you can always return it. As long as it's undamaged and in the original packaging, I'll give you a full refund."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To give in requital or recompense; to requite.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(tennis) To bat the ball back over the net in response to a serve.",
+                  "examples": [
+                    "The player couldn't return the serve because it was so fast."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) To play a card as a result of another player's lead.",
+                  "examples": [
+                    "If one players plays a trump, the others must return a trump."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) To throw a ball back to the wicket-keeper (or a fielder at that position) from somewhere in the field.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To say in reply; to respond.",
+                  "examples": [
+                    "to return an answer;  to return thanks;  \"Do it yourself!\" she returned."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To relinquish control to the calling procedure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To pass (data) back to the calling procedure.",
+                  "examples": [
+                    "This function returns the number of files in the directory."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, dated) To retort; to throw back.",
+                  "examples": [
+                    "to return the lie"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To report, or bring back and make known.",
+                  "examples": [
+                    "to return the result of an election"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, by extension) To elect according to the official report of the election officers.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
