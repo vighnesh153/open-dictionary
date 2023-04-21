@@ -1,0 +1,66 @@
+{
+  "word": "recurrent",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin recurrens, present participle of recurrere. Morphologically recur +‎ -ent."
+      ],
+      "adjectives": [
+        {
+          "description": "recurrent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Recurring; happening time after time.",
+                  "examples": [
+                    "The patient complained of recurrent chest pain.",
+                    "Synonyms: perennial, repetitious; see also Thesaurus:repetitive"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, stochastic processes, of a state) Non-transient.",
+                  "examples": [
+                    "Synonym: persistent",
+                    "Antonym: transient"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) Running back toward its origin.",
+                  "examples": [
+                    "a recurrent nerve or artery",
+                    "Antonym: precurrent"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(entomology) Turned back toward the base.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

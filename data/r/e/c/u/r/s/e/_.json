@@ -1,0 +1,32 @@
+{
+  "word": "recurse",
+  "etymologies": [
+    {
+      "description": [
+        "Back-formation from recursion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "recurse (third-person singular simple present recurses, present participle recursing, simple past and past participle recursed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To execute a procedure recursively.",
+                  "examples": [
+                    "The algorithm then recurses on the children of the current tree node."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
