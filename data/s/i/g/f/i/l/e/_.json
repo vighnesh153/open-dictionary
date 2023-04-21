@@ -1,0 +1,32 @@
+{
+  "word": "sigfile",
+  "etymologies": [
+    {
+      "description": [
+        "sig +‎ file"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sigfile (plural sigfiles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A text file containing a sig (e-mail or newsgroup signature).",
+                  "examples": [
+                    "Can anyone please tell me why I get an 'output from your job etc' message back from bitnet everytime I send a message out? Is there a problem with my sigfile or does everyone get them?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
