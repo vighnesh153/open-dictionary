@@ -1,0 +1,42 @@
+{
+  "word": "syllabary",
+  "etymologies": [
+    {
+      "description": [
+        "From Neo-Latin syllabārium, from syllaba."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "syllabary (plural syllabaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(orthography) A table or list of syllabic letters or syllables.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(orthography) A writing system where each character represents a complete syllable.",
+                  "examples": [
+                    "It shouldn't be hard to come up with a musical syllabary in which pitches code for vowels and timbres code for consonants.",
+                    "Hyponyms: alphasyllabary, abugida"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
