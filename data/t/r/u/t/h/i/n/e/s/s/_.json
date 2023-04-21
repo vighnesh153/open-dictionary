@@ -1,0 +1,50 @@
+{
+  "word": "truthiness",
+  "etymologies": [
+    {
+      "description": [
+        "From truthy +‎ -ness. Modern sense coined by American comedian Stephen Colbert in 17 October 2005 on his show The Colbert Report."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "truthiness (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare, archaic) Truthfulness. [from 19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, colloquial) Superficial or asserted truthfulness, without recourse to evidence. [from 21st c.]",
+                  "examples": [
+                    "Synonyms: truthlikeness, verisimilitude"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The property of being truthy, i.e. evaluating to true in a Boolean context.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
