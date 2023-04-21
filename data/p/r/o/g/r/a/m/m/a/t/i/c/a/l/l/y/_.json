@@ -1,0 +1,41 @@
+{
+  "word": "programmatically",
+  "etymologies": [
+    {
+      "description": [
+        "From programmatic +‎ -ally or programmatical +‎ -ly."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "programmatically (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a programmatic manner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Through program code, rather than through a user interface.",
+                  "examples": [
+                    "To force a window to repaint itself programmatically, you call the inherited Invalidate() method […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
