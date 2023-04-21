@@ -1,0 +1,59 @@
+{
+  "word": "predication",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English predicacion, from Anglo-Norman predicaciun, from Latin praedicātiō, from praedicō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "predication (countable and uncountable, plural predications)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A proclamation, announcement or preaching.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An assertion or affirmation.",
+                  "examples": [
+                    "It can be immediately observed from these sentences that the English subject of a predication is translated in Japanese with a wa-phrase, while the subject of a nonpredicational description appears as a ga-phrase."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The act of making something the subject or predicate of a proposition.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The parallel execution of all possible outcomes of a branch instruction, all except one of which are discarded after the branch condition has been evaluated.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
