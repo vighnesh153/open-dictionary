@@ -1,0 +1,85 @@
+{
+  "word": "prototype",
+  "etymologies": [
+    {
+      "description": [
+        "From French prototype or Late Latin prototypon, from Ancient Greek πρωτότυπος (prōtótupos, “original; prototype”), from πρωτο- (prōto-, “prefix meaning ‘first’”) (from πρῶτος (prôtos, “first; earliest”)) + τῠ́πος (túpos, “blow, pressing; sort, type”) (from τύπτω (túptō, “to beat, strike”), from Proto-Indo-European *(s)tewp- (“to push; to stick”)). The word is analysable as proto- +‎ -type."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prototype (plural prototypes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An original form or object which is a basis for other forms or objects (particularly manufactured items), or for its generalizations and models. [from late 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An early sample or model built to test a concept or process.",
+                  "examples": [
+                    "The prototype had loose wires and rough edges, but it worked."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A declaration of a function that specifies the name, return type, and parameters, but none of the body or actual code.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semantics) An instance of a category or a concept that combines its most representative attributes.",
+                  "examples": [
+                    "A robin is a prototype of a bird; a penguin is not."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(motor racing) A type of race car, a racing sports car not based on a production car. A 4-wheeled cockpit-seating car built especially for racing on sports car circuits, that does not use the silhouette related to a consumer road car.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "prototype (third-person singular simple present prototypes, present participle prototyping, simple past and past participle prototyped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To create a prototype of.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
