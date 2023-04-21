@@ -1,0 +1,74 @@
+{
+  "word": "sync",
+  "etymologies": [
+    {
+      "description": [
+        "Clipping of synchronization."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sync (usually uncountable, plural syncs) (informal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Clipping of synchronization or synchrony.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Harmony.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A music synchronization license, allowing the music to be synchronized with visual media such as films.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sync (third-person singular simple present syncs, present participle synching or syncing, simple past and past participle synched or synced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) To synchronize, especially in the senses of data synchronization, time synchronization, or synchronizing music with video.",
+                  "examples": [
+                    "Our cloud storage automatically syncs your files to all your devices."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, computing) To flush all pending I/O operations to disk.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
