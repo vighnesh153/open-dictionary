@@ -1,0 +1,74 @@
+{
+  "word": "underrun",
+  "etymologies": [
+    {
+      "description": [
+        "under- +‎ run"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "underrun (plural underruns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(accounting) A condition in which fewer products are delivered or produced than had been ordered.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A condition in which the read/write buffer is fed with data at a slower rate than required; a buffer underrun.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "underrun (third-person singular simple present underruns, present participle underrunning, simple past underran, past participle underrun)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To run or pass under.",
+                  "examples": [
+                    "He spoke fast, with the uneasy tone that so often underran his words."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To pass along and under, e.g. a cable, for the purpose of taking it in or examining it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To separate the parts of (a tackle) and put them in order.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
