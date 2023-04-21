@@ -1,0 +1,59 @@
+{
+  "word": "typecast",
+  "etymologies": [
+    {
+      "description": [
+        "type +‎ cast"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "typecast (third-person singular simple present typecasts, present participle typecasting, simple past and past participle typecast or typecasted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(acting) To cast an actor in the same kind of role repeatedly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To identify one as being of a specific type because of one's appearance, colour, religion etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) To cast (change of data type of a variable or object).",
+                  "examples": [
+                    "Does anyone know how to typecast a String in Java into an int?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing, historical) To found type in a mold.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

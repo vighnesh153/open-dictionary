@@ -1,0 +1,67 @@
+{
+  "word": "typed",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "typed (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "typewritten",
+                  "examples": [
+                    "a typed document"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a variable, expression, or value) Having a specific data type.",
+                  "examples": [
+                    "A typed variable can only store one kind of data."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a programming language) In which variables are typed.",
+                  "examples": [
+                    "Scheme is a typed language."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "typed",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of type",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
