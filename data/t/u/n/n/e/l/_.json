@@ -1,0 +1,144 @@
+{
+  "word": "tunnel",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French tonnelle (“net”) or tonel (“cask”), diminutive of Old French tonne (“cask”), a word of uncertain origin and affiliation. Related to Old English tunne (“tun; cask; barrel”). More at tun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tunnel (plural tunnels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An underground or underwater passage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A passage through or under some obstacle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hole in the ground made by an animal, a burrow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, networking) A wrapper for a protocol that cannot otherwise be used because it is unsupported, blocked, or insecure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A vessel with a broad mouth at one end, a pipe or tube at the other, for conveying liquor, fluids, etc., into casks, bottles, or other vessels; a funnel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The opening of a chimney for the passage of smoke; a flue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) A level passage driven across the measures, or at right angles to veins which it is desired to reach; distinguished from the drift, or gangway, which is led along the vein when reached by the tunnel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Anything that resembles a tunnel.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tunnel (third-person singular simple present tunnels, present participle (UK) tunnelling or (US) tunneling, simple past and past participle (UK) tunnelled or (US) tunneled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make a tunnel through or under something; to burrow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To dig a tunnel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, networking) To transmit something through a tunnel (wrapper for insecure or unsupported protocol).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, medicine) To insert a catheter into a vein to allow long-term use.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) To undergo the quantum-mechanical phenomenon where a particle penetrates through a barrier that it classically cannot surmount.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
