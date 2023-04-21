@@ -1,0 +1,250 @@
+{
+  "word": "resolve",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English resolven, from Old French resolver, a learned borrowing of Latin resolvō (“loosen, thaw, melt, resolve”), equivalent to re- +‎ solve."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "resolve (countable and uncountable, plural resolves)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Determination; will power.",
+                  "examples": [
+                    "It took all my resolve to go through with the surgery."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A determination to do something; a fixed decision.",
+                  "examples": [
+                    "His resolve to die is weakening as he grows accustomed to Sophie's absence, and all his attempts to master irresolution only augment it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An act of resolving something; resolution.",
+                  "examples": [
+                    "Some operations require data that, in turn, requires that lightweight components be resolved. In these cases, this option determines whether the user is prompted to approve the resolve or whether components are just resolved automatically."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "resolve (third-person singular simple present resolves, present participle resolving, simple past and past participle resolved)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To find a solution to (a problem).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reduce to simple or intelligible notions; to make clear or certain; to unravel; to explain.",
+                  "examples": [
+                    "to resolve a riddle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make a firm decision to do something.",
+                  "examples": [
+                    "I resolve to finish this work before I go home."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To determine or decide in purpose; to make ready in mind; to fix; to settle.",
+                  "examples": [
+                    "He was resolved by an unexpected event."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To come to an agreement or make peace; patch up relationship, settle differences, bury the hatchet.",
+                  "examples": [
+                    "After two weeks of bickering, they finally resolved their differences."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, reflexive) To break down into constituent parts; to decompose; to disintegrate; to return to a simpler constitution or a primeval state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cause to perceive or understand; to acquaint; to inform; to convince; to assure; to make certain.",
+                  "examples": [
+                    "In health, good air, pleasure, riches, I am resolved it cannot be equalled by any region."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To cause a chord to go from dissonance to consonance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(optics) To render visible or distinguishable the parts of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To find the IP address of a hostname, or the entity referred to by a symbol in source code; to look up.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare, transitive) To melt; to dissolve; to liquefy or soften (a solid).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare, intransitive, reflexive) To melt; to dissolve; to become liquid.",
+                  "examples": [
+                    "When the blood stagnates in any part, it first coagulates, then resolves, and turns alkaline."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To liquefy (a gas or vapour).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, dated) To disperse or scatter; to discuss, as an inflammation or a tumour.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To relax; to lay  at ease.",
+                  "examples": [
+                    "resolve himself into all sports and looseness again"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) To separate racemic compounds into their enantiomers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, archaic, transitive) To solve (an equation, etc.).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "resolve (third-person singular simple present resolves, present participle resolving, simple past and past participle resolved)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative spelling of re-solve",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
