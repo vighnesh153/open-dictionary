@@ -1,0 +1,57 @@
+{
+  "word": "reification",
+  "etymologies": [
+    {
+      "description": [
+        "First attested around 1846; a macaronic calque of German Verdinglichung, using -ification (“making”) for ver- + -lich + -ung, and Latin rēs (“thing”) for Ding (“thing”)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reification (countable and uncountable, plural reifications)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The consideration of an abstract thing as if it were concrete, or of an inanimate object as if it were living.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The consideration of a human being as an impersonal object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A process that makes a computable/addressable object out of a non-computable/addressable one; or a concrete class out of a generic one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The transformation of a natural-language statement into a form in which its actions and events are quantifiable variables.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
