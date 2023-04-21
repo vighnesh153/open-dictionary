@@ -1,0 +1,61 @@
+{
+  "word": "planar",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin plānārius (“relating to a plane”), derived from Latin plānus (“flat”, “level”), ultimately from Proto-Indo-European *pleh₂- (“flat”)."
+      ],
+      "adjectives": [
+        {
+          "description": "planar (comparative more planar, superlative most planar)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to a plane.",
+                  "examples": [
+                    "A planar projection of a three-dimensional object is its projection onto a plane."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Flat, two-dimensional.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory, of a graph) Able to be embedded in the plane with no edges intersecting.",
+                  "examples": [
+                    "A complete graph with more than four nodes is never planar."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transistor chip, semiconductor devices) Having a flat profile, not etched into a mesa.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
