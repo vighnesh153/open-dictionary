@@ -1,0 +1,48 @@
+{
+  "word": "quiesce",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin quiēscō (\"I rest, repose, become quiet\")."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "quiesce (third-person singular simple present quiesces, present participle quiescing, simple past and past participle quiesced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Become quiet or quieter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make temporarily inactive or disabled.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To pause or reduce the activity of (a device or application), for example to prepare it for backups or other maintenance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
