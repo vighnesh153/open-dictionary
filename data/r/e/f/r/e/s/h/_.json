@@ -1,0 +1,114 @@
+{
+  "word": "refresh",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English refreshen, refreschen, refrisschen, from Old French refrescher (“to refresh”) (modern French rafraîchir), equivalent to re- +‎ fresh."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "refresh (plural refreshes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The periodic energizing required to maintain the contents of computer memory, the display luminance of a computer screen, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The update of a display (in a web browser or similar software) to show the latest version of the data.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process of modernizing something.",
+                  "examples": [
+                    "Experiences such as the Al Qaeda threat have provided a taste of how the landscape may have changed very fundamentally. Do these changes spell the end of the Cycle as a useful concept, or does it just need a refresh?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "refresh (third-person singular simple present refreshes, present participle refreshing, simple past and past participle refreshed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To renew or revitalize.",
+                  "examples": [
+                    "Sleep refreshes the body and the mind."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become fresh again; to be revitalized.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To reload (a document, especially a webpage) and show any new changes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To cause (a web browser or similar software) to refresh its display.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To perform the periodic energizing required to maintain the contents of computer memory, the display luminance of a computer screen, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, colloquial, dated) To take refreshment; to eat or drink.",
+                  "examples": [
+                    "We got within two miles of there, and stopped in the woods out of sight, where we refreshed with some brandy, and gave the two boys very large portions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
