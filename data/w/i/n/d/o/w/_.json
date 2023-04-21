@@ -1,0 +1,163 @@
+{
+  "word": "window",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English windowe, from Old Norse vindauga (“window”, literally “wind eye”), equivalent to wind +‎ eye. Cognate with Scots windae and windock, Faroese vindeyga, Norwegian vindu, Danish vindue, archaic Swedish vindöga, Elfdalian windog and older German Windauge. Displaced native Old English ēagþȳrel (literally “eye hole”). The “windows” among early Germanic peoples were just unglazed holes (eyes) in the wall or roof that permitted wind to pass through ."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "window (countable and uncountable, plural windows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An opening, usually covered by one or more panes of clear glass, to allow light and air from outside to enter a building or vehicle.",
+                  "examples": [
+                    "A window is an opening in a wall to admit light and air."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An opening, usually covered by glass, in a shop which allows people to view the shop and its products from outside; a shop window.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) The shutter, casement, sash with its fittings, or other framework, which closes a window opening.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A period of time when something is available or possible; a limited opportunity.",
+                  "examples": [
+                    "launch window;  window of opportunity;  You have a two-hour window of clear weather to finish working on the lawn."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that allows one to see through or into something",
+                  "examples": [
+                    "His journal provides a window into his otherwise obscure life."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A restricted range.",
+                  "examples": [
+                    "In this case, a band-pass filter using a range or window of frequencies is appropriate to isolate the frequency or the group of frequencies that characterize a specific cycle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) A rectangular area on a computer terminal or screen containing some kind of user interface, displaying the output of and allowing input for one of a number of simultaneously running computer processes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A figure formed of lines crossing each other.",
+                  "examples": [
+                    "till he has windows on his bread and butter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) The time between first infection and detectability.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, historical, uncountable) Synonym of chaff (“strips of material intended to confuse radar”)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing) A function multiplied with a signal to reduce spectral leakage when performing a Fourier transform.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "window (third-person singular simple present windows, present participle windowing, simple past and past participle windowed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To furnish with windows.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place at or in a window.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, signal processing) To apply a window function to (a signal).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
