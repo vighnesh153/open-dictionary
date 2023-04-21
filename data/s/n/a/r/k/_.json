@@ -1,0 +1,101 @@
+{
+  "word": "snark",
+  "etymologies": [
+    {
+      "description": [
+        "Noun sense “snide remark” as back-formation from snarky (1906), from obsolete snark (“to snore, snort”, verb) (1866), from Middle English *snarken (“to snore”), equivalent to snore +‎ -k. Compare Low German snarken, North Frisian snarke, Swedish snarka, and English snort, and snore. Of Germanic origin, but ultimately onomatopoeic."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "snark (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Snide remarks or attitude.",
+                  "examples": [
+                    "Synonyms: sarcasm, snideness"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "snark (third-person singular simple present snarks, present participle snarking, simple past and past participle snarked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To express oneself in a snarky fashion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To snort.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Snark, coined by  Lewis Carroll as a nonce word in The Hunting of the Snark (1874), about the quest for an elusive creature. In sense of “a type of mathematical graph”, named as such in 1976 by Martin Gardner for their elusiveness."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "snark (plural snarks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(literary) The fictional creature of Lewis Carroll's poem, used allusively to refer to fruitless quest or search.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A graph in which every node has three branches, and the edges cannot be coloured in fewer than four colours without two edges of the same colour meeting at a point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A fluke or unrepeatable result or detection in an experiment.",
+                  "examples": [
+                    "Cabrera's Valentine's Day monopole detection or some extremely energetic cosmic rays could be examples of snarks."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
