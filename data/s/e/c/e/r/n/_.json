@@ -1,0 +1,56 @@
+{
+  "word": "secern",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin sēcernere, the present active infinitive of sēcernō (“to put apart, divide, separate, sever, sunder; (figuratively) to disjoin, dissociate, part; to discern, distinguish; to exclude, pull aside, set aside, reject”), from sē- (prefix meaning ‘apart; aside; away’) + cernō (“to divide, separate; to distinguish, sift; to perceive, see; to comprehend, discern, regard, understand; to decide”) (ultimately from Proto-Indo-European *krey- (“to divide, separate, sift”)).",
+        "Senses 1.3 and 2.2 (“synonym of secrete”) derive from the use of the Latin word sēcernere to translate Ancient Greek ἀποκρίνειν (apokrínein), the active infinitive participle of ἀποκρίνω (apokrínō, “to set apart, separate; to choose; to reject on inquiry; to answer, reply”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "secern (third-person singular simple present secerns, present participle secerning, simple past and past participle secerned) (literary)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "(archaic) To separate or set apart (someone or something from other persons or things).",
+                  "examples": [
+                    "Synonyms: see Thesaurus:set apart"
+                  ]
+                },
+                {
+                  "meaning": "(by extension) To separate (something from other things) in the mind; to discriminate, to distinguish.",
+                  "examples": [
+                    "Synonyms: differentiate, discern"
+                  ]
+                },
+                {
+                  "meaning": "(physiology, archaic) Synonym of secrete (“to extract or separate (a substance) from the blood, etc., for excretion or for the fulfilling of a physiological function”)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(intransitive)",
+              "entries": [
+                {
+                  "meaning": "Of a person or thing: to become separated from others.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(physiology, rare) To secrete a substance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
