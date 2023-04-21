@@ -1,0 +1,71 @@
+{
+  "word": "superscript",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French superscript, from Latin superscriptus (“written above”)."
+      ],
+      "adjectives": [
+        {
+          "description": "superscript (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "placed above the normal line of text",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "superscript (countable and uncountable, plural superscripts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) A type of lettering form that appears as a number, figure, or symbol above the normal line of type, located at the right or left of another symbol or text.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "superscript (third-person singular simple present superscripts, present participle superscripting, simple past and past participle superscripted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, sciences, typography, transitive, of a variable) To provide with a superscript.",
+                  "examples": [
+                    "The ambient or unsaturated value of a variable is superscripted with a \"*\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography, transitive, of a text) To convert to a superscript form.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
