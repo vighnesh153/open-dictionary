@@ -1,0 +1,44 @@
+{
+  "word": "synecdoche",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin synecdochē, from Ancient Greek συνεκδοχή (sunekdokhḗ, “receiving together”) from σύν (sún, “with”) + ἐκ (ek, “out of”) + δέχεσθαι (dékhesthai, “to accept”), this last element related to δοκέω (dokéō, “to think, suppose, seem”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "synecdoche (countable and uncountable, plural synecdoches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) A figure of speech that uses the name of a part of something to represent the whole, or the whole to represent a part.",
+                  "examples": [
+                    "Hyponyms: pars pro toto, totum pro parte",
+                    "Hypernym: metonymy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rhetoric) The use of this figure of speech.",
+                  "examples": [
+                    "Synonym: synecdochy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
