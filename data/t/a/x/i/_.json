@@ -1,0 +1,79 @@
+{
+  "word": "taxi",
+  "etymologies": [
+    {
+      "description": [
+        "Shortened from taximeter cab, taximeter (“automatic meter that records distance and fare”) from French taximètre, from German Taxameter (whence also English taxameter), coined from Medieval Latin taxa (“tax, charge”). More at tax, task."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "taxi (plural taxis or taxies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A vehicle that may be hired for single journeys by members of the public, driven by a taxi driver.",
+                  "examples": [
+                    "[Sobbing uncontrollably] I thought I could make it work between us because you looked a bit like a man.TAXI!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) The movement of an aircraft across an airport's surface under its own power; a phase of aircraft operation involving this movement.",
+                  "examples": [
+                    "During taxi, the flaps and slats are extended and the second engine (if not already running) is started.",
+                    "Seat belts must be kept fastened during taxi, takeoff, turbulence, and landing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(South Africa) A share taxi.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "taxi (third-person singular simple present taxies or taxis, present participle taxiing or taxying, simple past and past participle taxied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To move an aircraft on the ground under its own power.",
+                  "examples": [
+                    "taxi down the runway"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To travel by taxicab.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
