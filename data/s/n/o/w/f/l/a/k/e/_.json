@@ -1,0 +1,128 @@
+{
+  "word": "snowflake",
+  "etymologies": [
+    {
+      "description": [
+        "From snow +‎ flake. Compare Saterland Frisian Sneeflokke (“snowflake”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "snowflake (plural snowflakes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A crystal of snow, having approximate hexagonal symmetry.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of several bulbous European plants, of the genus Leucojum, having white flowers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The snow bunting, Plectrophenax nivalis.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, derogatory) Someone who believes they are particularly unique and special.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, derogatory) Someone hypersensitive to insult or offense, especially a young person with politically correct sensibilities.",
+                  "examples": [
+                    "Synonym: special snowflake"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ophthalmology) A type of lesion that appears as scattered white-brown spots under high magnification light microscopy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that is unique in every presentation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, usually derogatory) A Caucasian person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) Someone (usually white) who was opposed to the abolition of slavery (Missouri, 1860s)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "snowflake (third-person singular simple present snowflakes, present participle snowflaking, simple past and past participle snowflaked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fall in the manner of a snowflake.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases) To arrange (data) into a snowflake schema.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
