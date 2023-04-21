@@ -1,0 +1,86 @@
+{
+  "word": "retrofit",
+  "etymologies": [
+    {
+      "description": [
+        "The verb is derived from retro- (prefix meaning ‘back; backward’) +‎ fit (“to equip, supply”).",
+        "The noun, which is first attested later than the verb, is either derived:"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "retrofit (plural retrofits) (originally US)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of supplying a device, structure, etc., with new components or parts that were not previously available or installed; a retrofitting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A change made to a device, structure, etc., by introducing components or parts that were not previously available or installed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "retrofit (third-person singular simple present retrofits, present participle retrofitting, simple past and past participle retrofitted) (originally US)",
+          "definitionGroups": [
+            {
+              "group": "(transitive)",
+              "entries": [
+                {
+                  "meaning": "To supply (a device, structure, etc.) with new components or parts that were not previously available or installed; to modernize.",
+                  "examples": [
+                    "Synonym: backfit"
+                  ]
+                },
+                {
+                  "meaning": "To add or substitute (new components or parts) that were not previously available for or installed in a device, structure, etc.",
+                  "examples": [
+                    "Synonym: backfit"
+                  ]
+                },
+                {
+                  "meaning": "(computing) Synonym of backport (“to retroactively supply a fix or feature to a previous version of a software product at the same time or after supplying it to the current version.”)",
+                  "examples": [
+                    "The bug was so bad that we had to retrofit our patch to the last three releases, as well as the newest release."
+                  ]
+                },
+                {
+                  "meaning": "(figuratively) To give new characteristics or make alterations (to someone or something) to suit them to changed circumstances.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To supply a device, structure, etc., with new components or parts that were not previously available or installed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
