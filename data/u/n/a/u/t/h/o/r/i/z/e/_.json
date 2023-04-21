@@ -1,0 +1,41 @@
+{
+  "word": "unauthorize",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ authorize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unauthorize (third-person singular simple present unauthorizes, present participle unauthorizing, simple past and past participle unauthorized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To disown the authority of; to repudiate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To withdraw authorization or permissions from.",
+                  "examples": [
+                    "This group of users includes anyone who has created a user account but either hasn't verified their account through their email or has been unauthorized by the administrator."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
