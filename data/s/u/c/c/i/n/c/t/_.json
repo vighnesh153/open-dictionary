@@ -1,0 +1,53 @@
+{
+  "word": "succinct",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English succinte, succynt, from Old French succinct, from Latin succinctus, perfect passive participle of succingō (“gird from below”), from sub + cingō (“gird, wrap, surround”)."
+      ],
+      "adjectives": [
+        {
+          "description": "succinct (comparative more succinct, superlative most succinct)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Brief and to the point.",
+                  "examples": [
+                    "Synonyms: concise, laconic; see also Thesaurus:concise",
+                    "You should give clear, succinct information to the clients."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Compressed into a tiny area.",
+                  "examples": [
+                    "Unlike general lossless data compression algorithms, succinct data structures retain the ability to use them in-place, without decompressing them first."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Wrapped by, or as if by a girdle; closely fitting, wound or wrapped or drawn up tightly.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
