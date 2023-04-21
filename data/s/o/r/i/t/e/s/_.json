@@ -1,0 +1,32 @@
+{
+  "word": "sorites",
+  "etymologies": [
+    {
+      "description": [
+        "From the Latin sōrītēs, from the Ancient Greek σωρείτης (sōreítēs, “fallacy of the heap”), from σωρός (sōrós, “heap”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sorites (plural sorites)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic, rhetoric) A series of propositions whereby each conclusion is taken as the subject of the next.",
+                  "examples": [
+                    "Why?—he would ask, making use of the sorites or syllogism of Zeno and Chrysippus without knowing it belonged to them.—Why? why are we a ruined people?—Because we are corrupted.——Whence is it, dear Sir, that we are corrupted?—Because we are needy [...] ——And wherefore, he would add,—are we needy?——From the neglect, he would answer"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
