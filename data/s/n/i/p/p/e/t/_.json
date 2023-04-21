@@ -1,0 +1,69 @@
+{
+  "word": "snippet",
+  "etymologies": [
+    {
+      "description": [
+        "From snip +‎ -et. Compare snippock."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "snippet (plural snippets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small part of something, such as a song or fabric; sample.",
+                  "examples": [
+                    "From the snippet I heard of their rehearsal, they sound pretty good."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A text file containing a relatively small amount of code, useless by itself, along with instructions for inserting that code into a larger codebase.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "snippet (third-person singular simple present snippets, present participle snippeting or (nonstandard) snippetting, simple past and past participle snippeted or (nonstandard) snippetted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, often computing) To produce a snippet (small part) of; to excerpt.",
+                  "examples": [
+                    "We snippeted the blog posts for display on the home page."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make small cuts, to snip, particularly with scissors.",
+                  "examples": [
+                    "All day long while the light lasted he sewed and snippetted  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
