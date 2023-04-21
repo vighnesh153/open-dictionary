@@ -1,0 +1,154 @@
+{
+  "word": "prompt",
+  "etymologies": [
+    {
+      "description": [
+        "From French prompt, from Latin prōmptus (“visible, apparent, evident”), past participle of prōmō (“to take or bring out or forth, produce, bring to light”), from prō (“forth, forward”) + emō (“to take, acquire, buy”)."
+      ],
+      "adjectives": [
+        {
+          "description": "prompt (comparative more prompt, superlative most prompt)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Quick; acting without delay.",
+                  "examples": [
+                    "He was very prompt at getting a new job.",
+                    "a prompt response"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "On time; punctual.",
+                  "examples": [
+                    "Be prompt for your appointment."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Ready; willing to act.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) Front: closest or nearest, in futures trading.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prompt (plural prompts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reminder or cue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business, dated) A time limit given for payment of an account for produce purchased, this limit varying with different goods.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A sequence of characters that is displayed to indicate that a computer is ready to receive input.",
+                  "examples": [
+                    "I filled in my name where the prompt appeared on the computer screen but my account wasn't recognized."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(writing) A suggestion for inspiration given to an author.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(machine learning) Textual input given to a large language model in order to have it generate a desired output.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "prompt (third-person singular simple present prompts, present participle prompting, simple past and past participle prompted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To lead (someone) toward what they should say or do.",
+                  "examples": [
+                    "I prompted him to get a new job."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, theater and television) To show or tell an actor/person the words they should be saying, or actions they should be doing.",
+                  "examples": [
+                    "If he forgets his words I will prompt him."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To initiate; to cause or lead to.",
+                  "examples": [
+                    "On October 6, 1927, Warner Bros. released The Jazz Singer, the first sound-synched feature film, prompting a technological shift of unprecedented speed and unstoppable force. Within two years, nearly every studio release was a talkie."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
