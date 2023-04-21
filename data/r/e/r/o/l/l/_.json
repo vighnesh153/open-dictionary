@@ -1,0 +1,70 @@
+{
+  "word": "reroll",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ roll"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reroll (plural rerolls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dice games) A situation in the rules of certain dice games where a player is given the option to reroll an undesirable roll of the dice.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reroll (third-person singular simple present rerolls, present participle rerolling, simple past and past participle rerolled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To roll, or roll out, again.",
+                  "examples": [
+                    "to reroll steel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, dice games) To roll (dice) again.",
+                  "examples": [
+                    "A player who rolls two sixes can reroll the dice for an additional turn.",
+                    "You can reroll if you don't like your character's initial stats."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To convert (an unrolled instruction sequence) back into a loop.",
+                  "examples": [
+                    "Their procedure is to unroll the loop once, trace schedule the two iterations, and then reroll the loop into one."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
