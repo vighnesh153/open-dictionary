@@ -1,0 +1,206 @@
+{
+  "word": "steal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stelen, from Old English stelan, from Proto-West Germanic *stelan, from Proto-Germanic *stelaną.",
+        "Compare West Frisian stelle, Low German stehlen, Dutch stelen, German stehlen, Danish stjæle,  Swedish stjäla, Norwegian Bokmål stjele, Norwegian Nynorsk stela, Sanskrit स्तेय (steya); see below for more."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "steal (plural steals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of stealing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang)  A piece of merchandise available at a very low, attractive price.",
+                  "examples": [
+                    "At this price, this car is a steal."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(basketball, ice hockey) A situation in which a defensive player actively takes possession of the ball or puck from the opponent's team.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball) A stolen base.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(curling) Scoring in an end without the hammer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A policy in database systems that a database follows which allows a transaction to be written on nonvolatile storage before its commit occurs.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "steal (third-person singular simple present steals, present participle stealing, simple past stole, past participle stolen or (nonstandard, colloquial) stole)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take illegally, or without the owner's permission, something owned by someone else without intending to return it.",
+                  "examples": [
+                    "Three irreplaceable paintings were stolen from the gallery."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of ideas, words, music, a look, credit, etc.) To appropriate without giving credit or acknowledgement.",
+                  "examples": [
+                    "They stole my idea for a biodegradable, disposable garbage de-odorizer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To get or effect surreptitiously or artfully.",
+                  "examples": [
+                    "He stole glances at the pretty woman across the street."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, colloquial) To acquire at a low price.",
+                  "examples": [
+                    "He stole the car for two thousand less than its book value."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To draw attention unexpectedly in (an entertainment), especially by being the outstanding performer. Usually used in the phrase steal the show.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move silently or secretly.",
+                  "examples": [
+                    "He stole across the room, trying not to wake her."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convey (something) clandestinely.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To withdraw or convey (oneself) clandestinely.",
+                  "examples": [
+                    "They could insinuate and steal themselves under the same by their humble carriage and submission."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, baseball) To advance safely to (another base) during the delivery of a pitch, without the aid of a hit, walk, passed ball, wild pitch, or defensive indifference.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, transitive) To dispossess",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, transitive, hyperbolic) To borrow for a short moment.",
+                  "examples": [
+                    "Can I steal your pen?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, transitive, humorous) take, plagiarize, tell on a joke, use a well-worded expression in one's own parlance or writing",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
