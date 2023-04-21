@@ -1,0 +1,79 @@
+{
+  "word": "vanish",
+  "etymologies": [
+    {
+      "description": [
+        "Aphetic for obsolete evanish, from Middle English vanyshen, evaneschen, from Old French esvanir, esvaniss- (modern French évanouir), from Vulgar Latin *exvanire (“to vanish, disappear, to fade out”), from Latin evanescere, from vanus (“empty”). Doublet of evanesce."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vanish (plural vanishes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) The brief terminal part of a vowel or vocal element, differing more or less in quality from the main part.",
+                  "examples": [
+                    "a as in ale ordinarily ends with a vanish of i as in ill.",
+                    "o as in old ordinarily ends with a vanish of oo as in foot."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A magic trick in which something seems to disappear.",
+                  "examples": [
+                    "The French drop is a well-known vanish involving sleight of hand."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "vanish (third-person singular simple present vanishes, present participle vanishing, simple past and past participle vanished)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To become invisible or to move out of view unnoticed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) To become equal to zero.",
+                  "examples": [
+                    "The function \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n such as \n  \n    \n      \n        f\n        (\n        x\n        )\n        =\n        \n          x\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle f(x)=x^{2}}\n  \n vanishes at \n  \n    \n      \n        x\n        =\n        0\n      \n    \n    {\\displaystyle x=0}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to disappear; to kidnap",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
