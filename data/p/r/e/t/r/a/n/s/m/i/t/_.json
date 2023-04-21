@@ -1,0 +1,32 @@
+{
+  "word": "pretransmit",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ transmit"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pretransmit (third-person singular simple present pretransmits, present participle pretransmitting, simple past and past participle pretransmitted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To transmit in advance.",
+                  "examples": [
+                    "To estimate the channel distortion  […]  we need to pretransmit the training sequence."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
