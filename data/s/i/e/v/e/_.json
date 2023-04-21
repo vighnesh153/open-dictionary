@@ -1,0 +1,107 @@
+{
+  "word": "sieve",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English sive, syfe, from Old English sife, from Proto-West Germanic *sibi (“sieve”), from Proto-Indo-European *seyp-, *seyb- (“to pour, sieve, strain, run, drip”). Akin to German Sieb, Dutch zeef, Proto-Slavic *sito (Russian си́то (síto), сев (sev), се́ять (séjatʹ))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sieve (plural sieves)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device with a mesh bottom to separate, in a granular material, larger particles from smaller ones, or to separate solid objects from a liquid.",
+                  "examples": [
+                    "Synonym: strainer",
+                    "Coordinate terms: sifter, sile, riddle",
+                    "Use the sieve to get the pasta from the water."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A process, physical or abstract, that arrives at a final result by filtering out unwanted pieces of input from a larger starting set of input.",
+                  "examples": [
+                    "Among, [sic] his other achievements, Matiyasevich and his colleague Boris Stechkin also developed an interesting “visual sieve” for prime numbers, which effectively “crosses out” all the composite numbers, leaving only the primes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A kind of coarse basket.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) A person, or their mind, that cannot remember things or is unable to keep secrets.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, slang, derogatory) An intern who lets too many non-serious cases into the emergency room.",
+                  "examples": [
+                    "To be a sieve was to lack clinical judgment, courage, and group loyalty all at once."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A collection of morphisms in a category whose codomain is a certain fixed object of that category, which collection is closed under precomposition by any morphism in the category.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sieve (third-person singular simple present sieves, present participle sieving, simple past and past participle sieved)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To strain, sift or sort using a sieve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) To concede; let in",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
