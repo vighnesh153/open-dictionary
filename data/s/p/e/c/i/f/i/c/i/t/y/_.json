@@ -1,0 +1,45 @@
+{
+  "word": "specificity",
+  "etymologies": [
+    {
+      "description": [
+        "From French spécificité."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "specificity (plural specificities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being specific rather than general.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "The extent to which a characteristic is specific to a given person, place, or thing; thus:",
+              "entries": [
+                {
+                  "meaning": "(statistics) The probability, in a binary classification test, of a true negative being correctly identified.",
+                  "examples": [
+                    "Coordinate term: sensitivity"
+                  ]
+                },
+                {
+                  "meaning": "(medicine) The extent to which a particular diagnostic test is specific for, or a symptom or sign is specific to, a given condition.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
