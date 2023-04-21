@@ -1,0 +1,48 @@
+{
+  "word": "upload",
+  "etymologies": [
+    {
+      "description": [
+        "From up- +‎ load."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "upload (plural uploads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Such a file transfer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "upload (third-person singular simple present uploads, present participle uploading, simple past and past participle uploaded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, computing) To transfer data to a computer on a network, especially to a server on the Internet.",
+                  "examples": [
+                    "Antonym: download",
+                    "You will have to convert your photograph to a jpg format if you wish to upload it."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

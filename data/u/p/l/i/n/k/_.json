@@ -1,0 +1,63 @@
+{
+  "word": "uplink",
+  "etymologies": [
+    {
+      "description": [
+        "up +‎ link"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "uplink (plural uplinks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The portion of a communications link used for the transmission of signals from an Earth terminal to a satellite or to an airborne platform. An uplink is the converse of a downlink. An uplink or downlink is distinguished from reverse link or forward link.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by analogy, less formally) The communication path from a mobile device to a base station, a consumer to the network backbone, a client device to a server etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Data transmission from a data station to the headend.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "uplink (third-person singular simple present uplinks, present participle uplinking, simple past and past participle uplinked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To transmit a signal by means of an uplink.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
