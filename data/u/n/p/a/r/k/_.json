@@ -1,0 +1,54 @@
+{
+  "word": "unpark",
+  "etymologies": [
+    {
+      "description": [
+        "From un- +‎ park."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unpark (third-person singular simple present unparks, present participle unparking, simple past and past participle unparked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to remove (a car or other vehicle) from a parked position",
+                  "examples": [
+                    "Tuesday Mrs. Jennie Anderson, 366 North Ninth West St., received the ten-day-old letter asking her to go to Seattle and unpark the car."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) to remove a car or other vehicle from a parked position",
+                  "examples": [
+                    "A small portion of that area near the sentry booth was left open for vehicular movements essential to parking and unparking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To release from the fixed position adopted when not in use.",
+                  "examples": [
+                    "to unpark the head of a disk drive"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
