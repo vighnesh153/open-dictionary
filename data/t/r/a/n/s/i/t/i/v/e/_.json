@@ -1,0 +1,106 @@
+{
+  "word": "transitive",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin trānsitīvus, from trānsitus, from trāns (“across”) + itus, from eō (“to go”)."
+      ],
+      "adjectives": [
+        {
+          "description": "transitive (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Making a transit or passage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Affected by transference of signification.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, of a verb) Taking a direct object or objects.",
+                  "examples": [
+                    "Antonym: intransitive",
+                    "The English verb \"to notice\" is a transitive verb, because we say things like \"She noticed a problem\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory, of a relation on a set) Having the property that if an element a is related to b and b is related to c, then a is necessarily related to c.",
+                  "examples": [
+                    "Antonyms: intransitive, nontransitive",
+                    "\"Is an ancestor of\" is a transitive relation: if Alice is an ancestor of Bob, and Bob is an ancestor of Carol, then Alice is an ancestor of Carol."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of a group action) Such that, for any two elements of the acted-upon set, some group element maps the first to the second.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory, of a graph) Such that, for any two vertices there exists an automorphism which maps one to the other.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transitive (plural transitives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A transitive verb.",
+                  "examples": [
+                    "This means that subcategorization properties do not allow us to distinguish between transitives and intransitives (both types of verbs are allowed, but not obliged, to take a direct object)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

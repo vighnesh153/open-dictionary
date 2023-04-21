@@ -1,0 +1,44 @@
+{
+  "word": "transitivity",
+  "etymologies": [
+    {
+      "description": [
+        "From French transitivité.",
+        "Morphologically transitive +‎ -ity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transitivity (countable and uncountable, plural transitivities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) The degree in which any one verb can take/govern objects.",
+                  "examples": [
+                    "There are 3 degrees of transitivity of any one verb: intransitive, monotransitive and ditransitive."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, logic) The property of being transitive.",
+                  "examples": [
+                    "The hypothetical syllogism inference rule states the transitivity of implication."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
