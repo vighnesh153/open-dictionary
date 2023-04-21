@@ -1,0 +1,144 @@
+{
+  "word": "tense",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English tens, from Old French tens (modern French temps), from Latin tempus. Doublet of tempo and tempus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tense (plural tenses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, countable) Any of the forms of a verb which distinguish when an action or state of being occurs or exists.",
+                  "examples": [
+                    "The basic tenses in English are present, past, and future."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, grammar, countable) An inflected form of a verb that indicates tense.",
+                  "examples": [
+                    "English only has a present tense and a past tense; it has no future tense."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, uncountable) The property of indicating the point in time at which an action or state of being occurs or exists.",
+                  "examples": [
+                    "Dyirbal verbs are not inflected for tense."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tense (third-person singular simple present tenses, present participle tensing, simple past and past participle tensed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, transitive) To apply a tense to.",
+                  "examples": [
+                    "tensing a verb"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Borrowed from Latin tēnsus, one form of the past participle of tendō (“stretch”). Ultimately identical to Etymology 1."
+      ],
+      "adjectives": [
+        {
+          "description": "tense (comparative tenser, superlative tensest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Showing signs of stress or strain; not relaxed.",
+                  "examples": [
+                    "Synonyms: stressed, unrelaxed",
+                    "You need to relax, all this overtime and stress is making you tense."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Pulled taut, without any slack.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tense (third-person singular simple present tenses, present participle tensing, simple past and past participle tensed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make tense.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become tense.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
