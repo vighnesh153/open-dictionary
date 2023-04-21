@@ -1,0 +1,154 @@
+{
+  "word": "view",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English vewe, from Anglo-Norman vewe, from Old French veue f (French vue f), feminine past participle of veoir (“to see”) (French voir). Cognate with Italian vedere, as well as Portuguese and Spanish ver. Doublet of veduta. Doublet of vista."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "view (plural views)",
+          "definitionGroups": [
+            {
+              "group": "(physical) Visual perception.",
+              "entries": [
+                {
+                  "meaning": "The act of seeing or looking at something.",
+                  "examples": [
+                    "He changed seats to get a complete view of the stage."
+                  ]
+                },
+                {
+                  "meaning": "The range of vision.",
+                  "examples": [
+                    "Synonyms: sight, eyeshot",
+                    "If there are any rabbits in this park, they keep carefully out of our view."
+                  ]
+                },
+                {
+                  "meaning": "Something to look at, such as scenery.",
+                  "examples": [
+                    "Synonym: vista",
+                    "My flat has a view of a junkyard.",
+                    "the view from a window"
+                  ]
+                },
+                {
+                  "meaning": "(Internet) An individual viewing of a web page or a video etc. by a user.",
+                  "examples": [
+                    "Synonyms: (of a webpage) pageview, (of a video) play"
+                  ]
+                },
+                {
+                  "meaning": "(obsolete) Appearance; show; aspect.",
+                  "examples": [
+                    "[Graces] which, by the splendor of her view / Dazzled, before we never knew."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A picture, drawn or painted; a sketch.",
+                  "examples": [
+                    "a fine view of Lake George"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "An opinion, judgement, imagination, idea or belief.",
+              "entries": [
+                {
+                  "meaning": "A mental image.",
+                  "examples": [
+                    "I need more information to get a better view of the situation."
+                  ]
+                },
+                {
+                  "meaning": "A way of understanding something, an opinion, a theory.",
+                  "examples": [
+                    "Your view on evolution is based on religious doctrines, not on scientific findings."
+                  ]
+                },
+                {
+                  "meaning": "A point of view.",
+                  "examples": [
+                    "From my view that is a stupid proposition."
+                  ]
+                },
+                {
+                  "meaning": "An intention or prospect.",
+                  "examples": [
+                    "He smuggled a knife into prison with a view to using it as a weapon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases) A virtual or logical table composed of the result set of a query in relational databases.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) The part of a computer program which is visible to the user and can be interacted with",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A wake.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "view (third-person singular simple present views, present participle viewing, simple past and past participle viewed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To look at.",
+                  "examples": [
+                    "The video was viewed by millions of people."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To regard in a stated way.",
+                  "examples": [
+                    "I view it as a serious breach of trust."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
