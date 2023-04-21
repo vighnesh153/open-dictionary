@@ -1,0 +1,115 @@
+{
+  "word": "vaccine",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin vaccīnus (“of or derived from a cow”) + English -ine (suffix meaning ‘of or pertaining to’ forming adjectives). Vaccīnus is derived from vacca (“cow (female cattle)”) (ultimately from Proto-Indo-European *woḱéh₂ (“(female) cow”)) + -īnus (suffix meaning ‘of or pertaining to’ forming adjectives). Sense 1 refers to the early use of the cowpox virus as a vaccination against smallpox: see New Latin variolae vaccīnae (“cowpox”, plural, literally “infectious diseases of cattle causing pustules”), coined by the British physician and scientist Edward Jenner (1749–1823)."
+      ],
+      "adjectives": [
+        {
+          "description": "vaccine (not comparable)",
+          "definitionGroups": [
+            {
+              "group": "(historical)",
+              "entries": [
+                {
+                  "meaning": "(medicine) Of, pertaining to, caused by, or characteristic of cowpox.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(immunology) Of or pertaining to cowpox as a source of material for vaccination against smallpox; also, of or pertaining to such material used for vaccination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Of, pertaining to, or derived from cattle.",
+                  "examples": [
+                    "Synonym: bovine"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "The noun is probably partly:",
+        "The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vaccine (countable and uncountable, plural vaccines)",
+          "definitionGroups": [
+            {
+              "group": "(immunology)",
+              "entries": [
+                {
+                  "meaning": "A substance given to stimulate a body's production of antibodies and provide immunity against a disease without causing the disease itself in the treatment, prepared from the agent that causes the disease (or a derivative of it; or a related, also effective, but safer disease), or a synthetic substitute; also, a dose of such a substance.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The process of vaccination; immunization, inoculation.",
+                  "examples": [
+                    "My dog has had two vaccines this year."
+                  ]
+                },
+                {
+                  "meaning": "(historical) material taken from cowpox pustules used for vaccination against smallpox.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(also medicine, obsolete) The disease cowpox, especially as a source of material for vaccination against smallpox.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(figuratively)",
+              "entries": [
+                {
+                  "meaning": "Something defensive or protective in nature, like a vaccine (sense 1.1).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing) A software program which protects computers against, or detects and neutralizes, computer viruses and other types of malware; an antivirus.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "vaccine (third-person singular simple present vaccines, present participle vaccining, simple past and past participle vaccined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, archaic) Synonym of vaccinate (“to treat (a person or an animal) with a vaccine to produce immunity against a disease”)",
+                  "examples": [
+                    "Synonyms: immunize, inoculate"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
