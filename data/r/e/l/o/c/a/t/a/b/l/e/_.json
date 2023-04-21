@@ -1,0 +1,54 @@
+{
+  "word": "relocatable",
+  "etymologies": [
+    {
+      "description": [
+        "relocate +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "relocatable (comparative more relocatable, superlative most relocatable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a device or person) Movable, but not functional/usable while being transported.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a machine code routine) That functions identically at any address in memory.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "relocatable (plural relocatables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A temporary building that can be dismantled and set up in another location.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
