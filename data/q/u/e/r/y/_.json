@@ -1,0 +1,116 @@
+{
+  "word": "query",
+  "etymologies": [
+    {
+      "description": [
+        "An anglicisation of quere, an obsolete variant form of Latin quaere, second-person singular present active imperative of quaerō (“seek, look for; ask”). Cognate with French quérir, Italian chiedere, Portuguese querer, Romanian cere, and Spanish querer. Compare question."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "query (plural queries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A question, an inquiry (US), an enquiry (UK).",
+                  "examples": [
+                    "The teacher answered the student’s query concerning biosynthesis."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A question mark.",
+                  "examples": [
+                    "His Glossary has 'bouchen, to stop people's mouths,' but this is followed by a query, to show that it was but a guess. I have shown, from the MSS. and other  sources, that it should be bonched, i.e. bunched, bumped, knocked, smote."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases) A set of instructions passed to a database.",
+                  "examples": [
+                    "The database admin switched on query logging for debugging purposes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "query (third-person singular simple present queries, present participle querying, simple past and past participle queried)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To ask a question.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To ask, inquire.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To question or call into doubt.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, databases) To pass a set of instructions to a database to retrieve information from it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Internet) To send a private message to (a user on IRC).",
+                  "examples": [
+                    "He parted the channel saying \"SHUTUP!\"... so I queried him, asking if there was something I could do.. maybe talk..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, publishing) To send out a query letter.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
