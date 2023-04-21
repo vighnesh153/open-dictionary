@@ -1,0 +1,50 @@
+{
+  "word": "unification",
+  "etymologies": [
+    {
+      "description": [
+        "Either from unify +‎ -ification or from French unification"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unification (countable and uncountable, plural unifications)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of unifying.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being unified.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical logic, computer science) Given two terms, their join with respect to a specialisation order.",
+                  "examples": [
+                    "5.7.T ( Unification theorem ) For any two terms or formulas without quantifiers X and Y, the following holds.(i) The unification algorithm UNIF1, applied to X, Y, terminates after a finite number of steps.(ii) {X, Y} is unifiable iff UNIF1 so indicates upon ter- mination. Moreover, the substitution σ then available as out- put is a most general unifier of {X, Y}."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
