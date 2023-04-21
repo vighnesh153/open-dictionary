@@ -1,0 +1,121 @@
+{
+  "word": "sample",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English saumple, sample, from Old French essample (“example”), from Latin exemplum. Doublet of example and exemplum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sample (plural samples)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A part or snippet of something taken or presented for inspection, or shown as evidence of the quality of the whole; a specimen.",
+                  "examples": [
+                    "a blood sample"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A subset of a population selected for measurement, observation or questioning, to provide statistical information about the population.",
+                  "examples": [
+                    "Large samples are generally more reliable than small samples due to having less variability."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cooking) A small quantity of food for tasting, typically given away for free.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business) A small piece of some goods, for determining quality, colour, etc., typically given away for free.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Gratuitous borrowing of easily recognised phases (or moments) from other music (or movies) in a recording.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Example; pattern.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sample (third-person singular simple present samples, present participle sampling, simple past and past participle sampled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To take or to test a sample or samples of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, signal processing) To reduce a continuous signal (such as a sound wave) to a discrete signal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music, transitive) To reuse a portion of (an existing sound recording) in a new piece of music.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer graphics) To make or show something similar to a sample.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
