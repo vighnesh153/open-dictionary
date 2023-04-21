@@ -1,0 +1,30 @@
+{
+  "word": "rhamphoid",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Ancient Greek ῥάμφος (rhámphos, “beak”)  +‎ -oid."
+      ],
+      "adjectives": [
+        {
+          "description": "rhamphoid (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of a cusp: defined by the equation \n  \n    \n      \n        (\n        y\n        −\n        \n          x\n          \n            2\n          \n        \n        \n          )\n          \n            2\n          \n        \n        =\n        \n          x\n          \n            5\n          \n        \n      \n    \n    {\\displaystyle (y-x^{2})^{2}=x^{5}}\n  \n, which is parametrized by \n  \n    \n      \n        (\n        \n          t\n          \n            2\n          \n        \n        ,\n        \n          t\n          \n            4\n          \n        \n        +\n        \n          t\n          \n            5\n          \n        \n        )\n      \n    \n    {\\displaystyle (t^{2},t^{4}+t^{5})}\n  \n; having two branches with concavity in the same direction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
