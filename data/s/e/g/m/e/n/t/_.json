@@ -1,0 +1,146 @@
+{
+  "word": "segment",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin segmentum (“a piece cut off, a strip, segment of the earth, a strip of tinsel”), from secāre (“to cut”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "segment (plural segments)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A length of some object.",
+                  "examples": [
+                    "a segment of rope"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One of the parts into which any body naturally separates or is divided; a part divided or cut off; a section; a portion.",
+                  "examples": [
+                    "Synonyms: cleft, clove",
+                    "a segment of an orange; a segment of a compound or divided leaf"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(mathematics) A portion.",
+              "entries": [
+                {
+                  "meaning": "A straight path between two points that is the shortest distance between them.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(geometry) The part of a circle between its circumference and a chord (usually other than the diameter).",
+                  "examples": []
+                },
+                {
+                  "meaning": "(geometry) The part of a sphere cut off by a plane.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(topology) Any of the pieces that constitute an order tree.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(sciences) A portion.",
+              "entries": [
+                {
+                  "meaning": "(phonology) A discrete unit of speech: a consonant or a vowel.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(botany) A portion of an organ whose cells are derived from a single cell within the primordium from which the organ developed.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(zoology) One of several parts of an organism, with similar structure, arranged in a chain; such as a vertebra, or a third of an insect's thorax.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) A part of a broadcast program, devoted to a topic.",
+                  "examples": [
+                    "The news showed a segment on global warming."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An Ethernet bus.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A region of memory or a fragment of an executable file designated to contain a particular part of a program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(travel) A portion of an itinerary: it may be a flight or train between two cities, or a car or hotel booked in a particular city.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) A bearing representing only one part of a rounded object.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "segment (third-person singular simple present segments, present participle segmenting, simple past and past participle segmented)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To divide into segments or sections.",
+                  "examples": [
+                    "Segment the essay by topic."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
