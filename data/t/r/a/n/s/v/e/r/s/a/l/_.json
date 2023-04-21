@@ -1,0 +1,65 @@
+{
+  "word": "transversal",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French transversal, from Medieval Latin trānsversālis, from Latin trānsversus."
+      ],
+      "adjectives": [
+        {
+          "description": "transversal (comparative more transversal, superlative most transversal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Running or lying across; transverse.",
+                  "examples": [
+                    "a transversal line"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Exhibiting or pertaining to transversality; connecting hetergeneous elements (fields, kinds of people, etc).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transversal (plural transversals)",
+          "definitionGroups": [
+            {
+              "group": "A line which traverses or intersects any system of other lines transversely.",
+              "entries": [
+                {
+                  "meaning": "(geometry) A line intersecting a pair of parallel lines.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A set containing one member from each of a collection of disjoint sets.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
