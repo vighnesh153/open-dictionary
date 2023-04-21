@@ -1,0 +1,128 @@
+{
+  "word": "selection",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin sēlēctiō (“the act of choosing out, selection”), from sēlēctus, perfect passive participle of sēligō (“choose out, select”), from sē- (“apart”) + legō (“gather, select”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "selection (countable and uncountable, plural selections)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process or act of selecting.",
+                  "examples": [
+                    "The large number of good candidates made selection difficult."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something selected.",
+                  "examples": [
+                    "My final selection was a 1934 Chateau Lafite."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A variety of items taken from a larger collection.",
+                  "examples": [
+                    "I've brought a selection of fine cheeses to go with your wine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A musical piece.",
+                  "examples": [
+                    "For my next selection, I'll play Happy Birthday in F-sharp minor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A set of data obtained from a database using a query.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The ability of predicates to determine the semantic content of their arguments. Wp",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A list of items on which user operations will take place. Wp",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) A unary operation that denotes a subset of a relation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) The free selection before survey of crown land in some Australian colonies under land legislation introduced in the 1860s. Wp",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The stage of a genetic algorithm in which individual genomes are chosen from a population for later breeding. Wp",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Ellipsis of natural selection.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
