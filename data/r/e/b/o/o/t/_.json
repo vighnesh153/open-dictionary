@@ -1,0 +1,98 @@
+{
+  "word": "reboot",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ boot"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reboot (plural reboots)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An instance of rebooting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A fresh start.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(narratology) The restarting of a series' storyline, discarding all previous continuity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(widely considered a misuse) The restarting of a series' storyline without discarding previous continuity.",
+                  "examples": [
+                    "Synonyms: sequel, spin-off",
+                    "Coordinate term: remake"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reboot (third-person singular simple present reboots, present participle rebooting, simple past and past participle rebooted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To execute a computer's boot process, effectively resetting the computer and causing the operating system to reload, possibly after a system failure.",
+                  "examples": [
+                    "We need to reboot the system after installing these updates.",
+                    "The system reboots every weekend after updates are installed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) To start afresh.",
+                  "examples": [
+                    "They rebooted the TV series, but it's even worse than the original."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Restart; to return to a an initial configuration or state.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
