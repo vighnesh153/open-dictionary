@@ -1,0 +1,106 @@
+{
+  "word": "singleton",
+  "etymologies": [
+    {
+      "description": [
+        "From single +‎ -ton, probably following the model of simpleton."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "singleton (plural singletons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(playing cards) A playing card that is the only one of its suit in a hand, especially at bridge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(playing cards) A hand containing only one card of a certain suit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A single object, especially one of a group.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A class that may not be instantiated more than once, i.e. that implements the singleton design pattern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A set with exactly one element.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A child or animal that is born singly, not as a twin or other multiple birth.",
+                  "examples": [
+                    "singleton preterm birth"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person without a romantic partner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person without a dissociative identity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(phonetics) A single consonant, as opposed to a geminated consonant.",
+                  "examples": [
+                    "singleton sonorants"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
