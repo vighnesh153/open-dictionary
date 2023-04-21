@@ -1,0 +1,78 @@
+{
+  "word": "subclass",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ class"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subclass (plural subclasses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A secondary class within a main class.",
+                  "examples": [
+                    "These 4-8-2's, of which B&M eventually purchased 18 in various subclasses, could almost haul the tonnage of a T and more than made up for the slight deficiency by raising the maximum speed limit from 45 to 70 miles per hour, thanks to 73-inch drivers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(taxonomy) A rank directly below class.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) An object class derived from another class (its superclass) from which it inherits a base set of properties and methods.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subclass (third-person singular simple present subclasses, present participle subclassing, simple past and past participle subclassed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) (in object-oriented programming) To create a subclass of (some class).",
+                  "examples": [
+                    "I subclassed the Button class to create a more specialised FancyButton class for my user interface."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To cause (an object) to act as an instance of a subclass (by creating the desired subclass and instantiating an object of this subclass).",
+                  "examples": [
+                    "Since Windows knows about these events, your application should be able to know about them as well. In order to accomplish this, subclass the window of a form or control, intercepting all of its events."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
