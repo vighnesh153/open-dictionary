@@ -1,0 +1,30 @@
+{
+  "word": "pretrain",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ train"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pretrain (third-person singular simple present pretrains, present participle pretraining, simple past and past participle pretrained)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(machine learning) To train (a neural network) on some data set (typically a large generic data set, the output of which one is not directly interested in) before fine-tuning the network on another dataset one is interested in.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
