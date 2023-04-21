@@ -1,0 +1,107 @@
+{
+  "word": "virus",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English virus, from Latin vīrus (“poison, slime, venom”), via rhotacism from Proto-Italic *weizos, from Proto-Indo-European *wisós (“fluidity, slime, poison”). First use in the computer context by David Gerrold in his 1972 book When HARLIE Was One."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "virus (countable and uncountable, plural viruses or virusses or (rare) vira or (proscribed) viri or (proscribed) virii)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A submicroscopic, non-cellular structure consisting of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and often causes disease in the host organism; such agents are often classed as nonliving infectious particles and less often as microorganisms.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:virus"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A quantity of such infectious agents",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, metonymically) A disease caused by such an infectious agent; a viral illness.",
+                  "examples": [
+                    "He's got a virus and had to stay home from school."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Venom, as produced by a poisonous animal etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A type of malware which can covertly transmit itself between computers via networks (especially the Internet) or removable storage such as disks, often causing damage to systems and data; also computer virus.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, proscribed) Any type of malware.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Any malicious or dangerous entity that spreads from one place or person to another.",
+                  "examples": [
+                    "I am tired of the mind viruses that are crippling people living in the western world — especially in my own nation. Sadly, Australia is becoming known as a nation of whingers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "virus (third-person singular simple present viruses, present participle virusing, simple past and past participle virused)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nonstandard, rare) To send or infect an electronic device with a computer virus.",
+                  "examples": [
+                    "I'm just going to virus anyone who tries cheating on this game."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
