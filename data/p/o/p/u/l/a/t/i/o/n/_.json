@@ -1,0 +1,88 @@
+{
+  "word": "population",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Late Latin populatio (“a people, multitude”), as if a noun of action from Classical Latin populus. Doublet of poblacion."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "population (plural populations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The people living within a political or geographical boundary.",
+                  "examples": [
+                    "The population of New Jersey will not stand for this!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) The people with a given characteristic.",
+                  "examples": [
+                    "India has the third-largest population of English-speakers in the world."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A count of the number of residents within a political or geographical boundary such as a town, a nation or the world.",
+                  "examples": [
+                    "The town’s population is only 243.",
+                    "population explosion;  population growth"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) A collection of organisms of a particular species, sharing a particular characteristic of interest, most often that of living in a given area.",
+                  "examples": [
+                    "A seasonal migration annually changes the populations in two or more biotopes drastically, many twice in opposite senses."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A group of units (persons, objects, or other items) enumerated in a census or from which a sample is drawn.",
+                  "examples": [
+                    "[…] it is possible it [the Anglo-Saxon race] might stand second to the Scandinavian countries [in average height] if a fair sample of their population were obtained."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The act of filling initially empty items in a collection.",
+                  "examples": [
+                    "John clicked the Search button and waited for the population of the list to complete."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

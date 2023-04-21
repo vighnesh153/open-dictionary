@@ -1,0 +1,92 @@
+{
+  "word": "populate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Medieval Latin populātus, past participle of populor (“populate”), from Latin populus (“people”)."
+      ],
+      "adjectives": [
+        {
+          "description": "populate (comparative more populate, superlative most populate)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) populous",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "populate (third-person singular simple present populates, present participle populating, simple past and past participle populated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To supply with inhabitants; to people.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To live in; to inhabit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To increase in number; to breed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To fill initially empty items in a collection.",
+                  "examples": [
+                    "John clicked the Search button and waited for the list to populate.",
+                    "Clicking the refresh button will populate the grid."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) To fill initially empty slots or sockets on a circuit board or similar.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
