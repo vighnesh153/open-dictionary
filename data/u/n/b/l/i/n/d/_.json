@@ -1,0 +1,72 @@
+{
+  "word": "unblind",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ blind"
+      ],
+      "adjectives": [
+        {
+          "description": "unblind (comparative more unblind, superlative most unblind)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not blind.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unblind (third-person singular simple present unblinds, present participle unblinding, simple past and past participle unblinded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sometimes figurative) To free from blindness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(business) To remove the secrecy from (a bid).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography, transitive) To convert (a blind signature) back to the unblinded state (as opposed to the blinded state).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To cause (experimenters) to learn information which, for the purposes of avoiding bias, was previously unknown to them, or should be unknown to them, such as the knowledge of which patients received a drug and which a placebo.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
