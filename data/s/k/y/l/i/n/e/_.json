@@ -1,0 +1,92 @@
+{
+  "word": "skyline",
+  "etymologies": [
+    {
+      "description": [
+        "sky +‎ line"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "skyline (plural skylines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(earth sciences) The line at which the earth and sky meet.",
+                  "examples": [
+                    "Synonym: horizon"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The horizontal silhouette of a city or building against the sky.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A path of movement, especially military movement, producing a silhouette above terrain features visible from the location of likely observers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(journalism) A panel on the front page of a newspaper outlining some of the features to be found inside.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) Short for skyline operator.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "skyline (third-person singular simple present skylines, present participle skylining, simple past and past participle skylined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To outline something against the sky.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases, transitive) To filter by means of the skyline operator.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
