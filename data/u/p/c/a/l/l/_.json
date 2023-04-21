@@ -1,0 +1,30 @@
+{
+  "word": "upcall",
+  "etymologies": [
+    {
+      "description": [
+        "up- +‎ call"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "upcall (plural upcalls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A call from a lower-level subsystem, such as a kernel or framework, to a higher-level subsystem, such as user code.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
