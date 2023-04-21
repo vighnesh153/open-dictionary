@@ -1,0 +1,32 @@
+{
+  "word": "supremum",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin supremum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "supremum (plural suprema)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "English Wikipedia has an article on:supremumWikipedia (set theory) (real analysis): Given a subset X of R, the smallest real number that is ≥ every element of X; (order theory): given a subset X of a partially ordered set P (with partial order ≤), the least element y of P such that every element of X is ≤ y.",
+                  "examples": [
+                    "A sublattice of a lattice is a subset that is closed under pairwise infima and suprema."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
