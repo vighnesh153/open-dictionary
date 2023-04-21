@@ -1,0 +1,39 @@
+{
+  "word": "subchannel",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ channel"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subchannel (plural subchannels)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(radio) A distinct division of a channel or frequency band.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A distinct part of an I/O channel associated with a specific device.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
