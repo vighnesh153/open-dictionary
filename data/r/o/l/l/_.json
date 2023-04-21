@@ -1,0 +1,716 @@
+{
+  "word": "roll",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English rollen, partly from Old French roller, roler, röeler, röoler, from Medieval Latin rotulāre (“to roll; to revolve”), from Latin rotula (“a little wheel”), diminutive of rota (“a wheel”); partly from Anglo-Latin rollāre, from the same ultimate source."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "roll (plural rolls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or result of rolling, or state of being rolled.",
+                  "examples": [
+                    "the roll of a ball",
+                    "Look at the roll of the waves.",
+                    "the roll of her eyes"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A forward or backward roll in gymnastics; going head over heels. A tumble.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Something which rolls.",
+              "entries": [
+                {
+                  "meaning": "A heavy cylinder used to break clods.",
+                  "examples": []
+                },
+                {
+                  "meaning": "One of a set of revolving cylinders, or rollers, between which metal is pressed, formed, or smoothed, as in a rolling mill.",
+                  "examples": [
+                    "to pass rails through the rolls"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A swagger or rolling gait.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A heavy, reverberatory sound.",
+                  "examples": [
+                    "Hear the roll of cannon.",
+                    "There was a roll of thunder and the rain began to pour down."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The uniform beating of a drum with strokes so rapid as scarcely to be distinguished by the ear.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical, aviation) The oscillating movement of a nautical vessel as it rotates from side to side, about its fore-and-aft axis, causing its sides to go up and down, as distinguished from the alternate rise and fall of bow and stern called pitching; or the equivalent in an aircraft.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The measure or extent to which a vessel rotates from side to side, about its fore-and-aft axis.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The rotation angle about the longitudinal axis.",
+                  "examples": [
+                    "Calculate the roll of that aircraft."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An instance of the act of rolling an aircraft through one or more complete rotations about its longitudinal axis.",
+                  "examples": [
+                    "The pilots entertained the spectators at the airshow by doing multiple rolls."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of, or total resulting from, rolling one or more dice.",
+                  "examples": [
+                    "Make your roll.",
+                    "Whoever gets the highest roll moves first."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A winning streak of continuing luck, especially at gambling (and especially in the phrase on a roll).",
+                  "examples": [
+                    "He is on a roll tonight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A training match for a fighting dog.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, paddlesport) An instance of the act of righting a canoe or kayak which has capsized, without exiting the watercraft, or being assisted.",
+                  "examples": [
+                    "That was a good roll."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(paddlesport) The skill of righting a canoe or kayak which has capsized, without exiting the watercraft, or being assisted.",
+                  "examples": [
+                    "She has a bombproof roll."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) Any of various financial instruments or transactions that involve opposite positions at different expiries, \"rolling\" a position from one expiry to another.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "roll (third-person singular simple present rolls, present participle rolling, simple past and past participle rolled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to revolve by turning over and over; to move by turning on an axis; to impel forward by causing to turn over and over on a supporting surface.",
+                  "examples": [
+                    "To roll a wheel, a ball, or a barrel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To turn over and over.",
+                  "examples": [
+                    "The child will roll on the floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To tumble in gymnastics; to do a somersault.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To wrap (something) round on itself; to form into a spherical or cylindrical body by causing to turn over and over.",
+                  "examples": [
+                    "To roll a sheet of paper; to roll clay or putty into a ball."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bind or involve by winding, as in a bandage; to enwrap; often with up.",
+                  "examples": [
+                    "To roll up the map for shipping."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be wound or formed into a cylinder or ball.",
+                  "examples": [
+                    "The cloth rolls unevenly; the snow rolls well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ergative) To drive or impel forward with an easy motion, as of rolling.",
+                  "examples": [
+                    "This river will roll its waters to the ocean."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ergative) To utter copiously, especially with sounding words; to utter with a deep sound; — often with forth, or out.",
+                  "examples": [
+                    "To roll forth someone's praises; to roll out sentences."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To press or level with a roller; to spread or form with a roll, roller, or rollers.",
+                  "examples": [
+                    "to roll a field;  to roll paste;  to roll steel rails."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To spread itself under a roller or rolling-pin.",
+                  "examples": [
+                    "The pastry rolls well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ergative) To move, or cause to be moved, upon, or by means of, rollers or small wheels.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly US, Canada, colloquial, intransitive) To leave or begin a journey.",
+                  "examples": [
+                    "I want to get there early; let's roll."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly US, Canada, colloquial, intransitive) To compete, especially with vigor.",
+                  "examples": [
+                    "OK guys, we're only down by two points. Let's roll!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To beat with rapid, continuous strokes, as a drum; to sound a roll upon.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) To apply (one line or surface) to another without slipping; to bring all the parts of (one line or surface) into successive contact with another, in such a manner that at every instant the parts that have been in contact are equal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To turn over in one's mind; to revolve.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang, intransitive) To behave in a certain way; to adopt a general disposition toward a situation.",
+                  "examples": [
+                    "I was going to kick his ass, but he wasn't worth getting all worked up over; I don't roll like that."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dice games, intransitive) To throw dice.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dice games, transitive) To roll dice such that they form a given pattern or total.",
+                  "examples": [
+                    "If you roll doubles, you get an extra turn.",
+                    "With two dice, you're more likely to roll seven than ten."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(role-playing games) To create a new character in a role-playing game, especially by using dice to determine properties.",
+                  "examples": [
+                    "I'm gonna go and roll a new shaman tonight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, computing) To generate a random number.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, aviation, nautical, of an aircraft or vessel) To rotate about the fore-and-aft axis, causing its sides to go up and down. Compare pitch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, in folk songs) To travel by sailing.",
+                  "examples": [
+                    "We're homeward bound from the Arctic ground / Rolling down to Old Maui"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To beat up; to assault.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, slang) To cause to betray secrets or to testify for the prosecution.",
+                  "examples": [
+                    "The feds rolled him by giving him a free pass for most of what he'd done."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, slang) To betray secrets.",
+                  "examples": [
+                    "He rolled on those guys after being in jail two days."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, intransitive) To be under the influence of MDMA (a psychedelic stimulant, also known as ecstasy).",
+                  "examples": [
+                    "So the question is When you are rolling what gets you in that “ecstasy” state more: hard pounding energetic music or smoother and gentler music? Personally for me its gentler music because when I’m rolling my mind can’t really keep up with all the hard pounding intriquet sounds  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, of a camera) To (cause to) film.",
+                  "examples": [
+                    "The cameras are rolling.",
+                    "It's time to roll the cameras."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, soccer) To slip past (a defender) with the ball.",
+                  "examples": [
+                    "Rolled far too easily by Marc-Antoine Fortuné, Demichelis compounded his error by standing on the striker's foot. In the absence of the injured Watson, Gómez converted the penalty."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To have a rolling aspect.",
+                  "examples": [
+                    "the hills rolled on"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, intransitive) To perform a periodical revolution; to move onward as with a revolution.",
+                  "examples": [
+                    "The years roll on."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move, like waves or billows, with alternate swell and depression.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, intransitive) to move and cause an effect on someone",
+                  "examples": [
+                    "Here tell me, if thou darest, my conscious soul,",
+                    "what different sorrows did within thee roll?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make a loud or heavy rumbling noise.",
+                  "examples": [
+                    "The thunder rolled and the lightning flashed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To utter with an alveolar trill.",
+                  "examples": [
+                    "Many languages roll their r's."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, US) To enrobe in toilet-paper (as a prank or spectacle).",
+                  "examples": [
+                    "The kids rolled the principal's house and yard."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To create a customized version of.",
+                  "examples": [
+                    "Let's go through and outline how you might roll a kernel for a networked Linux machine you are using as your desktop machine and a file server for a network of Windows and Mac machines."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, martial arts) To engage in sparring in the context of jujitsu or other grappling disciplines.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, shipping) To load ocean freight cargo onto a vessel other than the one it was meant to sail on.",
+                  "examples": [
+                    "Containers will be rolled to another mother vessel."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English rolle, from Old French rolle, role, roule, from Medieval Latin rotulus (“a roll, list, catalogue, schedule, record, a paper or parchment rolled up”); as such, it is a doublet of role."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "roll (plural rolls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is rolled up.",
+                  "examples": [
+                    "a roll of fat, of wool, paper, cloth, etc."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A document written on a piece of parchment, paper, or other materials which may be rolled up; a scroll.",
+                  "examples": [
+                    "Busy angels spread / The lasting roll, recording what we say."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An official or public document; a register; a record.",
+                  "examples": [
+                    "As to the rolls of parliament, viz. the entry of the several petitions, answers and transactions in parliament. Those are generally and successively extant of record in the Tower"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A catalogue or list, (especially) one kept for official purposes.",
+                  "examples": [
+                    "Several people sued the state after finding out that they'd been removed from the voter rolls for having died, despite their not actually being dead."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A quantity of cloth wound into a cylindrical form.",
+                  "examples": [
+                    "a roll of carpeting; a roll of ribbon"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cylindrical twist of tobacco.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A kind of shortened raised biscuit or bread, often rolled or doubled upon itself; see also bread roll.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A part; an office; a duty; a role.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A measure of parchments, containing five dozen.",
+                  "examples": [
+                    "Parchement is sold by the dozen, and by the roll of five dozens."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

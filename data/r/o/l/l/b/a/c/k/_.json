@@ -1,0 +1,117 @@
+{
+  "word": "rollback",
+  "etymologies": [
+    {
+      "description": [
+        "roll +‎ back"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rollback (countable and uncountable, plural rollbacks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A return to a prior state by undoing some operation, especially of policy or price changes.",
+                  "examples": [
+                    "A bidder that knows it may acquire power at a lower price if it withdraws demand early will be more inclined to do so than a bidder that knows it cannot cause a price rollback."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A withdrawal of military forces.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) An operation which returns a database, or group of records in a database, to a previous state (normally to the previous commit point).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The situation where a rollercoaster fails to reach the top of a hill and instead rolls backward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, automotive) A form of flatbed truck adapted or designed specifically as a tow truck or for transporting other vehicles.",
+                  "examples": [
+                    "Synonym: slide truck"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(political science) The strategy of forcing a change in the major policies of a state, usually by replacing its ruling regime, or by totally annihilating an enemy's armed forces and occupying the country, as was done in World War II to Italy, Germany, and Japan.",
+                  "examples": [
+                    "Synonym: regime change",
+                    "Coordinate terms: containment, détente"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) An uncommanded reduction in the thrust of a jet engine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "rollback (third-person singular simple present rollbacks, present participle rollbacking, simple past and past participle rollbacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, databases) To return to the previous state.",
+                  "examples": [
+                    "The server is unstable, we need to rollback the changes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, aviation, of a jet engine) To reduce thrust without having been commanded to do so.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
