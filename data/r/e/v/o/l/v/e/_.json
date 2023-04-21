@@ -1,0 +1,100 @@
+{
+  "word": "revolve",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English revolven (“to change direction”), borrowed from Old French revolver (“to reflect upon”), from Latin revolvere, present active infinitive of revolvō (“turn over, roll back, reflect upon”), from re- (“back”) + volvō (“roll”); see voluble, volve."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "revolve (plural revolves)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater) The rotation of part of the scenery within a theatrical production.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater) The rotating section itself.",
+                  "examples": [
+                    "[…]  a revolving stage, two-level platforms stage left and stage right, and a large bridge that connected the platforms midstage, twelve feet up off the revolve."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A radical change; revolution.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "revolve (third-person singular simple present revolves, present participle revolving, simple past and past participle revolved)",
+          "definitionGroups": [
+            {
+              "group": "(Physical movement.)",
+              "entries": [
+                {
+                  "meaning": "(transitive, now rare) To bring back into a particular place or condition; to restore. [from 15th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To cause (something) to turn around a central point. [from 16th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(intransitive) To orbit a central point (especially of a celestial body). [from 17th c.]",
+                  "examples": [
+                    "The Earth revolves around the sun."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To rotate around an axis. [from 17th c.]",
+                  "examples": [
+                    "The Earth revolves once every twenty-four hours."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To move in order or sequence. [from 17th c.]",
+                  "examples": [
+                    "The program revolves through all the queues before returning to the start."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(Mental activity.)",
+              "entries": [
+                {
+                  "meaning": "(transitive, now rare) To ponder on; to reflect repeatedly upon; to consider all aspects of. [from 15th c.]",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, obsolete) To read through, to study (a book, author etc.). [15th–19th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
