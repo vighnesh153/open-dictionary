@@ -1,0 +1,72 @@
+{
+  "word": "watchdog",
+  "etymologies": [
+    {
+      "description": [
+        "watch +‎ dog"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "watchdog (plural watchdogs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A guard dog.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) An individual or group that monitors the activities of another entity (such as an individual, corporation, non-profit group, or governmental organization) on behalf of the public to ensure that entity does not behave illegally or unethically.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics, computing) Ellipsis of watchdog timer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "watchdog (third-person singular simple present watchdogs, present participle watchdogging, simple past and past participle watchdogged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To perform a function analogous to that of a watchdog; to guard and warn.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) To be continuously reset by a watchdog timer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
