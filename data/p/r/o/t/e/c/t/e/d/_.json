@@ -1,0 +1,52 @@
+{
+  "word": "protected",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "protected (comparative more protected, superlative most protected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "defended",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, of a variable, method, etc.) Having the protected access modifier, indicating that a program element is accessible to subclasses but not to the program in general.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "protected",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "simple past tense and past participle of protect",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
