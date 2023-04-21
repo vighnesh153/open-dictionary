@@ -1,0 +1,108 @@
+{
+  "word": "sheaf",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English scheef, from Old English sċēaf, from Proto-West Germanic *skaub, from Proto-Germanic *skauba- (“sheaf”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sheaf (plural sheaves or sheafs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A quantity of the stalks and ears of wheat, rye, or other grain, bound together; a bundle of grain or straw.",
+                  "examples": [
+                    "Synonym: reap"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any collection of things bound together.",
+                  "examples": [
+                    "Synonym: bundle",
+                    "a sheaf of paper"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bundle of arrows sufficient to fill a quiver, or the allowance of each archer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A quantity of arrows, usually twenty-four.",
+                  "examples": [
+                    "Arrows were anciently made of reeds, afterwards of cornel wood, and occasionally of every species of wood: but according to Roger Ascham, ash was best; arrows were reckoned by sheaves, a sheaf consisted of twenty-four arrows."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanical) A sheave.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An abstract construct in topology that associates data to the open sets of a topological space, together with well-defined restrictions from larger to smaller open sets, subject to the condition that compatible data on overlapping open sets corresponds, via the restrictions, to a unique datum on the union of the open sets.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sheaf (third-person singular simple present sheafs, present participle sheafing, simple past and past participle sheafed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To gather and bind into a sheaf; to make into sheaves",
+                  "examples": [
+                    "to sheaf wheat"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To collect and bind cut grain, or the like; to make sheaves.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
