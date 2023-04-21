@@ -1,0 +1,60 @@
+{
+  "word": "reaccess",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ access"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reaccess (plural reaccesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly computing) A second or subsequent access.",
+                  "examples": [
+                    "page reaccesses"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A second or subsequent approach; a return.",
+                  "examples": [
+                    "the reaccesse, of the Sunne"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reaccess (third-person singular simple present reaccesses, present participle reaccessing, simple past and past participle reaccessed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chiefly computing) To access again.",
+                  "examples": [
+                    "It is interesting to note that this loop reaccesses the primary loop via line 4510 causing a jump to line 4105."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
