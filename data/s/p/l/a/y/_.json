@@ -1,0 +1,115 @@
+{
+  "word": "splay",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English splayen, an abbreviated form of Middle English displayen (“to display”). More at display."
+      ],
+      "adjectives": [
+        {
+          "description": "splay (comparative more splay, superlative most splay)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Spread out; turned outward.",
+                  "examples": [
+                    "to sit splay-legged"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Flat and ungainly.",
+                  "examples": [
+                    "splay shoulders"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "splay (plural splays)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A slope or bevel, especially of the sides of a door or window, by which the opening is made larger at one face of the wall than at the other, or larger at each of the faces than it is between them.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "splay (third-person singular simple present splays, present participle splaying, simple past and past participle splayed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To spread; spread out.",
+                  "examples": [
+                    "Synonyms: spread, spread out, broaden, widen, (obsolete) display"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To dislocate, as a shoulder bone.",
+                  "examples": [
+                    "Synonym: dislocate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To turn on one side; to render oblique; to slope or slant, as the side of a door, window, etc.",
+                  "examples": [
+                    "Synonyms: slope, slant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory, transitive) To rearrange (a splay tree) so that a desired element is placed at the root.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, UK, dialect) To spay; to castrate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
