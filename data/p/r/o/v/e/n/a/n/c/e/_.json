@@ -1,0 +1,98 @@
+{
+  "word": "provenance",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French provenance (“origin”), from Middle French provenant, present participle of provenir (“come forth, arise”), from Latin provenio (“to come forth”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "provenance (countable and uncountable, plural provenances)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Place or source of origin.",
+                  "examples": [
+                    "Many supermarkets display the provenance of their food products."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaeology) The place and time of origin of some artifact or other object. See Usage note below.",
+                  "examples": [
+                    "This spear is of Viking provenance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(art) The history of ownership of a work of art",
+                  "examples": [
+                    "The picture is of royal provenance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The copy history of a piece of data, or the intermediate pieces of data utilized to compute a final data element, as in a database record or web site (data provenance)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The execution history of computer processes which were utilized to compute a final piece of data (process provenance)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a person) Background; history; place of origin",
+                  "examples": [
+                    "Synonym: ancestry"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "provenance (third-person singular simple present provenances, present participle provenancing, simple past and past participle provenanced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To establish the provenance of something",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
