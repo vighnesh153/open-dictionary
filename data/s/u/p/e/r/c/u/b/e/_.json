@@ -1,0 +1,30 @@
+{
+  "word": "supercube",
+  "etymologies": [
+    {
+      "description": [
+        "super- +‎ cube"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "supercube (plural supercubes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, rare) An analogue of the square or cube in arbitrary dimension: \n  \n    \n      \n        {\n        0\n        ,\n        1\n        \n          }\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle \\{0,1\\}^{n}}\n  \n along with the \n  \n    \n      \n        (\n        n\n        −\n        1\n        )\n      \n    \n    {\\displaystyle (n-1)}\n  \n-dimensional balls joining every \n  \n    \n      \n        \n          2\n          \n            n\n            −\n            1\n          \n        \n      \n    \n    {\\displaystyle 2^{n-1}}\n  \n such points that share a coordinate, or any space equivalent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
