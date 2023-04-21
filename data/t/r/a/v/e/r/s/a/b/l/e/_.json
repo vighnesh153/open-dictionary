@@ -1,0 +1,58 @@
+{
+  "word": "traversable",
+  "etymologies": [
+    {
+      "description": [
+        "traverse +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "traversable (comparative more traversable, superlative most traversable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be traversed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) Deniable; liable to legal objection.",
+                  "examples": [
+                    "Presentment of a felo de se before justices of peace, or oyer and terminer, traversable by the executor."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "traversable (plural traversables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Any object that can be navigated by traversal.",
+                  "examples": [
+                    "Additions: Methods that append two traversables together."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
