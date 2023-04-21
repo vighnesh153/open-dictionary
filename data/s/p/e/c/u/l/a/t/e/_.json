@@ -1,0 +1,57 @@
+{
+  "word": "speculate",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin speculātus, past participle of speculor (“look out”), from specula (“watchtower”), from speciō (“look at”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "speculate (third-person singular simple present speculates, present participle speculating, simple past and past participle speculated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To think, meditate or reflect on a subject; to consider, to deliberate or cogitate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make an inference based on inconclusive evidence; to surmise or conjecture.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, business, finance) To make a risky trade in the hope of making a profit; to venture or gamble.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, programming) To anticipate which branch of code will be chosen and execute it in advance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
