@@ -1,0 +1,89 @@
+{
+  "word": "prelude",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French prélude (“singing to test a musical instrument”), from Medieval Latin preludium, from Latin praelūdere."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prelude (plural preludes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An introductory or preliminary performance or event.",
+                  "examples": [
+                    "Synonym: preface"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A short, free-form piece of music, originally one serving as an introduction to a longer and more complex piece; later, starting with the Romantic period, generally a stand-alone piece. [from 1650s]",
+                  "examples": [
+                    "Synonyms: intrada, overture"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A standard module or library of subroutines and functions to be imported, generally by default, into a program.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A forerunner to anything.",
+                  "examples": [
+                    "Swimmings of the head and intestinal pains seemed the prelude of dissolution."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "prelude (third-person singular simple present preludes, present participle preluding, simple past and past participle preluded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To introduce something, as a prelude.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To play an introduction or prelude; to give a prefatory performance.",
+                  "examples": [
+                    "We are preluding too largely, and must come at once to the point."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
