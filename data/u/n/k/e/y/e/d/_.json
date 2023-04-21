@@ -1,0 +1,43 @@
+{
+  "word": "unkeyed",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ keyed"
+      ],
+      "adjectives": [
+        {
+          "description": "unkeyed (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Atonal.",
+                  "examples": [
+                    "an unkeyed flute"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, cryptography) Without a key.",
+                  "examples": [
+                    "an unkeyed hash function"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
