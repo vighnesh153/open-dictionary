@@ -1,0 +1,97 @@
+{
+  "word": "reflection",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French reflexion, reflection, and its source Late Latin reflexio, from the participle stem of reflectō. The current spelling is influenced by reflect."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reflection (countable and uncountable, plural reflections)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of reflecting or the state of being reflected.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The property of a propagated wave being thrown back from a surface (such as a mirror).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something, such as an image, that is reflected.",
+                  "examples": [
+                    "The dog barked at his own reflection in the mirror."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Careful thought or consideration.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:consideration",
+                    "After careful reflection, I have decided not to vote for that proposition."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An implied criticism.",
+                  "examples": [
+                    "It is a reflection on his character that he never came back to see them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process or mechanism of determining the capabilities of an object at run-time.",
+                  "examples": [
+                    "DynamicMBeanFacade uses Java's reflection API to introspect the managed resource and discover data type information for attributes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) The folding of a part; a fold.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
