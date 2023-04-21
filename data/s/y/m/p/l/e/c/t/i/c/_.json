@@ -1,0 +1,115 @@
+{
+  "word": "symplectic",
+  "etymologies": [
+    {
+      "description": [
+        "A calque of complex, coined by Hermann Weyl in his 1939 book The Classical Groups: Their Invariants and Representations. From Ancient Greek συμπλεκτικός (sumplektikós), from συμ (sum) (variant of σύν (sún)), + πλεκτικός (plektikós) (from πλέκω (plékō)); modelled on complex (from Latin complexus (“braided together”), from com- (“together”) + plectere (“to weave, braid”)).",
+        "The symplectic group has previously been called the line complex group."
+      ],
+      "adjectives": [
+        {
+          "description": "symplectic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Placed in or among, as if woven together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(group theory, of a group) Whose characteristic abelian subgroups are cyclic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, multilinear algebra, of a bilinear form) That is alternating and nondegenerate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, multilinear algebra, of a vector space) That is equipped with an alternating nondegenerate bilinear form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of or pertaining to (the geometry of) a differentiable manifold equipped with a closed nondegenerate bilinear form.",
+                  "examples": [
+                    "There exist interesting and unexplored relations between symplectic geometry and the theory of critical points of holomorphic functions."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That moves in the same direction as a system of synchronized waves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(petrology, mineralogy) Of or pertaining to a symplectite; symplectitic.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "symplectic (plural symplectics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A symplectic bilinear form, manifold, geometry, etc.",
+                  "examples": [
+                    "The structure of stable symplectics on finite dimensional spaces has been studied by Krein [8], Gelfand & Lidskii [9], and Moser [10] in work of considerable practical importance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ichthyology) A bone in the teleostean fishes that forms the lower ossification of the suspensorium, and which articulates below with the quadrate bone by which it is firmly held.",
+                  "examples": [
+                    "The symplectics (9) consist of a somewhat curved central triangular portion with the base upward, and anteriorly and posteriorly from this extends a wing-like process."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
