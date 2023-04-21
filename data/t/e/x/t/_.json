@@ -1,0 +1,133 @@
+{
+  "word": "text",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English text, from Old French texte (“text”), from Medieval Latin textus (“the Scriptures, text, treatise”), from Latin textus (“style or texture of a work”), perfect passive participle of texō (“I weave”). Cognate to English texture."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "text (countable and uncountable, plural texts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A writing consisting of multiple glyphs, characters, symbols or sentences.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A book, tome or other set of writings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) A brief written message transmitted between mobile phones.",
+                  "examples": [
+                    "Synonym: text message"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Data which can be interpreted as human-readable text.",
+                  "examples": [
+                    "Coordinate term: plain text",
+                    "Antonym: binary"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A verse or passage of Scripture, especially one chosen as the subject of a sermon, or in proof of a doctrine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) Anything chosen as the subject of an argument, literary composition, etc.",
+                  "examples": [
+                    "Synonyms: topic, theme"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) A style of writing in large characters; also, a kind of type used in printing.",
+                  "examples": [
+                    "Synonym: text hand",
+                    "German text"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "text (third-person singular simple present texts, present participle texting, simple past and past participle texted or (nonstandard) text)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send a text message to; i.e. to transmit text using the Short Message Service (SMS), or a similar service, between communications devices, particularly mobile phones.",
+                  "examples": [
+                    "Synonyms: message, (UK) SMS",
+                    "Just text me when you get here.",
+                    "I'll text the address to you as soon as I find it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To send and receive text messages.",
+                  "examples": [
+                    "Have you been texting all afternoon?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) To write in large characters, as in text hand.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
