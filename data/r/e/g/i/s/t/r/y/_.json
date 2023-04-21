@@ -1,0 +1,61 @@
+{
+  "word": "registry",
+  "etymologies": [
+    {
+      "description": [
+        "From register +‎ -y."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "registry (plural registries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A building in which things are registered or where registers are kept.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A record; an account; a register.",
+                  "examples": [
+                    "The best — and easiest — way to shop for the \"perfect\" gift is to consult the couple's wedding gift registry, since these are the items they want and need  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of registering; registration.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A database of configuration settings etc. maintained by the Microsoft Windows operating system.",
+                  "examples": [
+                    "To unregister a DLL and remove the corresponding entries from the registry, add the /u switch to the command  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
