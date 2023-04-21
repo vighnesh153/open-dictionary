@@ -1,0 +1,69 @@
+{
+  "word": "unsigned",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ signed"
+      ],
+      "adjectives": [
+        {
+          "description": "unsigned (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Not accepting negative numbers; having only a positive absolute value.",
+                  "examples": [
+                    "We use an unsigned variable to store the employee's salary, since it will never be less than zero."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Lacking a signature, unendorsed.",
+                  "examples": [
+                    "The bank rejected the unsigned check."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not signed to an organization such as a sports club or record label.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unsigned (plural unsigneds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A numeric value or variable that has no sign and can only be positive.",
+                  "examples": [
+                    "For compilers which produce two-byte unsigneds, the maximum cumulative frequency is 16,383 if we wish to avoid the use of long arithmetic."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
