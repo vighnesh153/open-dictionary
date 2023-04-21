@@ -1,0 +1,39 @@
+{
+  "word": "quadrupole",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quadrupole (plural quadrupoles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A distribution of either electric charge or magnetization equivalent to two dipoles that point in opposite directions.",
+                  "examples": [
+                    "Consider a linear quadrupole consisting of a point charge of strength 2q at the origin and point charges of strength —q at (0, 0, a) and (0, 0, —a)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A magnet with two north poles and two south poles, used to focus a beam of particles.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
