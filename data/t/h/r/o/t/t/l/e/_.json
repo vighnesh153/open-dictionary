@@ -1,0 +1,120 @@
+{
+  "word": "throttle",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English *throtel, diminutive of throte (“throat”), equivalent to throat +‎ -le. Compare German Drossel (“throttle”). More at throat."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "throttle (plural throttles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A valve that regulates the supply of fuel-air mixture to an internal combustion engine and thus controls its speed; a similar valve that controls the air supply to an engine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The lever or pedal that controls this valve.",
+                  "examples": [
+                    "Synonyms: accelerator, gas pedal, gas"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy, archaic) The windpipe or trachea.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English throtlen (“to choke, strangle, suffocate”), from the noun (see above). Compare German erdrosseln (“to strangle, choke, throttle”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "throttle (third-person singular simple present throttles, present participle throttling, simple past and past participle throttled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To control or adjust the speed of (an engine).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cut back on the speed of (an engine, person, organization, network connection, etc.).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To strangle or choke someone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To have the throat obstructed so as to be in danger of suffocation; to choke; to suffocate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To breathe hard, as when nearly suffocated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To utter with breaks and interruption, in the manner of a person half suffocated.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
