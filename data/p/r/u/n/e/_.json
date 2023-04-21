@@ -1,0 +1,132 @@
+{
+  "word": "prune",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English prune, from  Old French prune, from Vulgar Latin *prūna, feminine singular formed from the neutral plural of Latin prūnum, from Ancient Greek προῦνον (proûnon), variant of προῦμνον (proûmnon, “plum”), a loanword from a language of Asia Minor. Doublet of plum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prune (plural prunes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A plum.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The dried, wrinkled fruit of certain species of plum.",
+                  "examples": [
+                    "Hyponym: alubukhara"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) Something wrinkly like a prune.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) An old woman, especially a wrinkly one.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "prune (third-person singular simple present prunes, present participle pruning, simple past and past participle pruned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, informal) To become wrinkled like a dried plum, as the fingers and toes do when kept submerged in water.",
+                  "examples": [
+                    "I hardly left that spot in my pool that month even when my fingers pruned and chlorine dried out my skin."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Old French proignier (“to trim the feathers with the beak”), earlier prooignier, ultimately from Latin pro- (\"front\") + rotundus (“round”) 'to round-off the front'."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "prune (third-person singular simple present prunes, present participle pruning, simple past and past participle pruned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, horticulture) To remove excess material from a tree or shrub; to trim, especially to make more healthy or productive.",
+                  "examples": [
+                    "A good grape grower will prune the vines once a year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figuratively) To cut down or shorten (by the removal of unnecessary material).",
+                  "examples": [
+                    "to prune a budget, or an essay"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer science) To remove unnecessary branches from a tree data structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To preen; to prepare; to dress.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
