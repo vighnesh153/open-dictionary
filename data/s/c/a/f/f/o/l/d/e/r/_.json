@@ -1,0 +1,50 @@
+{
+  "word": "scaffolder",
+  "etymologies": [
+    {
+      "description": [
+        "From scaffold +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scaffolder (plural scaffolders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who erects and dismantles scaffolding.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A software tool that creates the basic framework or template for a new project.",
+                  "examples": [
+                    "The default site that is created by the Visual Studio project scaffolder uses Bootstrap by default."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A spectator in the gallery of a theatre.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
