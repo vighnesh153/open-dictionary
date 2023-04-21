@@ -1,0 +1,48 @@
+{
+  "word": "separable",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French séparable, from Latin separabilis."
+      ],
+      "adjectives": [
+        {
+          "description": "separable (comparative more separable, superlative most separable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be separated.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(differential equations) Able to be brought to a form where all occurrences of the dependent and the independent variable are on opposite sides of the equal sign.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis, of a topological space) Having a countable dense subset.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
