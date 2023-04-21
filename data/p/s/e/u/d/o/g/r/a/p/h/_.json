@@ -1,0 +1,39 @@
+{
+  "word": "pseudograph",
+  "etymologies": [
+    {
+      "description": [
+        "pseudo- +‎ graph"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pseudograph (plural pseudographs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) A graph that contains loops as well as multiple edges between vertices",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A false writing; a spurious document; a forgery.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
