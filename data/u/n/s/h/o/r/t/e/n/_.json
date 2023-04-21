@@ -1,0 +1,32 @@
+{
+  "word": "unshorten",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ shorten"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unshorten (third-person singular simple present unshortens, present participle unshortening, simple past and past participle unshortened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare, transitive, chiefly computing) To expand from an abbreviated form; to restore to its original length.",
+                  "examples": [
+                    "The following is a snippet from the UnShortEmAll Greasemonkey script, which unshortens the shortened URLs in Twitter  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
