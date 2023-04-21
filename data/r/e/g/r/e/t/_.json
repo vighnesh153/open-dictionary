@@ -1,0 +1,89 @@
+{
+  "word": "regret",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English regretten, regreten, from Old French regreter, regrater (“to lament”), from re- (intensive prefix) + *greter, *grater (“to weep”), from Frankish *grātan (“to weep, mourn, lament”), from Proto-Germanic *grētaną (“to weep”), from Proto-Indo-European *ǵʰreh₁d- (“to sound”); and Frankish *greutan (“to cry, weep”), from Proto-Germanic *greutaną (“to weep, cry”), from Proto-Indo-European *gʰrewd- (“to weep, be sad”), equivalent to re- +‎ greet. Cognate with Old High German grāzan (“to cry”), Old English grǣtan (“to weep, greet”), Old English grēotan (“to weep, lament”), Old Norse gráta (“to weep, groan”), Gothic 𐌲𐍂𐌴𐍄𐌰𐌽 (grētan, “to weep”). More at greet."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "regret (countable and uncountable, plural regrets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Emotional pain on account of something done or experienced in the past, with a wish that it had been different; a looking back with dissatisfaction or with longing.",
+                  "examples": [
+                    "What man does not remember with regret the first time he read Robinson Crusoe?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Dislike; aversion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(decision theory) The amount of avoidable loss that results from choosing the wrong action.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "regret (third-person singular simple present regrets, present participle regretting, simple past and past participle regretted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To feel sorry about (a thing that has or has not happened), afterthink: to wish that a thing had not happened, that something else had happened instead.",
+                  "examples": [
+                    "He regretted his words."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(more generally) To feel sorry about (any thing).",
+                  "examples": [
+                    "I regret that I have to do this, but I don't have a choice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, transitive) To miss; to feel the loss or absence of; to mourn.",
+                  "examples": [
+                    "He more than ever regretted his home, and with increased desire longed to see his family."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
