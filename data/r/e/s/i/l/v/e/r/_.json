@@ -1,0 +1,43 @@
+{
+  "word": "resilver",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ silver"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "resilver (third-person singular simple present resilvers, present participle resilvering, simple past and past participle resilvered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To silver again.",
+                  "examples": [
+                    "It often becomes necessary to resilver the small mirror used in a microscope, sextant, or other instrument of precision."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To synchronize the mirror disk of the RAID array with the master disk.",
+                  "examples": [
+                    "To get back to our RAID 0 +1 configuration, disk volume A will be “resilvered” up to disk B, which runs at the current point in time."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
