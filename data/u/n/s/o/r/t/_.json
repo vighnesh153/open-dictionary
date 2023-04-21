@@ -1,0 +1,41 @@
+{
+  "word": "unsort",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ sort, apparently by confusion of unravel, untangle or similar and sort."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unsort (third-person singular simple present unsorts, present participle unsorting, simple past and past participle unsorted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, nonstandard) To sort out; to resolve.",
+                  "examples": [
+                    "In his letter to Virginia's governor excerpted below, Rolfe tries to unsort the mixture of motives that led to his decision to marry Pocahantas."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To shuffle a data structure so that it is no longer sorted.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
