@@ -1,0 +1,99 @@
+{
+  "word": "scalar",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin scālāris, adjectival form from scāla (“a flight of steps, stairs, staircase, ladder, scale”), for *scadla, from scandere (“to climb”); compare scale. The mathematics sense was coined by  William Rowan Hamilton in 1846."
+      ],
+      "adjectives": [
+        {
+          "description": "scalar (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Having magnitude but not direction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) Consisting of a single value (e.g. integer or string) rather than multiple values (e.g. array).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of, or relating to scale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Of or pertaining to a musical scale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Relating to particles with a spin (quantum angular momentum) of 0 (known as spin 0).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) Pertaining to the dimension on which something is measured.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scalar (plural scalars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A quantity that has magnitude but not direction; compare vector.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) An amplifier whose output is a constant multiple of its input.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
