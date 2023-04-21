@@ -1,0 +1,134 @@
+{
+  "word": "total",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English total, from Old French total, from Medieval Latin tōtālis, from tōtus (“all, whole, entire”) +‎ -ālis, the former element of unknown origin. Perhaps related to Oscan 𐌕𐌏𐌖𐌕𐌏 (touto, “community, city-state”), Umbrian 𐌕𐌏𐌕𐌀𐌌 (totam, “tribe”, acc.), Old English þēod (“a nation, people, tribe”), from Proto-Indo-European *tewtéh₂ (“people”). More at English Dutch, English thede."
+      ],
+      "adjectives": [
+        {
+          "description": "total (comparative more total, superlative most total)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Entire; relating to the whole of something.",
+                  "examples": [
+                    "The total book is rubbish from start to finish.  The total number of votes cast is 3,270."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(used as an intensifier) Complete; absolute.",
+                  "examples": [
+                    "He is a total failure."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) (of a function) Defined on all possible inputs.",
+                  "examples": [
+                    "The Ackermann function is one of the simplest and earliest examples of a total computable function that is not primitive recursive."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "total (plural totals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An amount obtained by the addition of smaller amounts.",
+                  "examples": [
+                    "A total of £145 was raised by the bring-and-buy stall."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, mathematics) Sum.",
+                  "examples": [
+                    "The total of 4, 5 and 6 is 15."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "total (third-person singular simple present totals, present participle (UK) totalling or (US) totaling, simple past and past participle (UK) totalled or (US) totaled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To add up; to calculate the sum of.",
+                  "examples": [
+                    "Synonym: sum",
+                    "When we totalled the takings, we always got a different figure."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To equal a total of; to amount to.",
+                  "examples": [
+                    "That totals seven times so far."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, US, slang) To demolish; to wreck completely. (from total loss)",
+                  "examples": [
+                    "Synonyms: demolish, trash, wreck",
+                    "Honey, I’m OK, but I’ve totaled the car."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To amount to; to add up to.",
+                  "examples": [
+                    "It totals nearly a pound."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
