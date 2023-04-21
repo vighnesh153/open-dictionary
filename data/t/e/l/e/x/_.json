@@ -1,0 +1,63 @@
+{
+  "word": "telex",
+  "etymologies": [
+    {
+      "description": [
+        "From genericization of Telex Printergram and Telex, derived as a blend of tele- (“telegraph, teletype, teleprinter, etc.”) +‎ exchange."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "telex (countable and uncountable, plural telexes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A network of teletypes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A teletype message sent through such a network.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A teletype device connected to such a network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "telex (third-person singular simple present telexes, present participle telexing, simple past and past participle telexed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send a message over a telex network.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
