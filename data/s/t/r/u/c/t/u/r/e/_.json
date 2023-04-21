@@ -1,0 +1,126 @@
+{
+  "word": "structure",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French structure, from Latin structūra (“a fitting together, adjustment, building, erection, a building, edifice, structure”), from struere, past participle structus (“pile up, arrange, assemble, build”). Compare construct, instruct, destroy, etc."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "structure (countable and uncountable, plural structures)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cohesive whole built up of distinct parts.",
+                  "examples": [
+                    "Synonym: formation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The underlying shape of a solid.",
+                  "examples": [
+                    "Synonym: formation",
+                    "He studied the structure of her face."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The overall form or organization of something.",
+                  "examples": [
+                    "Synonyms: makeup, configuration; see also Thesaurus:composition"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A set of rules defining behaviour.",
+                  "examples": [
+                    "For some, the structure of school life was oppressive."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Several pieces of data treated as a unit.",
+                  "examples": [
+                    "This structure contains both date and timezone information."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fishing, uncountable) Underwater terrain or objects (such as a dead tree or a submerged car) that tend to attract fish",
+                  "examples": [
+                    "There's lots of structure to be fished along the west shore of the lake; the impoundment submerged a town there when it was built."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A body, such as a political party, with a cohesive purpose or outlook.",
+                  "examples": [
+                    "The South African leader went off to consult with the structures."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A set along with a collection of finitary functions and relations.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "structure (third-person singular simple present structures, present participle structuring, simple past and past participle structured)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give structure to; to arrange.",
+                  "examples": [
+                    "I'm trying to structure my time better so I'm not always late.",
+                    "I've structured the deal to limit the amount of money we can lose."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
