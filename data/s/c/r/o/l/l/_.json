@@ -1,0 +1,154 @@
+{
+  "word": "scroll",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English scrowle, scrolle, from earlier scrowe, scrouwe (influenced by Middle English rolle), from Old French escroe, escrowe, escrouwe (“scroll, strip of parchment”), from Frankish *skrōda (“a shred”), from Proto-Germanic *skraudō, from *skrew- (“to cut; cutting tool”), extension of *(s)ker- (“to cut”). Doublet of shred and escrow."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scroll (plural scrolls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A roll of paper or parchment; a writing formed into a roll.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) An ornament formed of undulations giving off spirals or sprays, usually suggestive of plant form. Roman architectural ornament is largely of some scroll pattern.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Spirals or sprays in the shape of an actual plant.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mark or flourish added to a person's signature, intended to represent a seal, and in some States allowed as a substitute for a seal. [U.S.] Alexander Mansfield Burrill.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(lutherie) The carved end of a violin, viola, cello or other stringed instrument, most commonly scroll-shaped but occasionally in the form of a human or animal head.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A skew surface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cooking) A kind of sweet roll baked in a somewhat spiral shape.",
+                  "examples": [
+                    "I ordered a glass of lemonade and a coffee scroll."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) The incremental movement of graphics on a screen, removing one portion to show the next.",
+                  "examples": [
+                    "[…]  the computer sends orders, via electrical impulses, to recompose the liquid crystal structure inside the cells quickly which results in the familiar smooth scroll of the pointer on your screen."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hydraulics) A spiral waterway placed round a turbine to regulate the flow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) A turbinate bone.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "scroll (third-person singular simple present scrolls, present participle scrolling, simple past and past participle scrolled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To change one's view of data on a computer's display, typically using a scroll bar or a scroll wheel to move in gradual increments.",
+                  "examples": [
+                    "She scrolled the offending image out of view."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move in or out of view horizontally or vertically.",
+                  "examples": [
+                    "The rising credits slowly scrolled off the screen."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, intransitive) To flood a chat system with numerous lines of text, causing legitimate messages to scroll out of view before they can be read.",
+                  "examples": [
+                    "Hey, stop scrolling!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
