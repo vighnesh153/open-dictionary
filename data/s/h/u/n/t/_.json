@@ -1,0 +1,186 @@
+{
+  "word": "shunt",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English shunten, schunten, schonten, schounten, shont, shonte, shount, shounten, shunte (“to move rapidly or suddenly, jerk; to swerve, turn away; to avoid, dodge, escape, evade”), either:",
+        "The English word is cognate with Danish skynde (“to hasten, hurry, speed”), Icelandic skynda, skunda (“to hasten”), Middle High German schünden (“to compel; to urge; to irritate”), Norwegian skynde (“to hurry, rush”), Swedish skynda (“to hasten, hurry; to scuttle, scurry”). Outside Germanic, compare Sanskrit स्कन्दति (skándati, “to dart, leap, spring, spurt or burst forth, ejaculate, assail, drop, split”), Albanian shkund (“to shake; to swig”).",
+        "As regards the noun sense, compare Middle English shunt (“swerve; sudden jerk”), derived from the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "shunt (plural shunts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of moving (suddenly), as due to a push or shove.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity) A connection used as an alternative path between parts of an electrical circuit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(firearms) The shifting of the studs on a projectile from the deep to the shallow sides of the grooves in its discharge from a shunt gun.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, veterinary medicine) An abnormal passage between body channels.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surgery) A passage between body channels constructed surgically as a bypass; a tube inserted into the body to create such a passage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) A switch on a railway used to move a train from one track to another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly road transport, informal, Britain) A minor collision between vehicles.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "shunt (third-person singular simple present shunts, present participle shunting, simple past and past participle shunted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to move (suddenly), as by pushing or shoving; to give a (sudden) start to.",
+                  "examples": [
+                    "Synonym: shove"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To divert to a less important place, position, or state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To provide with a shunt.",
+                  "examples": [
+                    "to shunt a galvanometer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To move data in memory to a physical disk.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, electricity) To divert electric current by providing an alternative path.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, rail transport) To move a train from one track to another, or to move carriages, etc. from one train to another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chiefly road transport, informal, Britain) To have a minor collision, especially in a motor car.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, surgery) To divert the flow of a body fluid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete, Britain, dialectal) To turn aside or away; to divert.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance, UK, historical) To carry on arbitrage between the London stock exchange and provincial stock exchanges.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
