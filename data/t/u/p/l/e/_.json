@@ -1,0 +1,62 @@
+{
+  "word": "tuple",
+  "etymologies": [
+    {
+      "description": [
+        "From the ending of the words quintuple, sextuple; from Latin -plus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tuple (plural tuples)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) A finite sequence of terms.",
+                  "examples": [
+                    "Hyponyms: (n terms) n-tuple, (two terms) ordered pair, (three terms) triple, triplet"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A single row in a relational database.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A set of comma-separated values passed to a program or operating system as a parameter to a function call.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A fixed-size container data type similar to a list that can hold different types of elements.",
+                  "examples": [
+                    "Both Python and Haskell have a tuple data type as well as a list data type.",
+                    "Unlike lists, tuples are not formed by consing."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
