@@ -1,0 +1,96 @@
+{
+  "word": "victual",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English vitaile, vitaylle (“food; food and drink, especially as needed for sustenance; (usually in the plural) food and drink stores or supplies; rations; provision of food and drink as a military stipend; crops”) [and other forms], from Anglo-Norman vitaile, vitaille [and other forms] and Old French vitaile, vitaille, victaille (“food, provisions, victuals”) [and other forms] (modern French victuaille), from Late Latin victuālia, the neuter plural of vīctuālis (“nutritional”), from Latin vīctus (“that which sustains life, diet, nourishment, provision”) + -ālis (suffix forming adjectives of relationship from nouns). Vīctus is derived from vīvō (“to live; to be alive, survive; to reside in”) (possibly ultimately from Proto-Indo-European *gʷeyh₃- (“to live”)) + -tus (suffix forming action nouns from verbs).",
+        "The spelling of the modern English and French words has been influenced by Late Latin victuālia, though the pronunciation of the Middle English, Anglo-Norman, and Middle French words has been retained."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "victual (plural victuals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Food fit for human (or occasionally animal) consumption.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, chiefly in the plural) Food supplies; provisions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(specifically, obsolete)",
+              "entries": [
+                {
+                  "meaning": "Edible plants.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(Scotland) Grain of any kind.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English vitailen (“to provide (someone, a castle, a ship, etc., or oneself) with supplies of food, drink, or other needs; (figuratively) to load (a ship with troops and materiel); to fortify, nourish”) [and other forms], from Anglo-Norman vitailer, vitailler, and Old French vitailler, victuailler [and other forms], from vitaile, vitaille, victaille (“food, provisions, victuals”) (see further at etymology 1) + -er (a variant of -ier (suffix forming infinitives of first conjugation verbs))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "victual (third-person singular simple present victuals, present participle victualing or victualling, simple past and past participle victualed or victualled) (archaic)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, reflexive, chiefly military, nautical) To provide (military troops, a place, a ship, etc., or oneself) with a stock of victuals or food; to provision.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, chiefly military, nautical) To lay in or procure food supplies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To eat.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
