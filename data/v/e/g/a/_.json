@@ -1,0 +1,57 @@
+{
+  "word": "vega",
+  "etymologies": [
+    {
+      "description": [
+        "From Spanish vega."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vega (plural vegas)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Latin America, Philippines) An open tract of ground; a plain, especially one which is moist and fertile, such as those used for growing tobacco.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "An invented word perhaps chosen to begin with \"v\" (for \"volatility\") and to sound as if it could be a Greek letter (like the related parameters \"delta\", \"gamma\" etc.)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vega (countable and uncountable, plural vegas)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) A measurement of the sensitivity of the value of an option to changes in the implied volatility of the price of the underlying asset.",
+                  "examples": [
+                    "Synonyms: kappa, tau"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
