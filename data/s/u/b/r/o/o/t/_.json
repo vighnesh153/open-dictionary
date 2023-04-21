@@ -1,0 +1,32 @@
+{
+  "word": "subroot",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ root"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subroot (plural subroots)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A secondary or subsidiary root.",
+                  "examples": [
+                    "Well-designed CAs will create a trust hierarchy, which consists of a root with a number of subroots, to further enhance protection of the private key."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
