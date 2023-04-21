@@ -1,0 +1,67 @@
+{
+  "word": "ultrafilter",
+  "etymologies": [
+    {
+      "description": [
+        "ultra- +‎ filter"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ultrafilter (plural ultrafilters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device that performs ultrafiltration.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a set, whose subsets are partially ordered by inclusion) A proper filter which has a law of dichotomy for complements.",
+                  "examples": [
+                    "A proper filter of a set has these three properties: (1) it does not contain the empty set, (2) if it contains a subset then it contains all supersets of that subset, and (3) if it contains a pair of subsets then it also contains their intersection. To make it into an ultrafilter it must be made as large as possible without including the empty set. That can be prevented by not allowing any pair of disjoint sets to be both included. If, given a pair of complementary subsets, one of them is prevented from being included, then all subsets of it should be prevented from being included as well, by the second rule. That takes care of all subsets disjoint from the other complementary subset, which should then be included, in order to make the filter approach maximality, i.e., turn it into an ultrafilter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, order theory) A filter (subset of a poset) that is maximal as a set with respect to the definition of proper filter.",
+                  "examples": [
+                    "An ultrafilter is maximal in the sense that if any other element of the poset not already in it were added to it, one could deduce (from the laws which define the filter, and the given ordering relation, i.e., the structure of the poset) that the resulting filter must be improper; i.e., it must contain all the elements of the poset."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "ultrafilter (third-person singular simple present ultrafilters, present participle ultrafiltering, simple past and past participle ultrafiltered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To filter by ultrafiltration.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
