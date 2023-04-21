@@ -1,0 +1,71 @@
+{
+  "word": "polytype",
+  "etymologies": [
+    {
+      "description": [
+        "poly- +‎ type"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "polytype (plural polytypes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of the types involved in polytypism.",
+                  "examples": [
+                    "Orthochrysotile is a polytype of chrysotile."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A cast, or facsimile copy, of an engraved block, matter in type, etc.",
+                  "examples": [
+                    "Towards the end of the eighteenth century , Professor Wilson of Glasgow , being engaged in a series of experiments for making etchings upon glass with fluoric acid for the purposes of art , thought it possible to make polytypes of glass from engraved copperplates"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) In the Hindley–Milner type system, a data type containing variables bound by one or more ∀ (for-all) quantifiers.",
+                  "examples": [
+                    "Coordinate term: monotype"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "polytype (third-person singular simple present polytypes, present participle polytyping, simple past and past participle polytyped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To produce a polytype of.",
+                  "examples": [
+                    "to polytype an engraving"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
