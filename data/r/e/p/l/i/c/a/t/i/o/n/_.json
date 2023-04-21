@@ -1,0 +1,70 @@
+{
+  "word": "replication",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English replicacioun, replicacion, from Anglo-Norman replicacioun and Old French replicacion (“reply, answer”), from Latin replicātiō, replicātiōnem."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "replication (countable and uncountable, plural replications)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The process by which an object, person, place or idea may be copied mimicked or reproduced.",
+                  "examples": [
+                    "DNA replication is the process of producing two identical replicas from one original DNA molecule."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Copy; reproduction.",
+                  "examples": [
+                    "That painting is an almost exact replication of a famous Rembrandt painting."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A response from the plaintiff to the defendant's plea.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The process of producing replicas of DNA or RNA molecules.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The process of frequent electronic data copying a one database in one computer or server to a database in another so that all users share the same level of information. Used to improve fault tolerance of the system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
