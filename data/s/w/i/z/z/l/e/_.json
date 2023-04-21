@@ -1,0 +1,84 @@
+{
+  "word": "swizzle",
+  "etymologies": [
+    {
+      "description": [
+        "Unknown etymology, 1813. Original sense “alcoholic drink”, possibly a variant of switchel (“a drink of molasses and water, often mixed with rum”), attested 1790, itself of uncertain origin. Possibly influenced by fizz.",
+        "In verb sense “to stir”, from swizzle stick (“stick for stirring alcoholic drinks”), itself attested 1859."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "swizzle (countable and uncountable, plural swizzles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of various kinds of alcoholic drink.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of switchel (“drink based on water and vinegar”)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "swizzle (third-person singular simple present swizzles, present participle swizzling, simple past and past participle swizzled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To stir or mix.",
+                  "examples": [
+                    "She swizzled the milk into her coffee."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To permute bits, or elements of a vector.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, transitive) To convert portable symbols or positions to memory-dependent pointers during deserialization.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To drink; to swill.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
