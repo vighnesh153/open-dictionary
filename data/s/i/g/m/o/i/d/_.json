@@ -1,0 +1,74 @@
+{
+  "word": "sigmoid",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowing from Ancient Greek σῑγμοειδής (sīgmoeidḗs, “of the shape of sigma”), from σῖγμᾰ (sîgma, “sigma”) +‎ -ο- (-o-) +‎ -ειδής (-eidḗs, “-oid, -like”); Equivalent to sigma +‎ -oid. Compare with French sigmoïde."
+      ],
+      "adjectives": [
+        {
+          "description": "sigmoid (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Semi-circular, like the uncial or lunar sigma (similar to English C).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Curved in two directions, like the letter \"S\", or the Greek ς (sigma); having a serpentine shape.",
+              "entries": [
+                {
+                  "meaning": "(mathematics) Exhibiting logistic growth; having a graph that accelerates until it reaches a carrying capacity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) Relating to the sigmoid colon.",
+                  "examples": [
+                    "Synonym: sigmoidal"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sigmoid (plural sigmoids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) Ellipsis of sigmoid colon..",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Ellipsis of sigmoid function..",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
