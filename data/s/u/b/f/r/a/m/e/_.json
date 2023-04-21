@@ -1,0 +1,50 @@
+{
+  "word": "subframe",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ frame"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subframe (plural subframes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A subsidiary frame (chunk of data).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A structural component of a vehicle, such as an automobile or aircraft, that uses a discrete, separate structure within a larger body-on-frame or unit body to carry certain components, such as the engine, drivetrain, or suspension.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) One of the HTML frames that make up a frameset.",
+                  "examples": [
+                    "Specify the dimensions of your main frame and subframes and this online utility will create them for you."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
