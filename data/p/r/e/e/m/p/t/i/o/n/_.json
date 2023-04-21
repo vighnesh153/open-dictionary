@@ -1,0 +1,42 @@
+{
+  "word": "preemption",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin praeēmptiō (“previous purchase”), from praeemō (“buy before”), from Latin prae- (“before”) + emō (“buy”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "preemption (countable and uncountable, plural preemptions)",
+          "definitionGroups": [
+            {
+              "group": "An act or process that preempts; a preventive or forestalling action; as:",
+              "entries": [
+                {
+                  "meaning": "The purchase of something before it is offered for sale to others.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The purchase of public land by the occupant.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing) The temporary interruption of a task without its cooperation and with the intention of resuming it at a later time.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(law) The displacement of a lower jurisdiction's laws when they conflict with those of a higher jurisdiction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
