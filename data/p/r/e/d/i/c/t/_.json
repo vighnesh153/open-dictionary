@@ -1,0 +1,80 @@
+{
+  "word": "predict",
+  "etymologies": [
+    {
+      "description": [
+        "Early 17th century, from Latin praedīcō (“to mention beforehand”) (perfect passive participle praedictus), from prae- (“before”) + dīcō (“to say”). Equivalent to Germanic forespeak, foretell, and foresay."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "predict (plural predicts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A prediction.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "predict (third-person singular simple present predicts, present participle predicting, simple past and past participle predicted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make a prediction: to forecast, foretell, or estimate a future event on the basis of knowledge and reasoning; to prophesy a future event on the basis of mystical knowledge or power.",
+                  "examples": [
+                    "After he had renounced his fathers bishoprick of Valentia in Spaine... and to attaine by degrees the Maiesty of Cesar, was created Duke of that place, gaue for his poesie, Aut Cesar, aut nihil. which being not fauoured from the heauens, had presently the euent the same predicted."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of theories, laws, etc.) To imply.",
+                  "examples": [
+                    "It is interesting to see how clearly theory predicts the difference between the ascending and descending curves of a dynamo."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make predictions.",
+                  "examples": [
+                    "The devil can both predict and make predictors."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military, rare) To direct a ranged weapon against a target by means of a predictor.",
+                  "examples": [
+                    "They're predicting us now; looks like a barrage."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
