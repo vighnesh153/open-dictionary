@@ -1,0 +1,72 @@
+{
+  "word": "repaint",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ paint (“verb”)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "repaint (plural repaints)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or process of painting something again, especially if recently painted.",
+                  "examples": [
+                    "They didn't like the color so we had to do a repaint."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The act of drawing or rendering again on the display.",
+                  "examples": [
+                    "WPF will call your OnRender function when it needs to know what content your visual displays, but the way graphics acceleration works in WPF means that this happens far less often than the equivalent repaints in Win32."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "repaint (third-person singular simple present repaints, present participle repainting, simple past and past participle repainted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To paint anew or again, especially if recently painted.",
+                  "examples": [
+                    "to repaint a house; to repaint the ground of a picture",
+                    "Related terms: reapply, recoat, renovate"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To draw or render again on the display.",
+                  "examples": [
+                    "To force a window to repaint itself programmatically, you call the inherited Invalidate() method […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
