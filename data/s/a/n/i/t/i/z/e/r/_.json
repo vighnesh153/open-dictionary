@@ -1,0 +1,44 @@
+{
+  "word": "sanitizer",
+  "etymologies": [
+    {
+      "description": [
+        "sanitize +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sanitizer (countable and uncountable, plural sanitizers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "agent noun of sanitize; one who sanitizes; a product that provides a sanitized result.",
+                  "examples": [
+                    "hand sanitizer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software) A program to detect errors in code, usually integrated into a compiler.",
+                  "examples": [
+                    "memory sanitizer",
+                    "Coordinate term: linter"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

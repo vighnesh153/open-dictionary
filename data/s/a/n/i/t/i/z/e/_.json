@@ -1,0 +1,66 @@
+{
+  "word": "sanitize",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sanitize (third-person singular simple present sanitizes, present participle sanitizing, simple past and past participle sanitized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To rid of microorganisms by cleaning or disinfecting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, by extension) To make something, such as a dramatic work, more acceptable by removing potentially offensive material.",
+                  "examples": [
+                    "Near-synonym: bowdlerize"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To filter (text) to ensure it does not contain any characters that will cause problems for or be interpreted in an adverse way by the receiving system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To remove sensitive or personal data from (a database or file).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To revise (a document) in order to prevent identification of the sources.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
