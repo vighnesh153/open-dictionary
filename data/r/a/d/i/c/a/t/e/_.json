@@ -1,0 +1,83 @@
+{
+  "word": "radicate",
+  "etymologies": [
+    {
+      "description": [
+        "Latin radicatus, past participle of radicari (“to take root”), from radix (“root”)."
+      ],
+      "adjectives": [
+        {
+          "description": "radicate",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Rooted; deep-seated; firmly established.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) Having a root; growing from a root; (of a fungus) having rootlike outgrowths at the base of the stipe.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(zoology) Fixed at the bottom as if rooted.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "radicate (third-person singular simple present radicates, present participle radicating, simple past and past participle radicated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, rare) To cause to take root; to plant or establish firmly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To take root; to become established.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, arithmetic, rare) To extract the root of a number.",
+                  "examples": [
+                    "Numbers, arithmetically, can be added, subtracted, multiplied and divided, exponentiated and radicated,  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
