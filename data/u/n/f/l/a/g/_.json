@@ -1,0 +1,32 @@
+{
+  "word": "unflag",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ flag"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unflag (third-person singular simple present unflags, present participle unflagging, simple past and past participle unflagged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To remove a flag from.",
+                  "examples": [
+                    "A message that has been unflagged will no longer be displayed at the top of your e-mail inbox."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
