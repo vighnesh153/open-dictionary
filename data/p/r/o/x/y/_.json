@@ -1,0 +1,139 @@
+{
+  "word": "proxy",
+  "etymologies": [
+    {
+      "description": [
+        "Inherited from Middle English procusie, contraction of procuracie, from Anglo-Norman procuracie, from Medieval Latin procuratia, from Latin prōcūrātiō, from Latin prōcūrō (“I manage, administer”) (English procure). Compare proctor."
+      ],
+      "adjectives": [
+        {
+          "description": "proxy (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Used as a proxy or acting as a proxy.",
+                  "examples": [
+                    "a proxy indicator",
+                    "a proxy measurement"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "proxy (plural proxies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An agent or substitute authorized to act for another person.",
+                  "examples": [
+                    "Every peer  […]  may make another lord of parliament his proxy, to vote for him in his absence."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The authority to act for another, especially when written.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The written appointment of a proctor in suits in the ecclesiastical courts",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences) A measurement of one physical quantity that is used as an indicator of the value of another",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software) An interface for a service, especially for one that is remote, resource-intensive, or otherwise difficult to use directly.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "proxy (third-person singular simple present proxies, present participle proxying, simple past and past participle proxied)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To serve as a proxy for.",
+                  "examples": [
+                    "In many of the studies we reviewed, it is common practice to use an observed variable to proxy for a relevant variable that could not be observed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) To function as a server for a client device, but pass on the requests to another server for service.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "proximity + -y."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "proxy (plural proxies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video game slang) Short for proximity mine.",
+                  "examples": [
+                    "(Make sure you don't move!! Might trigger a proxy..!)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
