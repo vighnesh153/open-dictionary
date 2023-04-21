@@ -1,0 +1,37 @@
+{
+  "word": "potentiometer",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "potentiometer (plural potentiometers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A user-adjustable three-terminal variable resistor that can be used as a voltage divider.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) An instrument that measures a voltage by opposing it with a precise fraction of a known voltage, and without drawing current from the unknown source. [from late 19th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
