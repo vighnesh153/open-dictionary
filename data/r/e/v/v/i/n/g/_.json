@@ -1,0 +1,54 @@
+{
+  "word": "revving",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "revving (plural revvings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act by which an engine is revved.",
+                  "examples": [
+                    "[…]  we finally arrived in El Obeid  […]  after doing the last sixty miles in third gear, with frequent revvings in neutral to keep the engine going."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A technique for reducing web page loading times by assigning far-future expiration dates to the resources on the page (so that the browser caches them indefinitely) and, if changes are needed, using different filenames for those resources.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "revving",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of rev",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
