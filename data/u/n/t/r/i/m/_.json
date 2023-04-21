@@ -1,0 +1,41 @@
+{
+  "word": "untrim",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ trim"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "untrim (third-person singular simple present untrims, present participle untrimming, simple past and past participle untrimmed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove the trimmings or adornments from.",
+                  "examples": [
+                    "She was trimming a very smart straw hat with pink ribbons; trimming and untrimming, for the bows were tied and untied, taken off and put on, and taken off again, with a look of impatience and discontent  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics, CAD) To restore the original shape of (a surface that has been trimmed).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
