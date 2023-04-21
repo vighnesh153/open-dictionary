@@ -1,0 +1,216 @@
+{
+  "word": "private",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin prīvātus (“bereaved, deprived, set apart from”), perfect passive participle of prīvō (“I bereave, deprive”), from prīvus (“private, one's own, peculiar”), ultimately from Proto-Indo-European *per; compare prime, prior, pristine. Doublet of privy."
+      ],
+      "adjectives": [
+        {
+          "description": "private (comparative more private, superlative most private)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Belonging to, concerning, or accessible only to an individual person or a specific group.",
+                  "examples": [
+                    "Her address is private; you can't have it.",
+                    "private papers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not accessible by the public.",
+                  "examples": [
+                    "private property"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not in governmental office or employment.",
+                  "examples": [
+                    "He quit public life, living quietly as a private citizen."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not publicly known; not open; secret.",
+                  "examples": [
+                    "The identity of the beneficiaries of the trust is private."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Protected from view or disturbance by others; secluded.",
+                  "examples": [
+                    "Can we go somewhere more private?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not traded by the public.",
+                  "examples": [
+                    "private corporation"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Secretive; reserved.",
+                  "examples": [
+                    "He is a very private person."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, of a room in a medical facility) Not shared with another patient.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(not comparable, object-oriented programming) Accessible only to the class itself or instances of it, and not to other classes or even subclasses.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "private (plural privates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A soldier of the lowest rank in the army.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A doctor working in privately rather than publicly funded health care.",
+                  "examples": [
+                    "In the cities and towns of California, privates are pressuring county governments to close or reduce in size their hospitals and to pay private hospitals for the care of low-income patients. Thus everything is stacked against public hospitals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(euphemistic, in the plural) The genitals.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A secret message; a personal unofficial communication.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Personal interest; particular business.",
+                  "examples": [
+                    "Nor must I be unmindful of my private."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Privacy; retirement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) One not invested with a public office.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually in the plural) A private lesson.",
+                  "examples": [
+                    "If you want to learn ballet, consider taking privates."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "private (third-person singular simple present privates, present participle privating, simple past and past participle privated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, transitive) To make something hidden from the public (without deleting it permanently).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
