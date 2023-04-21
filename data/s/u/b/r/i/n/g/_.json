@@ -1,0 +1,30 @@
+{
+  "word": "subring",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ ring"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subring (plural subrings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra) a ring which is contained in a larger ring, such that the multiplication and addition on the former are a restriction of those on the latter.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
