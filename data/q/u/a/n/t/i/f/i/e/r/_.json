@@ -1,0 +1,54 @@
+{
+  "word": "quantifier",
+  "etymologies": [
+    {
+      "description": [
+        "quantify +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quantifier (plural quantifiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word, such as all or many, that expresses the quantity of a related noun.",
+                  "examples": [
+                    "Synonyms: see Thesaurus:quantifier"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An operator, such as the universal quantifier (written as ∀) or the existential quantifier (∃), used in predicate calculus to indicate the degree that predicate is true for a specified set.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A symbol or symbols in a regular expression indicating the number of characters to be matched.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
