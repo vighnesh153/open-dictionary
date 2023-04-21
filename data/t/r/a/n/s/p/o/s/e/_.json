@@ -1,0 +1,134 @@
+{
+  "word": "transpose",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English transposen, from Old French transposer, from Latin trānspositus, perfect passive participle of trānspōnō (“to put across”), from trāns (“across”) + pōnō (“to put”)."
+      ],
+      "adjectives": [
+        {
+          "description": "transpose (comparative more transpose, superlative most transpose)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(adjective, linear algebra) A matrix with the characteristic of having been transposed from a given matrix.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transpose (plural transposes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(adjective, linear algebra) The resulting matrix, derived from performing a transpose operation on a given matrix.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "transpose (third-person singular simple present transposes, present participle transposing, simple past and past participle transposed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reverse or change the order of (two or more things); to swap or interchange.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, music) To rewrite or perform (a piece) in another key.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, algebra) To move (a term) from one side of an algebraic equation to the other, reversing the sign of the term.",
+                  "examples": [
+                    "Synonyms: reduce, cancel"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, linear algebra) To rearrange elements in a matrix, by interchanging their respective row and column positional indicators.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law, chiefly of the European Union) To give force to a directive by passing appropriate implementation measures.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, chess) To reach a position that may also be obtained from a different move order.",
+                  "examples": [
+                    "After e6, the opening transposed to a Sicilian."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From the verb."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transpose (plural transposes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra) The process of rearranging elements in a matrix, by interchanging their respective row and column positional indicators.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
