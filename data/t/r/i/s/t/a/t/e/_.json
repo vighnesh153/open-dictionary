@@ -1,0 +1,71 @@
+{
+  "word": "tristate",
+  "etymologies": [
+    {
+      "description": [
+        "tri- +‎ state"
+      ],
+      "adjectives": [
+        {
+          "description": "tristate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having, or pertaining to, three distinct states.",
+                  "examples": [
+                    "This tristate logic deals with true, false, and unknown values."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of, pertaining to, or characteristic of a region in the United States where three state borders come to a single point.",
+                  "examples": [
+                    "The event will be sponsored by several tristate businesses."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tristate (plural tristates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A variable, etc. that can take any of three distinct values.",
+                  "examples": [
+                    "Configuration options that control the build process are either Booleans or tristates."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(often capitalized) The area in some regions of the United States where three state borders come to a single point.",
+                  "examples": [
+                    "The Tristate is on alert after a rash of home burglaries."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
