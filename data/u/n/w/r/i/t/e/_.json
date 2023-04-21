@@ -1,0 +1,59 @@
+{
+  "word": "unwrite",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ write"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unwrite (third-person singular simple present unwrites, present participle unwriting, simple past unwrote, past participle unwritten)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To erase; to revert to a state where (something) was never written.",
+                  "examples": [
+                    "Accordingly, in June, the governor, as if rescinding the resolution could unwrite the letter, demanded its erasure from the records of the house."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To nullify.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To deconstruct.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer engineering) To revert to a known state in so that new data can be written.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
