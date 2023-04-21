@@ -1,0 +1,85 @@
+{
+  "word": "sinkhole",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English sinkehole, sinkeholl, equivalent to sink +‎ hole."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sinkhole (plural sinkholes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A hole formed in soluble rock by the action of water, serving to conduct surface water to an underground passage.",
+                  "examples": [
+                    "Synonyms: cenote, doline, dolina, (Britain) kettle hole, shakehole, (Britain) sink, (Britain) swallet, swallow hole"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A depressed area in which waste or drainage collects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(pinball) A hole in the playfield that rewards the player when the ball is guided into it.",
+                  "examples": [
+                    "Pro Pinball is as authentic as pinball has ever been on the PC. It's all here, from the ramps, bumpers and sinkholes to the satisfying \"clack\" when you make the high-score list."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A domain name server that has been configured to hand out non-routeable addresses for all domains, so that every computer that uses it will fail to get access to the real website.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer security) An attack which redirects requests - be it network or memory accesses - to a new location defined by the attacker.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sinkhole (third-person singular simple present sinkholes, present participle sinkholing, simple past and past participle sinkholed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, transitive) To configure as a sinkhole (domain name server that gives non-routeable addresses).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
