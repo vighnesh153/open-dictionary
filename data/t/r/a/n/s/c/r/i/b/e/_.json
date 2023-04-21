@@ -1,0 +1,77 @@
+{
+  "word": "transcribe",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin trānscrībō (“to write again in another place, transcribe, copy”), from trans (“over”) + scrībō (“to write”). See scribe."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "transcribe (third-person singular simple present transcribes, present participle transcribing, simple past and past participle transcribed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To convert a representation of language, typically speech but also sign language, etc., to a written representation of it. The term now usually implies the conversion of speech to text by a human transcriptionist with the assistance of a computer for word processing and sometimes also for speech recognition, the process of a computer interpreting speech and converting it to text.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dictation) To make such a conversion from live or recorded speech to text.",
+                  "examples": [
+                    "The doctor made several recordings today which she will transcribe into medical reports tomorrow."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To transfer data from one recording medium to another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) To adapt a composition for a voice or instrument other than the original; to notate live or recorded music.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) To cause DNA to undergo transcription.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) To represent speech by phonetic symbols.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
