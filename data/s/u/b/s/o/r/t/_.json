@@ -1,0 +1,45 @@
+{
+  "word": "subsort",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ sort"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subsort (plural subsorts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The sorting of a subset of already sorted elements.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subsort (third-person singular simple present subsorts, present participle subsorting, simple past and past participle subsorted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To sort a subset of already sorted elements (by some secondary criterion).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
