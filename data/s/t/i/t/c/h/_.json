@@ -1,0 +1,238 @@
+{
+  "word": "stitch",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stiche, from Old English stiċe (“a prick, puncture, stab, thrust with a pointed implement, pricking sensation, stitch, pain in the side, sting”), from Proto-West Germanic *stiki, from Proto-Germanic *stikiz (“prick, piercing, stitch”), from Proto-Indo-European *(s)teyg- (“to stab, pierce”).",
+        "Cognate with Dutch steek (“prick, stitch”), German Stich (“a prick, piercing, stitch”), Old English stician (“to stick, stab, pierce, prick”). More at stick."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stitch (plural stitches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A single pass of a needle in sewing; the loop or turn of the thread thus made.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An arrangement of stitches in sewing, or method of stitching in some particular way or style.",
+                  "examples": [
+                    "cross stitch",
+                    "herringbone stitch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable and uncountable) An intense stabbing pain under the lower edge of the ribcage, brought on by exercise or laughing.",
+                  "examples": [
+                    "I've got a stitch. I'm going to have to stop and rest.",
+                    "After about fifteen minutes I got terrible stitch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A local sharp pain (anywhere); an acute pain, like the piercing of a needle.",
+                  "examples": [
+                    "a stitch in the side"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A single turn of the thread round a needle in knitting; a link, or loop, of yarn",
+                  "examples": [
+                    "drop a stitch",
+                    "take up a stitch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An arrangement of stitches in knitting, or method of knitting in some particular way or style.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A space of work taken up, or gone over, in a single pass of the needle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A fastening, as of thread or wire, through the back of a book to connect the pages.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) Any space passed over; distance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A contortion, or twist.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) Any least part of a fabric or clothing.",
+                  "examples": [
+                    "to wet every stitch of clothes",
+                    "She didn’t have a stitch on."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A furrow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The space between two double furrows.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English sticchen, stichen, from Old English *stiċċan, stiċċian, from Proto-Germanic *stikjaną (“to stab, stick, prick”), influenced by the noun (see above)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stitch (third-person singular simple present stitches, present participle stitching, simple past and past participle stitched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To form stitches in; especially, to sew in such a manner as to show on the surface a continuous line of stitches.",
+                  "examples": [
+                    "to stitch a shirt bosom."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To sew, or unite or attach by stitches.",
+                  "examples": [
+                    "to stitch printed sheets in making a book or a pamphlet."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To practice/practise stitching or needlework.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(agriculture) To form land into ridges.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To weld together through a series of connecting or overlapping spot welds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, graphics) To combine two or more photographs of the same scene into a single image.",
+                  "examples": [
+                    "I can use this software to stitch together a panorama."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(more generally) To include, combine, or unite into a single whole.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
