@@ -1,0 +1,59 @@
+{
+  "word": "probability",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French probabilité, from Latin probābilitās (“probability, credibility”), from probābilis (“probable, credible”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "probability (plural probabilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being probable; likelihood.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An event that is likely to occur.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The relative likelihood of an event happening.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A number, between 0 and 1, expressing the precise likelihood of an event happening.",
+                  "examples": [
+                    "The probability of an event A occurring is denoted P(A)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
