@@ -1,0 +1,108 @@
+{
+  "word": "tier",
+  "etymologies": [
+    {
+      "description": [
+        "tie +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tier (plural tiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who ties (knots, etc).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that ties.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) A child's apron.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle French tier, from Old French tire (“rank, sequence, order, kind”), probably from tirer (“to draw, draw out”). Alternatively, from a Germanic source related to Middle English tir (“honour, glory, power, rule”), Old English tīr (“glory, honour, fame”), Old Norse tírr (“glory, honour, renown”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tier (plural tiers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A layer or rank, especially of seats or a wedding cake.",
+                  "examples": [
+                    "Stoke City were playing in the second tier of English football before being promoted to the Premier League."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tier (third-person singular simple present tiers, present participle tiering, simple past and past participle tiered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange in layers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cascade in an overlapping sequence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To move (data) from one storage medium to another as an optimization, based on how frequently it is accessed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
