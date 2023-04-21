@@ -1,0 +1,65 @@
+{
+  "word": "unary",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin ūnus (“one”) + -ary, on the pattern of binary, ternary, etc."
+      ],
+      "adjectives": [
+        {
+          "description": "unary (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Consisting of or involving a single element or component.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, programming, computer engineering) Of an operation, function, procedure, or logic gate, taking exactly one operand, argument, parameter, or input; having domain of dimension 1.",
+                  "examples": [
+                    "Negation is a unary operation."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unary (countable and uncountable, plural unaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The unary, or bijective base-1, numeral system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(information theory) Unary coding, an entropy encoding for natural numbers.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
