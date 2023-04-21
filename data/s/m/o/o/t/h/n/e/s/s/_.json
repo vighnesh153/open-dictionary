@@ -1,0 +1,54 @@
+{
+  "word": "smoothness",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English smothenesse; equivalent to smooth +‎ -ness. Compare Old English smēþnes (“smoothness, a smooth place, a level surface”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "smoothness (countable and uncountable, plural smoothnesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The condition of being smooth; the degree or measure of said condition.",
+                  "examples": [
+                    "The ‘smoothness’ of distributions can be understood in various senses, this is why we used quotation marks before; further we will drop them. The smoothness can be understood as the differentiability of the distribution function, boundedness of some of its derivatives, the existence of the absolutely continuous component, the decrease of the characteristic function with a certain rate, the validity of the Cramér condition, the condition \n  \n    \n      \n        σ\n        (\n        Φ\n        )\n        →\n        0\n      \n    \n    {\\displaystyle \\sigma (\\Phi )\\rightarrow 0}\n  \n as \n  \n    \n      \n        n\n        →\n        ∞\n      \n    \n    {\\displaystyle n\\rightarrow \\infty }\n  \n, etc."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis, of a function) The highest order of derivative (the differentiability class) over a given domain.",
+                  "examples": [
+                    "Smoothness can vary from 0 (for a nondifferentiable function) to infinity (for a smooth function)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(approximation theory, numerical analysis, of a function) The quantity measured by the modulus of smoothness.",
+                  "examples": [
+                    "A central problem in approximation theory is to characterize the best approximation of a function by polynomials, or other classes of simple functions, in terms of the smoothness of the function. In this chapter, we study the characterization of the best approximation by polynomials on the sphere. In the classical setting of one variable, the smoothness of a function on \n  \n    \n      \n        \n          \n            S\n          \n          \n            1\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {S} ^{1}}\n  \n is described by the modulus of smoothness, defined by the forward difference."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
