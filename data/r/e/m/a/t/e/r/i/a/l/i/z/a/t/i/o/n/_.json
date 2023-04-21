@@ -1,0 +1,39 @@
+{
+  "word": "rematerialization",
+  "etymologies": [
+    {
+      "description": [
+        "rematerialize +‎ -ation"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rematerialization (usually uncountable, plural rematerializations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act or process of rematerializing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory, uncountable) A compiler optimization that saves time by recomputing a value instead of loading it from memory.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
