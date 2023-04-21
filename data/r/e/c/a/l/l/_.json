@@ -1,0 +1,146 @@
+{
+  "word": "recall",
+  "etymologies": [
+    {
+      "description": [
+        "From re- +‎ call, probably modelled on Latin revocāre, French rappeler, English withcall."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "recall (countable and uncountable, plural recalls)",
+          "definitionGroups": [
+            {
+              "group": "The action or fact of calling someone or something back.",
+              "entries": [
+                {
+                  "meaning": "Request of the return of a faulty product.",
+                  "examples": [
+                    "recall campaign"
+                  ]
+                },
+                {
+                  "meaning": "(chiefly US politics) The right or procedure by which a public official may be removed from office before the end of their term of office, by a vote of the people to be taken on the filing of a petition signed by a required number or percentage of qualified voters.",
+                  "examples": [
+                    "recall petition",
+                    "representative recall"
+                  ]
+                },
+                {
+                  "meaning": "(US politics) The right or procedure by which the decision of a court may be directly reversed or annulled by popular vote, as was advocated, in 1912, in the platform of the Progressive Party for certain cases involving the police power of the state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Memory; the ability to remember.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(information retrieval, machine learning) The fraction of (all) relevant material that is returned by a search.",
+                  "examples": [
+                    "Synonym: sensitivity",
+                    "precision and recall"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "recall (third-person singular simple present recalls, present participle recalling, simple past and past participle recalled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To withdraw, retract (one's words etc.); to revoke (an order). [from 16th c.]",
+                  "examples": [
+                    "Synonyms: withcall; see also Thesaurus:recant"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To call back, bring back or summon (someone) to a specific place, station etc. [from 16th c.]",
+                  "examples": [
+                    "He was recalled to service after his retirement.",
+                    "She was recalled to London for the trial."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, US politics) To remove an elected official through a petition and direct vote.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring back (someone) to or from a particular mental or physical state, activity etc. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To call back (a situation, event etc.) to one's mind; to remember, recollect. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To call again, to call another time. [from 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To request or order the return of (a faulty product). [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
