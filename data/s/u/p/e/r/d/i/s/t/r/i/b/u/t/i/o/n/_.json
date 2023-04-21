@@ -1,0 +1,39 @@
+{
+  "word": "superdistribution",
+  "etymologies": [
+    {
+      "description": [
+        "super- +‎ distribution"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "superdistribution (countable and uncountable, plural superdistributions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The distribution of digital products (such as software or music) in an encrypted form so that one consumer can pass them on to another, while the original distributor retains control over use and modification.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, statistics) Any of various generalizations of a distribution, especially a common distribution that results from applying a single mapping to any distribution from a body of source distributions, which forms the basis of encryption used in the superdistribution of digital products.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
