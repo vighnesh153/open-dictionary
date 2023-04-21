@@ -1,0 +1,117 @@
+{
+  "word": "polyglot",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Koine Greek πολύγλωττος (polúglōttos, “speaking many languages, multilingual”), Attic Greek πολύγλωττος (polúglōttos, “many-tongued”), alternative forms of Ancient Greek πολῠ́γλωσσος (polúglōssos, “speaking many languages, multilingual”), from πολῠ́ς (polús, “a lot of, many”) (ultimately from Proto-Indo-European *pleh₁- (“to fill”)) + Attic Greek γλῶττα (glôtta), Ancient Greek γλῶσσᾰ (glôssa, “tongue; language”) (ultimately from Proto-Indo-European *glōgʰs (“tip of corn”)) + -ος (-os, suffix forming o-grade action nouns). The English word is analysable as poly- +‎ -glot.",
+        "Noun sense 1 (“publication in several languages”) is probably derived from Late Latin polyglottus, from Koine Greek πολύγλωττος (polúglōttos): see above."
+      ],
+      "adjectives": [
+        {
+          "description": "polyglot (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a person: speaking, or versed in, many languages; multilingual.",
+                  "examples": [
+                    "Synonyms: (archaic) polyglotted, polyglottic, polylingual"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Containing, or made up of, several languages; specifically, of a book (especially a bible): having text translated into several languages.",
+                  "examples": [
+                    "Synonyms: polyglossic, polyglottal, polyglottic, (rare) polyglottish",
+                    "a polyglot bible    a polyglot lexicon"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Comprising various (native) linguistic groups; multilingual.",
+                  "examples": [
+                    "A polyglot region without a clearly dominant culture may develop an artificial lingua franca, such as Pidgin English in the South Sea."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "Borrowed from Koine Greek πολύγλωττος (polúglōttos, “speaking many languages, multilingual”), Attic Greek πολύγλωττος (polúglōttos, “many-tongued”), alternative forms of Ancient Greek πολῠ́γλωσσος (polúglōssos, “speaking many languages, multilingual”), from πολῠ́ς (polús, “a lot of, many”) (ultimately from Proto-Indo-European *pleh₁- (“to fill”)) + Attic Greek γλῶττα (glôtta), Ancient Greek γλῶσσᾰ (glôssa, “tongue; language”) (ultimately from Proto-Indo-European *glōgʰs (“tip of corn”)) + -ος (-os, suffix forming o-grade action nouns). The English word is analysable as poly- +‎ -glot. Noun sense 1 (“publication in several languages”) is probably derived from Late Latin polyglottus, from Koine Greek πολύγλωττος (polúglōttos): see above.",
+          "definitionGroups": []
+        },
+        {
+          "description": "polyglot (plural polyglots)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A publication in several languages; specifically, a book (especially a bible) containing several versions of the same subject matter or text in several languages.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(also figuratively) One who has mastered (especially when able to speak) several languages.",
+                  "examples": [
+                    "Synonyms: multilinguist, (both rare) polyglotter, polyglottist, polylinguist"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(also figuratively) A mixture of languages or nomenclatures.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(computing)",
+              "entries": [
+                {
+                  "meaning": "A file that can be interpreted validly as multiple formats.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(programming) A program written to be valid in multiple programming languages.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A bird able to imitate the sounds of other birds.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
