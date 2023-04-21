@@ -1,0 +1,135 @@
+{
+  "word": "whisper",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English whisperen, from Old English hwisprian (“to mutter, murmur, whisper”), from Proto-West Germanic *hwisprōn, from Proto-Germanic *hwisprōną (“to hiss, whistle, whisper”), from Proto-Indo-European *ḱweys-, *ḱwey- (“to hiss, whistle, whisper”).",
+        "Cognate with Dutch wisperen (“to whisper”), German wispern (“to mumble, whisper”). Related also to Danish hviske (“to whisper”), Icelandic hvískra (“to whisper”), Norwegian Bokmål hviske, kviskre (“to whisper”), Norwegian Nynorsk kviskre, kviskra (“to whisper”), Swedish viska (“to whisper”). More at English whistle."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "whisper (plural whispers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of speaking in a quiet voice, especially, without vibration of the vocal cords.",
+                  "examples": [
+                    "I spoke in a near whisper"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually in the plural) A rumor.",
+                  "examples": [
+                    "There are whispers of rebellion all around."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A faint trace or hint (of something).",
+                  "examples": [
+                    "The soup had just a whisper of basil."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A low rustling sound, like that of the wind in leaves.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A private message to an individual in a chat room.",
+                  "examples": [
+                    "The invisibility of private interactions in the form of whispers resolved an ethical concern in the research but reduced our ability to gauge the volume of interaction  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "whisper (third-person singular simple present whispers, present participle whispering, simple past and past participle whispered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To speak softly, or under the breath, so as to be heard only by one near at hand; to utter words without sonant breath; to talk without that vibration in the larynx which gives sonorous, or vocal, sound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To mention privately and confidentially, or in a whisper.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make a low, sibilant sound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To speak with suspicion or timorous caution; to converse in whispers, as in secret plotting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To address in a whisper, or low voice.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To prompt secretly or cautiously; to inform privately.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
