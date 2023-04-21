@@ -1,0 +1,57 @@
+{
+  "word": "reseed",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ seed"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reseed (third-person singular simple present reseeds, present participle reseeding, simple past and past participle reseeded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To sow seeds again; to apply seed to (a plot of land) again.",
+                  "examples": [
+                    "Synonym: resow",
+                    "Hypernym: replant",
+                    "Hyponym: overseed",
+                    "When the birds ate the seeds he had planted, the farmer was forced to reseed the field."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a non-perennial plant, to produce seeds to ensure the following generation without human intervention; to self-sow.",
+                  "examples": [
+                    "The marigolds had reseeded themselves in the flower box, so he didn't have to buy new ones this year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To reset the input of an algorithm so as to ensure different results.",
+                  "examples": [
+                    "The game reseeded its random number algorithm with a time-based value each time the game was restarted."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
