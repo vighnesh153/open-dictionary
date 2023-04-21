@@ -1,0 +1,88 @@
+{
+  "word": "unitary",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "unitary",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having the quality of oneness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(government, of a system of government or administration) That concentrates power in a single body, rather than sharing it with more local bodies.",
+                  "examples": [
+                    "a unitary authority",
+                    "a unitary state"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of an algebra) That contains an identity element.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra, mathematical analysis, of a matrix or operator) Whose inverse is equal to its adjoint.",
+                  "examples": [
+                    "The eigenvectors of an orthogonal or unitary operator, corresponding to different eigenvalues, are orthogonal."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unitary (plural unitaries)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) A unitary council.",
+                  "examples": [
+                    "Outside the metropolitan areas most councils (English and Welsh counties, London boroughs, Scottish and Welsh unitaries, and Northern Ireland districts) are now elected en bloc every four years."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A unitary matrix or operator.",
+                  "examples": [
+                    "Since ergodicity and mixing are expressible in terms of the induced Koopman unitaries they are not additional invariants."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
