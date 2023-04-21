@@ -1,0 +1,30 @@
+{
+  "word": "refetch",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ fetch"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "refetch (third-person singular simple present refetches, present participle refetching, simple past and past participle refetched)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To fetch again.",
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To retrieve data previously stored in memory.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
