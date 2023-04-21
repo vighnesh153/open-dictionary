@@ -1,0 +1,41 @@
+{
+  "word": "vowelize",
+  "etymologies": [
+    {
+      "description": [
+        "vowel +‎ -ize"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "vowelize (third-person singular simple present vowelizes, present participle vowelizing, simple past and past participle vowelized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give the quality, sound, or office of a vowel to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To insert a vowel or vowels into.",
+                  "examples": [
+                    "One approach is to have experts in Arabic manually vowelize a small training set."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
