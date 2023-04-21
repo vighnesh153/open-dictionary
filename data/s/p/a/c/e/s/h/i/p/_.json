@@ -1,0 +1,50 @@
+{
+  "word": "spaceship",
+  "etymologies": [
+    {
+      "description": [
+        "space +‎ ship"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spaceship (plural spaceships)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronautics) A vehicle that flies through space.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, mathematics, cellular automata) A finite pattern that reappears after a certain number of generations in the same orientation but in a different position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The operator <=> in certain programming languages, which compares two values and indicates whether the first is lesser than, greater than, or equal to the second.",
+                  "examples": [
+                    "If we reverse the positions of $a and $b, the spaceship will sort in the opposite order […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "spacetime",
+  "etymologies": [
+    {
+      "description": [
+        "From space +‎ time, as a calque of German Raumzeit, introduced in this sense by Hermann Minkowski."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spacetime (countable and uncountable, plural spacetimes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, physics) The four-dimensional continuum of the three spatial dimensions plus time.",
+                  "examples": [
+                    "An event is a point in spacetime, specified by the coordinates x, y, z, and t."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) An n-dimensional continuum consisting of dimensions of both space and time. Normally spacetime is considered as having 4 dimensions (x, y, z, t), but higher-dimensional spacetimes are often encountered in theoretical physics, e.g. the 5-dimensional spacetime of Kaluza-Klein theory or the 11 dimensions of spacetime in M-theory.",
+                  "examples": [
+                    "a Minkowski spacetime",
+                    "a 5-dimensional spacetime"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(relativity) A specific region of the universe with mathematically different properties than the surrounding spacetime. Synonymous with \"metric\" within the context of general relativity.",
+                  "examples": [
+                    "a Schwarzschild spacetime",
+                    "a Reissner-Nordström spacetime"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
