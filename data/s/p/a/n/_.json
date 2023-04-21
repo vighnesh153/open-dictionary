@@ -1,0 +1,226 @@
+{
+  "word": "span",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English spanne, from Old English spann, from Proto-Germanic *spannō (“span, handbreadth”). Cognate with Dutch span, spanne, German Spanne. The sense “pair of horses” is probably from Old English ġespan, ġespann (“a joining; a fastening together; clasp; yoke”), from Proto-West Germanic [Term?]. Cognate with Dutch gespan, German Gespann."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "span (plural spans)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The full width of an open hand from the end of the thumb to the end of the little finger used as an informal unit of length.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of various traditional units of length approximating this distance, especially the English handspan of 9 inches forming ⅛ fathom and equivalent to 22.86 cm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A small space or a brief portion of time.",
+                  "examples": [
+                    "Life's but a span; I'll every inch enjoy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A portion of something by length; a subsequence.",
+                  "examples": [
+                    "For example, in OpenOffice.org or Microsoft Word, each span of text can have a style that defines key characteristics about the text: • What font it uses • Whether it's normal, bolded, italicized,  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture, construction) The spread or extent of an arch or between its abutments, or of a beam, girder, truss, roof, bridge, or the like, between supports.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture, construction) The length of a cable, wire, rope, chain between two consecutive supports.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A rope having its ends made fast so that a purchase can be hooked to the bight; also, a rope made fast in the center so that both ends can be used.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, Canada) A pair of horses or other animals driven together; usually, such a pair of horses when similar in color, form, and action.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The space of all linear combinations of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The time required to execute a parallel algorithm on an infinite number of processors, i.e. the shortest distance across a directed acyclic graph representing the computation steps.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "wingspan of a plane or bird",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English spannen, from Old English spannan, from Proto-Germanic *spannaną (“to stretch, span”). Cognate with German spannen, Dutch spannen."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "span (third-person singular simple present spans, present participle spanning, simple past and past participle spanned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To extend through the distance between or across.",
+                  "examples": [
+                    "The suspension bridge spanned the canyon."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To extend through (a time period).",
+                  "examples": [
+                    "The parking lot spans three acres.",
+                    "The novel spans three centuries."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To measure by the span of the hand with the fingers extended, or with the fingers encompassing the object.",
+                  "examples": [
+                    "to span a space or distance; to span a cylinder"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) To generate an entire space by means of linear combinations.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, US, dated) To be matched, as horses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fetter, as a horse; to hobble.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English span, from Old English spann, from Proto-Germanic *spann, first and third person singular preterit indicative of Proto-Germanic *spinnaną (“to spin”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "span",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic, now nonstandard) simple past tense of spin",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
