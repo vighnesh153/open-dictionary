@@ -1,0 +1,55 @@
+{
+  "word": "resistive",
+  "etymologies": [
+    {
+      "description": [
+        "From resist +‎ -ive."
+      ],
+      "adjectives": [
+        {
+          "description": "resistive (comparative more resistive, superlative most resistive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) Tending to resist (against something or someone); resistant.",
+                  "examples": [
+                    "He had a stubborn, resistive nature."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) Acting as a resistor; resisting the passage of electrical current.",
+                  "examples": [
+                    "This material is highly resistive."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) Of an electronic circuit: consisting only of resistors and power sources; having no inductance and capacitance.",
+                  "examples": [
+                    "Coordinate terms: inductive, capacitive",
+                    "a pure resistive circuit"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
