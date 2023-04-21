@@ -1,0 +1,131 @@
+{
+  "word": "relegate",
+  "etymologies": [
+    {
+      "description": [
+        "First attested in 1561, borrowed from Latin relēgātus, the past participle of relēgō (“to dispatch, banish”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "relegate (third-person singular simple present relegates, present participle relegating, simple past and past participle relegated)",
+          "definitionGroups": [
+            {
+              "group": "Exile, banish, remove, or send away.",
+              "entries": [
+                {
+                  "meaning": "(transitive, done to a person) Exile or banish to a particular place.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(reflexive, obsolete, rare) Remove (oneself) to a distance from something or somewhere.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, historical, Ancient Rome, done to a person) Banish from proximity to Rome for a set time; compare relegate.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive, figuratively) Remove or send to a place far away.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(transitive, in extended use) Consign or assign.",
+              "entries": [
+                {
+                  "meaning": "Consign (a person or thing) to a place, position, or role of obscurity, insignificance, oblivion, lower rank or (especially) inferiority.",
+                  "examples": [
+                    "Her bright ideas were relegated to \"tosh\" by her manager."
+                  ]
+                },
+                {
+                  "meaning": "Assign (a thing) to an appropriate place or situation based on appraisal or classification.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(sports, chiefly soccer) Transfer (a sports team) to a lower-ranking league division.",
+                  "examples": [
+                    "Antonym: promote",
+                    "After finishing second-bottom in the table, United were relegated from the division."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive) Refer or submit.",
+              "entries": [
+                {
+                  "meaning": "Refer (a point of contention) to an authority in deference to the judgment thereof.",
+                  "examples": []
+                },
+                {
+                  "meaning": "Submit (something) to someone else for appropriate action thereby; compare delegate.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(now rare) Submit or refer (someone) to someone or something else for some reason or purpose.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "First attested circa 1550: from the Classical Latin relēgātus (“banished person, exile”), the nominative singular masculine substantive form of relēgātus, the past participle of relēgō (“to dispatch, banish”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "relegate (plural relegates)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(history, obsolete) A person who has been banished from proximity to Rome for a set time, but without losing his civil rights.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "First attested circa 1425: from the Classical Latin relēgātus, the perfect passive participle of relēgō (“I dispatch”, “I banish”)."
+      ],
+      "adjectives": [
+        {
+          "description": "relegate (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Relegated; exiled.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
