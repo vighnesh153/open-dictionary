@@ -1,0 +1,123 @@
+{
+  "word": "router",
+  "etymologies": [
+    {
+      "description": [
+        "route +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "router (plural routers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone who routes or directs items from one location to another.",
+                  "examples": [
+                    "The router directed the movement of the company's trucks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) Any device that directs packets of information using the equivalent of Open Systems Interconnection layer 3 (network layer) information. Most commonly used in reference to Internet Protocol routers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) A device that connects local area networks to form a larger internet by, at minimum, selectively passing those datagrams having a destination IP address to the network which is able to deliver them to their destination; a network gateway.",
+                  "examples": [
+                    "The router was configured to forward packets outside a certain range of IP addresses to its internet uplink port."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics, electronic design automation) In integrated circuit or printed circuit board design, an algorithm for adding all wires needed to properly connect all of the placed components while obeying all design rules.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "rout +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "router (plural routers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A power tool used in carpentry for cutting grooves.",
+                  "examples": [
+                    "He made an attractive edge on the table with a router."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A plane made like a spokeshave, for working the inside edges of circular sashes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A plane with a hooked tool protruding far below the sole, for smoothing the bottom of a cavity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "router (third-person singular simple present routers, present participle routering, simple past and past participle routered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "to hollow out or cut using a router power tool.",
+                  "examples": [
+                    "An alternative is shown in which the carcase ends are grooved by routering."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
