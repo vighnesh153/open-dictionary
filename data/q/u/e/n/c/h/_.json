@@ -1,0 +1,114 @@
+{
+  "word": "quench",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English quenchen, from Old English cwenċan, from Proto-Germanic *kwankijaną."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quench (plural quenches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of quenching something; the fact of being quenched.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) The abnormal termination of operation of a superconducting magnet, occurring when part of the superconducting coil enters the normal (resistive) state.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A rapid change of the parameters of a physical system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "quench (third-person singular simple present quenches, present participle quenching, simple past and past participle quenched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To satisfy, especially a literal or figurative thirst.",
+                  "examples": [
+                    "The library quenched her thirst for knowledge."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To extinguish or put out (as a fire or light).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, metallurgy) To cool rapidly by direct contact with liquid coolant, as a blacksmith quenching hot iron.",
+                  "examples": [
+                    "The swordsmith quenched the sword in an oil bath so that it wouldn't shatter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chemistry) To terminate or greatly diminish (a chemical reaction) by destroying or deforming the remaining reagents.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, physics) To rapidly change the parameters of a physical system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, physics) To rapidly terminate the operation of a superconducting electromagnet by causing part or all of the magnet's windings to enter the normal, resistive state.",
+                  "examples": [
+                    "If someone is pinned against the MRI magnet by a ferromagnetic object, you may need to quench the magnet in order to free them."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
