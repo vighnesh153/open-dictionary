@@ -1,0 +1,66 @@
+{
+  "word": "semaphore",
+  "etymologies": [
+    {
+      "description": [
+        "The noun is borrowed from French sémaphore, from Ancient Greek σῆμα (sêma, “mark, sign, token”) (from Proto-Indo-European *dʰyeh₂- (“to notice”)) + French -phore (from Greek -φόρος (-fóros, suffix indicating a bearer or carrier), from φέρω (phérō, “to bear, carry”), ultimately from Proto-Indo-European *bʰer- (“to bear, carry”)).",
+        "The verb is derived from the noun."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "semaphore (countable and uncountable, plural semaphores)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any equipment used for visual signalling by means of flags, lights, or mechanically moving arms, which are used to represent letters of the alphabet, or words.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A visual system for transmitting information using the above equipment; especially, by means of two flags held one in each hand, using an alphabetic and numeric code based on the position of the signaller's arms; flag semaphore.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A bit, token, fragment of code, or some other mechanism which is used to restrict access to a shared function or device to a single process at a time, or to synchronize and coordinate events in different processes.",
+                  "examples": [
+                    "The thread increments the semaphore to prevent other threads from entering the critical section at the same time."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "semaphore (third-person singular simple present semaphores, present participle semaphoring, simple past and past participle semaphored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, figurative) To signal using, or as if using, a semaphore, with the implication that it is done nonverbally.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
