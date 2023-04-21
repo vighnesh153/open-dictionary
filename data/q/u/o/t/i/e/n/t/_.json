@@ -1,0 +1,61 @@
+{
+  "word": "quotient",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin quotiēns, from quotiēs."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quotient (plural quotients)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) The number resulting from the division of one number by another.",
+                  "examples": [
+                    "The quotient of 12 divided by 4 is 3."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic) The integer part of the result of such division.",
+                  "examples": [
+                    "The quotient of 13 divided by 4 is 3, and the remainder is 1."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) By analogy, the result of any process that is the inverse of multiplication as defined for any mathematical entities other than numbers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, rare) A quotum or quota.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
