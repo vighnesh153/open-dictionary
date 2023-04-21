@@ -1,0 +1,47 @@
+{
+  "word": "recompile",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ compile"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "recompile (plural recompiles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An act of recompiling code.",
+                  "examples": [
+                    "Last-minute changes to source files necessitated several recompiles."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "recompile (third-person singular simple present recompiles, present participle recompiling, simple past and past participle recompiled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To compile again.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
