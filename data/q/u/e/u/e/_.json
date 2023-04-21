@@ -1,0 +1,116 @@
+{
+  "word": "queue",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English queue, quew, qwew, couwe, from Anglo-Norman queue, keu and Old French cöe, cue, coe (“tail”), from Vulgar Latin cōda, from Latin cauda. See also Middle French queu, cueue. Doublet of coda."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "queue (plural queues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, less common in North America) A line of people, vehicles or other objects, in which one at the front end is dealt with first, the one behind is dealt with next, and so on, and which newcomers join at the opposite end (the back). [from 19th c.]",
+                  "examples": [
+                    "I was absent-minded at the moment and was last in the queue."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A waiting list or other means of organizing people or objects into a first-come-first-served order.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A data structure in which objects are added to one end, called the tail, and removed from the other, called the head (in the case of a FIFO queue). The term can also refer to a LIFO queue or stack where these ends coincide. [from 20th c.]",
+                  "examples": [
+                    "Queue implementations are commonly based on insertion order as in first-in, first-out (FIFO) queues or last-in, first-out queues (LIFO queues are also known as stacks)."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) An animal's tail. [from 16th c.]",
+                  "examples": [
+                    "HESSE: Az., a lion, queue fourchée, rampt., barry of ten, arg. and gu., crowned, or, and holding in his dexter paw a sword, ppr., hilt and pommel, gold."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now historical) A men's hairstyle with a braid or ponytail at the back of the head, such as that worn by men in Imperial China. [from 18th c.]",
+                  "examples": [
+                    "A large number of loyal officials, rather than shave the front part of the head and wear the Manchu queue, voluntarily shaved the whole head,  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "queue (third-person singular simple present queues, present participle queueing or queuing, simple past and past participle queued)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To put oneself or itself at the end of a waiting line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To arrange themselves into a physical waiting queue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To add to a queue data structure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fasten the hair into a queue.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
