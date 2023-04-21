@@ -1,0 +1,48 @@
+{
+  "word": "vernier",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French vernier. From Pierre Vernier, the inventor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vernier (plural verniers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A secondary scale with finer graduations than the primary scale of a measuring device; the vernier measures between graduations of the larger scale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A secondary control input with finer control than the primary, or coarse, input; for example the vernier frequency tuning knob on a radio.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A secondary system of force application for the attitude control of a spacecraft; for example a vernier thruster.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
