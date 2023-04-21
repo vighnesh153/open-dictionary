@@ -1,0 +1,30 @@
+{
+  "word": "redimension",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ dimension"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "redimension (third-person singular simple present redimensions, present participle redimensioning, simple past and past participle redimensioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To resize (an array or similar data structure) so as to change its dimensionality; to reallocate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
