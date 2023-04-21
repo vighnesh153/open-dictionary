@@ -1,0 +1,132 @@
+{
+  "word": "prior",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin prior, comparative of Old Latin *pri (“before”), from Proto-Indo-European *per- (“beyond”), *pró (“before”). Parallel to English former, as comparative form from same Proto-Indo-European root, whence also fore (thence before)."
+      ],
+      "adjectives": [
+        {
+          "description": "prior (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Advance; previous; coming before.",
+                  "examples": [
+                    "I had no prior knowledge you were coming."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Former, previous.",
+                  "examples": [
+                    "His prior residence was smaller than his current one."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "prior (comparative more prior, superlative most prior)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) Previously.",
+                  "examples": [
+                    "Synonyms: ago, hitherto",
+                    "The doctor had known three months prior."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "prior (plural priors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, law enforcement) A previous arrest or criminal conviction on someone's record. [from 19th c.]",
+                  "examples": [
+                    "‘And a little later we get the routine report on his prints from Washington, and he's got a prior back in Indiana, attempted hold-up six years ago.’"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics, Bayesian inference) A prior probability distribution, one based on information or belief before additional data is collected. [from 20th c.]",
+                  "examples": [
+                    "Coordinate term: posterior"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rationalist community, by extension) A belief supported by previous evidence or experience that one can use to make inferences about the future.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English priour, prior, from Old English prior, Old French prior, and their etymon Latin prior."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prior (plural priors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A high-ranking member of a monastery, usually lower in rank than an abbot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A chief magistrate in Italy.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
