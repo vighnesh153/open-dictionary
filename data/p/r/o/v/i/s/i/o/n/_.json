@@ -1,0 +1,119 @@
+{
+  "word": "provision",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English provisioun, from Old French provisïon, from Latin prōvīsiō (“preparation, foresight”), from prōvidēre (“provide”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "provision (countable and uncountable, plural provisions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An item of goods or supplies, especially food, obtained for future use.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of providing, or making previous preparation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Money set aside for a future event.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(accounting) A liability or contra account to recognise likely future adverse events associated with current transactions.",
+                  "examples": [
+                    "We increased our provision for bad debts on credit sales going into the recession."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) A clause in a legal instrument, a law, etc., providing for a particular matter; stipulation; proviso.",
+                  "examples": [
+                    "Synonyms: condition, stipulation",
+                    "An arrest shall be made in accordance with the provisions of this Act."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Roman Catholicism) Regular induction into a benefice, comprehending nomination, collation, and installation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, historical) A nomination by the pope to a benefice before it became vacant, depriving the patron of his right of presentation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "provision (third-person singular simple present provisions, present participle provisioning, simple past and past participle provisioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To supply with provisions.",
+                  "examples": [
+                    "to provision an army"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To supply (a user) with an account, resources, etc. so that they can use a system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
