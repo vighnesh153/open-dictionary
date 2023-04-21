@@ -1,0 +1,74 @@
+{
+  "word": "predictive",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin praedictivus, from praedico. Equivalent to predict +‎ -ive."
+      ],
+      "adjectives": [
+        {
+          "description": "predictive (comparative more predictive, superlative most predictive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Useful in predicting.",
+                  "examples": [
+                    "The amount of rain in April is predictive of the number of mosquitoes in May."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Describing a predictor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) Expressing the expected accuracy of a statistical measure or of a diagnostic test.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "predictive (plural predictives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A conditional statement that includes a prediction in the dependent clause (e.g. \"if it rains, the game will be cancelled\", \"give her an inch and she'll take a mile.\").",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Simulated data generated from a statistical model, based on the estimates for the real data.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
