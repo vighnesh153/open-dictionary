@@ -1,0 +1,54 @@
+{
+  "word": "sortable",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Middle French sortable; equivalent to sort +‎ -able."
+      ],
+      "adjectives": [
+        {
+          "description": "sortable (comparative more sortable, superlative most sortable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That can be sorted. [from 20th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Suitable; proper, appropriate. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sortable (plural sortables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) A component that allows a sequence of items to be reordered via drag and drop.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

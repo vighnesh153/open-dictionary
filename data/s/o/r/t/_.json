@@ -1,0 +1,266 @@
+{
+  "word": "sort",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English sort, soort, sorte (= Dutch soort, German Sorte, Danish sort, Swedish sort), borrowed from Old French sorte (“class, kind”), from Latin sortem, accusative form of sors (“lot, fate, share, rank, category”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sort (plural sorts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A general type.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Manner; form of being or acting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Condition above the vulgar; rank.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A person evaluated in a certain way (bad, good, strange, etc.).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) Group, company.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, informal) A good-looking woman.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of sorting.",
+                  "examples": [
+                    "I had a sort of my cupboard."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An algorithm for sorting a list of items into a particular sequence.",
+                  "examples": [
+                    "Popular algorithms for sorts include quicksort and heapsort."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) A piece of metal type used to print one letter, character, or symbol in a particular size and style.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A type.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Chance; lot; destiny.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A full set of anything, such as a pair of shoes, or a suit of clothes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English sorten, borrowed from Old French sortir (“allot, sort”), from Latin sortire (“draw lots, divide, choose”), from sors."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sort (third-person singular simple present sorts, present participle sorting, simple past and past participle sorted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To separate items into different categories according to certain criteria that determine their sorts.",
+                  "examples": [
+                    "Synonyms: categorize, class, classify, group",
+                    "Sort the letters in those bags into a separate pile for each language."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To arrange into some sequence, usually numerically, alphabetically or chronologically.",
+                  "examples": [
+                    "Synonyms: order, rank",
+                    "Sort those bells into a row in ascending sequence of pitch."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To conjoin; to put together in distribution; to class.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To conform; to adapt; to accommodate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To choose from a number; to select; to cull.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To join or associate with others, especially with others of the same kind or species; to agree.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To suit; to fit; to be in accord; to harmonize.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, colloquial, transitive) To fix (a problem) or handle (a task).",
+                  "examples": [
+                    "Synonym: sort out"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Britain, colloquial, transitive) To attack physically.",
+                  "examples": [
+                    "Synonym: sort out",
+                    "If he comes nosing around here again I'll sort him!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To geld.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
