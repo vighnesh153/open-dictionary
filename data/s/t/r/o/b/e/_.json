@@ -1,0 +1,56 @@
+{
+  "word": "strobe",
+  "etymologies": [
+    {
+      "description": [
+        "Shortening of stroboscope."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "strobe (plural strobes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A stroboscopic lamp: a device used to produce regular flashes of light.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An electronic signal in hardware indicating that a value is ready to be read.",
+                  "examples": [
+                    "a memory strobe; a data strobe"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "strobe (third-person singular simple present strobes, present participle strobing, simple past and past participle strobed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To flash like a stroboscopic lamp.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
