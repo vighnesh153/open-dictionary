@@ -1,0 +1,39 @@
+{
+  "word": "probit",
+  "etymologies": [
+    {
+      "description": [
+        "Blend of probability +‎ unit. Coined by Chester Ittner Bliss in 1934: “These arbitrary probability units have been termed ‘probits’…”"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "probit (plural probits)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) A unit, derived from a standard distribution, used in measuring the responses to doses",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The probit function, the inverse of the cumulative distribution function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
