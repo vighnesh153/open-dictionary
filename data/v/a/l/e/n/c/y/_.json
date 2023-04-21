@@ -1,0 +1,68 @@
+{
+  "word": "valency",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin valentia and Latin valentia (“bodily strength; health; vigour”) + English -y (suffix forming abstract nouns denoting a condition, quality, or state). Valentia is derived from valēns (“healthy, strong, vigorous”) + -ia (suffix forming feminine abstract nouns); while valēns is the present active participle of valeō (“to be healthy, sound, or well; to be strong; to have influence or power, etc.”), ultimately from Proto-Indo-European *h₂welh₁- (“to rule; powerful, strong”).",
+        "Sense 1 (“combining capacity of an atom”) and sense 3 (“number of arguments a verb can have”) are possibly from valence +‎ -y."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "valency (countable and uncountable, plural valencies) (chiefly, Britain)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "(countable, chemistry) Alternative form of valence (“the combining capacity of an atom, functional group, or radical determined by the number of atoms of hydrogen with which it will unite, or the number of electrons that it will gain, lose, or share when it combines with other atoms, etc.”)",
+              "entries": [
+                {
+                  "meaning": "(uncountable, by extension) The capacity of something to combine with other things.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, graph theory) The number of edges connected to a vertex in a graph.",
+                  "examples": [
+                    "Synonym: degree"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, linguistics) Alternative form of valence (“the number of arguments that a verb can have, including its subject, ranging from zero to three or, less commonly, four”)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Importance, significance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

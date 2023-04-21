@@ -1,0 +1,102 @@
+{
+  "word": "valence",
+  "etymologies": [
+    {
+      "description": [
+        "Sense 1.1 (“combining capacity of an atom”) and sense 3 (“one-dimensional value assigned by a person to an object, situation, or state”) are borrowed from German Valenz + English -ence (suffix meaning ‘having the condition or state of’). Valenz is a clipping of Quantivalenz (“(archaic) valence in chemistry”), from English quantivalence, from Latin quantus (“how much”) + English -i- (interfix inserted between morphemes of Latin origin for ease of pronunciation) + Latin valentia (“bodily strength; health; vigour”) (whence Late Middle English valence (“medicinal preparation made from plants”); ultimately from Proto-Indo-European *h₂welh₁- (“to rule; powerful, strong”)). Quantivalence was coined by F. O. Ward who communicated it to the German chemist August Wilhelm von Hofmann (1818–1892), leading him to coin the German word Quantivalenz.",
+        "Sense 2 (“number of arguments a verb can have”) was formed by analogy to the use of the word in chemistry: see above."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "valence (countable and uncountable, plural valences)",
+          "definitionGroups": [
+            {
+              "group": "(countable, chemistry)",
+              "entries": [
+                {
+                  "meaning": "The combining capacity of an atom, functional group, or radical determined by the number of atoms of hydrogen with which it will unite, or the number of electrons that it will gain, lose, or share when it combines with other atoms, etc. [from 1884]",
+                  "examples": [
+                    "Synonyms: (historical) atomicity, (historical) quantivalence, (historical) quantivalency, valency"
+                  ]
+                },
+                {
+                  "meaning": "The number of binding sites of a molecule, such as an antibody or antigen.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, linguistics) The number of arguments that a verb can have, including its subject, ranging from zero to three or, less commonly, four.",
+                  "examples": [
+                    "Synonym: valency",
+                    "In this assignment you will analyze each of the following sentences and determine the valence of the highlighted verb."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, especially psychology) A one-dimensional value assigned by a person to an object, situation, or state, that can usually be positive (causing a feeling of attraction) or negative (repulsion). [from early 20th c.]",
+                  "examples": [
+                    "anger and fear have negative valence"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, sociology) The value which a person places on something.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "A variant of valance."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "valence (plural valences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative spelling of valance",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
