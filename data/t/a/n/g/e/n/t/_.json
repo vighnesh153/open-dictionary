@@ -1,0 +1,106 @@
+{
+  "word": "tangent",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin tangentem, the accusative of tangēns (“touching”) (in the phrase līnea tangēns (“a touching line”)), the present participle of the verb tangō (“touch”, verb), from Proto-Italic *tangō, from Proto-Indo-European *teh₂g- (“to touch”).",
+        "Cognate with Old English þaccian (“to touch lightly, pat, stroke”). More at thack, thwack."
+      ],
+      "adjectives": [
+        {
+          "description": "tangent (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Touching a curve at a single point but not crossing it at that point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of a topic, only loosely related to a main topic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport, of track) Straight; not horizontally curved.",
+                  "examples": [
+                    "The collision occurred on a two-mile stretch of tangent track."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tangent (plural tangents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(differential geometry) A straight line touching a curve at a single point without crossing it there.",
+                  "examples": [
+                    "Synonym: tangent line"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function of an angle that gives the ratio of the sine to the cosine, in either the real or complex numbers. Symbols: tan, tg.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A topic nearly unrelated to the main topic, but having a point in common with it.",
+                  "examples": [
+                    "I believe we went off onto a tangent when we started talking about monkeys on unicycles at his retirement party."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(art) A visual interaction between two or more lines or edges that creates a perceived relationship between them, often in a way that the artist did not intend.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A small metal blade in a clavichord that strikes the strings to produce sound.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
