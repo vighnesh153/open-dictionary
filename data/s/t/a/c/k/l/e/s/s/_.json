@@ -1,0 +1,32 @@
+{
+  "word": "stackless",
+  "etymologies": [
+    {
+      "description": [
+        "stack +‎ -less"
+      ],
+      "adjectives": [
+        {
+          "description": "stackless (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Without the use of a stack (last-in-first-out data structure).",
+                  "examples": [
+                    "Antonym: stackful"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

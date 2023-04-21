@@ -1,0 +1,49 @@
+{
+  "word": "stackful",
+  "etymologies": [
+    {
+      "description": [
+        "stack +‎ -ful"
+      ],
+      "adjectives": [
+        {
+          "description": "stackful (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Using a stack (last-in-first-out data structure).",
+                  "examples": [
+                    "Antonym: stackless"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stackful (plural stackfuls)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Enough to fill or form a stack.",
+                  "examples": [
+                    "stackfuls of money"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
