@@ -1,0 +1,32 @@
+{
+  "word": "surjection",
+  "etymologies": [
+    {
+      "description": [
+        "From French surjection, introduced by Nicolas Bourbaki in their treatise Éléments de mathématique.\nUltimately borrowed from Latin superiectiō (“a throwing over or on; (fig.) an exaggeration, a hyperbole”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "surjection (plural surjections)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) A function for which every element of the codomain is mapped to by some element of the domain; (formally) Any function \n  \n    \n      \n        f\n        :\n        X\n        →\n        Y\n      \n    \n    {\\displaystyle f:X\\rightarrow Y}\n  \n for which for every \n  \n    \n      \n        y\n        ∈\n        Y\n      \n    \n    {\\displaystyle y\\in Y}\n  \n, there is at least one \n  \n    \n      \n        x\n        ∈\n        X\n      \n    \n    {\\displaystyle x\\in X}\n  \n such that \n  \n    \n      \n        f\n        (\n        x\n        )\n        =\n        y\n      \n    \n    {\\displaystyle f(x)=y}\n  \n.",
+                  "examples": [
+                    "In some special cases, however, the number of surjections \n  \n    \n      \n        A\n        →\n        B\n      \n    \n    {\\displaystyle A\\rightarrow B}\n  \n can be identified."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

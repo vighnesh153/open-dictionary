@@ -1,0 +1,31 @@
+{
+  "word": "surjective",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "surjective (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) of, relating to, or being a surjection",
+                  "examples": [
+                    "A function \n  \n    \n      \n        \n          f\n        \n      \n    \n    {\\displaystyle \\textstyle f}\n  \n is surjective (or onto) provided \n  \n    \n      \n        \n          f\n          (\n          A\n          )\n          =\n          B\n        \n      \n    \n    {\\displaystyle \\textstyle f(A)=B}\n  \n; in other words,\nfor each \n  \n    \n      \n        \n          b\n          ∈\n          B\n          ,\n          b\n          =\n          f\n          (\n          a\n          )\n        \n      \n    \n    {\\displaystyle \\textstyle b\\in B,b=f(a)}\n  \n for some \n  \n    \n      \n        \n          a\n          ∈\n          A\n        \n      \n    \n    {\\displaystyle \\textstyle a\\in A}\n  \n.",
+                    "A function \n  \n    \n      \n        \n          f\n        \n      \n    \n    {\\displaystyle \\textstyle f}\n  \n is said to be bijective (or a bijection or a one-to-one correspondence) if it is both injective and surjective."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
