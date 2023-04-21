@@ -1,0 +1,82 @@
+{
+  "word": "unpack",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English unpakken, equivalent to un- +‎ pack. Compare Saterland Frisian uutpakje (“to unpack”), West Frisian útpakke (“to unpack”), Dutch uitpakken (“to unpack”), German auspacken (“to unpack”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unpack (third-person singular simple present unpacks, present participle unpacking, simple past and past participle unpacked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove from a package or container, particularly with respect to items that had previously been arranged closely and securely in a pack.",
+                  "examples": [
+                    "They didn't have time to unpack their bags before going out to dinner."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To empty containers that had been packed.",
+                  "examples": [
+                    "They didn't have time to unpack before going to dinner."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, transitive) To analyze a concept or a text; to explain.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, of a segment such as a vowel) To undergo separation of its features into distinct segments.",
+                  "examples": [
+                    "The rounded vowels [y] and [œ/ə] in Russian seem to unpack as glide-vowel sequences in words borrowed from French and German,  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To unzip, decompress.",
+                  "examples": [
+                    "Packages  […]  are often archived and compressed using the zip utility; you can unpack these with the unzip command […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
