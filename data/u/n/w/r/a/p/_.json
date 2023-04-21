@@ -1,0 +1,50 @@
+{
+  "word": "unwrap",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English unwrappen, equivalent to un- +‎ wrap."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unwrap (third-person singular simple present unwraps, present participle unwrapping, simple past and past participle unwrapped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To open or undo, as what is wrapped or folded.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become unwrapped.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To remove word wrap from.",
+                  "examples": [
+                    "Use the SHIFT key to unwrap text."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
