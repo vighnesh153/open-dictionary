@@ -1,0 +1,41 @@
+{
+  "word": "unhide",
+  "etymologies": [
+    {
+      "description": [
+        "From un- +‎ hide."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unhide (third-person singular simple present unhides, present participle unhiding, simple past unhid, past participle unhidden)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, graphical user interface) To undo a hide action.",
+                  "examples": [
+                    "How do I unhide the editing toolbar? I need to use those commands again."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reveal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
