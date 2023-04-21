@@ -1,0 +1,138 @@
+{
+  "word": "static",
+  "etymologies": [
+    {
+      "description": [
+        "Modern Latin staticus, from Ancient Greek στατικός (statikós), from ἵστημι (hístēmi, “to make stand”); surface analysis, stasis +‎ -tic."
+      ],
+      "adjectives": [
+        {
+          "description": "static (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Unchanging; that cannot or does not change.",
+                  "examples": [
+                    "Synonym: stable",
+                    "Antonym: dynamic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Making no progress; stalled, without movement or advancement.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Immobile; fixed in place; having no motion.",
+                  "examples": [
+                    "Synonyms: stable, still",
+                    "Antonyms: dynamic, kinetic, mobile, moving"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Computed, created, or allocated before the program starts running, as opposed to at runtime.",
+                  "examples": [
+                    "Antonyms: dynamic, nonstatic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) Defined for the class itself, as opposed to instances of it; thus shared between all instances and accessible even without an instance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "static (countable and uncountable, plural statics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Interference on a broadcast signal caused by atmospheric disturbances; heard as crackles on radio, or seen as random specks on television.",
+                  "examples": [
+                    "The FCC says it decided to attempt standardization of VHF receivers after getting \"thousands of complaints\" from disgruntled boatmen who found their sets brought in mostly a lot of garble and static."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative, by extension, uncountable) Interference or obstruction from people.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Static electricity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A static caravan.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, slang, US) Verbal abuse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, programming) A static variable.",
+                  "examples": [
+                    "Some compilers will allow statics to be inlined, but then incorrectly create multiple instances of the inlined variable at run-time."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
