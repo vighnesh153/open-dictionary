@@ -1,0 +1,39 @@
+{
+  "word": "thermostat",
+  "etymologies": [
+    {
+      "description": [
+        "From thermo- +‎ -stat."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "thermostat (plural thermostats)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device that automatically responds to changes in temperature by activating a heating or cooling system to maintain the temperature at a desired setting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) An algorithm used to maintain a simulated system at a set temperature by absorbing or releasing heat",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
