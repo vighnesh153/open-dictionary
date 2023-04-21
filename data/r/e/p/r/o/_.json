@@ -1,0 +1,78 @@
+{
+  "word": "repro",
+  "etymologies": [
+    {
+      "description": [
+        "Shortening."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "repro (countable and uncountable, plural repros)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Clipping of reproduction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Clipping of reprography.",
+                  "examples": [
+                    "There has also been a shift in the places where repro is carried out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing) The proof prepared in offset printing, with all elements positioned on the page.",
+                  "examples": [
+                    "This reproduction proof, commonly called the repro, is sent to the designer for pasting on to the mechanical."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, computing) A method for reproducing a bug or problem.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "repro (third-person singular simple present repros, present participle reproing, simple past and past participle reproed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, computing) To reproduce (a bug or problem).",
+                  "examples": [
+                    "We cannot repro the bug in the latest version, so we are marking it as fixed."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
