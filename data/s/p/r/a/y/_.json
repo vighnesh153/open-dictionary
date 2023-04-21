@@ -1,0 +1,261 @@
+{
+  "word": "spray",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle Dutch sprāien, sprayen, spraeyen (“to spray, sprinkle, spread”), ultimately from Proto-Germanic *sprēwijaną (“to spray, sprinkle”), from Proto-Indo-European *sper- (“to sow, scatter”). Cognate with Middle High German spræjen, spræwen (“to squirt, spray, dust, splash, straw”), Danish dialectal språe (“to open up, burst forth”), Swedish dialectal språ (“to sprout, shoot forth, burst”), Norwegian dialectal spra, spræ (“to splash, splatter, spout, burst forth”), Dutch sproeien (“to spray, sprinkle”), German sprühen (“to spray, sparkle”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spray (countable and uncountable, plural sprays)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A fine, gentle, dispersed mist of liquid.",
+                  "examples": [
+                    "The sailor could feel the spray from the waves."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) Something resembling a spray of liquid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A pressurized container; an atomizer.",
+                  "examples": [
+                    "Synonym: spray can"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Any of numerous commercial products, including paints, cosmetics, and insecticides, that are dispensed from containers in this manner.",
+                  "examples": [
+                    "Synonym: spray can"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine, countable) A jet of fine medicated vapour, used either as an application to a diseased part or to charge the air of a room with a disinfectant or a deodorizer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(metalworking, countable) A side channel or branch of the runner of a flask, made to distribute the metal to all parts of the mold.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(metalworking, countable) A group of castings made in the same mold and connected by sprues formed in the runner and its branches.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, countable) The allocation and filling of blocks of memory with the same byte sequence, hoping to establish that sequence in a certain predetermined location as part of an exploit.",
+                  "examples": [
+                    "This approach would be altered for an optimal omelette based exploit. One would spray the heap with the omelette code solely, then load a single copy of the additional shellcode eggs into memory outside the target region for the spray."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia) A loud scolding or reprimand, usually delivered by a sports coach or similar figure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "spray (third-person singular simple present sprays, present participle spraying, simple past and past participle sprayed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To project a liquid in a dispersive manner toward something.",
+                  "examples": [
+                    "The firemen sprayed the house.",
+                    "Using a water cannon, the national guard sprayed the protesters."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ergative) To project in a dispersive manner.",
+                  "examples": [
+                    "Spray some ointment on that scratch.",
+                    "The water sprayed out of the hose."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figurative) To project many small items dispersively.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, zoology) To urinate in order to mark territory.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, computer security) To allocate blocks of memory from (a heap, etc.), and fill them with the same byte sequence, hoping to establish that sequence in a certain predetermined location as part of an exploit.",
+                  "examples": [
+                    "to spray the heap of a target process"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, soccer) To pass (a ball), usually laterally across the field and often a long distance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Australian rules football) To kick (a ball) poorly and in an unintended direction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(climbing, slang, derogatory) To give unwanted advice.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English spray, from Old English *spræġ, sprei (found in place names such as that of Spreyton, England), of unknown origin."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spray (countable and uncountable, plural sprays)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A small branch of flowers or berries.",
+                  "examples": [
+                    "The bridesmaid carried a spray of lily-of-the-valley."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A collective body of small branches.",
+                  "examples": [
+                    "The tree has a beautiful spray."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Branches and twigs collectively; foliage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, obsolete) An orchard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An ornament or design that resembles a branch.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
