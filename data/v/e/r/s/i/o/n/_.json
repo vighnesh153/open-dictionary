@@ -1,0 +1,125 @@
+{
+  "word": "version",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French version, from Medieval Latin versiō, from Latin vertō (“I turn”). Used in English since 16th century."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "version (countable and uncountable, plural versions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A specific form or variation of something.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A translation from one language to another.",
+                  "examples": [
+                    "It's only in the King James Version of the Bible."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(education, archaic) A school exercise, generally of composition in a foreign language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The act of translating, or rendering, from one language into another language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An account or description from a particular point of view, especially as contrasted with another account.",
+                  "examples": [
+                    "He gave another version of the affair."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A particular revision (of software, firmware, CPU, etc.).",
+                  "examples": [
+                    "Upgrade to the latest version for new features and bug fixes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) A condition of the uterus in which its axis is deflected from its normal position without being bent upon itself. See anteversion and retroversion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ophthalmology) An eye movement involving both eyes moving synchronously and symmetrically in the same direction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete or medicine) A change of form, direction, etc.; transformation; conversion.",
+                  "examples": [
+                    "External cephalic version is a process by which a breech baby can sometimes be turned from buttocks or foot first to head first."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "version (third-person singular simple present versions, present participle versioning, simple past and past participle versioned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To keep track of (a file, document, etc.) in a versioning system.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
