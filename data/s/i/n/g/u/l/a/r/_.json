@@ -1,0 +1,157 @@
+{
+  "word": "singular",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English singuler, borrowed from Old French, from Latin singulāris (“alone of its kind”), from Latin singulus (“single”)."
+      ],
+      "adjectives": [
+        {
+          "description": "singular (comparative more singular, superlative most singular)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being only one of a larger population.",
+                  "examples": [
+                    "A singular experiment cannot be regarded as scientific proof of the existence of a phenomenon.",
+                    "Synonyms: individual; see also Thesaurus:specific",
+                    "Antonyms: general; see also Thesaurus:generic"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being the only one of the kind; unique.",
+                  "examples": [
+                    "She has a singular personality.",
+                    "Synonyms: unique; see also Thesaurus:unique"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Distinguished by superiority: peerless, unmatched, eminent, exceptional, extraordinary.",
+                  "examples": [
+                    "a man of singular gravity or attainments",
+                    "Synonyms: exceptional, extraordinary, remarkable"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Out of the ordinary; curious.",
+                  "examples": [
+                    "It was very singular; I don't know why he did it.",
+                    "Synonyms: curious, eccentric, funny, odd, peculiar, rum, rummy, strange, unusual; see also Thesaurus:strange"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Referring to only one thing or person.",
+                  "examples": [
+                    "Antonym: plural"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra, of matrix) Having no inverse.",
+                  "examples": [
+                    "Synonym: non-invertible",
+                    "Antonyms: invertible, non-singular"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra, of transformation) Having the property that the matrix of coefficients of the new variables has a determinant equal to zero.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory, of a cardinal number) Not equal to its own cofinality.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) Each; individual.",
+                  "examples": [
+                    "to convey several parcels of land, all and singular"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Engaged in by only one on a side; single.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "singular (plural singulars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A form of a word that refers to only one person or thing.",
+                  "examples": [
+                    "Antonym: plural"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) That which is not general; a specific determinate instance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
