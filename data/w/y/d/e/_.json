@@ -1,0 +1,55 @@
+{
+  "word": "wyde",
+  "etymologies": [
+    {
+      "description": [
+        "From wide, respelled analogously to byte from bite."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "wyde (plural wydes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Two-byte unsigned data, mainly used for a Unicode character.",
+                  "examples": [
+                    "We would then take a surrogate pair consisting of two wydes: the first from the high area, the second from the low area."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "wyde (comparative wyder, superlative wydest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obsolete spelling of wide",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
