@@ -1,0 +1,48 @@
+{
+  "word": "trigram",
+  "etymologies": [
+    {
+      "description": [
+        "tri- +‎ -gram; literally, three marks"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trigram (plural trigrams)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of the eight combinations of three complete or broken lines forming half of a hexagram in Chinese system of divination I Ching.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A trigraph.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) a special case of the n-gram where n is 3, used in natural language processing for doing statistical analysis of texts",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
