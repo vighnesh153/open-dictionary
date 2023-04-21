@@ -1,0 +1,50 @@
+{
+  "word": "quantify",
+  "etymologies": [
+    {
+      "description": [
+        "From Medieval Latin quantificare (introduced by Sir William Hamilton in logic)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "quantify (third-person singular simple present quantifies, present participle quantifying, simple past and past participle quantified)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To assign a quantity to.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To determine the value of (a variable or expression).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) To relate a statement (called a predicate) to a given set using a quantifier—either for all (denoted ∀) or there exists (denoted ∃).",
+                  "examples": [
+                    "The statement \n  \n    \n      \n        (\n        ∀\n        x\n        ∈\n        \n          R\n        \n        )\n        \n        2\n        x\n        =\n        x\n        +\n        x\n      \n    \n    {\\displaystyle (\\forall x\\in \\mathbb {R} )\\,2x=x+x}\n  \n quantifies over the real numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

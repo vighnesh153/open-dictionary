@@ -1,0 +1,32 @@
+{
+  "word": "quantic",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin quantus (“how much”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quantic (plural quantics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A homogeneous polynomial in two or more variables.",
+                  "examples": [
+                    "When the two quantics are the first derived functions of the same quantic of any odd order, the lineo-linear invariant does not vanish, but it is not an invariant of the single quantic."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
