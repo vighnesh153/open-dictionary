@@ -1,0 +1,43 @@
+{
+  "word": "unverity",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ verity"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unverity (countable and uncountable, plural unverities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Untruth; falsehood.",
+                  "examples": [
+                    "[…]  that some of the unverities in “Lavengro” and “The Romany Rye” are “probably due to forgetfulness,” the rest to “love of posing, but much more to an honest desire to produce an amusing and interesting book.”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A value equal to 1 minus the truth value of a statement.",
+                  "examples": [
+                    "All and only classically valid arguments are those which preserve verity in the following sense: there is no assignment of verities such that the unverity of the conclusion exceeds the sum of the unverities of the premises."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
