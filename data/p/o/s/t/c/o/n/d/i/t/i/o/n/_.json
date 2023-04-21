@@ -1,0 +1,30 @@
+{
+  "word": "postcondition",
+  "etymologies": [
+    {
+      "description": [
+        "post- +‎ condition"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "postcondition (plural postconditions)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A condition that must be met immediately after execution of some piece of code.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
