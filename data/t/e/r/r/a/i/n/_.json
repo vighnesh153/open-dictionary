@@ -1,0 +1,54 @@
+{
+  "word": "terrain",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from French terrain, from Latin terrenum (“land, ground”), neuter of terrenus (“consisting of earth”), from terra (“earth”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "terrain (countable and uncountable, plural terrains)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) A single, distinctive rock formation; an area having a preponderance of a particular rock or group of rocks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An area of land or the particular features of it.",
+                  "examples": [
+                    "The race will be run over a variety of terrain, including grass and sand."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly aviation) The surface of the earth; the ground.",
+                  "examples": [
+                    "This approach requires the aircraft to stay at an altitude of at least 3000 feet MSL until crossing the VOR in order to maintain terrain clearance.",
+                    "controlled flight into terrain",
+                    "TOO LOW, TERRAIN"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
