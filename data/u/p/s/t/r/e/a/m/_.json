@@ -1,0 +1,128 @@
+{
+  "word": "upstream",
+  "etymologies": [
+    {
+      "description": [
+        "up- +‎ stream"
+      ],
+      "adjectives": [
+        {
+          "description": "upstream (comparative farther or further upstream, superlative farthest or furthest upstream)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a direction against the flow of a current or stream of fluid (typically water); upriver.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": "(metaphoric) Occurring earlier than something else; (also, usually, especially) being an influence on something else; causing a consequence for something else.",
+              "entries": [
+                {
+                  "meaning": "(oil industry) Involving exploration and pre-production rather than refining and selling.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computer networking) In the direction from the client to the server.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(open-source software) Maintained, owned, or associated with the original developers of the given software; in contrast to a modified version downstream.",
+                  "examples": [
+                    "You can also check the upstream and/or Debian bug trackers for open and closed bugs and the upstream revision history or newer release(s)."
+                  ]
+                },
+                {
+                  "meaning": "(biology) Towards the leading end (5′ end) of a DNA molecule.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "upstream (comparative more upstream, superlative most upstream)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Against the current.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "upstream (plural upstreams)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Part of the river towards the upstream direction.",
+                  "examples": [
+                    "The total depth of water at the upstream was measured by using a pointer attached to a carriage sitting on the water table walls."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(open-source software) The original developers or maintainers of software.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "upstream (third-person singular simple present upstreams, present participle upstreaming, simple past and past participle upstreamed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To stream upward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, open-source software) To have (a software library, patch, etc.) accepted by the original developers of the related software, so that they maintain and distribute it.",
+                  "examples": [
+                    "I'd be more than happy to upstream your patch."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
