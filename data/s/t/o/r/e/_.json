@@ -1,0 +1,131 @@
+{
+  "word": "store",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English store, stoure, storre, from Anglo-Norman stor, estore, estorr, estoer, and Old French estour, estor, from Latin īnstaurō."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "store (plural stores)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A place where items may be accumulated or routinely kept.",
+                  "examples": [
+                    "This building used to be a store for old tires."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A supply held in storage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mainly North American) A place where items may be purchased; a shop.",
+                  "examples": [
+                    "I need to get some milk from the grocery store."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, dated) Memory.",
+                  "examples": [
+                    "The main store of 1000 36-bit words seemed large at the time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A great quantity or number; abundance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A head of store cattle (feeder cattle to be sold to others for finishing); a store cattle beast.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "store (third-person singular simple present stores, present participle storing, simple past and past participle stored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To keep (something) while not in use, generally in a place meant for that purpose.",
+                  "examples": [
+                    "I'll store these books in the attic."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Contain.",
+                  "examples": [
+                    "The cabinets store all the food the mice would like."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Have the capacity and capability to contain.",
+                  "examples": [
+                    "They sell boxes that store 24 mason jars."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To write (something) into memory or registers.",
+                  "examples": [
+                    "This operation stores the result on the stack."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
