@@ -1,0 +1,107 @@
+{
+  "word": "regress",
+  "etymologies": [
+    {
+      "description": [
+        "(verb) From Latin regressus, past participle of regredior (“to go back”), from re- (“back”) + gradior (“to go”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "regress (countable and uncountable, plural regresses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of passing back; passage back; return; retrogression.",
+                  "examples": [
+                    "Its bearing on the progress or regress of man is not an inconsiderable question."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The power or liberty of passing back.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In property law, the right of a person (such as a lessee) to return to a property.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "regress (third-person singular simple present regresses, present participle regressing, simple past and past participle regressed)",
+          "definitionGroups": [
+            {
+              "group": "(intransitive) To move backwards to an earlier stage; to devolve.",
+              "entries": [
+                {
+                  "meaning": "(psychology) To re-develop behavior one had previously grown out of, particularly a behavior left behind in childhood.",
+                  "examples": [
+                    "Your nightmares stopped when you were eight years old, but after the house burned down, you regressed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, astronomy) To move from east to west.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, medicine) To reduce in severity or size (as of a tumor), without reaching total remission.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, statistics) To perform a regression on an explanatory variable.",
+                  "examples": [
+                    "When we regress Y on X, we use the values of variable X to predict those of Y."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To interrogate a person in a state of trance about forgotten elements of their past.",
+                  "examples": [
+                    "They regressed me, putting me under hypnosis. Then, through the hypnosis, they found out that our car was abducted right off the road and into a craft."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
