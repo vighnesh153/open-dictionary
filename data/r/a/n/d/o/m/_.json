@@ -1,0 +1,188 @@
+{
+  "word": "random",
+  "etymologies": [
+    {
+      "description": [
+        "From earlier randon, from Middle English randoun, raundon, from Old French randon, from randir (“to run, gallop”) (whence French randonnée (“long walk, hike”)), from Frankish *randiju (“a run, race”) or Old Norse rend (“a run, race”), both from Proto-Germanic *randijō, from *rinnaną (“run”, verb), from Proto-Indo-European *(H)r̥-nw- (“to flow, move, run”). Cognate with Middle Low German uprinden (“to jump up”), Danish rende (“to run”). See run."
+      ],
+      "adjectives": [
+        {
+          "description": "random (comparative more random, superlative most random)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having unpredictable outcomes and, in the ideal case, all outcomes equally probable; resulting from such selection; lacking statistical correlation.",
+                  "examples": [
+                    "Synonyms: aleatory, stochastic",
+                    "The flip of a fair coin is purely random.",
+                    "The newspaper conducted a random sample of five hundred American teenagers.",
+                    "The results of the field survey look random by several different measures."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of or relating to probability distribution.",
+                  "examples": [
+                    "Synonym: stochastic",
+                    "A toss of loaded dice is still random, though biased."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Pseudorandom; mimicking the result of random selection.",
+                  "examples": [
+                    "Synonym: pseudorandom",
+                    "The rand function generates a random number from a seed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(somewhat colloquial) Representative and undistinguished; typical and average; selected for no particular reason.",
+                  "examples": [
+                    "Synonyms: average, typical",
+                    "A random American off the street couldn't tell the difference."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(somewhat colloquial) Apropos of nothing; lacking context; unexpected; having apparent lack of plan, cause, or reason.",
+                  "examples": [
+                    "Synonyms: arbitrary, unexpected, unplanned",
+                    "That was a completely random comment.",
+                    "The teacher's bartending story was interesting, but random.",
+                    "The narrative takes a random course."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(colloquial) Characterized by or often saying random things; habitually using non sequiturs.",
+                  "examples": [
+                    "You're so random!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, slang) Being out of the ordinary; unusual or unexpected.",
+                  "examples": [
+                    "That's a rather random fact!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "random (countable and uncountable, plural randoms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A roving motion; course without definite direction; lack of rule or method; chance.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Speed, full speed; impetuosity, force. [14th–17th c.]",
+                  "examples": [
+                    "Synonyms: force, momentum, speed, velocity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The full range of a bullet or other projectile; hence, the angle at which a weapon is tilted to allow the greatest range. [16th–19th c.]",
+                  "examples": [
+                    "Fortie yards will they shoot levell, or very neare the marke, and 120 is their best at Random."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively, colloquial) An undefined, unknown or unimportant person; a person of no consequence. [from 20th c.]",
+                  "examples": [
+                    "Synonyms: rando, nobody, nonentity",
+                    "The party was boring. It was full of randoms."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) The direction of a rake-vein.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing, historical) A frame for composing type.",
+                  "examples": [
+                    "Utilization of all floor space underneath case racks and randoms is another feature of the modern composing room;  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
