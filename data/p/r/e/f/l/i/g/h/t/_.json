@@ -1,0 +1,71 @@
+{
+  "word": "preflight",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ flight"
+      ],
+      "adjectives": [
+        {
+          "description": "preflight (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Taking place before the start of a flight.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Serving to confirm that requests can be accepted, before sending an actual request.",
+                  "examples": [
+                    "a CORS preflight request"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "preflight (plural preflights)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An inspection of an aircraft before the start of a flight.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "preflight (third-person singular simple present preflights, present participle preflighting, simple past and past participle preflighted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To perform an inspection of an aircraft before the start of a flight.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
