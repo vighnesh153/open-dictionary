@@ -1,0 +1,69 @@
+{
+  "word": "vendor",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Anglo-Norman vendor (Old French vendeor), from Latin venditor (“seller”), from vendere (“to sell, cry up for sale, praise”), contraction of venundare, venumdare, also, as originally, two words venum dare (“to sell”), from venum (“sale, price”) + dare (“to give”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vendor (plural vendors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person or a company that vends or sells.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A vending machine.",
+                  "examples": [
+                    "She left her duties guarding the cola vendor and brushed past Earl to the aisle with the creamed corn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "vendor (third-person singular simple present vendors, present participle vendoring, simple past and past participle vendored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, software engineering) To bundle third-party dependencies with the source code for one's own program.",
+                  "examples": [
+                    "I distributed my application with a vendored copy of Perl so that it wouldn't use the system copies of Perl where it is installed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, software engineering) As the software vendor, to bundle one's own, possibly modified version of dependencies with a standard program.",
+                  "examples": [
+                    "Strawberry Perl contains vendored copies of some CPAN modules, designed to allow them to run on Windows."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
