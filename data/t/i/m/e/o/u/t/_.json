@@ -1,0 +1,50 @@
+{
+  "word": "timeout",
+  "etymologies": [
+    {
+      "description": [
+        "time +‎ out"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "timeout (plural timeouts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) The allowed maximal time for a process to end normally.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(communication) The intentional termination of an incomplete task after a time limit considered long enough for it to end normally.",
+                  "examples": [
+                    "My connection was so slow that I kept receiving timeouts when trying to view Web pages."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) Alternative form of time-out",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
