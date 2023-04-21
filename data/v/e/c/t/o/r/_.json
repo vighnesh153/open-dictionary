@@ -1,0 +1,174 @@
+{
+  "word": "vector",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin vector (“carrier, transporter”), from vehō (“I carry, I transport, I bear”), also ultimately the root of English vehicle.",
+        "The “person or entity that passes along an urban legend or other meme” sense derives from the disease sense.",
+        "The mathematics sense was coined by  William Rowan Hamilton in 1846."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vector (plural vectors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A directed quantity, one with both magnitude and direction; the signed difference between two points.",
+                  "examples": [
+                    "Hypernym: tensor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An ordered tuple representing such.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Any member of a (generalized) vector space.",
+                  "examples": [
+                    "The vectors in \n  \n    \n      \n        \n          \n            Q\n          \n        \n        [\n        X\n        ]\n      \n    \n    {\\displaystyle {\\mathbb {Q} }[X]}\n  \n are the single-variable polynomials with rational coefficients: one is \n  \n    \n      \n        \n          \n            x\n            \n              42\n            \n          \n          +\n          \n            \n              1\n              137\n            \n          \n          x\n          −\n          1\n        \n      \n    \n    {\\displaystyle \\textstyle x^{42}+{\\frac {1}{137}}x-1}\n  \n."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) A chosen course or direction for motion, as of an aircraft.",
+                  "examples": [
+                    "I was told to fly out on a vector of 100 degrees to meet a strong plot of aircraft 30 miles from the coast."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(epidemiology) A carrier of a disease-causing agent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sociology) A person or entity that passes along an urban legend or other meme.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) A recurring psychosocial issue that stimulates growth and development in the personality.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, operating systems) A memory address containing the address of a code entry point, usually one which is part of a table and often one that is dereferenced and jumped to during the execution of an interrupt.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A one-dimensional array.",
+                  "examples": [
+                    "To create a vector of students in a class, you will want the vector to be large enough  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics, attributive) A graphical representation using outlines; vector graphics.",
+                  "examples": [
+                    "Coordinate term: raster",
+                    "a vector image, vector graphics"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(molecular biology) A DNA molecule used to carry genetic information from one organism into another.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "vector (third-person singular simple present vectors, present participle vectoring, simple past and past participle vectored)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To set (particularly an aircraft) on a course toward a selected point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To redirect to a vector, or code entry point.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
