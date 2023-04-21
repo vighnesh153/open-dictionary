@@ -1,0 +1,251 @@
+{
+  "word": "void",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English voide, voyde, from Old French vuit, voide, vuide (modern vide), in turn from a Vulgar Latin *vocitus, related to Latin vacuus (“empty”)."
+      ],
+      "adjectives": [
+        {
+          "description": "void (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Containing nothing; empty; not occupied or filled.",
+                  "examples": [
+                    "I'll chain him in my study, that, at void hours, / I may run over the story of his country."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having no incumbent; unoccupied; said of offices etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Being without; destitute; devoid.",
+                  "examples": [
+                    "He that is void of wisdom despiseth his neighbor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not producing any effect; ineffectual; vain.",
+                  "examples": [
+                    "[My word] shall not return to me void, but it shall accomplish that which I please."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of no legal force or effect, incapable of confirmation or ratification.",
+                  "examples": [
+                    "null and void"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Containing no immaterial quality; destitute of mind or soul.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, of a function or method) That does not return a value; a procedure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "void (plural voids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An empty space; a vacuum.",
+                  "examples": [
+                    "Nobody has crossed the void since one man died trying three hundred years ago; it's high time we had another go."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) An extended region of space containing no galaxies.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(materials science) A collection of adjacent vacancies inside a crystal lattice.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(fluid mechanics) A pocket of vapour inside a fluid flow, created by cavitation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(construction) An empty space between floors or walls, including false separations and planned gaps between a building and its facade.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, humorous) A black cat.",
+                  "examples": [
+                    "My little void is so sweet sometimes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An empty place; A location that has nothing useful.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "void (third-person singular simple present voids, present participle voiding, simple past and past participle voided)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make invalid or worthless.",
+                  "examples": [
+                    "He voided the check and returned it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, medicine) To empty.",
+                  "examples": [
+                    "void one’s bowels"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To throw or send out; to evacuate; to emit; to discharge.",
+                  "examples": [
+                    "to void excrement"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To withdraw, depart.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To remove the contents of; to make or leave vacant or empty; to quit; to leave.",
+                  "examples": [
+                    "to void a table"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Alteration of voidee."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "void (plural voids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare, historical) A voidee. [from 15th c.]",
+                  "examples": [
+                    "Late on the final evening, as the customary ‘void’ – spiced wine and sweetmeats – was served, more elaborate disguisings in the great hall culminated in the release of a flock of white doves."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
