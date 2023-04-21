@@ -1,0 +1,65 @@
+{
+  "word": "spreadsheet",
+  "etymologies": [
+    {
+      "description": [
+        "From spread +‎ sheet."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spreadsheet (plural spreadsheets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A computer application for organization, analysis, and storage of data in tabular form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A document created with such an application.",
+                  "examples": [
+                    "Synonym: worksheet"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A sheet of paper, marked with a grid, in which financial data is recorded and totals calculated manually.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "spreadsheet (third-person singular simple present spreadsheets, present participle spreadsheeting, simple past and past participle spreadsheeted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To model or compute by means of a spreadsheet.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
