@@ -1,0 +1,60 @@
+{
+  "word": "trojan",
+  "etymologies": [
+    {
+      "description": [
+        "From Trojan horse."
+      ],
+      "adjectives": [
+        {
+          "description": "trojan (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronomy) Describing a satellite (moon or minor planet) that shares an orbit with another",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trojan (plural trojans)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Malware that appears to perform or actually performs a desired task for a user while performing a harmful task without the user's knowledge or consent.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "trojan (third-person singular simple present trojans, present participle trojaning, simple past and past participle trojaned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To infect (a system) with a trojan.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
