@@ -1,0 +1,72 @@
+{
+  "word": "quadratic",
+  "etymologies": [
+    {
+      "description": [
+        "From French quadratique (1765), from Latin quadrātus + -ique (English -ic), form of quadrō (“I make square”), from quādrus (“square”), ultimately from Proto-Indo-European *kʷetwóres (“four”), whence also Latin quartus (“fourth”)."
+      ],
+      "adjectives": [
+        {
+          "description": "quadratic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "square-shaped",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) of a polynomial, involving the second power (square) of a variable but no higher powers, as \n  \n    \n      \n        a\n        \n          x\n          \n            2\n          \n        \n        +\n        b\n        x\n        +\n        c\n      \n    \n    {\\displaystyle ax^{2}+bx+c}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) of an equation, of the form \n  \n    \n      \n        a\n        \n          x\n          \n            2\n          \n        \n        +\n        b\n        x\n        +\n        c\n        =\n        0\n      \n    \n    {\\displaystyle ax^{2}+bx+c=0}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) of a function, of the form \n  \n    \n      \n        y\n        =\n        a\n        \n          x\n          \n            2\n          \n        \n        +\n        b\n        x\n        +\n        c\n      \n    \n    {\\displaystyle y=ax^{2}+bx+c}\n  \n.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quadratic (plural quadratics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A quadratic polynomial, function or equation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
