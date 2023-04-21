@@ -1,0 +1,67 @@
+{
+  "word": "strikeout",
+  "etymologies": [
+    {
+      "description": [
+        "From the verb phrase strike out."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "strikeout (countable and uncountable, plural strikeouts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An instance or the act of yielding nothing.",
+                  "examples": [
+                    "We've had one strikeout after the other on the Jones account."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, baseball) An instance or the act of striking out.",
+                  "examples": [
+                    "The pitcher recorded seven strikeouts in the game."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, wordprocessing) Cancellation of a portion of text by crossing it out without deleting it; strikethrough.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "strikeout (third-person singular simple present strikeouts, present participle strikeouting, simple past and past participle strikeouted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, textprocessing) To cancel a portion of text by crossing it out without deleting it; strikethrough.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
