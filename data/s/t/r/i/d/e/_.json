@@ -1,0 +1,113 @@
+{
+  "word": "stride",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English striden, from Old English strīdan (“to get by force, pillage, rob; stride”), from Proto-Germanic *strīdaną. Cognate with Low German striden (“to fight, to stride”), Dutch strijden (“to fight”), German streiten (“to fight, to quarrel”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stride (third-person singular simple present strides, present participle striding, simple past strode, past participle stridden or strode or strid)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To walk with long steps.",
+                  "examples": [
+                    "Mars in the middle of the shining shield / Is grav'd, and strides along the liquid field."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To stand with the legs wide apart; to straddle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To pass over at a step; to step over.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To straddle; to bestride.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English stride, stryde, from Old English stride (“a stride, pace”), from the verb (see above). Doublet of strid."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stride (countable and uncountable, plural strides)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A long step in walking.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The distance covered by a long step.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, computing) The number of memory locations between successive elements in an array, pixels in a bitmap, etc.",
+                  "examples": [
+                    "This stride value is generally equal to the pixel width of the bitmap times the number of bytes per pixel, but for performance reasons it might be rounded  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, music) A jazz piano style of the 1920s and 1930s. The left hand characteristically plays a four-beat pulse with a single bass note, octave, seventh or tenth interval on the first and third beats, and a chord on the second and fourth beats.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
