@@ -1,0 +1,46 @@
+{
+  "word": "synchronizer",
+  "etymologies": [
+    {
+      "description": [
+        "synchronize +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "synchronizer (plural synchronizers)",
+          "definitionGroups": [
+            {
+              "group": "One who or that which synchronizes.",
+              "entries": [
+                {
+                  "meaning": "(automotive) Part of a synchromesh manual transmission that allows the smooth engagement of gears.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(aerial warfare) A device that permits an automatic weapon to fire between the blades of a revolving propeller.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(electronics) A kind of arbiter.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(film editing) A device for aligning multiple film strips in a replay or editing device.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(computing theory) An algorithm that can be applied to a synchronous distributed algorithm to produce a version that operates in asynchronous networks.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

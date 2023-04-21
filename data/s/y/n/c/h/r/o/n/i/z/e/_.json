@@ -1,0 +1,72 @@
+{
+  "word": "synchronize",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek συγχρονίζω (sunkhronízō)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "synchronize (third-person singular simple present synchronizes, present participle synchronizing, simple past and past participle synchronized) (American spelling, Oxford British English)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To cause two or more events or actions to happen at exactly the same time or same rate, or in a time-coordinated way.",
+              "entries": [
+                {
+                  "meaning": "(intransitive) To occur at the same time or with coordinated timing.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(transitive) To cause (video and audio) to play in a coordinated way.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set (a clock or watch) to display the same time as another.",
+                  "examples": [
+                    "We synchronized our watches and agreed to meet at four o'clock precisely."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive, intransitive) To cause (a set of files, data, or settings) on one computer or device to be (and try to remain) the same as on another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, of inanimate entities) To agree, be coordinated with, or complement well.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To coordinate or combine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
