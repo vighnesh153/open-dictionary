@@ -1,0 +1,47 @@
+{
+  "word": "vocoder",
+  "etymologies": [
+    {
+      "description": [
+        "From voice and coder."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vocoder (plural vocoders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of several electronic or digital devices or systems for the analysis and/or synthesis of speech.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "vocoder (third-person singular simple present vocoders, present participle vocodering, simple past and past participle vocodered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To analyse or synthesize (speech) by means of a vocoder.",
+                  "examples": [
+                    "Synonym: vocode"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
