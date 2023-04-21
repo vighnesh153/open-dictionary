@@ -1,0 +1,77 @@
+{
+  "word": "transmit",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English transmitten, borrowed from Latin trānsmittō (“transmit”, verb, literally “over-send”). See also oversend."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "transmit (third-person singular simple present transmits, present participle transmitting, simple past and past participle transmitted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To send or convey something from one person, place or thing to another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To spread or pass on something such as a disease or a signal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To impart, convey or hand down something by inheritance or heredity.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To communicate news or information.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convey energy or force through a mechanism or medium.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To send out a signal (as opposed to receive).",
+                  "examples": [
+                    "The stricken vessel issued one last Mayday call before equipment failure rendered it unable to transmit."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
