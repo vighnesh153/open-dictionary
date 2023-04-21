@@ -1,0 +1,48 @@
+{
+  "word": "seminormal",
+  "etymologies": [
+    {
+      "description": [
+        "semi- +‎ normal"
+      ],
+      "adjectives": [
+        {
+          "description": "seminormal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(algebra, of a ring) Being a commutative reduced ring in which, whenever x, y satisfy \n  \n    \n      \n        \n          x\n          \n            3\n          \n        \n        =\n        \n          y\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle x^{3}=y^{2}}\n  \n, there is s with \n  \n    \n      \n        \n          s\n          \n            2\n          \n        \n        =\n        x\n      \n    \n    {\\displaystyle s^{2}=x}\n  \n and \n  \n    \n      \n        \n          s\n          \n            3\n          \n        \n        =\n        y\n      \n    \n    {\\displaystyle s^{3}=y}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(group theory) Of a subgroup A of a group G, having a subgroup B such that AB = G, and for any proper subgroup C of B, AC is a proper subgroup of G.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(default logic, of a default) Having all its justifications entailing its conclusion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
