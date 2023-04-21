@@ -1,0 +1,72 @@
+{
+  "word": "shelf",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English schelfe, probably from Old English sċylfe (“deck of a ship”), distantly related to sculpt, carve and shell. Cognate to Dutch schelf."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "shelf (plural shelves)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc., and used to support, store or display objects.",
+                  "examples": [
+                    "We keep the old newspapers on the bottom shelf of the cupboard, and our photos on the top shelf."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The capacity of such an object",
+                  "examples": [
+                    "a shelf of videos"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A projecting ledge that resembles such an object.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reef, shoal or sandbar.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The part of a repository where shelvesets are stored.",
+                  "examples": [
+                    "This is where the Visual Studio Shelving function can help. A shelf is a place on the server in source control that is separate from the main code line so it will not affect other developers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
