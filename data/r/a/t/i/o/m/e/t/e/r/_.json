@@ -1,0 +1,30 @@
+{
+  "word": "ratiometer",
+  "etymologies": [
+    {
+      "description": [
+        "ratio +‎ meter"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "ratiometer (plural ratiometers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A measurement device used in ohmmeters, having two coils, one connected via a series resistor to the battery supply and the other connected to the same battery supply via a second resistor and the resistor under test. The indication on the meter was proportional to the ratio of the currents through the two coils.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
