@@ -1,0 +1,161 @@
+{
+  "word": "signal",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French segnal, seignal or Medieval Latin signāle; noun use of the neuter of Late Latin signālis, from Latin signum; verb use from 1805, as a shortened from signalize (1650s)."
+      ],
+      "adjectives": [
+        {
+          "description": "signal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Standing above others in rank, importance, or achievement.",
+                  "examples": [
+                    "a signal exploit; a signal success; a signal act of benevolence"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "signal (plural signals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sequence of states representing an encoded message in a communication channel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any variation of a quantity or change in an entity over time that conveys information upon detection.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sign made to give notice of some occurrence, command, or danger, or to indicate the start of a concerted action.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An on-off light, semaphore, or other device used to give an indication to another person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a radio, TV, telephone, internet, etc.) An electromagnetic action, normally a voltage that is a function of time, that conveys the information of the radio or TV program or of communication with another party.",
+                  "examples": [
+                    "My mobile phone can't get a signal in the railway station."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An action, change or process done to convey information and thus reduce uncertainty.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A token; an indication; a foreshadowing; a sign.",
+                  "examples": [
+                    "There was not the least signal of the calamity to be seen."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Useful information, as opposed to noise.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Unix) A simple interprocess communication used to notify a process or thread of an occurrence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) A signalling interaction between cells",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "signal (third-person singular simple present signals, present participle (UK) signalling or (US) signaling, simple past and past participle (UK) signalled or (US) signaled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To indicate; to convey or communicate by a signal.",
+                  "examples": [
+                    "I signalled my acquiescence with a nod.",
+                    "He whistled to signal that we should stop."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To communicate with (a person or system) by a signal.",
+                  "examples": [
+                    "Seeing the flames, he ran to the control room and signalled headquarters."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
