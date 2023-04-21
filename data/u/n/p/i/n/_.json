@@ -1,0 +1,61 @@
+{
+  "word": "unpin",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ pin"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unpin (third-person singular simple present unpins, present participle unpinning, simple past and past participle unpinned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To unfasten by removing a pin.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, graphical user interface) To detach (an icon, application, etc.) from the place where it was previously pinned.",
+                  "examples": [
+                    "to unpin a program from the Taskbar"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, transitive) To undo the pinning or fixing of (an array in memory, a security certificate, etc.) so that it can be modified again.",
+                  "examples": [
+                    "[…]  you can use the GCHandle class mentioned earlier to pin a heap block until you explicitly unpin it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chess) To get (a piece) out of a pin.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
