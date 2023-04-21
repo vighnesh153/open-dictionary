@@ -1,0 +1,94 @@
+{
+  "word": "redirect",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ direct"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "redirect (plural redirects)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A redirection.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) An examination of a witness, following cross-examination, by the party that conducted the direct examination.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The substitution of one address or identifier for another one, so as to navigate to a different location.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "redirect (third-person singular simple present redirects, present participle redirecting, simple past and past participle redirected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give new direction to, change the direction of.",
+                  "examples": [
+                    "redirect output to /dev/null"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To instruct to go, inquire, elsewhere.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To substitute an address or pointer to a new location.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To send to a new location by substituting an address or pointer.",
+                  "examples": [
+                    "You will be redirected shortly."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
