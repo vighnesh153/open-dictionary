@@ -1,0 +1,32 @@
+{
+  "word": "restream",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ stream"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "restream (third-person singular simple present restreams, present participle restreaming, simple past and past participle restreamed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To stream again or differently (in various senses).",
+                  "examples": [
+                    "In addition to the Web server not having to restream the same data over and over to the clients, the database is also spared excessive connections and queries."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

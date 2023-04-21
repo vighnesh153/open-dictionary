@@ -1,0 +1,58 @@
+{
+  "word": "restrict",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin restrictus, perfect passive participle of restringō (“draw back tightly; restrain, restrict”), from re- (“back, again”) + stringō (“press, tighten, compress”). Doublet of ristretto as an adjective."
+      ],
+      "adjectives": [
+        {
+          "description": "restrict (comparative more restrict, superlative most restrict)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Restricted.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "restrict (third-person singular simple present restricts, present participle restricting, simple past and past participle restricted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To restrain within boundaries; to limit; to confine",
+                  "examples": [
+                    "After suffering diahrroea, the patient was restricted to a diet of rice, cold meat, and yoghurt."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(specifically, mathematics) To consider (a function) as defined on a subset of its original domain.",
+                  "examples": [
+                    "If we restrict sine to \n  \n    \n      \n        \n          [\n          \n            −\n            \n              \n                π\n                2\n              \n            \n            ,\n            \n              \n                π\n                2\n              \n            \n          \n          ]\n        \n      \n    \n    {\\displaystyle \\left[-{\\frac {\\pi }{2}},{\\frac {\\pi }{2}}\\right]}\n  \n, we can define its inverse."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
