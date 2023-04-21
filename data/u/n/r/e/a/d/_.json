@@ -1,0 +1,87 @@
+{
+  "word": "unread",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ read"
+      ],
+      "adjectives": [
+        {
+          "description": "unread (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not having been read.",
+                  "examples": [
+                    "At first, perhaps, unread your Note’s return’d,",
+                    "Your Person slighted, and your Passion scorn’d."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not having read; uneducated.",
+                  "examples": [
+                    "The only child of two doating parents, she never had been taught the necessity of resignation—untutored, unread, unused to reflect, but knowing how to feel  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unread (plural unreads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An unread email or instant message.",
+                  "examples": [
+                    "You will have fewer 'Unreads' staring at you from your Inbox, and will feel—and be—more productive."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unread (third-person singular simple present unreads, present participle unreading, simple past and past participle unread)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To undo the process of reading.",
+                  "examples": [
+                    "That book was terrible! I wish I could unread it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To flag (a previously read e-mail or similar message) as not having been read.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
