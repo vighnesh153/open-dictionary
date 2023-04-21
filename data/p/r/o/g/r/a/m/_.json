@@ -1,0 +1,146 @@
+{
+  "word": "program",
+  "etymologies": [
+    {
+      "description": [
+        "From French programme, from Late Latin programma (“a proclamation, edict”), from Ancient Greek πρόγραμμα (prógramma, “a written public notice, an edict”), from προγράφω (prográphō, “I set forth as a public notice”), from πρό (pró, “before”) + γράφω (gráphō, “I write”). Doublet of programma."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "program (plural programs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A set of structured activities.",
+                  "examples": [
+                    "Our program for today’s exercise class includes swimming and jogging."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A leaflet listing information about a play, game or other activity.",
+                  "examples": [
+                    "The program consisted of ads for restaurants and the credits of everyone connected with the play."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(politics) A set of principle goals which are supported by a political party or individual candidate",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) A performance of a show or other broadcast on radio or television.",
+                  "examples": [
+                    "Tonight’s program was hosted by Johnny Carson."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A software application, or a collection of software applications, designed to perform a specific task.",
+                  "examples": [
+                    "The program runs on both Linux and Microsoft Windows."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(especially in the phrase \"get with the program\") A particular mindset or method of doing things.",
+                  "examples": [
+                    "Ellis: Come on, John, why don’t you get with the program and tell him where the detonators are?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "program (third-person singular simple present programs, present participle programming or programing, simple past and past participle programmed or programed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To enter a program or other instructions into (a computer or other electronic device) to instruct it to do a particular task.",
+                  "examples": [
+                    "He programmed the DVR to record his favorite show."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To develop (software) by writing program code.",
+                  "examples": [
+                    "I programmed a small game as a demonstration."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put together the schedule of an event.",
+                  "examples": [
+                    "Mary will program Tuesday’s festivities."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) To schedule the programming; to determine what will be broadcast.",
+                  "examples": [
+                    "We program for special audience groups, too, as shown by our Mexican language program each Sunday morning."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to automatically behave in a particular way.",
+                  "examples": [
+                    "The lab rat was programmed to press the lever when the bell rang."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
