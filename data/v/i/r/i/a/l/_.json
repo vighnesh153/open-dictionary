@@ -1,0 +1,70 @@
+{
+  "word": "virial",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin vīs (vīs has a hidden \"r\" that shows in forms such as the genitive plural, vīrium)."
+      ],
+      "adjectives": [
+        {
+          "description": "virial (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanics) Of or pertaining to the interactive forces between molecules or particles",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "virial (plural virials)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanics) Half of the product of the stress of attraction or repulsion with the distance between two particles.",
+                  "examples": [
+                    "The quantity 1/2 Rr, or half the product of the attraction into the distance across which the attraction is exerted, is defined by Clausis [Prof. Clausis of Bonn] as the virial of the attraction. (In the case of pressure or repulsion, the virial is negative.)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "virial (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Misspelling of viral.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
