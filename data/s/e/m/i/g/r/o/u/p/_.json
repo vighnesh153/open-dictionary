@@ -1,0 +1,32 @@
+{
+  "word": "semigroup",
+  "etymologies": [
+    {
+      "description": [
+        "From semi- +‎ group, reflecting the fact that not all the conditions required for a group are required for a semigroup. (Specifically, the requirements for the existence of identity and inverse elements are omitted.)"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "semigroup (plural semigroups)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Any set for which there is a binary operation that is closed and associative.",
+                  "examples": [
+                    "If a semigroup S contains a zeroid, then every left zeroid is also a right zeroid, and vice versa, and the set K of all the zeroids of S is the kernel of S."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
