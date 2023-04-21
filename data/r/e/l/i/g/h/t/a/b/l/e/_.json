@@ -1,0 +1,43 @@
+{
+  "word": "relightable",
+  "etymologies": [
+    {
+      "description": [
+        "relight +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "relightable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being lit again.",
+                  "examples": [
+                    "The gas was still relightable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) Capable of being rendered again with different simulated lighting conditions.",
+                  "examples": [
+                    "A relightable model requires more than 20 GB of raw image data."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
