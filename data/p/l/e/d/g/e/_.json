@@ -1,0 +1,105 @@
+{
+  "word": "pledge",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English plege, from Anglo-Norman plege, from Old French plege (Modern French pleige) from Medieval Latin plevium, plebium, from plebiō (“I pledge”), from Frankish *plehan (“to pledge; to support; to guarantee”). Akin to Old High German pflegan (“to take care of, be accustomed to”), Old Saxon plegan (“to vouch for”), Old English plēon (“to risk, endanger”). More at plight."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pledge (plural pledges)",
+          "definitionGroups": [
+            {
+              "group": "A solemn promise to do something.",
+              "entries": [
+                {
+                  "meaning": "(with the) A promise to abstain from drinking alcohol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An asset or person temporarily handed over to guarantee the fulfilment of something promised, under threat of permanent loss of the thing handed over; surety, security, hostage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(law) A bailment of personal property to secure payment of a debt without transfer of title.",
+              "entries": [
+                {
+                  "meaning": "The personal property so pledged, to be kept until the debt is paid.",
+                  "examples": [
+                    "Synonym: collateral"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(university slang) A person who has taken a pledge of allegiance to a college fraternity, but is not yet formally approved.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A drinking toast.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "pledge (third-person singular simple present pledges, present participle pledging, simple past and past participle pledged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a solemn promise (to do something).",
+                  "examples": [
+                    "pledge allegiance to the flag"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To deposit something as a security; to pawn.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give assurance of friendship by the act of drinking; to drink to one's health.",
+                  "examples": [
+                    "HARDCASTLE [Taking the cup.] I hope you'll find it to your mind. I have prepared it with my own hands, and I believe you'll own the ingredients are tolerable. Will you be so good as to pledge me, sir? Here, Mr. Marlow, here is to our better acquaintance. [Drinks.]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
