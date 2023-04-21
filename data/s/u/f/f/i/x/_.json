@@ -1,0 +1,70 @@
+{
+  "word": "suffix",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin suffixum (“suffix”), from sub (“subordinate”) + fixus, perfect passive participle of figere (“to fasten, fix”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "suffix (plural suffixes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, linguistic morphology) A morpheme added at the end of a word to modify the word's meaning.",
+                  "examples": [
+                    "Synonym: (narrow sense) affix",
+                    "Antonym: prefix",
+                    "Hypernyms: (broad sense) affix, morpheme",
+                    "The suffix \"-able\" changes \"sing\" into \"singable\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A subscript.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A final segment of a string of characters.",
+                  "examples": [
+                    "The string \"abra\" is both a prefix and a suffix of the string \"abracadabra\"."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "suffix (third-person singular simple present suffixes, present participle suffixing, simple past and past participle suffixed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To append (something) to the end of something else.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
