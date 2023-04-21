@@ -1,0 +1,81 @@
+{
+  "word": "unstring",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ string"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unstring (third-person singular simple present unstrings, present participle unstringing, simple past and past participle unstrung)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove the string or strings from.",
+                  "examples": [
+                    "Unstring the bows before storing them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To shake the nerves of; to cause anxiety or panic in.",
+                  "examples": [
+                    "The sight of his scared face, his starts and pallors and sudden harkenings, unstrung me  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To defuse or relax.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To remove from a string; to release something that has been strung up or strung together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To untie.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, programming, COBOL) To split (a text string) into smaller strings by separating on a delimiter.",
+                  "examples": [
+                    "It is also possible to save the delimiters (this might prove useful if the delimiters were also some sort of text identifier) and to count the length of the data items we are unstringing."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
