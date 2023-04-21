@@ -1,0 +1,32 @@
+{
+  "word": "reprocess",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ process"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reprocess (third-person singular simple present reprocesses, present participle reprocessing, simple past and past participle reprocessed)",
+          "definitionGroups": [
+            {
+              "group": "To process again.",
+              "entries": [
+                {
+                  "meaning": "(engineering) To extract the fissile material (mainly uranium and plutonium) remaining in spent nuclear reactor fuel, allowing it to be recycled into fresh nuclear fuel or (for plutonium and/or uranium-233 from some specialized breeder reactors) used to build nuclear weapons; may also extend to recovering nonfissile but fertile elements remaining in spent reactor fuel (such as thorium), or precious metals produced as fission products.",
+                  "examples": [
+                    "In order to greatly reduce the plant's output of high-level radioactive waste that has to be disposed of somehow, an onsite facility reprocesses the spent fuel rods using the PUREX process, separating out the unburnt uranium and plutonium from the troublesome fission products."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
