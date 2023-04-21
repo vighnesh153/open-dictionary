@@ -1,0 +1,130 @@
+{
+  "word": "sequence",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English sequence, borrowed from French sequence (“a sequence of cards, answering verses”), from Late Latin sequentia (“a following”), from Latin sequens (“following”), from sequi (“to follow”); see sequent."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sequence (countable and uncountable, plural sequences)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A set of things next to each other in a set order; a series",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The state of being sequent or following; order of succession.",
+                  "examples": [
+                    "Complete the listed tasks in sequence."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of musical phrases where a theme or melody is repeated, with some change each time, such as in pitch or length (example: opening of Beethoven's Fifth Symphony).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A musical composition used in some Catholic Masses between the readings. The most famous sequence is the Dies Irae (Day of Wrath) formerly used in funeral services.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An ordered list of objects, typically indexed with natural numbers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(now rare) A subsequent event; a consequence or result.",
+                  "examples": [
+                    "he found no words to convey the impressions he had received; then he gave way to the anger always the sequence of the antagonism of opinion between them."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A series of shots that depict a single action or style in a film, television show etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) A meld consisting of three or more cards of successive ranks in the same suit, such as the four, five and six of hearts.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sequence (third-person singular simple present sequences, present participle sequencing, simple past and past participle sequenced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to arrange in an order",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, biochemistry) to determine the order of things, especially of amino acids in a protein, or of bases in a nucleic acid",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) to produce (music) with a sequencer",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
