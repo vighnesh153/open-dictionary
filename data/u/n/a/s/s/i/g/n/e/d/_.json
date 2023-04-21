@@ -1,0 +1,43 @@
+{
+  "word": "unassigned",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English unassigned, equivalent to un- +‎ assigned."
+      ],
+      "adjectives": [
+        {
+          "description": "unassigned (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not assigned.",
+                  "examples": [
+                    "the unassigned crew members"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Without a value assigned to it.",
+                  "examples": [
+                    "an unassigned variable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
