@@ -1,0 +1,285 @@
+{
+  "word": "switch",
+  "etymologies": [
+    {
+      "description": [
+        "Perhaps from Middle Dutch swijch (“twig”). First attested in c. 1592."
+      ],
+      "adjectives": [
+        {
+          "description": "switch (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(snowboarding) Pertaining to riding with the front and back feet swapped round compared to one's normal position.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(freestyle skiing) Pertaining to skiing backwards.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "switch (plural switches)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device to turn electric current on and off or direct its flow.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A change or exchange.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport, US) A movable section of railroad track which allows the train to be directed down one of two destination tracks; (set of) points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A slender woody plant stem used as a whip; a thin, flexible rod, associated with corporal punishment in the United States.",
+                  "examples": [
+                    "\"A proper switch is a slim, flexible branch off a tree or a bush. A switch applied to the buttocks stings fiercely. It may leave red marks or bruises, but it causes no lasting damage..\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Synonym of rute.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) A command line notation allowing specification of optional behavior.",
+                  "examples": [
+                    "Use the /b switch to specify black-and-white printing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A programming construct that takes different actions depending on the value of an expression.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, networking) A networking device connecting multiple wires, allowing them to communicate simultaneously, when possible. Compare to the less efficient hub device that solely duplicates network packets to each wire.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) A system of specialized relays, computer hardware, or other equipment which allows the interconnection of a calling party's telephone line with any called party's line.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) A mechanism within DNA that activates or deactivates a gene.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(BDSM) One who is willing to take either a submissive or a dominant role in a sexual relationship.",
+                  "examples": [
+                    "Ideally, if one of your ladies happens to be a switch (or would be willing to switch for this scene), I would love to be able to inflict a little \"revenge tickling\" as well, as part of a scenario."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A separate mass or tress of hair, or of some substance (such as jute) made to resemble hair, formerly worn on the head by women.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(card games) A variant of crazy eights where one card, such as an ace, reverses the direction of play.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "switch (third-person singular simple present switches, present participle switching, simple past and past participle switched)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To exchange.",
+                  "examples": [
+                    "I want to switch this red dress for a green one."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To change (something) to the specified state using a switch.",
+                  "examples": [
+                    "Switch the light on."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, in modern times Southern US) To whip or hit with a switch.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To change places, tasks, etc.",
+                  "examples": [
+                    "I want to switch to a different seat."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, intransitive) To get angry suddenly; to quickly or unreasonably become enraged.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To swing or whisk.",
+                  "examples": [
+                    "to switch a cane"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To be swung or whisked.",
+                  "examples": [
+                    "The angry cat's tail switched back and forth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To trim.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To turn from one railway track to another; to transfer by a switch; generally with off, from, etc.",
+                  "examples": [
+                    "to switch off a train; to switch a car from one track to another"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ecclesiastical) To shift to another circuit.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To take on the opposite role (leader vs. follower) in a partner dance.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
