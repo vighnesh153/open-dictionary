@@ -1,0 +1,63 @@
+{
+  "word": "underflow",
+  "etymologies": [
+    {
+      "description": [
+        "under- +‎ flow, modelled on overflow."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "underflow (plural underflows)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A current flowing below the surface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A condition in which the value of a computed quantity is smaller than the smallest non-zero value that can be physically stored; usually treated as an error condition",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The error condition that results from an attempt to retrieve an item from an empty stack",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "underflow (third-person singular simple present underflows, present participle underflowing, simple past and past participle underflowed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To trigger the condition in which the value of a computed quantity is smaller than the smallest non-zero value that can be physically stored.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
