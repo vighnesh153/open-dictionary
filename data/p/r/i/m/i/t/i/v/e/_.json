@@ -1,0 +1,168 @@
+{
+  "word": "primitive",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English primitif, from Old French primitif, from Latin prīmitīvus (“first or earliest of its kind”), from prīmus (“first”); see prime. Doublet of primitivo."
+      ],
+      "adjectives": [
+        {
+          "description": "primitive (comparative more primitive, superlative most primitive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to the beginning or origin, or to early times; original; primordial; primeval; first.",
+                  "examples": [
+                    "primitive innocence;   the primitive church"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of or pertaining to or harking back to a former time; old-fashioned; characterized by simplicity.",
+                  "examples": [
+                    "Synonym: backwards",
+                    "a primitive style of dress"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Crude, obsolete.",
+                  "examples": [
+                    "primitive ideas"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Original; primary; radical; not derived.",
+                  "examples": [
+                    "Synonym: radical",
+                    "Antonyms: derivative, derived",
+                    "a primitive verb"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) Occurring in or characteristic of an early stage of development or evolution.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Not derived from another of the same type",
+                  "examples": [
+                    "Synonym: imprimitive"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics, dated) most recent common ancestor (often hypothetical) of",
+                  "examples": [
+                    "Synonym: proto-"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "primitive (plural primitives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) An original or primary word; a word not derived from another, as opposed to derivative.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A member of a primitive society.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A simple-minded person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) A data type that is built into the programming language, as opposed to more complex structures.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) Any of the simplest elements (instructions, statements, etc.) available in a programming language.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A basic geometric shape from which more complex shapes can be constructed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function whose derivative is a given function; an antiderivative.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
