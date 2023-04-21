@@ -1,0 +1,143 @@
+{
+  "word": "volatile",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French volatile, from Latin volātilis (“flying; swift; temporary; volatile”), from volō (“I fly”)."
+      ],
+      "adjectives": [
+        {
+          "description": "volatile (comparative more volatile, superlative most volatile)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Evaporating or vaporizing readily under normal conditions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a substance, informal) Explosive.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a price etc) Variable or erratic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a person) Quick to become angry or violent.",
+                  "examples": [
+                    "a volatile man"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Fickle.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Temporary or ephemeral.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a situation) Potentially violent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of a variable) Having its associated memory immediately updated with any changes in value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of memory) Whose content is lost when the computer is powered down",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Passing through the air on wings, or by the buoyant force of the atmosphere; flying; having the power to fly.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "volatile (plural volatiles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A chemical or compound that changes into a gas easily.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A variable that is volatile, i.e. has its associated memory immediately updated with any change in value.",
+                  "examples": [
+                    "Operations on C++ volatiles do put the compiler on notice that the object may be modified asynchronously, and hence are generally safer to use than ordinary variable accesses."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
