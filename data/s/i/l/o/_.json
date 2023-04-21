@@ -1,0 +1,116 @@
+{
+  "word": "silo",
+  "etymologies": [
+    {
+      "description": [
+        "From Spanish silo, of unclear origin. See Spanish silo for more."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "silo (plural silos)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(agriculture) A vertical building, usually cylindrical, used for the production of silage.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(agriculture) from the shape, a building used for the storage of grain.",
+                  "examples": [
+                    "Synonyms: granary, grain elevator"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) An underground bunker used to hold missiles which may be launched.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory, management) An organizational unit that has poor interaction with other units, negatively affecting overall performance.",
+                  "examples": [
+                    "A silo is created when members in one department or function do not interact with those in another department, even though there might be operational benefits to the interaction."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory, informatics) A structure in the information system that is poorly networked with other structures, with data exchange hampered.",
+                  "examples": [
+                    "Our networking is organized in silos, and employees lose time manually transferring data."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(derogatory, slang) A self-enclosed group of like-minded individuals.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) In Microsoft Windows operating systems, a kernel object for isolating groups of threads.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "silo (third-person singular simple present silos, present participle siloing, simple past and past participle siloed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To store in a silo.",
+                  "examples": [
+                    "Synonym: ensile"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To separate; to isolate.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
