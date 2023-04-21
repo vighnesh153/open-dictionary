@@ -1,0 +1,52 @@
+{
+  "word": "tessellate",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin tessellatus, from tessella, diminutive of tessera; from Ancient Greek τέσσαρες (téssares), from Proto-Indo-European *kʷetwóres."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tessellate (third-person singular simple present tessellates, present participle tessellating, simple past and past participle tessellated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover with tiles or stones, as a mosaic; to tile.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, geometry) Of a two-dimensional shape, such that multiple copies of itself placed edge to edge cover an area leaving no space between the shapes.",
+                  "examples": [
+                    "Regular hexagons tessellate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, geometry) To completely fill (an area) when multiple copies of one or more two-dimensional shapes are placed edge to edge.",
+                  "examples": [
+                    "It is possible to tessellate the plane with equilateral triangles and regular hexagons."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
