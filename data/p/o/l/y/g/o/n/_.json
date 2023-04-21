@@ -1,0 +1,57 @@
+{
+  "word": "polygon",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek πολύγωνον (polúgōnon), from πολύς (polús, “many”) + γωνία (gōnía, “angle”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "polygon (plural polygons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A plane figure bounded by edges that are all straight lines.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The boundary of such a figure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry, more generally) A figure comprising vertices and (not necessarily straight) edges, alternatingly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) Such a figure and its interior, taken as a whole.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
