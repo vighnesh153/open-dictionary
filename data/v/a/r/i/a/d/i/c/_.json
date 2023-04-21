@@ -1,0 +1,32 @@
+{
+  "word": "variadic",
+  "etymologies": [
+    {
+      "description": [
+        "variable +‎ -adic"
+      ],
+      "adjectives": [
+        {
+          "description": "variadic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, mathematics, linguistics) Taking a variable number of arguments; especially, taking arbitrarily many arguments.",
+                  "examples": [
+                    "C's printf is one of the most widely used variadic functions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
