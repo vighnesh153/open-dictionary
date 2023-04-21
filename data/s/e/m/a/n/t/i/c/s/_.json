@@ -1,0 +1,64 @@
+{
+  "word": "semantics",
+  "etymologies": [
+    {
+      "description": [
+        "From French sémantique, displacing earlier semasiology. From Ancient Greek σημαντικός (sēmantikós)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "semantics (countable and uncountable, plural semantics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A branch of linguistics studying the meaning of words. [1893]",
+                  "examples": [
+                    "Semantics is a foundation of lexicography."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The study of the relationship between words and their meanings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The individual meanings of words, as opposed to the overall meaning of a passage.",
+                  "examples": [
+                    "The semantics of the terms used are debatable.",
+                    "The semantics of a single preposition is a dissertation in itself."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science) The meaning of computer language constructs, in contrast to their form or syntax.",
+                  "examples": [
+                    "file sharing and locking semantics"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
