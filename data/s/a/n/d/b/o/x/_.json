@@ -1,0 +1,110 @@
+{
+  "word": "sandbox",
+  "etymologies": [
+    {
+      "description": [
+        "sand +‎ box."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "sandbox (plural sandboxes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A children's play area consisting of a box filled with sand.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A box filled with sand that is shaped to form a mould for metal casting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A container for sand or pounce, used historically before blotting paper.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An animal's litter box.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) A box carried on locomotives, from which sand runs onto the rails in front of the driving wheels, to prevent slipping.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An isolated area where a program can be executed with a restricted portion of the resources available.",
+                  "examples": [
+                    "Running a program in a sandbox can prevent it from doing any damage to the system."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Wikimedia jargon) A page on a wiki where users are free to experiment without destroying or damaging any legitimate content.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, military, slang, usually \"The Sandbox\") The Middle East.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "sandbox (third-person singular simple present sandboxes, present participle sandboxing, simple past and past participle sandboxed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To restrict (a program, etc.) by placing it in a sandbox.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
