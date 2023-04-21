@@ -1,0 +1,30 @@
+{
+  "word": "superperfect",
+  "etymologies": [
+    {
+      "description": [
+        "super- +‎ perfect, coined by Suryanarayana in 1969."
+      ],
+      "adjectives": [
+        {
+          "description": "superperfect (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Being or relating to a class of positive integers satisfying \n  \n    \n      \n        \n          σ\n          \n            2\n          \n        \n        (\n        n\n        )\n        =\n        σ\n        (\n        σ\n        (\n        n\n        )\n        )\n        =\n        2\n        n\n        \n        ,\n      \n    \n    {\\displaystyle \\sigma ^{2}(n)=\\sigma (\\sigma (n))=2n\\,,}\n  \n where σ is the divisor function. They are a generalization of perfect numbers.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
