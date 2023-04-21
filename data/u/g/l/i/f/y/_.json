@@ -1,0 +1,56 @@
+{
+  "word": "uglify",
+  "etymologies": [
+    {
+      "description": [
+        "From ugly +‎ -fy. Sense 3 by analogy with prettify."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "uglify (third-person singular simple present uglifies, present participle uglifying, simple past and past participle uglified)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make ugly; to destroy or worsen the appearance or attractiveness of.",
+                  "examples": [
+                    "She uglifies every thing near her."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To become ugly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Synonym of minify",
+                  "examples": [
+                    "Antonym: prettify"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
