@@ -1,0 +1,81 @@
+{
+  "word": "watermark",
+  "etymologies": [
+    {
+      "description": [
+        "water +‎ mark"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "watermark (plural watermarks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A translucent design impressed on the surface of paper and visible when the paper is held to the light.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A logo superimposed on a digital image, a television broadcast, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A value stored in a datafile to ensure its integrity, so that if the file's contents are changed then the watermark will no longer match the contents.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A mark indicating the level to which water has risen.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "watermark (third-person singular simple present watermarks, present participle watermarking, simple past and past participle watermarked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To mark paper with a watermark.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To mark a datafile with a digital watermark.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
