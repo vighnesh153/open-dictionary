@@ -1,0 +1,66 @@
+{
+  "word": "schema",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin schēma, from Ancient Greek σχῆμα (skhêma, “form, shape”). Doublet of scheme."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "schema (plural schemata or schemas)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An outline or image universally applicable to a general conception, under which it is likely to be presented to the mind (for example, a body schema).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A formal description of the structure of a database: the names of the tables, the names of the columns of each table, and the data type and other attributes of each column.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(markup languages) A formal description of data, data types, and data file structures, such as XML schemas for XML files.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) A formula in the metalanguage of an axiomatic system, in which one or more schematic variables appear, which stand for any term or subformula of the system, which may or may not be required to satisfy certain conditions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Christianity) A monastic habit in the Greek Orthodox Church.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
