@@ -1,0 +1,52 @@
+{
+  "word": "signum",
+  "etymologies": [
+    {
+      "description": [
+        "Learned borrowing from Latin signum. Doublet of sign."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "signum (plural signa or signums)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sign, mark, or symbol.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(history) A medieval tower bell used particularly for ringing the 8 canonical hours.",
+                  "examples": [
+                    "Synonym: signum bell"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A function that extracts the sign of a real number x, yielding -1 if x is negative, +1 if x is positive, or 0 if x is zero.",
+                  "examples": [
+                    "Synonyms: signum function, sign function"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
