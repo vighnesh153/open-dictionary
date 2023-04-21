@@ -1,0 +1,120 @@
+{
+  "word": "tombstone",
+  "etymologies": [
+    {
+      "description": [
+        "tomb +‎ stone"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tombstone (plural tombstones)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A headstone marking a person's grave.",
+                  "examples": [
+                    "Synonyms: headstone, gravestone"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The symbol \"∎\" marking the end of a proof.",
+                  "examples": [
+                    "Synonym: halmos"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Microsoft Windows) A marker that takes the place of deleted data, allowing for replication of the deletion across servers etc.",
+                  "examples": [
+                    "If you attempt to restore a backup that is older than the tombstone lifetime, it may introduce objects that were deleted  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A crashdump.",
+                  "examples": [
+                    "This actually results in a crash dump, which is written to the log and to a tombstone file."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cardiology) An unusual morphological feature on an electrocardiogram indicative of acute myocardial infarction, characterized by a massive ST elevation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(journalism) A printed advertisement in a newspaper or magazine, typically having unadorned centered text in black and white, enclosed in a simple box.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tombstone (third-person singular simple present tombstones, present participle tombstoning, simple past and past participle tombstoned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, intransitive) To take part in tombstoning: to jump into the sea, etc. from a cliff or other high point so as to enter the water vertically straight.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surfing) For a surfboard to stand upright half-submerged in the water (like a tombstone, above) because the surfer is underwater with his or her legrope pulled tight. Often this indicates a surfer in difficulty, either held down by the power of a wave or unconscious and unable to get to the surface.",
+                  "examples": [
+                    "Before the contest even started, Slater went down hard in a warmup session. He took a two-wave hold-down in the semifinals, his board tombstoning eerily for all to see,  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing, Microsoft Windows) To replace (an object or data) with a tombstone marker.",
+                  "examples": [
+                    "One of the many improvements in Windows 2000 WINS (and NT4 SP4) is the capability to selectively delete or tombstone records."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
