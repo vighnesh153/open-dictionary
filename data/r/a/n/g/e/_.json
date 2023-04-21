@@ -1,0 +1,392 @@
+{
+  "word": "range",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English rengen, from Old French rengier (“to range, to rank, to order,”), from the noun renc, reng, ranc, rang (“a rank, row”), from Frankish *hring, from Proto-Germanic *hringaz (“ring, circle, curve”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "range (plural ranges)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A line or series of mountains, buildings, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A fireplace; a fire or other cooking apparatus; now specifically, a large cooking stove with many hotplates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Selection, array.",
+                  "examples": [
+                    "We sell a wide range of cars."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An area for practicing shooting at targets.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An area for military training or equipment testing.",
+                  "examples": [
+                    "Synonyms: base, training area, training ground"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The distance from a person or sensor to an object, target, emanation, or event.",
+                  "examples": [
+                    "We could see the ship at a range of five miles.",
+                    "One can use the speed of sound to estimate the range of a lightning flash.",
+                    "Synonyms: distance, radius"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The maximum distance or reach of capability (of a weapon, radio, detector, etc.).",
+                  "examples": [
+                    "This missile's range is 500 kilometres."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The distance a vehicle (e.g., a car, bicycle, lorry, or aircraft) can travel without refueling.",
+                  "examples": [
+                    "This aircraft's range is 15 000 kilometres."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An area of open, often unfenced, grazing land.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The extent or space taken in by anything excursive; compass or extent of excursion; reach; scope.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The set of values (points) which a function can obtain.",
+                  "examples": [
+                    "Antonym: domain"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) The length of the smallest interval which contains all the data in a sample; the difference between the largest and smallest observations in the sample.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, baseball) The defensive area that a player can cover.",
+                  "examples": [
+                    "Jones has good range for a big man."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The scale of all the tones a voice or an instrument can produce.",
+                  "examples": [
+                    "Synonym: compass"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ecology) The geographical area or zone where a species is normally naturally found.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A sequential list of values specified by an iterator.",
+                  "examples": [
+                    "std::for_each  calls the given function on each value in the input range."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An aggregate of individuals in one rank or degree; an order; a class.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The step of a ladder; a rung.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, UK, dialect) A bolting sieve to sift meal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A wandering or roving; a going to and fro; an excursion; a ramble; an expedition.",
+                  "examples": [
+                    "He may take a range all the world over."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, historical) In the public land system, a row or line of townships lying between two succession meridian lines six miles apart.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The variety of roles that an actor can play in a satisfactory way.",
+                  "examples": [
+                    "By playing in comedies as well as in dramas he has proved his range as an actor.",
+                    "By playing in comedies as well as in dramas he has proved his acting range."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "range (third-person singular simple present ranges, present participle ranging, simple past and past participle ranged) For more quotations using this term, see Citations:range.",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To travel over (an area, etc); to roam, wander. [from 15th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To rove over or through.",
+                  "examples": [
+                    "to range the fields"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, intransitive) To exercise the power of something over something else; to cause to submit to, over. [16th–19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring (something) into a specified position or relationship (especially, of opposition) with something else. [from 16th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Of a variable, to be able to take any of the values in a specified range.",
+                  "examples": [
+                    "The variable x ranges over all real values from 0 to 10."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To classify.",
+                  "examples": [
+                    "to range plants and animals in genera and species"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To form a line or a row.",
+                  "examples": [
+                    "The front of a house ranges with the street."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To be placed in order; to be ranked; to admit of arrangement or classification; to rank.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To set in a row, or in rows; to place in a regular line or lines, or in ranks; to dispose in the proper order.",
+                  "examples": [
+                    "Maccabeus ranged his army by hands."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place among others in a line, row, or order, as in the ranks of an army; usually, reflexively and figuratively, to espouse a cause, to join a party, etc.",
+                  "examples": [
+                    "It would be absurd in me to range myself on the side of the Duke of Bedford and the corresponding society."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) To be native to, or live in, a certain district or region.",
+                  "examples": [
+                    "The peba ranges from Texas to Paraguay."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military, of artillery) To determine the range to a target.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To sail or pass in a direction parallel to or near.",
+                  "examples": [
+                    "to range the coast"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball) Of a player, to travel a significant distance for a defensive play.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
