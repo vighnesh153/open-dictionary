@@ -1,0 +1,250 @@
+{
+  "word": "screen",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English scren, screne (“windscreen, firescreen”), from Anglo-Norman escren (“firescreen, the tester of a bed”), Old French escren, escrein, escran (modern French écran (“screen”)), from Middle Dutch scherm, from Old Dutch *skirm, from Proto-West Germanic *skirmi, from Proto-Germanic *skirmiz (“fur, shelter, covering, screen”), from Proto-Indo-European *(s)ker- (“to cut, divide”).",
+        "Cognate with Dutch scherm (“screen”), German Schirm (“screen”). Doublet of scherm.",
+        "An alternative etymology derives Old French escren from Old Dutch *skrank (“barrier”) (compare German Schrank (“cupboard”), Schranke (“fence”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "screen (plural screens)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A physical divider intended to block an area from view, or provide shelter from something dangerous.",
+                  "examples": [
+                    "a fire screen"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A material woven from fine wires intended to block animals or large particles from passing while allowing gasses, liquids and finer particles to pass.",
+              "entries": [
+                {
+                  "meaning": "(mining, quarrying) A frame supporting a mesh of bars or wires used to classify fragments of stone by size, allowing the passage of fragments whose a diameter is smaller than the distance between the bars or wires.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(baseball) The protective netting which protects the audience from flying objects",
+                  "examples": [
+                    "Jones caught the foul up against the screen."
+                  ]
+                },
+                {
+                  "meaning": "(printing) A stencil upon a framed mesh through which paint is forced onto printed-on material; the frame with the mesh itself.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(by analogy) Searching through a sample for a target; an act of screening",
+              "entries": [
+                {
+                  "meaning": "(genetics) A technique used to identify genes so as to study gene functions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "Various forms or formats of information display",
+              "entries": [
+                {
+                  "meaning": "The viewing surface or area of a movie, or moving picture or slide presentation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The informational viewing area of electronic devices, where output is displayed.",
+                  "examples": [
+                    "You won't find me living for the screen  […]  I ain't equipment I ain't automatic"
+                  ]
+                },
+                {
+                  "meaning": "One of the individual regions of a video game, etc. divided into separate screens.",
+                  "examples": [
+                    "The idea is to reach the 21st level of an enormous network of interlocking screens, each of which is covered with blocks that you bounce along on."
+                  ]
+                },
+                {
+                  "meaning": "(computing) The visualised data or imagery displayed on a computer screen.",
+                  "examples": [
+                    "After you turn on the computer, the login screen appears."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A disguise; concealment.",
+                  "examples": [
+                    "They'd say he was operating behind a screen of guilelessness and was a superhypocrite."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "Definitions related to standing in the path of an opposing player",
+              "entries": [
+                {
+                  "meaning": "(American football) Short for screen pass.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(basketball) An offensive tactic in which a player stands so as to block a defender from reaching a teammate.",
+                  "examples": [
+                    "Synonym: pick"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) An erection of white canvas or wood placed on the boundary opposite a batsman to make the ball more easily visible.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) A collection of less-valuable vessels that travel with a more valuable one for the latter's protection.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A dwarf wall or partition carried up to a certain height for separation and protection, as in a church, to separate the aisle from the choir, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland, archaic) A large scarf.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "screen (third-person singular simple present screens, present participle screening, simple past and past participle screened)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To filter by passing through a screen.",
+                  "examples": [
+                    "Mary screened the beans to remove the clumps of gravel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To shelter or conceal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To remove information, or censor intellectual material from viewing. To hide the facts.",
+                  "examples": [
+                    "The news report was screened because it accused the politician of wrongdoing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(film, television) To present publicly (on the screen).",
+                  "examples": [
+                    "The news report will be screened at 11:00 tonight."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fit with a screen.",
+                  "examples": [
+                    "We need to screen this porch. These bugs are driving me crazy."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) To examine patients or treat a sample in order to detect a chemical or a disease, or to assess susceptibility to a disease.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(molecular biology) To search chemical libraries by means of a computational technique in order to identify chemical compounds which would potentially bind to a given biological target such as a protein.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(basketball) To stand so as to block a defender from reaching a teammate.",
+                  "examples": [
+                    "Synonym: pick"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To determine the source or subject matter of a call before deciding whether to answer the phone.",
+                  "examples": [
+                    "A Phone to Screen Calls"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
