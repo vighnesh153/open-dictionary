@@ -1,0 +1,205 @@
+{
+  "word": "record",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English, borrowed from Old French record, from recorder. See record (verb)."
+      ],
+      "adjectives": [
+        {
+          "description": "record (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(attributive) Enough to break previous records and set a new one; world-class; extreme.",
+                  "examples": [
+                    "\"But it's far worse for me,\" said Edmund, \"because you'll at least have a room of your own and I shall have to share a bedroom with that record stinker, Eustace.\""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "record (plural records)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An item of information put into a temporary or permanent physical medium.",
+                  "examples": [
+                    "The person had a record of the interview so she could review her notes.",
+                    "The tourist's photographs and the tape of the police call provide a record of the crime."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any instance of a physical medium on which information was put for the purpose of preserving it and making it available for future reference.",
+                  "examples": [
+                    "Synonym: log",
+                    "We have no record of you making this payment to us."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Ellipsis of phonograph record.: a disc, usually made from vinyl, on which sound is recorded and may be replayed on a phonograph.",
+                  "examples": [
+                    "Synonyms: disc, phonograph record, vinyl",
+                    "I still like records better than CDs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A set of data relating to a single individual or item.",
+                  "examples": [
+                    "Pull up the record on John Smith. What's his medical history?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A data structure similar to a struct, in some programming languages such as C# and Java based on classes and designed for storing immutable data.",
+                  "examples": [
+                    "Coordinate terms: struct, enumeration"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The most extreme known value of some variable, particularly that of an achievement in competitive events.",
+                  "examples": [
+                    "The heat and humidity were both new records.",
+                    "The team set a new record for most points scored in a game."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From Middle English recorden (“to repeat, to report”), borrowed from Old French recorder (“to get by heart”), from Latin recordārī, present active infinitive of recordor (“remember, call to mind”), from re- (“back, again”) + cor (“heart; mind”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "record (third-person singular simple present records, present participle recording, simple past and past participle recorded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make a record of information.",
+                  "examples": [
+                    "I wanted to record every detail of what happened, for the benefit of future generations."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make an audio or video recording of.",
+                  "examples": [
+                    "Within a week they had recorded both the song and the video for it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To give legal status to by making an official public record.",
+                  "examples": [
+                    "When the deed was recorded, we officially owned the house."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To fix in a medium, usually in a tangible medium.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To make an audio, video, or multimedia recording.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, obsolete) To repeat; to practice.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive, obsolete) To sing or repeat a tune.",
+                  "examples": [
+                    "Come Berecynthia, let vs in likewise,",
+                    "And heare the Nightingale record hir notes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To reflect; to ponder.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
