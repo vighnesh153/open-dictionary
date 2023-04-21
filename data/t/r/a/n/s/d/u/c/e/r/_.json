@@ -1,0 +1,39 @@
+{
+  "word": "transducer",
+  "etymologies": [
+    {
+      "description": [
+        "1924, Latin trānsdūcō  +‎ -er. Surface analysis transduce +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transducer (plural transducers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device that converts energy from one form into another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A state machine that generates output based on a given input.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
