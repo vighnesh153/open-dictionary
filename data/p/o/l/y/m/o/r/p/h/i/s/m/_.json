@@ -1,0 +1,77 @@
+{
+  "word": "polymorphism",
+  "etymologies": [
+    {
+      "description": [
+        "From poly- +‎ -morphism."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "polymorphism (countable and uncountable, plural polymorphisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ability to assume different forms or shapes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biology) The coexistence, in the same locality, of two or more distinct forms independent of sex, not connected by intermediate gradations, but produced from common parents.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) The feature pertaining to the dynamic treatment of data elements based on their type, allowing for an instance of a method to have several definitions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, type theory) The property of certain typed formal systems of allowing for the use of type variables and binders/quantifiers over those type variables; likewise, the property of certain expressions (within such typed formal systems) of making use of at least one such typed variable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(crystallography) The ability of a solid material to exist in more than one form or crystal structure; pleomorphism.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(genetics) The regular existence of two or more different genotypes within a given species or population; also, variability of amino acid sequences within a gene's protein.",
+                  "examples": [
+                    "Since 1990 they have found an entirely new role: they promise understanding of how and why our genes are all so different. They hold the key to human polymorphism."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
