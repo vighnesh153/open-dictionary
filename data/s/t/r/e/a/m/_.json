@@ -1,0 +1,148 @@
+{
+  "word": "stream",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English streem, strem, from Old English strēam, from Proto-West Germanic *straum, from Proto-Germanic *straumaz (“stream”), from Proto-Indo-European *srowmos (“river”), from Proto-Indo-European *srew- (“to flow”). Doublet of rheum.",
+        "Cognate with Scots strem, streme, streym (“stream, river”), North Frisian strum (“stream”), West Frisian stream (“stream”), Low German Stroom (“stream”), Dutch stroom (“current, flow, stream”), German Strom (“current, stream”), Danish and Norwegian Bokmål strøm (“current, stream, flow”), Norwegian Nynorsk straum (“current, stream, flow”), Swedish ström (“current, stream, flow”), Icelandic straumur (“current, stream, torrent, flood”), Ancient Greek ῥεῦμα (rheûma, “stream, flow”), Lithuanian srovė (“current, stream”) Polish strumień (“stream”), Welsh ffrwd (“stream, current”), Scottish Gaelic sruth (“stream”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stream (plural streams)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small river; a large creek; a body of moving water confined by banks.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A thin connected passing of a liquid through a lighter gas (e.g. air).",
+                  "examples": [
+                    "He poured the milk in a thin stream from the jug to the glass."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any steady flow or succession of material, such as water, air, radio signal or words.",
+                  "examples": [
+                    "Her constant nagging was to him a stream of abuse."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sciences, umbrella term) All moving waters.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A source or repository of data that can be read or written only sequentially.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) A particular path, channel, division, or way of proceeding.",
+                  "examples": [
+                    "Haredi Judaism is a stream of Orthodox Judaism characterized by rejection of modern secular culture."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, education) A division of a school year by perceived ability.",
+                  "examples": [
+                    "All of the bright kids went into the A stream, but I was in the B stream."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A live stream.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stream (third-person singular simple present streams, present participle streaming, simple past and past participle streamed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To flow in a continuous or steady manner, like a liquid.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To extend; to stretch out with a wavy motion; to float in the wind.",
+                  "examples": [
+                    "A flag streams in the wind."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To discharge in a stream.",
+                  "examples": [
+                    "The soldier's wound was streaming blood."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) To push continuous data (e.g. music) from a server to a client computer while it is being used (played) on the client.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
