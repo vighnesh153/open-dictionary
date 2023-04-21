@@ -1,0 +1,41 @@
+{
+  "word": "subderivative",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ derivative"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subderivative (plural subderivatives)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A word derived indirectly, from a derivative of another.",
+                  "examples": [
+                    "\"Friendliness\" is a subderivative: it is derived from \"friendly\", which comes from \"friend\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A generalization of the notion of a derivative, defined as the slope of a line that either touches, or is everywhere below the line of a convex function.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
