@@ -1,0 +1,39 @@
+{
+  "word": "subshell",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ shell"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subshell (plural subshells)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry, physics) Atomic orbitals for which the values of the n and l quantum numbers are the same, such as the three 2p or five 3d atomic orbitals.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A child process launched by a shell.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
