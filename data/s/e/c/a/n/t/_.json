@@ -1,0 +1,54 @@
+{
+  "word": "secant",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin secāns, present participle of secō (“to cut”)."
+      ],
+      "adjectives": [
+        {
+          "description": "secant (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That cuts or divides.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "secant (plural secants)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A straight line that intersects a curve at two or more points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(trigonometry) In a right triangle, the reciprocal of the cosine of an angle. Symbol: sec",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
