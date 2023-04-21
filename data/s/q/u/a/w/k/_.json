@@ -1,0 +1,145 @@
+{
+  "word": "squawk",
+  "etymologies": [
+    {
+      "description": [
+        "First attested in the from 1821. Unknown, but probably of imitative origin (compare dialectal Italian squacco (“small-crested heron”))."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "squawk (plural squawks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A shrill noise, especially made by a voice or bird; a yell, scream, or call.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) A four-digit transponder code used by aircraft for identification or transmission of emergency signals.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) A complaint or objection.",
+                  "examples": [
+                    "That was the last roundup for McCutcheon’s Cresswell; it never moved from that field again. Not that there was any squawk from the landlord; the two of them owned it, of course."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) An issue or complaint related to aircraft maintenance.",
+                  "examples": [
+                    "We think instructors should stress the importance of writeups on all maintenance squawks after the completion of each flight. More important, something should be done by the aircraft operator to correct such squawks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The American night heron.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, informal) A warning message indicating a possible error.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "squawk (third-person singular simple present squawks, present participle squawking, simple past and past participle squawked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a squawking noise; to yell, scream, or call out shrilly.",
+                  "examples": [
+                    "The hens woke up squawking with terror because they had all dreamed simultaneously of hearing a gun go off in the distance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, intransitive) To speak out; to protest.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, intransitive) To report an infraction; to rat on or tattle; to disclose a secret.",
+                  "examples": [
+                    "\"I'll slit your throat if you squawk on us,\" Krantz threatened."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, intransitive, informal) To produce a warning message, indicating a possible error.",
+                  "examples": [
+                    "You want the compiler to squawk if you try to instantiate for a type that doesn't implement IPrioritizable."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) To set or transmit a four-digit transponder code. (Normally followed by the specific code in question.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, slang, dated) To back out in a mean way.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
