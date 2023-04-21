@@ -1,0 +1,43 @@
+{
+  "word": "unpaged",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ paged"
+      ],
+      "adjectives": [
+        {
+          "description": "unpaged (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Without page numbers.",
+                  "examples": [
+                    "an unpaged booklet"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of memory) Not subject to paging.",
+                  "examples": [
+                    "The routine that actually changes the paging register must be in an unpaged region; otherwise it will no longer be executable after it has swapped pages."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
