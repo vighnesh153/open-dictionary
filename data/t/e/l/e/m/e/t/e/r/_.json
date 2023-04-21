@@ -1,0 +1,54 @@
+{
+  "word": "telemeter",
+  "etymologies": [
+    {
+      "description": [
+        "From French télémètre (“device used for measuring distance”) coined by Selligue from télé- +‎ -mètre, possibly from a blend of télescope and micromètre."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "telemeter (plural telemeters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any measuring device used in telemetry.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A device used for rangefinding, especially of military targets.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "telemeter (third-person singular simple present telemeters, present participle telemetering, simple past and past participle telemetered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To transmit by telemetry.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
