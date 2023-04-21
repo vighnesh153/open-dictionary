@@ -1,0 +1,42 @@
+{
+  "word": "subrange",
+  "etymologies": [
+    {
+      "description": [
+        "From sub- +‎ range."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subrange (plural subranges)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geography) A subdivision of a mountain range.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, programming) A subset of a given range or numeric set.",
+                  "examples": [
+                    "We are concerned with the subrange of integers between a and b.",
+                    "The program defines two subrange types."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
