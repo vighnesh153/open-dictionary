@@ -1,0 +1,32 @@
+{
+  "word": "polytope",
+  "etymologies": [
+    {
+      "description": [
+        "From German Polytop, equivalent to poly- (“many”) + -tope (“surface”). Coined by Hoppe in 1882 and introduced to English by Alicia Boole Stott."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "polytope (plural polytopes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A finite region of n-dimensional space bounded by hyperplanes (a geometric shape with flat sides, existing in any number of dimensions); the geometrical entity represented by the general term of the infinite sequence \"point, line, polygon, polyhedron, ...\".",
+                  "examples": [
+                    "As is well known, the theory of linear inequalities is closely related to the study of convex polytopes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
