@@ -1,0 +1,190 @@
+{
+  "word": "reduce",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English reducen, from Old French reducer, from Latin redūcō (“reduce”); from re- (“back”) + dūcō (“lead”). See duke, and compare with redoubt."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reduce (third-person singular simple present reduces, present participle reducing, simple past and past participle reduced)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.",
+                  "examples": [
+                    "to reduce weight, speed, heat, expenses, price, personnel etc."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To lose weight.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring to an inferior rank; to degrade, to demote.",
+                  "examples": [
+                    "to reduce a sergeant to the ranks"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To humble; to conquer; to subdue; to capture.",
+                  "examples": [
+                    "to reduce a province or a fort"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To bring to an inferior state or condition.",
+                  "examples": [
+                    "to reduce a city to ashes"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, cooking) To decrease the liquid content of food by boiling much of its water off.",
+                  "examples": [
+                    "Serve the oxtails with mustard or a sauce made by reducing the soup, if any is left, to a slightly thick sauce."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, chemistry) To add electrons / hydrogen or to remove oxygen.",
+                  "examples": [
+                    "Formaldehyde can be reduced to form methanol."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, metallurgy) To produce metal from ore by removing nonmetallic elements in a smelter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To simplify an equation or formula without changing its value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer science) To express the solution of a problem in terms of another (known) algorithm.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, logic) To convert a syllogism to a clearer or simpler form.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, law) To convert to written form. (Usage note: this verb almost always appears as \"reduce to writing\".)",
+                  "examples": [
+                    "It is important that all business contracts be reduced to writing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, medicine) To perform a reduction; to restore a fracture or dislocation to the correct alignment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military) To reform a line or column from (a square).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, military) To strike off the payroll.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Scotland, law) To annul by legal means.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To translate (a book, document, etc.).",
+                  "examples": [
+                    "a book reduced into English"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
