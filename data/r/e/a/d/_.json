@@ -1,0 +1,309 @@
+{
+  "word": "read",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English reden, from Old English rǣdan (“to counsel, advise, consult; interpret, read”), from Proto-West Germanic *rādan, from Proto-Germanic *rēdaną (“advise, counsel”), from Proto-Indo-European *Hreh₁dʰ- (“to arrange”).",
+        "Cognate with Scots rede, red (“to advise, counsel, decipher, read”), Saterland Frisian räide (“to advise, counsel”), West Frisian riede (“to advise, counsel”), Dutch raden (“to advise; guess, counsel, rede”), German raten (“to advise; guess”), Danish råde (“to advise”), Swedish råda (“to advise, counsel”), Persian رده‎ (rade, “to order, to arrange, class”). The development from ‘advise’ to ‘interpret, interpret letters, read’ is unique to English among Germanic languages. Compare rede."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "read (plural reads)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A reading or an act of reading, especially of an actor's part of a play or a piece of stored data.",
+                  "examples": [
+                    "One newswoman here lets magazines for a penny a read."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in combination) Something to be read; a written work.",
+                  "examples": [
+                    "His thrillers are always a gripping read."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person's interpretation or impression of something.",
+                  "examples": [
+                    "What's your read of the current political situation?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(at first especially in the black LGBT community) An instance of reading (“calling attention to someone's flaws; a taunt or insult”).",
+                  "examples": [
+                    "[As] Corey points out, \"if you and I are both black queens then we can't call each other black queens because that's not a read. That's a [fact].\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(biochemistry) The identification of a specific sequence of genes in a genome or bases in a nucleic acid string",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "read (third-person singular simple present reads, present participle reading, simple past read, past participle read or (archaic, dialectal) readen)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive or intransitive) To look at and interpret letters or other information that is written.",
+                  "examples": [
+                    "Have you read this book?",
+                    "He doesn’t like to read."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive or intransitive) To speak aloud words or other information that is written. (often construed with a to phrase or an indirect object)",
+                  "examples": [
+                    "He read us a passage from his new book.",
+                    "All right, class, who wants to read next?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To read work(s) written by (a named author).",
+                  "examples": [
+                    "At the moment I'm reading Milton."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To interpret, or infer a meaning, significance, thought, intention, etc., from.",
+                  "examples": [
+                    "She read my mind and promptly rose to get me a glass of water.",
+                    "I can read his feelings in his face."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To consist of certain text.",
+                  "examples": [
+                    "On the door hung a sign that reads \"No admittance\".",
+                    "The passage reads differently in the earlier manuscripts."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ergative) Of text, etc., to be interpreted or read in a particular way.",
+                  "examples": [
+                    "Arabic reads right to left.",
+                    "That sentence reads strangely."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, frequently humorous) To substitute (a corrected piece of text in place of an erroneous one); used to introduce an emendation of a text.",
+                  "examples": [
+                    "Synonym: sic pro"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, usually ironic) Used after a euphemism to introduce the intended, more blunt meaning of a term.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, telecommunications) To be able to hear what another person is saying over a radio connection.",
+                  "examples": [
+                    "Synonyms: copy, hear, receive",
+                    "Do you read me?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, rail transport) To observe and comprehend (a displayed signal).",
+                  "examples": [
+                    "A repeater signal may be used where the track geometry makes the main signal difficult to read from a distance."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, Commonwealth, except Scotland) To make a special study of, as by perusing textbooks.",
+                  "examples": [
+                    "I am reading theology at university.",
+                    "Synonyms: learn, study"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To fetch data from (a storage medium, etc.).",
+                  "examples": [
+                    "to read a hard disk",
+                    "to read a port",
+                    "to read the keyboard"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, LGBT) To recognise (someone) as being transgender.",
+                  "examples": [
+                    "Synonym: clock",
+                    "Antonym: pass",
+                    "Every time I go outside, I worry that someone will read me."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(at first especially in the black LGBT community) To call attention to the flaws of (someone) in either a playful, a taunting, or an insulting way.",
+                  "examples": [
+                    "Snapping, we are told, comes from reading, or exposing hidden flaws in a person's life, and out of reading comes shade  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(go) To imagine sequences of potential moves and responses without actually placing stones.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To think, believe; to consider (that).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To advise; to counsel. See rede.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To tell; to declare; to recite.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English redde (simple past), red, rad (past participle), from Old English rǣdde (simple past), (ġe)rǣded (past participle), conjugations of rǣdan (“to read”); see above."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "read",
+          "definitionGroups": [
+            {
+              "group": "inflection of read:",
+              "entries": [
+                {
+                  "meaning": "simple past tense",
+                  "examples": []
+                },
+                {
+                  "meaning": "past participle",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
