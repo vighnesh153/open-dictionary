@@ -1,0 +1,32 @@
+{
+  "word": "zonetime",
+  "etymologies": [
+    {
+      "description": [
+        "zone +‎ time"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "zonetime (countable and uncountable, plural zonetimes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rare) The time in a particular time zone, based on a meridian, as opposed to standard time.",
+                  "examples": [
+                    "For all our weather and radio reports, we use UTC or Greenwich, and for everything else we use zonetime. This is quite easy to find by taking your longitude and dividing it by fifteen. Subtract this number from UTC time and you have zonetime."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
