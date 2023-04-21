@@ -1,0 +1,41 @@
+{
+  "word": "quartile",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French quartil, from Medieval Latin quartilus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quartile (plural quartiles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Any of the three points that divide an ordered distribution into four parts, each containing a quarter of the population.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(statistics) Any one of the four groups so divided.",
+                  "examples": [
+                    "This school is ranked in the first quartile."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
