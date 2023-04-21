@@ -1,0 +1,41 @@
+{
+  "word": "precoloring",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ coloring"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "precoloring (countable and uncountable, plural precolorings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "coloring in advance",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A particular assignment of colors in a precoloring.",
+                  "examples": [
+                    "On the other hand, Thomassen's proof on planar graph 5 - choosability shows that some precolorings (two adjacent precolored vertices) and short lists (on the same face) allow a list coloring extension."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
