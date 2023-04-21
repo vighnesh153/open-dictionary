@@ -1,0 +1,82 @@
+{
+  "word": "transparent",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Medieval Latin trānspārēns, trānspārēntis (“transparent”), present participle of transpareō, from Latin trans + pareō. Displaced native Old English þurhsīene."
+      ],
+      "adjectives": [
+        {
+          "description": "transparent (comparative more transparent, superlative most transparent)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a material or object) See-through, clear; having the property that light passes through it almost undisturbed, such that one can see through it clearly.",
+                  "examples": [
+                    "The waters of the lake were transparent until the factory dumped waste there."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a system or organization) Open, public; having the property that theories and practices are publicly visible, thereby reducing the chance of corruption.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obvious; readily apparent; easy to see or understand.",
+                  "examples": [
+                    "His reasons for the decision were transparent.",
+                    "I love playing poker with Steve, because he's so transparent."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(signal processing) Having the property of transparency, i.e. sufficiently accurate that the compressed result is perceptually indistinguishable from the uncompressed input.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Not noticeable because it happens automatically or in the background; invisible.",
+                  "examples": [
+                    "In order to make that transparent to the user, browsers usually cache the usernames and passwords and retransmit them automatically each time they contact the server."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of an image or animated gif, having parts that do not overwrite the color of the background the image is placed over.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
