@@ -1,0 +1,108 @@
+{
+  "word": "spline",
+  "etymologies": [
+    {
+      "description": [
+        "Mid-1700s East Anglian dialect. Origin uncertain but perhaps from Old Danish splind or North Frisian splinj and ultimately related to the root of splinter."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spline (plural splines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Long thin piece of metal or wood. [from the mid 18th c]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(woodworking) A strip of wood or other material inserted into grooves in each of two pieces of wood to provide additional surface for gluing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A flexible strip of metal or other material, that may be bent into a curve and used in a similar manner to a ruler to draw smooth curves between points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) Any of a number of smooth curves used to join points.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A rectangular piece that fits grooves like key seats in a hub and a shaft, so that while the one may slide endwise on the other, both must revolve together.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mechanics) Ridges or teeth on a drive shaft that mesh with grooves in a mating piece and transfer torque to it, maintaining the angular correspondence between them.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "spline (third-person singular simple present splines, present participle splining, simple past and past participle splined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing) To smooth (a curve or surface) by means of a spline.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) To fit with a spline.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) To fasten to or together with a spline.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
