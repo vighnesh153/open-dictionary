@@ -1,0 +1,76 @@
+{
+  "word": "trampoline",
+  "etymologies": [
+    {
+      "description": [
+        "From Spanish trampolín and/or Italian trampolino; in English, a genericized trademark based on the Spanish word trademarked in 1936."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trampoline (plural trampolines)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A gymnastic and recreational device consisting of a piece of taut, strong fabric or rubber stretched over a (usually steel) frame using many coiled springs as anchors.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) A competitive sport in which athletes are judged on routines of tricks performed on a trampoline.",
+                  "examples": [
+                    "Synonym: trampolining"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) Any of a variety of looping or jumping instructions in specific programming languages.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "trampoline (third-person singular simple present trampolines, present participle trampolining, simple past and past participle trampolined)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To jump as if on a trampoline.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To rewrite (computer code) to use trampoline instructions.",
+                  "examples": [
+                    "trampolined code"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
