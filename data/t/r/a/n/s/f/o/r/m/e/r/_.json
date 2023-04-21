@@ -1,0 +1,57 @@
+{
+  "word": "transformer",
+  "etymologies": [
+    {
+      "description": [
+        "transform +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transformer (plural transformers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that transforms, changing its own or another thing's shape.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electrical engineering) A static device that transfers electric energy from one circuit to another by magnetic coupling. Their main use is to transfer energy between different voltage levels, which allows choosing most appropriate voltage for power generation, transmission and distribution separately.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(machine learning) A neural network architecture that relies on self-attention mechanisms.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative letter-case form of Transformer",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
