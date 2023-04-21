@@ -1,0 +1,118 @@
+{
+  "word": "transform",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English transformen, from Old French transformer, from Latin transformo, transformare, from trans (“across”, preposition) + forma (“form”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transform (plural transforms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematical analysis) An operation (often an integration) that converts one function into another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) A function so produced.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology, seismology) A transform fault.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "",
+          "definitionGroups": []
+        },
+        {
+          "description": "transform (third-person singular simple present transforms, present participle transforming, simple past and past participle transformed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To change greatly the appearance or form of.",
+                  "examples": [
+                    "The alchemists sought to transform lead into gold."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To change the nature, condition or function of; to change in nature, disposition, heart, character, etc.; to convert.",
+                  "examples": [
+                    "Be ye transformed by the renewing of your mind."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics) To subject to a transformation; to change into another form without altering the value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, electricity) To subject to the action of a transformer.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, genetics) To subject (a cell) to transformation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To undergo a transformation; to change in appearance or character.",
+                  "examples": [
+                    "Synonyms: alter, change"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
