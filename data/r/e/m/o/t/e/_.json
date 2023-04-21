@@ -1,0 +1,109 @@
+{
+  "word": "remote",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English remote, from Old French remot, masculine, remote, feminine, from Latin remotus, past participle of removere (“to remove”), from re- + movere (“to move”)."
+      ],
+      "adjectives": [
+        {
+          "description": "remote (comparative more remote or remoter, superlative most remote or remotest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "At a distance; disconnected.",
+                  "examples": [
+                    "A remote operator may control the vehicle with a wireless handset.",
+                    "remote workers"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Distant or otherwise inaccessible.",
+                  "examples": [
+                    "After his fall from the emperor's favor, the general was posted to a remote outpost."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(especially with respect to likelihood) Slight.",
+                  "examples": [
+                    "There was only a remote possibility that we would be rescued as we were far outside of the regular shipping lanes.",
+                    "They have a very remote chance of winning.",
+                    "You have a remote resemblance to my grandmother."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Emotionally detached.",
+                  "examples": [
+                    "After her mother's death, my friend grew remote for a time while she dealt with her grief."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "remote (plural remotes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Ellipsis of remote control.",
+                  "examples": [
+                    "I hate it when my uncle comes over to visit; he always sits in the best chair and hogs the remote."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) An element of broadcast programming originating away from the station's or show's control room.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "remote (third-person singular simple present remotes, present participle remoting, simple past and past participle remoted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To connect to a computer from a remote location.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
