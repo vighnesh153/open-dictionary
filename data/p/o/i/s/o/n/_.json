@@ -1,0 +1,138 @@
+{
+  "word": "poison",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English poisoun, poyson, poysone, puyson, puisun, from Old French poison, poison, from Latin pōtio, pōtiōnis (“drink, a draught, a poisonous draught, a potion”), from pōtō (“I drink”). See also potion and potable.",
+        "Displaced native Old English ātor."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "poison (countable and uncountable, plural poisons)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A substance that is harmful or lethal to a living organism when ingested.",
+                  "examples": [
+                    "We used a poison to kill the weeds."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that harms a person or thing.",
+                  "examples": [
+                    "Gossip is a malicious poison."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) An intoxicating drink; a liquor. (note: this sense is chiefly encountered in the phrases \"name your poison\" and \"what's your poison ?\")",
+                  "examples": [
+                    "— What's your poison?",
+                    "— I'll have a glass of whisky."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) Any substance that inhibits catalytic activity.",
+                  "examples": [
+                    "The temperature effect of poisons. The influence of poison on the catalyst can be different with the change of reaction conditions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "poison (third-person singular simple present poisons, present participle poisoning, simple past and past participle poisoned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use poison to kill or paralyse (somebody).",
+                  "examples": [
+                    "The assassin poisoned the king."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pollute; to cause to become poisonous.",
+                  "examples": [
+                    "That factory is poisoning the river."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause to become much worse.",
+                  "examples": [
+                    "Suspicion will poison their relationship.",
+                    "He poisoned the mood in the room with his non-stop criticism."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause (someone) to hate or to have unfair negative opinions.",
+                  "examples": [
+                    "She's poisoned him against all his old friends."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) To inhibit the catalytic activity of.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To place false information into (a cache) as part of an exploit.",
+                  "examples": [
+                    "In this technique, the hacker poisons the cache to launch malware into Web pages."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
