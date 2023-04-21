@@ -1,0 +1,48 @@
+{
+  "word": "truncation",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin truncātiō, from Latin truncāre, past participle truncātus (“to cut off”). See truncate."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "truncation (countable and uncountable, plural truncations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The act of truncating or shortening (for example, words are shortened to form blend words or portmanteaus).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The removal of the least significant digits from a decimal number.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) The replacement of a solid angle by a plane, or a similar operation in other dimensions.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
