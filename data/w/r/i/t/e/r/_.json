@@ -1,0 +1,91 @@
+{
+  "word": "writer",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English writer, writere, from Old English wrītere (“draughtsman; painter; writer; scribe; copyist”) and ġewritere (“writer; composer”), equivalent to write +‎ -er and writ +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "writer (plural writers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who writes, or produces literary work; an author can refer to themself as \"the writer\".",
+                  "examples": [
+                    "Has your girlfriend written you another letter already? She’s quite a writer!",
+                    "I met some of my favourite authors at the writers' convention."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything that writes or produces output.",
+                  "examples": [
+                    "If the writer is set to autoflush mode, then all characters in the buffer are sent to their destination whenever println is called."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(finance) The seller of an option.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A clerk of a certain rank in the service of the East India Company, who, after serving a certain number of years, became a factor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland) An ordinary legal practitioner in Scottish country towns.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US) A petty officer in the United States navy who keeps the watch-muster and other books of the ship.",
+                  "examples": [
+                    "Synonyms: ship writer, ship's writer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A graffiti artist.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
