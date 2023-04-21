@@ -1,0 +1,69 @@
+{
+  "word": "surprisal",
+  "etymologies": [
+    {
+      "description": [
+        "From surprise +‎ -al.",
+        "(information measure): Defined by Myron Tribus in the 1961 book Thermostatics and Thermodynamics."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "surprisal (countable and uncountable, plural surprisals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, military) A surprise attack or ambush; a sudden or unexpected assault. [16th–19th c.]",
+                  "examples": [
+                    "Their chiefe attempts are by Stratagems, trecheries, or surprisals."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A sudden coming-upon someone or something unexpectedly or unawares. [17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A surprising event or occurrence. [17th–19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) The feeling caused by being surprised; surprise, shock, amazement. [17th–19th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An information measure as equal in bits (binary digits) to the base-2 log of 1 over the probability, with the result that the number of choices equals 2n where n is the number of bits.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
