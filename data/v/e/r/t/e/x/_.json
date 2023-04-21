@@ -1,0 +1,111 @@
+{
+  "word": "vertex",
+  "etymologies": [
+    {
+      "description": [
+        "Late Middle English, borrowed from Latin vertex (“whirl, eddy; top, crown, peak, summit”). Doublet of vortex."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vertex (plural vertices or vertexes)",
+          "definitionGroups": [
+            {
+              "group": "The highest point, top or apex of something.",
+              "entries": [
+                {
+                  "meaning": "(anatomy) The highest surface on the skull; the crown of the head.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(geometry) An angular point of a polygon, polyhedron or higher order polytope.",
+              "entries": [
+                {
+                  "meaning": "The common point of the two rays that form an angle.",
+                  "examples": []
+                },
+                {
+                  "meaning": "The point at which an axis meets a curve or surface.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A point on the curve with a local minimum or maximum of curvature.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graph theory) One of the elements of a graph joined or not by edges to other vertices.",
+                  "examples": [
+                    "Synonym: node",
+                    "Coordinate term: plot"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A point in 3D space, usually given in terms of its Cartesian coordinates.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(optics) The point where the surface of a lens crosses the optical axis.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(particle physics) An interaction point.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astrology) The point where the prime vertical meets the ecliptic in the western hemisphere of a natal chart.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) A sharp downward point opposite a crotch, as in the letters \"V\" and \"W\" but not \"Y\".",
+                  "examples": [
+                    "Coordinate term: apex"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
