@@ -1,0 +1,58 @@
+{
+  "word": "stepping",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English steppynge; equivalent to step +‎ -ing."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stepping (plural steppings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of taking a step.",
+                  "examples": [
+                    "In the steppings of my feet, you are always my mother."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A specific iteration of a model of central processing unit, often distinguished by the addition or removal of features compared to earlier examples of the same processor, or the presence, or lack thereof, of specific bugs.",
+                  "examples": [
+                    "The 80386's early steppings have quite a lot of bugs, so some software specifically tests to make sure that the processor isn't one of those old versions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stepping",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of step",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
