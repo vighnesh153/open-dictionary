@@ -1,0 +1,50 @@
+{
+  "word": "uncommitted",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ committed"
+      ],
+      "adjectives": [
+        {
+          "description": "uncommitted (comparative more uncommitted, superlative most uncommitted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not inclined toward either side in a matter under dispute.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not bound or pledged to a cause, party etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, of an update to a database etc.) Not yet written to disk and logged.",
+                  "examples": [
+                    "Any uncommitted changes will be lost if you disconnect from the source control system."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
