@@ -1,0 +1,41 @@
+{
+  "word": "syllogism",
+  "etymologies": [
+    {
+      "description": [
+        "From Old French silogisme (“syllogism”), from Latin syllogismus, from Ancient Greek συλλογισμός (sullogismós, “inference, conclusion”). Doublet of syllogismus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "syllogism (plural syllogisms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An argument whose conclusion is supported by two premises, of which one contains the term that is the predicate of the conclusion, and the other contains the term that is the subject of the conclusion; common to both premises is a term that is excluded from the conclusion.",
+                  "examples": [
+                    "Meronyms: major premise, minor premise"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A trick, artifice; an extremely subtle, sophisticated, or deceptive argument; a sophism.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
