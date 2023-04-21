@@ -1,0 +1,61 @@
+{
+  "word": "visibility",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French visibilité, from Late Latin visibilitas; equivalent to visible +‎ -ity."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "visibility (countable and uncountable, plural visibilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The condition of being visible.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The degree to which things may be seen.",
+                  "examples": [
+                    "The visibility from that angle was good."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) The scope within which a variable or function is able to be accessed directly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, rare) Something worthy of being seen; a sight.",
+                  "examples": [
+                    "‘Sir, I have seen all the visibilities of Paris, and around it; but to have formed an acquaintance with the people there, would have required more time than I could stay.’"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
