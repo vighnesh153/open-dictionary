@@ -1,0 +1,45 @@
+{
+  "word": "quintic",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin quintus (“fifth”)  +‎ -ic (“of pertaining to”)."
+      ],
+      "adjectives": [
+        {
+          "description": "quintic (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of or relating to the fifth degree, such as a quintic polynomial which has the form \n  \n    \n      \n        a\n        \n          x\n          \n            5\n          \n        \n        +\n        b\n        \n          x\n          \n            4\n          \n        \n        +\n        c\n        \n          x\n          \n            3\n          \n        \n        +\n        d\n        \n          x\n          \n            2\n          \n        \n        +\n        e\n        x\n        +\n        f\n        =\n        0\n      \n    \n    {\\displaystyle ax^{5}+bx^{4}+cx^{3}+dx^{2}+ex+f=0}\n  \n (containing a term with the independent variable raised to the fifth power).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quintic (plural quintics)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) a quintic polynomial: \n  \n    \n      \n        a\n        \n          x\n          \n            5\n          \n        \n        +\n        b\n        \n          x\n          \n            4\n          \n        \n        +\n        c\n        \n          x\n          \n            3\n          \n        \n        +\n        d\n        \n          x\n          \n            2\n          \n        \n        +\n        e\n        x\n        +\n        f\n      \n    \n    {\\displaystyle ax^{5}+bx^{4}+cx^{3}+dx^{2}+ex+f}",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
