@@ -1,0 +1,30 @@
+{
+  "word": "tridiagonal",
+  "etymologies": [
+    {
+      "description": [
+        "tri- +‎ diagonal"
+      ],
+      "adjectives": [
+        {
+          "description": "tridiagonal (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linear algebra, of a matrix) Having nonzero elements only in the main diagonal and the diagonals directly above and below it",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
