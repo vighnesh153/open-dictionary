@@ -1,0 +1,57 @@
+{
+  "word": "reducible",
+  "etymologies": [
+    {
+      "description": [
+        "reduce +‎ -ible"
+      ],
+      "adjectives": [
+        {
+          "description": "reducible (comparative more reducible, superlative most reducible)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Capable of being reduced.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a polynomial) Able to be factored into polynomials of lower degree, as \n  \n    \n      \n        \n          x\n          \n            2\n          \n        \n        −\n        1\n      \n    \n    {\\displaystyle x^{2}-1}\n  \n.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of an integer) Able to be factored into smaller integers; composite.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(topology, of a manifold) Containing a sphere of codimension 1 that is not the boundary of a ball.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

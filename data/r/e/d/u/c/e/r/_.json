@@ -1,0 +1,77 @@
+{
+  "word": "reducer",
+  "etymologies": [
+    {
+      "description": [
+        "reduce +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reducer (plural reducers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that reduces.",
+                  "examples": [
+                    "If a floorboard has deep risers, you should use an entrance reducer in winter, to help keep out mice  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) A reducing agent.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hydraulics) A hydraulic device for reducing pressure and hence increasing movement, used to transmit the load from the hydraulic support of the lower shackle to the lever weighing apparatus in some kinds of heavy testing machine.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(photography) A liquid used in the process of developing a negative to reduce its darkness.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(plumbing) A component used to connect two pipes of different bores.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(software) A function that takes state and action as arguments and returns the next state of the app.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
