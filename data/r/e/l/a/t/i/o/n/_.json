@@ -1,0 +1,115 @@
+{
+  "word": "relation",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English relacion, relacioun, from Anglo-Norman relacioun and Old French relacion (whence French relation), from Latin relātiō, noun of process form from perfect passive participle relātus (“related”), from verb referō (“I refer, I relate”), from prefix re- (“again”) + ferō (“I bear, I carry”).",
+        "Morphologically relate +‎ -ion"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "relation (countable and uncountable, plural relations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The manner in which two things may be associated.",
+                  "examples": [
+                    "The relation between diet and health is complex."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A member of one's extended family; a relative.",
+                  "examples": [
+                    "Yes, he's a relation of mine, but only a distant one."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of relating a story.",
+                  "examples": [
+                    "Your relation of the events is different from mine."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) A set of ordered tuples.",
+                  "examples": [
+                    "[…] Signs are, first of all, physical things: for example, chalk marks on a blackboard, pencil or ink marks on paper, sound waves produced in a human throat. According to Reichenbach, \"What makes them signs is the intermediary position they occupy between an object and a sign user, i.e., a person.\" For a sign to be a sign, or to function as such, it is necessary that the person take account of the object it designates. Thus, anything in nature may or may not be a sign, depending on a person's attitude toward it. A physical thing is a sign when it appears as a substitute for, or representation of, the object for which it stands with respect to the sign user. The three-place relation between sign, object, and sign user is called the sign relation or relation of denotation."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) Specifically, a set of ordered pairs; a binary relation.",
+                  "examples": [
+                    "Equality is a symmetric relation, while divisibility is not."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) A set of ordered tuples retrievable by a relational database; a table.",
+                  "examples": [
+                    "This relation uses the customer's social security number as a key."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A statement of equality of two products of generators, used in the presentation of a group.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A subobject of a product of objects.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually collocated: sexual relation) The act of intercourse.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
