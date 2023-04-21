@@ -1,0 +1,57 @@
+{
+  "word": "vinculum",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin vinculum (“bond, link”), from vinciō (“bind, fetter, tie”) + -ulum."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "vinculum (plural vincula or vinculums)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bond or link signifying union.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(arithmetic, obsolete) Any symbol used to group some of the terms in an expression, indicating that that part of the calculation should be done before other parts.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(arithmetic) A horizontal line over the top of some of the terms in an expression, indicating that that part of the calculation is to be done before other parts.",
+              "entries": [
+                {
+                  "meaning": "(arithmetic) Specifically, the horizontal line between the numerator and denominator in a fraction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) A ligament that limits the movement of an organ or part.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
