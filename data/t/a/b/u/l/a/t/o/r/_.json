@@ -1,0 +1,59 @@
+{
+  "word": "tabulator",
+  "etymologies": [
+    {
+      "description": [
+        "tabulate +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tabulator (plural tabulators)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who counts or tabulates things.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The mechanism on a typewriter that sets the position of columns and borders.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A tab character.",
+                  "examples": [
+                    "You can put a tabulator in all those places where a space is allowed. A tabulator character corresponds to, for example, 4 spaces in the program editor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, historical) An early data processing machine that produces printed lists and totals from data on punched cards.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
