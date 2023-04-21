@@ -1,0 +1,39 @@
+{
+  "word": "versor",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin vertere, versus (“to turn”). See version."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "versor (plural versors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(quaternion algebra) A quaternion of norm one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometric algebra) A multivector representing a proper or improper rotation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
