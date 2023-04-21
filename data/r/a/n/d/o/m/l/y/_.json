@@ -1,0 +1,41 @@
+{
+  "word": "randomly",
+  "etymologies": [
+    {
+      "description": [
+        "random +‎ -ly"
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "randomly (comparative more randomly, superlative most randomly)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "In a random manner.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) By random access; at any point at a given time; not sequentially.",
+                  "examples": [
+                    "When a file is accessed randomly, the programmer must specify the relative record number."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
