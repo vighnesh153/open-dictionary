@@ -1,0 +1,30 @@
+{
+  "word": "upmix",
+  "etymologies": [
+    {
+      "description": [
+        "up- +‎ mix, formed from downmix."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "upmix (third-person singular simple present upmixes, present participle upmixing, simple past and past participle upmixed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(audio engineering) To demix a downmixed track and increase the number of channels: convert mono into stereo, or stereo into surround sound, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
