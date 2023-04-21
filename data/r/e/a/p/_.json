@@ -1,0 +1,85 @@
+{
+  "word": "reap",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English repen, from Old English rēopan, rēpan, variants of Old English rīpan (“to reap”), from Proto-West Germanic *rīpan, from Proto-Germanic *rīpaną (compare West Frisian repe, Norwegian ripa (“to score, scratch”)), from Proto-Indo-European *h₁reyb- (“to snatch”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reap (plural reaps)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A bundle of grain; a handful of grain laid down by the reaper as it is cut.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reap (third-person singular simple present reaps, present participle reaping, simple past and past participle reaped or (obsolete) reapt)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cut (for example a grain) with a sickle, scythe, or reaping machine",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To gather (e.g. a harvest) by cutting.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obtain or receive as a reward, in a good or a bad sense.",
+                  "examples": [
+                    "to reap a benefit from exertions"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer science) To terminate a child process that has previously exited, thereby removing it from the process table.",
+                  "examples": [
+                    "Until a child process is reaped, it may be listed in the process table as a zombie or defunct process."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, obsolete) To deprive of the beard; to shave.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
