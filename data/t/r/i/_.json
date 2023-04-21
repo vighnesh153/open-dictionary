@@ -1,0 +1,53 @@
+{
+  "word": "tri",
+  "etymologies": [
+    {
+      "description": [
+        "Shortening of words with the initial component derived from Proto-Indo-European *tréyes (“three”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tri (plural tris)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly attributive) triathlon",
+                  "examples": [
+                    "a tri bike",
+                    "a tri suit"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) triangle",
+                  "examples": [
+                    "Tris and quads have different areas of functionality. In real-time graphics, tris are the norm because they provide the most basic geometric representations of planes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(bodybuilding, colloquial, uncommon) triceps",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
