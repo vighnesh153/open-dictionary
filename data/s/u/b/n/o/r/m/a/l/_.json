@@ -1,0 +1,69 @@
+{
+  "word": "subnormal",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ normal"
+      ],
+      "adjectives": [
+        {
+          "description": "subnormal (comparative more subnormal, superlative most subnormal)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Less than normal.",
+                  "examples": [
+                    "His intelligence was considered subnormal, but amazingly as a musician he was a genius."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) denormal",
+                  "examples": [
+                    "Subnormal numbers cannot be normalized because this would result in an exponent that does not fit into the exponent field."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subnormal (plural subnormals)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person whose abilities are less than normal.",
+                  "examples": [
+                    "the IQ scores of mental subnormals"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) That part of the axis of a curved line which is intercepted between the ordinate and the normal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
