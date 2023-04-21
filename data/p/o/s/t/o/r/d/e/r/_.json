@@ -1,0 +1,45 @@
+{
+  "word": "postorder",
+  "etymologies": [
+    {
+      "description": [
+        "post- +‎ order"
+      ],
+      "adjectives": [
+        {
+          "description": "postorder (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) Of a tree traversal, recursively visiting the left and right subtrees before the root.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "postorder (plural postorders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A postorder tree traversal.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
