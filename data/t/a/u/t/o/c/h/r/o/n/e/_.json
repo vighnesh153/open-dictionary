@@ -1,0 +1,32 @@
+{
+  "word": "tautochrone",
+  "etymologies": [
+    {
+      "description": [
+        "From Ancient Greek ταὐτός (tautós, “the same”) + χρόνος (khrónos, “time”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tautochrone (plural tautochrones)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A curve, such that a heavy body, descending along it by the action of gravity, will always arrive at the lowest point in the same time, wherever in the curve it may begin to fall.",
+                  "examples": [
+                    "An inverted cycloid with its base horizontal is a tautochrone."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

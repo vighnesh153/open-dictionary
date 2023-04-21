@@ -1,0 +1,61 @@
+{
+  "word": "tautology",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin tautologia, from Ancient Greek ταὐτολογία (tautología) from ταὐτός (tautós, “the same”) + λόγος (lógos, “explanation”), analyzed as tauto- +‎ -logy."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tautology (countable and uncountable, plural tautologies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Redundant use of words, a pleonasm, an unnecessary and tedious repetition.",
+                  "examples": [
+                    "It is tautology to say, \"Forward Planning\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An expression that features tautology.",
+                  "examples": [
+                    "The expression \"raze to the ground\" is a tautology, since the word \"raze\" includes the notion \"to the ground\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, logic, propositional logic) A statement that is true for all truth values of its propositional variables.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, logic, first-order logic) A statement that is true for all truth values of its Boolean atoms.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
