@@ -1,0 +1,39 @@
+{
+  "word": "rewriter",
+  "etymologies": [
+    {
+      "description": [
+        "rewrite +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rewriter (plural rewriters)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, rewrites.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Part of a compiler that makes a second pass to fix the generated object code by implementing postconditions, patching in calls or pointers to point to the correct locations, etc.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
