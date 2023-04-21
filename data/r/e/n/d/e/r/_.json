@@ -1,0 +1,270 @@
+{
+  "word": "render",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English renderen, rendren, from Old French rendre (“to render, to make”), from Vulgar Latin *rendō, from Latin reddō (“return in profit”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "render (countable and uncountable, plural renders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable) Stucco or plaster applied to walls (mostly to outside masonry walls).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A digital image produced by rendering a model.",
+                  "examples": [
+                    "A low-resolution render might look blocky."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A surrender.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A return; a payment of rent.",
+                  "examples": [
+                    "In those early times the king's household was supported by specific renders of corn and other victuals from the tenants of the demesnes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) An account given; a statement.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "render (third-person singular simple present renders, present participle rendering, simple past and past participle rendered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ditransitive) To cause to become.",
+                  "examples": [
+                    "The shot rendered her immobile."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To interpret, give an interpretation or rendition of.",
+                  "examples": [
+                    "we may, at last, render our philosophy like that of Epictetus"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To translate into another language.",
+                  "examples": [
+                    "to render Latin into English"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pass down.",
+                  "examples": [
+                    "render a verdict (i.e., deliver a judgment)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make over as a return.",
+                  "examples": [
+                    "They had to render the estate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To give; to give back; to deliver.",
+                  "examples": [
+                    "render aid; render money",
+                    "to render an account of what really happened"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, dated) To give up; to yield; to surrender.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computer graphics) To transform (a model) into a display on the screen or other media.",
+                  "examples": [
+                    "rendering images"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To capture and turn over to another country secretly and extrajudicially.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To convert waste animal tissue into a usable byproduct.",
+                  "examples": [
+                    "rendering of fat into soap"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, cooking) To have fat drip off meat from cooking.",
+                  "examples": [
+                    "Bacon is very fatty when raw; however, most of the fat will render during cooking."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(construction) To cover a wall with a layer of plaster.",
+                  "examples": [
+                    "to render with stucco"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To pass; to run; said of the passage of a rope through a block, eyelet, etc.",
+                  "examples": [
+                    "A rope renders well, that is, passes freely."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) To yield or give way.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To return; to pay back; to restore.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To inflict, as a retribution; to requite.",
+                  "examples": [
+                    "I will render vengeance to mine enemies."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "rend +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "render (plural renders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who rends.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
