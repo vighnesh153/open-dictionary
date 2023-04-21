@@ -1,0 +1,161 @@
+{
+  "word": "stake",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stake, from Old English staca (“pin, tack, stake”), from Proto-Germanic *stakô (“stake”), from Proto-Indo-European *stog-, *steg- (“stake”). Cognate with Scots stak, staik, Saterland Frisian Stak, West Frisian staak, Dutch staak, Low German Stake, Norwegian stake."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stake (plural stakes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of wood or other material, usually long and slender, pointed at one end so as to be easily driven into the ground as a marker or a support or stay.",
+                  "examples": [
+                    "We have surveyor's stakes at all four corners of this field, to mark exactly its borders."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(croquet) A piece of wood driven in the ground, placed in the middle of the court, that is used as the finishing point after scoring 12 hoops in croquet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A stick inserted upright in a lop, eye, or mortise, at the side or end of a cart, flat car, flatbed trailer, or the like, to prevent goods from falling off.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(with definite article) The piece of timber to which a person condemned to death was affixed to be burned.",
+                  "examples": [
+                    "Thomas Cranmer was burnt at the stake."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A share or interest in a business or a given situation.",
+                  "examples": [
+                    "The owners let the managers eventually earn a stake in the business."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is laid down as a wager; that which is staked or hazarded; a pledge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small anvil usually furnished with a tang to enter a hole in a bench top, as used by tinsmiths, blacksmiths, etc., for light work, punching hole in or cutting a work piece, or for specific forming techniques etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Mormonism) A territorial division comprising all the Mormons (typically several thousand) in a geographical area.",
+                  "examples": [
+                    "Every city, or stake, including a chief town and surrounding towns, has its president, with two counselors; and this president has a high council of chosen men."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stake (third-person singular simple present stakes, present participle staking, simple past and past participle staked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To fasten, support, defend, or delineate with stakes.",
+                  "examples": [
+                    "to stake vines or plants"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To pierce or wound with a stake.",
+                  "examples": [
+                    "“You ladies happen to notice what happened to this vampire? This just happened. Did you see who staked him?”"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To put at risk upon success in competition, or upon a future contingency.",
+                  "examples": [
+                    "Synonyms: bet, hazard, wager"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To provide another with money in order to engage in an activity as betting or a business venture.",
+                  "examples": [
+                    "John went broke, so to keep him playing, Jill had to stake him.",
+                    "His family staked him $10,000 to get his business started."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptocurrencies) To deposit and risk a considerable amount of cryptocurrency in order to participate in the proof of stake process of verification.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
