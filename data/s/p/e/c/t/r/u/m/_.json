@@ -1,0 +1,108 @@
+{
+  "word": "spectrum",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin spectrum (“appearance, image, apparition”), from speciō (“look at, view”). Doublet of specter. See also scope."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "spectrum (plural spectra or spectrums)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A range; a continuous, infinite, one-dimensional set, possibly bounded by extremes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Specifically, a range of colours representing light (electromagnetic radiation) of contiguous frequencies; hence electromagnetic spectrum, visible spectrum, ultraviolet spectrum, etc. [from later 17th c.]",
+                  "examples": [
+                    "Current 3G technologies can send roughly 1 bit of data - a one or a zero - per second over each 1 Hz of spectrum that the operator owns."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology, education, usually with the) The autism spectrum.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chemistry) The pattern of absorption or emission of radiation produced by a substance when subjected to energy (radiation, heat, electricity, etc.).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra) The set of eigenvalues of a matrix.",
+                  "examples": [
+                    "Synonym: eigenspectrum"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, functional analysis) Of a bounded linear operator A, the set of scalar values λ such that the operator A—λI, where I denotes the identity operator, does not have a bounded inverse; intended as a generalisation of the linear algebra sense.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(abstract algebra, algebraic geometry) The set, denoted Spec(R), of all prime ideals of a given ring R, commonly augmented with a Zariski topology and considered as a topological space.",
+                  "examples": [
+                    "Hyponym: Stone space"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Specter, apparition. [from early 17th c.]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The image of something seen that persists after the eyes are closed.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
