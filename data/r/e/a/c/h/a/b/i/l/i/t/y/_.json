@@ -1,0 +1,39 @@
+{
+  "word": "reachability",
+  "etymologies": [
+    {
+      "description": [
+        "reach +‎ -ability"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reachability (countable and uncountable, plural reachabilities)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The condition of being reachable",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, mathematics) The extent to which a node in a graph is reachable from others",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
