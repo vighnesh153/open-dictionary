@@ -1,0 +1,146 @@
+{
+  "word": "shim",
+  "etymologies": [
+    {
+      "description": [
+        "Unknown; from Kent. Originally a piece of iron attached to a plow; sense of “thin piece of wood” from 1723, sense of “thin piece of material used for alignment or support” from 1860."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "shim (plural shims)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A wedge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A thin piece of material, sometimes tapered, used for alignment or support.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A small library that transparently intercepts and modifies calls to an API, usually for compatibility purposes.",
+                  "examples": [
+                    "Shims intercept Win32 API calls from legacy applications, as defined by system administrators, and then modify the call before passing the code to Windows for execution."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A kind of shallow plow used in tillage to break the ground and clear it of weeds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A small metal device used to pick open a lock.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "shim (third-person singular simple present shims, present participle shimming, simple past and past participle shimmed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To fit one or more shims to a piece of machinery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To adjust something by using shims.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To adjust the homogeneity of a magnetic field, after the mechanical devices once used for the purpose.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To intercept and modify calls to (an API), usually for compatibility purposes.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Blend of she +‎ him."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "shim (plural shims)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, often derogatory) A transsexual person, especially a trans woman; (loosely) a drag queen or transvestite.",
+                  "examples": [
+                    "Synonym: (derogatory) he-she"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, often derogatory) A person characterised by both male and female traits, or by ambiguous male-female traits; a hermaphrodite.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
