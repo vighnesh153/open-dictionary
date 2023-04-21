@@ -1,0 +1,121 @@
+{
+  "word": "risk",
+  "etymologies": [
+    {
+      "description": [
+        "From earlier risque, from Middle French risque, from Old Italian risco (“risk”) (modern Italian rischio) and rischiare (“to run into danger”). Displaced native Old English pleoh (“risk”) and plēon (“to risk”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "risk (countable and uncountable, plural risks)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The probability of a negative outcome to a decision or event.",
+                  "examples": [
+                    "There is risk of being brutalized, arrested, imprisoned and tortured, all because I want you to know the truth about this matter."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The magnitude of possible loss consequent to a decision or event.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, economics, business and engineering) The potential negative effect of an event, determined by multiplying the likelihood of the event occurring with its magnitude should it occur.",
+                  "examples": [
+                    "If there is a 25% chance of running over schedule, costing you a $100 out of your own pocket, that might be a risk you are willing to take. But if you have a 5% chance of running overschedule, knowing that there is a $10,000 penalty, you might be less willing to take that risk."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(countable) A possible adverse event or outcome.",
+              "entries": [
+                {
+                  "meaning": "(insurance) A type of adverse event covered under an insurance policy.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(countable) A thing (from the perspective of how likely or unlikely it is to cause an adverse effect).",
+              "entries": [
+                {
+                  "meaning": "(banking, finance) A borrower (such as a mortgage-holder or person with a credit card).",
+                  "examples": [
+                    "A good credit rating indicates the customer is a desirable risk."
+                  ]
+                },
+                {
+                  "meaning": "(finance) A financial product (typically an investment).",
+                  "examples": [
+                    "Subprime mortgages are poor risks; especially for a pension scheme."
+                  ]
+                },
+                {
+                  "meaning": "(insurance) An entity insured by an insurer.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "risk (third-person singular simple present risks, present participle risking, simple past and past participle risked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To incur risk of (something).",
+                  "examples": [
+                    "These people are putting themselves in danger by physically being on or near to the railway lines and risking serious injury."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To incur risk of harming or jeopardizing.",
+                  "examples": [
+                    "England captain David Beckham has warned Wayne Rooney not to risk his long-term future by rushing his return from injury."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To incur risk as a result of (doing something).",
+                  "examples": [
+                    "After coming to New York, I decided to risk cycling again."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
