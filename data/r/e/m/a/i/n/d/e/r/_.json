@@ -1,0 +1,112 @@
+{
+  "word": "remainder",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English remaindre, remeigner, from Anglo-Norman remaindre, with infinitive used as noun."
+      ],
+      "adjectives": [
+        {
+          "description": "remainder (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Remaining.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "remainder (plural remainders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A part or parts remaining after some has/have been removed.",
+                  "examples": [
+                    "My son ate part of his cake and I ate the remainder.",
+                    "You can have the remainder of my clothes."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The amount left over after subtracting the divisor as many times as possible from the dividend without producing a negative result. If n (dividend) and d (divisor) are integers, then n can always be expressed in the form n = dq + r, where q (quotient) and r (remainder) are also integers and 0 ≤ r < d.",
+                  "examples": [
+                    "17 leaves a remainder of 2 when divided by 3.",
+                    "11 divided by 2 is 5 remainder 1."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The number left over after a simple subtraction",
+                  "examples": [
+                    "10 minus 4 leaves a remainder of 6"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(commerce) Excess stock items left unsold and subject to reduction in price.",
+                  "examples": [
+                    "I got a really good price on this shirt because it was a remainder."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) An estate in expectancy which only comes in its heir's possession after an estate created by the same instrument has been determined",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "remainder (third-person singular simple present remainders, present participle remaindering, simple past and past participle remaindered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, commerce) To mark or declare items left unsold as subject to reduction in price.",
+                  "examples": [
+                    "The bookstore remaindered the unsold copies of that book at the end of summer."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
