@@ -1,0 +1,147 @@
+{
+  "word": "splat",
+  "etymologies": [
+    {
+      "description": [
+        "From earlier splat (“to spread flat”), from Middle English splatten, splaten (“to stretch out, extend\", also \"to split”). Compare dialectal English splat (“flat”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "splat (plural splats)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The narrow wooden centre piece of a chair back.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Onomatopoeia"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "splat (plural splats)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The sharp, atonal sound of a liquid or soft solid hitting a solid surface.",
+                  "examples": [
+                    "I didn't see the egg fall, but I heard the splat when it hit the floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The irregular shape of a viscous liquid or soft solid which has hit a solid surface.",
+                  "examples": [
+                    "The canvas was covered by seemingly careless splats of paint."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, slang) The Command key on an Apple Macintosh.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(computing, slang) Any of various characters appearing in computer character sets.",
+              "entries": [
+                {
+                  "meaning": "The asterisk *",
+                  "examples": []
+                },
+                {
+                  "meaning": "The hash symbol #",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A move in playboating involving stalling in place while positioned vertically against a solid object in the water.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A children's game in which one person, in the centre of a circle of players, points and says \"SPLAT!\" at another player. That player then ducks down and the two players either side of them point and say \"SPLAT!\". The slowest to react is and eliminated from the game. The final is settled by a Mexican standoff.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "splat (third-person singular simple present splats, present participle splatting, simple past and past participle splatted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To hit a flat surface and deform into an irregular shape.",
+                  "examples": [
+                    "The egg splatted onto the floor."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To splatter.",
+                  "examples": [
+                    "She splatted the roach with her shoe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics, transitive) To combine different textures by applying an alpha channel map to the higher levels, revealing the layers underneath where the map is partially or completely transparent.",
+                  "examples": [
+                    "Figure 6: Checkerboard rendering using two different screen space surface splatting algorithms."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
