@@ -1,0 +1,74 @@
+{
+  "word": "similar",
+  "etymologies": [
+    {
+      "description": [
+        "From French similaire, from Medieval Latin similaris, extended from Latin similis (“like”); akin to simul (“together”)."
+      ],
+      "adjectives": [
+        {
+          "description": "similar (comparative more similar, superlative most similar)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having traits or characteristics in common; alike, comparable.",
+                  "examples": [
+                    "My new car is similar to my old one, except it has a bit more space in the back."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) Of geometrical figures including triangles, squares, ellipses, arcs and more complex figures, having the same shape but possibly different size, rotational orientation, and position; in particular, having corresponding angles equal and corresponding line segments proportional; such that one can be had from the other using a sequence of rotations, translations and scalings.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, linear algebra) Of two square matrices; being such that a conjugation sends one matrix to the other.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "similar (plural similars)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That which is similar to, or resembles, something else, as in quality, form, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(homeopathy) A material that produces an effect that resembles the symptoms of a particular disease.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
