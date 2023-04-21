@@ -1,0 +1,209 @@
+{
+  "word": "stub",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stubbe (“tree stump”), from Old English stybb, stubb (“tree stump”), from Proto-West Germanic *stubb, from Proto-Germanic *stubbaz (compare Middle Dutch stubbe, Old Norse stubbr, Faroese stubbi (“stub”)), from Proto-Indo-European *(s)tew-; compare steep (“sharp slope”).",
+        "Sense extended in Middle English to similarly shaped objects. Verb sense “strike one’s toe” is recorded 1848; “extinguish a cigarette” 1927."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stub (plural stubs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something blunted, stunted, or cut short, such as stubble or a stump.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of certain paper items, designed to be torn off and kept for record or identification purposes.",
+                  "examples": [
+                    "check stub",
+                    "ticket stub",
+                    "payment stub"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A placeholder procedure that has the signature of the planned procedure but does not yet implement the intended behavior.",
+                  "examples": [
+                    "Coordinate terms: mock, mock object"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, middleware) A procedure that translates requests from external systems into a format suitable for processing and then submits those requests for processing.",
+                  "examples": [
+                    "Coordinate term: skeleton"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography, in tabular matter) A row heading in a table (with horizontal reference, whereas a column heading has vertical reference).",
+                  "examples": [
+                    "Coordinate term: substub"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly Wikimedia jargon) A page providing only minimal information and intended for later development.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The remaining part of the docked tail of a dog",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An unequal first or last interest calculation period, as a part of a financial swap contract",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A log or block of wood.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A blockhead.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pen with a short, blunt nib.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An old and worn horseshoe nail.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Stub iron.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The smallest remainder of a smoked cigarette; a butt.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stub (third-person singular simple present stubs, present participle stubbing, simple past and past participle stubbed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove most of a tree, bush, or other rooted plant by cutting it close to the ground.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To remove a plant by pulling it out by the roots.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To jam, hit, or bump, especially a toe.",
+                  "examples": [
+                    "I stubbed my toe trying to find the light switch in the dark."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
