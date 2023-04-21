@@ -1,0 +1,52 @@
+{
+  "word": "prescribe",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin praescrībere, from prae- (“before, in front”) and scrībere (“to write”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "prescribe (third-person singular simple present prescribes, present participle prescribing, simple past and past participle prescribed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(medicine) To order (a drug or medical device) for use by a particular patient (under licensed authority).",
+                  "examples": [
+                    "The doctor prescribed aspirin."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To specify by writing as a required procedure or ritual; to lay down authoritatively as a guide, direction, or rule of action.",
+                  "examples": [
+                    "The property meets the criteria prescribed by the regulations."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) To develop or assert a right; to make a claim (by prescription).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
