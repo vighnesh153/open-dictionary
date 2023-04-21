@@ -1,0 +1,78 @@
+{
+  "word": "via",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin via (“road”), from Proto-Indo-European *weǵʰ-. Doublet of way.\nThe sense in electronics is also explained as vertical interconnect access."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "via (plural vias or viae)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A main road or highway, especially in ancient Rome. (Mainly used in set phrases, below.)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) A small hole in a printed circuit board filled with metal which connects two or more layers.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "Borrowed from Latin viā (“by the way (of)”), ablative singular of via (“way, road”), from Proto-Indo-European *weǵʰ-."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [
+        {
+          "description": "via",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "By way of; passing through.",
+                  "examples": [
+                    "They drove from New York to Los Angeles via Omaha.",
+                    "You can enter the building via the western gate."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "By (means of); using.",
+                  "examples": [
+                    "I'll send you the information via e-mail."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": []
+    }
+  ]
+}
