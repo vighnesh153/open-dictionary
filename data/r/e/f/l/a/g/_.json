@@ -1,0 +1,43 @@
+{
+  "word": "reflag",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ flag"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reflag (third-person singular simple present reflags, present participle reflagging, simple past and past participle reflagged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To change the flag on a vessel, etc.",
+                  "examples": [
+                    "The Navy assumed responsibility for escorting the reflagged tankers in the Gulf and through the perilous Strait of Hormuz..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To flag (mark with a variable) again or differently.",
+                  "examples": [
+                    "In addition, it is only necessary to reflag the cells that lie along the free surface and some of their neighbor cells in each computational step."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
