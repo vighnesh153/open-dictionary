@@ -1,0 +1,137 @@
+{
+  "word": "script",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English scrit, borrowed from Old French escrit, from Latin scriptum (something written), from scrībō (“write”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "script (countable and uncountable, plural scripts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, obsolete) A writing; a written document.",
+                  "examples": [
+                    "Synonyms: cursive, hand, handwriting, manuscript"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Written characters; style of writing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(typography) Type made in imitation of handwriting.",
+                  "examples": [
+                    "Synonym: cursive"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, law) An original instrument or document.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The written document containing the dialogue and action for a drama; the text of a stage play, movie, or other performance. Especially, the final form used for the performance itself.",
+                  "examples": [
+                    "Hyponyms: screenplay, teleplay"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A file containing a list of user commands, allowing them to be invoked once to execute in sequence.",
+                  "examples": [
+                    "Synonyms: batch file, macro, shell script",
+                    "Hyponyms: coffeescript, here-script, postscript"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(psychology) A behavioral script; sequence of actions in a given situation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A system of writing adapted to a particular language or set of languages.",
+                  "examples": [
+                    "Synonyms: language script, writing system"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal) Short for prescription. (for drugs or medicine)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "script (third-person singular simple present scripts, present participle scripting, simple past and past participle scripted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To make or write a script.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To devise, concoct, or contrive.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
