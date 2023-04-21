@@ -1,0 +1,43 @@
+{
+  "word": "trident",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin tridēns, from three (“three”) +‎ dēns (“tooth”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trident (plural tridents)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A three-pronged spear somewhat resembling a pitchfork.",
+                  "examples": [
+                    "Poseidon's trident"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A curve of third order of the form:",
+                  "examples": [
+                    "x\n        y\n        +\n        a\n        \n          x\n          \n            3\n          \n        \n        +\n        b\n        \n          x\n          \n            2\n          \n        \n        +\n        c\n        x\n        =\n        d\n        \n      \n    \n    {\\displaystyle xy+ax^{3}+bx^{2}+cx=d\\,}"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
