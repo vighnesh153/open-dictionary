@@ -1,0 +1,127 @@
+{
+  "word": "scan",
+  "etymologies": [
+    {
+      "description": [
+        "From late Middle English scanne (“to mark off verse to show metrical structure”), from earlier scanden, from Late Latin scandere (“to scan verse”), from Classical Latin scandō (“I climb, rise, mount”), from Proto-Indo-European *skend- (“to jump, dart, climb, scale, scan”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "scan (plural scans)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Close investigation. [from 1700s]",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An instance of scanning.",
+                  "examples": [
+                    "The operators vacated the room during the scan."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The result or output of a scanning process.",
+                  "examples": [
+                    "The doctors looked at the scans and made a diagnosis."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "scan (third-person singular simple present scans, present participle scanning, simple past and past participle scanned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To examine sequentially, carefully, or critically; to scrutinize; to behold closely. [from 16th C.]",
+                  "examples": [
+                    "She scanned the passage carefully but could not find what she was looking for."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(transitive) To look about for; to look over quickly. [from 19th C.]",
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To inspect, analyse or go over, often to find something.",
+                  "examples": [
+                    "to scan the hard drive for errors"
+                  ]
+                },
+                {
+                  "meaning": "(computing, transitive) To perform lexical analysis; to tokenize.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, medicine, transitive) To create an image of something with the use of a scanner.",
+                  "examples": [
+                    "to scan a photograph",
+                    "to scan internal organs by means of computed tomography",
+                    "Pencil drawings don't scan very well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To read with an electronic device.",
+                  "examples": [
+                    "to scan a barcode",
+                    "to scan a QR code"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive, originally) To mount by steps; to go through with step by step.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "(poetry, transitive) To read or mark so as to show a specific metre. [from 14th C.]",
+              "entries": [
+                {
+                  "meaning": "(intransitive) To conform to a metrical structure.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
