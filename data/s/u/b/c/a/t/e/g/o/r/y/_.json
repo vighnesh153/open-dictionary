@@ -1,0 +1,39 @@
+{
+  "word": "subcategory",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ category"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subcategory (plural subcategories)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "With respect to a given category, a more narrow category.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(category theory) A subclass of a category which is itself a category, whose arrows are a restriction of the arrows of the parent category, and whose composition rule is a restriction of the parent category's",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
