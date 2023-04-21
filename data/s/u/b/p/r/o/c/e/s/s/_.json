@@ -1,0 +1,45 @@
+{
+  "word": "subprocess",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ process"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subprocess (plural subprocesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A process that is part of a larger overall process.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subprocess (third-person singular simple present subprocesses, present participle subprocessing, simple past and past participle subprocessed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To process as part of a larger overall process.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
