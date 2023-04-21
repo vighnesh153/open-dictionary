@@ -1,0 +1,32 @@
+{
+  "word": "unwarp",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ warp"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unwarp (third-person singular simple present unwarps, present participle unwarping, simple past and past participle unwarped)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To restore from a warped state.",
+                  "examples": [
+                    "Because the distortion is directly related to the local field offset, this provides the needed information to unwarp the EPI images  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
