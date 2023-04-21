@@ -1,0 +1,320 @@
+{
+  "word": "push",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English pushen, poshen, posson, borrowed from Middle French pousser (Modern French pousser) from Old French poulser, from Latin pulsare, frequentative of pellere (past participle pulsus) \"to beat, strike\". Doublet of pulsate. Partly displaced native Old English sċūfan, whence Modern English shove."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "push (countable and uncountable, plural pushes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A short, directed application of force; an act of pushing.",
+                  "examples": [
+                    "Give the door a hard push if it sticks."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An act of tensing the muscles of the abdomen in order to expel its contents.",
+                  "examples": [
+                    "One more push and the baby will be out."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A great effort (to do something).",
+                  "examples": [
+                    "Some details got lost in the push to get the project done.",
+                    "Let's give one last push on our advertising campaign."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An attempt to persuade someone into a particular course of action.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(military) A marching or drill maneuver/manoeuvre performed by moving a formation (especially a company front) forward or toward the audience, usually to accompany a dramatic climax or crescendo in the music.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A wager that results in no loss or gain for the bettor as a result of a tie or even score",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The addition of a data item to the top of a stack.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, uncountable) The situation where a server sends data to a client without waiting for a request.",
+                  "examples": [
+                    "server push; a push technology"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, UK, obsolete, now chiefly Australia) A particular crowd or throng or people.",
+                  "examples": [
+                    "Till some wild, excited person",
+                    "Galloped down the township cursing,",
+                    "\"Sydney push have mobbed Macpherson,",
+                    "Roll up, Dandaloo!\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(snooker) A foul shot in which the cue ball is in contact with the cue and the object ball at the same time",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "push (third-person singular simple present pushes, present participle pushing, simple past and past participle pushed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To apply a force to (an object) such that it moves away from the person or thing applying the force.",
+                  "examples": [
+                    "In his anger he pushed me against the wall and threatened me.",
+                    "You need to push quite hard to get this door open."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To continually attempt to persuade (a person) into a particular course of action.",
+                  "examples": [
+                    "We are pushed for an answer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To press or urge forward; to drive.",
+                  "examples": [
+                    "to push an objection too far; to push one's luck"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To continually promote (a point of view, a product for sale, etc.).",
+                  "examples": [
+                    "Stop pushing the issue — I'm not interested.",
+                    "They're pushing that perfume again.",
+                    "There were two men hanging around the school gates today, pushing drugs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To continually exert oneself in order to achieve a goal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(informal, transitive) To approach; to come close to.",
+                  "examples": [
+                    "My old car is pushing 250,000 miles.",
+                    "He's pushing sixty. (= he's nearly sixty years old)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To tense the muscles in the abdomen in order to give birth or defecate.",
+                  "examples": [
+                    "During childbirth, there are times when the obstetrician advises the woman not to push."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To continue to attempt to persuade a person into a particular course of action.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make a higher bid at an auction.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(poker) To make an all-in bet.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chess, transitive) To move (a pawn) directly forward.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To add (a data item) to the top of a stack.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) To publish (an update, etc.) by transmitting it to other computers.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To thrust the points of the horns against; to gore.",
+                  "examples": [
+                    "If the ox shall push a manservant or maidservant,  […]  the ox shall be stoned."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To burst out of its pot, as a bud or shoot.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(snooker) To strike the cue ball in such a way that it stays in contact with the cue and object ball at the same time (a foul shot).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Probably French poche. See pouch."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "push (plural pushes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, UK, dialect) A pustule; a pimple.",
+                  "examples": [
+                    "a Push rise upon his Nose"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

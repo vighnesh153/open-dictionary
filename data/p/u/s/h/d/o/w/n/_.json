@@ -1,0 +1,47 @@
+{
+  "word": "pushdown",
+  "etymologies": [
+    {
+      "description": [
+        "push +‎ down; by analogy with a spring-loaded stack of plates in a cafeteria."
+      ],
+      "adjectives": [
+        {
+          "description": "pushdown (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Describing a stack in which items are removed in a LIFO manner from the end at which they were added.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pushdown (plural pushdowns)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A pushdown automaton.",
+                  "examples": [
+                    "Since indexed grammars are context-free grammars with pushdowns, the generalization of Thatcher's result shows that they generate the yields of the tree languages recognized by deterministic pushdown tree automata."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
