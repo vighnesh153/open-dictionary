@@ -1,0 +1,41 @@
+{
+  "word": "undecidable",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ decidable"
+      ],
+      "adjectives": [
+        {
+          "description": "undecidable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, computing theory) Incapable of being algorithmically decided in finite time. For example, a set of strings is undecidable if it is impossible to program a computer (even one with infinite memory) to determine whether or not specified strings are included.",
+                  "examples": [
+                    "The first-order procedure SP differs from the proposi- tional procedure CP°1 in an essential feature. Namely, CP°1 always terminates while SP may run forever as we have seen with the example immediately after (3.7). This is not a specific defect of SP. Rather it is known that first-order logic is an undecidable theory while propositional logic is a decidable theory. This means that for the latter there are decision pro- cedures which for any formula decide whether it is valid or not — and CP°1 in fact is such a decision procedure — while for the former such decision procedures do not exist in princi- ple. Thus SP, according to these results for which the reader is referred to any logic texts such as [End], [DrG] or [Lew], is of the kind which we may expect, it is a semi-decision procedure which confirms if a formula is valid but may run forever for invalid formulas. Therefore, termination by running out of time or space after any finite number of steps will leave the question for the validity of a formula unsettled. [...]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) (of a WFF) logically independent from the axioms of a given theory; i.e., that it can never be either proved or disproved (i.e., have its negation proved) on the basis of the axioms of the given theory. (Note: this latter definition is independent of any time bounds or computability issues, i.e., more Platonic.)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
