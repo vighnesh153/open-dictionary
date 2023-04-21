@@ -1,0 +1,47 @@
+{
+  "word": "tilde",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Spanish tilde, from Latin titulus (“superscript”) or from tildar. Doublet of titer/titre, title, titlo, tittle, and titulus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tilde (plural tildes)",
+          "definitionGroups": [
+            {
+              "group": "The grapheme of character ~.",
+              "entries": [
+                {
+                  "meaning": "A diacritical mark (˜) placed above a letter to modify its pronunciation, such as by palatalization in Spanish words or nasalization in Portuguese words.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A punctuation mark that indicates range (from a number to another number).",
+                  "examples": []
+                },
+                {
+                  "meaning": "May be used to represent approximation (mathematics).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The character used to represent negation, usually ~ or ¬.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

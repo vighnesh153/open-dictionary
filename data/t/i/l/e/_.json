@@ -1,0 +1,135 @@
+{
+  "word": "tile",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English tile, tyle, tigel, tiȝel, teȝele, from Old English tieġle, tiġle, tiġele (“tile; brick”), from Proto-West Germanic *tigulā, from Proto-Germanic *tigulǭ (“tile”), from Latin tēgula. Doublet of tegula."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tile (plural tiles)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A regularly-shaped slab of clay or other material, affixed to cover or decorate a surface, as in a roof-tile, glazed tile, stove tile, carpet tile, etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A rectangular graphic.",
+                  "examples": [
+                    "Each tile within the map consists of 256 × 256 pixels.",
+                    "Sprites and tiles that are hidden in the prototype ROM file can be recovered."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any of various flat cuboid playing pieces used in certain games, such as dominoes, Scrabble, or mahjong.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated, informal) A stiff hat.",
+                  "examples": [
+                    "Tile - Tile, a Hat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tile (third-person singular simple present tiles, present participle tiling, simple past and past participle tiled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cover with tiles.",
+                  "examples": [
+                    "The handyman tiled the kitchen.",
+                    "White marble tiled the bathroom."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) To arrange in a regular pattern, with adjoining edges (applied to tile-like objects, graphics, windows in a computer interface).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) To optimize (a loop in program code) by means of the tiling technique.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Freemasonry) To seal a lodge against intrusions from unauthorised people.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "See tiler (“doorkeeper at a Masonic lodge”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tile (third-person singular simple present tiles, present participle tiling, simple past and past participle tiled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To protect from the intrusion of the uninitiated.",
+                  "examples": [
+                    "to tile a Masonic lodge",
+                    "tile the door"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
