@@ -1,0 +1,76 @@
+{
+  "word": "veto",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin vetō (“I forbid”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "veto (plural vetoes or vetos)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A political right to disapprove of (and thereby stop) the process of a decision, a law etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An invocation of that right.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An authoritative prohibition or negative; a forbidding; an interdiction.",
+                  "examples": [
+                    "This contemptuous veto of her husband's on any intimacy with her family."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A technique or mechanism for discarding what would otherwise constitute a false positive in a scientific experiment",
+                  "examples": [
+                    "An outer detector (OD) region will act as both a passive shield for low energy backgrounds and an active veto for cosmic ray muons."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "veto (third-person singular simple present vetoes, present participle vetoing, simple past and past participle vetoed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To use a veto against.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
