@@ -1,0 +1,50 @@
+{
+  "word": "throughput",
+  "etymologies": [
+    {
+      "description": [
+        "From through +‎ put."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "throughput (countable and uncountable, plural throughputs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) The rate at which data is transferred through a system.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(operations) The rate of production; the rate at which something can be processed.",
+                  "examples": [
+                    "The factory managed a throughput of 120 units per hour."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(optics) Synonym of etendue.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

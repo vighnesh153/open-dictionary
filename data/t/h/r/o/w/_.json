@@ -1,0 +1,443 @@
+{
+  "word": "throw",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English throwen, thrawen, from Old English þrāwan (“to turn, twist”), from Proto-West Germanic *þrāan, from Proto-Germanic *þrēaną (“to twist, turn”), from Proto-Indo-European *terh₁- (“to rub, rub by twisting, twist, turn”).",
+        "Cognate with Scots thraw (“to twist, turn, throw”), West Frisian triuwe (“to push”), Dutch draaien (“to turn”), Low German draien, dreien (“to turn (in a lathe)”), German drehen (“to turn”). Displaced Middle English werpen."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "throw (plural throws)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The flight of a thrown object.",
+                  "examples": [
+                    "What a great throw by the quarterback!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The act of throwing something.",
+                  "examples": [
+                    "With an accurate throw, he lassoed the cow.",
+                    "The gambler staked everything on one throw of the dice."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One's ability to throw.",
+                  "examples": [
+                    "He's got a girl's throw.",
+                    "He's always had a pretty decent throw."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A distance travelled; displacement.",
+                  "examples": [
+                    "the throw of the piston"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A piece of fabric used to cover a bed, sofa or other soft furnishing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A single instance, occurrence, venture, or chance.",
+                  "examples": [
+                    "Football tickets are expensive at fifty bucks a throw."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(veterinary medicine) The act of giving birth in animals, especially in cows.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "throw (third-person singular simple present throws, present participle throwing, simple past threw or (nonstandard) throwed, past participle thrown or (nonstandard) throwed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hurl; to cause an object to move rapidly through the air.",
+                  "examples": [
+                    "throw a shoe; throw a javelin; the horse threw its rider"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To eject or cause to fall off.",
+                  "examples": [
+                    "Synonyms: eject, throw off"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To move to another position or condition; to displace.",
+                  "examples": [
+                    "throw the switch"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(ceramics) To make (a pot) by shaping clay as it turns on a wheel.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, cricket, of a bowler) To deliver (the ball) illegally by straightening the bowling arm during delivery.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To send (an error) to an exception-handling mechanism in order to interrupt normal processing.",
+                  "examples": [
+                    "If the file is read-only, the method throws an invalid-operation exception."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports, video games) To intentionally lose a game.",
+                  "examples": [
+                    "The tennis player was accused of taking bribes to throw the match."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, informal) To confuse or mislead.",
+                  "examples": [
+                    "The deliberate red herring threw me at first."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) To send desperately.",
+                  "examples": [
+                    "Their sergeant threw the troops into pitched battle."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To imprison.",
+                  "examples": [
+                    "The magistrate ordered the suspect to be thrown into jail."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To organize an event, especially a party.",
+                  "examples": [
+                    "Should you be interested, for whatever reason, it will tell you how to throw a party for your 40-year-old husband or your 100-year-old great-grandmother. It also describes games that can be played at various kinds of parties […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To roll (a die or dice).",
+                  "examples": [
+                    "The kings came to the agreement between themselves that they would cast lots by the dice to determine who should have this property, and that he who threw the highest should have the district. The Swedish king threw two sixes, and said King Olaf need scarcely throw."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To cause a certain number on the die or dice to be shown after rolling it.",
+                  "examples": [
+                    "The kings came to the agreement between themselves that they would cast lots by the dice to determine who should have this property, and that he who threw the highest should have the district. The Swedish king threw two sixes, and said King Olaf need scarcely throw."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, bridge) To discard.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(martial arts) To lift the opponent off the ground and bring him back down, especially into a position behind the thrower.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, said of one's voice) To change in order to give the illusion that the voice is that of someone else.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To show sudden emotion, especially anger.",
+                  "examples": [
+                    "Bill runs into the kitchen and tells Dad that Erik is throwing a tantrum. He tells Bill to go back and watch his program and to ignore his brother. Fifteen minutes later, Erik is still screaming […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To project or send forth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To put on hastily; to spread carelessly.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To twist two or more filaments of (silk, etc.) so as to form one thread; to twist together, as singles, in a direction contrary to the twist of the singles themselves; sometimes applied to the whole class of operations by which silk is prepared for the weaver.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(baseball, slang, of a team, a manager, etc.) To select (a pitcher); to assign a pitcher to a given role (such as starter or reliever).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To install (a bridge).",
+                  "examples": [
+                    "[…]  across the rapid smaragdus-green waters, pouring onward into the country, are thrown three bridges ..."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, Scotland, Northern England) To twist or turn.",
+                  "examples": [
+                    "a thrown nail"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(American football) Synonym of pass",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, of a punch or boxing combination) To deliver.",
+                  "examples": [
+                    "···not only did I not want to throw a punch at him, I wanted to give him a solid silver token of thanks···"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, veterinary medicine) Of animals: to give birth to (young).",
+                  "examples": [
+                    "At the end of the normal gestation period the cow threw two calf mummies as large as cats."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "From Middle English, from Old English þrāh, þrāg (“space of time, period, while”). Of uncertain origin. Perhaps related to Gothic 𐌸𐍂𐌰𐌲𐌾𐌰𐌽 (þragjan, “to run”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "throw (plural throws)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A moment, time, occasion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A period of time; a while.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "See throe."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "throw (plural throws)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obsolete spelling of throe",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "throw (third-person singular simple present throws, present participle throwing, simple past threw, past participle thrown)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Obsolete spelling of throe",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
