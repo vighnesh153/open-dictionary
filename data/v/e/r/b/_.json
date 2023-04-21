@@ -1,0 +1,132 @@
+{
+  "word": "verb",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English verbe, directly from Latin verbum (“word, verb”) and possibly or reinforced by Old French verbe, from Proto-Indo-European *werdʰo-. Doublet of verve and word."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "verb (plural verbs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word that indicates an action, event, or state of being.",
+                  "examples": [
+                    "The word “speak” is an English verb."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Any word; a vocable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) An action as opposed to a trait or thing.",
+                  "examples": [
+                    "Kindness is a verb, not an adjective. You're only kind if you do kind things."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A named command that performs a specific operation on an object.",
+                  "examples": [
+                    "You can invoke the Properties OLE verb in many ways. The easiest way is to move the mouse over the border of the control until it becomes only a four-way pointer and then right-click."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "verb (plural verbs)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) A word that indicates an action, event, or state of being.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Any word; a vocable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figurative) An action as opposed to a trait or thing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A named command that performs a specific operation on an object.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "verb (third-person singular simple present verbs, present participle verbing, simple past and past participle verbed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, nonstandard, colloquial) To use any word that is or was not a verb (especially a noun) as if it were a verb.",
+                  "examples": [
+                    "Haig, in congressional hearings before his confirmatory, paradoxed his auditioners by abnormalling his responds so that verbs were nouned, nouns verbed and adjectives adverbised. He techniqued a new way to vocabulary his thoughts so as to informationally uncertain anybody listening about what he had actually implicationed... ."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(used as a neutral, unspecific verb, often in linguistics and the social sciences) To perform any action that is normally expressed by a verb.",
+                  "examples": [
+                    "For example, one-part versions of the proposition \"The doctor pursued the lawyer\" were \"The doctor verbed the object,\" ..."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
