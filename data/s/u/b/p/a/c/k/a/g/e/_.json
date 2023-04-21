@@ -1,0 +1,56 @@
+{
+  "word": "subpackage",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ package"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subpackage (plural subpackages)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A physical package contained within another package.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) A package situated hierarchically below another package.",
+                  "examples": [
+                    "Antonym: superpackage"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "subpackage (third-person singular simple present subpackages, present participle subpackaging, simple past and past participle subpackaged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place (an object) in a package which is itself inside a package.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
