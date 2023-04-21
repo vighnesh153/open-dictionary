@@ -1,0 +1,54 @@
+{
+  "word": "unpatched",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ patched"
+      ],
+      "adjectives": [
+        {
+          "description": "unpatched (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not fitted with patches.",
+                  "examples": [
+                    "ragged, unpatched jeans"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) For which a patch is not yet available.",
+                  "examples": [
+                    "Microsoft is actually pretty good about warning users about active attacks abusing unpatched vulnerabilities in Internet Explorer."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Not patched; to which a patch has not been applied.",
+                  "examples": [
+                    "When working with kernel patches, it's a good idea to apply them to a clean, unpatched kernel."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
