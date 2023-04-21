@@ -1,0 +1,262 @@
+{
+  "word": "time",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English tyme, time, from Old English tīma (“time, period, space of time, season, lifetime, fixed time, favourable time, opportunity”), from Proto-Germanic *tīmô (“time”), from Proto-Indo-European *deh₂imō, from Proto-Indo-European *deh₂y- (“to divide”). Cognate with Scots tym, tyme (“time”), Alemannic German Zimen, Zīmmän (“time, time of the year, opportune time, opportunity”), Danish time (“hour, lesson”), Swedish timme (“hour”), Norwegian time (“time, hour”), Faroese tími (“hour, lesson, time”), Icelandic tími (“time, season”). Related to tide. Not related to Latin tempus."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "time (countable and uncountable, plural times)",
+          "definitionGroups": [
+            {
+              "group": "(uncountable) The inevitable progression into the future with the passing of present and past events.",
+              "entries": [
+                {
+                  "meaning": "(physics, usually uncountable) A dimension of spacetime with the opposite metric signature to space dimensions; the fourth dimension.",
+                  "examples": [
+                    "Both science-fiction writers and physicists have written about travel through time."
+                  ]
+                },
+                {
+                  "meaning": "(physics, uncountable) Change associated with the second law of thermodynamics; the physical and psychological result of increasing entropy.",
+                  "examples": [
+                    "Time slows down when you approach the speed of light."
+                  ]
+                },
+                {
+                  "meaning": "(physics, uncountable, reductionist definition) The property of a system which allows it to have more than one distinct configuration.",
+                  "examples": [
+                    "An essential definition of time should entail neither speed nor direction, just change."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "A duration of time.",
+              "entries": [
+                {
+                  "meaning": "(uncountable) A quantity of availability of duration.",
+                  "examples": [
+                    "More time is needed to complete the project.   You had plenty of time, but you waited until the last minute.   Are you finished yet? Time’s up!"
+                  ]
+                },
+                {
+                  "meaning": "(countable) A measurement of a quantity of time; a numerical or general indication of a length of progression.",
+                  "examples": [
+                    "a long time;  Record the individual times for the processes in each batch.   Only your best time is compared with the other competitors.   The algorithm runs in O(n2) time."
+                  ]
+                },
+                {
+                  "meaning": "(uncountable, slang) The serving of a prison sentence.",
+                  "examples": [
+                    "The judge leniently granted a sentence with no hard time.   He is not living at home because he is doing time."
+                  ]
+                },
+                {
+                  "meaning": "(countable) An experience.",
+                  "examples": [
+                    "We had a wonderful time at the party."
+                  ]
+                },
+                {
+                  "meaning": "(countable) An era; (with the, sometimes in plural) the current era, the current state of affairs.",
+                  "examples": [
+                    "Roman times;  the time of the dinosaurs"
+                  ]
+                },
+                {
+                  "meaning": "(uncountable, with possessive) A person's youth or young adulthood, as opposed to the present day.",
+                  "examples": [
+                    "In my time, we respected our elders."
+                  ]
+                },
+                {
+                  "meaning": "(only in singular, sports and figuratively) Time out; temporary, limited suspension of play.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": "An instant of time.",
+              "entries": [
+                {
+                  "meaning": "(uncountable) How much of a day has passed; the moment, as indicated by a clock or similar device.",
+                  "examples": [
+                    "Excuse me, have you got the time?   What time is it, do you guess? Ten o’clock?   A computer keeps time using a clock battery."
+                  ]
+                },
+                {
+                  "meaning": "(countable) A particular moment or hour; the appropriate moment or hour for something (especially with prepositional phrase or imperfect subjunctive).",
+                  "examples": [
+                    "it’s time for bed;  it’s time to sleep;  we must wait for the right time;  it's time we were going"
+                  ]
+                },
+                {
+                  "meaning": "(countable) A numerical indication of a particular moment.",
+                  "examples": [
+                    "at what times do the trains arrive?;  these times were erroneously converted between zones"
+                  ]
+                },
+                {
+                  "meaning": "(countable) An instance or occurrence.",
+                  "examples": [
+                    "When was the last time we went out? I don’t remember.",
+                    "see you another time;  that’s three times he’s made the same mistake",
+                    "Okay, but this is the last time. No more after that!"
+                  ]
+                },
+                {
+                  "meaning": "(UK, in public houses) Closing time.",
+                  "examples": [
+                    "Last call: it's almost time."
+                  ]
+                },
+                {
+                  "meaning": "The hour of childbirth.",
+                  "examples": [
+                    "She was within little more than one month of her time."
+                  ]
+                },
+                {
+                  "meaning": "(as someone's time) The end of someone's life, conceived by the speaker as having been predestined.",
+                  "examples": [
+                    "It was his time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The measurement under some system of region of day or moment.",
+                  "examples": [
+                    "Let's synchronize our watches so we're not on different time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Ratio of comparison.",
+                  "examples": [
+                    "your car runs three times faster than mine;  that is four times as heavy as this"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar, dated) Tense.",
+                  "examples": [
+                    "the time of a verb"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The measured duration of sounds; measure; tempo; rate of movement; rhythmical division.",
+                  "examples": [
+                    "common or triple time;   the musician keeps good time."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang, MLE) Clipping of a long time.",
+                  "examples": [
+                    "2022 March 18,  Ronan Bennett, Gerry Jackson, Tyrone Rashard, Sagirah Gammon; Brady Hood, director,  chapter 1, in  Top Boy(Good Morals) (4), spoken by girl called B, 00:38:33 from the start:Ats' mum is looking for him, says he ain't been back in time)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "time (third-person singular simple present times, present participle timing, simple past and past participle timed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To measure or record the time, duration, or rate of.",
+                  "examples": [
+                    "I used a stopwatch to time myself running around the block."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To choose when something begins or how long it lasts.",
+                  "examples": [
+                    "The President timed his speech badly, coinciding with the Super Bowl.",
+                    "The bomb was timed to explode at 9:20 p.m."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To keep or beat time; to proceed or move in time.",
+                  "examples": [
+                    "With oar strokes timing to their song."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) To pass time; to delay.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To regulate as to time; to accompany, or agree with, in time of movement.",
+                  "examples": [
+                    "Who overlooked the oars, and timed the stroke."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To measure, as in music or harmony.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
