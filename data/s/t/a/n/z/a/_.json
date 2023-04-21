@@ -1,0 +1,68 @@
+{
+  "word": "stanza",
+  "etymologies": [
+    {
+      "description": [
+        "From Italian stanza, from Vulgar Latin *stantia (“standing, stopping-place”), from Latin stāns, stantis, from stō, stāre, from Proto-Italic *staēō, from Proto-Indo-European *sth₂éh₁yeti, stative verb from *steh₂- (whence English stand). Doublet of stance."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stanza (plural stanzas)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A unit of a poem, written or printed as a paragraph; equivalent to a verse.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) An apartment or division in a building.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An XML element which acts as basic unit of meaning in XMPP.",
+                  "examples": [
+                    "Definition of XML Stanza: An XML stanza is the basic unit of meaning in XMPP."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(broadcasting) A segment; a portion of a broadcast devoted to a particular topic.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) A period; an interval into which a sporting event is divided.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
