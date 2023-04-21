@@ -1,0 +1,45 @@
+{
+  "word": "varying",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "varying (plural varyings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer graphics) A kind of variable, used by a fragment shader, that interpolates values across a primitive, so as to produce gradient effects etc.",
+                  "examples": [
+                    "Another consideration to the relationship between vertex and fragment shaders is that adding too many additional varyings can be a drag on performance since they must all be interpolated  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "varying",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of vary",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
