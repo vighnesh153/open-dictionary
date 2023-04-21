@@ -1,0 +1,55 @@
+{
+  "word": "predecessor",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English predecessour, from Old French predecesseor (“forebear”), from Late Latin praedēcessor, from Latin prae- (“pre-”) + Latin dēcessor (“retiring officer”), from Latin dēcēdō (“I retire, I die”) (English decease)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "predecessor (plural predecessors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who precedes; one who has preceded another in any state, position, office, etc.; one whom another follows or comes after, in any office or position.",
+                  "examples": [
+                    "Antonym: successor",
+                    "Hyponym: forebear",
+                    "Synonym: antecessor (rare) ancestor (rare)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A model or type of machinery or device which precedes the current (or later) one. Usually used to describe an earlier, outdated model.",
+                  "examples": [
+                    "Antonym: successor",
+                    "The steam engine was the predecessor of diesel and electric locomotives."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A vertex having a directed path to another vertex",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
