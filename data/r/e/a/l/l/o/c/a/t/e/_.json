@@ -1,0 +1,43 @@
+{
+  "word": "reallocate",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ allocate"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reallocate (third-person singular simple present reallocates, present participle reallocating, simple past and past participle reallocated)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To allocate (a resource) to another person or purpose.",
+                  "examples": [
+                    "I want to reallocate some of my money from stocks to bonds. (I want to sell some of my stocks and use the proceeds to buy bonds to replace them.)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To allocate again.",
+                  "examples": [
+                    "Appending items one at a time is still a better deal than concatenation, which reallocates every time."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
