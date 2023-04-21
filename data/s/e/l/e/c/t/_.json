@@ -1,0 +1,70 @@
+{
+  "word": "select",
+  "etymologies": [
+    {
+      "description": [
+        "From Latin sēlēctus, perfect passive participle of sēligō (“choose out, select”), from sē- (“without; apart”) + legō (“gather, select”)."
+      ],
+      "adjectives": [
+        {
+          "description": "select (comparative more select, superlative most select)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Privileged, specially selected.",
+                  "examples": [
+                    "Only a select few were allowed into the premiere."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Of high quality; top-notch.",
+                  "examples": [
+                    "This is a select cut of beef."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "select (third-person singular simple present selects, present participle selecting, simple past and past participle selected)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To choose one or more elements of a set, especially a set of options.",
+                  "examples": [
+                    "He looked over the menu, and selected the roast beef.",
+                    "The program computes all the students' grades, then selects a random sample for human verification."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(databases) To obtain a set of data from a database using a query.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
