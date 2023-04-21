@@ -1,0 +1,59 @@
+{
+  "word": "superset",
+  "etymologies": [
+    {
+      "description": [
+        "super- +‎ set"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "superset (plural supersets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(set theory) (symbol: ⊇) With respect to another set, a set such that each of the elements of the other set is also an element of the set.",
+                  "examples": [
+                    "The set of human beings is a superset of the set of human children.",
+                    "The set of characters \"LBPG\" is a superset of the set of characters \"PG\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(weightlifting) Two or more different physical exercises performed back to back, without a period of rest between them. The exercises may employ the same muscle group, or opposing muscle groups.",
+                  "examples": [
+                    "While some lifters insist that supersets must consist of consecutive exercises for the same bodypart, others would bet their weight belts that supersets involve opposing bodyparts."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "superset (third-person singular simple present supersets, present participle supersetting, simple past and past participle supersetted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(weightlifting, transitive) To perform (different physical exercises) back to back, without a period of rest between them.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
