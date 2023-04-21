@@ -1,0 +1,57 @@
+{
+  "word": "soundness",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English soundenes, soundnes, from Old English *sundnes, *ġesundnes (attested in onsundnes), from Proto-West Germanic *sundnassī (“soundness, health”); equivalent to sound +‎ -ness. Cognate with West Frisian sûnens (“soundness, health”), Middle Low German suntnisse (“soundness, health”), Middle High German suntnisse (“soundness, health”), German Gesundnis (“health”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "soundness (countable and uncountable, plural soundnesses)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The state or quality of being sound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) The result or product of being sound.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The property (of an argument) of not only being valid, but also of having true premises.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) The property of a logical theory that whenever a wff is a theorem then it must also be valid. Symbolically, letting T represent a theory within logic L, this can be represented as the property that whenever \n  \n    \n      \n        T\n        ⊢\n        ϕ\n      \n    \n    {\\displaystyle T\\vdash \\phi }\n  \n is true, then \n  \n    \n      \n        T\n        ⊨\n        ϕ\n      \n    \n    {\\displaystyle T\\vDash \\phi }\n  \n must also be true, for any wff φ of logic L.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
