@@ -1,0 +1,48 @@
+{
+  "word": "trilemma",
+  "etymologies": [
+    {
+      "description": [
+        "The word is modelled on dilemma, with di- (“prefix meaning ‘two, twice, double’”) replaced by tri- (“prefix meaning ‘three’”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trilemma (plural trilemmas)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A circumstance in which a choice must be made between three options that seem equally undesirable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A situation in which a choice must be made among three desirable options, only two of which are possible at the same time.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) An argument containing three alternatives, jointly exhaustive either under any condition(s) or under all condition(s) consistent with the universe of discourse of that argument, that each imply the same conclusion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
