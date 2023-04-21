@@ -1,0 +1,55 @@
+{
+  "word": "quantize",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "quantize (third-person singular simple present quantizes, present participle quantizing, simple past and past participle quantized)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, physics) To limit the number of possible values of a quantity, or states of a system, by applying the rules of quantum mechanics",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, telecommunications) To approximate a continuously varying signal by one whose amplitude can only have a set of discrete values",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, music) To shift each beat in a rhythmic pattern to the nearest beat of a given resolution (eighth note, sixteenth note, etc.), or to adjust the frequency or pitch of a note to the nearest perfect tone in a given musical scale",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, mathematics)  To associate a given set of numbers with a set of numeric values in another encoding or numerical system (e.g. in a discrete mathematics).",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

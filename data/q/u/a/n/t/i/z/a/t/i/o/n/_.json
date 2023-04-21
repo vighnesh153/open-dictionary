@@ -1,0 +1,39 @@
+{
+  "word": "quantization",
+  "etymologies": [
+    {
+      "description": [
+        "quantize +‎ -ation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "quantization (countable and uncountable, plural quantizations)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, signal processing) The process of approximating a continuous signal by a set of discrete symbols or integer values",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, physics) A procedure for constructing a quantum field theory starting from a classical field theory; to represent by quanta",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
