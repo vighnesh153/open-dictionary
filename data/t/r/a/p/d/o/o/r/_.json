@@ -1,0 +1,66 @@
+{
+  "word": "trapdoor",
+  "etymologies": [
+    {
+      "description": [
+        "trap +‎ door"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "trapdoor (plural trapdoors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A hinged or sliding door set into a floor or ceiling.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater) Such a trap set into the floor of a stage to allow fast exits and entrances.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A secret method of obtaining access to a program or online system; a backdoor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, cryptography) The special information that permits the inverse of a trapdoor function to be easily computed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mining) A door in a level for regulating the ventilating current; a weather door.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
