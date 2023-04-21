@@ -1,0 +1,45 @@
+{
+  "word": "securable",
+  "etymologies": [
+    {
+      "description": [
+        "secure +‎ -able"
+      ],
+      "adjectives": [
+        {
+          "description": "securable (comparative more securable, superlative most securable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Able to be secured.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "securable (plural securables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, Microsoft SQL Server) A resource that can be secured.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
