@@ -1,0 +1,54 @@
+{
+  "word": "since",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English syns, synnes, contraction of earlier sithens, sithence, from sithen (“after, since”) ( + -s, adverbial genitive suffix), from Old English sīþþan, from the phrase sīþ þǣm (“after/since that (time)”), from sīþ (“since, after”) + þǣm dative singular of þæt. Cognate with Dutch sinds (“since”), German seit (“since”), Danish siden (“since”), Scots syne (“since”)."
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "since (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "From a specified time in the past.",
+                  "examples": [
+                    "I met him last year, but haven't seen him since.",
+                    "A short/long time since"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [],
+      "prepositions": [
+        {
+          "description": "since",
+          "definitionGroups": [
+            {
+              "group": "From: referring to a period of time ending in the present and defining it by the point in time at which it started, or the period in which its starting point occurred.",
+              "entries": [
+                {
+                  "meaning": "Continuously during that period of time.",
+                  "examples": [
+                    "I have known her since last year."
+                  ]
+                },
+                {
+                  "meaning": "At certain points during that period of time.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": []
+    }
+  ]
+}
