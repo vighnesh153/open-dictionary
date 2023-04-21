@@ -1,0 +1,39 @@
+{
+  "word": "unsalted",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ salted"
+      ],
+      "adjectives": [
+        {
+          "description": "unsalted (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To which salt has not been added.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cryptography) Without a cryptographic salt.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
