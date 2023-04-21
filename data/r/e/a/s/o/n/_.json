@@ -1,0 +1,166 @@
+{
+  "word": "reason",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English resoun, reson, from Anglo-Norman raisun (Old French raison), from Latin ratiō, from ratus, past participle of reor (“reckon”), ultimately from Proto-Indo-European *h₂reh₁- (“to think”), reanalysed root of *h₂er- (“to put together”). Doublet of ration and ratio."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "reason (countable and uncountable, plural reasons)",
+          "definitionGroups": [
+            {
+              "group": "A cause:",
+              "entries": [
+                {
+                  "meaning": "That which causes something: an efficient cause, a proximate cause.",
+                  "examples": [
+                    "The reason this tree fell is that it had rotted."
+                  ]
+                },
+                {
+                  "meaning": "A motive for an action or a determination.",
+                  "examples": [
+                    "The reason I robbed the bank was that I needed the money.",
+                    "If you don't give me a reason to go with you, I won't."
+                  ]
+                },
+                {
+                  "meaning": "An excuse: a thought or a consideration offered in support of a determination or an opinion; that which is offered or accepted as an explanation.",
+                  "examples": []
+                },
+                {
+                  "meaning": "(logic) A premise placed after its conclusion.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) Rational thinking (or the capacity for it); the cognitive faculties, collectively, of conception, judgment, deduction and intuition.",
+                  "examples": [
+                    "Mankind should develop reason above all other virtues."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Something reasonable, in accordance with thought; justice.",
+                  "examples": [
+                    "I was promised, on a time, To have reason for my rhyme."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, obsolete) Ratio; proportion.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reason (third-person singular simple present reasons, present participle reasoning, simple past and past participle reasoned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To deduce or come to a conclusion by being rational",
+                  "examples": [
+                    "\"I had,\" said he, \"come to an entirely erroneous conclusion which shows, my dear Watson, how dangerous it always is to reason from insufficient data.  […] \""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To perform a process of deduction or of induction, in order to convince or to confute; to argue.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, obsolete) To converse; to compare opinions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To arrange and present the reasons for or against; to examine or discuss by arguments; to debate or discuss.",
+                  "examples": [
+                    "I reasoned the matter with my friend."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, rare) To support with reasons, as a request.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To persuade by reasoning or argument.",
+                  "examples": [
+                    "to reason one into a belief; to reason one out of his plan"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, with down) To overcome or conquer by adducing reasons.",
+                  "examples": [
+                    "to reason down a passion"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, usually with out) To find by logical process; to explain or justify by reason or argument.",
+                  "examples": [
+                    "to reason out the causes of the librations of the moon"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
