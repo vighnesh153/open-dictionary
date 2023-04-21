@@ -1,0 +1,74 @@
+{
+  "word": "tiling",
+  "etymologies": [
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "tiling (countable and uncountable, plural tilings)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A covering of tiles.",
+                  "examples": [
+                    "All the tiling in the bathroom must be removed because of water damage to the wood under it."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The act of applying tiles.",
+                  "examples": [
+                    "We spent all day doing the tiling in the bathroom."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geometry) A tessellation; the covering of a plane with shapes, without overlaps or gaps.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A technique for optimizing loops by partitioning the iteration space into smaller chunks or blocks that will more easily fit in a cache.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "tiling",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "present participle of tile",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
