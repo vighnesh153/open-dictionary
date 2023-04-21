@@ -1,0 +1,57 @@
+{
+  "word": "solenoid",
+  "etymologies": [
+    {
+      "description": [
+        "From French solénoïde, from Ancient Greek σωληνοειδής (sōlēnoeidḗs) (from σωλήν (sōlḗn, “channel, pipe”) + -ειδής (-eidḗs); see -oid)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "solenoid (plural solenoids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A coil of wire that acts as a magnet when an electric current flows through it.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(engineering) An electromechanical device consisting of such a coil containing a metal core, the movement of which is controlled by the current.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) An electromechanical switch controlled by a solenoid; solenoid switch, relay.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(meteorology) The region of intersection between isobaric and isopycnal surfaces.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
