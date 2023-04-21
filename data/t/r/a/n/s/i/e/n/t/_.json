@@ -1,0 +1,171 @@
+{
+  "word": "transient",
+  "etymologies": [
+    {
+      "description": [
+        "From Late Latin transiēnt- (for classical transeunt-), stem of transiēns, present participle of transire (“to go over, to pass”)."
+      ],
+      "adjectives": [
+        {
+          "description": "transient (comparative more transient, superlative most transient)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Passing or disappearing with time; transitory.",
+                  "examples": [
+                    "a transient pleasure"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Remaining for only a brief time.",
+                  "examples": [
+                    "a transient view of a landscape",
+                    "a transient disease"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) Decaying with time, especially exponentially.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, stochastic processes, of a state) having a positive probability of being left and never being visited again.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Occasional; isolated; one-off",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Passing through; passing from one person to another.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Intermediate.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(philosophy) Operating beyond itself; having an external effect.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "transient (plural transients)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that is transient.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) A transient phenomenon, especially an electric current; a very brief surge.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(acoustics) A relatively loud, non-repeating signal in an audio waveform that occurs very quickly, such as the attack of a snare drum.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who passes through a place for a short time; a traveller; a migrant worker.",
+                  "examples": [
+                    "Then, within the space of a few months, there were more transients than there were locals, and the imbalance seemed morally wrong."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A homeless person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming, historical) A module that generally remains in memory only for a short time.",
+                  "examples": [
+                    "The overhead in loading transients is a big time-waster."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Philippines) homestay",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
