@@ -1,0 +1,124 @@
+{
+  "word": "symbol",
+  "etymologies": [
+    {
+      "description": [
+        "From French symbole, from Latin symbolus, symbolum (“a sign, mark, token, symbol, in Late Latin also a creed”), from Ancient Greek σύμβολον (súmbolon, “a sign by which one infers something; a mark, token, badge, ticket, tally, check, a signal, watchword, outward sign”), from συμβάλλω (sumbállō, “I throw together, dash together, compare, correspond, tally, come to a conclusion”), from σύν (sún, “with, together”) + βάλλω (bállō, “I throw, put”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "symbol (plural symbols)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A character or glyph representing an idea, concept or object.",
+                  "examples": [
+                    "$ is the symbol for dollars in the US and some other countries.",
+                    "Chinese people use word symbols for writing."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A thing considered the embodiment of a concept or object.",
+                  "examples": [
+                    "The lion is the symbol of courage; the lamb is the symbol of meekness or patience."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) A type of noun whereby the form refers to the same entity independently of the context; a symbol arbitrarily denotes a referent. See also icon and index.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A summary of a dogmatic statement of faith.",
+                  "examples": [
+                    "The Apostles, Nicene Creed and the confessional books of Protestantism, such as the Augsburg Confession of Lutheranism are considered symbols."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(crystallography) The numerical expression which defines a plane's position relative to the assumed axes.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) That which is thrown into a common fund; hence, an appointed or accustomed duty.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Share; allotment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) An internal identifier used by a debugger to relate parts of the compiled program to the corresponding names in the source code.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(telecommunications) A signalling event on a communications channel; a signal that cannot be further divided into meaningful information.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "symbol (third-person singular simple present symbols, present participle symboling or symbolling, simple past and past participle symboled or symbolled)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To symbolize.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
