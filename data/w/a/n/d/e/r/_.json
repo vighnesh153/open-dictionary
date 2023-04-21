@@ -1,0 +1,103 @@
+{
+  "word": "wander",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English wandren, wandrien, from Old English wandrian (“to wander, roam, fly around, hover; change; stray, err”), from Proto-Germanic *wandrōną (“to wander”), from Proto-Indo-European *wendʰ- (“to turn, wind”), equivalent to wend + -er. Cognate with Scots wander (“to wander”), German wandern (“to wander, roam, hike, migrate”), Swedish vandra (“to wander, hike”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "wander (countable and uncountable, plural wanders)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) An act or instance of wandering.",
+                  "examples": [
+                    "to go for a wander in the park"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The situation where a value or signal etc. deviates from the correct or normal value.",
+                  "examples": [
+                    "Hyponym: polar wander",
+                    "baseline wander in ECG signals"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "wander (third-person singular simple present wanders, present participle wandering, simple past and past participle wandered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To move without purpose or specified destination; often in search of livelihood.",
+                  "examples": [
+                    "to wander over the fields"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To stray; stray from one's course; err.",
+                  "examples": [
+                    "A writer wanders from his subject."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To commit adultery.",
+                  "examples": [
+                    "Synonym: cheat"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To go somewhere indirectly or at varying speeds; to move in a curved path.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) Of the mind, to lose focus or clarity of argument or attention.",
+                  "examples": [
+                    "Synonym: drift"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
