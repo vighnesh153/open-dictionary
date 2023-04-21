@@ -1,0 +1,63 @@
+{
+  "word": "wrapper",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English wrappere, equivalent to wrap +‎ -er."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "wrapper (plural wrappers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that is wrapped around something else as a cover or protection: a wrapping.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An outer garment; a loose robe or dressing gown.",
+                  "examples": [
+                    "Please to examine, at your leisure, the inner linings of the cuff of his left sleeve, and the several little packages which may be found in the somewhat capacious pockets of his embroidered morning wrapper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "One who, or that which, wraps.",
+                  "examples": [
+                    "He proved to be a remarkably efficient wrapper of parcels."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(object-oriented programming) A construct, such as a class or module, that serves to mediate access to another.",
+                  "examples": [
+                    "We need a Perl wrapper for this C++ library."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

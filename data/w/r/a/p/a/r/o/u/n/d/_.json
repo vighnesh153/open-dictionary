@@ -1,0 +1,119 @@
+{
+  "word": "wraparound",
+  "etymologies": [
+    {
+      "description": [
+        "wrap +‎ around"
+      ],
+      "adjectives": [
+        {
+          "description": "wraparound (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of clothing) Designed to be wrapped around the body and tied.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of windows, lenses, etc.) That extends around a corner or bend.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Serving to surround or bookend something else.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "wraparound (countable and uncountable, plural wraparounds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A garment that is wrapped around the body and tied.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) A label or advertising display that wraps around a container.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, television, radio) A segment where material featuring one person (such as a reporter) is introduced and concluded by another person.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(often attributive) An extension to a property that combines side and rear extensions.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable) Synonym of wraparound mortgage",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, computing) Word wrap, the word processing feature that moves text on to the next line if it will not fit on the current one.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, uncountable, programming) The wrapping of numerical value in case of underflow or overflow.",
+                  "examples": [
+                    "The addition of integers is unchecked, so wraparound occurs if the resulting value is beyond the representable range."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
