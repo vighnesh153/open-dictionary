@@ -1,0 +1,223 @@
+{
+  "word": "target",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle French targette, targuete, diminutive of targe (“light shield”), from Old French, from Frankish *targa (“buckler”), akin to Old Norse targa (“small round shield”) (whence also Old English targe, targa (“shield”)) from Proto-Germanic *targǭ (“edge”), from Proto-Indo-European *derǵʰ- (“fenced lot”). Akin to Old High German zarga (“side wall, rim”) (German Zarge (“frame”)), Spanish tarjeta (“card”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "target (plural targets)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A butt or mark to shoot at, as for practice, or to test the accuracy of a firearm, or the force of a projectile.",
+                  "examples": [
+                    "Take careful aim at the target."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A goal or objective.",
+                  "examples": [
+                    "They have a target to finish the project by November."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "An object of criticism or ridicule.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person, place, or thing that is frequently attacked, criticized, or ridiculed.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A kind of small shield or buckler, used as a defensive weapon in war.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A shield resembling the Roman scutum, larger than the modern buckler.",
+                  "examples": [
+                    "The target or buckler was carried by the heavy armed foot, it answered to the scutum of the Romans; its form was sometimes that of a rectangular parallelogram, but more commonly had its bottom rounded off; it was generally convex, being curved in its breadth."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(heraldry) A bearing representing a buckler.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(sports) The pattern or arrangement of a series of hits made by a marksman on a butt or mark.",
+                  "examples": [
+                    "He made a good target."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(surveying) The sliding crosspiece, or vane, on a leveling staff.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(rail transport) A conspicuous disk attached to a switch lever to show its position, or for use as a signal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) the number of runs that the side batting last needs to score in the final innings in order to win",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(linguistics) The tenor of a metaphor.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(translation studies) The translated version of a document, or the language into which translation occurs.",
+                  "examples": [
+                    "Do you charge by source or target?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person (or group of people) that a person or organization is trying to employ or to have as a customer, audience etc.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dated) A thin cut; a slice; specifically, of lamb, a piece consisting of the neck and breast joints.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland, obsolete) A tassel or pendant.",
+                  "examples": [
+                    "Synonym: targe"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Scotland, obsolete) A shred; a tatter.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "target (third-person singular simple present targets, present participle targeting or targetting, simple past and past participle targeted or targetted)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To aim something, especially a weapon, at (a target).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, figuratively) To aim for as an audience or demographic.",
+                  "examples": [
+                    "The advertising campaign targeted older women."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To produce code suitable for.",
+                  "examples": [
+                    "This cross-platform compiler can target any of several processors."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
