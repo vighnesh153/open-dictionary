@@ -1,0 +1,50 @@
+{
+  "word": "undock",
+  "etymologies": [
+    {
+      "description": [
+        "un- +‎ dock"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "undock (third-person singular simple present undocks, present participle undocking, simple past and past participle undocked)",
+          "definitionGroups": [
+            {
+              "group": "(transitive) To remove (a ship) from a dock.",
+              "entries": [
+                {
+                  "meaning": "(astronautics) To depart a spaceship from a dock/berth/mount/mooring under its own power",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To remove from a docking station.",
+                  "examples": [
+                    "After I undock my laptop, I can run it for about six hours on battery power."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To drag (a user interface element, such as a toolbar) away from its fixed position so that it floats freely.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

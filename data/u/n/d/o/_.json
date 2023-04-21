@@ -1,0 +1,92 @@
+{
+  "word": "undo",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English undōn, from Old English ondōn, from Proto-Germanic *andadōną (“to undo”), equivalent to un- +‎ do. Cognate with West Frisian ûndwaan, ûntdwaan (“to undo; rid”), Dutch ontdoen (“to undo”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "undo (plural undos)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) An operation that reverses a previous action.",
+                  "examples": [
+                    "How many undos does this program support?"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "undo (third-person singular simple present undoes, present participle undoing, simple past undid, past participle undone) (transitive)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To reverse the effects of an action.",
+                  "examples": [
+                    "Fortunately, we can undo most of the damage to the system by the war."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To unfasten.",
+                  "examples": [
+                    "Could you undo my buckle for me?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) To impoverish or ruin, as in reputation; to cause the downfall of.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "undo",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Misspelling of undue.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}

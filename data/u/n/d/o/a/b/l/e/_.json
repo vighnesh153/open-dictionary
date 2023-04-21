@@ -1,0 +1,72 @@
+{
+  "word": "undoable",
+  "etymologies": [
+    {
+      "description": [
+        "From un- +‎ doable."
+      ],
+      "adjectives": [
+        {
+          "description": "undoable (comparative more undoable, superlative most undoable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Not doable; impossible to do.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "undoable (plural undoables)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that cannot be done; an impossible or impractical task.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    },
+    {
+      "description": [
+        "From undo +‎ -able."
+      ],
+      "adjectives": [
+        {
+          "description": "undoable (comparative more undoable, superlative most undoable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Possible to undo; reversible.",
+                  "examples": [
+                    "Many new functions and commands are undoable and a maximum of 30 commands are undoable and redoable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
