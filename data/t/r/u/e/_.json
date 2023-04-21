@@ -1,0 +1,220 @@
+{
+  "word": "true",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English trewe, from Old English trīewe, (Mercian) trēowe (“trusty, faithful”), from Proto-Germanic *triwwiz (compare Saterland Frisian trjou (“honest”), Dutch getrouw and trouw, German treu, Norwegian and Swedish trygg (“safe, secure’”), from pre-Germanic *drewh₂yos, from Proto-Indo-European *drewh₂- (“steady, firm”) (compare Irish dearbh (“sure”), Old Prussian druwis (“faith”), Ancient Greek δροόν (droón, “firm”)), extension of *dóru (“tree”). More at tree.",
+        "For the semantic development, compare Latin robustus (“tough”) from robur (“red oak”)."
+      ],
+      "adjectives": [
+        {
+          "description": "true (comparative truer or more true, superlative truest or most true)",
+          "definitionGroups": [
+            {
+              "group": "(of a statement) Conforming to the actual state of reality or fact; factually correct.",
+              "entries": [
+                {
+                  "meaning": "As an ellipsis of \"(while) it is true (that)\", used to start a sentence",
+                  "examples": [
+                    "True, I have only read part of the book, but I like it so far."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Conforming to a rule or pattern; exact; accurate.",
+                  "examples": [
+                    "a true copy;   a true likeness of the original"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(logic) Of the state in Boolean logic that indicates an affirmative or positive result.",
+                  "examples": [
+                    "\"A and B\" is true if and only if \"A\" is true and \"B\" is true."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Loyal, faithful.",
+                  "examples": [
+                    "He’s turned out to be a true friend."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Genuine; legitimate, valid.",
+                  "examples": [
+                    "This is true Parmesan cheese.",
+                    "The true king has returned!"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Used in the designation of group of species, or sometimes a single species, to indicate that it belongs to the clade its common name (which may be more broadly scoped in common speech) is restricted to in technical speech, or to distinguish it from a similar species, the latter of which may be called false.",
+                  "examples": [
+                    "true sparrows (Passer)",
+                    "true spiders",
+                    "true blusher (Amanita rubescens, as distinguished from the false blusher, Amanita pantherina)"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of an aim or missile in archery, shooting, golf, etc.) Accurate; following a path toward the target.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a mechanical part) Correctly aligned or calibrated, without deviation.",
+                  "examples": [
+                    "Is my bike wheel true? It feels unsteady."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly probability) Fair, unbiased, not loaded.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of a literary genre) based on actual historical events.",
+                  "examples": [
+                    "true crimetrue romance"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "true (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(of shooting, throwing etc) Accurately.",
+                  "examples": [
+                    "This gun shoots true."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Truthfully.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "true (countable and uncountable, plural trues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable) The state of being in alignment.",
+                  "examples": [
+                    "Some toolmakers are very careless when drilling the first hole through work that is to be bored, claiming that if the drilled hole comes out of true somewhat it can be brought true with the boring tool."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(uncountable, obsolete) Truth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(countable, obsolete) A pledge or truce.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "true (third-person singular simple present trues, present participle trueing or truing, simple past and past participle trued)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To straighten (of something that is supposed to be straight).",
+                  "examples": [
+                    "He trued the spokes of the bicycle wheel."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To make even, level, symmetrical, or accurate, align; adjust.",
+                  "examples": [
+                    "We spent all night truing up the report."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
