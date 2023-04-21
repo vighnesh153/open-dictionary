@@ -1,0 +1,91 @@
+{
+  "word": "unfold",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English unfolden, from Old English unfealdan (“to unfold”), equivalent to un- +‎ fold."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "unfold (plural unfolds)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) In functional programming, a kind of higher-order function that is the opposite of a fold.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "unfold (third-person singular simple present unfolds, present participle unfolding, simple past and past participle unfolded)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To undo a folding.",
+                  "examples": [
+                    "Unfold thy forehead gathered into frowns."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To turn out; to happen; to develop.",
+                  "examples": [
+                    "Memento unfolds over 22 scenes—or, more accurately, 22 strands of time, the main strand (in color) moving backward in increments, and another strand (in black and white) going forward, though the two overlap profoundly."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To reveal.",
+                  "examples": [
+                    "Pity me not, but lend thy serious hearing  To what I shall unfold."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To open (anything covered or closed); to lay open to view or contemplation; to bring out in all the details, or by successive development.",
+                  "examples": [
+                    "to unfold one's designs;  to unfold the principles of a science"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To release from a fold or pen.",
+                  "examples": [
+                    "to unfold sheep"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
