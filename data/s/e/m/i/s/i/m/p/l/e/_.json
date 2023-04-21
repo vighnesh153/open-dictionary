@@ -1,0 +1,66 @@
+{
+  "word": "semisimple",
+  "etymologies": [
+    {
+      "description": [
+        "semi- +‎ simple"
+      ],
+      "adjectives": [
+        {
+          "description": "semisimple (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a module) In which each submodule is a direct summand.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of an algebra or ring) diagonalizable.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of an operator or matrix) For which every invariant subspace has an invariant complement, equivalent to the minimal polynomial being squarefree.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of a Lie algebra) Being a direct sum of simple Lie algebras.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics, of an algebraic group) Being a linear algebraic group whose radical of the identity component is trivial.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
