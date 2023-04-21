@@ -1,0 +1,123 @@
+{
+  "word": "pointer",
+  "etymologies": [
+    {
+      "description": [
+        "point +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "pointer (plural pointers)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Anything that points or is used for pointing.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A teacher's pointer, pointing stick, a rod with an arrow.",
+                  "examples": [
+                    "Synonym: fescue",
+                    "Hyponym: yad"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A needle-like component of a timepiece or measuring device that indicates the time or the current reading of the device.",
+                  "examples": [
+                    "Synonyms: hand, needle"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(hunting) A breed of hunting dog, trained to point out game.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(programming) A variable that holds the address of a memory location where a value can be stored.",
+                  "examples": [
+                    "Synonym: reference",
+                    "Hyponyms: dangling pointer, function pointer, null pointer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(graphical user interface) An icon that indicates the position of the pointing device, such as a mouse.",
+                  "examples": [
+                    "Synonym: cursor"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly in the plural) A tip, a bit of advice.",
+                  "examples": [
+                    "Synonym: advice",
+                    "The instructor gave me some pointers on writing a good paper."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something that gives a point (sharp end) to something.",
+                  "examples": [
+                    "pencil pointer"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(in combinations) Something worth a given number of points.",
+                  "examples": [
+                    "a ten-pointer"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
