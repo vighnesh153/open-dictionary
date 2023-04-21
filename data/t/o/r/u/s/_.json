@@ -1,0 +1,79 @@
+{
+  "word": "torus",
+  "etymologies": [
+    {
+      "description": [
+        "Borrowed from Latin torus (“a round, swelling, elevation, protuberance”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "torus (plural tori or toruses)",
+          "definitionGroups": [
+            {
+              "group": "(geometry) The standard representation of such a space in 3-dimensional Euclidean space: a surface or solid formed by rotating a closed curve, especially a circle, about a line which lies in the same plane but does not intersect it (e.g. like a ring doughnut).",
+              "entries": [
+                {
+                  "meaning": "(topology) A topological space which is a product of two circles.",
+                  "examples": [
+                    "A 4-variable Karnaugh map can be thought of, topologically, as being a torus.",
+                    "Hyponym: solid torus"
+                  ]
+                },
+                {
+                  "meaning": "(topology, in combination, n-torus, 4-torus, etc.) The product of the specified number of circles.",
+                  "examples": []
+                },
+                {
+                  "meaning": "A ring-shaped object, especially a large ring-shaped chamber used in physical research.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(architecture) A large convex molding, typically semicircular in cross section, which commonly projects at the base of a column and above the plinth.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(anatomy) A rounded ridge of bone or muscle, especially one on the occipital bone.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) The end of the peduncle or flower stalk to which the floral parts (or in the Asteraceae, the florets of a flower head) are attached.",
+                  "examples": [
+                    "Synonyms: receptacle, thalamus"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(botany) The thickening of a membrane closing a wood-cell pit (as of gymnosperm tracheids) having the secondary cell wall arched over the pit cavity.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
