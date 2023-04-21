@@ -1,0 +1,90 @@
+{
+  "word": "selector",
+  "etymologies": [
+    {
+      "description": [
+        "select +‎ -or"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "selector (plural selectors)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Someone or something which selects or chooses.",
+                  "examples": [
+                    "There is one selection for hot chocolate. All selectors are the push button type."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) An administrator responsible for selecting which players will play for a side.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A matching expression in a stylesheet determining which elements in the markup are affected by a style.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A pointer to a structure describing a segment of memory.",
+                  "examples": [
+                    "Phar Lap executables  […]  provide a protected-mode selector, 34h, that maps to the first megabyte of physical memory."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet, historical) A text string transmitted to a Gopher server, identifying the resource to be retrieved.",
+                  "examples": [
+                    "Coordinate term: URL"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) A disc jockey.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Australia, historical) A person who is entitled to choose a tract of Crown land to purchase.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
