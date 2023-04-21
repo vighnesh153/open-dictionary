@@ -1,0 +1,32 @@
+{
+  "word": "prechart",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ chart"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prechart (plural precharts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) Part of a chart that must be traversed with a successful outcome in order for the main chart to have a successful outcome.",
+                  "examples": [
+                    "A careful examination of the issue of violating an LSC before its prechart completes raises the following question: why not try to violate all precharts as soon as possible, thus minimizing the set of constraints imposed on the execution."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
