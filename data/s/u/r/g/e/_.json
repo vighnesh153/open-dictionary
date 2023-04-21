@@ -1,0 +1,151 @@
+{
+  "word": "surge",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English surgen, possibly from Middle French sourgir, from Old French surgir (“to rise, ride near the shore, arrive, land”), from Old Catalan surgir, from Latin surgō, contraction of surrigō, subrigō (“lift up, raise, erect; intransitive rise, arise, get up, spring up, grow, etc.”, transitive verb), from sub (“from below; up”) + regō (“to stretch”), ultimately from Proto-Indo-European *h₃réǵeti (“to straighten; right”), from the root *h₃reǵ-; see regent."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "surge (plural surges)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A sudden transient rush, flood or increase.",
+                  "examples": [
+                    "He felt a surge of excitement."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The maximum amplitude of a vehicle's forward/backward oscillation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electricity) A sudden electrical spike or increase of voltage and current.",
+                  "examples": [
+                    "A power surge at that generator created a blackout across the whole district."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(aviation) A momentary reversal of the airflow through the compressor section of a jet engine due to disruption of the airflow entering the engine's air intake, accompanied by loud banging noises, emission of flame, and temporary loss of thrust.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(nautical) The swell or heave of the sea (FM 55-501).",
+                  "examples": [
+                    "He that doubteth is like the surge of the sea driven by the wind and tossed."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(US, naval, often attributive) A deployment in large numbers at short notice.",
+                  "examples": [
+                    "surge capacity; surge fleet; surge deployment capabilities"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A spring; a fountain.",
+                  "examples": [
+                    "all great rivers are gorged and assembled of various surges and springs of water"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The tapered part of a windlass barrel or a capstan, upon which the cable surges, or slips.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "surge (third-person singular simple present surges, present participle surging, simple past and past participle surged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To rush, flood, or increase suddenly.",
+                  "examples": [
+                    "Toaster sales surged last year."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To accelerate forwards, particularly suddenly.",
+                  "examples": [
+                    "A ship surges forwards, sways sideways and heaves up."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive, aviation, of a jet engine) To experience a momentary reversal of airflow through the compressor section due to disruption of intake airflow.",
+                  "examples": [
+                    "Use of maximum reverse thrust at low speeds can cause the engine to surge from ingesting its own exhaust."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, nautical) To slack off a line.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
