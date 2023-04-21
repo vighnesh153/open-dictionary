@@ -1,0 +1,256 @@
+{
+  "word": "stage",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English stage, from Old French estage (“dwelling, residence; position, situation, condition”), from Old French ester (“to be standing, be located”). Cognate with Old English stæþþan (“to make staid, stay”), Old Norse steðja (“to place, provide, confirm, allow”), Old English stæde, stede (“state, status, standing, place, station, site”). More at stead."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "stage (plural stages)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A phase.",
+                  "examples": [
+                    "He is in the recovery stage of his illness.",
+                    "Completion of an identifiable stage of maintenance such as removing an aircraft engine for repair or storage."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension) One of the portions of a device (such as a rocket or thermonuclear weapon) which are used or activated in a particular order, one after another.",
+                  "examples": [
+                    "The first stage of the launcher burned out and separated after successfully boosting the payload onto a suborbital trajectory, but the engine of the upper stage failed to ignite to place the satellite into orbit."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(theater) A platform; a surface, generally elevated, upon which show performances or other public events are given.",
+                  "examples": [
+                    "The band returned to the stage to play an encore."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A floor or storey of a house.",
+                  "examples": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A floor elevated for the convenience of mechanical work, etc.; scaffolding; staging.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A platform, often floating, serving as a kind of wharf.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A stagecoach, an enclosed horsedrawn carriage used to carry passengers.",
+                  "examples": [
+                    "The stage pulled into town carrying the payroll for the mill and three ladies."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A place of rest on a regularly travelled road; a station; a place appointed for a relay of horses.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(dated) A degree of advancement in a journey; one of several portions into which a road or course is marked off; the distance between two places of rest on a road.",
+                  "examples": [
+                    "a stage of ten miles"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(electronics) The number of an electronic circuit’s block, such as a filter, an amplifier, etc.",
+                  "examples": [
+                    "a 3-stage cascade of a 2nd-order bandpass Butterworth filter"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The place on a microscope where the slide is located for viewing.",
+                  "examples": [
+                    "He placed the slide on the stage."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games) A level; one of the sequential areas making up the game.",
+                  "examples": [
+                    "How do you get past the flying creatures in the third stage?",
+                    "Synonym: level"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A place where anything is publicly exhibited, or a remarkable affair occurs; the scene.",
+                  "examples": [
+                    "Paid media is the admission ticket to enter the big-time Washington stage."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(geology) The succession of rock strata laid down in a single age on the geologic time scale.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Canada, Quebec) An internship.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "stage (third-person singular simple present stages, present participle staging, simple past and past participle staged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To produce on a stage, to perform a play.",
+                  "examples": [
+                    "The local theater group will stage \"Pride and Prejudice\"."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To demonstrate in a deceptive manner.",
+                  "examples": [
+                    "The salesman's demonstration of the new cleanser was staged to make it appear highly effective."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To orchestrate; to carry out.",
+                  "examples": [
+                    "The workers staged a strike.",
+                    "A protest will be staged in the public square on Monday."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To place in position to prepare for use.",
+                  "examples": [
+                    "We staged the cars to be ready for the start, then waited for the starter to drop the flag.",
+                    "to stage data to be written at a later time"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, medicine) To determine what stage (a disease, etc.) has progressed to",
+                  "examples": [
+                    "One method of documenting a wound is as follows: (1) stage the ulcer, time present, setting where occurred; (2) describe the location anatomically; (3) measure ulcer in centimeters (length × width × base);  […]"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(astronautics) To jettison a spent stage of a multistage rocket or other launch vehicle and light the engine(s) of the stage above it.",
+                  "examples": [
+                    "In Kerbal Space Program, you stage away used-up parts of your rocket by hitting the spacebar."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
