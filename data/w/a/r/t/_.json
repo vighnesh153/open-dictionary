@@ -1,0 +1,52 @@
+{
+  "word": "wart",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English warte, werte, from Old English wearte, from Proto-West Germanic *wartā, from Proto-Germanic *wartǭ. Cognate with Dutch wrat, German Warze, Hunsrik Waarz, Swedish vårta."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "wart (plural warts)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(pathology) A type of deformed growth occurring on the skin caused by the human papillomavirus (HPV).",
+                  "examples": [
+                    "A wart has appeared on my toe."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Any similar growth occurring in plants or animals, such as the parotoid glands in the back of toads.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming, slang, derogatory) Any of the prefixes used in Hungarian notation.",
+                  "examples": [
+                    "Hungarian warts suck big time! If you need them, your functions are too big and your class interface is much too fat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": []
+    }
+  ]
+}
