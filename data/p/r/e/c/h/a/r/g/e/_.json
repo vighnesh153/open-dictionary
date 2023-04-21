@@ -1,0 +1,71 @@
+{
+  "word": "precharge",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ charge"
+      ],
+      "adjectives": [
+        {
+          "description": "precharge (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "before a charge",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "precharge (plural precharges)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semiconductors) The phase in the access cycle of DRAM during which the storage capacitors are charged to the appropriate value.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(law) The period of time before the person is charged with a crime.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "precharge (third-person singular simple present precharges, present participle precharging, simple past and past participle precharged)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(semiconductors) To charge the storage capacitors as a part of the DRAM precharge phase.",
+                  "examples": [
+                    "The third way to reduce the charge-sharing effect associated with dynamic logic circuits is to precharge their internal nodes."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
