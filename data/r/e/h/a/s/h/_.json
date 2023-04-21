@@ -1,0 +1,89 @@
+{
+  "word": "rehash",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ hash"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "rehash (plural rehashes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Something reworked, or made up from old materials.",
+                  "examples": [
+                    "He wrote a bad rehash of an earlier essay."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A recomputation of the structure of a hash table, taking into account any newly added items.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "rehash (third-person singular simple present rehashes, present participle rehashing, simple past and past participle rehashed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To hash (chop food into small pieces) again.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To repeat with minor variation.",
+                  "examples": [
+                    "Today's parliamentary session only rehashed last week's arguments.",
+                    "The CEO of the company only rehashed a speech for the news conference.",
+                    "The general rehashed plans for the war."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To analyze a prior contentious or embarrassing event.",
+                  "examples": [
+                    "Let's not rehash what we did last night."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, computing) To recompute the structure of a hash table, taking into account any newly added items.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
