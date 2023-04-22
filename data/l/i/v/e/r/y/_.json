@@ -152,7 +152,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -186,7 +188,9 @@
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }
