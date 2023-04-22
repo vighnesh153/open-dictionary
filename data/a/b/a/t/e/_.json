@@ -50,7 +50,10 @@
                 },
                 {
                   "meaning": "To reduce (something) in amount or size. [from 14th c.]",
-                  "examples": ["Synonyms: decrease, lessen", "Antonyms: enlarge, increase"]
+                  "examples": [
+                    "Synonyms: decrease, lessen",
+                    "Antonyms: enlarge, increase"
+                  ]
                 },
                 {
                   "meaning": "To cut away or hammer down (material from metalwork, a sculpture, etc.) in such a way as to leave a figure in relief.",
@@ -78,15 +81,21 @@
                 },
                 {
                   "meaning": "(law)",
-                  "examples": ["to abate a writ"]
+                  "examples": [
+                    "to abate a writ"
+                  ]
                 },
                 {
                   "meaning": "To make (a writ or other legal document) void; to nullify. [from late 15th c.]",
-                  "examples": ["to abate a writ"]
+                  "examples": [
+                    "to abate a writ"
+                  ]
                 },
                 {
                   "meaning": "To put an end to (a nuisance).",
-                  "examples": ["She was ordered by the court to abate the nuisance."]
+                  "examples": [
+                    "She was ordered by the court to abate the nuisance."
+                  ]
                 },
                 {
                   "meaning": "(chiefly US) To dismiss or otherwise bring to an end (legal proceedings) before they are completed, especially on procedural grounds rather than on the merits.",
@@ -112,11 +121,15 @@
                 },
                 {
                   "meaning": "To bring down (someone) mentally or physically; to lower (someone) in status. [14th–17th c.]",
-                  "examples": ["Synonyms: abase, depress, humble"]
+                  "examples": [
+                    "Synonyms: abase, depress, humble"
+                  ]
                 },
                 {
                   "meaning": "Chiefly followed by from, of, etc.: to omit or remove (a part from a whole); to deduct, to subtract. [15th–19th c.]",
-                  "examples": ["We will abate this price from the total."]
+                  "examples": [
+                    "We will abate this price from the total."
+                  ]
                 },
                 {
                   "meaning": "Chiefly followed by of: to deprive (someone or something of another thing). [15th–19th c.]",
@@ -129,7 +142,9 @@
               "entries": [
                 {
                   "meaning": "To decrease in force or intensity; to subside. [from 14th c.]",
-                  "examples": ["Synonyms: decline, ebb, slacken, soften, wane"]
+                  "examples": [
+                    "Synonyms: decline, ebb, slacken, soften, wane"
+                  ]
                 },
                 {
                   "meaning": "To decrease in amount or size. [from mid 16th c.]",
@@ -147,11 +162,15 @@
                 },
                 {
                   "meaning": "(law)",
-                  "examples": ["The writ has abated."]
+                  "examples": [
+                    "The writ has abated."
+                  ]
                 },
                 {
                   "meaning": "(chiefly historical) Of a writ or other legal document: to become null and void; to cease to have effect. [from late 15th c.]",
-                  "examples": ["The writ has abated."]
+                  "examples": [
+                    "The writ has abated."
+                  ]
                 },
                 {
                   "meaning": "(chiefly US) Of legal proceedings: to be dismissed or otherwise brought to an end before they are completed, especially on procedural grounds rather than on the merits.",
@@ -177,7 +196,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -202,7 +223,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -227,7 +250,9 @@
         }
       ],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }
