@@ -16,7 +16,7 @@ A free simple-to-use **English** dictionary for everyone.
 
 ## How to use?
 
-### GitHub URL (**RECOMMENDED**)
+### 1. 🚀 GitHub URL (**RECOMMENDED**)
 
 * Break your word into single letters and create a `/`-separated path
 * Prefix the path with `https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/`
@@ -30,27 +30,37 @@ For fetching the definition of `apple`
 https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/a/p/p/l/e/_.json
 ```
 
-### My custom Cloudflare worker (for quick testing)
+### 2. 🛠️ My custom Cloudflare worker (for quick testing)
 
-Pass your word to this url as a search parameter: `https://open-dictionary.vighnesh153.workers.dev/?word=<your-word>`
+Pass your word to this url as a search parameter: `open-dictionary.vighnesh153.workers.dev?word=<your-word>`
+
+> In this, behind the scenes, I just build the GitHub URL from the approach mentioned above
 
 #### Examples
 
-```txt
-https://open-dictionary.vighnesh153.workers.dev/?word=apple
-https://open-dictionary.vighnesh153.workers.dev/?word=banana
-```
+* [open-dictionary.vighnesh153.workers.dev?word=apple](https://open-dictionary.vighnesh153.workers.dev/?word=apple)
+* [open-dictionary.vighnesh153.workers.dev?word=banana](https://open-dictionary.vighnesh153.workers.dev/?word=banana)
+* [open-dictionary.vighnesh153.workers.dev?word=cat](https://open-dictionary.vighnesh153.workers.dev/?word=cat)
 
 > Note: This approach is not recommended because this worker has a free limit of 100K requests per day. If a lot of
 > people are using this, then your application might hit a downtime if the threshold is breached
 
-## Why does this exist?
+### 3. ❌ Build your own URL builder
+
+You can build your own Cloudflare worker or AWS Lambda that builds the URL for you.
+
+* [Code to my cloudflare worker](https://github.com/vighnesh153/vighnesh153-turbo/blob/main/cloudflare-tools/open-dictionary-worker)
+
+> But why would you do this? Using approach 1 is not that difficult. It just contains a couple of string manipulation
+> steps.
+
+## Why does this exist? 🧑🏼‍💻
 
 - No other free API for getting English definitions of a word
 - No other trusted source for fetching definitions as an API
 - No reliable (in terms of uptime and rate limiting) server
 
-## How does this solve the above-mentioned problems?
+## How does this solve the above-mentioned problems? 🏗️
 
 - This is a free repository. You don't need to pay a single penny for using this. Although you are welcome to sponsor
   this project if you are interested 🙌
@@ -58,16 +68,16 @@ https://open-dictionary.vighnesh153.workers.dev/?word=banana
   trust for developers.
 - GitHub's servers are more reliable than a custom server managed by a small group of people without any funding
 
-## Missing word?
+## Word missing? 🥹
 
 Found a word which is not available in this repository?
 
 * Create an issue specifying which word is missing
 * It would be more awesome if you could also raise a PR for the issue
 
-Checkout the [Contributions](#contributions) section.
+Checkout the [Contributions](#contributions-) section.
 
-## Where do I source my data from?
+## Where do I source my data from? 🥷🏻
 
 A simple search on wiktionary. For example:
 
@@ -75,7 +85,7 @@ A simple search on wiktionary. For example:
 - Banana: https://en.wiktionary.org/wiki/running
 - Running: https://en.wiktionary.org/wiki/running
 
-## Type Definition (API Contract)
+## Type Definition (API Contract) ⚖️
 
 The `json` files will have a type of `WordWiki` described below:
 
@@ -108,11 +118,11 @@ interface DefinitionGroup {
 }
 ```
 
-## Contributions
+## Contributions ❤️
 
 Checkout the [Contributions guide](./CONTRIBUTING.md)
 
-## FAQs
+## FAQs 🐷
 
 ### Why not use https://dictionaryapi.dev?
 
