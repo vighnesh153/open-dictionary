@@ -22,7 +22,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -71,7 +73,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     }
   ]
 }
