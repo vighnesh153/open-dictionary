@@ -55,6 +55,11 @@ You can build your own Cloudflare worker or AWS Lambda that builds the URL for y
 > But why would you do this? Using approach 1 is not that difficult. It just contains a couple of string manipulation
 > steps.
 
+## List of all words
+
+Find all the words
+here: [metadata/all-words.txt](https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/metadata/all-words.txt)
+
 ## Why does this exist? 🧑🏼‍💻
 
 - No other free API for getting English definitions of a word

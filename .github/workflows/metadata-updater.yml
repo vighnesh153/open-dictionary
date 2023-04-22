@@ -1,0 +1,38 @@
+name: "Update metadata"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  metadata-updater:
+    name: Update the metadata
+    runs-on: ubuntu-latest
+    permissions: read-all|write-all
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update metadata
+        run: npm run update-metadata
+
+      - name: Push changes
+        run: |
+          git config user.name 'vighnesh153'
+          git config user.email 'me@vighnesh153.com'
+          git add metadata
+          git commit -m "chore: update metadata"
+
+      - name: create pull request
+        run: |
+          gh pr create \
+            -B main \
+            -H update-metadata \
+            --title '[GitHub Actions Bot] Update metadata' \
+            --body 'Created by GitHub actions'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
