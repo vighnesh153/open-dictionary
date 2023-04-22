@@ -64,7 +64,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -207,7 +209,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -277,7 +281,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     }
   ]
 }
