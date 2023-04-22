@@ -3,31 +3,84 @@
   "etymologies": [
     {
       "description": [
-        "Lower case variation of upper case I, from Ancient Greek letter Ι (I, “Iota”)."
+        "From Latin i, minuscule of I."
       ],
       "adjectives": [],
       "adverbs": [],
-      "nouns": [],
+      "nouns": [
+        {
+          "description": "i (plural ies)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The name of the Latin-script letter I/i.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "prepositions": [],
-      "verbs": []
-    },
-    {
-      "description": [],
-      "adjectives": [],
-      "adverbs": [],
-      "nouns": [],
-      "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "i (lower case, upper case I, plural is or i's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ninth letter of the English alphabet, called i and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "i (lower case, upper case I)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number ninth, derived from this letter of the English alphabet, called i and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "description": [
-        "Lower case form of upper case Roman numeral I, apparently derived from the shape of a notch scored across a tally stick."
+        "From Old English iċ."
       ],
       "adjectives": [],
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [
+        "Abbreviations."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }

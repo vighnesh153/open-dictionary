@@ -3,13 +3,82 @@
   "etymologies": [
     {
       "description": [
-        "Modification of capital letter E in uncial script, from Ancient Greek Ε (E, “Epsilon”)."
+        "From Middle English and Old English lower case letter e and split of æ, ea, eo, and œ, from five 7th century replacements of Anglo-Saxon Futhorcs by Latin letters:"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "e (plural ees)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The name of the Latin-script letter E/e.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [
+        {
+          "description": "e (lower case, upper case E, plural es or e's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The fifth letter of the English alphabet, called e and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "e (lower case, upper case E)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number fifth, derived from this letter of the English alphabet, called e and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Abbreviations."
       ],
       "adjectives": [],
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }

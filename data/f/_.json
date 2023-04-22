@@ -3,13 +3,95 @@
   "etymologies": [
     {
       "description": [
-        "Modification of upper case Latin letter F, from Greek Ϝ (W, “Digamma”), from Phœnician 𐤅‎ (W, “waw”), the ultimate source being probably Egyptian."
+        "Old English lower case letter f, from 7th century replacement by Latin lower case f of the Anglo-Saxon Futhorc letter ᚠ (f, “fe”)."
       ],
       "adjectives": [],
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "f (lower case, upper case F, plural fs or f's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The sixth letter of the English alphabet, called ef and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "f (lower case, upper case F)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number sixth, derived from this letter of the English alphabet, called ef and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Abbreviations.",
+        "f"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "f",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(printing, abbreviation) Folio, paper and book size (10\"-12.5\" x 15\"-20\")",
+                  "examples": [
+                    "Synonyms: F, fo"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(euphemistic) fuck",
+                  "examples": [
+                    "What the f do you think you're doing?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of f.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }

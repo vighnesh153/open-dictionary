@@ -3,21 +3,87 @@
   "etymologies": [
     {
       "description": [
-        "Modification of capital letter R by not closing the bottom of the loop but continuing into the leg to save a pen stroke, later shortening the right leg into a simple arc."
+        "Old English lower case letter r, from 7th century replacement by Latin lower case r of the Anglo-Saxon Futhorc letter ᚱ."
       ],
       "adjectives": [],
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "r (lower case, upper case R, plural rs or r's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The eighteenth letter of the English alphabet, called ar and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "r (lower case, upper case R)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number eighteenth, derived from this letter of the English alphabet, called ar and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "description": [],
+      "description": [
+        "From are, pronounced like the name of the letter r."
+      ],
       "adjectives": [],
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [
+        {
+          "description": "r",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(abbreviation, slang, text messaging, Internet) are (in text messaging and internet conversations)",
+                  "examples": [
+                    "How r u — “How are you?”"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [
+        "Abbreviations.",
+        "r"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }

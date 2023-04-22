@@ -7,7 +7,77 @@
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "l (lower case, upper case L, plural ls or l's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The twelfth letter of the English alphabet, called el and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "l (lower case, upper case L)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number twelfth, derived from this letter of the English alphabet, called el and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Abbreviation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "l",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of litre/liter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of pound (sterling), derived from Latin libra.",
+                  "examples": [
+                    "Alternative form: l."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
     },
     {
       "description": [],
@@ -15,7 +85,9 @@
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }

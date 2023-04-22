@@ -3,43 +3,112 @@
   "etymologies": [
     {
       "description": [
-        "Modification of upper case letter C, from Etruscan 𐌂 (c), from Ancient Greek Γ (G, “Gamma”), from Phoenician 𐤂‎ (g, “gimel”)."
+        "Old English lower case letter c, from 7th century replacement by Latin lower case c of the Anglo-Saxon Futhorc letter ᚳ (c, “cen”)."
       ],
       "adjectives": [],
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "c (lower case, upper case C, plural cs or c's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The third letter of the English alphabet, called cee and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "c (lower case, upper case C)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number third, derived from this letter of the English alphabet, called cee and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "description": [
-        "Lower case form of upper case roman numeral C, a standardization of Ɔ and C because the latter happens to be an abbreviation of Latin centum (“hundred”), from abbreviation of ƆIC, an alternate form of >I<, from tally stick markings resembling Ж (a superimposed X and I), from the practice of designating each tenth X notch with an extra cut."
+        "Various abbreviations"
       ],
       "adjectives": [],
-      "adverbs": [],
-      "nouns": [],
+      "adverbs": [
+        {
+          "description": "c",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of c.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "c",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of c.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     },
     {
-      "description": [
-        "From centi-, from Latin centum (“hundred”)."
-      ],
+      "description": [],
       "adjectives": [],
       "adverbs": [],
-      "nouns": [],
-      "prepositions": [],
-      "verbs": []
-    },
-    {
-      "description": [
-        "From Latin celeritās (“speed”)."
+      "nouns": [
+        {
+          "description": "c (plural cs or c's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) The middle tone in either one of the sets of seven white keys on a keyboard or a set of seven strings on a stringed instrument.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
       ],
-      "adjectives": [],
-      "adverbs": [],
-      "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     },
     {
       "description": [],
@@ -47,7 +116,24 @@
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [
+        {
+          "description": "c",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet slang, text messaging) Abbreviation of see; also C.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
     }
   ]
 }

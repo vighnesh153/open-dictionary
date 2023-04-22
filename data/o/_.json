@@ -5,9 +5,171 @@
       "description": [],
       "adjectives": [],
       "adverbs": [],
+      "nouns": [
+        {
+          "description": "o (plural oes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The name of the Latin-script letter O/o.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A zero (used in reading out numbers).",
+                  "examples": [
+                    "It is currently two-o-five in the afternoon (2:05 PM).",
+                    "The first permanent English settlement in America was in Jamestown in sixteen-o-seven (1607)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [
+        {
+          "description": "o (lower case, upper case O, plural os or o's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The fifteenth letter of the English alphabet, called o and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of ο, the fifteenth letter of the Classical and Modern Greek alphabets, called omicron and (astronomy) used as an abbreviation of omicron in star names.",
+                  "examples": [
+                    "The system's Bayer designation is o Persei."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "o (lower case, upper case O)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number fifteenth, derived from this letter of the English alphabet, called o and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [],
+      "adjectives": [
+        {
+          "description": "o",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Over",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "o",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(IRC, acronym of) Operator",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(acronym of) Object, see SVO",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [
+        "See o'."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [
+        {
+          "description": "o",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": []
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of of",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [
+        "Abbreviations."
+      ],
+      "adjectives": [],
+      "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }

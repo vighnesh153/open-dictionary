@@ -7,7 +7,180 @@
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "p (lower case, upper case P, plural ps or p's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The sixteenth letter of the English alphabet, called pee and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "p (lower case, upper case P)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number sixteenth, derived from this letter of the English alphabet, called pee and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": [
+        "Abbreviations"
+      ],
+      "adjectives": [],
+      "adverbs": [
+        {
+          "description": "p (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Internet) Abbreviation of pretty (as an intensifier)",
+                  "examples": [
+                    "I'm doing p good, how are you?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(chiefly US, stenoscript) Alternative spelling of p.m. (“post meridiem”) or pm",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nouns": [
+        {
+          "description": "p",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Alternative form of p.; Abbreviation of page (plural pp)",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK) Abbreviation of penny; pence.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(physics) proton",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video compression) Abbreviation of progressive scan.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of pee.",
+                  "examples": [
+                    "I'll slurp all that p."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [
+        {
+          "description": "p",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of post, meaning after",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of per.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(stenoscript) Abbreviation of up.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "verbs": [
+        {
+          "description": "p",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(knitting) Abbreviation of purl.",
+                  "examples": [
+                    "Knit 3, p 1, k 2, purl 1, k 2, m 1, k 2 together, k 1."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
     }
   ]
 }

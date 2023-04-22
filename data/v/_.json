@@ -27,7 +27,24 @@
         }
       ],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "v (lower case, upper case V, plural vs or v's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The twenty-second letter of the English alphabet, called vee and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": []
     },
     {
       "description": [
@@ -55,7 +72,9 @@
           ]
         }
       ],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -82,7 +101,9 @@
       ],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -93,7 +114,9 @@
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }

@@ -2,34 +2,170 @@
   "word": "m",
   "etymologies": [
     {
-      "description": [
-        "Modification of capital letter M, from Ancient Greek letter Μ (M, “Mu”)."
-      ],
+      "description": [],
       "adjectives": [],
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "m (lower case, upper case M, plural ms or m's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The thirteenth letter of the English alphabet, called em and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "m (lower case, upper case M)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number thirteenth, derived from this letter of the English alphabet, called em and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "description": [
-        "Various abbreviations."
+        "Abbreviations."
       ],
-      "adjectives": [],
-      "adverbs": [],
-      "nouns": [],
-      "prepositions": [],
-      "verbs": []
-    },
-    {
-      "description": [
-        "From upper case roman numeral M (1000), an alteration of ⋈, from ∞, an alteration of ↀ, an alteration of Ⓧ, from encircling X (the roman numeral for ten) to indicate the hundredth ten."
+      "adjectives": [
+        {
+          "description": "m",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(grammar) Abbreviation of masculine.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
       ],
-      "adjectives": [],
       "adverbs": [],
-      "nouns": [],
+      "nouns": [
+        {
+          "description": "m (plural ms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of meter.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of mile.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of month.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of minute.",
+                  "examples": [
+                    "Another instance: 2h28m p. m., 10 micra; 3h08m p. m., 0 micra; irrigated with water: 3h09m p. m., 4 micra."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of million.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Abbreviation of minim (“unit of volume”).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(music) Abbreviation of measure.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) thousand",
+                  "examples": [
+                    "Having made a divorce with politics as I have already mentioned I have only to trouble you on my personal affairs ... —The principle & most pressing is that of the 9. m. dollars—"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "prepositions": [],
-      "verbs": []
+      "verbs": [
+        {
+          "description": "m",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(knitting) make",
+                  "examples": [
+                    "Row 1 (RS): Kfb, knit to marker A, slip marker A, knit to marker B (there are no sts to knit between markers A and B in Row 1), m1, slip marker B, k1, slip marker B, m1,  […]"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
     }
   ]
 }

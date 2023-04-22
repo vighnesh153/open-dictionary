@@ -5,9 +5,73 @@
       "description": [],
       "adjectives": [],
       "adverbs": [],
+      "nouns": [
+        {
+          "description": "j (plural js)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(slang) A term for a marijuana cigarette ('joint').",
+                  "examples": [
+                    "\"I went outside to smoke myself a J\" — Paul Simon, from the song \"Late in the Evening\" from the album, \"One Trick Pony.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) An alternative version of i, the positive square root of -1; used in the context of electronics.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) The second unit vector, after i",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [
+        {
+          "description": "j (lower case, upper case J, plural js or j's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The tenth letter of the English alphabet, called jay and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": []
+    },
+    {
+      "description": [
+        "Abbreviation."
+      ],
+      "adjectives": [],
+      "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }

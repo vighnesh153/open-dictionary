@@ -3,31 +3,104 @@
   "etymologies": [
     {
       "description": [
-        "Modification of capital letter D, from Ancient Greek letter Δ (D, “Delta”)."
+        "Old English lower case letter d, from 7th century replacement by Latin lower case d of the Anglo-Saxon Futhorc letter ᛞ."
       ],
       "adjectives": [],
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [
+        {
+          "description": "d (lower case, upper case D, plural ds or d's)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The fourth letter of the English alphabet, called dee and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "number": [
+        {
+          "description": "d (lower case, upper case D)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The ordinal number fourth, derived from this letter of the English alphabet, called dee and written in the Latin script.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "description": [
-        "Lower case form of upper case roman numeral D, a standardization of D or Ð, from tally stick markings resembling a superimposed Ɔ and ⋌, from the practice of encircling each hundredth ⋌ notch."
+        "Abbreviations.",
+        "d"
       ],
-      "adjectives": [],
-      "adverbs": [],
+      "adjectives": [
+        {
+          "description": "d",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(cricket) Abbreviation of declared.",
+                  "examples": [
+                    "Synonym: dec"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [
+        {
+          "description": "d",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(crosswords) Abbreviation of down.",
+                  "examples": [
+                    "Do you have the answer for 23d?"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(Malaysia)(informal) Abbreviation of already. Used to form the perfect tenses. Used in text messages.",
+                  "examples": [
+                    "Come d.",
+                    "Done d."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
-    },
-    {
-      "description": [],
-      "adjectives": [],
-      "adverbs": [],
-      "nouns": [],
-      "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }
