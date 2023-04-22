@@ -17,6 +17,7 @@
     "expected-word-definition": "run-s clean build \"expected-word-definition:script -- {1}\" --",
     "create-word-definition:script": "node ./dist/createWordDefinition.js",
     "create-word-definition": "run-s clean build \"create-word-definition:script -- {1}\" --",
+    "update-metadata": "run-s clean build && node ./dist/metadataUpdater.js",
     "test": "run-s clean build && vitest run",
     "prepare": "husky install"
   },

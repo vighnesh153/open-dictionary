@@ -1,6 +1,7 @@
 <h1 style="text-align: center">🐶 Open Dictionary 🦄</h1>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap">
+  <img alt="Total words count" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvighnesh153%2Fopen-dictionary%2Fmain%2Fmetadata%2Fword-count-label.json">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vighnesh153/open-dictionary">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/vighnesh153/open-dictionary">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vighnesh153/open-dictionary">

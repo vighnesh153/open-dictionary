@@ -6,6 +6,7 @@ export default defineConfig(() => ({
     expectedWordDefinition: './src/expectedWordDefinition.ts',
     browserDefinitionFetch: './src/browserDefinitionFetch.ts',
     playground: './src/playground.ts',
+    metadataUpdater: './src/metadataUpdater.ts',
     pullRequestTest: './src/pullRequestTest.ts',
   },
   splitting: false,
