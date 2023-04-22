@@ -15,7 +15,10 @@
               "entries": [
                 {
                   "meaning": "(nautical) On the aft side; in the stern. [First attested in the early 17th century.]",
-                  "examples": ["We drifted with the wind abaft.", "The mate sleeps abaft."]
+                  "examples": [
+                    "We drifted with the wind abaft.",
+                    "The mate sleeps abaft."
+                  ]
                 }
               ]
             },
@@ -41,14 +44,19 @@
               "entries": [
                 {
                   "meaning": "(nautical) Behind; toward the stern relative to some other object or position; aft of. [First attested around the late 15th century.]",
-                  "examples": ["Synonym: abaft of", "The captain stood abaft the wheelhouse."]
+                  "examples": [
+                    "Synonym: abaft of",
+                    "The captain stood abaft the wheelhouse."
+                  ]
                 }
               ]
             }
           ]
         }
       ],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }
