@@ -53,7 +53,9 @@
         }
       ],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -87,7 +89,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -112,7 +116,9 @@
       "adverbs": [],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }
