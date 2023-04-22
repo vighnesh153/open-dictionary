@@ -22,7 +22,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [],
@@ -45,7 +47,9 @@
       ],
       "nouns": [],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }
