@@ -81,7 +81,9 @@
             }
           ]
         }
-      ]
+      ],
+      "letter": [],
+      "number": []
     },
     {
       "description": [
@@ -123,7 +125,9 @@
         }
       ],
       "prepositions": [],
-      "verbs": []
+      "verbs": [],
+      "letter": [],
+      "number": []
     }
   ]
 }
