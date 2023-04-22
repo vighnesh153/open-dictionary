@@ -10,6 +10,8 @@ export interface Etymology {
   adjectives: Array<PartOfSpeech>;
   prepositions: Array<PartOfSpeech>;
   adverbs: Array<PartOfSpeech>;
+  letter: Array<PartOfSpeech>;
+  number: Array<PartOfSpeech>;
 }
 
 export interface PartOfSpeech {

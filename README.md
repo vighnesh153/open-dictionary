@@ -68,14 +68,18 @@ You can build your own Cloudflare worker or AWS Lambda that builds the URL for y
   trust for developers.
 - GitHub's servers are more reliable than a custom server managed by a small group of people without any funding
 
-## Word missing? 🥹
+## Word missing or something doesn't match Wiktionary's page? 🥹
 
-Found a word which is not available in this repository?
+Found a word which is not available in this repository? Or, some definition is not matching Wiktionary's page for the
+word? It is possible that Wiktionary might have updated the definition for the word. Since this repo doesn't listen to
+changes
+in Wiktionary, the definitions don't get synced in this repo automatically and will need a manual update trigger.
 
-* Create an issue specifying which word is missing
-* It would be more awesome if you could also raise a PR for the issue
+* Create an issue specifying which word is missing or doesn't match Wiktionary's information
+* It would be more awesome if you could also raise a PR for the issue (Creating a PR is easy. You just need to run the
+  script specified in the Contributions section and verify if the JSON is correct)
 
-Checkout the [Contributions](#contributions-) section.
+Checkout the [Contributions](#contributions) section.
 
 ## Where do I source my data from? 🥷🏻
 
@@ -102,6 +106,8 @@ interface Etymology {
     adjectives: Array<PartOfSpeech>;
     prepositions: Array<PartOfSpeech>;
     adverbs: Array<PartOfSpeech>;
+    letter: Array<PartOfSpeech>;
+    number: Array<PartOfSpeech>;
 }
 
 interface PartOfSpeech {
@@ -118,7 +124,7 @@ interface DefinitionGroup {
 }
 ```
 
-## Contributions ❤️
+## Contributions ❤️ <a id="contributions"></a>
 
 Checkout the [Contributions guide](./CONTRIBUTING.md)
 

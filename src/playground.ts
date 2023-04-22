@@ -7,6 +7,7 @@ import { buildWordPath } from './buildWordPath';
 import { writeToPath } from './writeToPath';
 
 function sleep(ms: number) {
+  console.log(`Sleeping for ${(ms / 1000).toFixed(2)} seconds`);
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve(null);
@@ -44,8 +45,12 @@ async function doIt() {
     const definedWords = words.filter((_, index) => !nullWordDefinitionIndexes.includes(index));
 
     if (definedWords.length > 0) {
-      execSync('git add data');
-      execSync(`git commit -m "feat: add words ${definedWords.join(',')}" --no-verify`);
+      const gitAddCmd = `git add ${definedWords.map(buildWordPath).join(' ')}`;
+      console.log(gitAddCmd);
+      execSync(gitAddCmd);
+      const gitCommitCmd = `git commit -m "feat: add words ${definedWords.join(',')}" --no-verify`;
+      console.log(gitCommitCmd);
+      execSync(gitCommitCmd);
     }
 
     fs.rmSync(filePath);
@@ -58,10 +63,17 @@ async function doIt() {
 
   await sleep(20 * 1000);
 
-  if (overallCounter > 5) {
+  if (overallCounter > 500) {
     return;
   }
   await doIt();
 }
 
-doIt();
+function main() {
+  doIt().catch(async () => {
+    await sleep(2 * 60 * 1000);
+    main();
+  });
+}
+
+main();

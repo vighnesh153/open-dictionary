@@ -13,6 +13,8 @@ export function findPartsOfSpeech(elements: Element[], headingLevel: string): Om
     nouns: [],
     prepositions: [],
     verbs: [],
+    letter: [],
+    number: [],
   };
   partsOfSpeech.forEach(({ partOfSpeechKey, key }) => {
     const sections = parseSections(elements, headingLevel, partOfSpeechKey);

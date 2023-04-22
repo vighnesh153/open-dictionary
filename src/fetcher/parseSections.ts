@@ -50,12 +50,13 @@ export function parseSections(elements: Element[], headingNodeName: string, head
     .filter(([node]) => is(node, headingNodeName))
     .map(([, index]) => index);
 
-  return headingIndices
-    .map((headingIndex, index) => {
-      const isLastIndex = index === headingIndices.length - 1;
-      return elements.slice(headingIndex, isLastIndex ? undefined : headingIndices[index + 1]);
-    })
-    .filter((sectionElements) =>
-      Boolean(sectionElements.find((node) => textContent(node).startsWith(headingTextContent)))
-    );
+  const allSections = headingIndices.map((headingIndex, index) => {
+    const isLastIndex = index === headingIndices.length - 1;
+    return elements.slice(headingIndex, isLastIndex ? undefined : headingIndices[index + 1]);
+  });
+
+  return allSections.filter((sectionElements) => {
+    const firstElement = sectionElements[0];
+    return textContent(firstElement).startsWith(headingTextContent);
+  });
 }

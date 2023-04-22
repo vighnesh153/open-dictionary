@@ -16,4 +16,12 @@ export const partsOfSpeech = [
     partOfSpeechKey: 'Adverb' as const,
     key: 'adverbs' as const,
   },
+  {
+    partOfSpeechKey: 'Letter' as const,
+    key: 'letter' as const,
+  },
+  {
+    partOfSpeechKey: 'Number' as const,
+    key: 'number' as const,
+  },
 ];
