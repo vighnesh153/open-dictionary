@@ -9,7 +9,7 @@ jobs:
   metadata-updater:
     name: Update the metadata
     runs-on: ubuntu-latest
-    permissions: read-all|write-all
+    # permissions: read-all|write-all
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
