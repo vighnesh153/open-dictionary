@@ -28,11 +28,22 @@ jobs:
           git commit -m "chore: update metadata" --no-verify
 
       - name: Create Pull Request
-        run: |
-          gh pr create \
-            -B main \
-            -H update-metadata \
-            --title '[GitHub Actions Bot] Update metadata' \
-            --body 'Created by GitHub actions'
+        uses: peter-evans/create-pull-request@v5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit-message: "chore: update metadata"
+          committer: "GitHub <noreply@bot.actions.github.com>"
+          author: "GitHub <noreply@bot.actions.github.com>"
+          branch: update-metadata
+          delete-branch: true
+          title: '[Github Actions Bot] Update metadata'
+          body: |
+            Update metadata
+            - Updated total words count
+            - Updated list of all words
+          labels: |
+            automated
+          assignees: vighnesh153
+          reviewers: vighnesh153
+          draft: false
