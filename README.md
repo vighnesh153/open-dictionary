@@ -50,7 +50,7 @@ Pass your word to this url as a search parameter: `open-dictionary.vighnesh153.w
 
 You can build your own Cloudflare worker or AWS Lambda that builds the URL for you.
 
-* [Code to my cloudflare worker](https://github.com/vighnesh153/vighnesh153-turbo/blob/main/cloudflare-tools/open-dictionary-worker)
+* [Code to my cloudflare worker](https://github.com/vighnesh153/vighnesh153-monorepo/tree/main/nodejs-tools/nodejs-cloudflare-tools/open-dictionary-worker)
 
 > But why would you do this? Using approach 1 is not that difficult. It just contains a couple of string manipulation
 > steps.
