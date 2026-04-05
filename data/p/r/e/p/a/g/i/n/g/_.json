@@ -1,0 +1,32 @@
+{
+  "word": "prepaging",
+  "etymologies": [
+    {
+      "description": [
+        "pre- +‎ paging"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "prepaging (uncountable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The loading of memory pages before they are needed, so as to avoid page faults.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

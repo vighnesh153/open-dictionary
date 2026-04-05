@@ -1,0 +1,73 @@
+{
+  "word": "greedy",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English gredy, from Anglian Old English grēdiġ (“greedy, hungry, eager”) (cognate West Saxon form grǣdiġ), from Proto-Germanic *grēdagaz (“hungry”), from Proto-Germanic *grēdaz, *grēduz, *grēdô (“hunger”), from Proto-Indo-European *gʰrēdʰ- (“to be hungry, long for”), equivalent to greed +‎ -y. Cognate with Old Saxon grādag (“greedy”), Dutch graag (“gladly, willingly”), Old High German grātag (“greedy”), Danish grådig (“greedy”), Norwegian Bokmål grådig (“greedy”) (from Old Norse gráðigr (“greedy”), gráði (“greed, hunger”)), Gothic 𐌲𐍂𐌴𐌳𐌰𐌲𐍃 (grēdags, “hungry”). Non-Germanic cognates include Sanskrit गृद्धि (gṛddhi, “greed”), Albanian ngordh (“to crave for, starve, die”)."
+      ],
+      "adjectives": [
+        {
+          "description": "greedy (comparative greedier, superlative greediest)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Having greed; consumed by selfish desires.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Prone to overeat.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(regular expressions) Tending to match as much text as possible.",
+                  "examples": [
+                    "Antonyms: lazy, nongreedy, reluctant",
+                    "This regular expression performs a greedy match."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computer science, of an algorithm) That tries to find the global optimum by finding the local optimum at each stage.",
+                  "examples": [
+                    "Antonym: nongreedy"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(archaic) Greedily sought or pursued.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

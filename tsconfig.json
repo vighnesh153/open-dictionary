@@ -1,0 +1,8 @@
+{
+  "extends": "@vighnesh153/tsconfig/typescript-library.json",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": ["."],
+  "exclude": ["dist", "build", "node_modules"]
+}

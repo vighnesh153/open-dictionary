@@ -1,0 +1,34 @@
+{
+  "word": "reinvoke",
+  "etymologies": [
+    {
+      "description": [
+        "re- +‎ invoke"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "reinvoke (third-person singular simple present reinvokes, present participle reinvoking, simple past and past participle reinvoked)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To invoke again.",
+                  "examples": [
+                    "Reinvokes the function in the current frame (restart its execution at the beginning), optionally changing the arguments."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

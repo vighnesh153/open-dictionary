@@ -1,0 +1,47 @@
+{
+  "word": "monoid",
+  "etymologies": [
+    {
+      "description": [
+        "mono- +‎ -oid"
+      ],
+      "adjectives": [
+        {
+          "description": "monoid (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(prosody) Containing only one kind of metrical foot.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "monoid (plural monoids)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(mathematics) A set which is closed under an associative binary operation, and which contains an element which is an identity for the operation.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

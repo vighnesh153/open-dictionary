@@ -1,0 +1,266 @@
+{
+  "word": "farm",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English ferme, farme (“rent, revenue, produce, factor, stewardship, meal, feast”), influenced by Anglo-Norman ferme (“rent, lease, farm”), from Medieval Latin ferma, firma. Both from   Old English feorm, fearm, farm (“provision, food, supplies, provisions supplied by a tenant or vassal to his lord, rent, possessions, stores, feast, entertainment, haven”), from Proto-Germanic *fermō (“means of living, subsistence”), from Proto-Germanic *ferhwō, *ferhuz (“life force, body, being”), from Proto-Indo-European *perkʷ- (“life, force, strength, tree”).",
+        "Cognate with Scots ferm (“rent, farm”). Related also to Old English feorh (“life, spirit”), Old High German ferah (“life, body, being”), Icelandic fjör (“life, vitality, vigour, animation”), Gothic 𐍆𐌰𐌹𐍂𐍈𐌿𐍃 (fairƕus, “the world”). Compare also Old English feormehām (“farm”), feormere (“purveyor, grocer”).",
+        "Old English feorm is the origin of Medieval Latin ferma, firma (“farm\", also \"feast”) (whence also Old French ferme, Occitan ferma), instead of the historically assumed derivation from unrelated Latin firma (“firm, solid”), which shares the same form. The sense of \"rent, fixed payment\", which was already present in the Old English word, may have been further strengthened due to resemblance to Latin firmitas (“security, surety”). Additionally, Old French ferme continued to shape the development of the English word throughout the Middle English period."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "farm (plural farms)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A tract of land held on lease for the purpose of cultivation.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(usually in combination) A location used for an industrial purpose, having many similar structures",
+                  "examples": [
+                    "fuel farm",
+                    "wind farm",
+                    "antenna farm"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) A group of coordinated servers.",
+                  "examples": [
+                    "a render farm",
+                    "a server farm"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Food; provisions; a meal.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A banquet; feast.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A fixed yearly amount (food, provisions, money, etc.) payable as rent or tax.",
+                  "examples": [
+                    "If a man be bounden unto 1.s. in 100.l.£ to grant unto him the rent and farme of such a Mill."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A fixed yearly sum accepted from a person as a composition for taxes or other moneys which he is empowered to collect; also, a fixed charge imposed on a town, county, etc., in respect of a tax or taxes to be collected within its limits.",
+                  "examples": [
+                    "He [the Sheriff] paid into the Exchequer the fixed yearly sum which formed the farm of the shire."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) The letting-out of public revenue to a ‘farmer’; the privilege of farming a tax or taxes.",
+                  "examples": [
+                    "The first farm of postal income was made in 1672."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The body of farmers of public revenues.",
+                  "examples": [
+                    "They despair of a suppression of the Farm."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The condition of being let at a fixed rent; lease; a lease.",
+                  "examples": [
+                    "It is a great willfullnes in any such Land-lord to refuse to make any longer farmes unto their Tennants."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(historical) A baby farm.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [
+        "From Middle English fermen, from Anglo-Norman fermer (“to let out for a fixed payment, lease, rent”) ultimately from the same Old English source as Etymology 1. Compare Old English feormian (“to feed, supply with food, sustain”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "farm (third-person singular simple present farms, present participle farming, simple past and past participle farmed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To work on a farm, especially in the growing and harvesting of crops.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To devote (land) to farming.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To grow (a particular crop).",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "To give up to another, as an estate, a business, the revenue, etc., on condition of receiving in return a percentage of what it yields; to farm out.",
+                  "examples": [
+                    "to farm the taxes"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To lease or let for an equivalent, e.g. land for a rent; to yield the use of to proceeds.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete, transitive) To take at a certain rent or rate.",
+                  "examples": [
+                    "In Paris it is stated that nearly half the birth-rate of the city finds its way to nurses who farm babies in the suburbs."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(video games, chiefly online gaming) To engage in grinding (repetitive activity) in a particular area or against specific enemies for a particular drop or item.",
+                  "examples": [
+                    "When you hit a black pudding with an iron weapon that does at least one point of damage there is a good chance it will divide into two black puddings of the same size (but half the hit points IIRC).  […]  When eaten black puddings confer several intrinsics so AC [armor class] is not the only potential benefit.  […]  Since black puddings are formidible[sic] monsters for an inexperienced character, farming is also a good way to die."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [
+        "From Middle English fermen, from Old English feormian (“to clean, cleanse”), from Proto-West Germanic *furbēn (“to clean, polish, buff”). Doublet of furbish."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "farm (third-person singular simple present farms, present participle farming, simple past and past participle farmed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(UK, dialectal) To cleanse; clean out; put in order; empty; empty out",
+                  "examples": [
+                    "Farm out the stable and pigsty."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

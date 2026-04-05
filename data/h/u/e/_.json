@@ -1,0 +1,88 @@
+{
+  "word": "hue",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hewe, from Old English hīew (“appearance, form, species, kind; apparition; hue, color; beauty; figure of speech”), from Proto-Germanic *hiwją (“hue, form, shape, appearance; mildew”), from Proto-Indo-European *kew-, *ḱew- (“skin, colour of the skin”) or *ḱey- (“grey, dark shade”). Cognate with Swedish hy (“complexion, skin”), Norwegian hy (“fluff, mold, skin”), Icelandic hégómi (“vanity”), Gothic 𐌷𐌹𐍅𐌹 (hiwi, “form, show, appearance”). Compare also Sanskrit छवि (chavi, “cuticle, skin, hide; beauty, splendour”); Irish ceo (“fog”), Tocharian B kwele (“black, dark grey”), Lithuanian šývas (“light grey”), Albanian thinjë (“grey”), Sanskrit श्याव (śyāvá, “brown”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hue (countable and uncountable, plural hues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A color, or shade of color; tint; dye.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The characteristic related to the light frequency that appears in the color, for instance red, yellow, green, cyan, blue or magenta.",
+                  "examples": [
+                    "In digital arts, HSV color uses hue together with saturation and value."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(figuratively) A character; aspect.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Form; appearance; guise.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [
+        "From Old French hu or Old French heu, a hunting cry."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hue (plural hues)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) A shout or cry.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

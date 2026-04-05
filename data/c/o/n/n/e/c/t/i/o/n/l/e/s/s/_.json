@@ -1,0 +1,32 @@
+{
+  "word": "connectionless",
+  "etymologies": [
+    {
+      "description": [
+        "connection +‎ -less"
+      ],
+      "adjectives": [
+        {
+          "description": "connectionless (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(networking) Without the use of a constant connection; sending and receiving data arbitrarily as needed, usually with less reliability than if a connection were held open.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

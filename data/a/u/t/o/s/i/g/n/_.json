@@ -1,0 +1,32 @@
+{
+  "word": "autosign",
+  "etymologies": [
+    {
+      "description": [
+        "auto- +‎ sign"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "autosign (third-person singular simple present autosigns, present participle autosigning, simple past and past participle autosigned)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, transitive) To sign (a cryptographic certificate) automatically.",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

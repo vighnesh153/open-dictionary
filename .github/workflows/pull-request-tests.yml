@@ -1,0 +1,31 @@
+name: "Pull request tests"
+
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  pull-request-test:
+    name: Test changed files
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: read
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+
+      - name: Process changed files
+        run: |
+          for changed_file in ${{ steps.files.outputs.all }}; do
+            node ./dist/pullRequestTest.js ${changed_file}
+          done

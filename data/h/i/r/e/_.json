@@ -1,0 +1,163 @@
+{
+  "word": "hire",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English hire, hyre, here, hure, from Old English hȳr (“employment for wages; pay for service; interest on money lent”), from Proto-West Germanic *hūʀiju (“payment”), from the verb *hūʀijan, from Proto-Germanic *hūzijaną, from Proto-Indo-European *kewHs-. Compare Hittite 𒆪𒊭𒀭 (kuššan-, “fee, pay, wages, price”).",
+        "Cognate with West Frisian hier (“hire”), Dutch huur (“lease, rental”), German Low German Hüür (“lease, rental”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "hire (plural hires)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "Payment for the temporary use of something.",
+                  "examples": [
+                    "The sign offered pedalos on hire."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(obsolete) Reward, payment.",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "The state of being hired, or having a job; employment.",
+                  "examples": [
+                    "When my grandfather retired, he had over twenty mechanics in his hire."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "A person who has been hired, especially in a cohort.",
+                  "examples": [
+                    "We pair up each of our new hires with one of our original hires."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    },
+    {
+      "description": [
+        "From Middle English hiren, hyren, from Old English hȳrian (“to hire”), from the noun (see above). Compare West Frisian hiere (“to rent, lease”), Dutch huren (“to rent, lease”), Low German hüren (“to rent”), Danish hyre (“to hire”).",
+        "Eclipsed Middle English souden (“to hire, employ, enlist”), borrowed from Old French souder, soudre, souldre (“to take into employ, pay”); see English sold (“salary, military pay”)."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "hire (third-person singular simple present hires, present participle hiring, simple past and past participle hired)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To obtain the services of in return for fixed payment.",
+                  "examples": [
+                    "Synonym: rent",
+                    "We hired a car for two weeks because ours had broken down."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To occupy premises in exchange for rent.",
+                  "examples": [
+                    "Synonym: rent"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To employ; to obtain the services of (a person) in exchange for remuneration; to give someone a job.",
+                  "examples": [
+                    "The company had problems when it tried to hire more skilled workers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To exchange the services of for remuneration.",
+                  "examples": [
+                    "They hired themselves out as day laborers.  They hired out their basement for Inauguration week."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To accomplish by paying for services.",
+                  "examples": [
+                    "After waiting two years for her husband to finish the tiling, she decided to hire it done."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To accept employment.",
+                  "examples": [
+                    "They hired out as day laborers."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) (neologism) (in the Jobs-to-be-Done Theory) To buy something in order for it to perform a function, to do a job",
+                  "examples": [
+                    "They hired a milkshake."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

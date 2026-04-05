@@ -1,0 +1,45 @@
+{
+  "word": "nonassignable",
+  "etymologies": [
+    {
+      "description": [
+        "non- +‎ assignable"
+      ],
+      "adjectives": [
+        {
+          "description": "nonassignable (not comparable)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "That cannot be assigned to another.",
+                  "examples": [
+                    "a nonassignable annuity"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing, programming) That cannot be assigned to.",
+                  "examples": [
+                    "Constants, unlike variables, are nonassignable."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

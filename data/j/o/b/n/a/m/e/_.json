@@ -1,0 +1,34 @@
+{
+  "word": "jobname",
+  "etymologies": [
+    {
+      "description": [
+        "job +‎ name"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "jobname (plural jobnames)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing) The identifier assigned to a job by an operating system.",
+                  "examples": [
+                    "This command is used to stop (and subsequently to restart) a running task identified by its jobname."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

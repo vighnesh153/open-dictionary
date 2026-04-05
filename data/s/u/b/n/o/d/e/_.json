@@ -1,0 +1,34 @@
+{
+  "word": "subnode",
+  "etymologies": [
+    {
+      "description": [
+        "sub- +‎ node"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "subnode (plural subnodes)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(computing theory) A node within another node of a network or element in a data structure.",
+                  "examples": [
+                    "Without subnodes, all instances of a data source type share the configuration parameters."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

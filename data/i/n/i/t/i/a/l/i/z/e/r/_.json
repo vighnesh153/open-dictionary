@@ -1,0 +1,34 @@
+{
+  "word": "initializer",
+  "etymologies": [
+    {
+      "description": [
+        "initialize +‎ -er"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [
+        {
+          "description": "initializer (plural initializers)",
+          "definitionGroups": [
+            {
+              "group": "One who, or that which, initializes.",
+              "entries": [
+                {
+                  "meaning": "(programming) A routine that prepares something for use.",
+                  "examples": [
+                    "Since C++11, the auto keyword is used to tell the compiler to deduce the actual type of a variable that is being declared from its initializer."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "prepositions": [],
+      "verbs": [],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

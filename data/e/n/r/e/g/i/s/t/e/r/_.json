@@ -1,0 +1,45 @@
+{
+  "word": "enregister",
+  "etymologies": [
+    {
+      "description": [
+        "en- +‎ register"
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "enregister (third-person singular simple present enregisters, present participle enregistering, simple past and past participle enregistered)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To record on a register.",
+                  "examples": [
+                    "Synonym: inregister"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, programming) To store in a register of the CPU.",
+                  "examples": [
+                    "Enregistering a value during compilation of a program may improve runtime performance."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
+    }
+  ]
+}

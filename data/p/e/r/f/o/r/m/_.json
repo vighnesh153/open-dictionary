@@ -1,0 +1,105 @@
+{
+  "word": "perform",
+  "etymologies": [
+    {
+      "description": [
+        "From Middle English performen, parfournen (“to perform”), from Anglo-Norman performer, parfourmer, alteration of Old French parfornir, parfurnir (“to complete, accomplish, perform”), from par- + fornir, furnir (“to accomplish, furnish”), from Frankish *frummjan (“to accomplish, furnish”), from Proto-Germanic *frumjaną, *framjaną (“to further, promote”), from Proto-Indo-European *promo- (“in front, forth”), *per- (“forward, out”). Cognate with Old High German frummen (“to do, execute, accomplish, provide”), Old Saxon frummian (“to perform, promote”), Old English fremman (“to perform, execute, carry out, accomplish”), Gothic 𐍆𐍂𐌿𐌼𐌾𐌰𐌽 (frumjan, “to promote, accomplish”). See also frame, from."
+      ],
+      "adjectives": [],
+      "adverbs": [],
+      "nouns": [],
+      "prepositions": [],
+      "verbs": [
+        {
+          "description": "perform (third-person singular simple present performs, present participle performing, simple past and past participle performed)",
+          "definitionGroups": [
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive) To do (something); to execute.",
+                  "examples": [
+                    "The scientists performed several experiments.",
+                    "It took him only twenty minutes to perform the task."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(intransitive) To exhibit an expected pattern of behavior; to function; to work.",
+                  "examples": [
+                    "The new employee performs well."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(law) To act in a way set forth in a contract.",
+              "entries": [
+                {
+                  "meaning": "(transitive) To act in accordance with (a contract); to fulfill one’s terms of (a contract).",
+                  "examples": [
+                    "Failure to perform a contract on time may constitute a breach of contract."
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To fulfill contractually agreed-to terms.",
+                  "examples": [
+                    "They entered into an agreement and now they are obliged to perform."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(transitive, intransitive) To do (something) in front of an audience, such as acting or music, often in order to entertain.",
+                  "examples": [
+                    "She will perform in the play.",
+                    "The magician performed badly—none of his tricks worked.",
+                    "The string quartet performed three pieces by Haydn."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": null,
+              "entries": [
+                {
+                  "meaning": "(by extension, transitive) To behave theatrically so as to give the impression of (a quality, character trait, etc.); to feign.",
+                  "examples": [
+                    "The accused only performed remorse."
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "(social sciences) Of a social actor, to behave in certain ways.",
+              "entries": [
+                {
+                  "meaning": "(transitive) To behave in accordance with, and thereby in turn shape, (a social notion or role).",
+                  "examples": [
+                    "perform masculinity",
+                    "perform authority"
+                  ]
+                },
+                {
+                  "meaning": "(intransitive) To behave in ways that carry meaning in social contexts.",
+                  "examples": [
+                    "Individuals in societies perform all the time."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "letter": [],
+      "number": []
+    }
+  ]
+}
