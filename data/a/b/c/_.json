@@ -1,0 +1,29 @@
+{
+  "word": "abc",
+  "meanings": [
+    {
+      "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "The letters of the alphabet.",
+      "examples": [
+        "The child proudly recited his ABC for the teacher."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "The basic fundamentals or simplest principles of any subject.",
+      "examples": [
+        "Before diving into advanced tactics, you need to learn the ABC of chess."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "PROPER NOUN",
+      "meaning": "The American Broadcasting Company (television and radio network).",
+      "examples": [
+        "The debate was broadcast live on ABC last night."
+      ]
+    }
+  ]
+}
