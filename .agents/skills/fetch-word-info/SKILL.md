@@ -29,7 +29,8 @@ You should access all the sources in this order:
 
 1. **Wiktionary**: `https://en.wiktionary.org/wiki/<word>`
 2. **Wiktionary (printable version)**: `https://en.wiktionary.org/w/index.php?title=<word>&printable=yes`
-3. **Simple Wiktionary**: `https://simple.wiktionary.org/wiki/<word>`
-4. **Wikipedia**: `https://en.wikipedia.org/wiki/<word>`
-5. **Urban Dictionary**: `https://www.urbandictionary.com/define.php?term=<word>`
-6. **Self**: As you are an AI, you might already have all the information with you already. Ask yourself everything there is about the word.
+3. **Wiktionary (Rest API)**: `https://en.wiktionary.org/api/rest_v1/page/definition/<word>`
+4. **Simple Wiktionary**: `https://simple.wiktionary.org/wiki/<word>`
+5. **Wikipedia**: `https://en.wikipedia.org/wiki/<word>`
+6. **Urban Dictionary**: `https://www.urbandictionary.com/define.php?term=<word>`
+7. **Self**: As you are an AI, you might already have all the information with you already. Ask yourself everything there is about the word.
