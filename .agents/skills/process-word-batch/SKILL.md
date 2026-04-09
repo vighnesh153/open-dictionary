@@ -42,32 +42,30 @@ description: Processes the batch of words.
 1. Fetch the contents of the batch from
    `<WORKSPACE_ROOT>/tmp/word-batches/<batch-name>` file.
 2. For each word in the batch, fetch the raw word meaning using the
-   `word-meaning-fetcher` agent.
+   `fetch-word-info` skill.
 3. Once you have the raw word meaning of the word stored in the local
-   tmp file, parse the word meaning using the `word-meaning-parser` agent.
+   tmp file, parse the word meaning using the `parse-word-info` skill.
 4. Once you have parsed the meaning of the word and written it in the
-   local tmp file, use the `word-meaning-writer` agent to finalize the
+   local tmp file, use the `write-word-info` skill to finalize the
    word definition by writing it to `<WORKSPACE_ROOT>/data` directory.
 
 ## Processing order
 
-- As raw meaning fetching of each word is independant, you can fetch
-  the raw meanings of words in parallel. Use multiple instances of the
-  `word-meaning-fetcher` agent to do the fetching in parallel.
+- As raw meaning fetching of each word is independent, you can fetch
+  the raw meanings of words in parallel. Use the `fetch-word-info`
+  skill to do the fetching in parallel.
 - Do not proceed to the next step of parsing word meaning before all
   the raw meanings of words in the batch are fetched.
 - Once the raw meanings of all the words in the batch are fetched, parse
-  them in parallel using the `word-meaning-parser` agent. As the parsing of
-  each word meaning is independant, you can parse them in parallel. Use
-  multiple instances of the `word-meaning-parser` agent to do the parsing in parallel.
+  them in parallel using the `parse-word-info` skill. As the parsing of
+  each word meaning is independent, you can parse them in parallel.
 - Do not proceed to the next step of writing word meaning before all
   the word meanings in the batch are parsed.
 - Once the word meanings of all the words in the batch are parsed, write
-  them in parallel using the `word-meaning-writer` agent. As the writing of
-  each word meaning is independant, you can write them in parallel. Use
-  multiple instances of the `word-meaning-writer` agent to do the writing in parallel.
-- Try to have at least 5 subagents doing things in parallel. If not
+  them in parallel using the `write-word-info` skill. As the writing of
+  each word meaning is independent, you can write them in parallel.
+- Try to have at least 5 instances of the skills running in parallel. If not
   possible, try doing it with 4, then 3 and then finally try with 2. If the
-  system is not able to handle even 2 instances of subagents at a time, then
-  fallback to just having 1 instance of a subagent that does the requested
+  system is not able to handle even 2 instances of skills at a time, then
+  fallback to just having 1 instance of a skill that does the requested
   task.

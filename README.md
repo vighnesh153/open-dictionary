@@ -134,13 +134,13 @@ bring it to my attention.
 
 ## Prompting guides
 
-Using Antigravity/Jetski:
+Using Gemini CLI:
 
 ### 1. Fetching new words and creating definitions files of non-existent words
 
 > [!NOTE]
 > If you have a new data source for fetching a list of words,
-> add it to the `.agents/skills/prepare-word-batches/config.md` file.
+> add it to the `.agents/skills/prepare-word-batches/SKILL.md` file.
 
 1. Preparation prompt
 
@@ -151,14 +151,15 @@ Using the `prepare-word-batches` skill, prepare the batches of words.
 2. Processing prompt (Plan)
 
 ```md
-For all the batches under `WORKSPACE_ROOT/tmp/word-batch` directory,
+For all the batches under `<WORKSPACE_ROOT>/tmp/word-batches` directory,
 identify each file's name. Then create a plan in
 `<WORKSPACE_ROOT>/tmp/plan.md` file. The plan should contain
 a bunch of checkboxes. There should be a section for each batch file,
 in order. Under each batch file section, there should a section for
 each word in that batch file. For each word, there should be checkboxes
-for each subtask like fetching meaning, parsing and writing. Each section
-and nested sub-sections should also be checkboxes.
+for each subtask like fetching meaning (`fetch-word-info`), parsing (`parse-word-info`)
+and writing (`write-word-info`). Each section and nested sub-sections
+should also be checkboxes.
 
 Add a point at the end saying that once an item from the plan is completed,
 the checkbox against the item should be updated to checked.
@@ -168,7 +169,7 @@ as completed. For each word, once all sub-items under it are completed,
 it should be marked as completed. For each batch file, once each word
 under it is marked as completed, it should be marked as completed.
 
-For each batch file, mentiond to use the `process-word-batch` skill for
+For each batch file, mention to use the `process-word-batch` skill for
 processing each batch and pass the batch file name as it is required.
 
 As this plan would be huge, having it in a single `plan.md` file would

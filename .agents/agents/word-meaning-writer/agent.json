@@ -1,7 +1,0 @@
-{
-  "name": "word-meaning-writer",
-  "description": "An agent that writes the parsed information about a word to a local file.",
-  "configPath": {
-    "relativePathToConfig": "config.yml"
-  }
-}

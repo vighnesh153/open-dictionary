@@ -1,7 +1,0 @@
-{
-  "name": "word-meaning-fetcher",
-  "description": "An agent that fetches meanings and all information about a word from the internet and writes that information to a local file.",
-  "configPath": {
-    "relativePathToConfig": "config.yml"
-  }
-}
