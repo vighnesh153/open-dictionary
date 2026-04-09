@@ -3,10 +3,18 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "PREPOSITION",
-      "meaning": "On or into a ship, aircraft, train, or other vehicle.",
+      "type": "ADVERB",
+      "meaning": "On board; onto or within a ship, aircraft, train, or other conveyance.",
       "examples": [
-        "We climbed aboard the luxury cruise ship."
+        "Welcome aboard! The flight will be departing shortly."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "PREPOSITION",
+      "meaning": "On or into a vessel, vehicle, or conveyance.",
+      "examples": [
+        "The passengers stepped aboard the cruise liner."
       ]
     }
   ]

@@ -3,8 +3,25 @@
   "meanings": [
     {
       "language": "ENGLISH",
+      "type": "ADVERB",
+      "meaning": "Approximately or nearly; in the vicinity or moving in various directions.",
+      "examples": [
+        "The journey takes about three hours by train.",
+        "He was wandering about aimlessly."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "ADJECTIVE",
+      "meaning": "Astir; out of bed and active.",
+      "examples": [
+        "The doctor noted that the patient was finally up and about."
+      ]
+    },
+    {
+      "language": "ENGLISH",
       "type": "PREPOSITION",
-      "meaning": "On the subject of; concerning.",
+      "meaning": "On the subject of; concerning or regarding.",
       "examples": [
         "We spent hours talking about our plans for the summer."
       ]

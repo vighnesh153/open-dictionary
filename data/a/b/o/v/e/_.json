@@ -3,8 +3,34 @@
   "meanings": [
     {
       "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "Something or someone mentioned or appearing previously in a text.",
+      "examples": [
+        "Please refer to the above for further clarification.",
+        "None of the above were selected by the committee."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "ADVERB",
+      "meaning": "In or to a higher place; upstairs or overhead.",
+      "examples": [
+        "The majestic eagle circled high above.",
+        "The residents living above are very quiet."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "ADJECTIVE",
+      "meaning": "Mentioned or appearing previously in a written text or document.",
+      "examples": [
+        "The above statement clearly summarizes our legal position."
+      ]
+    },
+    {
+      "language": "ENGLISH",
       "type": "PREPOSITION",
-      "meaning": "At a higher level or layer than.",
+      "meaning": "At a higher level or layer than; overhead.",
       "examples": [
         "The bird soared gracefully above the mountain peaks."
       ]

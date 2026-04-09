@@ -3,10 +3,26 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "VERB",
-      "meaning": "To terminate a procedure or process before completion.",
+      "type": "NOUN",
+      "meaning": "The premature termination of a planned mission, launch, or procedure.",
       "examples": [
-        "The mission was forced to abort due to engine failure."
+        "The flight director called for an immediate abort due to severe technical malfunctions."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "VERB",
+      "meaning": "To terminate a biological process or pregnancy prematurely.",
+      "examples": [
+        "The medical condition caused the animal to abort its offspring."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "VERB",
+      "meaning": "To halt or cancel a mission, process, or procedure before it reaches completion.",
+      "examples": [
+        "They decided to abort the military strike when civilian movement was detected."
       ]
     }
   ]
