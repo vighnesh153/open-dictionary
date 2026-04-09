@@ -1,0 +1,59 @@
+---
+name: update-metadata
+description: Updates the metadata for the open-dictionary
+---
+
+# Metadata Updater
+
+## Updating word count
+
+1. Recursively go through the <WORKSPACE_ROOT>/data directory.
+2. Count the number of occurrences of the `_.json` file.
+3. That count represents the number of words in the workspace.
+4. Update that count in <WORKSPACE_ROOT>/metadata/word-count-label.json
+
+You could also run the following script from <WORKSPACE_ROOT> to
+do that for you. In the script, I am using `jq` command to pretty-print
+the json. If `jq` command is not available on the system, consider using
+nodejs's `JSON.stringify(jsonString, null, 2)` to do the pretty-printing
+for you.
+
+```sh
+wordCount=$(find ./data -type f -name "_.json" | wc -l)
+jsonString="{
+  \"schemaVersion\": 1,
+  \"label\": \"total words\",
+  \"message\": \"$wordCount\",
+  \"color\": \"blue\"
+}"
+
+echo "$jsonString" | jq . > ./metadata/word-count-label.json
+```
+
+In the above script, `./` refers to the `<WORKSPACE_ROOT>`.
+
+## Updating words
+
+1. Recursively go through the `<WORKSPACE_ROOT>/data` directory.
+2. Find all the `_.json` files.
+3. Create a sorted (lexicographically) list of words by getting the
+   word from the `_.json` files. The json has a `word` field at top
+   level.
+4. Update the list of words in `<WORKSPACE_ROOT>/metadata/all-words.txt`
+   in lexicographical order.
+
+I have a sample shell script that will do this for you.
+
+```sh
+find ./data -type f -name "_.json" -exec jq -r '.word' {} + | \
+  sort > ./metadata/all-words.txt
+```
+
+In the above script, `./` refers to the `<WORKSPACE_ROOT>`.
+
+## Rules
+
+- You are not allowed to commit the changes to version control.
+- You are not allowed to run any `git` commands.
+- You are not allowed to perform any destructive operations.
+- You are not allowed to edit any file except <WORKSPACE_ROOT>/metadata/word-count-label.json
