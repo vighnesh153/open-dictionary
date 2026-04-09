@@ -34,7 +34,8 @@ description: Processes the batch of words.
 2. If the user has asked to do a force update, then update the word
    definition file even if it exists.
 3. **CRITICAL QUALITY REQUIREMENT**: Do NOT generate placeholder definitions or single-item arrays simply for the sake of speed. You MUST generate a fully complete `_.json` file that includes **all prominent definitions, examples, and appropriate parts of speech** for the word within the `meanings` array.
-4. **SOURCE RESTRICTION**: Do NOT reach out to dictionaryapi.dev or its subdomains as it is not a reliable source.
+4. **CRITICAL ORDERING REQUIREMENT**: The parts of speech inside the meanings array MUST strictly follow the exact order specified inside `README.md` (under the Type Definition API Contract). You MUST refer to `README.md` to get the single-source-of-truth ordering!
+5. **SOURCE RESTRICTION**: Do NOT reach out to dictionaryapi.dev or its subdomains as it is not a reliable source.
 
 ## Processing
 

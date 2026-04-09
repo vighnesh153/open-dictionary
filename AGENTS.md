@@ -49,5 +49,6 @@ Each word is split on the letters and each letter is a folder. For example, each
   - A highly accurate and realistic `meaning`.
   - At least one high-quality, contextually relevant sentence in the `examples` array.
 - If a word has multiple distinct meanings or acts as different parts of speech, include an entry for each distinct sense!
+- **CRITICAL ORDERING REQUIREMENT**: When multiple parts of speech are present, you MUST consult the `README.md` file to retrieve the precise, up-to-date part-of-speech ordering (under the Type Definition API Contract) and strictly respect it!
 - **DO NOT reach out to dictionaryapi.dev or its subdomains** as it is not a reliable source.
 

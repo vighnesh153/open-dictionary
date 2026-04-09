@@ -189,6 +189,9 @@ and sub-plans in that manner.
 Do not plan on updating the metadata. It will be done at the
 very end manually by the user.
 
+> [!IMPORTANT]
+> **CRITICAL QUALITY REQUIREMENT**: Add a prominent note at the top of `plan.md` and all `subplans` stating that the planner MUST NEVER use dictionaryapi.dev. Additionally, read the `README.md` file to retrieve the exact part-of-speech ordering from the Type Definition API Contract, and hardcode that specific order directly into the top note of `plan.md` and all `subplans`. This allows plan executors to read the single source of truth directly from the plan itself.
+
 Do not execute the plan. You just have to create the plans and
 sub-plans. Once they are created, you can stop.
 ```
