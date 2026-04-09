@@ -40,7 +40,7 @@ description: Prepares the batches of words for processing.
 
 5. Create batches with 20 words in each batch under
    `<WORKSPACE_ROOT>/tmp/word-batches/` directory. The name of the
-   batches should be `batch-0001.txt`, `batch-0002.txt`, etc.
+   batches should be `batch-000001.txt`, `batch-000002.txt`, etc.
 
 6. Clean up all temporary files created in this except for the
    `word-batches` directory. **DO NOT CLEAN UP THE `word-batches` DIRECTORY**.

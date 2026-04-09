@@ -152,7 +152,7 @@ Using the `prepare-word-batches` skill, prepare the batches of words.
 
 ```md
 Using the `process-word-batch` skill, process the batch
-with batch-name=`batch-0001.txt`.
+with batch-name=`batch-000001.txt`.
 ```
 
 3. Review, git commit and push
