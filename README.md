@@ -148,14 +148,33 @@ Using Antigravity/Jetski:
 Using the `prepare-word-batches` skill, prepare the batches of words.
 ```
 
-2. Processing prompt
+2. Processing prompt (Plan)
 
 ```md
-Using the `process-word-batch` skill, process the batch
-with batch-name=`batch-000001.txt`.
+For all the batches under `WORKSPACE_ROOT/tmp/word-batch` directory,
+identify each file's name. Then create a plan in
+`<WORKSPACE_ROOT>/tmp/plan.md` file. The plan should contain 
+a bunch of checkboxes. There should be a section for each batch file,
+in order. Under each batch file section, there should a section for 
+each word in that batch file. For each word, there should be checkboxes
+for each subtask like fetching meaning, parsing and writing. Each section
+and nested sub-sections should also be checkboxes.
+
+Add a point at the end saying that once an item from the plan is completed,
+the checkbox against the item should be updated to checked.
+
+Each item should explain in brief what should be done to mark the item
+as completed. For each word, once all sub-items under it are completed,
+it should be marked as completed. For each batch file, once each word
+under it is marked as completed, it should be marked as completed.
+
+Use `process-word-batch` skill for processing each batch. Do pass the
+batch file name as it is required.
 ```
 
-3. Review, git commit and push
+3. Execute the above plan.
+
+4. Review, git commit and push
 
 ### 2. Creating definition for a list of words or force-updating existing definitions
 
