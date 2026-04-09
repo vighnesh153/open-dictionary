@@ -49,4 +49,5 @@ Each word is split on the letters and each letter is a folder. For example, each
   - A highly accurate and realistic `meaning`.
   - At least one high-quality, contextually relevant sentence in the `examples` array.
 - If a word has multiple distinct meanings or acts as different parts of speech, include an entry for each distinct sense!
+- **DO NOT reach out to dictionaryapi.dev or its subdomains** as it is not a reliable source.
 
