@@ -33,6 +33,7 @@ description: Processes the batch of words.
    that word. This is the default behavior.
 2. If the user has asked to do a force update, then update the word
    definition file even if it exists.
+3. **CRITICAL QUALITY REQUIREMENT**: Do NOT generate placeholder definitions or single-item arrays simply for the sake of speed. You MUST generate a fully complete `_.json` file that includes **all prominent definitions, examples, and appropriate parts of speech** for the word within the `meanings` array.
 
 ## Processing
 

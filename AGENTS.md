@@ -38,3 +38,15 @@ Each word is split on the letters and each letter is a folder. For example, each
   know how to parse and interpret the `html` and if the
   response type is `JSON`, you know how to interpret the
   `json`.
+
+## CRITICAL QUALITY RULE
+
+- **NEVER optimize for speed over quality.**
+- **COMPLETE DEFINITIONS ONLY**: Whenever you generate or update a word's `_.json` definition file, you MUST provide a **COMPLETE** file containing **ALL prominent meanings** of the word inside the `meanings` array.
+- For each meaning entry, you MUST provide:
+  - The correct `language` (e.g., `"ENGLISH"`).
+  - The precise `type` (part of speech, e.g., `"NOUN"`, `"VERB"`, `"ADJECTIVE"`).
+  - A highly accurate and realistic `meaning`.
+  - At least one high-quality, contextually relevant sentence in the `examples` array.
+- If a word has multiple distinct meanings or acts as different parts of speech, include an entry for each distinct sense!
+
