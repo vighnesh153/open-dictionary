@@ -1,0 +1,21 @@
+{
+  "word": "abend",
+  "meanings": [
+    {
+      "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "An abnormal end or termination of a computer software program.",
+      "examples": [
+        "The system administrator checked the logs to find the cause of the abend."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "VERB",
+      "meaning": "To terminate a program abnormally.",
+      "examples": [
+        "The batch job was forced to abend due to insufficient memory."
+      ]
+    }
+  ]
+}
