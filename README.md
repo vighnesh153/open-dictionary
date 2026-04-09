@@ -186,6 +186,9 @@ way due to any error/reason, next execution should be able to
 pick up from where the previous execution left of. Design the plan
 and sub-plans in that manner.
 
+Do not plan on updating the metadata. It will be done at the
+very end manually by the user.
+
 Do not execute the plan. You just have to create the plans and
 sub-plans. Once they are created, you can stop.
 ```
