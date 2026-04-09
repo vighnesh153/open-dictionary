@@ -12,7 +12,7 @@ description: Prepares the batches of words for processing.
 
 ## Steps
 
-1. Clone the following repositories under under
+1. Shallow clone the following repositories under under
    `<WORKSPACE_ROOT>/tmp/` directory and pick only the specified
    file names from each repositiry:
    - Repository: `https://github.com/en-wl/wordlist-diff`
