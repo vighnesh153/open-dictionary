@@ -153,9 +153,9 @@ Using the `prepare-word-batches` skill, prepare the batches of words.
 ```md
 For all the batches under `WORKSPACE_ROOT/tmp/word-batch` directory,
 identify each file's name. Then create a plan in
-`<WORKSPACE_ROOT>/tmp/plan.md` file. The plan should contain 
+`<WORKSPACE_ROOT>/tmp/plan.md` file. The plan should contain
 a bunch of checkboxes. There should be a section for each batch file,
-in order. Under each batch file section, there should a section for 
+in order. Under each batch file section, there should a section for
 each word in that batch file. For each word, there should be checkboxes
 for each subtask like fetching meaning, parsing and writing. Each section
 and nested sub-sections should also be checkboxes.
@@ -168,8 +168,26 @@ as completed. For each word, once all sub-items under it are completed,
 it should be marked as completed. For each batch file, once each word
 under it is marked as completed, it should be marked as completed.
 
-Use `process-word-batch` skill for processing each batch. Do pass the
-batch file name as it is required.
+For each batch file, mentiond to use the `process-word-batch` skill for
+processing each batch and pass the batch file name as it is required.
+
+As this plan would be huge, having it in a single `plan.md` file would
+be expensive. Instead, split this plan into multiple sub-plans under
+`<WORKSPACE_ROOT>/tmp/subplans` directory. Each subplan can have plans
+for 10 file batches. The main plan directory can keep tracking the
+checkboxes at batch level and the sub-plans can keep tracking at
+individual item level.
+
+As soon as a batch under the sub-plan is completed, it should also
+be marked as completed in the main `plan.md` file.
+
+The plan should be in such a way that even if the execution stops mid
+way due to any error/reason, next execution should be able to
+pick up from where the previous execution left of. Design the plan
+and sub-plans in that manner.
+
+Do not execute the plan. You just have to create the plans and
+sub-plans. Once they are created, you can stop.
 ```
 
 3. Execute the above plan.
