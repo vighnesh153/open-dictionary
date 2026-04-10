@@ -1,8 +1,0 @@
-{
-  "tasks": {
-    "file_creator": "deno run -A file_creator.ts"
-  },
-  "imports": {
-    "@std/fs": "jsr:@std/fs@1"
-  }
-}

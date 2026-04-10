@@ -18,14 +18,13 @@ A free and open dictionary for everyone.
 ## How to use?
 
 > [!CAUTION]
-> WORDS ARE CASE-SENSITIVE. ALWAYS USE LOWERCASE. OTHERWISE YOU
-> WILL GET A 404.
+> WORDS ARE CASE-SENSITIVE. ALWAYS USE LOWERCASE. OTHERWISE YOU WILL GET A 404.
 
 ### 1. 🚀 GitHub URL (**RECOMMENDED**)
 
-- Break your word into single lowercased letters and create a
-  `/`-separated path
-- Prefix the path with `https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/`
+- Break your word into single lowercased letters and create a `/`-separated path
+- Prefix the path with
+  `https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/`
 - Suffix the path with `/_.json`
 
 #### Example
@@ -38,11 +37,11 @@ https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/data/a/p/p/l/
 
 ### 2. 🛠️ My custom Cloudflare worker (for quick testing)
 
-Pass your word to this url as a search parameter: `open-dictionary.vighnesh153.workers.dev?word=<your-word>`
+Pass your word to this url as a search parameter:
+`open-dictionary.vighnesh153.workers.dev?word=<your-word>`
 
-> This worker does the hard work of splitting the word, constructing the
-> url as discussed in the previous approach and returning the response from
-> the URL.
+> This worker does the hard work of splitting the word, constructing the url as
+> discussed in the previous approach and returning the response from the URL.
 
 #### Examples
 
@@ -51,18 +50,19 @@ Pass your word to this url as a search parameter: `open-dictionary.vighnesh153.w
 - [open-dictionary.vighnesh153.workers.dev?word=cat](https://open-dictionary.vighnesh153.workers.dev/?word=cat)
 
 > [!NOTE]
-> This approach is not recommended because this worker has a free
-> limit of 100K requests per day. If a lot of people are using this,
-> then your application might hit a downtime if the threshold is breached.
+> This approach is not recommended because this worker has a free limit of 100K
+> requests per day. If a lot of people are using this, then your application
+> might hit a downtime if the threshold is breached.
 
 ### 3. ❌ Build your own URL builder
 
-You can build your own Cloudflare worker or AWS Lambda that builds the URL for you.
+You can build your own Cloudflare worker or AWS Lambda that builds the URL for
+you.
 
 - [Code to my cloudflare worker](https://github.com/vighnesh153/vighnesh153-monorepo/tree/main/tools-nodejs-legacy/cloudflare-open-dictionary-worker)
 
-> But why would you do this? Using approach 1 is not that difficult. It just contains a couple of string manipulation
-> steps.
+> But why would you do this? Using approach 1 is not that difficult. It just
+> contains a couple of string manipulation steps.
 
 ## Type Definition (API Contract) ⚖️
 
@@ -97,40 +97,39 @@ interface WordMeaning {
 
 ## List of all words
 
-Find all the words
-here: [metadata/all-words.txt](https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/metadata/all-words.txt)
+Find all the words here:
+[metadata/all-words.txt](https://raw.githubusercontent.com/vighnesh153/open-dictionary/main/metadata/all-words.txt)
 
 ## Why does this exist? 🧑🏼‍💻
 
 - No other free API for getting English definitions of a word
 - No other trusted source for fetching definitions as an API
 - No reliable (in terms of uptime and rate limiting) server
-- Asking an AI chatbot (Gemini or Chat GPT) for this is overkill
-  because word meanings is mostly static information as the word meanings
-  don't change often. No need to waste compute power or your precious
-  savings to get the definition of a word from an AI chatbot.
+- Asking an AI chatbot (Gemini or Chat GPT) for this is overkill because word
+  meanings is mostly static information as the word meanings don't change often.
+  No need to waste compute power or your precious savings to get the definition
+  of a word from an AI chatbot.
 
 ## How does this solve the above-mentioned problems? 🏗️
 
-- This is a free repository. You don't need to pay a single penny for
-  using this. 🙌
-- This repository is trustworthy because everyone can see the
-  word definitions as code. This offers transparency and trust for
-  developers.
-- GitHub's servers are more reliable than a custom server managed by
-  a small group of people without any funding
-- Even though this repo uses AI to gather the definitions of a word,
-  it caches the information in a standard contract. It doesn't make a
-  fresh call to the AI server to get the word definitaion. And you don't
-  have to pay a single penny to fetch the word definition.
+- This is a free repository. You don't need to pay a single penny for using
+  this. 🙌
+- This repository is trustworthy because everyone can see the word definitions
+  as code. This offers transparency and trust for developers.
+- GitHub's servers are more reliable than a custom server managed by a small
+  group of people without any funding
+- Even though this repo uses AI to gather the definitions of a word, it caches
+  the information in a standard contract. It doesn't make a fresh call to the AI
+  server to get the word definitaion. And you don't have to pay a single penny
+  to fetch the word definition.
 
 ## Word missing or something is not right in the json file? 🥹
 
 File a bug. Please...
 
-It is very likely that either AI goofed up or the definition of the
-word has become outdated. Either way, I will fix it ASAP when you
-bring it to my attention.
+It is very likely that either AI goofed up or the definition of the word has
+become outdated. Either way, I will fix it ASAP when you bring it to my
+attention.
 
 ## Prompting guides
 
@@ -139,62 +138,59 @@ Using Gemini CLI:
 ### 1. Fetching new words and creating definitions files of non-existent words
 
 > [!NOTE]
-> If you have a new data source for fetching a list of words,
-> add it to the `.agents/skills/prepare-word-batches/SKILL.md` file.
+> If you have a new data source for fetching a list of words, add it to the
+> `.agents/skills/prepare-words/SKILL.md` file.
 
 1. Preparation prompt
 
 ```md
-Using the `prepare-word-batches` skill, prepare the batches of words.
+Using the `prepare-words` skill, prepare the words file.
 ```
 
 2. Processing prompt (Plan)
 
 ```md
-For all the batches under `<WORKSPACE_ROOT>/tmp/word-batches` directory,
-identify each file's name. Then create a plan in
-`<WORKSPACE_ROOT>/tmp/plan.md` file. The plan should contain
-a bunch of checkboxes. There should be a section for each batch file,
-in order. Under each batch file section, there should a section for
-each word in that batch file. For each word, there should be checkboxes
-for each subtask like fetching meaning (`fetch-word-info`), parsing (`parse-word-info`)
-and writing (`write-word-info`). Each section and nested sub-sections
-should also be checkboxes.
+For the words in the `<WORKSPACE_ROOT>/tmp/words.txt` file, create a plan in
+`<WORKSPACE_ROOT>/tmp/plan.md` file. The plan should contain a bunch of
+checkboxes. There should be a section for each word in the file. For each word,
+there should be checkboxes for each subtask like fetching meaning
+(`fetch-word-info`), parsing (`parse-word-info`) and writing
+(`write-word-info`). Each section and nested sub-sections should also be
+checkboxes.
 
-Add a point at the end saying that once an item from the plan is completed,
-the checkbox against the item should be updated to checked.
+Add a point at the end saying that once an item from the plan is completed, the
+checkbox against the item should be updated to checked.
 
-Each item should explain in brief what should be done to mark the item
-as completed. For each word, once all sub-items under it are completed,
-it should be marked as completed. For each batch file, once each word
-under it is marked as completed, it should be marked as completed.
+Each item should explain in brief what should be done to mark the item as
+completed. For each word, once all sub-items under it are completed, it should
+be marked as completed.
 
-For each batch file, mention to use the `process-word-batch` skill for
-processing each batch and pass the batch file name as it is required.
+Mention to use the `process-words` skill for processing the file.
 
-As this plan would be huge, having it in a single `plan.md` file would
-be expensive. Instead, split this plan into multiple sub-plans under
-`<WORKSPACE_ROOT>/tmp/subplans` directory. Each subplan can have plans
-for 10 file batches. The main plan directory can keep tracking the
-checkboxes at batch level and the sub-plans can keep tracking at
-individual item level.
+As this plan would be huge, having it in a single `plan.md` file would be
+expensive. Instead, split this plan into multiple sub-plans under
+`<WORKSPACE_ROOT>/tmp/subplans` directory. Each subplan can have plans for 100
+words. The main plan directory can keep tracking the checkboxes at a high level
+and the sub-plans can keep tracking at individual item level.
 
-As soon as a batch under the sub-plan is completed, it should also
-be marked as completed in the main `plan.md` file.
+The plan should be in such a way that even if the execution stops mid way due to
+any error/reason, next execution should be able to pick up from where the
+previous execution left of. Design the plan and sub-plans in that manner.
 
-The plan should be in such a way that even if the execution stops mid
-way due to any error/reason, next execution should be able to
-pick up from where the previous execution left of. Design the plan
-and sub-plans in that manner.
-
-Do not plan on updating the metadata. It will be done at the
-very end manually by the user.
+Do not plan on updating the metadata. It will be done at the very end manually
+by the user.
 
 > [!IMPORTANT]
-> **CRITICAL QUALITY REQUIREMENT**: Add a prominent note at the top of `plan.md` and all `subplans` stating that the planner MUST NEVER use dictionaryapi.dev. Additionally, read the `README.md` file to retrieve the exact part-of-speech ordering from the Type Definition API Contract, and hardcode that specific order directly into the top note of `plan.md` and all `subplans`. This allows plan executors to read the single source of truth directly from the plan itself.
+> **CRITICAL QUALITY REQUIREMENT**: Add a prominent note at the top of `plan.md`
+> and all `subplans` stating that the planner MUST NEVER use dictionaryapi.dev.
+> Additionally, read the `README.md` file to retrieve the exact part-of-speech
+> ordering from the Type Definition API Contract, and hardcode that specific
+> order directly into the top note of `plan.md` and all `subplans`. This allows
+> plan executors to read the single source of truth directly from the plan
+> itself.
 
-Do not execute the plan. You just have to create the plans and
-sub-plans. Once they are created, you can stop.
+Do not execute the plan. You just have to create the plans and sub-plans. Once
+they are created, you can stop.
 ```
 
 3. Execute the above plan.
@@ -206,17 +202,17 @@ sub-plans. Once they are created, you can stop.
 1. Preparation prompt
 
 ```md
-Create a file under `<WORKSPACE_ROOT>/tmp/word-batches/my-batch.txt`
-and add word1, word2, word3, ... in it (one word on each line).
+Create a file under `<WORKSPACE_ROOT>/tmp/my-words.txt` and add word1, word2,
+word3, ... in it (one word on each line).
 ```
 
-2. Verify the batch file.
+2. Verify the words file.
 3. Process prompt
 
 ```md
-Using the `process-word-batch` skill, process the batch with
-batch-name=`my-batch.txt` and force-update=true to update the
-definition of each word in the batch even if it exists.
+Using the `process-words` skill, process the file with file-name=`my-words.txt`
+and force-update=true to update the definition of each word in the file even if
+it exists.
 ```
 
 4. Review, git commit and push
@@ -228,10 +224,45 @@ definition of each word in the batch even if it exists.
 https://dictionaryapi.dev/ is an excellent tool for getting the word
 definitions. It has a few drawbacks though:
 
-- It is hosted on the author's server which is not reliable. Lot of
-  people have reported it being unavailable or getting rate limit throttled
+- It is hosted on the author's server which is not reliable. Lot of people have
+  reported it being unavailable or getting rate limit throttled
 - Author makes use of
   [undocumented Google API](https://github.com/meetDeveloper/freeDictionaryAPI/blob/239fd2ec930eb2a9c947bf1dda84292290797003/modules/dictionary.js#L138-L142)
   to fetch the definition and the Google API looks very fragile. If Google
-  decides to change the output, the Author's API will break or return
-  malformed response.
+  decides to change the output, the Author's API will break or return malformed
+  response.
+
+## TODOs
+
+## Tasks
+
+- Add references to other websites for more information.
+- A website to search for a word
+  - With custom domain?
+- Word autocomplete
+  - Feature on website
+  - In each subdirectory, create a file something like `autocomplete.json` that
+    will contain at max 10 words that have the current directory as prefix.
+  - Add information about how to use the word auto complete in README.
+- Add related words
+- Maybe migrate to S3 + Cloudfront because
+  [Github Repos have limits](https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits).
+
+### New Words
+
+- Scientific
+  - Physics
+  - Biology (Medical, and others.)
+  - Chemistry
+  - Engineering
+    - CAP (abbr.)
+- Mathematics
+- Other languages?
+  - `Hindi`
+  - `Marathi`
+  - `Spanish`
+  - `French`
+  - `German`
+  - `Chinese`
+  - `Japanese`
+  - ...
