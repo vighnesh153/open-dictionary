@@ -1,6 +1,6 @@
 ---
 name: process-word
-description: Fetches latest definitions for a word and updates the local file.
+description: Processes a word by fetching latest definitions and updating the repo with it.
 ---
 
 # Word Processor

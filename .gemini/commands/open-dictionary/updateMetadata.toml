@@ -1,8 +1,9 @@
----
-name: update-metadata
-description: Updates the metadata for the open-dictionary
----
+# In: <project>/.gemini/commands/open-dictionary/updateMetadata.toml
+# Invoked via: /open-dictionary:updateMetadata
 
+description = "Updates the metadata for the open-dictionary"
+
+prompt = """
 # Metadata Updater
 
 ## Updating word count
@@ -56,4 +57,8 @@ In the above script, `./` refers to the `<WORKSPACE_ROOT>`.
 - You are not allowed to commit the changes to version control.
 - You are not allowed to run any `git` commands.
 - You are not allowed to perform any destructive operations.
-- You are not allowed to edit any file except <WORKSPACE_ROOT>/metadata/word-count-label.json
+- You are not allowed to edit any file except
+  `<WORKSPACE_ROOT>/metadata/word-count-label.json` and
+  `<WORKSPACE_ROOT>/metadata/all-words.txt`.
+
+"""

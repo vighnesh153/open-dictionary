@@ -1,0 +1,73 @@
+# In: <project>/.gemini/commands/open-dictionary/prepareWords.toml
+# Invoked via: /open-dictionary:prepareWords
+# Invoked via: /open-dictionary:prepareWords word1,word2,word3,...
+
+description = "Initialize latest set of words from all listed sources or from the args."
+
+prompt = """
+Fetch the latest set of words from all listed sources
+and create empty `_.json` files for each of them in their respective directory under
+`<WORKSPACE_ROOT>/data` by constructing the path as per rules.
+
+## Restrictions
+
+- Each step in this skill should be done serially. **NO PARALLELISM** to avoid race
+  conditions and write locks.
+- **DO NOT** enter any information about the word to the `_.json` definition file.
+  Just create empty file.
+
+## Steps
+
+1. If there are args provided, do not fetch new words from the internet. Just create
+  the empty definition files for these specific words as provided in `{{args}}`. Add
+  these words to `<WORKSPACE_ROOT>/tmp/words.txt` file and proceed to step 8. If args
+  are not provided, then proceed to step 2.
+
+2. Shallow clone the following repositories under under `<WORKSPACE_ROOT>/tmp/`
+   directory and pick only the specified file names from each repositiry:
+   - Repository: `https://github.com/en-wl/wordlist-diff`
+     - File names
+       - en_AU-large.txt
+       - en_AU.txt
+       - en_CA-large.txt
+       - en_CA.txt
+       - en_GB-ise.txt
+       - en_GB-ize.txt
+       - en_GB-large.txt
+       - en_US-large.txt
+       - en_US.txt
+
+3. Create `<WORKSPACE_ROOT>/tmp/all-words.txt` file and for each of the files
+   from previous step, keep pushing all the contents of it to this new temporary
+   file.
+
+4. Append all the words from `<WORKSPACE_ROOT>/metadata/all-words.txt` to this
+   temporary file.
+
+5. Once all the words have been populated in the above-mentioned temporary file,
+   sort all the words in alphabetical order, convert all of them to lowercase
+   and remove the duplicates.
+
+6. Move the resulting list of unique words into a single file located at
+   `<WORKSPACE_ROOT>/tmp/words.txt`.
+
+7. Clean up all temporary files created in this process except for the
+   `<WORKSPACE_ROOT>/tmp/words.txt` file.
+
+8. Initialize the directories for all the words. You can refer the following
+   deno script.
+
+```ts
+import { ensureFile } from "@std/fs";
+
+await Promise.all(
+  Deno.readTextFileSync("./tmp/words.txt")
+    .split("\n")
+    .map((word) => word.trim().replace(".", ""))
+    .filter((w) => !!w)
+    .map((word) => ensureFile(`./data/${word.split("").join("/")}/_.json`)),
+);
+```
+
+> Note: `./` above refers to the `<WORKSPACE_ROOT>/` directory.
+"""

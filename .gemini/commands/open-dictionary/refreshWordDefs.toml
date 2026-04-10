@@ -1,0 +1,21 @@
+# In: <project>/.gemini/commands/open-dictionary/refreshWordDefs.toml
+# Invoked via: /open-dictionary:refreshWordDefs
+# Invoked via: /open-dictionary:refreshWordDefs word1,word2,word3,...
+
+description = "Refreshes the definitions of the words."
+
+prompt = """
+
+## Steps
+
+1. If {{args}} is provided, then use these words, else, identify all the
+  words in the repo that have only single meaning in the file but in reality
+  have multiple meanings.
+2. Once those words are identified, add those words to:
+  `<WORKSPACE_ROOT>/tmp/words.txt`.
+3. Create a word processing plan using the `process-word-planner` skill. You need
+  to **force update** the word definitions of the words. **DO NOT** skip a word,
+  if its definition already exists.
+4. Execute the plan.
+
+"""

@@ -120,8 +120,8 @@ Find all the words here:
   group of people without any funding
 - Even though this repo uses AI to gather the definitions of a word, it caches
   the information in a standard contract. It doesn't make a fresh call to the AI
-  server to get the word definitaion. And you don't have to pay a single penny
-  to fetch the word definition.
+  server to get the word definition. And you don't have to pay a single penny to
+  fetch the word definition.
 
 ## Word missing or something is not right in the json file? 🥹
 
@@ -131,91 +131,45 @@ It is very likely that either AI goofed up or the definition of the word has
 become outdated. Either way, I will fix it ASAP when you bring it to my
 attention.
 
-## Prompting guides
+## Gemini Commands
 
-Using Gemini CLI:
-
-### 1. Fetching new words and creating definitions files of non-existent words
+### Preparation
 
 > [!NOTE]
 > If you have a new data source for fetching a list of words, add it to the
-> `.agents/skills/prepare-words/SKILL.md` file.
+> `.gemini/commands/open-dictionary/prepareWords.toml` file.
 
-1. Preparation prompt
+```sh
+# Refresh the list of words in our repo.
+/open-dictionary:prepareWords
 
-```md
-Using the `prepare-words` skill, prepare the words file.
+# Or, add new set of words manually
+/open-dictionary:prepareWords word1,word2,word3,...
 ```
 
-2. Processing prompt (Plan)
+### Processing
 
-```md
-For the words in the `<WORKSPACE_ROOT>/tmp/words.txt` file, create a plan in
-`<WORKSPACE_ROOT>/tmp/plan.md` file. The plan should contain a bunch of
-checkboxes. There should be a section for each word in the file. For each word,
-there should be checkboxes for each subtask like fetching meaning
-(`fetch-word-info`), parsing (`parse-word-info`) and writing
-(`write-word-info`). Each section and nested sub-sections should also be
-checkboxes.
-
-Add a point at the end saying that once an item from the plan is completed, the
-checkbox against the item should be updated to checked.
-
-Each item should explain in brief what should be done to mark the item as
-completed. For each word, once all sub-items under it are completed, it should
-be marked as completed.
-
-Mention to use the `process-words` skill for processing the file.
-
-As this plan would be huge, having it in a single `plan.md` file would be
-expensive. Instead, split this plan into multiple sub-plans under
-`<WORKSPACE_ROOT>/tmp/subplans` directory. Each subplan can have plans for 100
-words. The main plan directory can keep tracking the checkboxes at a high level
-and the sub-plans can keep tracking at individual item level.
-
-The plan should be in such a way that even if the execution stops mid way due to
-any error/reason, next execution should be able to pick up from where the
-previous execution left of. Design the plan and sub-plans in that manner.
-
-Do not plan on updating the metadata. It will be done at the very end manually
-by the user.
-
-> [!IMPORTANT]
-> **CRITICAL QUALITY REQUIREMENT**: Add a prominent note at the top of `plan.md`
-> and all `subplans` stating that the planner MUST NEVER use dictionaryapi.dev.
-> Additionally, read the `README.md` file to retrieve the exact part-of-speech
-> ordering from the Type Definition API Contract, and hardcode that specific
-> order directly into the top note of `plan.md` and all `subplans`. This allows
-> plan executors to read the single source of truth directly from the plan
-> itself.
-
-Do not execute the plan. You just have to create the plans and sub-plans. Once
-they are created, you can stop.
+```sh
+# Fetch definitions for the words prepared from the Preparation phase.
+/open-dictionary:processWords
 ```
 
-3. Execute the above plan.
+### Refreshing Word Definitions
 
-4. Review, git commit and push
+```sh
+# Identify possibly outdated word definitions and refresh them.
+/open-dictionary:refreshWordDefs
 
-### 2. Creating definition for a list of words or force-updating existing definitions
-
-1. Preparation prompt
-
-```md
-Create a file under `<WORKSPACE_ROOT>/tmp/my-words.txt` and add word1, word2,
-word3, ... in it (one word on each line).
+# Refresh specific word definitions
+/open-dictionary:refreshWordDefs word1,word2,word3,...
 ```
 
-2. Verify the words file.
-3. Process prompt
+### Updating metadata
 
-```md
-Using the `process-words` skill, process the file with file-name=`my-words.txt`
-and force-update=true to update the definition of each word in the file even if
-it exists.
+```sh
+# Updates the repo metadata about the words.
+/open-dictionary:updateMetadata
 ```
-
-4. Review, git commit and push
 
 ## FAQs 🐷
 
@@ -232,7 +186,7 @@ definitions. It has a few drawbacks though:
   decides to change the output, the Author's API will break or return malformed
   response.
 
-## TODOs
+## Future Enhancements
 
 ## Tasks
 

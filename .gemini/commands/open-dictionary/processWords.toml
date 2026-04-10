@@ -1,0 +1,12 @@
+# In: <project>/.gemini/commands/open-dictionary/processWords.toml
+# Invoked via: /open-dictionary:processWords
+
+description = "Add definitions for all new words."
+
+prompt = """
+
+## Steps
+1. Create a word processing plan using the `process-word-planner` skill.
+2. Execute the plan.
+
+"""
