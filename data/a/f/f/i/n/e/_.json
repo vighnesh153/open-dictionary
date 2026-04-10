@@ -1,0 +1,41 @@
+{
+  "word": "affine",
+  "meanings": [
+    {
+      "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "A relative by marriage.",
+      "examples": []
+    },
+    {
+      "language": "ENGLISH",
+      "type": "VERB",
+      "meaning": "To refine.",
+      "examples": []
+    },
+    {
+      "language": "ENGLISH",
+      "type": "VERB",
+      "meaning": "To set the CPU affinity of something",
+      "examples": []
+    },
+    {
+      "language": "ENGLISH",
+      "type": "ADJECTIVE",
+      "meaning": "Assigning finite values to finite quantities.",
+      "examples": []
+    },
+    {
+      "language": "ENGLISH",
+      "type": "ADJECTIVE",
+      "meaning": "Of or pertaining to a function expressible as \n  \n    \n      \n        f\n        (\n        \n          \n            \n              x\n              \u2192\n            \n          \n        \n        )\n        =\n        A\n        \n          \n            \n              x\n              \u2192\n            \n          \n        \n        +\n        \n          \n            \n              b\n              \u2192\n            \n          \n        \n      \n    \n    {\\displaystyle f({\\vec {x}})=A{\\vec {x}}+{\\vec {b}}}\n  \n (where \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n is a linear transformation and \n  \n    \n      \n        \n          \n            \n              b\n              \u2192\n            \n          \n        \n      \n    \n    {\\displaystyle {\\vec {b}}}\n  \n is a constant), which, regarded as a transformation, maps parallel lines to parallel lines and finite points to finite points.",
+      "examples": []
+    },
+    {
+      "language": "ENGLISH",
+      "type": "ADJECTIVE",
+      "meaning": "Of two materials, having mutual affinity.",
+      "examples": []
+    }
+  ]
+}
