@@ -45,8 +45,9 @@ and create empty `_.json` files for each of them in their respective directory u
    temporary file.
 
 5. Once all the words have been populated in the above-mentioned temporary file,
-   sort all the words in alphabetical order, convert all of them to lowercase
-   and remove the duplicates.
+   sort all the words in alphabetical order, convert all of them to lowercase,
+   remove the ones that end with `'s` because equivalent word without `'s` would
+   exist already and remove the duplicates.
 
 6. Move the resulting list of unique words into a single file located at
    `<WORKSPACE_ROOT>/tmp/words.txt`.
@@ -64,7 +65,7 @@ await Promise.all(
   Deno.readTextFileSync("./tmp/words.txt")
     .split("\n")
     .map((word) => word.trim().replace(".", ""))
-    .filter((w) => !!w)
+    .filter((w) => !!w && !w.endsWith("'s"))
     .map((word) => ensureFile(`./data/${word.split("").join("/")}/_.json`)),
 );
 ```
