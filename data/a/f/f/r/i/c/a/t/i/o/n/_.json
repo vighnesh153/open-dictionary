@@ -4,14 +4,10 @@
     {
       "language": "ENGLISH",
       "type": "NOUN",
-      "meaning": "Becoming an affricate sound.",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "A particular instance of such change.",
-      "examples": []
+      "meaning": "The process of changing a simple consonant into an affricate.",
+      "examples": [
+        "The phonological rule describes the affrication of stops before high vowels."
+      ]
     }
   ]
 }

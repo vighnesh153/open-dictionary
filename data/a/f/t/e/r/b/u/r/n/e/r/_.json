@@ -4,8 +4,10 @@
     {
       "language": "ENGLISH",
       "type": "NOUN",
-      "meaning": "A device in a jet engine which injects fuel into the exhaust system to increase the thrust.",
-      "examples": []
+      "meaning": "An auxiliary burner fitted to the exhaust of a turbojet engine to increase thrust.",
+      "examples": [
+        "The pilot engaged the afterburner for a rapid takeoff."
+      ]
     }
   ]
 }

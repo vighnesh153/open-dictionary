@@ -3,21 +3,19 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "The offering of an affront.",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
       "type": "VERB",
-      "meaning": "present participle and gerund of affront",
-      "examples": []
+      "meaning": "Present participle of affront.",
+      "examples": [
+        "He was affronting his hosts with his constant complaints."
+      ]
     },
     {
       "language": "ENGLISH",
       "type": "ADJECTIVE",
-      "meaning": "Offensive, causing an affront.",
-      "examples": []
+      "meaning": "Offensive; insulting.",
+      "examples": [
+        "His behavior was deeply affronting to everyone present."
+      ]
     }
   ]
 }

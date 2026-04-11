@@ -4,14 +4,10 @@
     {
       "language": "ENGLISH",
       "type": "ADJECTIVE",
-      "meaning": "Not focused",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
-      "type": "ADJECTIVE",
-      "meaning": "Neither concave or convex (focal point at infinity)",
-      "examples": []
+      "meaning": "Having no focal point or focal length; used of an optical system that emits a parallel beam when the input is parallel.",
+      "examples": [
+        "A telescope is an example of an afocal system."
+      ]
     }
   ]
 }

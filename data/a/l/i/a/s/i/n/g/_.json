@@ -1,0 +1,21 @@
+{
+  "word": "aliasing",
+  "meanings": [
+    {
+      "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "In signal processing, an effect that causes different signals to become indistinguishable from each other.",
+      "examples": [
+        "Antialiasing filters are used to prevent aliasing."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "VERB",
+      "meaning": "Present participle of alias.",
+      "examples": [
+        "The program is aliasing the input names."
+      ]
+    }
+  ]
+}

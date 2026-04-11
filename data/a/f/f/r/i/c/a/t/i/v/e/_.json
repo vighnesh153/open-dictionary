@@ -3,15 +3,11 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "An affricate.",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
       "type": "ADJECTIVE",
-      "meaning": "Of or relating to an affricate.",
-      "examples": []
+      "meaning": "Having the nature of or pertaining to an affricate.",
+      "examples": [
+        "The child produced an affricative sound instead of a simple fricative."
+      ]
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "word": "anagram",
+  "meanings": [
+    {
+      "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "A word or phrase formed by rearranging the letters of another.",
+      "examples": [
+        "'Silent' is an anagram of 'listen'."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "VERB",
+      "meaning": "To form an anagram.",
+      "examples": [
+        "He likes to anagram names."
+      ]
+    }
+  ]
+}

@@ -3,15 +3,19 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "An affliction.",
-      "examples": []
+      "type": "VERB",
+      "meaning": "Present participle of afflict.",
+      "examples": [
+        "Grief was afflicting the entire family."
+      ]
     },
     {
       "language": "ENGLISH",
-      "type": "VERB",
-      "meaning": "present participle and gerund of afflict",
-      "examples": []
+      "type": "ADJECTIVE",
+      "meaning": "Causing pain, distress, or suffering.",
+      "examples": [
+        "It was an afflicting sight to behold."
+      ]
     }
   ]
 }

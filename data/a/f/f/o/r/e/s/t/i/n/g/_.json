@@ -3,15 +3,11 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "Synonym of afforestation.",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
       "type": "VERB",
-      "meaning": "present participle and gerund of afforest",
-      "examples": []
+      "meaning": "Present participle of afforest; the act of planting trees to create a forest.",
+      "examples": [
+        "Afforesting large areas of the plains will take many years."
+      ]
     }
   ]
 }

@@ -4,26 +4,10 @@
     {
       "language": "ENGLISH",
       "type": "NOUN",
-      "meaning": "The afterpart of a vehicle.",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "The part of a vessel abaft midships.",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "A companion body that trails a satellite or spacecraft.",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "A section or piece of a launch vehicle, rocket, or spacecraft that enters the atmosphere unprotected behind the nose cone or other body that is protected for entry.",
-      "examples": []
+      "meaning": "The rear part of a vehicle, rocket, or the body of an animal.",
+      "examples": [
+        "The afterbody of the spacecraft was designed to withstand reentry."
+      ]
     }
   ]
 }

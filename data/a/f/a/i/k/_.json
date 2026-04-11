@@ -3,9 +3,11 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "ADVERB",
-      "meaning": "Alternative spelling of AFAIK (\u201cas far as I know\u201d).",
-      "examples": []
+      "type": "ABBREVIATION",
+      "meaning": "As far as I know.",
+      "examples": [
+        "AFAIK, the meeting starts at ten."
+      ]
     }
   ]
 }

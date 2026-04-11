@@ -134,6 +134,10 @@ should **ALWAYS** respect the API contract defined in
    ```
    The only **EXCEPTION** to this rule is the relevance of meaning. If a meaning
    is obsolete, then push it to the bottom of the array.
+7. Don't strip words during pre-processing to reduce cost. Define words
+   independantly because they will have different meanings even if they are
+   derived from the same base word. For example: `apple` and `apples` have
+   different meanings. Define them separately. No cost cutting.
 
 ## Dead Letter Queue (DLQ)
 

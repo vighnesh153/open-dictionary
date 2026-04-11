@@ -1,0 +1,30 @@
+{
+  "word": "alert",
+  "meanings": [
+    {
+      "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "The state of being watchful or ready for danger; a warning signal.",
+      "examples": [
+        "The police issued a public alert.",
+        "The troops were on high alert."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "VERB",
+      "meaning": "To warn someone of a danger, threat, or exciting event.",
+      "examples": [
+        "The neighbors alerted the fire department."
+      ]
+    },
+    {
+      "language": "ENGLISH",
+      "type": "ADJECTIVE",
+      "meaning": "Quick to notice any unusual and potentially dangerous or difficult circumstances; vigilant.",
+      "examples": [
+        "The security guard remained alert throughout the night."
+      ]
+    }
+  ]
+}

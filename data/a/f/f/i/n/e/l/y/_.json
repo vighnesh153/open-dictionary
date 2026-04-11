@@ -4,8 +4,10 @@
     {
       "language": "ENGLISH",
       "type": "ADVERB",
-      "meaning": "In an affine manner",
-      "examples": []
+      "meaning": "In an affine manner.",
+      "examples": [
+        "The coordinates were transformed affinely."
+      ]
     }
   ]
 }

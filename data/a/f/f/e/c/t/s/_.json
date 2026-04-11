@@ -3,15 +3,11 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "plural of affect",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
       "type": "VERB",
-      "meaning": "third-person singular simple present indicative of affect",
-      "examples": []
+      "meaning": "Third-person singular simple present indicative of affect.",
+      "examples": [
+        "The weather affects my mood."
+      ]
     }
   ]
 }

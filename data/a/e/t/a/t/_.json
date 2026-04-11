@@ -3,9 +3,11 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "ADJECTIVE",
-      "meaning": "Aged; at the age of.",
-      "examples": []
+      "type": "ABBREVIATION",
+      "meaning": "Aetatis; aged.",
+      "examples": [
+        "He died aetat 80."
+      ]
     }
   ]
 }

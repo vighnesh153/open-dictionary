@@ -3,9 +3,11 @@
   "meanings": [
     {
       "language": "ENGLISH",
-      "type": "NOUN",
-      "meaning": "plural of a, the name of the letter A.",
-      "examples": []
+      "type": "ABBREVIATION",
+      "meaning": "Advanced Encryption Standard; American Entomological Society.",
+      "examples": [
+        "AES is a widely used encryption method."
+      ]
     }
   ]
 }

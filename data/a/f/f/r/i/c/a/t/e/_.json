@@ -4,14 +4,10 @@
     {
       "language": "ENGLISH",
       "type": "NOUN",
-      "meaning": "A single speech sound produced combining a plosive and a fricative.",
-      "examples": []
-    },
-    {
-      "language": "ENGLISH",
-      "type": "VERB",
-      "meaning": "To produce (a plosive) as an affricate.",
-      "examples": []
+      "meaning": "A speech sound which combines a plosive with a fricative.",
+      "examples": [
+        "The initial sound in 'judge' is a voiced affricate."
+      ]
     }
   ]
 }
