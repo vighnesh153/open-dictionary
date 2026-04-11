@@ -1,0 +1,14 @@
+{
+  "word": "acnode",
+  "meanings": [
+    {
+      "language": "ENGLISH",
+      "type": "NOUN",
+      "meaning": "(geometry) An isolated point that satisfies the equation of a curve, but which has no other points of the curve in its immediate neighborhood.",
+      "examples": [
+        "In the curve defined by y² = x²(x-1), the origin (0,0) is an acnode.",
+        "An acnode occurs where the curve has an isolated solution point."
+      ]
+    }
+  ]
+}
